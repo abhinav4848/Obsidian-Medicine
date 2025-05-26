@@ -47,6 +47,6 @@ Influenza
 5 days from onset of rash: [[Rubella]]
 All lesions crusted over: [[chicken pox]]
 Until symptoms have settled for 48 hours: Diarrhea & vomiting
-Until lesions are crusted and healed, or 48 hours after commencing antibiotic treatment: Impetigo
-Until treated: Scabies
+Until lesions are crusted and healed, or 48 hours after commencing antibiotic treatment: [[Impetigo]]
+Until treated: [[Scabies]]
 Until recovered: Influenza
