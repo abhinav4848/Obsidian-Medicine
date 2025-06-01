@@ -30,5 +30,5 @@ Schober's test #named to assess lumbar spine mobility. <5cm is problem.
 - Chest x-ray: apical fibrosis -> Spirometry shows restrictive changes.
 # Treatment
 - Exercise & NSAID,
-- Anti-TNF. (Mx of Churg-Strauss is Steroids)
+- Anti-TNF. (Mx of [[Churg-Strauss]] is Steroids)
 - Methotrexate, Sulphasalazine are disease modifiers which are useful only if peripheral involvement exists. Not if only axial symptoms.

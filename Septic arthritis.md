@@ -9,7 +9,7 @@ h/o prior joint damage -> RA, Gout, Osteoarthritis.
 # Clinical features
 Monoarthritis, 
 **Triad**: #triad
-	• Fever (not seen in reactive arthritis),.
+	• Fever (not seen in reactive arthritis), may even not be seen if they've had paracetamol. 
 	• Acute, hot, painful joint.
 	• Restricted joint movement
 
