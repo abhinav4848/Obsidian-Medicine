@@ -13,14 +13,14 @@ Age < 3yo
 # Clinical Features
 [[Limping Child|Limping]], painless leg that is shorter than the other. Unequal skin folds.
 ### Exam:
-Barlow #name: attempt to dislocate an articulated femoral head
-Ortolani #name: relocate a dislocated femoral head.
+Barlow #named : attempt to dislocate an articulated femoral head
+Ortolani #named : relocate a dislocated femoral head.
 # Investigation
 Confirm with USG.
 USG up to 4.5 months cuz hips are cartilaginous.
 Xray only after 4.5 months.
 # Management
 Most unstable hips will spontaneously stabilize by 3-6 weeks.
-Pavlik harness #name(dynamic flexion abduction orthosis) in children <4-6 months
+Pavlik harness #named(dynamic flexion abduction orthosis) in children <4-6 months
 
 Other children: Surgery.

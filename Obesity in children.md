@@ -10,6 +10,6 @@ Cause of obesity in children
 - Prader-Willi syndrome
 
 Consequences of obesity in children  
-- Orthopedic problems: [[Slipped upper femoral epiphyses]], Blount's disease (a development abnormality of the tibia resulting in bowing of the legs), musculoskeletal pains
+- Orthopedic problems: [[Slipped upper femoral epiphysis]], Blount's disease (a development abnormality of the tibia resulting in bowing of the legs), musculoskeletal pains
 - Sleep apnea
 - Benign intracranial hypertension
