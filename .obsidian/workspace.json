@@ -8,31 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c19c4e8b20749da6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Development dysplasia of the hip.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Development dysplasia of the hip"
-            }
-          },
-          {
             "id": "c73b5fac62a05610",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Limping Child.md",
+                "file": "Slipped upper femoral epiphysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Limping Child"
+              "title": "Slipped upper femoral epiphysis"
+            }
+          },
+          {
+            "id": "4e36d01e5747c8cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "genetic anticipation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "genetic anticipation"
+            }
+          },
+          {
+            "id": "8d3e0fcb3de45a99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ophthalmia neonatorum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ophthalmia neonatorum"
             }
           },
           {
@@ -61,7 +75,8 @@
               "title": "Knee Orthopedic pathologies"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,8 +129,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development dysplasia of the hip.md",
+                "file": "ophthalmia neonatorum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Development dysplasia of the hip"
+              "title": "Backlinks for ophthalmia neonatorum"
             }
           },
           {
@@ -154,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development dysplasia of the hip.md",
+                "file": "ophthalmia neonatorum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Development dysplasia of the hip"
+              "title": "Outgoing links from ophthalmia neonatorum"
             }
           },
           {
@@ -233,8 +247,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c19c4e8b20749da6",
+  "active": "8d3e0fcb3de45a99",
   "lastOpenFiles": [
+    "genetic anticipation.md",
+    "ophthalmia neonatorum.md",
+    "Slipped upper femoral epiphysis.md",
     "Limping Child.md",
     "Development dysplasia of the hip.md",
     "Corticosteroid.md",
@@ -252,7 +269,6 @@
     "Baker's cyst.md",
     "attachments/Knee Orthopedic pathologies.png",
     "Trochanteric Bursitis.md",
-    "Slipped upper femoral epiphysis.md",
     "Slipped upper femoral epiphyses.md",
     "Obesity in children.md",
     "Legg-Calve-Perthe's disease.md",
@@ -260,8 +276,6 @@
     "febrile children.md",
     "sepsis in children.md",
     "Abnormal airway sounds.md",
-    "Septic arthritis.md",
-    "Reactive arthritis.md",
     "desktop.ini",
     "Chicken Pox treatment flowchart (Work in progress).canvas",
     "attachments/Eczema Herpeticum 2.png",
