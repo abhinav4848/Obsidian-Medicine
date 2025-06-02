@@ -1,35 +1,35 @@
 # Hip
 |           |                                                                                                   |
 | --------- | ------------------------------------------------------------------------------------------------- |
-| < 3 years | [[Developmental dysplasia of the hip\|DDH]], Spiral injury                                          |
+| < 3 years | [[Developmental dysplasia of the hip\|DDH]], Spiral injury                                        |
 | 3-9 years | Acute (<48 hrs.): [[Transient synovitis]]  <br>Chronic: [[Legg-Calve-Perthe's disease\|Perthe's]] |
 | > 9 years | [[Slipped upper femoral epiphysis\|SUFE]]                                                         |
 *[[Legg-Calve-Perthe's disease|Perthe's]] = Primary school*
 *[[Slipped upper femoral epiphysis|SUFE]] = Secondary school*
 
-[[Developmental dysplasia of the hip|DDH]]
-Fracture Neck of Femur
-[[Hip dislocation]]
-[[Juvenile idiopathic arthritis]]
-Meralgia Paresthetica
-[[Legg-Calve-Perthe's disease|Perthe's Disease]]
-[[Slipped upper femoral epiphysis]]
-[[Transient synovitis]]
-[[Trochanteric Bursitis]]
+1. [[Developmental dysplasia of the hip|DDH]]
+2. Fracture Neck of Femur
+3. [[Hip dislocation]]
+4. [[Juvenile idiopathic arthritis]]
+5. [[Meralgia Paresthetica]]
+6. [[Legg-Calve-Perthe's disease|Perthe's Disease]]
+7. [[Slipped upper femoral epiphysis]]
+8. [[Transient synovitis]]
+9. [[Trochanteric Bursitis]]
 
-see [[paeds orthopedics differences- ddh, perthe's, sufe]]
+see [[Paeds orthopedics differences- ddh, perthe's, sufe]]
 
 # Knee
 ![[Knee Orthopedic pathologies.png]]
-[[Baker's cyst]]
-[[Chondromalacia patellae]]
-[[Housemaid knee]]
-[[Iliotibial band syndrome]]
-[[Osgood-Schlatter]]
-[[Osteochondritis dissecans]]
-[[Patellar subluxation]]
-[[Patellar tendonitis]]
-[[Growing pains]]
+1. [[Baker's cyst]]
+2. [[Chondromalacia patellae]]
+3. [[Housemaid knee]]
+4. [[Iliotibial band syndrome]]
+5. [[Osgood-Schlatter]]
+6. [[Osteochondritis dissecans]]
+7. [[Patellar subluxation]]
+8. [[Patellar tendonitis]]
+9. [[Growing pains]]
 
 # Knee Ligaments
 |                   |                                                                                                                                                                                                                                                                                                    |

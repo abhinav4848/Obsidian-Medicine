@@ -27,12 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paeds orthopedics differences- ddh, perthe's, sufe.md",
+                "file": "Lower limb orthopedic problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "paeds orthopedics differences- ddh, perthe's, sufe"
+              "title": "Lower limb orthopedic problems"
+            }
+          },
+          {
+            "id": "25dee366f0e8e2d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chondromalacia patellae.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chondromalacia patellae"
+            }
+          },
+          {
+            "id": "3d1f55c18272779b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chondromalacia patellae.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chondromalacia patellae"
             }
           }
         ],
@@ -109,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paeds orthopedics differences- ddh, perthe's, sufe.md",
+                "file": "Lower limb orthopedic problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for paeds orthopedics differences- ddh, perthe's, sufe"
+              "title": "Backlinks for Lower limb orthopedic problems"
             }
           },
           {
@@ -128,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paeds orthopedics differences- ddh, perthe's, sufe.md",
+                "file": "Lower limb orthopedic problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from paeds orthopedics differences- ddh, perthe's, sufe"
+              "title": "Outgoing links from Lower limb orthopedic problems"
             }
           },
           {
@@ -209,8 +237,11 @@
   },
   "active": "a83ff54041b7357b",
   "lastOpenFiles": [
+    "Chondromalacia patellae.md",
     "Lower limb orthopedic problems.md",
-    "paeds orthopedics differences- ddh, perthe's, sufe.md",
+    "Paeds orthopedics differences- ddh, perthe's, sufe.md",
+    "Meralgia Paresthetica.md",
+    "Juvenile idiopathic arthritis.md",
     "Legg-Calve-Perthe's disease.md",
     "Slipped upper femoral epiphysis.md",
     "attachments/SUFE.png",
@@ -228,15 +259,12 @@
     "Osteochondritis dissecans.md",
     "Hip dislocation.md",
     "Ciprofloxacin.md",
-    "Chondromalacia patellae.md",
     "Housemaid knee.md",
     "Iliotibial band syndrome.md",
     "Osgood-Schlatter.md",
     "Patellar tendonitis.md",
     "Patellar subluxation.md",
     "Baker's cyst.md",
-    "Trochanteric Bursitis.md",
-    "Slipped upper femoral epiphyses.md",
     "desktop.ini",
     "Chicken Pox treatment flowchart (Work in progress).canvas",
     "attachments/Eczema Herpeticum 2.png",
