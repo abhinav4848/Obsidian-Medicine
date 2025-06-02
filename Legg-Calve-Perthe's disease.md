@@ -5,7 +5,7 @@ aliases:
 ---
 Degenerative condition of hip joints in [[Limping Child|children]] aged 3 - 9 years. (more common in boys & 10% cases are b/l)
 
-Due to avascular necrosis of femur epiphysis.
+Leads to avascular necrosis of femur epiphysis.
 Chronic disease.
 # clinical features
 Chronic pain: Hip & groin pain, progresses over weeks, months.
@@ -23,4 +23,8 @@ Stiffness, decreased range of hip movement (as loss of head surface)- *limited i
 - Radiolucency of proximal metaphysis.
 
 # Treatment
-Conservative
+Conservative. Over time, the blood supply to the head of the femur returns and the bone begins to grow back.
+
+# Refences
+1. https://gpnotebook.com/en-GB/pages/orthopaedics/perthes-disease
+2. 

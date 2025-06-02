@@ -1,13 +1,13 @@
 # Hip
 |           |                                                                                                   |
 | --------- | ------------------------------------------------------------------------------------------------- |
-| < 3 years | [[Development dysplasia of the hip\|DDH]], Spiral injury                                          |
+| < 3 years | [[Developmental dysplasia of the hip\|DDH]], Spiral injury                                          |
 | 3-9 years | Acute (<48 hrs.): [[Transient synovitis]]  <br>Chronic: [[Legg-Calve-Perthe's disease\|Perthe's]] |
 | > 9 years | [[Slipped upper femoral epiphysis\|SUFE]]                                                         |
-[[Legg-Calve-Perthe's disease|Perthe's]] = Primary school
-[[Slipped upper femoral epiphysis|SUFE]] = Secondary school
+*[[Legg-Calve-Perthe's disease|Perthe's]] = Primary school*
+*[[Slipped upper femoral epiphysis|SUFE]] = Secondary school*
 
-[[Development dysplasia of the hip|DDH]]
+[[Developmental dysplasia of the hip|DDH]]
 Fracture Neck of Femur
 [[Hip dislocation]]
 [[Juvenile idiopathic arthritis]]
@@ -16,6 +16,8 @@ Meralgia Paresthetica
 [[Slipped upper femoral epiphysis]]
 [[Transient synovitis]]
 [[Trochanteric Bursitis]]
+
+see [[paeds orthopedics differences- ddh, perthe's, sufe]]
 
 # Knee
 ![[Knee Orthopedic pathologies.png]]
