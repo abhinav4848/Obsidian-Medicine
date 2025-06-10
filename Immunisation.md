@@ -1,23 +1,20 @@
 ---
 aliases:
   - vaccination
+tags:
+  - paeds
 ---
 ## Contraindication
-General contraindications to immunisation  
+#### General contraindications to immunization
 - confirmed anaphylactic reaction to a previous dose of a vaccine containing the same antigens
 - confirmed anaphylactic reaction to another component contained in the relevant vaccine (e.g. egg protein)
-
-  
-Situations where vaccines should be delayed  
+#### Situations where vaccines should be delayed  
 - febrile illness/intercurrent infection
-  
-Contraindications to live vaccines  
+#### Contraindications to live vaccines  
 - pregnancy
 - immunosuppression
-
-Specific vaccines  
+#### Specific vaccines
 - DTP: vaccination should be deferred in children with an evolving or unstable neurological condition
-
 ## Not contraindications to immunization  
 - asthma or eczema
 - history of seizures (if associated with fever then advice should be given regarding antipyretics)
