@@ -3,6 +3,7 @@ tags:
   - pharmacology
   - abx
 ---
+It's a Quinolone.
 # Use in
 - Cipro used for acute prostatitis.
 - Can give in [[Gonorrhoea]].
