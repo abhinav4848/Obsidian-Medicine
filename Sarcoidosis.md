@@ -12,12 +12,12 @@ Dry cough, dyspnea, basal rales on auscultation, pulmonary fibrosis
 - **Mikulicz**: (*licks* #mnemonic ) Symmetrical Parotid & Lacrimal gland enlargement (narrowing of palpebral fissures), Dry mouth, Face swelling. (Due to sarcoidosis, TB, Lymphoma)
 - **Heerfordt** (uveo-parotid fever): Parotid enlargement, Fever, Uveitis (due to sarcoid)
 
-[[Sjogren]] will always have something related to dry eyes, dry mouth.
+[[Sjogren's syndrome]] will always have something related to dry eyes, dry mouth.
 # Investigation:
 - ACE elevated
 - LFT abnormal, 
 - Pulmonary function test: Restrictive, 
 - [[Hypercalcemia]], 
 - Urea & Electrolytes for Acute Kidney injury due to Hypercalcemia.
-# Rx: 
+# Treatment
 Steroids #steroids 

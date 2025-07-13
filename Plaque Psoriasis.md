@@ -19,7 +19,7 @@ ACE inhibitor, Alcohol, Anti-malarial (HCQ), Beta blocker, Infliximab, Lithium, 
 - Itchy, scale, elevated, well demarcated, erythematous.
 - On extensor surface (elbow, knees) & scalp (eczema on flexures). 
 - Auspitz's sign: Punctate bleeding when scales are scraped off. 
-- New lesion at site of injury: Koebner's phenomenon.
+- New lesion at site of injury: [[Koebner's phenomenon]].
 - Nail changes: Pitting/Onycholysis.
 
 Based on shape: Plaque, [[Guttate psoriasis]] (oil drop)

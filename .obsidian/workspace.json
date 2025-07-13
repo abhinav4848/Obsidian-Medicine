@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sjogren.md",
+                "file": "Inflammatory Bowel Disease.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sjogren"
+              "title": "Inflammatory Bowel Disease"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sjogren.md",
+                "file": "Inflammatory Bowel Disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sjogren"
+              "title": "Backlinks for Inflammatory Bowel Disease"
             }
           },
           {
@@ -190,7 +190,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -209,11 +210,17 @@
   },
   "active": "3aa4759dd8a8be78",
   "lastOpenFiles": [
-    "Sarcoidosis.md",
-    "Sjogren.md",
-    "hypercalcemia.md",
     "Erythema nodosum.md",
+    "Shin lesions.md",
+    "keratoderma blennorrhagica.md",
+    "Koebner's phenomenon.md",
+    "Plaque Psoriasis.md",
+    "Lichen Planus.md",
     "Inflammatory Bowel Disease.md",
+    "Behcet's disease.md",
+    "Sarcoidosis.md",
+    "Sjogren's syndrome.md",
+    "hypercalcemia.md",
     "Episcleritis.md",
     "Irritable bowel syndrome.md",
     "Citalopram.md",
@@ -229,13 +236,7 @@
     "Alcohol.md",
     "Pulses.md",
     "attachments/Pulsus bigeminy.png",
-    "Lichen Planus.md",
     "Lichens.md",
-    "Guthrie test.md",
-    "Immunisation.md",
-    "Seborrhoeic dermatitis.md",
-    "Learning difficulty.md",
-    "Sickle cell.md",
     "desktop.ini",
     "attachments/SUFE.png",
     "attachments/Knee Orthopedic pathologies.png",

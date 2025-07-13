@@ -17,7 +17,7 @@ Seen on palm, soles, genitalia, flexor aspect of arms.
 2. LP: Lacy pattern (Wickham striae) #named  on the surface of buccal mucosa & skin.
 3. **Nail**: thinning of nail plate, Longitudinal grooving, scarring (& scarring [[alopecia]]), pterygium formation is common.
 
-Koebner phenomenon #named 
+[[Koebner's phenomenon]] #named 
 
 Eg: *Healthcare worker in elderly home (not always scabies) has itchy, scaly, shiny rash on wrist & fine white streaks overlying the lesion. Nails have ridges & are thickened in the middle. Buccal mucosa has lacy white pattern.*
 
