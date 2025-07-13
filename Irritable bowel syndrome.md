@@ -1,0 +1,19 @@
+---
+aliases:
+  - IBS
+tags:
+  - gastro
+---
+Young age, female more common, abdominal bloating and pain, change in bowel habits (diarrhea/constipation), mucus in stool, tenesmus.
+
+Symptoms worse during eating, associated with stress, and during perimenstrual period.
+Relieved by defecation and passage of mucus are also part of the diagnostic criteria.
+## Advice
+Diet low in fermentable oligo/di/mono saccharides, and polyols (FODMAP)
+Increased water intake.
+Avoid trigger foods.
+### Pharmacological
+**Antispasmodic**: Mebeverine, peppermint oil
+**Antidiarrhoeals**: Loperamide
+**Constipation**: Bulk forming laxative (Ispaghula husk, methylcellulose)
+**Antidepressants** for abdo pain: TCA (Amitriptyline), SSRI (Fluoxetine, [[Citalopram]]).

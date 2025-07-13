@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inflammatory Bowel Disease.md",
+                "file": "Sjogren.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inflammatory Bowel Disease"
+              "title": "Sjogren"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inflammatory Bowel Disease.md",
+                "file": "Sjogren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Inflammatory Bowel Disease"
+              "title": "Backlinks for Sjogren"
             }
           },
           {
@@ -209,34 +209,35 @@
   },
   "active": "3aa4759dd8a8be78",
   "lastOpenFiles": [
-    "Guthrie test.md",
+    "Sarcoidosis.md",
+    "Sjogren.md",
+    "hypercalcemia.md",
+    "Erythema nodosum.md",
     "Inflammatory Bowel Disease.md",
+    "Episcleritis.md",
+    "Irritable bowel syndrome.md",
+    "Citalopram.md",
+    "QT prolongation.md",
+    "Quinine.md",
+    "Drug induced thrombocytopenia.md",
+    "Disulfiram.md",
+    "Metronidazole.md",
+    "Lithium.md",
+    "Congenital Cyanotic diseases of Heart.md",
+    "diarrhea.md",
+    "Anti-Glycemic Drugs.md",
+    "Alcohol.md",
+    "Pulses.md",
+    "attachments/Pulsus bigeminy.png",
+    "Lichen Planus.md",
+    "Lichens.md",
+    "Guthrie test.md",
     "Immunisation.md",
     "Seborrhoeic dermatitis.md",
     "Learning difficulty.md",
     "Sickle cell.md",
-    "Cystic Fibrosis.md",
-    "pseudomonas.md",
-    "Pneumonia.md",
-    "Amantadine.md",
-    "Co-trimoxazole.md",
-    "Autoimmune hemolytic anemia.md",
-    "Haemophilus influenzae.md",
-    "Ciprofloxacin.md",
-    "nappy rash.md",
-    "cradle cap.md",
-    "Lower limb orthopedic problems.md",
     "desktop.ini",
-    "Chondromalacia patellae.md",
-    "Paeds orthopedics differences- ddh, perthe's, sufe.md",
-    "Meralgia Paresthetica.md",
-    "Juvenile idiopathic arthritis.md",
-    "Legg-Calve-Perthe's disease.md",
-    "Slipped upper femoral epiphysis.md",
     "attachments/SUFE.png",
-    "Developmental dysplasia of the hip.md",
-    "Limping Child.md",
-    "Childhood syndromes.md",
     "attachments/Knee Orthopedic pathologies.png",
     "Chicken Pox treatment flowchart (Work in progress).canvas",
     "attachments/Eczema Herpeticum 2.png",
