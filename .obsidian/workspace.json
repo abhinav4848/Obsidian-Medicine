@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inflammatory bowel disease.md",
+                "file": "Azathioprine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "inflammatory bowel disease"
+              "title": "Azathioprine"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inflammatory bowel disease.md",
+                "file": "Azathioprine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for inflammatory bowel disease"
+              "title": "Backlinks for Azathioprine"
             }
           },
           {
@@ -195,21 +195,24 @@
   },
   "active": "b21f8b5fc123b8e9",
   "lastOpenFiles": [
+    "inflammatory bowel disease.md",
+    "Azathioprine.md",
+    "shin lesions.md",
+    "ankylosing spondylitis.md",
+    "aphthous ulcer.md",
+    "behcet's disease.md",
     "Housekeeping/rules.md",
     "alcohol.md",
-    "inflammatory bowel disease.md",
     "episcleritis.md",
     "Seborrhoeic dermatitis.md",
     "abnormal airway sounds.md",
     "actinic keratosis.md",
     "acute epiglottitis.md",
     "amantadine.md",
-    "ankylosing spondylitis.md",
     "anti-glycemic drugs.md",
     "attention-deficit hyperactive disorder.md",
     "autoimmune hemolytic anemia.md",
     "baker's cyst.md",
-    "behcet's disease.md",
     "bronchiolitis (lrti).md",
     "chicken pox treatment flowchart (work in progress).canvas",
     "childhood syndromes.md",
@@ -219,9 +222,6 @@
     "confusion between bullous impetigo and eczema herpeticum.md",
     "congenital cyanotic diseases of heart.md",
     "corticosteroid.md",
-    "co-trimoxazole.md",
-    "croup.md",
-    "cystic fibrosis.md",
     "attachments/Pulsus bigeminy.png",
     "desktop.ini",
     "attachments/SUFE.png",
