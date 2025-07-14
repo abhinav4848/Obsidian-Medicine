@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "40226a3a32fb283b",
+        "id": "b002a7ac854a3d22",
         "type": "tabs",
         "children": [
           {
-            "id": "baf887e4c6ac6335",
+            "id": "b21f8b5fc123b8e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guthrie test.md",
+                "file": "inflammatory bowel disease.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guthrie test"
-            }
-          },
-          {
-            "id": "3aa4759dd8a8be78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inflammatory Bowel Disease.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inflammatory Bowel Disease"
+              "title": "inflammatory bowel disease"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inflammatory Bowel Disease.md",
+                "file": "inflammatory bowel disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Inflammatory Bowel Disease"
+              "title": "Backlinks for inflammatory bowel disease"
             }
           },
           {
@@ -208,35 +193,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3aa4759dd8a8be78",
+  "active": "b21f8b5fc123b8e9",
   "lastOpenFiles": [
-    "Erythema nodosum.md",
-    "Shin lesions.md",
-    "keratoderma blennorrhagica.md",
-    "Koebner's phenomenon.md",
-    "Plaque Psoriasis.md",
-    "Lichen Planus.md",
-    "Inflammatory Bowel Disease.md",
-    "Behcet's disease.md",
-    "Sarcoidosis.md",
-    "Sjogren's syndrome.md",
-    "hypercalcemia.md",
-    "Episcleritis.md",
-    "Irritable bowel syndrome.md",
-    "Citalopram.md",
-    "QT prolongation.md",
-    "Quinine.md",
-    "Drug induced thrombocytopenia.md",
-    "Disulfiram.md",
-    "Metronidazole.md",
-    "Lithium.md",
-    "Congenital Cyanotic diseases of Heart.md",
-    "diarrhea.md",
-    "Anti-Glycemic Drugs.md",
-    "Alcohol.md",
-    "Pulses.md",
+    "episcleritis.md",
+    "inflammatory bowel disease.md",
+    "Seborrhoeic dermatitis.md",
+    "abnormal airway sounds.md",
+    "actinic keratosis.md",
+    "acute epiglottitis.md",
+    "alcohol.md",
+    "amantadine.md",
+    "ankylosing spondylitis.md",
+    "anti-glycemic drugs.md",
+    "attention-deficit hyperactive disorder.md",
+    "autoimmune hemolytic anemia.md",
+    "baker's cyst.md",
+    "behcet's disease.md",
+    "bronchiolitis (lrti).md",
+    "chicken pox treatment flowchart (work in progress).canvas",
+    "childhood syndromes.md",
+    "chondromalacia patellae.md",
+    "ciprofloxacin.md",
+    "citalopram.md",
+    "confusion between bullous impetigo and eczema herpeticum.md",
+    "congenital cyanotic diseases of heart.md",
+    "corticosteroid.md",
+    "co-trimoxazole.md",
+    "croup.md",
+    "cystic fibrosis.md",
+    "developmental dysplasia of the hip.md",
     "attachments/Pulsus bigeminy.png",
-    "Lichens.md",
     "desktop.ini",
     "attachments/SUFE.png",
     "attachments/Knee Orthopedic pathologies.png",
