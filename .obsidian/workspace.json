@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drugs contraindicated in pregnancy.md",
+                "file": "inflammatory bowel disease.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "drugs contraindicated in pregnancy"
+              "title": "inflammatory bowel disease"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drugs contraindicated in pregnancy.md",
+                "file": "inflammatory bowel disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for drugs contraindicated in pregnancy"
+              "title": "Backlinks for inflammatory bowel disease"
             }
           },
           {
@@ -196,13 +195,17 @@
   },
   "active": "b21f8b5fc123b8e9",
   "lastOpenFiles": [
-    "ciprofloxacin.md",
-    "drugs contraindicated in pregnancy.md",
-    "Nitrofurantoin.md",
+    "methotrexate.md",
     "fibrosis.md",
+    "Nitrofurantoin.md",
+    "hepatitis.md",
+    "hepatitis viruses.md",
+    "drugs contraindicated in pregnancy.md",
+    "NASH.md",
+    "desktop.ini",
+    "ciprofloxacin.md",
     "cytotoxic drugs.md",
     "attachments/chemo man.png",
-    "methotrexate.md",
     "inflammatory bowel disease.md",
     "limping child.md",
     "quinine.md",
@@ -220,12 +223,8 @@
     "acute epiglottitis.md",
     "amantadine.md",
     "anti-glycemic drugs.md",
-    "attention-deficit hyperactive disorder.md",
-    "autoimmune hemolytic anemia.md",
-    "baker's cyst.md",
     "chicken pox treatment flowchart (work in progress).canvas",
     "attachments/Pulsus bigeminy.png",
-    "desktop.ini",
     "attachments/SUFE.png",
     "attachments/Knee Orthopedic pathologies.png",
     "Chicken Pox treatment flowchart (Work in progress).canvas",

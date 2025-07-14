@@ -16,7 +16,7 @@ Amiodarone
 [[Cytotoxic drugs]]: Busulphan, Bleomycin
 Anti-RA drugs: [[Methotrexate]], Sulfsalazine, Gold
 [[Nitrofurantoin]] #abx
-Ergot derived dopamine agonists: Bromocriptine, Cabergoline, Pergolide.
+[[parkinson's disease|Ergot derived dopamine agonists]]: Bromocriptine, Cabergoline, Pergolide.
 
 # Investigation
 HRCT for idiopathic pulmonary fibrosis.
