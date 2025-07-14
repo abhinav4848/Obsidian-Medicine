@@ -1,6 +1,7 @@
 ---
 tags:
   - virus
+  - liver
 ---
 See [[hepatitis]] basics here. 
 

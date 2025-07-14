@@ -1,0 +1,14 @@
+---
+tags:
+  - gastro
+  - liver
+---
+The causes of ascites can be grouped into those with a serum-ascites albumin gradient (SAAG) <11 g/L or a gradient >11g/L as per the table below:
+
+| SAAG > 11g/L<br><br>(indicates portal hypertension)                                                                                                                                                                                                                                                                                            | SAAG <11g/L                                                                                                                                                                                                                                                                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Liver disorders are the most common cause**<br>- [[cirrhosis]]/alcoholic liver disease<br>- acute liver failure<br>- liver metastases<br><br>**Cardiac**<br>- right heart failure<br>- constrictive pericarditis<br><br>**Other causes**<br>- [[Budd-Chiari syndrome]]<br>- portal vein thrombosis<br>- veno-occlusive disease<br>- myxedema | **Hypoalbuminaemia**<br>- nephrotic syndrome<br>- severe malnutrition (e.g. Kwashiorkor)<br><br>**Malignancy**<br>- peritoneal carcinomatosis<br><br>**Infections**<br>- tuberculous peritonitis<br><br>**Other causes**<br>- pancreatitis<br>- bowel obstruction<br>- biliary ascites<br>- postoperative lymphatic leak<br>- serositis in connective tissue diseases |
+
+Prophylactic antibiotics to reduce the risk of SBP (spontaneous bacterial peritonitis). NICE recommend: 'Offer prophylactic Quinolone: Oral [[ciprofloxacin]] #abx or norfloxacin for people with cirrhosis and ascites with an ascitic protein of 15 g/liter or less, until the ascites has resolved'.
+
+Quinolones are also used for [[upper GI bleed|UGIB]] in [[cirrhosis]] patients.

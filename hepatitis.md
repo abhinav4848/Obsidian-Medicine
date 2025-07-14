@@ -1,6 +1,7 @@
 ---
 tags:
   - gastro
+  - liver
 ---
 # [[Alcohol]]ic
 **Acute case** -> Look for GGT.
