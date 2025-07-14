@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azathioprine.md",
+                "file": "inflammatory bowel disease.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Azathioprine"
+              "title": "inflammatory bowel disease"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azathioprine.md",
+                "file": "inflammatory bowel disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Azathioprine"
+              "title": "Backlinks for inflammatory bowel disease"
             }
           },
           {
@@ -195,8 +195,8 @@
   },
   "active": "b21f8b5fc123b8e9",
   "lastOpenFiles": [
-    "inflammatory bowel disease.md",
     "Azathioprine.md",
+    "inflammatory bowel disease.md",
     "shin lesions.md",
     "ankylosing spondylitis.md",
     "aphthous ulcer.md",
