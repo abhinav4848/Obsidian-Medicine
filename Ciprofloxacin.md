@@ -18,7 +18,7 @@ It's a Quinolone.
 - Can cause [[long qt syndrome|Long QT interval]].
 
 # Contraindications
-- Generally avoided in women who are pregnant or breastfeeding
+- Generally avoided in women who are [[drugs contraindicated in pregnancy|pregnant]] or breastfeeding
 - All Quinolones are contraindicated in Pregnancy.
 - avoid in G6PD
 - In CKD, reduce dose cuz risk of crystalluria.
