@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cirrhosis.md",
+                "file": "ascites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cirrhosis"
+              "title": "ascites"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cirrhosis.md",
+                "file": "ascites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cirrhosis"
+              "title": "Backlinks for ascites"
             }
           },
           {
@@ -210,8 +210,12 @@
   },
   "active": "311a76444772a54d",
   "lastOpenFiles": [
-    "spironolactone.md",
     "cirrhosis.md",
+    "conn's syndrome.md",
+    "addison's disease.md",
+    "steroids.md",
+    "desktop.ini",
+    "spironolactone.md",
     "ascites.md",
     "upper GI bleed.md",
     "hepatitis viruses.md",
@@ -223,7 +227,6 @@
     "inflammatory bowel disease.md",
     "drugs contraindicated in pregnancy.md",
     "NASH.md",
-    "desktop.ini",
     "ciprofloxacin.md",
     "cytotoxic drugs.md",
     "attachments/chemo man.png",
@@ -235,9 +238,6 @@
     "aphthous ulcer.md",
     "behcet's disease.md",
     "Housekeeping/rules.md",
-    "episcleritis.md",
-    "Seborrhoeic dermatitis.md",
-    "abnormal airway sounds.md",
     "chicken pox treatment flowchart (work in progress).canvas",
     "attachments/Pulsus bigeminy.png",
     "attachments/SUFE.png",
