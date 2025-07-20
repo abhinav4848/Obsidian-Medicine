@@ -19,7 +19,7 @@ Seen on palm, soles, genitalia, flexor aspect of arms.
 
 [[Koebner's phenomenon]] #named 
 
-Eg: *Healthcare worker in elderly home (not always scabies) has itchy, scaly, shiny rash on wrist & fine white streaks overlying the lesion. Nails have ridges & are thickened in the middle. Buccal mucosa has lacy white pattern.*
+E.g.: *Healthcare worker in elderly home (not always scabies) has itchy, scaly, shiny rash on wrist & fine white streaks overlying the lesion. Nails have ridges & are thickened in the middle. Buccal mucosa has lacy white pattern.*
 
 ## Differentials
 It must be differentiated from lichenoid drug eruptions caused by anti hypertensives and anti malarial drugs.

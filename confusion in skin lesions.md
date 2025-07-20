@@ -8,7 +8,7 @@ tags:
 **Extensors**: Psoriasis, urticaria, Dermatitis herpetiformis ([[coeliac disease]])
 
 # Drugs
-Benzoyl peroxide in Acne, H2O2 in impetigo
+Benzoyl peroxide in Acne, H2O2 in [[impetigo]]
 
 # Symptoms
 Perioral fluid filled vesicles: 

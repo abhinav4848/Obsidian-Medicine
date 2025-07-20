@@ -2,6 +2,8 @@
 tags:
   - gastro
   - autoimmune
+aliases:
+  - celiac disease
 ---
 Inability to tolerate gliadin, the alcohol soluble fraction of gluten.
 # Clinical Features

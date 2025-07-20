@@ -13,72 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "primary sclerosing cholangitis.md",
+                "file": "cancer- screening programs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "primary sclerosing cholangitis"
+              "title": "cancer- screening programs"
             }
           },
           {
-            "id": "27680e36092eb060",
+            "id": "72e9f51c282fa954",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "acute pancreatitis.md",
+                "file": "hemorrhoids.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "acute pancreatitis"
+              "title": "hemorrhoids"
             }
           },
           {
-            "id": "3db13f448fe6945d",
+            "id": "a79df726882bce5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conn's syndrome.md",
+                "file": "cancer- screening programs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conn's syndrome"
-            }
-          },
-          {
-            "id": "205683cddf997b29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cancer- colorectal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "cancer- colorectal"
-            }
-          },
-          {
-            "id": "390a160c6fdb16dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "coeliac disease.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "coeliac disease"
+              "title": "cancer- screening programs"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -250,35 +222,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "390a160c6fdb16dc",
+  "active": "a79df726882bce5d",
   "lastOpenFiles": [
+    "anal fissure.md",
+    "cancer- screening programs.md",
+    "hemorrhoids.md",
+    "housemaid knee.md",
+    "rectal prolapse.md",
+    "cancer- colorectal.md",
+    "tumor markers.md",
+    "primary sclerosing cholangitis.md",
+    "coeliac disease.md",
+    "acute pancreatitis.md",
+    "conn's syndrome.md",
     "confusion in skin lesions.md",
+    "cancer- skin.md",
+    "lichen planus.md",
+    "lichens.md",
     "eczema herpeticum.md",
     "impetigo.md",
     "confusion between bullous impetigo and eczema herpeticum.md",
-    "coeliac disease.md",
     "attachments/coeliac disease.png",
     "stunted growth.md",
     "cancer- gastric.md",
-    "cancer- colorectal.md",
-    "cancer screening programs.md",
-    "haemorrhoid.md",
-    "conn's syndrome.md",
     "upper GI bleed.md",
     "pernicious anemia.md",
     "cirrhosis.md",
     "hematemesis.md",
-    "acute pancreatitis.md",
     "hepatitis viruses.md",
-    "primary sclerosing cholangitis.md",
     "hepatitis.md",
-    "ascending cholangitis.md",
-    "citalopram.md",
-    "qt prolongation.md",
-    "ciprofloxacin.md",
-    "quinine.md",
-    "drug induced thrombocytopenia.md",
-    "plaque psoriasis.md",
     "desktop.ini",
     "attachments/chemo man.png",
     "chicken pox treatment flowchart (work in progress).canvas",

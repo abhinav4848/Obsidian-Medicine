@@ -5,17 +5,18 @@ tags:
   - cancer
   - gastro
 ---
-Cecum is most common site. 
-See [[cancer screening programs]]. 
+*See [[cancer- screening programs]].* 
 
+Risk factor for colorectal cancer, prostate cancer: Age > Family history.
 Incidence increases after age 35yo and rises rapidly after age 50, peaking in 70s.
 # Clinical Features
-Rectal bleeding, Change in bowel habit (mostly diarrhoea), occult bleed leading to anaemia, abdo pain, weight loss, malaise
+Rectal bleeding, Change in bowel habit (mostly diarrhoea), occult bleed leading to anaemia, abdo pain, weight loss, malaise. 
 
+Cecum is most common site. 
 # Tests
 - Raised FIT will then be confirmed with colonoscopy.
 - All newly diagnosed patients should have CEA ([[tumor markers]]) for staging & then monitoring after treatment.
-- [[cancer screening programs|FIT]] is also useful for patients with new symptoms who do not meet the 2ww criteria.
+- [[cancer- screening programs|FIT]] is also useful for patients with new symptoms who do not meet the 2ww criteria.
 
 Faecal occult blood test (FOBT) has been replaced by FIT.
 # Criteria for referral to 2WW

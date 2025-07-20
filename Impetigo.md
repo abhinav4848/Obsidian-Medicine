@@ -11,7 +11,6 @@ Honey colored, golden crust typically around mouth.
 
 Bullous means fluid filled blister > 1cm. 
 ## Rx:
----
 ### Non bullous, limited, localized
 H2O2 cream 1% (1st line. Antiseptic)
 Fusidic acid 2% (2nd line) #abx
