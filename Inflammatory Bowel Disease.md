@@ -37,7 +37,7 @@ Fecal calprotectin. (Fecal elastase low in pancreatic insufficiency -> chronic p
 - Gallstones
 - Pyoderma gangrenosum
 - Clubbing
-- [[Primary sclerosing cholangitis]] (PSC)
+- [[primary sclerosing cholangitis]] (PSC)
 	- Primary sclerosing cholangitis is much more common in UC
 ## Differences
 
