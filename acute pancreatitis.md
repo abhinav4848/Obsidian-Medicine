@@ -34,7 +34,7 @@ Usually due to alcohol or gallstones. Can be due to ERCP.
 - Periumbilical discolouration (Cullen's sign) and flank discolouration (Grey-Turner's sign) is described but rare
 ## Investigation  
 Do Amylase, Lipase, CT.
-Lipase > Amylase
+Lipase > Amylase 
 
 Serum Calcium is used as part of the Glasgow score #named  in acute pancreatitis, in which low calcium is one of the scoring criteria. 
 

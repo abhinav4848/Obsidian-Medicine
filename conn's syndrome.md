@@ -6,10 +6,10 @@ aliases:
 url: https://www.youtube.com/watch?v=oSqLwPv8bb4
 ---
 # Primary Hyperaldosteronism
-**Hypokalemia** (might be normoK)-> Cuz aldosterone causes Na absorption & H+/K+ excretion.
+**Hypokalaemia** (might be normoK)-> Cuz aldosterone causes Na absorption & H+/K+ excretion.
 **Hypertension** (might be normal Na+ or upper normal).
 
-- **Hypokalemia**: Muscle weakness.
+- **Hypokalaemia**: Muscle weakness.
 - Refractory HTN despite >=3 drugs
 - HTN before 40yo.
 - Other manifestations like: Weakness, Lethargy, Headache.
