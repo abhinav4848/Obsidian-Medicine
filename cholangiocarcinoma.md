@@ -20,4 +20,4 @@ RUQ pain differentiates Cholangiocarcinoma from Pancreatic cancer as their LFT i
 # Investigation
 USS- either an intrahepatic or perihilar mass lesion,
 Labs- Cholestatic picture of LFT. 
-*differentiate with [[cancer-pancreas|pancreatic cancer]].* 
+*differentiate with [[cancer- pancreas|pancreatic cancer]].* 

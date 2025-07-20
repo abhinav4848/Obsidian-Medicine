@@ -13,6 +13,6 @@ All tumor markers beginning with CA are monoclonal antibodies.
 | Medullary carcinoma thyroid            | Calcitonin.<br><br>The cancer originates from the parafollicular cells, which produce calcitonin.                         |
 | Melanoma, Schwannoma                   | S-100                                                                                                                     |
 | Ovarian                                | CA-125                                                                                                                    |
-| [[cancer-pancreas\|pancreatic cancer]] | CA19-9<br><br>Non-specific but helps assess prognosis                                                                     |
+| [[cancer- pancreas\|pancreatic cancer]] | CA19-9<br><br>Non-specific but helps assess prognosis                                                                     |
 | Prostate                               | PSA                                                                                                                       |
 | Seminoma                               | LDH  <br> <br>Most common testicular tumor. Large cell with clear cytoplasm & central nuclei which resemble spermatogonia |

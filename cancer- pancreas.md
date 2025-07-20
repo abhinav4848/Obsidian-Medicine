@@ -7,10 +7,11 @@ aliases:
   - pancreatic head adenocarcinoma
 ---
 # Risk Factor
-Smoking, DM, Chronic pancreatitis, age, HNPCC, BRCA2, MEN
+Smoking, DM, Chronic pancreatitis, age, HNPCC, BRCA2, MEN, KRAS
+*(alcohol is not an independent risk factor)*
 
 # Clinical Features
-- Painless jaundice, 
+- Painless jaundice (there can be epigastric pain radiating to back and worse on lying flat or after eating), 
 - Weight loss, 
 - anorexia, 
 - epigastric pain, 
@@ -33,3 +34,6 @@ Smoking, DM, Chronic pancreatitis, age, HNPCC, BRCA2, MEN
 
 # Treatment
 Whipple's resection (pancreaticoduodenectomy) is performed for resectable lesions in the head of pancreas. Side-effects of a Whipple's include dumping syndrome and peptic ulcer disease.
+
+Less than 20% are suitable for surgery at time of diagnosis. 
+ERCP for stenting for palliation. 

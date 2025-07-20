@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,10 +195,12 @@
   },
   "active": "37bc24cecb5357d1",
   "lastOpenFiles": [
+    "cancer- colorectal.md",
+    "cancer- pancreas.md",
+    "inflammatory bowel disease.md",
+    "hhv.md",
     "hepatitis viruses.md",
     "ascites.md",
-    "cancer-pancreas.md",
-    "inflammatory bowel disease.md",
     "cholangiocarcinoma.md",
     "upper GI bleed.md",
     "tumor markers.md",
@@ -222,8 +223,6 @@
     "limping child.md",
     "quinine.md",
     "Azathioprine.md",
-    "shin lesions.md",
-    "ankylosing spondylitis.md",
     "chicken pox treatment flowchart (work in progress).canvas",
     "attachments/Pulsus bigeminy.png",
     "attachments/SUFE.png",
