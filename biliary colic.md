@@ -1,0 +1,13 @@
+---
+tags:
+  - gastro
+  - gall_bladder
+---
+Stones/sludge impact cystic duct.
+RUQ Pain is intermittent, intense, dull and lasts 30-90 mins, is sporadic and unpredictable.
+
+Begins abruptly post-prandial (usually after a fatty meal), and subsides gradually.  
+  
+Approx. 20% of biliary colic patients go on to develop acute cholecystitis.
+
+It is sometimes taught that patients are female, forties, fat and fair although this is obviously a generalisation.

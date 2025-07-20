@@ -8,12 +8,12 @@ aliases:
 - amiodarone, sotalol, class 1a antiarrhythmic drugs
 - tricyclic antidepressants, SSRI (esp [[citalopram]])
 - Methadone (Opioid agonist)
-- [[Quinine]]
+- [[quinine]]
 - terfenadine**
 - Macrolides (Erythromycin)
 - Haloperidol (anti-psychotic)
 - Ondanestron
-- Quinolones ([[Ciprofloxacin]]) #abx 
+- Quinolones ([[ciprofloxacin]]) #abx 
 - Azithromycin in COPD treatment
 
 # Other

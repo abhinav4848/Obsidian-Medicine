@@ -3,8 +3,7 @@ tags:
   - gall_bladder
   - gastro
 aliases:
-  - Primary Biliary Cholangitis
-  - Primary Biliary Cirrhosis
+  - primary biliary cholangitis
 ---
 Assoc with [[sjogren's syndrome|Sjogren Syndrome]]
 -> Seen with 1* biliary cirrhosis, and chronic [[hepatitis viruses|hep c]]
@@ -23,3 +22,5 @@ Patient comes with fatigue/lethargy, **pruritus**, no weight loss.
 2. Cholestyramine - for pruritus
 3. Fat soluble vitamin supplementation
 4. Liver transplantation
+---
+*compare against [[primary sclerosing cholangitis]].* 

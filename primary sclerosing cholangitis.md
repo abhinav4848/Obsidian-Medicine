@@ -8,4 +8,7 @@ Associated with [[inflammatory bowel disease|ulcerative colitis]].
 
 ERCP
 # Treatment
-urso-deoxycholic acid, Cholestyramine, liver transplant.
+Urso-deoxycholic acid, Cholestyramine, liver transplant.
+
+---
+*compare against [[primary biliary cirrhosis]]*. 
