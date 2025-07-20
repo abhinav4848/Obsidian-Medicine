@@ -2,6 +2,10 @@
 tags:
   - virus
   - liver
+aliases:
+  - hepatitis A
+  - hepatitis B
+  - hepatitis C
 ---
 See [[hepatitis]] basics here. 
 
