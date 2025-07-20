@@ -26,4 +26,4 @@ Oral erythromycin if pregnant
 Children are for [[School in children with rash|school exclusion]] till lesion crusted, or 48 hrs. after commencing antibiotic.
 
 >[!info]
->See [[Confusion between bullous impetigo and eczema herpeticum]]
+>See [[confusion in skin lesions]]

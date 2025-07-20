@@ -2,4 +2,4 @@
 
 [[Methylphenidate]] for ADHD. 
 
-Low ferritin (IDA) in a stunted growth individual might be sign of malabsorption syndrome like [[Coeliac disease]] which causes failure to thrive.
+Low ferritin (IDA) in a stunted growth individual might be sign of malabsorption syndrome like [[coeliac disease]] which causes failure to thrive.

@@ -11,6 +11,6 @@ iv acyclovir #abx
 If in community, refer urgently to hospital. 
 
 >[!info]
->See [[Confusion between bullous impetigo and eczema herpeticum]]
+>See [[confusion in skin lesions]]
 
 ![[Eczema herpeticum 1.png]]![[Eczema Herpeticum 2.png]]
