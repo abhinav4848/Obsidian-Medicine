@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cancer- screening programs.md",
+                "file": "coeliac disease.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cancer- screening programs"
+              "title": "coeliac disease"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coelia",
+                "query": "ulcerative",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,9 +224,10 @@
   },
   "active": "a79df726882bce5d",
   "lastOpenFiles": [
+    "inflammatory bowel disease.md",
+    "cancer- screening programs.md",
     "desktop.ini",
     "anal fissure.md",
-    "cancer- screening programs.md",
     "hemorrhoids.md",
     "housemaid knee.md",
     "rectal prolapse.md",

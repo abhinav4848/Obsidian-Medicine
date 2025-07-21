@@ -10,6 +10,8 @@ Inability to tolerate gliadin, the alcohol soluble fraction of gluten.
 - Bloating
 - Abdo pain
 - Diarrhoea
+- low B12
+- IDA
 
 Associated with lymphoma, Iron deficiency due to malabsorption, dermatitis herpetiformis (Pruritic vesicles on [[confusion in skin lesions|extensors]]. Give Dapsone), f/h/o autoimmune disease (esp. thyroid).
 
@@ -25,6 +27,18 @@ Some patients have low IgA so for all patients, also do absolute IgA count to ru
 # Associations
 #associated 
 Celiac disease causes T-cell lymphoma.   
+
+# Foods to eat/avoid
+## Eat
+Allow CRP #mnemonic 
+- corn, rice, potatoes
+quinoa
+## Avoid
+Avoid BROW #mnemonic 
+Barley, Rye, Oats, Wheat
+- Rye Bread (contains grain)
+- Oats don't contain gluten but are contaminated by gluten
+couscous
 
 ---
 Note: 
