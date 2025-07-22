@@ -2,11 +2,15 @@
 tags:
   - cancer
   - gastro
+aliases:
+  - gastric cancer
+  - stomach cancer
 ---
+*See referral criteria in patients with [[dyspepsia]].* 
 # Risk Factors:
 - Blood Group A
 - Pernicious anemia
-- H. Pylori infection
+- [[H. Pylori]] infection
 - Smoking
 - Diet
 	- Salt and salt preserved foods
