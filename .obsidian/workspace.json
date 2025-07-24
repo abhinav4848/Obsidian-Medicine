@@ -53,17 +53,14 @@
             "id": "f8ef676ab5015a92",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "h. pylori treatment flowchart.canvas",
-                "viewState": {
-                  "x": -45.5,
-                  "y": 531.473473509554,
-                  "zoom": -0.8204742282754117
-                }
+                "file": "upper GI bleed.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "h. pylori treatment flowchart"
+              "icon": "lucide-file",
+              "title": "upper GI bleed"
             }
           },
           {
@@ -113,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ulcerative",
+                "query": "ugib",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -255,8 +253,8 @@
   },
   "active": "f8ef676ab5015a92",
   "lastOpenFiles": [
-    "h. pylori.md",
     "h. pylori treatment flowchart.canvas",
+    "h. pylori.md",
     "dyspepsia.md",
     "cancer- gastric.md",
     "coeliac disease.md",
