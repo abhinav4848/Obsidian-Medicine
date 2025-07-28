@@ -11,7 +11,7 @@ aliases:
 	- Manometry -> Disorganized contractions. 
 	- **Treatment**: [[calcium channel blockers|CCB]] (Nifedipine), Nitrates.
 
-- **Progressive Motility Dysphagia**: [[achalasia cardia]]/ Scleroderma
+- **Progressive Motility Dysphagia**: [[achalasia cardia]] / [[Scleroderma]]. 
 # Mechanical Disorder: Solids > Liquids
 - Intermittent Mechanical Dysphagia: Oesophageal ring
 - Progressive Mechanical Dysphagia: Peptic Stricture/[[cancer- oesophagus|oesophageal cancer]].

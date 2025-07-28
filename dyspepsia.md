@@ -2,6 +2,7 @@
 tags:
   - gastro
 ---
+Indigestion- general discomfort in upper abdomen, bloating, early satiety, N&V, belching, burning
 # Who to refer 
 ## Urgently
 All patients who've got **dysphagia**  

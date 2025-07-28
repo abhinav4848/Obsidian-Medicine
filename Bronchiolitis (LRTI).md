@@ -14,7 +14,7 @@ Persistent cough, tachypnoea, chest recession
 ## Confusion
 < 2 years: bronchiolitis
  more than 2 years: Asthma
-## Rx:
+## Treatment
 Supportive care even if severe:
 **Humidified O2**,
 NGT if child not feed
