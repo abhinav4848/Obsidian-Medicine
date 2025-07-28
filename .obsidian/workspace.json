@@ -92,6 +92,20 @@
             }
           },
           {
+            "id": "846698593a9adf48",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.nice.org.uk/guidance/ng136/resources/visual-summary-pdf-6899919517",
+                "title": "NG136 Hypertension in adults: Visual summary 23/07/2025",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "NG136 Hypertension in adults: Visual summary 23/07/2025"
+            }
+          },
+          {
             "id": "b543ad783bb886d6",
             "type": "leaf",
             "state": {
@@ -138,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ugib",
+                "query": "ace inhib",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -280,8 +294,10 @@
   },
   "active": "5eef2fd95aa4bf7d",
   "lastOpenFiles": [
-    "calcium channel blockers.md",
+    "hypertension management.canvas",
     "hypertension.md",
+    "ace inhibitors.md",
+    "calcium channel blockers.md",
     "dysphagia & odynophagia.md",
     "oesophagus.md",
     "cancer- oesophagus.md",
@@ -307,8 +323,6 @@
     "conn's syndrome.md",
     "confusion in skin lesions.md",
     "cancer- skin.md",
-    "lichen planus.md",
-    "lichens.md",
     "attachments/chemo man.png",
     "chicken pox treatment flowchart (work in progress).canvas",
     "attachments/Pulsus bigeminy.png",
