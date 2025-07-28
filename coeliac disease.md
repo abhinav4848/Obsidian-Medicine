@@ -5,7 +5,7 @@ tags:
 aliases:
   - celiac disease
 ---
-Inability to tolerate gliadin, the alcohol soluble fraction of gluten.
+Inability to tolerate gliadin, the alcohol soluble fraction of gluten. Repeated exposure leads to villous atrophy which can then cause malabsorption. 
 # Clinical Features
 - Bloating
 - Abdo pain
@@ -13,21 +13,29 @@ Inability to tolerate gliadin, the alcohol soluble fraction of gluten.
 - low B12
 - IDA
 
-Associated with lymphoma, Iron deficiency due to malabsorption, dermatitis herpetiformis (Pruritic vesicles on [[confusion in skin lesions|extensors]]. Give Dapsone), f/h/o autoimmune disease (esp. thyroid).
-
-![[coeliac disease.png]]
-
-# Test for antibody
-tTG (IgA) + Absolute IgA, endomysial IgA, Reticulin IgA, Epithelial membrane antigen.
-
-Don’t do anti-gliadin.
-
-Some patients have low IgA so for all patients, also do absolute IgA count to rule out Celiac with low IgA. If IgA is low but celiac still suspected, do IgG tTG.
-
 # Associations
 #associated 
-Celiac disease causes T-cell lymphoma.   
+1. Coeliac can cause: **T-cell lymphoma**.  #cancer  
+2. Dermatitis Herpetiformis [Dermnetz](https://dermnetnz.org/topics/dermatitis-herpetiformis)(Cutaneous manifestation of coeliac disease. Nothing to do with herpes. It's pruritic vesicles on [[confusion in skin lesions|extensors]]. Give Dapsone) 
+3.  f/h/o Autoimmune disorders (type 1 diabetes mellitus, autoimmune hepatitis, thyroid). 
+4. Iron deficiency due to malabsorption. 
 
+![[coeliac disease- dermatitis herpetiformis.png]]
+
+# Test for antibody
+Eat gluten for at least 6 weeks before being tested. Else Gluten-free diet can result false negative results. This is important because if patient doesn't have coeliac, it'll be quite restrictive to their lifestyle to avoid gluten for no reason.
+
+tTG- IgA (test of choice)
++
+Absolute IgA: Needed to look for selective IgA deficiency, which would give a false-negative coeliac result. Some patients have low IgA so for all patients, also do absolute IgA count to rule out Celiac with low IgA. 
+
+if there is confirmed IgA deficiency but coeliac still suspected, test for: 
+- IgG endomyseal antibodies (EMA), 
+- IgG deamidated gliadin peptide (DGP)
+	- Don’t do just anti-gliadin (IgA or IgG) because antibodies against deamidated gliadin peptides are more immunogenic than native gliadin. 
+- IgG transglutaminase antibodies
+
+Patient would need to do duodenal biopsy for histological confirmation- Gold standard for diagnosis.  
 # Foods to eat/avoid
 ## Eat
 Allow CRP #mnemonic 
