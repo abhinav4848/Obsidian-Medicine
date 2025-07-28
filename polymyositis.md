@@ -2,10 +2,11 @@
 tags:
   - rheumat
 ---
-CK raised (because -itis is inflammation)  
+CK raised (because -itis is inflammation). 
 has weakness. 
 
-**Anti Jo [[antibodies]]**: Polymyositis. #mnemonic: jo goes to gym to build (muscles). And take creatine supplements. (Has high CK)
+**Anti Jo [[antibodies]]**: Polymyositis. 
+#mnemonic: jo goes to gym to build (muscles), and takes creatine supplements. (Has high CK)
 
 | **Name**                                     | Proximal muscle weakness seen? | ESR | CK  |
 | ---------------------------------------- | ------------------------------ | --- | --- |
