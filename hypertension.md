@@ -1,0 +1,6 @@
+---
+tags:
+  - cardio
+aliases:
+  - HTN
+---

@@ -4,18 +4,18 @@ tags:
   - autoimmune
 aliases:
   - celiac disease
+  - gluten sensitive enteropathy
 ---
-Inability to tolerate gliadin, the alcohol soluble fraction of gluten. Repeated exposure leads to villous atrophy which can then cause malabsorption. 
+Inability to tolerate gliadin, the alcohol soluble fraction of gluten that confers viscosity. Repeated exposure leads to villous atrophy -> malabsorption. 
 # Clinical Features
 - Bloating
 - Abdo pain
 - Diarrhoea
 - low B12
 - IDA
-
 # Associations
 #associated 
-1. Coeliac can cause: **T-cell lymphoma**.  #cancer  
+1. Coeliac can cause: **T-cell lymphoma** (as T-cells get activated by gluten exposure).  #cancer  
 2. Dermatitis Herpetiformis [Dermnetz](https://dermnetnz.org/topics/dermatitis-herpetiformis)(Cutaneous manifestation of coeliac disease. Nothing to do with herpes. It's pruritic vesicles on [[confusion in skin lesions|extensors]]. Give Dapsone) 
 3.  f/h/o Autoimmune disorders (type 1 diabetes mellitus, autoimmune hepatitis, thyroid). 
 4. Iron deficiency due to malabsorption. 
@@ -32,10 +32,10 @@ Absolute IgA: Needed to look for selective IgA deficiency, which would give a fa
 if there is confirmed IgA deficiency but coeliac still suspected, test for: 
 - IgG endomyseal antibodies (EMA), 
 - IgG deamidated gliadin peptide (DGP)
-	- Don’t do just anti-gliadin (IgA or IgG) because antibodies against deamidated gliadin peptides are more immunogenic than native gliadin. 
+	- Don’t do just anti-gliadin (IgA or IgG) because antibodies against **deamidated** gliadin peptides are more immunogenic than native gliadin. Gliadin gets deaminated inside intestinal wall by tTG. 
 - IgG transglutaminase antibodies
 
-Patient would need to do duodenal biopsy for histological confirmation- Gold standard for diagnosis.  
+Patient would need to do duodenal biopsy (as coeliac affects duodenum & proximal jejunum) for histological confirmation- Gold standard for diagnosis.  
 # Foods to eat/avoid
 ## Eat
 Allow CRP #mnemonic 

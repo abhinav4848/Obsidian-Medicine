@@ -27,7 +27,7 @@ Faecal occult blood test (FOBT) has been replaced by FIT.
 
 Those outside the 2ww can be considered. 
 
-FOBT should be offered to:
+FIT should be offered to:
 - >= 50 + unexplained weight loss OR abdominal pain
 - < 60 + iron deficiency anaemia OR changes in their bowel habit
 - >= 60 + anaemia even in the absence of iron deficiency
