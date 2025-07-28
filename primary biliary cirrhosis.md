@@ -14,7 +14,7 @@ Patient comes with fatigue/lethargy, **pruritus**, no weight loss.
 ### M rule: 
 #mnemonic 
 • Middle aged female, 
-• Anti-Mitochondrial antibodies, M2 subtype
+• Anti-Mitochondrial [[antibodies]], M2 subtype
 • Raised serum IgM
 
 # Treatment
