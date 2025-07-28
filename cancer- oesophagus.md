@@ -2,7 +2,7 @@
 tags:
   - cancer
 aliases:
-  - oesophageal cancer
+  - Oesophageal cancer
 ---
 # Aetiology
 Adenocarcinoma > SqCC.
