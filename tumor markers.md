@@ -4,7 +4,7 @@ tags:
 aliases:
   - tumour markers
 ---
-All tumor markers beginning with CA are monoclonal antibodies.
+All tumour markers beginning with CA are monoclonal antibodies.
 
 |                                        |                                                                                                                           |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |

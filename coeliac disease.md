@@ -35,7 +35,7 @@ if there is confirmed IgA deficiency but coeliac still suspected, test for:
 	- Don’t do just anti-gliadin (IgA or IgG) because antibodies against **deamidated** gliadin peptides are more immunogenic than native gliadin. Gliadin gets deaminated inside intestinal wall by tTG. 
 - IgG transglutaminase antibodies
 
-Patient would need to do duodenal biopsy (as coeliac affects duodenum & proximal jejunum) for histological confirmation- Gold standard for diagnosis.  
+Patient would need to do duodenal biopsy (as coeliac affects duodenum & proximal jejunum) for histological confirmation- Gold standard for diagnosis. 
 # Foods to eat/avoid
 ## Eat
 Allow CRP #mnemonic 

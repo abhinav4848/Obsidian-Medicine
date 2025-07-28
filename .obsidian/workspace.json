@@ -36,35 +36,7 @@
             }
           },
           {
-            "id": "a79df726882bce5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "coeliac disease.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "coeliac disease"
-            }
-          },
-          {
-            "id": "f8ef676ab5015a92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tumor markers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tumor markers"
-            }
-          },
-          {
-            "id": "7499fab4052b6afa",
+            "id": "5eef2fd95aa4bf7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -75,34 +47,6 @@
               },
               "icon": "lucide-file",
               "title": "oesophagus"
-            }
-          },
-          {
-            "id": "5eef2fd95aa4bf7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hypertension.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hypertension"
-            }
-          },
-          {
-            "id": "846698593a9adf48",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.nice.org.uk/guidance/ng136/resources/visual-summary-pdf-6899919517",
-                "title": "NG136 Hypertension in adults: Visual summary 23/07/2025",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "NG136 Hypertension in adults: Visual summary 23/07/2025"
             }
           },
           {
@@ -120,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -294,20 +238,25 @@
   },
   "active": "5eef2fd95aa4bf7d",
   "lastOpenFiles": [
-    "hypertension management.canvas",
-    "hypertension.md",
-    "ace inhibitors.md",
-    "calcium channel blockers.md",
-    "dysphagia & odynophagia.md",
-    "oesophagus.md",
-    "cancer- oesophagus.md",
+    "dysphagia.md",
     "achalasia cardia.md",
-    "dyspepsia.md",
-    "tumor markers.md",
-    "cancer- colorectal.md",
+    "oesophagus.md",
+    "GORD.md",
+    "cancer- oesophagus.md",
+    "calcium channel blockers.md",
+    "hypertension.md",
+    "hypertension management.canvas",
+    "hemorrhoids.md",
     "coeliac disease.md",
-    "attachments/coeliac disease- dermatitis herpetiformis.png",
     "upper GI bleed.md",
+    "cancer- colorectal.md",
+    "tumor markers.md",
+    "acute epiglottitis.md",
+    "ciprofloxacin.md",
+    "iliotibial band syndrome.md",
+    "ace inhibitors.md",
+    "dyspepsia.md",
+    "attachments/coeliac disease- dermatitis herpetiformis.png",
     "h. pylori treatment flowchart.canvas",
     "h. pylori.md",
     "cancer- gastric.md",
@@ -315,14 +264,10 @@
     "cancer- screening programs.md",
     "desktop.ini",
     "anal fissure.md",
-    "hemorrhoids.md",
     "housemaid knee.md",
     "rectal prolapse.md",
     "primary sclerosing cholangitis.md",
     "acute pancreatitis.md",
-    "conn's syndrome.md",
-    "confusion in skin lesions.md",
-    "cancer- skin.md",
     "attachments/chemo man.png",
     "chicken pox treatment flowchart (work in progress).canvas",
     "attachments/Pulsus bigeminy.png",
