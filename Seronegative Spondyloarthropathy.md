@@ -5,7 +5,7 @@ tags:
 Lack of Rheumatoid factor (seronegative), Axial skeleton involved, HLA B27 associated.
 
 **Eye features**
-1. SLE: Photosensitivity
+1. [[Systemic lupus erythematosis|SLE]]: Photosensitivity
 2. [[Ankylosing spondylitis]]: Anterior [[uveitis]]
 3. [[Reactive arthritis]]: Conjunctivitis.
 # Treatments
