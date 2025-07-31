@@ -3,6 +3,7 @@ tags:
   - hematology
 aliases:
   - sickle cell anemia
+  - sickle cell disease
 ---
 # Sickle Cell
 Admit all people with clinical features of a sickle cell crisis to hospital unless they are:
