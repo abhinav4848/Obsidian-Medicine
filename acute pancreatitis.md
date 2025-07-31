@@ -14,7 +14,7 @@ Usually due to alcohol or gallstones. Can be due to ERCP.
 - Scorpion venom 
 - Hypertriglyceridemia, Hyperchylomicronemia, Hypercalcemia, Hypothermia
 - ERCP 
-- Drugs (azathioprine, Mesalazine*, didanosine, Bendroflumethiazide, furosemide, pentamidine, steroids, sodium valproate)
+- Drugs ([[azathioprine]], Mesalazine*, didanosine, Bendroflumethiazide, furosemide, pentamidine, steroids, sodium valproate)
 
 *pancreatitis is 7 times more common in patients taking Mesalazine than sulfasalazine
 

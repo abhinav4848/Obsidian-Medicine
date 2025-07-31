@@ -60,9 +60,39 @@
               "icon": "lucide-file",
               "title": "dactylitis"
             }
+          },
+          {
+            "id": "adf2f0c0a5a86327",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "felty's syndrome.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "felty's syndrome"
+            }
+          },
+          {
+            "id": "943365c3a965901a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gout.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "gout"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "haema",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,38 +158,20 @@
       {
         "id": "c32654b7ac1c916a",
         "type": "tabs",
+        "dimension": 36.90671031096563,
         "children": [
-          {
-            "id": "639b2a927a3a9294",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "dactylitis.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for dactylitis"
-            }
-          },
           {
             "id": "76e084a2bc339e0c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dactylitis.md",
+                "file": "gout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from dactylitis"
+              "title": "Outgoing links from gout"
             }
           },
           {
@@ -183,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dactylitis.md",
+                "file": "gout.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of dactylitis"
+              "title": "Outline of gout"
             }
           },
           {
@@ -217,7 +229,33 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
+      },
+      {
+        "id": "ba756b466b0b4515",
+        "type": "tabs",
+        "dimension": 63.09328968903437,
+        "children": [
+          {
+            "id": "639b2a927a3a9294",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "gout.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for gout"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -234,10 +272,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4226ee1a407b659",
+  "active": "943365c3a965901a",
   "lastOpenFiles": [
-    "sickle cell.md",
+    "azathioprine.md",
+    "inflammatory bowel disease.md",
+    "acute pancreatitis.md",
+    "gout.md",
+    "Untitled.md",
+    "TB.md",
+    "side effects of CVS drugs.md",
+    "leukemia.md",
+    "cell histology.md",
+    "Myelodysplastic, Myeloproliferative syndrome.md",
+    "felty's syndrome.md",
     "dactylitis.md",
+    "sickle cell.md",
     "psoriasis.md",
     "antibodies.md",
     "haematuria.md",
@@ -252,18 +301,7 @@
     "bisphosphonates.md",
     "primary biliary cirrhosis.md",
     "oesophagus.md",
-    "dysphagia.md",
-    "cancer- oesophagus.md",
-    "achalasia cardia.md",
-    "cancer- screening programs.md",
-    "hemorrhoids.md",
-    "azathioprine.md",
-    "inflammatory bowel disease.md",
-    "bronchiolitis (lrti).md",
-    "cancer- gastric.md",
-    "h. pylori.md",
     "h. pylori treatment flowchart.canvas",
-    "dyspepsia.md",
     "hypertension management.canvas",
     "attachments/coeliac disease- dermatitis herpetiformis.png",
     "attachments/chemo man.png",
