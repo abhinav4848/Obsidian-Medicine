@@ -8,6 +8,7 @@ aliases:
   - hepatitis C
   - viral hepatitis
   - hep B vaccination
+url: https://www.cdc.gov/hepatitis-b/hcp/diagnosis-testing/?CDC_AAref_Val=https://www.cdc.gov/hepatitis/hbv/interpretationOfHepBSerologicResults.htm#cdc_hcp_diagnosis_interpreting-how-to-interpret-test-results
 ---
 See [[hepatitis]] basics here. 
 
@@ -30,19 +31,20 @@ No increased risk for HCC (Hep B has risk for HCC)
 
 ---
 # Hepatitis B 
+^See CDC link above. 
 Can have chronic hepatitis: ground glass hepatocytes on microscopy
 Risk of HCC #important
 ### HBsAg 
 - Surface antigen (HBsAg) is the first marker to appear and responsible for the production of anti-HBs 
-- Normally means acute disease (present for 1-6 months) 
+- Normally means acute disease (present for 1-6 months) and that person is infectious except within 30 days of vaccination when it's transiently raised. 
 
 **If HBsAg is present for > 6 months**
 - Then this means chronic disease
 ### Anti-HBs 
 Means immunity (either by exposure or by immunization)
-It is negative in chronic disease
+It is negative in chronic disease (i.e. disease is still active). 
 ### Anti-HBc 
-Implies previous (or current) infection.
+Implies previous (or current) infection. Not present in vaccine. 
 
 *IgM* anti-HBc
 - Appears during acute or recent hepatitis B infection and is present for about 6 months.
@@ -57,10 +59,10 @@ Response to treatment.
 - Anti-HBs +ve, all others -ve 
 
 **Previous hepatitis B (> 6 months ago), not a carrier:** 
-- Anti-HBc +ve, HBsAg -ve 
+- Anti-HBc IgG +ve, HBsAg -ve 
 
 **Previous hepatitis B, now a carrier:** 
-- Anti-HBc +ve, HBsAg +ve 
+- Anti-HBc IgG +ve, Anti-HBc IgM -ve, HBsAg +ve 
 
 ---
 # Hepatitis C
