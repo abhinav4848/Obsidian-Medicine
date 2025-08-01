@@ -1,10 +1,14 @@
 ---
 aliases:
-  - vaccination
+  - contraindications to immunisation
 tags:
   - paeds
+  - vaccine
 ---
-## Contraindication
+*see [[immunisation schedule (paeds)]] and [[adult vaccination]]*. 
+
+---
+# Contraindications
 #### General contraindications to immunization
 - confirmed anaphylactic reaction to a previous dose of a vaccine containing the same antigens
 - confirmed anaphylactic reaction to another component contained in the relevant vaccine (e.g. egg protein)
@@ -15,7 +19,9 @@ tags:
 - immunosuppression
 #### Specific vaccines
 - DTP: vaccination should be deferred in children with an evolving or unstable neurological condition
-## Not contraindications to immunization  
+
+---
+# Not contraindications to immunization  
 - asthma or eczema
 - history of seizures (if associated with fever then advice should be given regarding antipyretics)
 - breastfed child
