@@ -50,4 +50,4 @@ aliases:
 - Men ACWY
 
 # Other vaccines
-[[adult vaccination]] #vaccine 
+[[immunisation in adults]] #vaccine 

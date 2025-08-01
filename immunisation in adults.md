@@ -5,6 +5,7 @@ tags:
 aliases:
   - Pneumococcal polysaccharide vaccine
   - vaccines
+  - adult vaccination
 ---
 
 | Type                        | Explanation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |

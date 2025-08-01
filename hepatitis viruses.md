@@ -7,6 +7,7 @@ aliases:
   - hepatitis B
   - hepatitis C
   - viral hepatitis
+  - hep B vaccination
 ---
 See [[hepatitis]] basics here. 
 

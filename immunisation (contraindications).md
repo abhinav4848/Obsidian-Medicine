@@ -5,7 +5,7 @@ tags:
   - paeds
   - vaccine
 ---
-*see [[immunisation schedule (paeds)]] and [[adult vaccination]]*. 
+*see [[immunisation schedule (paeds)]] and [[immunisation in adults]]*. 
 
 ---
 # Contraindications
