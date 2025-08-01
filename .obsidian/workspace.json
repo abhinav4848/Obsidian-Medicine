@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diarrhea.md",
+                "file": "inflammatory bowel disease.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "diarrhea"
+              "title": "inflammatory bowel disease"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clostridia.md",
+                "file": "tetanus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "clostridia"
+              "title": "tetanus"
             }
           },
           {
@@ -43,17 +43,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "immunisation schedule (paeds).md",
+                "file": "c. difficile.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "immunisation schedule (paeds)"
+              "title": "c. difficile"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,8 +202,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "immunisation schedule (paeds).md",
-                "collapseAll": false,
+                "file": "inflammatory bowel disease.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -213,7 +212,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for immunisation schedule (paeds)"
+              "title": "Backlinks for inflammatory bowel disease"
             }
           }
         ]
@@ -233,34 +232,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "676efa40181a3294",
+  "active": "75fe08a31b73eaa9",
   "lastOpenFiles": [
+    "diarrhoea.md",
+    "inflammatory bowel disease.md",
+    "roseola infantum.md",
+    "lithium.md",
+    "cytotoxic drugs.md",
+    "gout.md",
+    "coeliac disease.md",
+    "cancer- colorectal.md",
+    "c. difficile.md",
+    "tetanus.md",
+    "clostridia.md",
     "immunisation (contraindications).md",
     "immunisation schedule (paeds).md",
     "adult vaccination.md",
-    "c. difficile.md",
-    "clostridia.md",
-    "tetanus.md",
-    "diarrhea.md",
     "systemic sclerosis.md",
     "systemic lupus erythematosis.md",
     "hypertension.md",
     "oesophagus.md",
-    "gout.md",
     "shin lesions.md",
     "felty's syndrome.md",
     "dactylitis.md",
-    "inflammatory bowel disease.md",
     "Hyperthyroidism.md",
     "TB.md",
     "cell histology.md",
     "seronegative spondyloarthropathy.md",
     "septic arthritis.md",
-    "sarcoidosis.md",
-    "behcet's disease.md",
-    "aphthous ulcer.md",
-    "ankylosing spondylitis.md",
-    "antibodies.md",
     "attachments/rheumatoid arthritis hand changes.png",
     "desktop.ini",
     "h. pylori treatment flowchart.canvas",

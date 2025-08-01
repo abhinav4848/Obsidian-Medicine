@@ -3,6 +3,7 @@ tags:
   - infection
 aliases:
   - Pseudomembranous colitis
+  - Clostridioides difficile
 ---
 
 [[clostridia|Clostridium]] difficile causes Pseudomembranous colitis. 

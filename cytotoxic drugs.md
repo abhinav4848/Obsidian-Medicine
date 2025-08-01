@@ -16,4 +16,4 @@ Vinblastine blasts the marrow #mnemonic
 **Vincristine** for childhood cancers: Marrow sparing - Ewing, Wilms, ALL, HL
 
 **Capecitabine** becomes fluorouracil in body. Used for breast cancer and colorectal cancer.
-	-> Causes diarrhea. Control with loperamide. If not controlled, stop capecitabine
+	-> Causes [[diarrhoea]]. Control with loperamide. If not controlled, stop capecitabine

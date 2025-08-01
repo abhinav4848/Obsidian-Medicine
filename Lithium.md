@@ -2,17 +2,17 @@
 tags:
   - pharmacology
 ---
-Toxicity can be caused by DAMN (not to be confused with DAMN in [[diarrhea]])
+Toxicity can be caused by DAMN (not to be confused with DAMN in [[diarrhoea|diarrhoea]]) #mnemonic 
 - Diuretics (Thiazides), 
-- ACEi/ARB, 
+- [[ace inhibitors|ACE inhibitor]]/ARB, 
 - [[Metronidazole]], 
 - NSAIDs -> Reduces eGFR.
 
-Lithium can cause [[Congenital Cyanotic diseases of Heart|Ebstein's anomaly]] in fetus.
+Lithium can cause [[Congenital Cyanotic diseases of Heart|Ebstein's anomaly]] in fetus #associated 
 
 # Clinical Features of toxicity
 Confusion, ataxia, tremor, seizure, polyuria.
-Muscle twitch, blurred vision, diarrhea, vomiting.
+Muscle twitch, blurred vision, [[diarrhoea]], vomiting.
 
 # Monitor
 Lithium level, TFT, U&E
