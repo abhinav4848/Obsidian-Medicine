@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hepatitis viruses.md",
+                "file": "_seronegative Spondyloarthropathy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hepatitis viruses"
+              "title": "_seronegative Spondyloarthropathy"
             }
           },
           {
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hepatitis viruses.md",
+                "file": "_seronegative Spondyloarthropathy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hepatitis viruses"
+              "title": "Backlinks for _seronegative Spondyloarthropathy"
             }
           }
         ]
@@ -234,32 +234,32 @@
   },
   "active": "75fe08a31b73eaa9",
   "lastOpenFiles": [
-    "_duplicates/undescended testes.md",
-    "_duplicates/systemic lupus erythematosis.md",
-    "_duplicates/typhoid.md",
-    "_duplicates/transient synovitis.md",
-    "_duplicates/slipped upper femoral epiphysis.md",
-    "_duplicates/sjogren's syndrome.md",
-    "_duplicates/sickle cell.md",
-    "_duplicates/shin lesions.md",
-    "_duplicates/septic arthritis.md",
-    "_duplicates/seborrhoeic dermatitis.md",
-    "_duplicates/school in children with rash.md",
-    "_duplicates/sarcoidosis.md",
-    "_duplicates/reactive arthritis.md",
-    "_duplicates/quinine.md",
-    "_duplicates/pulses.md",
-    "_duplicates/psoriasis.md",
-    "_duplicates/pneumonia.md",
-    "_duplicates/pertussis.md",
-    "_duplicates/patellar tendonitis.md",
-    "_duplicates/patellar subluxation.md",
-    "_duplicates/osteochondritis dissecans.md",
-    "_duplicates/orlistat.md",
-    "_duplicates/lithium.md",
-    "_duplicates/obesity in children.md",
-    "_duplicates/metronidazole.md",
-    "_duplicates/methylphenidate.md",
+    "attention-deficit hyperactive disorder.md",
+    "anti-glycemic drugs.md",
+    "_seronegative Spondyloarthropathy.md",
+    "acute epiglottitis.md",
+    "_acute Epiglottitis.md",
+    "abnormal airway sounds.md",
+    "actinic keratosis.md",
+    "alcohol.md",
+    "amantadine.md",
+    "ankylosing spondylitis.md",
+    "autoimmune hemolytic anemia.md",
+    "azathioprine.md",
+    "baker's cyst.md",
+    "behcet's disease.md",
+    "childhood syndromes.md",
+    "chondromalacia patellae.md",
+    "ciprofloxacin.md",
+    "citalopram.md",
+    "co-trimoxazole.md",
+    "corticosteroid.md",
+    "croup.md",
+    "developmental dysplasia of the hip.md",
+    "developmental milestones.md",
+    "different rashes in paeds.md",
+    "disulfiram.md",
+    "down's syndrome.md",
     "_duplicates",
     "_chicken Pox treatment flowchart (Work in progress).canvas",
     "attachments/rheumatoid arthritis hand changes.png",
