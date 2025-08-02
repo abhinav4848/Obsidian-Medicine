@@ -13,10 +13,10 @@ Develops before 8 weeks.
 - try alginate therapy
 - Try PPI only if:
 	- unexplained feeding difficulties (for example, refusing feeds, gagging or choking)
-	- distressed behavior
+	- distressed behaviour
 	- faltering growth
 
-Offering a trial of feed thickeners or alginate therapy added to formula are both options in NICE's stepped care approach that can be trialed if reducing the volume of feeds and ensuring feeds are small and frequent have not improved symptoms significantly.
+Offering a trial of feed thickeners or alginate therapy added to formula are both options in NICE's stepped care approach that can be trialled if reducing the volume of feeds and ensuring feeds are small and frequent have not improved symptoms significantly.
 
 >[!info]
 >There is emerging evidence that infant overfeeding alters epigenetic expression, meaning these kids have the deck stacked against them in maintaining a healthy BMI for life. 

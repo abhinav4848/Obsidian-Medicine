@@ -24,7 +24,7 @@ Renal/nervous system involvement is rare.
 SHIPP ME #mnemonic 
 - Sulfa drugs, 
 - hydralazine, 
-- [[TB|isoniazid]], 
+- [[tuberculosis|isoniazid]], 
 - procainamide, 
 - [[phenytoin]], 
 - Methyldopa, 
