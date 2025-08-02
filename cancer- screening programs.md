@@ -2,7 +2,7 @@
 tags:
   - cancer
 ---
-[[cancer- colorectal|colorectal cancer]]: Faecal immunochemical test (FIT). 
+[[cancer- colorectal|Colorectal cancer]]: Faecal immunochemical test (FIT). 
 60 - 74yo every 2 years (England), 
 50 - 74yo (Scotland).
 

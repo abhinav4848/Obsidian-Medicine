@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dd8186ccc91fe7ff",
+        "id": "41e0fc90b8e5238c",
         "type": "tabs",
         "children": [
           {
-            "id": "ccf0f5471475bcce",
+            "id": "60ea629d5c9ebd62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "c. difficile.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "c. difficile"
+              "title": "New tab"
             }
           }
         ]
@@ -172,7 +167,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "c. difficile.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +176,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for c. difficile"
+              "title": "Backlinks"
             }
           }
         ]
@@ -202,19 +196,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "676efa40181a3294",
+  "active": "60ea629d5c9ebd62",
   "lastOpenFiles": [
+    "chicken Pox treatment flowchart (Work in progress).canvas",
+    "chicken pox.md",
+    "cell histology.md",
+    "tetanus.md",
+    "cancer- screening programs.md",
+    "clostridia.md",
+    "c. difficile.md",
     "gout.md",
     "gORD in children.md",
-    "c. difficile.md",
     "gORD.md",
     "tuberculosis.md",
     "rectal prolapse.md",
     "anal fissure.md",
     "paralytic ileus.md",
-    "tetanus.md",
     "_seronegative Spondyloarthropathy.md",
-    "chicken Pox treatment flowchart (Work in progress).canvas",
     "acute Epiglottitis.md",
     "anti-Glycemic Drugs.md",
     "attention-Deficit Hyperactive disorder.md",
@@ -226,11 +224,6 @@
     "fragile X Syndrome.md",
     "fraser Guidelines for contraception.md",
     "hHV.md",
-    "inflammatory Bowel Disease.md",
-    "legg-Calve-Perthe's disease.md",
-    "lichen Planus.md",
-    "limping Child.md",
-    "meralgia Paresthetica.md",
     "_duplicates",
     "_chicken Pox treatment flowchart (Work in progress).canvas",
     "attachments/rheumatoid arthritis hand changes.png",

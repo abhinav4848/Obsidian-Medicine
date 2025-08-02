@@ -1,8 +1,10 @@
 ---
 tags:
   - infection
+aliases:
+  - Clostridium tetani
 ---
-Due to [[clostridium tetani]]
+Due to [[clostridia|Clostridium]] tetani. 
 # Tetanus vaccine guidelines
 immunization schedule: In the UK, 5 doses of the tetanus vaccine are given over the course of the routine immunisation schedule.
 
