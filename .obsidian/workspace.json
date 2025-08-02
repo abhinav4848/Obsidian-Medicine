@@ -13,21 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tuberculosis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "tuberculosis"
-            }
-          },
-          {
-            "id": "0565d62a2f730b86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "c. difficile.md",
                 "mode": "source",
                 "source": false,
@@ -69,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vaccine",
+                "query": "clostri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tuberculosis.md",
+                "file": "c. difficile.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +182,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for tuberculosis"
+              "title": "Backlinks for c. difficile"
             }
           }
         ]
@@ -217,9 +202,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ccf0f5471475bcce",
+  "active": "676efa40181a3294",
   "lastOpenFiles": [
+    "gout.md",
     "gORD in children.md",
+    "c. difficile.md",
+    "gORD.md",
+    "tuberculosis.md",
     "rectal prolapse.md",
     "anal fissure.md",
     "paralytic ileus.md",
@@ -236,16 +225,12 @@
     "flexural Psoriasis.md",
     "fragile X Syndrome.md",
     "fraser Guidelines for contraception.md",
-    "gORD.md",
     "hHV.md",
     "inflammatory Bowel Disease.md",
     "legg-Calve-Perthe's disease.md",
     "lichen Planus.md",
     "limping Child.md",
     "meralgia Paresthetica.md",
-    "myelodysplastic, Myeloproliferative syndrome.md",
-    "nASH.md",
-    "newborn Infant Physical Examination.md",
     "_duplicates",
     "_chicken Pox treatment flowchart (Work in progress).canvas",
     "attachments/rheumatoid arthritis hand changes.png",

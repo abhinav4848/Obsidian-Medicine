@@ -3,7 +3,7 @@ tags:
   - infection
   - pharmacology
 aliases:
-  - tuberculosis
+  - TB
   - side effects of TB drugs
 ---
 # Risk

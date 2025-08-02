@@ -4,6 +4,7 @@ tags:
 aliases:
   - Pseudomembranous colitis
   - Clostridioides difficile
+  - Clostridium difficile
 ---
 
 [[clostridia|Clostridium]] difficile causes Pseudomembranous colitis. 
@@ -20,6 +21,6 @@ If first episode:
 
 If recur < 12 weeks later: Fidaxomicin
 If recur > 12 weeks later: Vancomycin 125 or Fidaxomicin
-If life threatening: Vancomycin 500 +/- [[Metronidazole]]
+If life threatening: Vancomycin 500 +/- [[Metronidazole]] #abx 
 
 Vancomycin is always oral because iv is not excreted in gut so poor effect on gut. 
