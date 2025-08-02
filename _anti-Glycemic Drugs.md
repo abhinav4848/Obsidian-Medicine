@@ -1,0 +1,6 @@
+---
+aliases:
+  - metformin
+tags:
+  - pharmacology
+---
