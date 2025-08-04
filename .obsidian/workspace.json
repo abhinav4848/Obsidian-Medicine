@@ -11,10 +11,15 @@
             "id": "60ea629d5c9ebd62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "gORD.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "gORD"
             }
           }
         ]
@@ -167,6 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "gORD.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +182,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for gORD"
             }
           }
         ]
@@ -198,6 +204,8 @@
   },
   "active": "60ea629d5c9ebd62",
   "lastOpenFiles": [
+    "acute epiglottitis.md",
+    "achalasia cardia.md",
     "chicken Pox treatment flowchart (Work in progress).canvas",
     "chicken pox.md",
     "cell histology.md",
@@ -213,7 +221,6 @@
     "anal fissure.md",
     "paralytic ileus.md",
     "_seronegative Spondyloarthropathy.md",
-    "acute Epiglottitis.md",
     "anti-Glycemic Drugs.md",
     "attention-Deficit Hyperactive disorder.md",
     "bronchiolitis (LRTI).md",

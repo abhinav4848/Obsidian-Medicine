@@ -11,12 +11,10 @@ Presents in age 25-40 years.
 Regurgitation of food- may lead to cough, aspiration. 
 Symptoms of heartburn.
 # Investigation
-
-Barium swallow: Bird's beak appearance
+Barium swallow: Bird's beak appearance #named 
 Fluid level
 Grossly expanded oesophagus
 # Treatment
-
 Refer to rule out [[cancer- oesophagus|oesophageal cancer]]. 
 
 Pneumatic dilation

@@ -12,7 +12,7 @@ Inspiratory wheeze
 Occurs: 6 months to 3 years.
 Lasts: 3-5 days.
 
-Stridor ([[Abnormal airway sounds]])- also happens in [[Acute Epiglottitis]]. 
+Stridor ([[Abnormal airway sounds]])- also happens in [[acute epiglottitis]]. 
 Barking cough **worse at night**.
 - Reduced sympathetic activity at night will cause reduced bronchodilation of the inflamed airways.
 
