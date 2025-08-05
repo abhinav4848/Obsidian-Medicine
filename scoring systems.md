@@ -1,6 +1,7 @@
 ---
 tags:
   - calc
+  - named
 ---
 
 | Scoring system                       | Notes                                                                                                                         |

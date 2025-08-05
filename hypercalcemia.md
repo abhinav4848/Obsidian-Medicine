@@ -36,4 +36,4 @@ First sign is drowsiness & increased thirst -> **Excessive thirst** presents wit
 Give iv NS first to excrete Calcium.
 	HTN can occur due to hypercalcemia. This does not c/i iv fluid as initial management.
 	This is cuz Hypercalcemia causes polyuria -> Dehydration -> Hypovolemia -> Hypernatremia
-Then iv Bisphosphonates.
+Then iv [[Bisphosphonates]].

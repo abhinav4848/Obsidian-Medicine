@@ -28,47 +28,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bisphosphonates.md",
+                "file": "cancer- breast.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "bisphosphonates"
+              "title": "cancer- breast"
             }
           },
           {
-            "id": "a2ee5077b07bc93b",
+            "id": "ec7d9f78942e579e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scoring systems.md",
+                "file": "confusion in skin lesions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "scoring systems"
+              "title": "confusion in skin lesions"
             }
           },
           {
-            "id": "bb6514a273eaf57b",
+            "id": "0d9f4fe2b01938d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study tips.md",
+                "file": "acne vulgaris.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "study tips"
+              "title": "acne vulgaris"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clostri",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bisphosphonates.md",
+                "file": "acne vulgaris.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bisphosphonates"
+              "title": "Backlinks for acne vulgaris"
             }
           }
         ]
@@ -248,36 +248,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd9b4fea172b26a2",
+  "active": "0d9f4fe2b01938d2",
   "lastOpenFiles": [
+    "retinoids.md",
+    "acne vulgaris.md",
+    "acne.md",
+    "acanthosis Nigricans.md",
+    "acne rosacea.md",
+    "blepharitis.md",
+    "chalazion.md",
+    "stye.md",
+    "confusion in skin lesions.md",
+    "cancer- gynaecology (medications).md",
+    "conjunctivitis.md",
+    "ophthalmia neonatorum.md",
+    "cancer- risk factors.md",
+    "cancer- screening programs.md",
+    "cancer- cervical.md",
+    "scoring systems.md",
+    "study tips.md",
+    "cancer & associations.md",
+    "sticky eye.md",
+    "acne inversa.md",
+    "a.md",
+    "cancer- breast.md",
     "osteoporosis.md",
     "bisphosphonates.md",
-    "cancer- gynaecology (medications).md",
+    "hypercalcemia.md",
     "coeliac disease.md",
-    "scoring systems.md",
     "desktop.ini",
-    "study tips.md",
-    "gORD.md",
-    "acute epiglottitis.md",
-    "achalasia cardia.md",
     "chicken Pox treatment flowchart (Work in progress).canvas",
-    "chicken pox.md",
-    "cell histology.md",
-    "tetanus.md",
-    "cancer- screening programs.md",
-    "clostridia.md",
-    "c. difficile.md",
-    "gout.md",
-    "gORD in children.md",
-    "tuberculosis.md",
-    "rectal prolapse.md",
-    "anal fissure.md",
-    "paralytic ileus.md",
-    "_seronegative Spondyloarthropathy.md",
-    "anti-Glycemic Drugs.md",
-    "attention-Deficit Hyperactive disorder.md",
-    "bronchiolitis (LRTI).md",
-    "congenital Cyanotic diseases of Heart.md",
     "_duplicates",
     "_chicken Pox treatment flowchart (Work in progress).canvas",
     "attachments/rheumatoid arthritis hand changes.png",

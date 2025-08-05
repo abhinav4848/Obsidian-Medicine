@@ -4,6 +4,7 @@ tags:
 aliases:
   - alendronate
   - alendronic acid
+  - bisphosphonate
 ---
 Hypocalcaemia/vitamin D deficiency should be corrected before giving bisphosphonates. 
 
@@ -28,7 +29,7 @@ High risk: Take at least for 10 years.
 
 # Adverse effects
 - Oesophageal reactions: advise patients to sit/stand upright when taking it. For 30 mins before food.
-- Osteonecrosis of jaw: More common in patients receiving iv bisphosphonates for cancer treatment than patients receiving oral for [[osteoporosis]]/[[Paget's]]
+- **Osteonecrosis of jaw**: More common in patients receiving iv bisphosphonates for cancer treatment than patients receiving oral for [[osteoporosis]]/[[Paget's]]
 
 # Why stand/sit up?
 Q: How does an empty stomach help prevent heartburn with bisphosphonates, but this is opposite advice to NSAIDs?

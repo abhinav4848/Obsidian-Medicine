@@ -4,7 +4,7 @@ tags:
 ---
 Used in [[Bacterial vaginosis]].
 
-Used in [[Acne Rosacea]].
+Used in [[acne rosacea]].
 
 A [[disulfiram]] like reaction can occur if metro & alcohol are taken together.
 
