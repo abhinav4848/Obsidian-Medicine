@@ -10,8 +10,8 @@ Inability to tolerate gliadin, the alcohol soluble fraction of gluten that confe
 # Clinical Features
 - Bloating
 - Abdo pain
-- [[Diarrhoea]]
-- low B12
+- [[Diarrhoea]] (fatty, grey-frothy stools)
+- low B9 (B9 > B12)
 - IDA
 # Associations
 #associated 
