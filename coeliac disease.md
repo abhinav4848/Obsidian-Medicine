@@ -9,7 +9,7 @@ aliases:
 Inability to tolerate gliadin, the alcohol soluble fraction of gluten that confers viscosity. Repeated exposure leads to villous atrophy -> malabsorption. 
 # Clinical Features
 - Bloating
-- Abdo pain
+- Abdo pain (cramping or distension)
 - [[Diarrhoea]] (fatty, grey-frothy stools)
 - low B9 (B9 > B12)
 - IDA
@@ -19,6 +19,8 @@ Inability to tolerate gliadin, the alcohol soluble fraction of gluten that confe
 2. Dermatitis Herpetiformis [Dermnetz](https://dermnetnz.org/topics/dermatitis-herpetiformis)(Cutaneous manifestation of coeliac disease. Nothing to do with herpes. It's pruritic vesicles on [[confusion in skin lesions|extensors]]. Give Dapsone) 
 3.  f/h/o Autoimmune disorders (type 1 diabetes mellitus, autoimmune hepatitis, thyroid). 
 4. Iron deficiency due to malabsorption. 
+5. Hyposplenism
+6. [[osteoporosis]], Osteomalacia
 
 ![[coeliac disease- dermatitis herpetiformis.png]]
 

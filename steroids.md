@@ -3,7 +3,7 @@ tags:
   - pharmacology
 ---
 # Side effect
-[[Osteoporosis]]: No pain. Directly bone # (Osteomalacia is painful)
+[[osteoporosis]]: No pain. Directly bone # (Osteomalacia is painful)
 Avascular necrosis of hip
 Cataract
 Peptic ulcers
