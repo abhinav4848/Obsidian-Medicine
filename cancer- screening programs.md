@@ -6,8 +6,8 @@ tags:
 60 - 74yo every 2 years (England), 
 50 - 74yo (Scotland).
 
-[[cancer- breast|Breast cancer]]: Mammogram. 
-50 - 70yo every 3 years. 
+[[cancer- breast (treatment)|Breast cancer]]: Mammogram. 
+50 - 70yo every 3 years. Then on request
 But if high risk, then 40-70yo annually.
 If a woman can feel a lump but you can't, still refer. 
 
@@ -20,6 +20,7 @@ Refer using a suspected cancer pathway referral if:
 Consider 2ww if:
 - Skin changes suggestive of breast cancer
 - >=30 with unexplained lump in axilla. 
+- *see full list [[cancer- breast (referral criteria)|here]].* 
 If under 30, routine referral. 
 
 [[cancer- cervical|Cervical cancer]]: Pap smear. 

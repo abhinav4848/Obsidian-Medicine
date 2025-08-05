@@ -6,7 +6,7 @@ aliases:
   - raloxifene
 ---
 see
-- [[cancer- breast]]
+- [[cancer- breast (treatment)]]
 - [[cancer- cervical]]
 - [[cancer- endometrial]]
 - [[cancer- ovarian]]

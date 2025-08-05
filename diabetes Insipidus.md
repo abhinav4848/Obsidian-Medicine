@@ -20,7 +20,7 @@ Low K+ can cause Na+/2Cl/K+ pump to fail so Na+ not reabsorbed -> Urine Na loss 
 Polyuria, extreme thirst & polydipsia, dehydration
 Symptoms of [[Hypernatremia]].
 High serum osmolality, Low urine osmolality,
-	Urine osmolality increases after vasopressin: central DI
+	Urine osmolality increases after vasopressin: central DI #confusion 
 	no change after vasopressin: Nephrogenic DI
 If thirst response is intact in cranial DI, then patient increases their fluid intake, else (patient unconscious/has intracerebral lesion making them adipsic), they can get dehydrated
 

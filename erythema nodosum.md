@@ -4,12 +4,13 @@ tags:
 ---
 *See other [[erythemas]].* 
 
+![[erythema nodosum.png]]
 - Painful, purple tender erythematous nodules over shins.
 - Inflammation of s.c. fat. (*see [[Shin lesions]] for ddx*)
 - Resolve in 6 weeks w/o scarring.  
 # History of 
 ## Autoimmune
-- [[Inflammatory Bowel Disease|IBD]] -> Fecal calprotectin,
+- [[Inflammatory Bowel Disease|IBD]] -> Faecal calprotectin,
 - [[Sarcoidosis]] -> Serum ACE, CXR
 - [[Behcet's disease]]
 
@@ -20,13 +21,14 @@ tags:
 - TB can cause but not its drugs -> CXR
 
 ## Drugs: (SNAC)
+#mnemonic 
 - Sulfonamides (e.g.. Sulfasalazine)
 - NSAID
 - Amoxicillin (Penicillin containing antibiotics)
 - COCP
 
 Pregnancy
-Malignancy, [[cancer- lymphoma]]
+Malignancy, [[cancer- lymphoma|Lymphoma]]
 
 # Treatment
 No active treatment. 

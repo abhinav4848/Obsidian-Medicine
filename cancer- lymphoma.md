@@ -4,6 +4,7 @@ aliases:
   - Non-Hodgkin's lymphoma
   - HL
   - NHL
+  - Lymphoma
 tags:
   - hematology
 ---
