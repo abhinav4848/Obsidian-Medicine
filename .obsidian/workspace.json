@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "osteoporosis.md",
+                "file": "bisphosphonates.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "osteoporosis"
+              "title": "bisphosphonates"
             }
           },
           {
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "osteoporosis.md",
+                "file": "bisphosphonates.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for osteoporosis"
+              "title": "Backlinks for bisphosphonates"
             }
           }
         ]
@@ -250,8 +250,9 @@
   },
   "active": "bd9b4fea172b26a2",
   "lastOpenFiles": [
-    "cancer- gynaecology (medications).md",
     "osteoporosis.md",
+    "bisphosphonates.md",
+    "cancer- gynaecology (medications).md",
     "coeliac disease.md",
     "scoring systems.md",
     "desktop.ini",
@@ -277,7 +278,6 @@
     "attention-Deficit Hyperactive disorder.md",
     "bronchiolitis (LRTI).md",
     "congenital Cyanotic diseases of Heart.md",
-    "cystic Fibrosis.md",
     "_duplicates",
     "_chicken Pox treatment flowchart (Work in progress).canvas",
     "attachments/rheumatoid arthritis hand changes.png",
