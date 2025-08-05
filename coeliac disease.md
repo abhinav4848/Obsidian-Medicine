@@ -5,6 +5,7 @@ tags:
 aliases:
   - celiac disease
   - gluten sensitive enteropathy
+  - dermatitis herpetiformis
 ---
 Inability to tolerate gliadin, the alcohol soluble fraction of gluten that confers viscosity. Repeated exposure leads to villous atrophy -> malabsorption. 
 # Clinical Features

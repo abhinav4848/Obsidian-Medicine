@@ -23,7 +23,7 @@ Benzoyl peroxide used especially if papules and pustules are present.
 ## Severe
 Refer all severe cases to Specialists.
 
-Prescibe treatment as above while awaiting appointment.
+Prescribe treatment as above while awaiting appointment.
 
 # Other tips
 ## Women

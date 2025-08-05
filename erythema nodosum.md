@@ -26,7 +26,7 @@ tags:
 - COCP
 
 Pregnancy
-Malignancy, [[Lymphoma]]
+Malignancy, [[cancer- lymphoma]]
 
 # Treatment
 No active treatment. 
