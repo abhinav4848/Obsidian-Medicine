@@ -15,7 +15,7 @@ Rectal bleeding, Change in bowel habit (mostly [[diarrhoea]]), occult bleed lead
 Cecum is most common site. 
 # Tests
 - Raised FIT will then be confirmed with colonoscopy.
-- All newly diagnosed patients should have CEA ([[tumor markers]]) for staging & then monitoring after treatment.
+- All newly diagnosed patients should have CEA ([[tumor marker]]) for staging & then monitoring after treatment.
 - [[cancer- screening programs|FIT]] is also useful for patients with new symptoms who do not meet the 2ww criteria.
 
 Faecal occult blood test (FOBT) has been replaced by FIT.

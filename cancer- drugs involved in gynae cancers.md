@@ -2,8 +2,8 @@
 tags:
   - cancer
 aliases:
-  - tamoxifen
-  - raloxifene
+  - Tamoxifen
+  - Raloxifene
 ---
 see
 - [[cancer- breast (treatment)]]
@@ -16,6 +16,7 @@ see
 
 >[!info]
 >COCP decreases risk for Endometrial & Ovarian, Colorectal cancer.
+>#mnemonic: OCP: [[cancer- ovarian|Ovarian cancer]] protection. Because OCP reduces number of ovulations. As well as pregnancy does same.
 
 # Drugs used in gynae cancers
 ## Tamoxifen

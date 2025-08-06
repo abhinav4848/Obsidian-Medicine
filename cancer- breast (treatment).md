@@ -6,13 +6,15 @@ aliases:
   - Breast Cancer
 ---
 **Most imp risk**
-[[cancer- risk factors|family History]], COCP, *early menarche?*  
+[[cancer- risk factors|family History]], COCP, *early menarche?*
 
-**Genes**
-BRCA 1, BRCA 2 (AD with incomplete penetrance) for Breast & Ovary. #genetics 
+**Genes & tumour marker** 
+BRCA 1, BRCA 2 (AD with incomplete penetrance) for Breast & Ovary. 
+Ca 15-3 is the [[tumor marker|tumour marker]] for prognosis. 
+#genetics 
 
 **Referral criteria**
-See: *[[cancer- breast (referral criteria)]]*
+See: *[[cancer- breast (referral criteria)]] & [[cancer- breast (types)]].* 
 
 ---
 # Investigation
@@ -22,7 +24,7 @@ Suspicious breast lump: FNAC -> Core biopsy.
 # Treatment
 ## Hormonal
 - Only done for ER+ tumours.
-- [[cancer- gynaecology (medications)|Tamoxifen]] for pre and peri menopausal women up-to 5 years.
+- [[cancer- drugs involved in gynae cancers|Tamoxifen]] for pre and peri menopausal women up-to 5 years.
 - Aromatase inhibitor (anastrozole) in post menopausal as this is how most E is formed post-menopausally.
 ## Biological
 - Must be HER2+ve.

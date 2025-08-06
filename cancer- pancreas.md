@@ -28,7 +28,7 @@ Smoking, DM, Chronic pancreatitis, age, HNPCC, BRCA2, MEN, KRAS
 # Investigation 
 - Most initial/most appropriate investigation: HRCT abdomen > if no CT, then USG. If CT normal -> ERCP. 
 	- imaging may demonstrate the 'double duct' #named sign - the presence of simultaneous dilatation of the common bile and pancreatic ducts
-- CA 19-9: Non-specific but helps assess prognosis. [[tumor markers]]. 
+- CA 19-9: Non-specific but helps assess prognosis. [[tumor marker]]. 
 
 **Gallstones**: If jaundice with epigastric pain, RUQ pain -> USG.
 

@@ -24,4 +24,4 @@ Calcium supplements only considered if daily intake < 700mg/day (SIGN) or <1000m
 
 In women, [[bisphosphonates]] should be given before HRT for preventing fractures. As HRT has s/e of VTE, stroke, breast cancer, coronary disease.
 
-Can use [[cancer- gynaecology (medications)|raloxifene]] in post-menopausal women.
+Can use [[cancer- drugs involved in gynae cancers|raloxifene]] in post-menopausal women.
