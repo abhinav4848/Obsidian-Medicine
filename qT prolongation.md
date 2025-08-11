@@ -13,7 +13,7 @@ aliases:
 - [[quinine]]
 - terfenadine
 - Macrolides (Erythromycin)
-- Haloperidol (anti-psychotic)
+- [[Haloperidol]] (anti-psychotic)
 - Ondansetron
 - Quinolones ([[ciprofloxacin]]) #abx 
 - Azithromycin in COPD treatment

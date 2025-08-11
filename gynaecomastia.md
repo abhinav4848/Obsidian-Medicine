@@ -15,6 +15,6 @@ Ketoconazole
 Oestrogen/anti-testosterone hormone: GnRh Analogue (e.g. Goserelin) used in [[cancer- prostate|Prostate Cancer]], finasteride
 
 # Others
-Testicular failure: mumps, liver disease, hyperthyroid, hemodialysis, androgen deficiency (Kallman's, Klinefelter)
+Testicular failure: mumps, liver disease, hyperthyroid, haemodialysis, androgen deficiency (Kallman's, Klinefelter)
 
 Not [[metoclopramide]] cuz high prolactin = galactorrhoea and not gynaecomastia.

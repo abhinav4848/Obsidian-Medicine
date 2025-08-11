@@ -23,6 +23,8 @@ Co-amoxiclav (Amoxicillin + clavulanic acid) can cause hepatitis especially in p
 
 Clavulanic acid is highly toxic to liver. If the patient already has risk factors for hepatic impairment such as Chronic alcoholism, hepatic excretion of clavulanic acid will be impaired, leading to cholestasis (Jaundice and Dark Urine) "high bilirubin" and drug-induced hepatitis (incredibly high ALT, AST, ALP).
 
+[[tuberculosis|Isoniazid]] can cause hepatitis. 
+
 ## Drugs that can cause hepatic cholestasis:
 Co-Amoxiclav, Flucloxacillin, Steroids, Sulfonylureas, [[Nitrofurantoin]], Fusidic acid, Chlorpromazine, Prochlorperazine
 

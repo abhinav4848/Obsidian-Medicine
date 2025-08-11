@@ -13,13 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "antipsychotic drugs.md",
+                "file": "metoclopramide.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "antipsychotic drugs"
+              "title": "metoclopramide"
+            }
+          },
+          {
+            "id": "ab13c2759602f82f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cyclizine.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "cyclizine"
+            }
+          },
+          {
+            "id": "33fdb79f3e7b9242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tuberculosis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "tuberculosis"
             }
           },
           {
@@ -51,7 +81,8 @@
               "title": "MRCGP AKT Feedback report, AKT 55, April 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,10 +114,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linkfix",
+                "query": "tag:pharmacology",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -104,7 +135,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "antipsychotic drugs.md",
+                "file": "tuberculosis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +243,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for antipsychotic drugs"
+              "title": "Backlinks for tuberculosis"
             }
           }
         ]
@@ -231,16 +263,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9c89ef504d65e46",
+  "active": "33fdb79f3e7b9242",
   "lastOpenFiles": [
-    "tardive dyskinesia.md",
-    "antipsychotic drugs.md",
+    "systemic lupus erythematosis.md",
+    "tuberculosis.md",
+    "hepatitis.md",
+    "drugs contraindicated in pregnancy.md",
+    "ondansetron.md",
+    "cyclizine.md",
     "metoclopramide.md",
+    "extrapyramidal side-effects.md",
+    "antipsychotic drugs.md",
+    "tardive dyskinesia.md",
     "haloperidol.md",
-    "afro-Caribbean.md",
-    "depression.md",
     "qT prolongation.md",
+    "afro-Caribbean.md",
+    "tricyclic antidepressants.md",
     "gynaecomastia.md",
+    "depression.md",
     "prostate.md",
     "cancer- prostate.md",
     "fever caused by drugs.md",
@@ -250,17 +290,9 @@
     "othello syndrome.md",
     "tourette syndrome.md",
     "smoking.md",
-    "tricyclic antidepressants.md",
     "g.md",
     "attachments/overlap of serotonin syndrome and neuroleptic malignant syndrome.png",
-    "citalopram.md",
-    "cancer- screening programs.md",
-    "cancer- colorectal.md",
-    "cancer- breast (referral criteria).md",
-    "hepatitis viruses.md",
-    "irritable bowel syndrome.md",
     "desktop.ini",
-    "study tips.md",
     "attachments/erythema nodosum.png",
     "attachments/howell jolly bodies.png",
     "attachments/heinz bodies.png",
