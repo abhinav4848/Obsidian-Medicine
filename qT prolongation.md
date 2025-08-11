@@ -4,6 +4,7 @@ tags:
   - pharmacology
 aliases:
   - long QT syndrome
+  - prolonged QT interval
 ---
 # Drugs
 - amiodarone, sotalol, class 1a antiarrhythmic drugs
