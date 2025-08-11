@@ -6,3 +6,4 @@ tags:
 2. [[acute angle closure glaucoma]]
 3. Avoid SSRIs in patients on Warfarin
 4. Dose dependent [[qt prolongation]]
+5. SSRIs can cause 
