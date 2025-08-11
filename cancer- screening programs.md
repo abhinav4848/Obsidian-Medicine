@@ -6,10 +6,11 @@ tags:
 Faecal immunochemical test (FIT). 
 60 - 74yo every 2 years (England), 
 50 - 74yo (Scotland).
+*Then on request a kit every 2 years*
 
 # [[cancer- breast (treatment)|Breast cancer]]
 Mammogram. 
-50 - 70yo every 3 years. Then on request
+50 - 70yo every 3 years. Then on request. 
 But if high risk, then 40-70yo annually.
 If a woman can feel a lump but you can't, still refer. 
 

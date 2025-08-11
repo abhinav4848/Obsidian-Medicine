@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "irritable bowel syndrome.md",
+                "file": "cancer- screening programs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "irritable bowel syndrome"
+              "title": "cancer- screening programs"
             }
           },
           {
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"ulcerative colitis\"",
+                "query": "scree",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "irritable bowel syndrome.md",
+                "file": "cancer- screening programs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +197,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for irritable bowel syndrome"
+              "title": "Backlinks for cancer- screening programs"
             }
           }
         ]
@@ -218,9 +219,13 @@
   },
   "active": "679d2325d8349c07",
   "lastOpenFiles": [
+    "cancer- colorectal.md",
+    "cancer- screening programs.md",
+    "cancer- breast (referral criteria).md",
+    "hepatitis viruses.md",
+    "irritable bowel syndrome.md",
     "desktop.ini",
     "study tips.md",
-    "irritable bowel syndrome.md",
     "inflammatory Bowel Disease.md",
     "dapsone.md",
     "coeliac disease.md",
@@ -240,10 +245,7 @@
     "cancer- cervical.md",
     "cancer- endometrial.md",
     "human papilloma virus.md",
-    "cancer- screening programs.md",
     "tumor marker.md",
-    "cancer- breast (types).md",
-    "cancer- breast (referral criteria).md",
     "attachments/erythema nodosum.png",
     "attachments/howell jolly bodies.png",
     "attachments/heinz bodies.png",

@@ -16,14 +16,17 @@ Increased water intake.
 Avoid trigger foods.
 ### Pharmacological
 #### Spasms
-Mebeverine, peppermint oil
-
-## Diarrhoea
-Loperamide
-
-**Constipation**: 
-Bulk forming laxative (Ispaghula husk, methylcellulose), 
-Linaclotide (only if IBS constipation has been going on for over a year without responding to max tolerated doses of different classes of laxatives). 
+- Mebeverine, peppermint oil.
+Diet for wind and bloating: increase oats and linseeds. 
+#### Diarrhoea
+- Loperamide
+avoid sorbitol. 
+#### Constipation
+- Bulk forming laxative (Ispaghula husk, methylcellulose). 
+- Linaclotide (only if IBS constipation has been going on for over a year without responding to max tolerated doses of different classes of laxatives). It works by increasing amount of fluid in intestinal lumen. 
 Avoid lactulose. 
+Reduce intake of resistant starch found in processed food
 
-2nd line: **Antidepressants** for abdo pain: TCA (Amitriptyline), SSRI (Fluoxetine, [[Citalopram]]).
+2nd line: **Antidepressants** for abdo pain: TCA (Amitriptyline) > SSRI (Fluoxetine, [[Citalopram]]).
+
+3rd line: Refer to CBT. Do not encourage use of acupuncture or reflexology. 

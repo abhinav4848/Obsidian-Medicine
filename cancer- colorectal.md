@@ -9,6 +9,7 @@ tags:
 
 Risk factor for colorectal cancer, prostate cancer: Age > Family history.
 Incidence increases after age 35yo and rises rapidly after age 50, peaking in 70s.
+Most cancers develop from adenomatous polyps. 
 # Clinical Features
 Rectal bleeding, Change in bowel habit (mostly [[diarrhoea]]), occult bleed leading to anaemia, abdo pain, weight loss, malaise. 
 
