@@ -13,13 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inflammatory Bowel Disease.md",
+                "file": "irritable bowel syndrome.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "inflammatory Bowel Disease"
+              "title": "irritable bowel syndrome"
+            }
+          },
+          {
+            "id": "7a02de7c56633e9c",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.rcgp.org.uk/getmedia/329b2746-a3d5-4631-9f20-81e5f3074821/April-2025-AKT-feedback-report.pdf",
+                "title": "MRCGP AKT Feedback report, AKT 55, April 2025",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "MRCGP AKT Feedback report, AKT 55, April 2025"
             }
           }
         ]
@@ -172,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inflammatory Bowel Disease.md",
+                "file": "irritable bowel syndrome.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +196,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for inflammatory Bowel Disease"
+              "title": "Backlinks for irritable bowel syndrome"
             }
           }
         ]
@@ -202,8 +216,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "676efa40181a3294",
+  "active": "679d2325d8349c07",
   "lastOpenFiles": [
+    "study tips.md",
+    "irritable bowel syndrome.md",
+    "inflammatory Bowel Disease.md",
     "dapsone.md",
     "coeliac disease.md",
     "cancer & associations.md",
@@ -222,16 +239,13 @@
     "cancer- risk factors.md",
     "cancer- cervical.md",
     "cancer- endometrial.md",
-    "irritable bowel syndrome.md",
     "human papilloma virus.md",
     "cancer- screening programs.md",
     "tumor marker.md",
     "cancer- breast (types).md",
     "cancer- breast (referral criteria).md",
     "gORD.md",
-    "erythema nodosum.md",
     "attachments/erythema nodosum.png",
-    "inflammatory Bowel Disease.md",
     "attachments/howell jolly bodies.png",
     "attachments/heinz bodies.png",
     "attachments/basophilic stippling.png",
