@@ -15,7 +15,15 @@ Diet low in fermentable oligo/di/mono saccharides, and polyols (FODMAP)
 Increased water intake.
 Avoid trigger foods.
 ### Pharmacological
-**Antispasmodic**: Mebeverine, peppermint oil
-**Anti-diarrhoea**: Loperamide (avoid lactulose)
-**Constipation**: Bulk forming laxative (Ispaghula husk, methylcellulose), linaclotide (only if IBS constipation has been going on for over a year without responding to max tolerated doses of different classes of laxatives). 
-**Antidepressants** for abdo pain: TCA (Amitriptyline), SSRI (Fluoxetine, [[Citalopram]]).
+#### Spasms
+Mebeverine, peppermint oil
+
+## Diarrhoea
+Loperamide
+
+**Constipation**: 
+Bulk forming laxative (Ispaghula husk, methylcellulose), 
+Linaclotide (only if IBS constipation has been going on for over a year without responding to max tolerated doses of different classes of laxatives). 
+Avoid lactulose. 
+
+2nd line: **Antidepressants** for abdo pain: TCA (Amitriptyline), SSRI (Fluoxetine, [[Citalopram]]).
