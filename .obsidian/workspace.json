@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "congestive hepatomegaly.md",
+                "file": "inflammatory Bowel Disease.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "congestive hepatomegaly"
+              "title": "inflammatory Bowel Disease"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Avascular necrosis",
+                "query": "\"ulcerative colitis\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "congestive hepatomegaly.md",
+                "file": "inflammatory Bowel Disease.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for congestive hepatomegaly"
+              "title": "Backlinks for inflammatory Bowel Disease"
             }
           }
         ]
@@ -202,8 +202,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "679d2325d8349c07",
+  "active": "676efa40181a3294",
   "lastOpenFiles": [
+    "dapsone.md",
+    "coeliac disease.md",
+    "cancer & associations.md",
+    "congestive hepatomegaly.md",
     "desktop.ini",
     "mirizzi syndrome.md",
     "cancer- drugs involved in gynae cancers.md",
@@ -225,12 +229,9 @@
     "cancer- breast (types).md",
     "cancer- breast (referral criteria).md",
     "gORD.md",
-    "coeliac disease.md",
     "erythema nodosum.md",
     "attachments/erythema nodosum.png",
     "inflammatory Bowel Disease.md",
-    "acne vulgaris.md",
-    "cancer & associations.md",
     "attachments/howell jolly bodies.png",
     "attachments/heinz bodies.png",
     "attachments/basophilic stippling.png",

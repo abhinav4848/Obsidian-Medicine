@@ -10,18 +10,23 @@ aliases:
 Inability to tolerate gliadin, the alcohol soluble fraction of gluten that confers viscosity. Repeated exposure leads to villous atrophy -> malabsorption. 
 # Clinical Features
 - Bloating
-- Abdo pain (cramping or distension)
+- Recurrent abdo pain (cramping or distension)
 - [[Diarrhoea]] (fatty, grey-frothy stools)
 - low B9 (B9 > B12)
 - IDA
+- tired all the time 
 # Associations
 #associated 
 1. Coeliac can cause: **T-cell lymphoma** (as T-cells get activated by gluten exposure).  #cancer  
-2. Dermatitis Herpetiformis [Dermnetz](https://dermnetnz.org/topics/dermatitis-herpetiformis)(Cutaneous manifestation of coeliac disease. Nothing to do with herpes. It's pruritic vesicles on [[confusion in skin lesions|extensors]]. Give Dapsone) 
-3.  f/h/o Autoimmune disorders (type 1 diabetes mellitus, autoimmune hepatitis, thyroid). 
-4. Iron deficiency due to malabsorption. 
+2. Dermatitis Herpetiformis [Dermnetz](https://dermnetnz.org/topics/dermatitis-herpetiformis)
+	1. Cutaneous manifestation of coeliac disease. Nothing to do with herpes. It's pruritic vesicles on [[confusion in skin lesions|extensors]]. 
+	2. Give [[dapsone]]. 
+3. F/h/o Autoimmune disorders (type 1 diabetes mellitus, autoimmune hepatitis, thyroid). 
+4. Iron deficiency anaemia due to malabsorption. 
 5. Hyposplenism
 6. [[osteoporosis]], Osteomalacia
+7. lactose intolerance
+8. subfertility, unfavourable pregnancy outcomes
 
 ![[coeliac disease- dermatitis herpetiformis.png]]
 
