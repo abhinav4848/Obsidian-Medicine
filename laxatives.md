@@ -1,6 +1,7 @@
 ---
 tags:
   - pharmacology
+  - notAKT
 ---
 # Types of laxatives
 ## Bulk-forming laxatives

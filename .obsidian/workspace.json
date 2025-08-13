@@ -68,6 +68,51 @@
             }
           },
           {
+            "id": "a0ba4585b639e53c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hypercalcemia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "hypercalcemia"
+            }
+          },
+          {
+            "id": "855d3619ee2ff3a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paraneoplastic syndrome.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "paraneoplastic syndrome"
+            }
+          },
+          {
+            "id": "92506ef2cdcf9153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cancer- lung.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "cancer- lung"
+            }
+          },
+          {
             "id": "3369b23d3d5fc432",
             "type": "leaf",
             "state": {
@@ -97,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -129,7 +174,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:pharmacology",
+                "query": "osteitis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -247,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "laxatives.md",
+                "file": "cancer- lung.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +302,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for laxatives"
+              "title": "Backlinks for cancer- lung"
             }
           }
         ]
@@ -277,11 +322,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "592efbc906051dab",
+  "active": "92506ef2cdcf9153",
   "lastOpenFiles": [
+    "paraneoplastic syndrome.md",
+    "cancer- lung.md",
+    "siadh.md",
+    "hypercalcemia.md",
+    "cancers metastasizing to the bone.md",
+    "laxatives.md",
     "desktop.ini",
     "tuberculosis.md",
-    "laxatives.md",
     "systemic lupus erythematosis.md",
     "hepatitis.md",
     "drugs contraindicated in pregnancy.md",
@@ -301,10 +351,6 @@
     "cancer- prostate.md",
     "fever caused by drugs.md",
     "panic attacks.md",
-    "misidentification.md",
-    "personality disorder.md",
-    "othello syndrome.md",
-    "tourette syndrome.md",
     "attachments/overlap of serotonin syndrome and neuroleptic malignant syndrome.png",
     "attachments/erythema nodosum.png",
     "attachments/howell jolly bodies.png",

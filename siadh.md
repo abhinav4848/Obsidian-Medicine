@@ -7,8 +7,8 @@ aliases:
   - Syndrome of inappropriate antidiuretic hormone secretion
 ---
 # Causes:
-- CNS: [[Meningitis]], Stroke, tumors
-- Neoplasm: SCLC
+- CNS: [[Meningitis]], Stroke, tumours
+- Neoplasm: [[paraneoplastic syndrome|Small cell carcinoma of Lung]]
 - Chest infections: Pneumonia, [[tuberculosis|TB]]
 - **Drugs**: SSRI (Fluoxetine)
 
