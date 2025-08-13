@@ -8,7 +8,7 @@ aliases:
 ---
 # Causes:
 - CNS: [[Meningitis]], Stroke, tumours
-- Neoplasm: [[paraneoplastic syndrome|Small cell carcinoma of Lung]]
+- Neoplasm: [[cancer- lung|Small cell carcinoma of Lung]]
 - Chest infections: Pneumonia, [[tuberculosis|TB]]
 - **Drugs**: SSRI (Fluoxetine)
 

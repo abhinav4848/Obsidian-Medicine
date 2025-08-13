@@ -4,12 +4,12 @@ tags:
 ---
 Hypercalcemia / Hyperparathyroidism 
 Hypercalcemia (Normal: 2.1 - 2.6mmol/L)
-# Aetiology:
+# Aetiology
 - Primary [[Hyperthyroidism]] (Associated with increased PTH, Decreased Phosphate). 
 - [[cancers metastasizing to the bone|Bone metastasis]] from Prostate, Breast, etc. 
-- SqCC Lung
-- Multiple myeloma ([[diff bw Osteoporosis, Pagets, osteomalacia, myeloma, meta, b cell lymphoma, sarcoidosis|ALP is normal]])
-- Granuloma: Sarcoidosis/TB/Histoplasmosis -> Sarcoidosis check serum ACE. 
+- [[cancer- lung|Squamous cell carcinoma Lung]]
+- Multiple myeloma ([[diff bw Osteoporosis, Pagets, osteomalacia, myeloma, meta, b cell lymphoma, sarcoidosis|ALP is normal]]) 
+- Granuloma: [[Sarcoidosis]]/[[tuberculosis|TB]]/Histoplasmosis -> Sarcoidosis check serum ACE. 
 - Vit D intoxication, acromegaly, Thyrotoxicosis, [[Thiazides]], Ca containing antacids, Dehydration, Addison's, Paget's disease of bone
 # Signs
 First sign is drowsiness & increased thirst -> **Excessive thirst** presents with **hypercalcemia** first. Not hyponatremia.
@@ -25,7 +25,7 @@ Mnemonic: Bones, Stones, Groans, Moans #mnemonic
 **CVS**: Short QT Interval.
 
 # Investigation:
-**History of SqCC of lung + Hypercalcemia**
+**History of [[cancer- lung|Squamous cell carcinoma Lung]] + Hypercalcemia**
 1. First step: Check serum Parathyroid hormone level.
 	1. In lung malignancy, serum PTH level would be low -> (this allows us to rule out primary/ tertiary [[hyperparathyroidism]]
 2. Then check ALP
