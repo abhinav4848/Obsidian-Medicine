@@ -118,42 +118,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "amaurosis fugax.md",
+                "file": "retinal detachment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "amaurosis fugax"
+              "title": "retinal detachment"
             }
           },
           {
-            "id": "e01cd0b29c4fcfc2",
+            "id": "ebf19b771283518a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atrial fibrillation.md",
+                "file": "loss of vision.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "atrial fibrillation"
-            }
-          },
-          {
-            "id": "855d3619ee2ff3a8",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".trash/paraneoplastic syndrome.md",
-                "bFile": ".trash/paraneoplastic syndrome.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: paraneoplastic syndrome"
+              "title": "loss of vision"
             }
           },
           {
@@ -199,9 +185,39 @@
               "icon": "globe-2",
               "title": "MRCGP AKT Feedback report, AKT 55, April 2025"
             }
+          },
+          {
+            "id": "8c2c270384c56fcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "loss of vision.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "loss of vision"
+            }
+          },
+          {
+            "id": "037c8b5ba074a1e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "glaucoma- open angle.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "glaucoma- open angle"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -254,8 +270,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -352,7 +367,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "amaurosis fugax.md",
+                "file": "glaucoma- open angle.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -362,7 +377,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for amaurosis fugax"
+              "title": "Backlinks for glaucoma- open angle"
             }
           }
         ]
@@ -382,10 +397,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7fd604267be46fd2",
+  "active": "037c8b5ba074a1e9",
   "lastOpenFiles": [
-    "TIA.md",
+    "retinitis pigmentosa.md",
+    "glaucoma- open angle.md",
+    "glaucoma- Acute angle closure.md",
+    "red eye.md",
+    "loss of vision.md",
+    "endophthalmitis.md",
+    "haloperidol.md",
+    "hypercalcemia.md",
+    "atrial fibrillation.md",
+    "retinal detachment.md",
+    "attachments/retinal detachment.png",
+    "cRAO.md",
     "amaurosis fugax.md",
+    "refeeding syndrome.md",
+    "cRVO.md",
+    "attachments/brvo.png",
+    "attachments/crvo2.png",
+    "attachments/Pasted image 20250816215025.png",
+    "attachments/crvo1.png",
+    "TIA.md",
     "optic neuritis.md",
     "drugs that can cause ocular problems.md",
     "sildenafil.md",
@@ -397,31 +430,13 @@
     "hepatitis.md",
     "hyperthyroidism.md",
     "nitrofurantoin.md",
-    "shin lesions.md",
-    "hyponatremia.md",
-    "electrolytes.md",
-    "hypocalcemia.md",
-    "atrial fibrillation.md",
-    "hypercalcemia.md",
-    "hypokalemia.md",
-    "metabolic acidosis.md",
     "attachments/metabolic acidosis.png",
-    "bartter's syndrome.md",
-    "cushing's syndrome.md",
-    "addison's disease.md",
-    "hyperkalemia.md",
-    "gout.md",
     "attachments/cushing's investigation.png",
     "desktop.ini",
     "Untitled",
     "attachments/overlap of serotonin syndrome and neuroleptic malignant syndrome.png",
     "attachments/erythema nodosum.png",
     "attachments/howell jolly bodies.png",
-    "attachments/heinz bodies.png",
-    "attachments/basophilic stippling.png",
-    "attachments/auer rods (AML).png",
-    "attachments/dacryocyte.png",
-    "attachments/spherocytes.png",
     "chicken Pox treatment flowchart (Work in progress).canvas",
     "_duplicates",
     "_chicken Pox treatment flowchart (Work in progress).canvas",

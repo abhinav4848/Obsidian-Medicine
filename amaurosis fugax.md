@@ -2,7 +2,7 @@
 tags:
   - ophthal
 ---
-[[CRAO]] TIA.
+[[cRAO]] TIA.
 Monocular painless visual loss. (also seen in [[optic neuritis]])
 
 May be associated with [[giant cell arteritis]].
