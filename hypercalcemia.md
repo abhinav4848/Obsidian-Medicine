@@ -14,7 +14,7 @@ Hypercalcemia (Normal: 2.1 - 2.6mmol/L)
 # Signs
 First sign is drowsiness & increased thirst -> **Excessive thirst** presents with **hypercalcemia** first. Not hyponatremia.
 
-Mnemonic: Bones, Stones, Groans, Moans #mnemonic 
+**Mnemonic**: Bones, Stones, Groans, Moans #mnemonic 
 
 | **Condition**             | Description                                                                                                                      |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
