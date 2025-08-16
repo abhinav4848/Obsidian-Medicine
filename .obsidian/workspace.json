@@ -73,13 +73,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hypercalcemia.md",
+                "file": "cancer- lung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hypercalcemia"
+              "title": "cancer- lung"
+            }
+          },
+          {
+            "id": "21652445e2a3095e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hyperparathyroidism.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "hyperparathyroidism"
+            }
+          },
+          {
+            "id": "1436047b69d8d3d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paget's disease of bone.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "paget's disease of bone"
             }
           },
           {
@@ -141,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -173,7 +203,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "osteitis",
+                "query": "hypocal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -291,7 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hypercalcemia.md",
+                "file": "paget's disease of bone.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +331,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hypercalcemia"
+              "title": "Backlinks for paget's disease of bone"
             }
           }
         ]
@@ -321,11 +351,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0ba4585b639e53c",
+  "active": "1436047b69d8d3d8",
   "lastOpenFiles": [
-    "desktop.ini",
-    "cancer- lung.md",
+    "hyperparathyroidism.md",
     "hypercalcemia.md",
+    "hypocalcemia.md",
+    "paget's disease of bone.md",
+    "cancer- lung.md",
+    "Untitled",
+    "bisphosphonates.md",
+    "osteoporosis.md",
+    "cancer- drugs involved in gynae cancers.md",
+    "desktop.ini",
     "cancers metastasizing to the bone.md",
     "laxatives.md",
     "metoclopramide.md",
@@ -344,11 +381,6 @@
     "tardive dyskinesia.md",
     "haloperidol.md",
     "qT prolongation.md",
-    "afro-Caribbean.md",
-    "tricyclic antidepressants.md",
-    "gynaecomastia.md",
-    "depression.md",
-    "prostate.md",
     "attachments/overlap of serotonin syndrome and neuroleptic malignant syndrome.png",
     "attachments/erythema nodosum.png",
     "attachments/howell jolly bodies.png",

@@ -18,7 +18,7 @@ Mnemonic: Bones, Stones, Groans, Moans #mnemonic
 
 | **Condition**             | Description                                                                                                                      |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| **Painful Bones**     | Painful bone condition (Classically osteitis fibrosa cystica). Seen only in primary Hypercalcemia. i.e. [[Hyperparathyroidism]]. |
+| **Painful Bones**     | Painful bone condition (Classically osteitis fibrosa cystica). Seen only in primary Hypercalcemia. i.e. [[hyperparathyroidism]]. |
 | **Renal Stones**      | Kidney Stones (Can ultimately lead to Renal failure), Polyuria, polydipsia. (Hypercalcemia induces [[nephrogenic DI]])           |
 | **Abdominal Groans**  | GI symptoms due to reduced bowel movements from Calcium: Nausea, Vomiting, Constipation, Indigestion                             |
 | **Psychiatric Moans** | Effects on nervous system: lethargy, fatigue, memory loss, psychosis, depression (low mood), confusion                           |
@@ -41,5 +41,5 @@ Mnemonic: Bones, Stones, Groans, Moans #mnemonic
 Give iv NS first to excrete Calcium.
 	HTN can occur due to hypercalcemia. This does not c/i iv fluid as initial management.
 	This is cuz Hypercalcemia causes polyuria -> Dehydration -> Hypovolemia -> Hypernatremia
-Then iv [[Bisphosphonates]].
-Finally we have Monoclonal antibodies. 
+Then iv [[Bisphosphonates]] (zoledronate)
+Finally we have Monoclonal antibodies (Denosumab). 
