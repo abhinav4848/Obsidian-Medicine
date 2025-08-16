@@ -4,13 +4,14 @@ tags:
   - genetics
 aliases:
   - Neonatal blood spot screening
+  - Heel prick test
 ---
 Neonatal blood spot screening (previously called the Guthrie test or 'heel-prick test') is performed at 5-9 days of life. 
 
 ## The following conditions are currently screened for
-- Congenital [[Hypothyroidism]]
+- [[Congenital hypothyroidism]]
 - [[Cystic Fibrosis]]
-- [[Sickle cell|Sickle cell anemia]]
+- [[Sickle cell|Sickle cell anaemia]]
 - 6 inherited metabolic diseases
 	- Phenylketonuria
 	- Medium chain acyl-CoA dehydrogenase deficiency (MCADD)

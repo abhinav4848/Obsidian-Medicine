@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "592efbc906051dab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "laxatives.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "laxatives"
-            }
-          },
-          {
             "id": "7959dffcf89916c4",
             "type": "leaf",
             "state": {
@@ -43,13 +28,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "haloperidol.md",
+                "file": "parkinson's disease.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "haloperidol"
+              "title": "parkinson's disease"
+            }
+          },
+          {
+            "id": "3331e1726edd0b78",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "attachments/anticholinergic burden.png"
+              },
+              "icon": "lucide-image",
+              "title": "anticholinergic burden"
             }
           },
           {
@@ -65,84 +62,9 @@
               "icon": "globe-2",
               "title": "MRCGP AKT Feedback report, AKT 55, April 2025"
             }
-          },
-          {
-            "id": "add900be049bb791",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thyroid nodule.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "thyroid nodule"
-            }
-          },
-          {
-            "id": "0ae02c89e6221017",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thyroid storm.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "thyroid storm"
-            }
-          },
-          {
-            "id": "1c35d8a981e43d21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sick euthyroid.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "sick euthyroid"
-            }
-          },
-          {
-            "id": "a3c605d028c466c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hyperthyroidism.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "hyperthyroidism"
-            }
-          },
-          {
-            "id": "9a6cffaad48379d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thyroiditis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "thyroiditis"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "drug",
+                "query": "movicol",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -292,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thyroiditis.md",
+                "file": "parkinson's disease.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,7 +224,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for thyroiditis"
+              "title": "Backlinks for parkinson's disease"
             }
           }
         ]
@@ -319,38 +241,40 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsifetch:obsifetch": false
     }
   },
-  "active": "9a6cffaad48379d9",
+  "active": "3369b23d3d5fc432",
   "lastOpenFiles": [
-    "subacute thyroiditis.md",
-    "hyperthyroidism.md",
-    "thyroiditis.md",
-    "sick euthyroid.md",
-    "thyroid storm.md",
-    "thyroid nodule.md",
+    "attachments/parkinson's drugs and effects.png",
+    "parkinson's disease.md",
+    "anticholinergic burden.md",
+    "attachments/anticholinergic burden.png",
+    "laxatives.md",
+    "eating disorder.md",
+    "Digoxin.md",
+    "hypokalemia.md",
+    "lung fibrosis.md",
+    "cytotoxic drugs.md",
     "haloperidol.md",
-    "red eye.md",
-    "endophthalmitis.md",
-    "loss of vision.md",
-    "macular degeneration.md",
-    "confusion in ophthalmology.md",
-    "optic neuritis.md",
-    "multiple sclerosis.md",
-    "drugs that can cause ocular problems.md",
-    "tuberculosis.md",
-    "cancer & associations.md",
-    "glaucoma- acute angle closure.md",
-    "glaucoma- open angle.md",
-    "retinitis pigmentosa.md",
-    "hypercalcemia.md",
-    "atrial fibrillation.md",
-    "retinal detachment.md",
-    "attachments/retinal detachment.png",
-    "cRAO.md",
-    "amaurosis fugax.md",
     "refeeding syndrome.md",
+    "thyroid nodule.md",
+    "thyroid storm.md",
+    "sick euthyroid.md",
+    "hyperthyroidism.md",
+    "paget's disease of bone.md",
+    "hypothyroidism.md",
+    "hyperparathyroidism.md",
+    "myxedema coma.md",
+    "guthrie test.md",
+    "2025-08-16.md",
+    "sickle cell.md",
+    "congenital hypothyroidism.md",
+    "pseudogout.md",
+    "thyroiditis.md",
+    "subacute thyroiditis.md",
+    "attachments/retinal detachment.png",
     "attachments/brvo.png",
     "attachments/crvo2.png",
     "attachments/Pasted image 20250816215025.png",
@@ -360,8 +284,6 @@
     "desktop.ini",
     "Untitled",
     "attachments/overlap of serotonin syndrome and neuroleptic malignant syndrome.png",
-    "attachments/erythema nodosum.png",
-    "attachments/howell jolly bodies.png",
     "chicken Pox treatment flowchart (Work in progress).canvas",
     "_duplicates",
     "_chicken Pox treatment flowchart (Work in progress).canvas",

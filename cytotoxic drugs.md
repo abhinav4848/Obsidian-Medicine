@@ -2,6 +2,8 @@
 tags:
   - pharmacology
   - oncology
+aliases:
+  - side effects of cancer drugs
 ---
 # Platinum compounds
 *Peripheral neuropathy due to chemotherapy drugs:* 

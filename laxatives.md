@@ -15,7 +15,7 @@ Docusate
 Decrease the surface tension of faecal mass and increase intestinal fluid in the stool, lubricating it, thus making it easier to pass
 
 ## Osmotic laxatives
-Lactulose, Macrogols (movicol, laxido), and Magnesium sulphate/hydroxide. 
+Lactulose, Macrogols (cosmocol, movicol, laxido), and Magnesium sulphate/hydroxide. 
 Draw fluid into the bowel and soften stools.
 Can lead to abdominal cramps, N/V/D. 
 
@@ -47,3 +47,6 @@ For patients with **chronic constipation** (constipation symptoms for at least
 **Step 1**: Start bulk-forming laxative
 **Step 2**: Add or change to osmotic laxative
 **Step 3**: Add stimulant laxative
+
+---
+Cosmocol & Sodium picosulfate is given in [[inflammatory Bowel Disease|Crohn's disease]] as it constricts the bowel. 

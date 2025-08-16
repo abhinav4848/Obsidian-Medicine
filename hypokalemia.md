@@ -1,6 +1,8 @@
 ---
 tags:
   - endocrine
+aliases:
+  - hypokalaemia
 ---
 # Causes
 #mnemonic: BBADD VVCCR

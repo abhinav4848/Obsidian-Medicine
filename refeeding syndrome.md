@@ -11,10 +11,10 @@ Administer carbs -> high glucose -> increased insulin -> Increased uptake of **K
 Overall loss of **KMP**: loss of K+, Mg2+, P 
 They also have loss of thiamine, Vit B12, multivitamins & trace minerals. 
 Can have sodium retention and lead to volume overload. 
-# Clinical Features: 
+# Clinical Features 
 Cardiac, pulmonary, neurologic.
 Tissue hypoxia, Myocardial dysfunction, inability for diaphragm to contract.
-Hypophosphatemia, Hypokalemia, CHF, Peripheral edema.
+Hypophosphatemia, [[Hypokalemia]], CHF, Peripheral edema.
 Thiamine deficiency -> if feed carbs, can precipitate wernicke encephalopathy, so give thiamine before providing nutritional support.
 
 # Treatment

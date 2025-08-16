@@ -2,7 +2,7 @@
 tags:
   - hematology
 aliases:
-  - sickle cell anemia
+  - sickle cell anaemia
   - sickle cell disease
 ---
 # Sickle Cell
