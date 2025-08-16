@@ -12,7 +12,7 @@ It’s an [[P450|enzyme inhibitor]] and will increase effectiveness of OCP, warf
 
 Reduces excretion of [[Lithium]] and can toxicity.
 
-Can cause [[Optic Neuritis]].
+Can cause [[optic neuritis]].
 
 # Side Effects
 Rarely it can lead to neurotoxic effects, including peripheral neuropathy, ototoxicity, encephalopathy and seizures.

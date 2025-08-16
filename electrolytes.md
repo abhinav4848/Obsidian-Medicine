@@ -6,6 +6,8 @@ tags:
 [[hypercalcemia]]
 [[hypocalcemia]]
 # Magnesium
+# Sodium
+[[hyponatremia]]
 # Potassium
 [[hyperkalemia]]
 [[hypokalemia]]

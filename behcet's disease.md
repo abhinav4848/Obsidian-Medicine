@@ -11,7 +11,7 @@ Behcet's disease is a form of **vasculitis** which primarily targets small arter
 **Classical triad** #triad: 
 1. Oral ulcers ([[aphthous ulcer]])- painful, on mouth or tongue. 
 2. [[genital ulcers]]
-3. Ocular lesion- [[uveitis]], [[episcleritis|scleritis]], [[Optic Neuritis]]. 
+3. Ocular lesion- [[uveitis]], [[episcleritis|scleritis]], [[optic neuritis]]. 
 
 Also skin lesions ([[erythema nodosum]]), thrombophlebitis, DVT, arthritis, Aseptic meningitis.
 # Associated with

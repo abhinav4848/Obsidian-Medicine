@@ -5,7 +5,7 @@ tags:
 Hypercalcemia / Hyperparathyroidism 
 Hypercalcemia (Normal: 2.1 - 2.6mmol/L)
 # Aetiology
-- Primary [[Hyperthyroidism]] (Associated with increased PTH, Decreased Phosphate). 
+- Primary [[hyperthyroidism]] (Associated with increased PTH, Decreased Phosphate). 
 - [[cancers metastasizing to the bone|Bone metastasis]] from Prostate, Breast, etc. 
 - [[cancer- lung|Squamous cell carcinoma Lung]]
 - Multiple myeloma ([[diff bw Osteoporosis, Pagets, osteomalacia, myeloma, meta, b cell lymphoma, sarcoidosis|ALP is normal]]) 
