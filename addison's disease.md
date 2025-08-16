@@ -1,17 +1,19 @@
 ---
 tags:
   - endocrine
+aliases:
+  - Addison's
 ---
 **Primary insufficiency**: Problem with gland itself.
 
 Due to autoimmune in developed world, TB in developing.
 
 ## High ACTH
-**Hyperpigmentation** (Can also be seen in case of ACTH secreting tumor (ACTH dependent [[cushing's|cushing syndrome]])). 
+**Hyperpigmentation** (Can also be seen in case of ACTH secreting tumour (ACTH dependent [[cushing's syndrome]])).
 	Hyperpigmentation (of buccal mucosa, palmar creases -> only in primary Addison's) #important 
 
 **Low cortisol**: Postural hypotension, Hypoglycemia.
-**Low aldosterone**: Hyponatremia, Hyperkalemia.
+**Low aldosterone**: [[hyponatremia]], [[hyperkalemia]].
 
 **Salt/Sugar/Steroids low**: Hyponatremia, Hypoglycemia, Hypotension, weight loss, drop in energy.
 The only hypers are Hyperkalemia, Hyperpigmentation, [[Hypercalcemia]].

@@ -6,7 +6,7 @@ Cause of obesity in children
 - growth hormone deficiency
 - [[hypothyroidism]]
 - [[Down's syndrome]]
-- [[Cushing's syndrome]]
+- [[cushing's syndrome]]
 - Prader-Willi syndrome
 
 Consequences of obesity in children  

@@ -9,7 +9,7 @@ Connected to insulin resistance.
 1. T2DM (sign of insulin resistance),
 2. Conditions affecting hormone levels:
 	1. PCOS,
-	2. [[Cushing's syndrome]], 
+	2. [[cushing's syndrome]], 
 	3. Hypothyroid,
 	4. Acromegaly
 3. Certain meds can cause: Steroids, OCPs, Nicotinic acid
