@@ -8,51 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d9c89ef504d65e46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "metoclopramide.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "metoclopramide"
-            }
-          },
-          {
-            "id": "ab13c2759602f82f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cyclizine.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "cyclizine"
-            }
-          },
-          {
-            "id": "33fdb79f3e7b9242",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tuberculosis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "tuberculosis"
-            }
-          },
-          {
             "id": "592efbc906051dab",
             "type": "leaf",
             "state": {
@@ -68,36 +23,6 @@
             }
           },
           {
-            "id": "a0ba4585b639e53c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cancer- lung.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "cancer- lung"
-            }
-          },
-          {
-            "id": "21652445e2a3095e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hyponatremia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "hyponatremia"
-            }
-          },
-          {
             "id": "7959dffcf89916c4",
             "type": "leaf",
             "state": {
@@ -110,51 +35,6 @@
               },
               "icon": "lucide-file",
               "title": "refeeding syndrome"
-            }
-          },
-          {
-            "id": "7fd604267be46fd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retinal detachment.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "retinal detachment"
-            }
-          },
-          {
-            "id": "ebf19b771283518a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "loss of vision.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "loss of vision"
-            }
-          },
-          {
-            "id": "92506ef2cdcf9153",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hypercalcemia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "hypercalcemia"
             }
           },
           {
@@ -187,37 +67,82 @@
             }
           },
           {
-            "id": "8c2c270384c56fcb",
+            "id": "add900be049bb791",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "loss of vision.md",
+                "file": "thyroid nodule.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "loss of vision"
+              "title": "thyroid nodule"
             }
           },
           {
-            "id": "037c8b5ba074a1e9",
+            "id": "0ae02c89e6221017",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "glaucoma- open angle.md",
+                "file": "thyroid storm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "glaucoma- open angle"
+              "title": "thyroid storm"
+            }
+          },
+          {
+            "id": "1c35d8a981e43d21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sick euthyroid.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "sick euthyroid"
+            }
+          },
+          {
+            "id": "a3c605d028c466c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hyperthyroidism.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "hyperthyroidism"
+            }
+          },
+          {
+            "id": "9a6cffaad48379d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thyroiditis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "thyroiditis"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -367,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "glaucoma- open angle.md",
+                "file": "thyroiditis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -377,7 +302,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for glaucoma- open angle"
+              "title": "Backlinks for thyroiditis"
             }
           }
         ]
@@ -397,15 +322,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "037c8b5ba074a1e9",
+  "active": "9a6cffaad48379d9",
   "lastOpenFiles": [
-    "retinitis pigmentosa.md",
-    "glaucoma- open angle.md",
-    "glaucoma- Acute angle closure.md",
-    "red eye.md",
-    "loss of vision.md",
-    "endophthalmitis.md",
+    "subacute thyroiditis.md",
+    "hyperthyroidism.md",
+    "thyroiditis.md",
+    "sick euthyroid.md",
+    "thyroid storm.md",
+    "thyroid nodule.md",
     "haloperidol.md",
+    "red eye.md",
+    "endophthalmitis.md",
+    "loss of vision.md",
+    "macular degeneration.md",
+    "confusion in ophthalmology.md",
+    "optic neuritis.md",
+    "multiple sclerosis.md",
+    "drugs that can cause ocular problems.md",
+    "tuberculosis.md",
+    "cancer & associations.md",
+    "glaucoma- acute angle closure.md",
+    "glaucoma- open angle.md",
+    "retinitis pigmentosa.md",
     "hypercalcemia.md",
     "atrial fibrillation.md",
     "retinal detachment.md",
@@ -413,23 +351,10 @@
     "cRAO.md",
     "amaurosis fugax.md",
     "refeeding syndrome.md",
-    "cRVO.md",
     "attachments/brvo.png",
     "attachments/crvo2.png",
     "attachments/Pasted image 20250816215025.png",
     "attachments/crvo1.png",
-    "TIA.md",
-    "optic neuritis.md",
-    "drugs that can cause ocular problems.md",
-    "sildenafil.md",
-    "spironolactor.md",
-    "nicorandil.md",
-    "papilledema.md",
-    "aphthous ulcer.md",
-    "tuberculosis.md",
-    "hepatitis.md",
-    "hyperthyroidism.md",
-    "nitrofurantoin.md",
     "attachments/metabolic acidosis.png",
     "attachments/cushing's investigation.png",
     "desktop.ini",

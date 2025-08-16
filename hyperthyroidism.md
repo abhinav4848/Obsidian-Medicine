@@ -5,15 +5,13 @@ aliases:
   - thyrotoxicosis
   - Grave's disease
   - Subacute thyroiditis
-  - De Quervain thyroiditis
 ---
 ## Grave's
 TSH low, T4 high, Radioactive Iodine uptake increased
 TPO antibody, TSH receptor antibody present.
 Thyroid non-tender, ESR normal.
-## Subacute thyroiditis (De Quervain)
-TSH low, T4 high, Radioactive Iodine uptake decreased
-Thyroid tender, ESR raised
+
+*see [[subacute thyroiditis|De Quervain thyroiditis]] (also see confusions with [[thyroiditis]]).* 
 
 ---
 # Clinical Features

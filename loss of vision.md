@@ -12,14 +12,12 @@ Ischemic/vascular (Thrombosis/embolism)
 	- Can happen due to embolus/giant cell arteritis.
 - Vitreous haemorrhage
 - [[retinal detachment]]
-
-- Curtain falling. Optic disc normal.
+	- Curtain falling. Optic disc normal.
 
 - Anterior Ischemic Optic neuropathy. Normally seen in people > 50yo.
 - Vasculitis: Temporal arteritis
 - Retinal migraine
 - Cerebrovascular accident
-
 # Gradual painless
-- Glaucoma- open angle
-- Macular degeneration
+- [[glaucoma- open angle]]
+- [[macular degeneration]]

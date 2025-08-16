@@ -10,7 +10,7 @@ tags:
 - indomethacin
 
 **[[Optic neuritis]]**
-- ethambutol
+- [[tuberculosis|ethambutol]]
 - amiodarone
 - [[metronidazole]]
 
