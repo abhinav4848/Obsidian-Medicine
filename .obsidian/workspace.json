@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "autoimmune hemolytic anemia.md",
+                "file": "anticipatory meds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "autoimmune hemolytic anemia"
+              "title": "anticipatory meds"
             }
           }
         ]
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "autoimmune hemolytic anemia.md",
+                "file": "anticipatory meds.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for autoimmune hemolytic anemia"
+              "title": "Backlinks for anticipatory meds"
             }
           }
         ]
@@ -203,8 +203,9 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "676efa40181a3294",
+  "active": "7a02de7c56633e9c",
   "lastOpenFiles": [
+    "autoimmune hemolytic anemia.md",
     "anticipatory meds.md",
     "acromegaly.md",
     "hyperprolactinemia.md",
@@ -230,7 +231,6 @@
     "androgen insensitivity syndrome.md",
     "pcos.md",
     "hirsutism.md",
-    "congenital adrenal hyperplasia.md",
     "desktop.ini",
     "attachments/anticholinergic burden.png",
     "attachments/Pasted image 20250817001016.png",
