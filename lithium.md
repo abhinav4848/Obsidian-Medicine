@@ -8,7 +8,7 @@ Toxicity can be caused by DAMN (not to be confused with DAMN in [[diarrhoea|diar
 - [[Metronidazole]], 
 - NSAIDs -> Reduces eGFR.
 
-Lithium can cause [[Congenital Cyanotic diseases of Heart|Ebstein's anomaly]] in fetus #associated 
+Lithium can cause [[congenital cyanotic diseases of Heart|Ebstein's anomaly]] in fetus #associated 
 
 # Clinical Features of toxicity
 Confusion, ataxia, tremor, seizure, polyuria.

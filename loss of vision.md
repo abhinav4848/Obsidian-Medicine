@@ -4,8 +4,8 @@ tags:
 ---
 # Sudden painless
 Ischemic/vascular (Thrombosis/embolism)
-- [[cRVO|retinal vein occlusion]]
-- [[cRAO|retinal artery occlusion]]
+- [[crvo|retinal vein occlusion]]
+- [[crao|retinal artery occlusion]]
 	- Curtain falling.
 	- Optic disc pale. Macula cherry red cuz diff artery supply.
 	- CRAO TIA: [[Amaurosis fugax]].

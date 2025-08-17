@@ -15,4 +15,4 @@ Used for leg cramps, SLE.
 4. Can cause [[Lichen Planus|lichenoid drug eruptions]].
 5. Bull's eye [[retinopathy]].
 6. Can cause [[plaque psoriasis]].
-7. Can cause [[QT prolongation|long QT syndrome]].
+7. Can cause [[qt prolongation|long QT syndrome]].

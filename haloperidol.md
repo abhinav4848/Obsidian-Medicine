@@ -12,7 +12,7 @@ Central dopamine receptor antagonist- avoid in [[parkinson's disease]].
 Reduce starting dose in renal impairment
 
 # Side Effect
-[[qT prolongation]]
+[[qt prolongation]]
 Sexual dysfunction: 
 
 |             |                            |                                |

@@ -11,7 +11,7 @@ First fat female born oligo breech in a family with such history
 	Firstborn, birth wt. > 5kgs, Girl child, oligohydramnios, breech presentation, family history,
 Age < 3yo
 # Clinical Features
-[[Limping Child|Limping]], painless leg that is shorter than the other. Unequal skin folds.
+[[limping child|Limping]], painless leg that is shorter than the other. Unequal skin folds.
 ### Exam:
 Barlow #named : attempt to dislocate an articulated femoral head. Note: might be negative if hip is already dislocated at the time of presentation. 
 Ortolani #named : relocate a dislocated femoral head.

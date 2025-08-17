@@ -11,48 +11,18 @@
             "id": "7a02de7c56633e9c",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.rcgp.org.uk/getmedia/329b2746-a3d5-4631-9f20-81e5f3074821/April-2025-AKT-feedback-report.pdf",
-                "title": "MRCGP AKT Feedback report, AKT 55, April 2025",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "MRCGP AKT Feedback report, AKT 55, April 2025"
-            }
-          },
-          {
-            "id": "6cbc1d017ea4ab89",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "acromegaly.md",
+                "file": "anticipatory meds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "acromegaly"
-            }
-          },
-          {
-            "id": "19c3021706084d6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "amenorrhoea.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "amenorrhoea"
+              "title": "anticipatory meds"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lithium",
+                "query": "antici",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -105,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "amenorrhoea.md",
+                "file": "anticipatory meds.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +183,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for amenorrhoea"
+              "title": "Backlinks for anticipatory meds"
             }
           }
         ]
@@ -233,36 +204,36 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "19c3021706084d6c",
+  "active": "7a02de7c56633e9c",
   "lastOpenFiles": [
     "acromegaly.md",
+    "hyperprolactinemia.md",
+    "depression.md",
+    "citalopram.md",
+    "glaucoma- acute angle closure.md",
+    "qt prolongation.md",
+    "hypocalcemia.md",
+    "upper gi bleed.md",
+    "tia.md",
+    "side effects of cvs drugs.md",
+    "paeds orthopedics differences- ddh, perthe's, sufe.md",
+    "limping child.md",
+    "granulomatosis with polyangiitis.md",
+    "gord in children.md",
+    "gord.md",
+    "hla-b27.md",
+    "hhv.md",
+    "digoxin.md",
+    "crvo.md",
+    "crao.md",
     "amenorrhoea.md",
-    "diabetes in palliative care.md",
-    "pre-op diabetes control.md",
-    "anti-diabetic drugs.md",
-    "refeeding syndrome.md",
-    "parkinson's disease.md",
-    "diabetes treatment.md",
-    "glycosuria.md",
-    "hba1c readings.md",
-    "hhs.md",
-    "hyperglycemia.md",
-    "hypoglycemia.md",
-    "mody.md",
-    "diagnosing DM.md",
+    "androgen insensitivity syndrome.md",
+    "pcos.md",
+    "hirsutism.md",
+    "congenital adrenal hyperplasia.md",
+    "precocious puberty.md",
     "desktop.ini",
-    "gestational diabetes.md",
-    "diabetic ketoacidosis.md",
-    "diabetes mellitus 1.md",
-    "lithium.md",
-    "anticipatory meds.md",
-    "anti-muscarinic.md",
-    "antipsychotic drugs.md",
-    "haloperidol.md",
-    "supranuclear palsy.md",
     "attachments/anticholinergic burden.png",
-    "morphine breakthrough dose.md",
-    "extrapyramidal side-effects.md",
     "attachments/Pasted image 20250817001016.png",
     "attachments/parkinson's drugs and effects 2.png",
     "attachments/parkinson's drugs and effects 1.png",

@@ -3,7 +3,7 @@ aliases:
   - Perthe's Disease
   - Perthe's
 ---
-Degenerative condition of hip joints in [[Limping Child|children]] aged 3 - 9 years. (more common in boys & 10% cases are b/l)
+Degenerative condition of hip joints in [[limping child|children]] aged 3 - 9 years. (more common in boys & 10% cases are b/l)
 
 Leads to avascular necrosis of femur epiphysis.
 Chronic disease.

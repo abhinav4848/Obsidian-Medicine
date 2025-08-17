@@ -13,7 +13,7 @@ Monoarthritis,
 	• Acute, hot, painful joint.
 	• Restricted joint movement
 
-Children <3yo are greatly vulnerable: Orthopedic emergency. *See [[Limping Child]]*.
+Children <3yo are greatly vulnerable: Orthopedic emergency. *See [[limping child]]*.
 
 **Kocher's criteria** #named for septic arthritis in children (Kocher's WIFE)
 	• WCC > 12 * 10^9/L - 1 point

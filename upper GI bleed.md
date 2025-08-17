@@ -5,6 +5,7 @@ tags:
 aliases:
   - UGIB
   - hematemesis
+  - Upper GI bleed
 ---
 An upper gastrointestinal bleed can act as a 'protein meal' and cause a temporary, **disproportionate rise in the blood urea**.
 # Causes

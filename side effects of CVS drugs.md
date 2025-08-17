@@ -10,7 +10,7 @@ Cough, Angioedema, c/i in Renal artery stenosis, [[Hyperkalemia]] (due to block 
 **CCB**: Edema, Gingival hypertrophy
 
 **Loop diuretic**
-Hypo NaBpK, HyperU
+Hypo NaBpK, HyperU #mnemonic 
 
 **Thiazide:**
 HypoNaBpK ([[Hyponatremia]], Hypotension, [[hypokalemia]])

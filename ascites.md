@@ -11,4 +11,4 @@ The causes of ascites can be grouped into those with a serum-ascites albumin gra
 
 Prophylactic antibiotics to reduce the risk of SBP (spontaneous bacterial peritonitis). NICE recommend: 'Offer prophylactic Quinolone: Oral [[ciprofloxacin]] #abx or norfloxacin for people with cirrhosis and ascites with an ascitic protein of 15 g/liter or less, until the ascites has resolved'.
 
-Quinolones are also used for [[upper GI bleed|UGIB]] in [[cirrhosis]] patients.
+Quinolones are also used for [[upper gi bleed|UGIB]] in [[cirrhosis]] patients.

@@ -6,7 +6,7 @@ tags:
 url: https://dermnetnz.org/topics/behcet-disease
 ---
 Behcet's disease is a form of **vasculitis** which primarily targets small arteries, but can affect both arteries and veins of all sizes.
-*Happens due to HLA-B51. (see [[HLA-B27]]).* 
+*Happens due to HLA-B51. (see [[hla-b27]]).* 
 # Clinical Features
 **Classical triad** #triad: 
 1. Oral ulcers ([[aphthous ulcer]])- painful, on mouth or tongue. 
