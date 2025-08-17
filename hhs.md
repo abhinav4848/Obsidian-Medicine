@@ -3,9 +3,10 @@ tags:
   - endocrine
   - diabetes
 aliases:
+  - Hyperosmolar hyperglycemic state
 ---
 Commonly seen in elderly with new diagnosis of T2DM.
-patients are at risk of thrombosis due to hyperviscosity.
+patients are at risk of thrombosis due to hyper-viscosity.
 
 Whilst DKA presents within hours of onset, HHS comes on over many days, and consequently, the dehydration and metabolic disturbances may be more extreme.
 

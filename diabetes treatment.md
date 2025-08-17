@@ -5,7 +5,8 @@ tags:
 ---
 HbA1c target < 48 (i.e. Pre-diabetic levels are acceptable)
 NICE PDF: [https://www.nice.org.uk/guidance/ng28](https://www.nice.org.uk/guidance/ng28)
-See [[anti-Glycemic Drugs]]
+
+*See [[anti-diabetic drugs]].* 
 # Rx based on target levels
 If new diagnosis: Lifestyle advice
 	Exercise: 30 mins moderate intensity physical activity 5 times/week.

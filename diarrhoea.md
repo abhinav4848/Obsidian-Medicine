@@ -39,7 +39,7 @@ Other conditions associated with diarrhoea include:
 If diarrhoea, stop/reduce DAMN #mnemonic : 
 - Diuretics, 
 - [[ace inhibitors|ACE inhibitor]]s, ARB, 
-- [[Anti-Glycemic Drugs|Metformin]], 
+- [[anti-diabetic drugs|Metformin]], 
 - NSAID.
 *Not to be confused with DAMN in [[Lithium]] toxicity.* 
 

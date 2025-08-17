@@ -1,6 +1,7 @@
 ---
 aliases:
   - metformin
+  - sulphonylureas
 tags:
   - pharmacology
   - diabetes
