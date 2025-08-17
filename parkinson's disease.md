@@ -1,12 +1,16 @@
 ---
 tags:
   - neurology
+aliases:
+  - parkinsonism
+  - levodopa
+  - Parkinson's
 ---
 Resting tremors, lead pipe, cogwheel rigidity (an increased tone that has a 'ratchety' feel due to superimposed tremor), Psychiatric: Depression.
 
 In idiopathic Parkinson, upward gaze is more affected
 
-In Supranuclear palsy, down gaze is more affected.
+In [[supranuclear palsy]], down gaze is more affected.
 
 # Treatment
 For first-line treatment:
@@ -19,7 +23,7 @@ For first-line treatment:
 | Activities of daily living | More     | Less              | Less             |
 | Motor complications        | More     | Fewer             | Fewer            |
 | Adverse events             | Fewer    | More              | Fewer            |
-![[parkinson's drugs and effects.png]]
+![[parkinson's drugs and effects 1.png]]
 - Motor complication: Dyskinesia/Chorea/athetosis (involuntary writhing movements) -> If seen, add Dopamine agonist, MAO-B-i, COMT-i.
 - Adverse events (seen most with Dopamine agonists): excessive sleepiness, hallucinations and impulse control disorders.
 
@@ -30,7 +34,7 @@ For first-line treatment:
 | Off time                   | More off‑time reduction | Off‑time reduction   | Off‑time reduction  | No such outcome                    |
 | Adverse events             | Intermediate risk       | Fewer adverse events | More adverse events | No such outcome                    |
 | Hallucinations             | More risk               | Lower risk           | Lower risk          | No such outcome                    |
-
+![[parkinson's drugs and effects 2.png]]
 # Drugs
 Levodopa
 - Given with a decarboxylase inhibitor (Carbidopa, Benserazide)

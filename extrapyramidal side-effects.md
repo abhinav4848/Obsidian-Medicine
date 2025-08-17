@@ -15,7 +15,7 @@ Mostly due to typical [[antipsychotic drugs|anti-psychotics]].
 Resting tremor. 
 # Acute dystonia
 - sustained muscle contraction (e.g. torticollis, oculogyric crisis: Involuntary upward movement of eye.)
-- may be managed with procyclidine (anti-cholinergic)
+- may be managed with procyclidine #antidote  (anti-cholinergic)
 # Akathisia
 severe restlessness
 # Tardive dyskinesia

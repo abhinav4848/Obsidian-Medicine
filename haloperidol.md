@@ -7,7 +7,7 @@ Central dopamine receptor antagonist- avoid in [[parkinson's disease]].
 # Indication
 1. drug induced nausea
 2. metabolic causes of nausea
-3. Settles agitation and [[antipsychotic drugs|psychosis]]. 
+3. Settles agitation and [[antipsychotic drugs|psychosis]] including hallucinations. 
 
 Reduce starting dose in renal impairment
 
