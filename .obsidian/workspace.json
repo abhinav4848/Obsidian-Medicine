@@ -43,13 +43,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anticipatory meds.md",
+                "file": "anti-Glycemic Drugs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "anticipatory meds"
+              "title": "anti-Glycemic Drugs"
+            }
+          },
+          {
+            "id": "d155f56edf78d423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "diagnosing DM.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "diagnosing DM"
             }
           },
           {
@@ -67,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "haloperid",
+                "query": "lithium",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -217,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anticipatory meds.md",
+                "file": "diagnosing DM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +242,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for anticipatory meds"
+              "title": "Backlinks for diagnosing DM"
             }
           }
         ]
@@ -248,10 +263,16 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "83c4004d58b2818e",
+  "active": "d155f56edf78d423",
   "lastOpenFiles": [
-    "anti-muscarinic.md",
+    "gestational diabetes.md",
+    "diagnosing DM.md",
+    "anti-Glycemic Drugs.md",
+    "diabetic ketoacidosis.md",
+    "diabetes mellitus 1.md",
+    "lithium.md",
     "anticipatory meds.md",
+    "anti-muscarinic.md",
     "antipsychotic drugs.md",
     "haloperidol.md",
     "supranuclear palsy.md",
@@ -275,12 +296,6 @@
     "refeeding syndrome.md",
     "thyroid nodule.md",
     "thyroid storm.md",
-    "sick euthyroid.md",
-    "hyperthyroidism.md",
-    "paget's disease of bone.md",
-    "hypothyroidism.md",
-    "hyperparathyroidism.md",
-    "myxedema coma.md",
     "attachments/retinal detachment.png",
     "attachments/brvo.png",
     "attachments/crvo2.png",

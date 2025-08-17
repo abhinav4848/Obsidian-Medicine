@@ -2,7 +2,7 @@
 tags:
   - pharmacology
 ---
-Toxicity can be caused by DAMN (not to be confused with DAMN in [[diarrhoea|diarrhoea]]) #mnemonic 
+Toxicity can be caused by DAMN (not to be confused with DAMN in [[diarrhoea|diarrhoea]]) #mnemonic #confusion 
 - Diuretics (Thiazides), 
 - [[ace inhibitors|ACE inhibitor]]/ARB, 
 - [[Metronidazole]], 
