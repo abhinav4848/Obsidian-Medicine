@@ -15,3 +15,7 @@ There may be symptoms of frontal lobe dementia, so don’t confuse with pick's.
 In idiopathic Parkinson, upward gaze is more affected
 In Supranuclear palsy, down gaze is more affected.
 
+---
+
+see [[bulbar and pseudobulbar palsy]]. 
+
