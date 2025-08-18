@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anticipatory meds.md",
+                "file": "laxatives.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "anticipatory meds"
+              "title": "laxatives"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:palliative",
+                "query": "laxati",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anticipatory meds.md",
+                "file": "laxatives.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for anticipatory meds"
+              "title": "Backlinks for laxatives"
             }
           }
         ]
@@ -202,10 +202,10 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "e8655fe722644f1f",
+  "active": "7a02de7c56633e9c",
   "lastOpenFiles": [
-    "autoimmune hemolytic anemia.md",
     "anticipatory meds.md",
+    "autoimmune hemolytic anemia.md",
     "acromegaly.md",
     "hyperprolactinemia.md",
     "depression.md",

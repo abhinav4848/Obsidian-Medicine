@@ -11,8 +11,9 @@ Patients should increase fluid intake.
 
 First line in pregnancy. 
 ## Emollient stool softeners 
-Docusate
-Decrease the surface tension of faecal mass and increase intestinal fluid in the stool, lubricating it, thus making it easier to pass
+Sodium Docusate
+Decrease the surface tension of faecal mass and increase intestinal fluid in the stool, lubricating it, thus making it easier to pass.
+It's only approved for bowel obstruction. 
 
 ## Osmotic laxatives
 Lactulose, Macrogols (cosmocol, movicol, laxido), and Magnesium sulphate/hydroxide. 
@@ -22,10 +23,15 @@ Can lead to abdominal cramps, N/V/D.
 >[!info]
 >Lactulose is used to treat **hepatic encephalopathy** as it reduces the intestinal production and absorption of ammonia.
 
+Lactulose is sickly sweet taste and needs ++fluids. 
+Laxido/Movicol need +fluid (125ml/sachet); and are good for faecal impaction. 
 ## Stimulant laxatives
 Senna, Bisacodyl (Dulcolax), Sodium Picosulfate
 Promote contraction of the intestines, promoting the movement of stools through the bowel.
 
+Picosulfate is preferred in palliative settings as it does not need much fluids and people who have lost their appetite and are struggling to drink, will not be able to take the amount of fluid Laxido etc needs. 
+
+---
 # Indications
 ### Short term constipation
 **Step 1**: Start bulk-forming laxative
@@ -47,6 +53,18 @@ For patients with **chronic constipation** (constipation symptoms for at least
 **Step 1**: Start bulk-forming laxative
 **Step 2**: Add or change to osmotic laxative
 **Step 3**: Add stimulant laxative
+
+---
+# PR Interventions
+Base it on what kind of faecal load (soft or hard stool) is present. 
+
+Soft loading
+- Bisacodyl suppository (stimulant, in contact with bowel wall)
+- Phosphate enema (high)
+- Micralax (smaller dose overall)
+
+Hard loading
+- Glycerol suppository (softener), then treat as above.
 
 ---
 Cosmocol & Sodium picosulfate is given in [[inflammatory Bowel Disease|Crohn's disease]] as it constricts the bowel. 
