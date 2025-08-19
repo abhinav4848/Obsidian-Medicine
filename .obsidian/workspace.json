@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bulbar and pseudobulbar palsy.md",
+                "file": "anticipatory meds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "bulbar and pseudobulbar palsy"
+              "title": "anticipatory meds"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "parkin",
+                "query": "antieme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bulbar and pseudobulbar palsy.md",
+                "file": "anticipatory meds.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bulbar and pseudobulbar palsy"
+              "title": "Backlinks for anticipatory meds"
             }
           }
         ]
@@ -204,6 +204,8 @@
   },
   "active": "7a02de7c56633e9c",
   "lastOpenFiles": [
+    "refeeding syndrome.md",
+    "bulbar and pseudobulbar palsy.md",
     "supranuclear palsy.md",
     "parkinson's disease.md",
     "anticipatory meds.md",
@@ -228,8 +230,6 @@
     "gord.md",
     "hla-b27.md",
     "hhv.md",
-    "digoxin.md",
-    "crvo.md",
     "desktop.ini",
     "attachments/anticholinergic burden.png",
     "attachments/Pasted image 20250817001016.png",

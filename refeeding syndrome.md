@@ -19,5 +19,6 @@ Thiamine deficiency -> if feed carbs, can precipitate wernicke encephalopathy, s
 
 # Treatment
 When introducing feeds to a malnourished individual, do baseline bloods and give small feed the first day. Also add thiamine and vit B co strong. Repeat bloods the next day and supplement missing nutrients. Continue feed as tolerated. Repeat bloods daily. Avoid giving calcium as it can exacerbate hypophosphatemia. 
+
 Exogenous insulin will _exacerbate_ the electrolyte abnormalities involved in refeeding syndrome (e.g., hypophosphatemia, hypokalemia).
 If diuresis necessary, consider a combination of loop diuretic plus amiloride to minimize potassium and magnesium excretion.  
