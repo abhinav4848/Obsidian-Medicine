@@ -26,6 +26,9 @@ https://research.ebsco.com/c/u3lu7a/search (need openathens login)
 ## Exam Booking Page
 https://www.rcgp.org.uk/mrcgp-exams/mrcgp-exam-applications 
 
+## GP self test
+https://elearning.rcgp.org.uk/course/index.php?categoryid=56#features
+
 ---
 # Calgary guide to understanding disease 
 Flowcharts
