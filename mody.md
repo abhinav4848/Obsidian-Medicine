@@ -4,6 +4,7 @@ tags:
   - endocrine
 aliases:
   - Maturity onset diabetes in young
+  - MODY
 ---
 DM < 25yo  
 Strong f/h 2 generations

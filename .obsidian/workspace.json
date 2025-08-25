@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "herbal remedies"
             }
+          },
+          {
+            "id": "39dfa553890a6914",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,7 +200,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "herbal remedies.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +209,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for herbal remedies"
+              "title": "Backlinks"
             }
           }
         ]
@@ -209,42 +220,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsifetch:obsifetch": false
+      "obsifetch:obsifetch": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "3eabe5c5589754df",
+  "active": "39dfa553890a6914",
   "lastOpenFiles": [
-    "study tips.md",
-    "herbal remedies.md",
-    "anticipatory meds.md",
-    "refeeding syndrome.md",
-    "bulbar and pseudobulbar palsy.md",
-    "supranuclear palsy.md",
-    "parkinson's disease.md",
-    "haloperidol.md",
-    "antipsychotic drugs.md",
+    "antibodies.md",
+    "amaurosis fugax.md",
+    "acute cholecystitis.md",
+    "acne rosacea.md",
+    "amantadine.md",
+    "alcohol.md",
+    "cancer- risk factors.md",
+    "cancer- screening programs.md",
+    "cancer- skin.md",
+    "cancer- prostate.md",
+    "cancer- pancreas.md",
+    "cancer- oesophagus.md",
+    "cancer- lymphoma.md",
+    "cancer- gastric.md",
+    "cancer- ENT.md",
+    "eating disorder.md",
+    "gingival hyperplasia.md",
+    "housemaid knee.md",
     "laxatives.md",
-    "autoimmune hemolytic anemia.md",
-    "acromegaly.md",
-    "hyperprolactinemia.md",
-    "depression.md",
-    "citalopram.md",
-    "glaucoma- acute angle closure.md",
-    "qt prolongation.md",
-    "hypocalcemia.md",
-    "upper gi bleed.md",
-    "tia.md",
-    "side effects of cvs drugs.md",
-    "paeds orthopedics differences- ddh, perthe's, sufe.md",
-    "limping child.md",
-    "granulomatosis with polyangiitis.md",
-    "gord in children.md",
-    "gord.md",
+    "multiple sclerosis.md",
+    "misidentification.md",
+    "mody.md",
+    "nASH.md",
+    "nappy rash.md",
+    "myelodysplastic, Myeloproliferative syndrome.md",
+    "study tips.md",
     "desktop.ini",
     "attachments/anticholinergic burden.png",
     "attachments/Pasted image 20250817001016.png",

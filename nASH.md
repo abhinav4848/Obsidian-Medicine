@@ -1,6 +1,9 @@
 ---
 tags:
   - gastro
+aliases:
+  - NASH
+  - Non-Alcoholic Steatohepatosis
 ---
 # Risk factors
 Obesity, T2DM, Jejuno-ileal bypass, Sudden weight loss/starvation
