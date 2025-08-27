@@ -5,7 +5,7 @@ tags:
 Indigestion- general discomfort in upper abdomen, bloating, early satiety, N&V, belching, burning
 # Who to refer 
 ## Urgently
-All patients who've got **dysphagia**  
+All patients who've got **[[dysphagia]]**  
   
 All patients who've got an **upper abdominal mass** consistent with [[cancer- gastric|stomach cancer]]
   
