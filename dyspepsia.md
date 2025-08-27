@@ -22,3 +22,10 @@ Patients aged >= 55 years who've got:
 - upper abdominal pain with low haemoglobin levels or
 - **raised platelet count** with any of the following: nausea, vomiting, weight loss, reflux, dyspepsia, upper abdominal pain
 - nausea or vomiting with any of the following: weight loss, reflux, dyspepsia, upper abdominal pain
+
+# Treatment for those who don't meet the criteria for referral
+aka undiagnosed dyspepsia
+1. Review meds causing dyspepsia
+2. Lifestyle advice
+3. Full dose PPI for a month or 'Test and Treat' #named approach for [[h. pylori]].
+	1. If symptoms persist with one approach, try the other. 

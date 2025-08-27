@@ -14,5 +14,7 @@ Reduces excretion of [[Lithium]] and can toxicity.
 
 Can cause [[optic neuritis]].
 
+Used for perianal fistulae in [[inflammatory Bowel Disease|Crohn's disease]]. 
+
 # Side Effects
 Rarely it can lead to neurotoxic effects, including peripheral neuropathy, ototoxicity, encephalopathy and seizures.
