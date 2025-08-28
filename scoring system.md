@@ -29,6 +29,6 @@ tags:
 | Waterlow score                       | Assesses the risk of a patient developing a pressure sore                                                                     |
 | FRAX                                 | Risk assessment tool developed by WHO which calculates a patients 10-year risk of developing an osteoporosis related fracture |
 | Ranson criteria                      | Acute pancreatitis                                                                                                            |
-| MUST                                 | Malnutrition                                                                                                                  |
+| MUST                                 | [[malnutrition]]                                                                                                              |
 | Smith scale                          | Hepatic encephalopathy                                                                                                        |
 | BRIC                                 | bronchiectasis radiology indexed CT                                                                                           |

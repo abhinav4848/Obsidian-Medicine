@@ -5,6 +5,15 @@ tags:
 aliases:
   - liver cirrhosis
 ---
+# Causes
+[[hepatitis viruses|hepatitis B & C]], 
+alcohol, 
+haemochromatosis and 
+[[primary biliary cirrhosis]]
+
+# Clinical Features
+jaundice, ascites, RUQ pain, hepatomegaly, pruritus, splenomegaly
+
 Edema & fluid overload in 3rd space-> [[Ascites]].
 
 Intravascular volume depletion -> High [[conn's syndrome|aldosterone]] state -> Give diuretic [[spironolactone]] to combat Na retention & start on low salt diet.

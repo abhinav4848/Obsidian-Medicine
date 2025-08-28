@@ -11,7 +11,7 @@ All tumour markers beginning with CA are monoclonal antibodies.
 | Bombesin                                      | SCC Lung, Gastric cancer, neuroblastoma                                                                                   |
 | [[cancer- breast (treatment)\|Breast Cancer]] | CA-15-3                                                                                                                   |
 | [[cancer- colorectal\|Colorectal cancer]]     | CEA                                                                                                                       |
-| HCC, Teratoma                                 | AFP                                                                                                                       |
+| [[cancer- liver\|HCC]], Teratoma              | AFP                                                                                                                       |
 | Medullary carcinoma thyroid                   | Calcitonin.<br><br>The cancer originates from the parafollicular cells, which produce calcitonin.                         |
 | Melanoma, Schwannoma                          | S-100                                                                                                                     |
 | [[cancer- ovarian]]                           | CA-125                                                                                                                    |

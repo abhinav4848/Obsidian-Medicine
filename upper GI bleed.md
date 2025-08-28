@@ -10,7 +10,7 @@ aliases:
 An upper gastrointestinal bleed can act as a 'protein meal' and cause a temporary, **disproportionate rise in the blood urea**.
 # Causes
 1. **Oesophageal**: 
-	1. Varices ([[cirrhosis|liver cirrhosis]]), 
+	1. [[variceal hemorrhage|varices]] (in [[cirrhosis|liver cirrhosis]]), 
 	2. Oesophagitis (in GORD- only streaks vomit, as small volume of blood), 
 	3. cancer (Usually small volume of blood, except as a preterminal event with erosion of major vessels), 
 	4. Mallory-Weiss tears #named (due to repeated vomiting)
@@ -27,13 +27,17 @@ An upper gastrointestinal bleed can act as a 'protein meal' and cause a temporar
 GI bleed is dealt by medical team. Not surgeons.
 ## Initial steps
 - iv fluids
-- if considering variceal bleed ->Terlipressin 2mg iv repeated every 4-6 hrs. & prophylactic antibiotics ([[ciprofloxacin]], Cephalosporin) #abx to be given to patient *before* endoscopy. 
-	- *give 3rd gen cephalosporin > Tazocin/Carbapenem*
+- if considering variceal bleed ->
+	- Terlipressin 2mg iv repeated every 4-6 hrs, & 
+	- Prophylactic antibiotics ([[ciprofloxacin]], Cephalosporin) #abx to be given to patient *before* endoscopy. 
+		- *give 3rd gen cephalosporin > Tazocin/Carbapenem*
 
 If unstable (Hypotensive) -> iv fluids before endoscopy. 
 If iv fluids done but still unstable -> Emergency endoscopic band ligation.
+
+> *Terlipressin is the only licensed vasoactive agent. It benefits initial homeostasis and prevents rebleed*
 ## Endoscopy
-Band ligation > injection N-butyl-2-cyanoacrylate for patient with gastric varices > Sengstaken-Blakemore tube if uncontrolled haemorrhage > TIPS if above fails.
+Band ligation > injection N-butyl-2-cyanoacrylate for patient with gastric varices > Sengstaken-Blakemore tube if uncontrolled haemorrhage > TIPSS if above fails.
 
 ## Others
 If liver disease patient with Hematemesis + High INR -> Give FFP.
@@ -42,6 +46,6 @@ INR prolonged -> Vit K.
 
 # Prophylaxis
 Long term prophylaxis of variceal bleed
-- Propranolol
-- Endoscopic variceal band ligation
-- TIPSS
+- Propranolol  
+- Endoscopic variceal band ligation (EVL)- performed over multiple sittings till all varices have been eradicated. Give PPI cover to prevent EVL induced ulceration. 
+- TIPSS if above measures unsuccessful

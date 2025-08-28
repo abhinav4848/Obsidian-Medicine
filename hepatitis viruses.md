@@ -75,7 +75,7 @@ Risk of transmitting in needle stick injury -> 2% (6% if HIV too).
 - HCV antibody. If positive -> HCV RNA for currently circulating virus -> if RNA -ve, repeat RNA in 6 months. 
 ## Associated with
 - [[sjogren's syndrome]] (seen with 1* biliary cirrhosis & chronic hepatitis C)
-- HCC 
+- [[cancer- liver|HCC]] 
 - Cryoglobulinemia (type 2-> mixed monoclonal & polyclonal),
 - [[porphyria cutanea tarda]], esp. if also Alcohol abuse 
 - Membranoproliferative glomerulonephritis 
