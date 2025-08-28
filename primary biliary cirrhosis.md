@@ -11,6 +11,7 @@ Assoc with [[sjogren's syndrome|Sjogren Syndrome]]
 Patient comes with fatigue/lethargy, **pruritus**, no weight loss. 
 **Others**: cholestatic jaundice, hyperpigmentation over pressure points, xanthelasma.
 
+Can lead to [[cirrhosis|liver cirrhosis]] & [[cancer- liver|HCC]]. 
 ### M rule: 
 #mnemonic 
 • Middle aged female, 

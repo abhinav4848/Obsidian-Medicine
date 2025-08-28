@@ -8,12 +8,13 @@ tags:
   - liver
 ---
 3rd MCC cancer worldwide.
-
 # Causes
-Develops due to liver [[cirrhosis]]. 
-- Chronic [[hepatitis viruses|hepatitis B & C]] has risk of HCC -> patients present with signs of liver cirrhosis.
-- (B worldwide and C Europe)
-Other risk factors:
+## Develops due to liver cirrhosis: 
+- alcohol
+- haemochromatosis
+- [[primary biliary cirrhosis]]
+- Chronic [[hepatitis viruses|hepatitis B & C]] -> patients present with signs of liver [[cirrhosis]]. *B worldwide and C Europe*
+## Other risk factors:
 - alpha-1 antitrypsin deficiency
 - hereditary tyrosinosis
 - glycogen storage disease
@@ -23,6 +24,11 @@ Other risk factors:
 - male sex
 - diabetes mellitus, metabolic syndrome
 
-
-
+# Clinical Features
+Similar to cirrhosis. 
 [[tumor marker|AFP]] is elevated. 
+
+# Screening
+Screening with ultrasound (+/- [[tumor marker|alpha-fetoprotein]]) should be considered for high risk groups such as:  
+- patients with liver cirrhosis secondary to hepatitis B & C, or haemochromatosis
+- men with liver cirrhosis secondary to [[alcohol]]

@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cirrhosis.md",
+                "file": "alcohol.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cirrhosis"
+              "title": "alcohol"
             }
           },
           {
@@ -233,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cirrhosis.md",
+                "file": "alcohol.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cirrhosis"
+              "title": "Backlinks for alcohol"
             }
           }
         ]
@@ -266,8 +266,13 @@
   },
   "active": "c403f7406269c4c0",
   "lastOpenFiles": [
+    "confusion in ophthalmology.md",
+    "alcohol.md",
     "cancer- liver.md",
     "cirrhosis.md",
+    "primary biliary cirrhosis.md",
+    "primary sclerosing cholangitis.md",
+    "cancer- cholangiocarcinoma.md",
     "hepatitis viruses.md",
     "tumor marker.md",
     "pancoast tumor.md",
@@ -289,11 +294,6 @@
     "herbal remedies.md",
     "antibodies.md",
     "amaurosis fugax.md",
-    "acute cholecystitis.md",
-    "acne rosacea.md",
-    "amantadine.md",
-    "alcohol.md",
-    "cancer- risk factors.md",
     "attachments/anticholinergic burden.png",
     "attachments/Pasted image 20250817001016.png",
     "attachments/parkinson's drugs and effects 2.png",

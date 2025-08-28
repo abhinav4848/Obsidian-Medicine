@@ -4,7 +4,8 @@ tags:
   - gall_bladder
   - infection
 ---
-Associated with [[inflammatory bowel disease|ulcerative colitis]].  
+Associated with [[inflammatory bowel disease|ulcerative colitis]].
+Can lead to [[cancer- cholangiocarcinoma|cholangiocarcinoma]]. 
 
 ERCP
 # Treatment
