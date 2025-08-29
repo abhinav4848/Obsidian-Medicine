@@ -24,10 +24,10 @@ tags:
 - male sex
 - diabetes mellitus, metabolic syndrome
 
-HCC doesn't happen from cirrhosis due to 
+HCC doesn't happen from cirrhosis due to Wilson's disease. 
 
 # Clinical Features
-Similar to cirrhosis. 
+Similar to [[cirrhosis]]. 
 [[tumor marker|AFP]] is elevated. 
 
 # Screening

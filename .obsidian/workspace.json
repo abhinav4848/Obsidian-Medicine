@@ -8,33 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a02de7c56633e9c",
+            "id": "19bb645cdbdfc80f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ciprofloxacin.md",
+                "file": "nomenclature.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ciprofloxacin"
-            }
-          },
-          {
-            "id": "6de8acc808959d00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cancer- liver.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "cancer- liver"
+              "title": "nomenclature"
             }
           },
           {
@@ -58,17 +43,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "herbal remedies.md",
+                "file": "pernicious anemia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "herbal remedies"
+              "title": "pernicious anemia"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hepatitis",
+                "query": "anemi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +106,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cancer- liver.md",
+                "file": "pernicious anemia.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +214,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cancer- liver"
+              "title": "Backlinks for pernicious anemia"
             }
           }
         ]
@@ -249,13 +235,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6de8acc808959d00",
+  "active": "e8655fe722644f1f",
   "lastOpenFiles": [
+    "herbal remedies.md",
+    "nomenclature.md",
+    "ciprofloxacin.md",
+    "cirrhosis.md",
+    "cancer- liver.md",
     "hepatitis viruses.md",
     "optic neuritis.md",
     "metronidazole.md",
     "alcohol.md",
-    "herbal remedies.md",
     "drugs that can cause ocular problems.md",
     "attachments/SVC Syndrome.png",
     "multiple sclerosis.md",
@@ -266,8 +256,6 @@
     "superior vena cava syndrome.md",
     "pancoast tumor.md",
     "desktop.ini",
-    "cancer- liver.md",
-    "cirrhosis.md",
     "primary biliary cirrhosis.md",
     "primary sclerosing cholangitis.md",
     "cancer- cholangiocarcinoma.md",
@@ -276,9 +264,7 @@
     "scoring system.md",
     "variceal hemorrhage.md",
     "upper gi bleed.md",
-    "ciprofloxacin.md",
     "inflammatory Bowel Disease.md",
-    "shin lesions.md",
     "h. pylori treatment flowchart.canvas",
     "attachments/anticholinergic burden.png",
     "attachments/Pasted image 20250817001016.png",
