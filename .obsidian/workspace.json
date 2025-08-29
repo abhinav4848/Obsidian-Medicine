@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -233,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "alcohol.md",
+                "file": "pancoast tumor.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for alcohol"
+              "title": "Backlinks for pancoast tumor"
             }
           }
         ]
@@ -264,10 +264,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c403f7406269c4c0",
+  "active": "f91e041eb8f7ce55",
   "lastOpenFiles": [
-    "confusion in ophthalmology.md",
     "alcohol.md",
+    "confusion in ophthalmology.md",
+    "desktop.ini",
     "cancer- liver.md",
     "cirrhosis.md",
     "primary biliary cirrhosis.md",
@@ -290,10 +291,8 @@
     "h. pylori.md",
     "h. pylori treatment flowchart.canvas",
     "study tips.md",
-    "desktop.ini",
     "herbal remedies.md",
     "antibodies.md",
-    "amaurosis fugax.md",
     "attachments/anticholinergic burden.png",
     "attachments/Pasted image 20250817001016.png",
     "attachments/parkinson's drugs and effects 2.png",
