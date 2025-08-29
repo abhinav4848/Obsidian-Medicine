@@ -24,6 +24,8 @@ tags:
 - male sex
 - diabetes mellitus, metabolic syndrome
 
+HCC doesn't happen from cirrhosis due to 
+
 # Clinical Features
 Similar to cirrhosis. 
 [[tumor marker|AFP]] is elevated. 

@@ -17,4 +17,4 @@ Can cause [[optic neuritis]].
 Used for perianal fistulae in [[inflammatory Bowel Disease|Crohn's disease]]. 
 
 # Side Effects
-Rarely it can lead to neurotoxic effects, including peripheral neuropathy, ototoxicity, encephalopathy and seizures.
+Rarely it can lead to neurotoxic effects, including peripheral neuropathy, ototoxicity, encephalopathy, [[drugs that can cause ocular problems|optic neuritis]] and seizures.

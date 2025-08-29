@@ -11,7 +11,7 @@ Superior sulcus tumours can infiltrate neighbouring structures and cause additio
 Pancoast #syndrome: 
 - shoulder and arm pain, 
 - atrophy of the arm and hand muscles,  
-- possibly superior vena cava syndrome, and 
+- possibly [[superior vena cava syndrome]], and 
 - hoarseness due to compression of the recurrent laryngeal nerve. 
 
 The most common cause of Pancoast syndrome is NSCLC: history of smoking.

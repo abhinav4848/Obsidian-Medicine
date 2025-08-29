@@ -23,7 +23,7 @@ Can do bronchoalveolar lavage > gastric lavage if sample not obtained.
 Mantoux used to diagnose only latent TB -> May be positive in patients with BCG vaccine.
 - Interferon gamma release assay is used for TB detection in BCG vaccinated.
 
-# Treatment
+# Treatment & their side effects
 
 | Medication   | Side effects                                                                               |
 | ------------ | ------------------------------------------------------------------------------------------ |

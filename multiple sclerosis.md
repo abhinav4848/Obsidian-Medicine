@@ -14,8 +14,9 @@ Lethargy, [[Optic neuritis]], optic atrophy, [[confusion in ophthalmology|Intern
 
 **Dx**: MRI: Demyelination, lesions disseminated in time & place.
 
+# Treatment
 ## Initial
-iv Methyl Prednisolone.
+acute case/during a relapse -> oral or iv Methyl Prednisolone.
 ## Long term:
 - Older generation: Glatiramer acetate/IF-beta. #pharmacology 
 - Newer: Natalizumab, Ocrelizumab, Fingolimod
