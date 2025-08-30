@@ -30,7 +30,8 @@ Treatment is recommended for bile duct stones regardless of whether they are sym
 ---
 # Differences
 #confusion 
-Acute cholecystitis has inflammatory component which Is absent in Biliary colic (i.e. local peritonism, fever, WBC high). If the stones move to CBD & infection occurs-> Obstructive jaundice, [[ascending cholangitis]].
+Acute cholecystitis has inflammatory component which Is absent in Biliary colic (i.e. local peritonism, fever, WBC high). 
+If the stones move to CBD (Obstructive jaundice) & infection ascends-> [[ascending cholangitis]].
 
 |               | [[Biliary colic]] | [[Acute cholecystitis]] | [[ascending cholangitis\|Cholangitis]] |
 | ------------- | ----------------- | ----------------------- | -------------------------------------- |
