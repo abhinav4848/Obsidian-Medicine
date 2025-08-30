@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hemorrhoids.md",
+                "file": "acute cholecystitis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hemorrhoids"
+              "title": "acute cholecystitis"
             }
           }
         ],
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "haemorr",
+                "query": "tag:gall_bladder",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hemorrhoids.md",
+                "file": "acute cholecystitis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hemorrhoids"
+              "title": "Backlinks for acute cholecystitis"
             }
           }
         ]
@@ -237,6 +237,10 @@
   },
   "active": "3eabe5c5589754df",
   "lastOpenFiles": [
+    "ascending cholangitis.md",
+    "acute cholecystitis.md",
+    "biliary colic.md",
+    "hemorrhoids.md",
     "haemochromatosis.md",
     "cirrhosis.md",
     "primary biliary cirrhosis.md",
@@ -261,10 +265,6 @@
     "pancoast tumor.md",
     "desktop.ini",
     "primary sclerosing cholangitis.md",
-    "cancer- cholangiocarcinoma.md",
-    "tumor marker.md",
-    "malnutrition.md",
-    "scoring system.md",
     "h. pylori treatment flowchart.canvas",
     "attachments/anticholinergic burden.png",
     "attachments/Pasted image 20250817001016.png",

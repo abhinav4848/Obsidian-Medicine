@@ -2,9 +2,16 @@
 tags:
   - gall_bladder
   - infection
+aliases:
+  - cholangitis
 ---
-It's an infection of CBD due to gallstone block.
-can also be due to ERCP.
+It's an infection of CBD due to gallstone obstruction.
+Can also be caused by ERCP.
+
+> Cholangitis- ang referring to the vessel (bile duct in this case)
+> [[acute cholecystitis|Cholecystitis]]- cyst referring to the bladder
+> 
+> **Cholecystitis + Jaundice = Cholangitis**
 # Treatment
 Abx & fluids.
 

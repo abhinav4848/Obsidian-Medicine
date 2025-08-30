@@ -15,11 +15,14 @@ If blood in stool over the age of 55yo, suspect [[cancer- colorectal|colorectal 
 *see [[cancer- screening programs]]*
 
 ## Treatment
-The first-line therapy for haemorrhoids is to soften stools and increase dietary fibre
+The first-line therapy for haemorrhoids is to soften stools : increase dietary fibre & fluid intake.
 
 **Sitz baths** are a form of hydrotherapy where the patient sits in warm water up to their hips. While they can provide temporary relief from symptoms such as itching, burning or discomfort associated with haemorrhoids, they do not address the underlying issue of increased pressure on the anal cushions due to hard stools and straining.
 
 **Topical nitrates**, such as GTN ointment, are used in treating chronic anal fissures rather than haemorrhoids. They work by relaxing the internal anal sphincter muscle, thereby improving blood flow to the area and promoting the healing of fissures. However, they don't directly address the issue of hard stools and straining seen in haemorrhoids.
+
+Topical anaesthetics and steroids for symptom control
+Outpatient treatment: Rubber band ligation is superior to injection sclerotherapy (same as in treatment of [[variceal hemorrhage|varices]]). 
 
 ---
 # Thrombosed Haemorrhoids
