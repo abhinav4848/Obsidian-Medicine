@@ -11,7 +11,7 @@ tags:
 # Causes
 ## Develops due to liver cirrhosis: 
 - alcohol
-- haemochromatosis
+- [[haemochromatosis]]
 - [[primary biliary cirrhosis]]
 - Chronic [[hepatitis viruses|hepatitis B & C]] -> patients present with signs of liver [[cirrhosis]]. *B worldwide and C Europe*
 ## Other risk factors:
