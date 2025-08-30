@@ -8,7 +8,7 @@ aliases:
 # Causes
 [[hepatitis viruses|hepatitis B & C]], 
 alcohol, 
-haemochromatosis and 
+[[haemochromatosis]] and 
 [[primary biliary cirrhosis]]
 
 # Clinical Features
