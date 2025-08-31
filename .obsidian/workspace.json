@@ -51,36 +51,9 @@
               "icon": "lucide-file",
               "title": "inflammatory bowel disease"
             }
-          },
-          {
-            "id": "60541662c9794ae9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "megacolon.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "megacolon"
-            }
-          },
-          {
-            "id": "678c8c1373f38fe9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "megacolon.md",
+                "file": "inflammatory bowel disease.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +213,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for megacolon"
+              "title": "Backlinks for inflammatory bowel disease"
             }
           }
         ]
@@ -261,7 +234,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "60541662c9794ae9",
+  "active": "3eabe5c5589754df",
   "lastOpenFiles": [
     "inflammatory bowel disease.md",
     "megacolon.md",
