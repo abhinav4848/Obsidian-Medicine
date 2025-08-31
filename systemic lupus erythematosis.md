@@ -30,15 +30,15 @@ Renal/nervous system involvement is rare.
 - **Anti-Histone +ve**
 - dsDNA -ve.
 # Clinical Features
-| Organ system | Effect                                                                                                                                          |
-| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mental       | Anxiety, depression, psychosis                                                                                                                  |
-| CVS          | Pericarditis (MC heart problem in SLE), Myocarditis                                                                                             |
-| Resp         | Pleurisy, Fibrosing alveolitis                                                                                                                  |
-| Renal        | Diffuse proliferative glomerulonephritis (Nephritic syndrome), proteinuria                                                                      |
-| Skin         | Malar rash, discoid rash, photosensitivity, Raynaud's, livedo reticularis, non-scarring alopecia,<br><br>[[shin lesions\|pyoderma gangrenosum]] |
-| MSK          | Arthralgia, non-erosive arthritis                                                                                                               |
-| Others       | Pancytopenia                                                                                                                                    |
+| Organ system | Effect                                                                                                                                         |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Neurological | Anxiety, depression, psychosis                                                                                                                 |
+| CVS          | Pericarditis (MC heart problem in SLE), Myocarditis                                                                                            |
+| Resp         | Pleurisy, Fibrosing alveolitis                                                                                                                 |
+| Renal        | Diffuse proliferative glomerulonephritis (Nephritic syndrome), proteinuria                                                                     |
+| Skin         | Malar rash, discoid rash, photosensitivity, Raynaud's, livedo reticularis, non-scarring alopecia<br><br>[[shin lesions\|Pyoderma gangrenosum]] |
+| MSK          | Arthralgia, non-erosive arthritis                                                                                                              |
+| Others       | Pancytopenia                                                                                                                                   |
 #mnemonic 
 - Malar rash
 - Discoid rash

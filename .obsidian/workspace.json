@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "systemic lupus erythematosis.md",
+                "file": "sarcoidosis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "systemic lupus erythematosis"
+              "title": "sarcoidosis"
             }
           }
         ],
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "systemic lupus erythematosis.md",
+                "file": "sarcoidosis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for systemic lupus erythematosis"
+              "title": "Backlinks for sarcoidosis"
             }
           }
         ]
@@ -237,14 +237,15 @@
   },
   "active": "3eabe5c5589754df",
   "lastOpenFiles": [
+    "erythema nodosum.md",
+    "inflammatory bowel disease.md",
+    "episcleritis.md",
+    "shin lesions.md",
+    "erythema infectiosum.md",
     "erythroderma.md",
     "systemic lupus erythematosis.md",
     "afro-Caribbean.md",
     "attachments/sle- md soap brain mnemonic.png",
-    "erythema infectiosum.md",
-    "erythema nodosum.md",
-    "shin lesions.md",
-    "inflammatory bowel disease.md",
     "megacolon.md",
     "hirschprung disease.md",
     "acne inversa.md",
@@ -263,7 +264,6 @@
     "anticholinergic burden.md",
     "anti-diabetic drugs.md",
     "acute cholecystitis.md",
-    "morphine breakthrough dose.md",
     "Test Base.base",
     "attachments/sufe.png",
     "attachments/eczema herpeticum 1.png",

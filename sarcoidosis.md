@@ -2,7 +2,15 @@
 tags:
   - rheumat
 ---
-b/l Hilar LNE, non-caseating granulomas, [[Erythema nodosum]], Polyarthralgia, [[Hypercalcemia]], Fever, weight loss
+Non-infectious granulomatous disease involving abnormal collections of inflammatory cells that form lumps known as granuloma in different organs.
+# Clinical Features
+- b/l Hilar LNE, 
+- non-caseating granulomas, 
+- [[Erythema nodosum]], 
+- Polyarthralgia, 
+- [[Hypercalcemia]], 
+- Fever, 
+- weight loss
 
 Dry cough, dyspnea, basal rales on auscultation, pulmonary fibrosis
 # Types & features
@@ -21,3 +29,4 @@ Dry cough, dyspnea, basal rales on auscultation, pulmonary fibrosis
 - Urea & Electrolytes for Acute Kidney injury due to Hypercalcemia.
 # Treatment
 Steroids #steroids 
+Spontaneous remission w/o complications is common in early-stage pulmonary disease. 
