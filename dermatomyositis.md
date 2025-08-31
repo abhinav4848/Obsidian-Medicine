@@ -2,7 +2,7 @@
 tags:
   - dermat
   - rheumat
-url: https://dermnetnz.org/topics/adult-onset-dermatomyositis
+urls: https://dermnetnz.org/topics/adult-onset-dermatomyositis
 ---
 an inflammatory disorder causing symmetrical, proximal muscle weakness and characteristic skin lesions.
 # Cause

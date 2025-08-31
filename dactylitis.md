@@ -1,7 +1,7 @@
 ---
 tags:
   - rheumat
-url: https://dermnetnz.org/topics/dactylitis
+urls: https://dermnetnz.org/topics/dactylitis
 ---
 # Dactylitis
 Inflammation of a digit (finger or toe).

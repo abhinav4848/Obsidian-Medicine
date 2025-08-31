@@ -2,7 +2,7 @@
 tags:
   - pharmacology
   - neurology
-url:
+urls:
   - https://www.hey.nhs.uk/patient-leaflet/anticholinergic-burden-acb/
 ---
 ![[anticholinergic burden.png]]

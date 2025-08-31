@@ -3,6 +3,8 @@ tags:
   - gastro
   - gall_bladder
   - infection
+aliases:
+  - PSC
 ---
 Associated with [[inflammatory bowel disease|ulcerative colitis]].
 Can lead to [[cancer- cholangiocarcinoma|cholangiocarcinoma]]. 

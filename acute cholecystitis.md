@@ -2,7 +2,7 @@
 tags:
   - gastro
   - gall_bladder
-url:
+urls:
   - https://youtu.be/dGdQ-xWXOTE
 ---
 Inflammation of gall bladder due to obstruction of cystic duct by gallstone. 

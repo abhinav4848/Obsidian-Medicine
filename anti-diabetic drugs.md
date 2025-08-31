@@ -5,7 +5,7 @@ aliases:
 tags:
   - pharmacology
   - diabetes
-url:
+urls:
   - https://youtu.be/4Y7wdX7iEAY
 ---
 MoA: https://youtu.be/4Y7wdX7iEAY

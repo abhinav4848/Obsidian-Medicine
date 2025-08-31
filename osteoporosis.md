@@ -1,7 +1,7 @@
 ---
 tags:
   - ortho
-url: https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/search/?_search_terms=osteoporosis
+urls: https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/search/?_search_terms=osteoporosis
 ---
 Long term use of [[steroids]] can cause osteoporosis and make teeth lose. So do DEXA for them.
 

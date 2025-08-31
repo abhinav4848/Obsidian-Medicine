@@ -3,7 +3,7 @@ tags:
   - endocrine
 aliases:
   - hyperaldosteronism
-url: https://www.youtube.com/watch?v=oSqLwPv8bb4
+urls: https://www.youtube.com/watch?v=oSqLwPv8bb4
 ---
 # Primary Hyperaldosteronism
 Leads to **Hypokalaemia** (might be normoK)-> Cuz aldosterone causes Na absorption & H+/K+ excretion.

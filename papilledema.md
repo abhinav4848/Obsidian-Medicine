@@ -1,7 +1,7 @@
 ---
 tags:
   - ophthal
-url:
+urls:
   - https://eyewiki.org/Papilledema
   - https://www.visioncenter.org/conditions/papilledema/
 ---

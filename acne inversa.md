@@ -1,7 +1,7 @@
 ---
 tags:
   - dermat
-url: https://dermnetnz.org/topics/hidradenitis-suppurativa
+urls: https://dermnetnz.org/topics/hidradenitis-suppurativa
 aliases:
   - Hidradenitis Suppurativa
 ---

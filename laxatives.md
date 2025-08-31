@@ -16,7 +16,7 @@ Decrease the surface tension of faecal mass and increase intestinal fluid in the
 It's only approved for bowel obstruction. 
 
 ## Osmotic laxatives
-Lactulose, Macrogols (cosmocol, movicol, laxido), and Magnesium sulphate/hydroxide. 
+Lactulose (esp in [[cirrhosis]]), Macrogols (cosmocol, movicol, laxido), and Magnesium sulphate/hydroxide. 
 Draw fluid into the bowel and soften stools.
 Can lead to abdominal cramps, N/V/D. 
 
@@ -67,4 +67,4 @@ Hard loading
 - Glycerol suppository (softener), then treat as above.
 
 ---
-Cosmocol & Sodium picosulfate is given in [[inflammatory Bowel Disease|Crohn's disease]] as it constricts the bowel. 
+Cosmocol & Sodium picosulfate is given in [[inflammatory bowel disease|Crohn's disease]] as it constricts the bowel. 

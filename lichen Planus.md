@@ -3,7 +3,7 @@ aliases:
   - lichenoid drug eruptions
 tags:
   - dermat
-url: https://www.dermnetnz.org/topics/lichen-planus/
+urls: https://www.dermnetnz.org/topics/lichen-planus/
 ---
 **It's a clinical diagnosis.**
 

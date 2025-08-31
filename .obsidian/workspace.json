@@ -43,17 +43,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "haemochromatosis.md",
+                "file": "inflammatory bowel disease.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "haemochromatosis"
+              "title": "inflammatory bowel disease"
+            }
+          },
+          {
+            "id": "60541662c9794ae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "toxic megacolon.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "toxic megacolon"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nash",
+                "query": "subcategory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -203,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "haemochromatosis.md",
+                "file": "toxic megacolon.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +228,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for haemochromatosis"
+              "title": "Backlinks for toxic megacolon"
             }
           }
         ]
@@ -234,10 +249,33 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3eabe5c5589754df",
+  "active": "676efa40181a3294",
   "lastOpenFiles": [
-    "nASH.md",
+    "superior vena cava syndrome.md",
+    "roseola infantum.md",
+    "papilledema.md",
+    "osteoporosis.md",
+    "morphine breakthrough dose.md",
+    "hepatitis viruses.md",
+    "felty's syndrome.md",
+    "dactylitis.md",
+    "conn's syndrome.md",
+    "behcet's disease.md",
+    "aphthous ulcer.md",
+    "anticholinergic burden.md",
+    "anti-diabetic drugs.md",
+    "acute cholecystitis.md",
+    "acne inversa.md",
+    "toxic megacolon.md",
+    "lichen Planus.md",
+    "dermatomyositis.md",
+    "inflammatory bowel disease.md",
+    "primary sclerosing cholangitis.md",
     "haemochromatosis.md",
+    "nash.md",
+    "cirrhosis.md",
+    "laxatives.md",
+    "Test Base.base",
     "attachments/sufe.png",
     "attachments/eczema herpeticum 1.png",
     "attachments/eczema herpeticum 2.png",
@@ -249,27 +287,6 @@
     "attachments/crvo 2.png",
     "amaurosis fugax.md",
     "retinal detachment.md",
-    "tia.md",
-    "optic neuritis.md",
-    "tuberculosis.md",
-    "metronidazole.md",
-    "hepatitis.md",
-    "anti-diabetic drugs.md",
-    "acute cholecystitis.md",
-    "alcohol.md",
-    "confusion in ophthalmology.md",
-    "nomenclature.md",
-    "lithium.md",
-    "biliary colic.md",
-    "ascending cholangitis.md",
-    "hemorrhoids.md",
-    "cirrhosis.md",
-    "primary biliary cirrhosis.md",
-    "sjogren's syndrome.md",
-    "cancer- liver.md",
-    "pernicious anemia.md",
-    "herbal remedies.md",
-    "ciprofloxacin.md",
     "desktop.ini",
     "h. pylori treatment flowchart.canvas",
     "attachments/anticholinergic burden.png",

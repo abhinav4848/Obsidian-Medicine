@@ -6,7 +6,7 @@ aliases:
   - roseola
   - sixth disease
   - exanthem subitum
-url: https://dermnetnz.org/topics/roseola
+urls: https://dermnetnz.org/topics/roseola
 ---
 [[hhv]] type 6. aka exanthem subitum, sixth disease.
 

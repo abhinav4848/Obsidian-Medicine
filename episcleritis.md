@@ -4,7 +4,7 @@ aliases:
 tags:
   - ophthal
 ---
-Associated with [[Rheumatoid arthritis]] (morning stiffness of small joints), [[Inflammatory Bowel Disease|ulcerative colitis]] and granulomatosis with polyangiitis.
+Associated with [[Rheumatoid arthritis]] (morning stiffness of small joints), [[inflammatory bowel disease|ulcerative colitis]] and granulomatosis with polyangiitis.
 
 **Affected part**: Sclera.
 

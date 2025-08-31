@@ -30,4 +30,4 @@ Co-Amoxiclav, Flucloxacillin, Steroids, Sulfonylureas, [[Nitrofurantoin]], Fusid
 
 **Cholestasis:** ALP > 600
 
-[[NASH]]: ALT:AST > 2
+[[nash]]: ALT:AST > 2

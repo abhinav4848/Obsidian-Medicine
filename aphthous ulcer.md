@@ -1,7 +1,7 @@
 ---
 tags:
   - dermat
-url: https://dermnetnz.org/topics/aphthous-ulcer
+urls: https://dermnetnz.org/topics/aphthous-ulcer
 ---
 *aphthous is Greek derived meaning mouth ulcer.* 
 
