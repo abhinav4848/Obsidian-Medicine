@@ -58,13 +58,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "toxic megacolon.md",
+                "file": "megacolon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "toxic megacolon"
+              "title": "megacolon"
+            }
+          },
+          {
+            "id": "678c8c1373f38fe9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
             }
           }
         ],
@@ -100,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "subcategory",
+                "query": ":",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "toxic megacolon.md",
+                "file": "megacolon.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +240,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for toxic megacolon"
+              "title": "Backlinks for megacolon"
             }
           }
         ]
@@ -249,15 +261,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "676efa40181a3294",
+  "active": "60541662c9794ae9",
   "lastOpenFiles": [
+    "inflammatory bowel disease.md",
+    "megacolon.md",
+    "hirschprung disease.md",
+    "acne inversa.md",
     "superior vena cava syndrome.md",
     "roseola infantum.md",
     "papilledema.md",
     "osteoporosis.md",
-    "morphine breakthrough dose.md",
+    "lichen Planus.md",
     "hepatitis viruses.md",
     "felty's syndrome.md",
+    "dermatomyositis.md",
     "dactylitis.md",
     "conn's syndrome.md",
     "behcet's disease.md",
@@ -265,11 +282,7 @@
     "anticholinergic burden.md",
     "anti-diabetic drugs.md",
     "acute cholecystitis.md",
-    "acne inversa.md",
-    "toxic megacolon.md",
-    "lichen Planus.md",
-    "dermatomyositis.md",
-    "inflammatory bowel disease.md",
+    "morphine breakthrough dose.md",
     "primary sclerosing cholangitis.md",
     "haemochromatosis.md",
     "nash.md",
@@ -286,7 +299,6 @@
     "attachments/crvo2.png",
     "attachments/crvo 2.png",
     "amaurosis fugax.md",
-    "retinal detachment.md",
     "desktop.ini",
     "h. pylori treatment flowchart.canvas",
     "attachments/anticholinergic burden.png",

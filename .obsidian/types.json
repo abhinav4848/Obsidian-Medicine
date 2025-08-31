@@ -3,7 +3,6 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "url": "multitext",
-    "subcategory": "checkbox"
+    "urls": "multitext"
   }
 }
