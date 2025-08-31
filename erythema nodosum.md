@@ -5,6 +5,7 @@ tags:
 *See other [[erythemas]].* 
 
 ![[erythema nodosum.png]]
+![[erythema nodosum 2.png]]
 - Painful, purple tender erythematous nodules over shins.
 - Inflammation of s.c. fat. (*see [[Shin lesions]] for ddx*)
 - Resolve in 6 weeks w/o scarring.  

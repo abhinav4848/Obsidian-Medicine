@@ -2,7 +2,7 @@
 tags:
   - ophthal
 ---
-MCC of blindness in UK.
+MCC of [[loss of vision|blindness]] in UK.
 
 Patients will report distortion in vision (straight lines appearing curved), blurred vision, and **central vision is affected first** #important 
 
