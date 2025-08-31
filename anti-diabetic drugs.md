@@ -30,21 +30,21 @@ Metformin also reduces hepatic gluconeogenesis
 | GLP-1 agonist   | Incretin mimetics: exenatide, dulaglutide (Trulicity), liraglutide, lixisenatide and semaglutide (Ozempic)<br><br>GLP-1 is produced from ileum when there's more glucose and it stimulates pancreas to release insulin.<br>- Also causes reduced appetite & slows gastric emptying. | Too costly.  <br>Exenatide lowers weight but NICE says to use in >35kg/m2 BMI.                                                                                    |
 ## Glucose excretion
 
-|                   |           |                                                                                                                                                                                                                       |
-| ----------------- | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| SGLT-2 inhibitors | Gliflozin | Contraindicated if GFR <60<br>Reduces weight.<br>-> Indicated in risk of Heart Failure/CVD/Q-Risk > 10%<br><br>Euglycemia DKA if risk of dehydration when ill.<br>Can cause UTI due to excretion of glucose in urine. |
+|                   |           |                                                                                                                                                                                                                        |
+| ----------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| SGLT-2 inhibitors | Gliflozin | Contraindicated if GFR <60<br>Reduces weight. <br>-> Indicated in risk of Heart Failure/CVD/Q-Risk > 10%<br><br>Euglycemia DKA if risk of dehydration when ill.<br>Can cause UTI due to excretion of glucose in urine. |
 Reduce dietary glucose absorption: Acarbose (alpha glucosidase inhibitors)
 
 ---
 # Contraindications
 #mnemonic 
 
-|                                          |                                                                                                                      |
-| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| With bad kidneys (GFR < 30), avoid MS    | Metformin, Sulfonylurea                                                                                              |
-| Renal **safe** drugs                     | RIP: Repaglinide, Linagliptin, Pioglitazone                                                                          |
-| With obesity,<br><br>avoid P(q)RS        | Pioglitazones, Repaglinide, Sulfonylurea.<br><br>Rest cause weight loss.<br><br>DPP-4 inhibitor don’t affect weight. |
-| RS (no P) have high risk of hypoglycemia | Repaglinide, Sulfonylurea.                                                                                           |
-| Pancreatitis                             | avoid Gliptins (DDP-4 inhibitors)                                                                                    |
-| Heart failure (4 chambers)               | avoid Gliptins (DDP-4 inhibitors)<br><br>also avoid Glitazones in HF as can cause  peripheral edema.                 |
-| Pie = Die (bladder cancer)               | avoid Pioglitazone                                                                                                   |
+|                                          |                                                                                                                                  |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| With bad kidneys (GFR < 30), avoid MS    | Metformin, Sulfonylurea                                                                                                          |
+| Renal **safe** drugs                     | RIP: Repaglinide, Linagliptin, Pioglitazone                                                                                      |
+| With obesity,<br><br>avoid P(q)RS        | Pioglitazones, Repaglinide, Sulfonylurea.<br><br>Rest cause weight loss.<br><br>Gliptins (DPP-4 inhibitors) don’t affect weight. |
+| RS (no P) have high risk of hypoglycemia | Repaglinide, Sulfonylurea.                                                                                                       |
+| Pancreatitis                             | avoid Gliptins (DDP-4 inhibitors)                                                                                                |
+| Heart failure (4 chambers)               | avoid Gliptins (DDP-4 inhibitors)<br><br>also avoid Glitazones in HF as can cause  peripheral edema.                             |
+| Pie = Die (bladder cancer)               | avoid Pioglitazone                                                                                                               |
