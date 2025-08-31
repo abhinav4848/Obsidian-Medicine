@@ -16,5 +16,5 @@ Reduced hip abduction.
 >Orthopedic #emergency.
 
 # References
-![[SUFE.png]]
+![[sufe.png]]
 [Source](https://radiopaedia.org/articles/slipped-upper-femoral-epiphysis)

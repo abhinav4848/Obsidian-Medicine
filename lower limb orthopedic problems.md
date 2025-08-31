@@ -20,7 +20,7 @@
 see [[Paeds orthopedics differences- ddh, perthe's, sufe]]
 
 # Knee
-![[Knee Orthopedic pathologies.png]]
+![[knee orthopedic pathologies.png]]
 1. [[Baker's cyst]]
 2. [[Chondromalacia patellae]]
 3. [[Housemaid knee]]

@@ -18,4 +18,4 @@ If in community, refer urgently to hospital.
 >[!info]
 >See [[confusion in skin lesions]]
 
-![[Eczema herpeticum 1.png]]![[Eczema Herpeticum 2.png]]
+![[eczema herpeticum 1.png]]![[eczema herpeticum 2.png]]

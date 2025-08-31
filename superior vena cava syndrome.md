@@ -24,4 +24,4 @@ Edema of the head, neck, and arms, often with cyanosis, and distended subcutaneo
 - headache
 - confusion
 
-![[SVC Syndrome.png]]
+![[svc syndrome.png]]

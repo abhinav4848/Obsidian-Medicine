@@ -8,7 +8,7 @@ Strong and weak beat occuring alternatively due to alternate, rather than regula
 Premature ventricular complex following each normal complex. In the absence of underlying heart disease, bigeminy is not significant, but following an MI, may indicate increased risk of death.
 
 Causes of premature ventricular beats: smoke, alcohol, Hyperthyroidism, hyperAlkalemia, hypercalcemia, Digoxin, [[Quinine]], TCAs.
-![[Pulsus bigeminy.png]]
+![[pulsus bigeminy.png]]
 # Bisferiens
 Rapid rising, twice beating pulse where both waves are felt during systole.  
 Mixed AS & incompetence, idiopathic hypertrophic subaortic stenosis.

@@ -10,7 +10,7 @@ Reduced colour vision (initially of red colour -> i.e. Red desaturation). #named
 
 Eye pain on eye movement/exercise
 **Uhthoff's phenomenon**: #named Worsening of eye pain following rise in Body temp.
-Often has Central scotoma (macular degeneration), but if [[confusion in ophthalmology|RAPD]] seen -> Monocular visual field loss (this is also seen in [[amaurosis fugax]])
+Often has Central scotoma ([[macular degeneration]]), but if [[confusion in ophthalmology|RAPD]] seen -> Monocular visual field loss (this is also seen in [[amaurosis fugax]])
 ## Cause:
 - [[multiple sclerosis]]
 - DM, Syphilis

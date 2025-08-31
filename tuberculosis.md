@@ -28,7 +28,7 @@ Mantoux used to diagnose only latent TB -> May be positive in patients with BCG 
 | Medication   | Side effects                                                                               |
 | ------------ | ------------------------------------------------------------------------------------------ |
 | INH          | peripheral neuritis, [[hepatitis]] (hepatotoxicity), [[systemic lupus erythematosis\|SLE]] |
-| Rifampicin   | Red secretion, urine, P450 induction                                                       |
+| Rifampicin   | Red secretion, urine, [[P450]] induction                                                   |
 | Pyrazinamide | Uric acid increase -> [[Gout]] (Cat C: so isn't contraindicated but avoid it)              |
 | Ethambutol   | [[optic neuritis]], decrease visual acuity                                                 |
 | Streptomycin | C/I in [[drugs contraindicated in pregnancy\|pregnancy]].<br><br>Ototoxicity: Deafness     |
