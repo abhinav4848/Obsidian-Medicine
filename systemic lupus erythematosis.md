@@ -4,23 +4,16 @@ tags:
 aliases:
   - SLE
 ---
-
 # SLE
 Screen/Sensitive: [[antibodies|ANA]]  
 Specific: Anti ds-DNA (most discriminative test), Smith  
   
 **3 best initial tests:** 
-dsDNA, 
-Complements (C3 & C4), 
-ESR (ESR is raised but CRP is normal)
+- dsDNA, 
+- Complements (C3 & C4), 
+- ESR (ESR is raised but CRP is normal)
 *negative ANCA*
-## SLE due to drugs
-Renal/nervous system involvement is rare. 
-- ANA +ve, 
-- **Anti-Histone +ve**
-- dsDNA -ve.
-
-**Mnemonic**: 
+# Drug induced SLE causes:
 SHIPP ME #mnemonic 
 - Sulfa drugs, 
 - hydralazine, 
@@ -30,13 +23,32 @@ SHIPP ME #mnemonic
 - Methyldopa, 
 - Etanercept
 **Extras**: Carbamazepine, Infliximab
+
+Renal/nervous system involvement is rare. 
+[[antibodies]]: 
+- ANA +ve, 
+- **Anti-Histone +ve**
+- dsDNA -ve.
 # Clinical Features
 | Organ system | Effect                                                                                                                                          |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| CVS          | Pericarditis (MC heart problem in SLE), Myocarditis                                                                                             |
 | Mental       | Anxiety, depression, psychosis                                                                                                                  |
+| CVS          | Pericarditis (MC heart problem in SLE), Myocarditis                                                                                             |
+| Resp         | Pleurisy, Fibrosing alveolitis                                                                                                                  |
+| Renal        | Diffuse proliferative glomerulonephritis (Nephritic syndrome), proteinuria                                                                      |
+| Skin         | Malar rash, discoid rash, photosensitivity, Raynaud's, livedo reticularis, non-scarring alopecia,<br><br>[[shin lesions\|pyoderma gangrenosum]] |
 | MSK          | Arthralgia, non-erosive arthritis                                                                                                               |
 | Others       | Pancytopenia                                                                                                                                    |
-| Renal        | Diffuse proliferative glomerulonephritis (Nephritic syndrome), proteinuria                                                                      |
-| Resp         | Pleurisy, Fibrosing alveolitis                                                                                                                  |
-| Skin         | Malar rash, discoid rash, photosensitivity, Raynaud's, livedo reticularis, non-scarring alopecia,<br><br>[[shin lesions\|pyoderma gangrenosum]] |
+#mnemonic 
+- Malar rash
+- Discoid rash
+- Serositis – Pleurisy, pericarditis
+- Oral ulcers
+- Arthritis
+- Photosensitivity
+- Blood disorders (Pancytopenia)
+- Renal involvement
+- Antinuclear antibodies (ANA)
+- Immunologic phenomena
+- Neurologic disorder
+![[sle- md soap brain mnemonic.png]]

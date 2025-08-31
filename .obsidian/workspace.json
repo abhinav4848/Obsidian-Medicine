@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inflammatory bowel disease.md",
+                "file": "systemic lupus erythematosis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "inflammatory bowel disease"
+              "title": "systemic lupus erythematosis"
             }
           }
         ],
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ":",
+                "query": "hydralazine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,7 +106,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inflammatory bowel disease.md",
+                "file": "systemic lupus erythematosis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +214,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for inflammatory bowel disease"
+              "title": "Backlinks for systemic lupus erythematosis"
             }
           }
         ]
@@ -236,6 +237,13 @@
   },
   "active": "3eabe5c5589754df",
   "lastOpenFiles": [
+    "erythroderma.md",
+    "systemic lupus erythematosis.md",
+    "afro-Caribbean.md",
+    "attachments/sle- md soap brain mnemonic.png",
+    "erythema infectiosum.md",
+    "erythema nodosum.md",
+    "shin lesions.md",
     "inflammatory bowel disease.md",
     "megacolon.md",
     "hirschprung disease.md",
@@ -256,11 +264,6 @@
     "anti-diabetic drugs.md",
     "acute cholecystitis.md",
     "morphine breakthrough dose.md",
-    "primary sclerosing cholangitis.md",
-    "haemochromatosis.md",
-    "nash.md",
-    "cirrhosis.md",
-    "laxatives.md",
     "Test Base.base",
     "attachments/sufe.png",
     "attachments/eczema herpeticum 1.png",
@@ -271,10 +274,8 @@
     "attachments/knee orthopedic pathologies.png",
     "attachments/crvo2.png",
     "attachments/crvo 2.png",
-    "amaurosis fugax.md",
     "desktop.ini",
     "h. pylori treatment flowchart.canvas",
-    "attachments/anticholinergic burden.png",
     "Untitled",
     "chicken Pox treatment flowchart (Work in progress).canvas",
     "_duplicates",

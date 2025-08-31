@@ -2,6 +2,8 @@
 aliases:
   - Fifth disease
   - Parvovirus B19
+tags:
+  - dermat
 ---
 # Erythema Infectiosum
 Fever, runny nose and headache, followed slapped cheek appearance rash, spreads to body. Itchy if soles of feet involved.  Spares nasolabial folds & eyes. 
