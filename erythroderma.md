@@ -2,7 +2,7 @@
 tags:
   - dermat
 ---
-See: [[Erythrodermic Psoriasis]]
+See: [[_erythrodermic psoriasis]]
 
 It is an exfoliative dermatitis -> Widespread severe erythema -> Extensive exfoliation of skin.
 

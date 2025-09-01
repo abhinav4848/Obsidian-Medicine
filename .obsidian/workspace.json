@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "seronegative spondyloarthropathy.md",
+                "file": "_acute epiglottitis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "seronegative spondyloarthropathy"
+              "title": "_acute epiglottitis"
             }
           }
         ]
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "seronegative spondyloarthropathy.md",
+                "file": "_acute epiglottitis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for seronegative spondyloarthropathy"
+              "title": "Backlinks for _acute epiglottitis"
             }
           }
         ]
@@ -209,6 +209,11 @@
   },
   "active": "9c6b4614d06689f3",
   "lastOpenFiles": [
+    "_chicken pox treatment flowchart (Work in progress).canvas",
+    "chicken pox.md",
+    "_erythrodermic psoriasis.md",
+    "_acute epiglottitis.md",
+    "seronegative spondyloarthropathy.md",
     "osgood-schlatter.md",
     "plaque psoriasis.md",
     "myelodysplastic, myeloproliferative syndrome.md",
@@ -220,7 +225,6 @@
     "lung fibrosis.md",
     "metronidazole.md",
     "paget's disease of bone.md",
-    "seronegative spondyloarthropathy.md",
     "digoxin.md",
     "tia.md",
     "crvo.md",
@@ -231,14 +235,9 @@
     "attachments/tetralogy of fallot.png",
     "dyspepsia.md",
     "h. pylori treatment flowchart.canvas",
-    "chicken pox treatment flowchart (Work in progress).canvas",
     "diagnosing diabetes mellitus.md",
     "cystic fibrosis.md",
-    "h. pylori.md",
-    "inflammatory bowel disease.md",
-    "macular degeneration.md",
     "housekeeping/memorise.base",
-    "epstein barr virus.md",
     "housekeeping/revise recent changes.base",
     "_learnie/Questions",
     "_learnie/Note Revisions",

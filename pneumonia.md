@@ -9,7 +9,7 @@ Typical has productive cough, more rapid onset, high fever, and is usually cause
 # Types
 ## [[Haemophilus influenzae]]
 Especially common in patients with COPD -> Presents as acute exacerbation of COPD. 
-Reduced occurrence in children due to Hib vaccine but can cause [[acute epiglottitis]] in them. 
+Reduced occurrence in children due to Hib vaccine but can cause [[_acute epiglottitis]] in them. 
 
 ---
 ## Hospital acquired pneumonia
