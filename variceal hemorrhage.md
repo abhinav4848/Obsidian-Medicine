@@ -5,7 +5,7 @@ aliases:
 tags:
   - gastro
 ---
-Patients with liver cirrhosis are at risk of developing portal hypertension which leads to varices and [[upper gi bleed|UGIB]]. 
+Patients with liver cirrhosis are at risk of developing portal hypertension which leads to varices and [[_upper gi bleed|UGIB]]. 
 
 Q: A 54-year-old man with a history of alcohol-related [[cirrhosis]] is reviewed in your GP surgery following an outpatient endoscopy, which revealed medium-sized oesophageal varices. He has had no previous gastrointestinal bleeding and is asymptomatic. His liver function tests are stable and he has no contraindications to beta-blockers. 
 > A non-cardioselective B-blocker (NSBB) is used for the primary prophylaxis of oesophageal bleeding.

@@ -9,7 +9,7 @@ aliases:
 ---
 Azathioprine is prodrug of 6-mercaptopurine, which causes immunosuppression.
 
-Used for [[inflammatory bowel disease|crohn's disease]], transplant.
+Used for [[_inflammatory bowel disease|crohn's disease]], transplant.
 
 Safe in pregnancy (see [[drugs contraindicated in pregnancy]]).
 

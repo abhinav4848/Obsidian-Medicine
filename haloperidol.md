@@ -13,7 +13,7 @@ First gen antipsychotic. Central D2-dopamine receptor antagonist- avoid in [[par
 Reduce starting dose in renal impairment
 
 # Side Effect
-[[QT prolongation]]
+[[_qt prolongation]]
 Sexual dysfunction: 
 
 |             |                            |                                |

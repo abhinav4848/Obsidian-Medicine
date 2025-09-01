@@ -8,7 +8,7 @@ tags:
 Seen in Polycythemia, [[leukemia]], Tumor lysis syndrome, Psoriasis, Lesch-Nyhan syndrome (self mutilating disorder due to buildup of uric acid). 
 ## Drugs
 #mnemonic : FACT 
-Furosemide, Alcohol excess, [[Cytotoxic drugs]] (cyclosporine), [[side effects of cvs drugs|thiazide]], Pyrazinamide
+Furosemide, Alcohol excess, [[Cytotoxic drugs]] (cyclosporine), [[_side effects of cvs drugs|thiazide]], Pyrazinamide
 ## Foods
 High purine containing: Liver, Kidneys, Seafood, oily fish (mackerel, sardines), and yeast products. 
 

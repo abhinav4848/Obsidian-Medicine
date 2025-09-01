@@ -2,7 +2,7 @@
 tags:
   - dermat
 ---
-[[lichen planus]], 
+[[_lichen planus]], 
 [[Psoriasis]], 
 [[Molluscum contagiosum]], 
 [[Vitiligo]] 

@@ -7,7 +7,7 @@ aliases:
   - Necrobiosis lipoidica diabeticorum
 ---
 1. [[Erythema nodosum]]
-2. Pyoderma gangrenosum ([[inflammatory bowel disease|IBD]], [[systemic lupus erythematosis|SLE]]) -> Neutrophils attack shin. Cause deep, red, necrotic ulcers with a violaceous border. 
+2. Pyoderma gangrenosum ([[_inflammatory bowel disease|IBD]], [[systemic lupus erythematosis|SLE]]) -> Neutrophils attack shin. Cause deep, red, necrotic ulcers with a violaceous border. 
 3. Pretibial myxedema ([[hyperthyroidism]]/ Thyrotoxicosis)- orange peel appearance of skin
 4. Necrobiosis lipoidica diabeticorum- waxy yellow shin lesions + telangiectasia 
 	- *See [[keratoderma blennorrhagica]] for another waxy lesion*

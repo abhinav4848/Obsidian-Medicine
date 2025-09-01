@@ -4,7 +4,7 @@ tags:
 ---
 Occurs in around 2-3% of term male infants, but is much more common if the baby is preterm. Around 25% of cases are bilateral.
 
-*From the [[newborn Infant physical examination|NIPE]] guide.* 
+*From the [[_newborn Infant physical examination|NIPE]] guide.* 
 ## Complications of undescended testis 
 - infertility
 - torsion
@@ -25,6 +25,6 @@ May be associated with underlying endocrine disorders (such as [[congenital adre
 # Extra Reading
 Testes that are palpable at both screening examinations may ascend later in childhood, so any concerns expressed by parents should be addressed. 
 
-[[newborn Infant physical examination|NIPE]]: [Undescended Testes](https://www.gov.uk/government/publications/newborn-and-infant-physical-examination-programme-handbook/newborn-and-infant-physical-examination-screening-programme-handbook#screening-examination-of-the-testes )
+[[_newborn Infant physical examination|NIPE]]: [Undescended Testes](https://www.gov.uk/government/publications/newborn-and-infant-physical-examination-programme-handbook/newborn-and-infant-physical-examination-screening-programme-handbook#screening-examination-of-the-testes )
 
 https://cks.nice.org.uk/topics/undescended-testes/#!scenario

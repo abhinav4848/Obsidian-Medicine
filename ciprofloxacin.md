@@ -7,8 +7,8 @@ It's a Quinolone.
 # Use in
 - Cipro used for acute prostatitis.
 - Can give in [[Gonorrhoea]].
-- Can be used for empirical therapy in [[cystic fibrosis]] but PipTaz (tazocin) is better.
-- Prophylactic abx in [[upper gi bleed|UGIB]]. 
+- Can be used for empirical therapy in [[_cystic fibrosis]] but PipTaz (tazocin) is better.
+- Prophylactic abx in [[_upper gi bleed|UGIB]]. 
 
 # s/e
 - Can lower [[status epilepticus|seizure]] threshold

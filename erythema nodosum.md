@@ -11,7 +11,7 @@ tags:
 - Resolve in 6 weeks w/o scarring.  
 # History of 
 ## Autoimmune
-- [[inflammatory bowel disease|IBD]] -> Faecal calprotectin,
+- [[_inflammatory bowel disease|IBD]] -> Faecal calprotectin,
 - [[Sarcoidosis]] -> Serum ACE, CXR
 - [[Behcet's disease]]
 

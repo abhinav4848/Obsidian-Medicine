@@ -6,7 +6,7 @@ tags:
 ---
 **Affected part**: Sclera.
 
-Associated with [[Rheumatoid arthritis]] (morning stiffness of small joints), [[inflammatory bowel disease|ulcerative colitis]] and granulomatosis with polyangiitis.
+Associated with [[Rheumatoid arthritis]] (morning stiffness of small joints), [[_inflammatory bowel disease|ulcerative colitis]] and granulomatosis with polyangiitis.
 
 Commonly associated with Keratoconjunctivitis sicca.  
   
@@ -19,4 +19,4 @@ Since RA patients are on long term steroids: they also get **Cataract**.
 | Phenylephrine drop: Blanches                  | Doesn't blanch                     |
 | Not painful                                   | Painful                            |
 | Less severe, Self limiting                    | More severe, Requires intervention |
-| More with [[inflammatory bowel disease\|IBD]] |                                    |
+| More with [[_inflammatory bowel disease\|IBD]] |                                    |

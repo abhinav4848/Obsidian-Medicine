@@ -16,3 +16,5 @@ If endoscopy is negative, consider 24-hr oesophageal pH monitoring (the gold sta
 Proton pump inhibitors should be stopped 2 weeks before an upper GI endoscopy. 
 
 No need to stop Aspirin
+
+See: [[_gord in children]]. 

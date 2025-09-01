@@ -4,4 +4,4 @@ tags:
 ---
 See: [[Pneumonia]]
 
-Causes LRTI in [[cystic fibrosis]], 2nd decade onwards.
+Causes LRTI in [[_cystic fibrosis]], 2nd decade onwards.

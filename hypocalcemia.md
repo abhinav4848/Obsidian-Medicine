@@ -15,7 +15,7 @@ causes- Tingling, numbness, paresthesia, involuntary spasm.
 	- High H+ accompanies high Ca++. So acidosis is hypercalcemia.
 
 # c/f
-SPASMODIC: #mnemonic Spasm, perioral paresthesia, anxious, seizures, muscle tone increased in smooth muscle, orientation impairment (time, place, person)/confusion, dermatitis, impetigo herpetiformis, Chvostek's sign #named , cardiomyopathy ([[QT prolongation]]), trousseau's sign #named 
+SPASMODIC: #mnemonic Spasm, perioral paresthesia, anxious, seizures, muscle tone increased in smooth muscle, orientation impairment (time, place, person)/confusion, dermatitis, impetigo herpetiformis, Chvostek's sign #named , cardiomyopathy ([[_qt prolongation]]), trousseau's sign #named 
 
 **Chvostek**: twitch of facial muscles when tap over parotid
 **Trousseau**: wrist flexion when brachial artery occluded.

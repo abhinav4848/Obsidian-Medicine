@@ -13,7 +13,7 @@ Antagonism of muscarinic receptors
 - urinary retention -> frequent leaking
 Antagonism of adrenergic receptors
 - postural hypotension
-[[qt prolongation|lengthening of QT interval]]
+[[_qt prolongation|lengthening of QT interval]]
 
 # Management 
 - IV bicarbonate may reduce the risk of seizures and arrhythmias in severe toxicity

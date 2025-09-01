@@ -12,4 +12,4 @@ tags:
 
 DDx: [[Septic Arthritis]]
 
-If acute: Transient synovitis, if chronic: [[Legg-Calve-Perthe's disease]].
+If acute: Transient synovitis, if chronic: [[_legg-calve-perthe's disease]].

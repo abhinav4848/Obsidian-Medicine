@@ -58,4 +58,4 @@ couscous
 
 ---
 Note: 
-*[[inflammatory bowel disease|ulcerative colitis]] can cause [[cancer- colorectal|colorectal cancer]].* 
+*[[_inflammatory bowel disease|ulcerative colitis]] can cause [[cancer- colorectal|colorectal cancer]].* 
