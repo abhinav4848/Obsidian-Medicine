@@ -10,7 +10,7 @@ Neonatal blood spot screening (previously called the Guthrie test or 'heel-prick
 
 ## The following conditions are currently screened for
 - [[Congenital hypothyroidism]]
-- [[Cystic Fibrosis]]
+- [[cystic fibrosis]]
 - [[Sickle cell|Sickle cell anaemia]]
 - 6 inherited metabolic diseases
 	- Phenylketonuria

@@ -2,6 +2,8 @@
 urls: https://en.wikipedia.org/wiki/Toxic_megacolon
 aliases:
   - toxic megacolon
+tags:
+  - gastro
 ---
 # Megacolon
 Colonic distension.

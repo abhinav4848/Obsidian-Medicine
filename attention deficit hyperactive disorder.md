@@ -1,6 +1,8 @@
 ---
 aliases:
   - ADHD
+tags:
+  - paeds
 ---
 # Treatment
 ## Children: 

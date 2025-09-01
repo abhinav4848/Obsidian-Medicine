@@ -1,0 +1,42 @@
+properties:
+  file.name:
+    displayName: Name
+  file.tags:
+    displayName: Tags
+views:
+  - type: table
+    name: Yesterday's changes
+    filters:
+      and:
+        - file.mtime > today()-'1d'
+        - file.mtime < today()
+        - file.ext == "md"
+    order:
+      - file.name
+      - file.mtime
+      - file.tags
+    sort:
+      - property: file.tags
+        direction: DESC
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      file.name: 221
+      file.tags: 342
+  - type: table
+    name: Last Week's changes
+    filters:
+      and:
+        - file.mtime > today()-'7d'
+        - file.mtime < today()
+        - file.ext == "md"
+    order:
+      - file.name
+      - file.tags
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      file.name: 221
+      file.tags: 342

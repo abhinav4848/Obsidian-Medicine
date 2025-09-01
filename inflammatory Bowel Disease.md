@@ -7,7 +7,6 @@ aliases:
   - Crohn's disease
   - IBD
 ---
-
 # Investigation
 Faecal calprotectin. 
 (Faecal elastase is low in pancreatic insufficiency -> chronic pancreatitis) #confusion 
@@ -19,12 +18,11 @@ Faecal calprotectin.
 *Common to both Crohn's disease (CD) and Ulcerative colitis (UC)*
 *These are tested very often in the exam*
 
-| Related to disease activity                                                                                                                                                                            | Unrelated to disease activity                                                                                                                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| - [[Episcleritis]]<br>- [[aphthous ulcer]]<br>- Osteoporosis<br>- Arthritis (MC)<br>	- Pauci-articular<br>	- Asymmetric<br>- [[shin lesions\|pyoderma gangrenosum]] <br>- [[Erythema nodosum]]<br><br> | - [[Uveitis]]<br>- Clubbing<br>- Gallstones<br>- [[primary sclerosing cholangitis\|PSC]]<br>- Arthritis<br>	- Polyarticular<br>	- Symmetric<br>- [[Ankylosing spondylitis]]<br>- Sacro-ileitis<br>- [[Psoriasis]]<br>- Pyoderma gangrenosum |
+| Related to disease activity                                                                                                                               | Unrelated to disease activity                                                                                                                                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - [[Episcleritis]]<br>- [[aphthous ulcer]]<br>- Osteoporosis<br>- Arthritis (MC)<br>	- Pauci-articular<br>	- Asymmetric<br>- [[Erythema nodosum]]<br><br> | - [[Uveitis]]<br>- Clubbing<br>- Gallstones<br>- [[primary sclerosing cholangitis\|PSC]]<br>- Arthritis<br>	- Polyarticular<br>	- Symmetric<br>- [[Ankylosing spondylitis]]<br>- Sacro-ileitis<br>- [[Psoriasis]]<br>- [[shin lesions\|pyoderma gangrenosum]]  |
 - Arthritis is the most common extra-intestinal feature in both CD and UC
-- Primary sclerosing cholangitis is much more common in UC
-- Uveitis is more common in UC
+- Primary sclerosing cholangitis, & Uveitis are more common in UC
 - Episcleritis is more common in CD
 # Symptoms
 | UC                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Crohn's                                                                                                                                                                                                                                                                                                                                                                                                                                                |

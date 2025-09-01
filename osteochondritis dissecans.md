@@ -9,6 +9,6 @@ Fragment of bone in the knee joint that becomes detached due to a lack of blood 
 # Clinical Features
 Pain on exercise,
 swelling,
-Locking 🔒 (also in [[Lower limb orthopedic problems#Knee Ligaments|meniscal tears]]). 
+Locking 🔒 (also in [[lower limb ortho problems#Knee Ligaments|meniscal tears]]). 
 # Treatment
 Conservative. Children's bones are self healing.

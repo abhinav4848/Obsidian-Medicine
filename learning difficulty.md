@@ -1,1 +1,5 @@
+---
+tags:
+  - paeds
+---
 [[Fragile X Syndrome]] is the most common cause of inherited learning disability (not difficulty, like autism). 

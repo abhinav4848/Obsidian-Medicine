@@ -1,3 +1,7 @@
+---
+tags:
+  - pharmacology
+---
 Orlistat is a gastrointestinal lipase inhibitor
 Reduces the absorption of fat from the gut.
 

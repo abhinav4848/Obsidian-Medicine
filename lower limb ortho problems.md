@@ -1,3 +1,7 @@
+---
+tags:
+  - ortho
+---
 # Hip
 |           |                                                                                                   |
 | --------- | ------------------------------------------------------------------------------------------------- |
@@ -17,7 +21,7 @@
 8. [[Transient synovitis]]
 9. [[Trochanteric Bursitis]]
 
-see [[Paeds orthopedics differences- ddh, perthe's, sufe]]
+see [[paeds ortho diff- ddh, perthe's, sufe]]
 
 # Knee
 ![[knee orthopedic pathologies.png]]

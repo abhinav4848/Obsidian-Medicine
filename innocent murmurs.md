@@ -1,4 +1,8 @@
-All with 
+---
+tags:
+  - cardio
+---
+All with S #mnemonic 
 - Sensitive: Changes with position/Supine (increases if supine)
 - Soft blowing
 - Systolic

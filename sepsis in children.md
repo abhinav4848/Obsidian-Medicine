@@ -1,6 +1,7 @@
 ---
 tags:
   - infection
+  - paeds
 ---
 # Red flag sepsis
 1. difficult to rouse

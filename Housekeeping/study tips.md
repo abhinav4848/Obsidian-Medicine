@@ -34,3 +34,5 @@ https://elearning.rcgp.org.uk/course/index.php?categoryid=56#features
 Flowcharts
 https://calgaryguide.ucalgary.ca/ 
 
+# Yesterday's notes changes
+![[revise recent changes.base#Yesterday's changes]]

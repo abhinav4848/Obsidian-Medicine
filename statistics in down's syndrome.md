@@ -1,3 +1,8 @@
+---
+tags:
+  - paeds
+  - genetics
+---
 Risk of Down's syndrome with increasing maternal age: 
 
 | Age (years) | Risk               |

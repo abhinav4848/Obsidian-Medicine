@@ -4,12 +4,14 @@ tags:
 ---
 MCC of [[loss of vision|blindness]] in UK.
 
+# Clinical Features
 Patients will report distortion in vision (straight lines appearing curved), blurred vision, and **central vision is affected first** #important 
 
 Photopsia #named : perception of flickering or flashing light
 Glare around objects
 Visual hallucinations may be seen with [[confusion in ophthalmology|Charles Bonnet syndrome]]. 
 
+# Types
 **Dry type:**
 - Drusen (yellow spots) seen on fundoscopy & gradual loss of vision.
 

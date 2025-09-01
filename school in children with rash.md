@@ -1,6 +1,9 @@
 ---
 aliases:
   - school exclusion
+tags:
+  - infection
+  - paeds
 ---
 ### [[Chicken Pox]]
 -4 & +5 days from onset of rash, or when crusted over. 

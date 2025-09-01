@@ -1,3 +1,7 @@
+---
+tags:
+  - paeds
+---
 Tachypnoea: respiratory rate  
 
 - >50 breaths/minute, age 6-12 months;

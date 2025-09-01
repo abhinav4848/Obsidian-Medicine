@@ -1,5 +1,8 @@
+---
+tags:
+  - paeds
+---
 The following should be recorded in all febrile children:  
-
 - temperature
 - heart rate
 - respiratory rate

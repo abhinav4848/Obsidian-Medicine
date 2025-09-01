@@ -23,7 +23,7 @@ In IMN (Glandular fever), the most likely organ to be involved is -> Spleen
 	A swollen spleen does not present any immediate health problems, but it increases the risk of the spleen rupturing (splitting). The main sign of a ruptured spleen is the sudden onset of a sharp abdominal (tummy) pain.
 
 IN HIV, EBV can cause [[hairy Leukoplakia]]. 
-[[cancer- ENT|nasopharyngeal cancer]], Burkitt Lymphoma. #associated 
+[[_cancer- ent|nasopharyngeal cancer]], Burkitt Lymphoma. #associated 
 Ampicillin/amoxicillin leads to rash.
 # Investigation
 Paul Bunnel/Monospot/heterophile antibody test -> Do FBC & Monospot in 2nd week of illness to confirm diagnosis. #named 

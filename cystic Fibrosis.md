@@ -1,3 +1,8 @@
+---
+tags:
+  - paeds
+  - respiratory
+---
 Autosomal Recessive, causes increased viscosity of secretions. 
 ## Definition & Summary
 Steatorrhea (Malabsorption), foul smelling, Respiratory infections, cough, delayed growth-> Failure to thrive, abdominal distension.
@@ -5,7 +10,7 @@ Steatorrhea (Malabsorption), foul smelling, Respiratory infections, cough, delay
 **Prenatal test**: Echogenic bowel on USG
 **Post natal**: Meconium ileus, Bilious vomiting
 
-[[Guthrie test]] for screening (heel prick test in neonatal screening) -> Sweat Chloride & Genetic test for CFTR for confirmation -> Done on day 5. 
+[[Guthrie test]] #named for screening (heel prick test in neonatal screening) -> Sweat Chloride & Genetic test for CFTR for confirmation -> Done on day 5. 
 
 ## Clinical features
 24-48 hrs after birth
@@ -24,8 +29,8 @@ Can cause bronchiectasis due to recurrent infections.
 ## DDx
 [[Bronchiolitis]] is acute condition. CF is chronic
 
-`Brain + kidney: ADPKD
-`Brain + liver: Wilson`
-`Chest + abdomen: CF`
-`Chest + Liver: alpha 1 antitrypsin`
+`Brain + Kidney: ADPKD
+`Brain + Liver: Wilson`
+`Chest + Abdomen: CF`
+`Chest + Liver: Alpha 1 antitrypsin`
 `Chest + kidney: Good pasture`

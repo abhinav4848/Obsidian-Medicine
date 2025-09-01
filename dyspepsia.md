@@ -5,7 +5,7 @@ tags:
 Indigestion- general discomfort in upper abdomen, bloating, early satiety, N&V, belching, burning
 # Who to refer 
 ## Urgently
-All patients who've got **[[dysphagia]]**  
+All patients who've got **[[dysphagia]]** 
   
 All patients who've got an **upper abdominal mass** consistent with [[cancer- gastric|stomach cancer]]
   
@@ -18,13 +18,13 @@ Patients aged >= 55 years who've got **weight loss**, AND any of the following:
 Patients with **haematemesis**  
 
 Patients aged >= 55 years who've got:  
-- **treatment-resistant dyspepsia** or
+- **treatment-resistant dyspepsia**, or
 - upper abdominal pain with low haemoglobin levels or
 - **raised platelet count** with any of the following: nausea, vomiting, weight loss, reflux, dyspepsia, upper abdominal pain
 - nausea or vomiting with any of the following: weight loss, reflux, dyspepsia, upper abdominal pain
 
 # Treatment for those who don't meet the criteria for referral
-aka undiagnosed dyspepsia
+aka undiagnosed dyspepsia 
 1. Review meds causing dyspepsia
 2. Lifestyle advice
 3. Full dose PPI for a month or 'Test and Treat' #named approach for [[h. pylori]].

@@ -8,37 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "19bb645cdbdfc80f",
+            "id": "9c6b4614d06689f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nomenclature.md",
+                "file": "_congenital cyanotic diseases of heart.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "nomenclature"
-            }
-          },
-          {
-            "id": "c403f7406269c4c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "confusion in ophthalmology.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "confusion in ophthalmology"
+              "title": "_congenital cyanotic diseases of heart"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "temporal arteritis",
+                "query": "congen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -91,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "confusion in ophthalmology.md",
+                "file": "_congenital cyanotic diseases of heart.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +183,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for confusion in ophthalmology"
+              "title": "Backlinks for _congenital cyanotic diseases of heart"
             }
           }
         ]
@@ -216,59 +201,65 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsifetch:obsifetch": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "learnie:Review notes": false,
+      "learnie:Create Learnie note": false,
+      "learnie:View all questions": false,
+      "learnie:Start quiz": false
     }
   },
-  "active": "c403f7406269c4c0",
+  "active": "9c6b4614d06689f3",
   "lastOpenFiles": [
-    "crao.md",
+    "attachments/tetralogy of fallot.png",
+    "_congenital cyanotic diseases of heart.md",
+    "_cancer- ent.md",
+    "_crvo.md",
+    "_crao.md",
+    "_afro caribbean.md",
+    "_tia.md",
+    "_digoxin.md",
+    "dyspepsia.md",
+    "h. pylori treatment flowchart.canvas",
+    "chicken pox treatment flowchart (Work in progress).canvas",
+    "diagnosing diabetes mellitus.md",
+    "cystic fibrosis.md",
+    "h. pylori.md",
+    "inflammatory bowel disease.md",
+    "macular degeneration.md",
+    "housekeeping/memorise.base",
+    "epstein barr virus.md",
+    "acute cholecystitis.md",
+    "achalasia cardia.md",
+    "housekeeping/revise recent changes.base",
+    "paeds ortho diff- ddh, perthe's, sufe.md",
+    "lower limb ortho problems.md",
+    "Untitled.md",
+    "housekeeping/study tips.md",
+    "lichen planus.md",
+    "newborn Infant physical examination.md",
+    "stunted growth.md",
+    "ra vs osteoarthritis.md",
+    "felty's syndrome.md",
+    "_learnie/Questions",
+    "_learnie/Note Revisions",
+    "_learnie",
     "attachments/crao.png",
     "attachments/Pasted image 20250901095656.png",
-    "polymyalgia rheumatica.md",
-    "loss of vision.md",
-    "crvo.md",
     "desktop.ini",
-    "macular degeneration.md",
-    "sarcoidosis.md",
-    "granulomatous disease.md",
     "attachments/lupus pernio (classic in sarcoidosis).png",
-    "alcohol.md",
     "attachments/erythema nodosum 2.png",
-    "erythema nodosum.md",
     "attachments/a/erythema nodosum 2.png",
     "attachments/a/lupus pernio (classic in sarcoidosis).png",
     "attachments/a",
     "attachments/New folder",
     "attachments/Pasted image 20250831221213.png",
-    "inflammatory bowel disease.md",
-    "episcleritis.md",
-    "shin lesions.md",
-    "erythema infectiosum.md",
-    "erythroderma.md",
-    "systemic lupus erythematosis.md",
-    "afro-Caribbean.md",
     "attachments/sle- md soap brain mnemonic.png",
-    "megacolon.md",
-    "hirschprung disease.md",
-    "acne inversa.md",
-    "superior vena cava syndrome.md",
-    "roseola infantum.md",
-    "papilledema.md",
-    "osteoporosis.md",
-    "lichen Planus.md",
-    "hepatitis viruses.md",
     "Test Base.base",
     "attachments/sufe.png",
-    "attachments/eczema herpeticum 1.png",
-    "h. pylori treatment flowchart.canvas",
     "Untitled",
-    "chicken Pox treatment flowchart (Work in progress).canvas",
-    "_duplicates",
     "_chicken Pox treatment flowchart (Work in progress).canvas",
     "hypertension management.canvas",
     "chicken pox treatment flowchart (work in progress).canvas",
-    "Chicken Pox treatment flowchart (Work in progress).canvas",
-    "Housekeeping",
-    "attachments"
+    "Chicken Pox treatment flowchart (Work in progress).canvas"
   ]
 }

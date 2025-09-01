@@ -1,6 +1,8 @@
 ---
 tags:
   - common
+aliases:
+  - dictionary
 ---
 Dysmetria: This may lead to overshoot in point-to-point movements
 

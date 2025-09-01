@@ -1,0 +1,30 @@
+views:
+  - type: table
+    name: Mnemonics
+    filters:
+      and:
+        - file.hasTag("mnemonic")
+    order:
+      - file.name
+      - file.tags
+      - file.mtime
+  - type: table
+    name: Named
+    filters:
+      and:
+        - file.hasTag("named")
+    order:
+      - file.name
+      - file.mtime
+      - file.tags
+    columnSize:
+      file.mtime: 150
+  - type: table
+    name: Important
+    filters:
+      and:
+        - file.hasTag("important")
+    order:
+      - file.name
+      - file.tags
+      - file.mtime

@@ -4,7 +4,7 @@ tags:
   - ortho
 ---
 Limp means: Non weight bearing. 
-Also see: [[Lower limb orthopedic problems]] 
+Also see: [[lower limb ortho problems]] 
 
 | Disease                                               | Features                                                                                                                                                        |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |

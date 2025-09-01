@@ -13,7 +13,7 @@ It's a Quinolone.
 # s/e
 - Can lower [[status epilepticus|seizure]] threshold
 - Can cause oxidative stress and RBC lysis (e.g. [[G6PD deficiency]])
-- Can cause [[Lower limb orthopedic problems#Foot|achielles tendonitis]] & rupture -> Risk increased if patient on steroids
+- Can cause [[lower limb ortho problems#Foot|achielles tendonitis]] & rupture -> Risk increased if patient on steroids
 	- A guy ruptured his tendon after being treated with ciprofloxacin.
 - Can cause cartilage damage so avoid in children
 - Can cause [[long qt syndrome|Long QT interval]].

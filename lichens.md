@@ -2,7 +2,7 @@
 tags:
   - dermat
 ---
-# [[Lichen Planus]]
+# [[lichen planus]]
 
 # Lichen Sclerosis
 Affects genitalia only -> seen mostly on vulva of elderly women  
