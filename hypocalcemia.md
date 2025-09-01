@@ -14,8 +14,18 @@ causes- Tingling, numbness, paresthesia, involuntary spasm.
 - Panic attack -> Hyperventilation -> respiratory alkalosis -> transient hypocalcemia.
 	- High H+ accompanies high Ca++. So acidosis is hypercalcemia.
 
-# c/f
-SPASMODIC: #mnemonic Spasm, perioral paresthesia, anxious, seizures, muscle tone increased in smooth muscle, orientation impairment (time, place, person)/confusion, dermatitis, impetigo herpetiformis, Chvostek's sign #named , cardiomyopathy ([[qt prolongation]]), trousseau's sign #named 
+# Clinical Features
+SPASMODIC: #mnemonic 
+- Spasm, 
+- perioral paresthesia, 
+- anxious, 
+- seizures, 
+- muscle tone increased in smooth muscle, 
+- orientation impairment (time, place, person)/confusion, 
+- dermatitis, 
+- impetigo herpetiformis, 
+- Chvostek's sign #named, cardiomyopathy ([[qt prolongation]]), 
+- Trousseau's sign (not the [[cancer- pancreas|pancreatic cancer]] one) #named 
 
 **Chvostek**: twitch of facial muscles when tap over parotid
 **Trousseau**: wrist flexion when brachial artery occluded.

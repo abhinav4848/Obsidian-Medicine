@@ -10,7 +10,9 @@ aliases:
   - hep B vaccination
 urls: https://www.cdc.gov/hepatitis-b/hcp/diagnosis-testing/?CDC_AAref_Val=https://www.cdc.gov/hepatitis/hbv/interpretationOfHepBSerologicResults.htm#cdc_hcp_diagnosis_interpreting-how-to-interpret-test-results
 ---
-See [[hepatitis]] basics here. 
+*See [[hepatitis]] basics here.* 
+
+![[hepatitis#Viral Hepatitis]]
 
 | Virus | Micro category   |
 | ----- | ---------------- |

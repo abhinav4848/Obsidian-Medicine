@@ -21,4 +21,4 @@ Support + PCT
 ## Complication
 febrile convulsion
 aseptic meningitis
-hepatitis
+[[hepatitis]]

@@ -24,4 +24,4 @@ Intravascular volume depletion -> High [[conn's syndrome|aldosterone]] state -> 
 # Management
 Also, give [[laxatives|Lactulose]] to prevent formation of ammonia in gut.
 
-ACEi can induce renal failure through arterial hypotension even in low doses in cirrhotic patients and should be used with careful blood pressure and renal function monitoring.
+[[ace inhibitors|ACE inhibitor]] can induce renal failure through arterial hypotension even in low doses in cirrhotic patients and should be used with careful blood pressure and renal function monitoring.

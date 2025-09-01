@@ -3,17 +3,19 @@ tags:
   - gastro
 aliases: []
 ---
+*see also: [[dyspepsia]].* 
+
 # Classification of causes- Based on type of dysphagia
 
 Motility Disorder- Affects both Solids and Liquids.
 Mechanical Disorder- Affects solids before liquids. 
 
-| Type                              | Examples                                                    |
-| --------------------------------- | ----------------------------------------------------------- |
-| Motility disorder- Intermittent   | Diffuse [[Oesophagus\|Oesophageal]] spasm                   |
-| Motility disorder- Progressive    | Achalasia, Scleroderma                                      |
-| Mechanical disorder- Intermittent | Oesophageal ring                                            |
-| Mechanical disorder- Progressive  | Peptic Stricture/[[cancer- oesophagus\|oesophageal cancer]] |
+| Type                              | Examples                                                     |
+| --------------------------------- | ------------------------------------------------------------ |
+| Motility disorder- Intermittent   | Diffuse [[Oesophagus\|Oesophageal]] spasm                    |
+| Motility disorder- Progressive    | [[achalasia cardia]], [[systemic sclerosis\|scleroderma]]    |
+| Mechanical disorder- Intermittent | Oesophageal ring                                             |
+| Mechanical disorder- Progressive  | Peptic Stricture, [[cancer- oesophagus\|oesophageal cancer]] |
 # Classification of causes- Based on source
 
 | Classification       | Examples                                                                                               |

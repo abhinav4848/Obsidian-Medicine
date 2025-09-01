@@ -8,21 +8,52 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c6b4614d06689f3",
+            "id": "ba336fc7f5fad538",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trochanteric bursitis.md",
+                "file": "paeds ortho diff- ddh, perthe's, sufe.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "trochanteric bursitis"
+              "title": "paeds ortho diff- ddh, perthe's, sufe"
+            }
+          },
+          {
+            "id": "b5839bc45c2a7c0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cancer- cholangiocarcinoma.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "cancer- cholangiocarcinoma"
+            }
+          },
+          {
+            "id": "68f591afb7aab009",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pancreatitis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "pancreatitis"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "congen",
+                "query": "back up",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -172,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "trochanteric bursitis.md",
+                "file": "cancer- cholangiocarcinoma.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +213,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for trochanteric bursitis"
+              "title": "Backlinks for cancer- cholangiocarcinoma"
             }
           }
         ]
@@ -207,36 +238,37 @@
       "learnie:Start quiz": false
     }
   },
-  "active": "9c6b4614d06689f3",
+  "active": "676efa40181a3294",
   "lastOpenFiles": [
-    "upper gi bleed.md",
-    "qt prolongation.md",
-    "ra vs osteoarthritis.md",
-    "side effects of cvs drugs.md",
-    "legg-calve-perthe's disease.md",
-    "nash.md",
-    "newborn Infant physical examination.md",
-    "lichen planus.md",
-    "hairy leukoplakia.md",
-    "inflammatory bowel disease.md",
-    "glaucoma- acute angle closure.md",
-    "gord in children.md",
-    "cystic fibrosis.md",
-    "chicken pox treatment flowchart (work in progress).canvas",
-    "gord.md",
-    "trochanteric bursitis.md",
-    "erythrodermic psoriasis.md",
-    "acute epiglottitis.md",
+    "cancer- pancreas.md",
+    "biliary colic.md",
+    "acute cholecystitis.md",
+    "cancer- cholangiocarcinoma.md",
+    "hepatobiliary disease and related disorders.md",
+    "hepatitis viruses.md",
+    "hypocalcemia.md",
+    "cancer- gastric.md",
+    "ascending cholangitis.md",
+    "pancreatitis.md",
+    "hepatitis.md",
+    "paget's disease of bone.md",
+    "amenorrhoea.md",
+    "immunisation in adults.md",
+    "phenytoin.md",
+    "drugs contraindicated in pregnancy.md",
     "chicken pox.md",
-    "seronegative spondyloarthropathy.md",
-    "osgood-schlatter.md",
-    "plaque psoriasis.md",
-    "myelodysplastic, myeloproliferative syndrome.md",
-    "meralgia paresthetica.md",
-    "acanthosis nigricans.md",
-    "flexural psoriasis.md",
-    "attachments/tetralogy of fallot.png",
+    "coeliac disease.md",
+    "roseola infantum.md",
+    "amoebic liver abscess.md",
+    "congestive hepatomegaly.md",
+    "gallstone ileus.md",
+    "paeds ortho diff- ddh, perthe's, sufe.md",
+    "hirschprung disease.md",
+    "git problems in paeds.md",
+    "spontaneous bacterial peritonitis.md",
     "h. pylori treatment flowchart.canvas",
+    "chicken pox treatment flowchart (work in progress).canvas",
+    "attachments/tetralogy of fallot.png",
     "housekeeping/memorise.base",
     "housekeeping/revise recent changes.base",
     "_learnie/Questions",

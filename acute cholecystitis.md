@@ -18,7 +18,7 @@ Pain similar to [[biliary colic]] but more severe and persistent. The pain may r
 
 # Investigation
 ALP & GGT rise first, and as bile continues to back up, AST and ALT will rise. 
-Amylase will help identify gallstone pancreatitis. 
+Amylase will help identify gallstone [[pancreatitis]]. 
 ## USG
 thick walled shrunken gallbladder.
 

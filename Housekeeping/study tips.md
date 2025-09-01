@@ -29,6 +29,8 @@ https://www.rcgp.org.uk/mrcgp-exams/mrcgp-exam-applications
 ## GP self test
 https://elearning.rcgp.org.uk/course/index.php?categoryid=56#features
 
+CPD catalogue by RCGP: https://elearning.rcgp.org.uk/local/rcgp_coursedisplay/index.php 
+
 ---
 # Calgary guide to understanding disease 
 Flowcharts

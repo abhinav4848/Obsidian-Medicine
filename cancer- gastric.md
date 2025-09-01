@@ -9,7 +9,7 @@ aliases:
 *See referral criteria in patients with [[dyspepsia]].* 
 # Risk Factors:
 - Blood Group A
-- Pernicious anemia
+- [[pernicious anemia|pernicious anaemia]]
 - [[H. Pylori]] infection
 - Smoking
 - Diet

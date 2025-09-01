@@ -11,4 +11,4 @@ Refer based on [[dyspepsia]].
 can cause [[cancer- gastric]]. 
 
 # Treatment
-see [[h. pylori treatment flowchart.canvas|h. pylori treatment flowchart]]. 
+see ![[h. pylori treatment flowchart.canvas|h. pylori treatment flowchart]]. 

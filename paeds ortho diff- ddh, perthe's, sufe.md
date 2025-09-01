@@ -2,6 +2,7 @@
 tags:
   - ortho
   - paeds
+  - list
 ---
 
 | **Diagnosis**                                     | **Mode of presentation**                                                                                                                                                                                                                                | **Treatment**                                                                                                                                                                                                                                             | **Radiology**                                                                                                                                                           |

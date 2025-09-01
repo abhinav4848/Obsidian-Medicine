@@ -20,7 +20,8 @@ Smoking, DM, Chronic pancreatitis, age, HNPCC, BRCA2, MEN, KRAS
 - Loss of endocrine function: recent onset DM (paraneoplastic syndrome),
 - Cholestatic LFTs (raised ALP and γGT) -> cuz pancreatic head compressed the Bile duct. 
 	- cholestatic LFT can also bee seen in [[cancer- cholangiocarcinoma]]. 
-- Migratory thrombophlebitis (Trousseau's sign #named  -> not the hypocalcaemia one. Here, there is multiple venous thrombosis due to procoagulant factors formed by cancer cells.) [[prim]]
+	- ALP & GGT rise first, and as bile continues to back up, AST and ALT will rise. 
+- Migratory thrombophlebitis (Trousseau's sign #named  -> not the [[hypocalcemia]] one. Here, there is multiple venous thrombosis due to procoagulant factors formed by cancer cells.) 
 	
 >[!info]
 >**Courvoisier's law** states that in the presence of painless obstructive jaundice, a palpable gallbladder is unlikely to be due to gallstones.

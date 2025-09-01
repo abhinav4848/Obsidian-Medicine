@@ -44,4 +44,4 @@ present in chicken pox (not in mumps) -> vesicular discharge, high fever -> Give
 - Secondary bacterial infection (NSAIDs may increase this risk in chicken pox)
 - Encephalitis (cerebellar involvement may be seen) 
 - Pneumonia
-- If a baby is born with **congenital varicella**, he can develop *pneumonia* and *hepatitis* when delivered.
+- If a baby is born with **congenital varicella**, he can develop *pneumonia* and *[[hepatitis]]* when delivered.

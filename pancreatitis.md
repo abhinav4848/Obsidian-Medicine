@@ -1,6 +1,8 @@
 ---
 tags:
   - gastro
+aliases:
+  - acute pancreatitis
 ---
 Usually due to alcohol or gallstones. Can be due to ERCP.
 # Causes
@@ -9,14 +11,14 @@ Usually due to alcohol or gallstones. Can be due to ERCP.
 - Ethanol
 - Trauma
 - Steroids
-- Mumps (other viruses include Coxsackie B)
+- [[Mumps]] (other viruses include Coxsackie B)
 - Autoimmune (e.g. polyarteritis nodosa), Ascaris infection
 - Scorpion venom 
 - Hypertriglyceridemia, Hyperchylomicronemia, Hypercalcemia, Hypothermia
 - ERCP 
 - Drugs ([[azathioprine]], Mesalazine*, didanosine, Bendroflumethiazide, furosemide, pentamidine, steroids, sodium valproate)
 
-*pancreatitis is 7 times more common in patients taking Mesalazine than sulfasalazine
+ \*pancreatitis is 7x more common in patients taking Mesalazine than sulfasalazine
 
 # Acute
 >[!info]

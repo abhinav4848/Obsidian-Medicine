@@ -5,14 +5,12 @@ tags:
 Indigestion- general discomfort in upper abdomen, bloating, early satiety, N&V, belching, burning
 # Who to refer 
 ## Urgently
-All patients who've got **[[dysphagia]]** 
-  
-All patients who've got an **upper abdominal mass** consistent with [[cancer- gastric|stomach cancer]]
-  
-Patients aged >= 55 years who've got **weight loss**, AND any of the following:  
-- upper abdominal pain
-- reflux
-- dyspepsia
+1. All patients who've got **[[dysphagia]]** 
+2. All patients who've got an **upper abdominal mass** consistent with [[cancer- gastric|stomach cancer]]
+3. Patients aged >= 55 years who've got **weight loss**, AND any of the following:  
+	- upper abdominal pain
+	- reflux
+	- dyspepsia
 
 ## Non Urgently
 Patients with **haematemesis**  

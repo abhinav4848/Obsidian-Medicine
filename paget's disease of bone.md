@@ -31,8 +31,8 @@ Polymyalgia: Raised ESR
 
 **High ALP causes**: (2B+P) #mnemonic
 **Bone**: Osteomalacia, Paget's, Hyperparathyroidism, Bone metastases
-**Biliary tract**: Cholestasis (Obstructive jaundice), hepatitis, fatty liver, neoplasia
-**Physiological**: Pregnant (placenta produces alp), growing adolescents, healing fractures
+**Biliary tract**: Cholestasis (Obstructive jaundice), [[hepatitis]], fatty liver, neoplasia
+**Physiological**: Pregnant (placenta produces ALP), growing adolescents, healing fractures
 Others: Renal failure
 
 | Raised ALP and raised calcium              | Raised ALP and low calcium        |

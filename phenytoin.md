@@ -28,9 +28,9 @@ Drug induced SLE
 # Idiosyncratic
 Fever
 Rashes, this includes severe reactions such as toxic epidermal necrolysis
-Hepatitis
+[[Hepatitis]]
 Dupuytren's contracture
-Aplastic anemia
+Aplastic anaemia
 Drug-induced lupus
 	
 # Teratogenic
