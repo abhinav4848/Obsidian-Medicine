@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "macular degeneration.md",
+                "file": "loss of vision.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "macular degeneration"
+              "title": "loss of vision"
             }
           }
         ],
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "macular degeneration.md",
+                "file": "loss of vision.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for macular degeneration"
+              "title": "Backlinks for loss of vision"
             }
           }
         ]
@@ -219,10 +219,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "676efa40181a3294",
+  "active": "c403f7406269c4c0",
   "lastOpenFiles": [
-    "loss of vision.md",
     "macular degeneration.md",
+    "loss of vision.md",
     "sarcoidosis.md",
     "granulomatous disease.md",
     "attachments/lupus pernio (classic in sarcoidosis).png",
