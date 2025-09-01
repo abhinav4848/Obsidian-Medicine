@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "loss of vision.md",
+                "file": "confusion in ophthalmology.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "loss of vision"
+              "title": "confusion in ophthalmology"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vision loss",
+                "query": "temporal arteritis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "loss of vision.md",
+                "file": "confusion in ophthalmology.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for loss of vision"
+              "title": "Backlinks for confusion in ophthalmology"
             }
           }
         ]
@@ -221,8 +221,14 @@
   },
   "active": "c403f7406269c4c0",
   "lastOpenFiles": [
-    "macular degeneration.md",
+    "crao.md",
+    "attachments/crao.png",
+    "attachments/Pasted image 20250901095656.png",
+    "polymyalgia rheumatica.md",
     "loss of vision.md",
+    "crvo.md",
+    "desktop.ini",
+    "macular degeneration.md",
     "sarcoidosis.md",
     "granulomatous disease.md",
     "attachments/lupus pernio (classic in sarcoidosis).png",
@@ -251,16 +257,9 @@
     "osteoporosis.md",
     "lichen Planus.md",
     "hepatitis viruses.md",
-    "felty's syndrome.md",
-    "dermatomyositis.md",
-    "dactylitis.md",
-    "conn's syndrome.md",
     "Test Base.base",
     "attachments/sufe.png",
     "attachments/eczema herpeticum 1.png",
-    "attachments/eczema herpeticum 2.png",
-    "attachments/Breast cancer referral (summary).png",
-    "desktop.ini",
     "h. pylori treatment flowchart.canvas",
     "Untitled",
     "chicken Pox treatment flowchart (Work in progress).canvas",

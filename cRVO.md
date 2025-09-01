@@ -22,7 +22,7 @@ BRVO: Branch retinal vein occlusion (BRVO).
 this occurs when a vein in the distal retinal venous system is occluded and is thought to occur due to blockage of retinal veins at arteriovenous crossings. It results in a more limited area of the fundus being affected.
 ![[brvo.png]]
 
-## Treatment
-indications for treatment in patients with CRVO include:
-	Macular oedema - intravitreal anti-vascular endothelial growth factor (VEGF) agents
+# Treatment
+Indications for treatment in patients with CRVO include:
+	Macular oedema - intravitreal anti-VEGF (anti-vascular endothelial growth factor) agents
 	Retinal neovascularization - laser photocoagulation
