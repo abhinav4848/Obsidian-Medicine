@@ -11,7 +11,7 @@ It's a [[seronegative spondyloarthropathy]].
 - Anemia,
 - Raised ESR.
 
-Associated with [[_inflammatory bowel disease|crohn's disease]], Leukocytosis, Cauda equina, Peripheral arthritis.
+Associated with [[inflammatory bowel disease|crohn's disease]], Leukocytosis, Cauda equina, Peripheral arthritis.
 ## 'A' problems
 - Apical fibrosis
 - Anterior [[uveitis]]

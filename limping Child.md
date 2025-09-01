@@ -13,7 +13,7 @@ Also see: [[lower limb ortho problems]]
 | **[[Juvenile idiopathic arthritis]]**                 | Limp may be painless                                                                                                                                            |
 | **Trauma**                                            | History is usually diagnostic                                                                                                                                   |
 | **[[Developmental dysplasia of the hip]]**            | Usually detected in neonates  <br>6 times more common in girls                                                                                                  |
-| **[[_legg-calve-perthe's disease\|Perthe's Disease]]** | More common at 4-8 years  <br>Due to avascular necrosis of the femoral head                                                                                     |
+| **[[legg-calve-perthe's disease\|Perthe's Disease]]** | More common at 4-8 years  <br>Due to avascular necrosis of the femoral head                                                                                     |
 | **[[Slipped upper femoral epiphysis]]**               | ***Emergency***<br>10-15 years - Displacement of the femoral head epiphysis postero-inferiorly                                                                  |
 # Mnemonic 
 #mnemonic

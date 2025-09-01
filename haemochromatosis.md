@@ -6,7 +6,7 @@ tags:
 Autosomal recessive #genetics 
 Disorder of iron absorption and metabolism, leading to iron accumulation. 
 
-It's most prevalent in people of European descent, making it more common than [[_cystic fibrosis]].
+It's most prevalent in people of European descent, making it more common than [[cystic fibrosis]].
 
 # Clinical Features
 - Early symptoms: Fatigue, erectile dysfunction, arthralgia (often of hands).

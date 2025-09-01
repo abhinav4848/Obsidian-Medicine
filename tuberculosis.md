@@ -15,7 +15,7 @@ Cachexia (weight loss), chronic cough, hemoptysis, night sweat
 
 # Investigation
 **CXR**: Upper lobe infiltrates with cavitation.
-Caseating granuloma #named  (non-caseating: [[Sarcoidosis]], [[_inflammatory bowel disease|crohn's disease]])
+Caseating granuloma #named  (non-caseating: [[Sarcoidosis]], [[inflammatory bowel disease|crohn's disease]])
 
 Can do bronchoalveolar lavage > gastric lavage if sample not obtained.
 (pleural tap done for u/l pleural effusion)

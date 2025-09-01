@@ -46,4 +46,4 @@ Cyclopentolate is a muscaranic antagonist. Dilates pupil
 Tropicamide dilates pupil
 Atropine dilates pupil.
 
-*See [[_glaucoma- acute angle closure|acute angle glaucoma]]*. 
+*See [[glaucoma- acute angle closure|acute angle glaucoma]]*. 

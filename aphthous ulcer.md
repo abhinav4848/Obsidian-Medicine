@@ -7,4 +7,4 @@ urls: https://dermnetnz.org/topics/aphthous-ulcer
 
 recurrent mouth ulcers. 
 can be an early manifestation of a systemic disease like [[Behcet's disease]]. 
-can happen in [[_inflammatory bowel disease|IBD]]. 
+can happen in [[inflammatory bowel disease|IBD]]. 

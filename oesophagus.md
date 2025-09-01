@@ -5,7 +5,7 @@ aliases:
   - Zenker Diverticulum
   - Pharyngeal pouch
 ---
-See: [[dysphagia]], [[gord]], [[_upper gi bleed]].
+See: [[dysphagia]], [[gord]], [[upper gi bleed]].
 
 # Pathologies of Oesophagus
 

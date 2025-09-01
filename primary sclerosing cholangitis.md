@@ -6,7 +6,7 @@ tags:
 aliases:
   - PSC
 ---
-Associated with [[_inflammatory bowel disease|ulcerative colitis]].
+Associated with [[inflammatory bowel disease|ulcerative colitis]].
 Can lead to [[cancer- cholangiocarcinoma|cholangiocarcinoma]]. 
 
 ERCP

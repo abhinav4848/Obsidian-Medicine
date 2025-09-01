@@ -18,7 +18,7 @@ aliases:
 
 # Clinical Features
 FAINTING, Tiredness, Weakness, Leg Cramps,
-ECG: [[_qt prolongation|long QT syndrome]], Depressed ST segment & T wave, U wave on ECG.
+ECG: [[qt prolongation|long QT syndrome]], Depressed ST segment & T wave, U wave on ECG.
 Predisposes to Digoxin toxicity.
 
 # Treatment

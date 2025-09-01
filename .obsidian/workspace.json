@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_cystic fibrosis.md",
+                "file": "trochanteric bursitis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "_cystic fibrosis"
+              "title": "trochanteric bursitis"
             }
           }
         ]
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_cystic fibrosis.md",
+                "file": "trochanteric bursitis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _cystic fibrosis"
+              "title": "Backlinks for trochanteric bursitis"
             }
           }
         ]
@@ -209,21 +209,22 @@
   },
   "active": "9c6b4614d06689f3",
   "lastOpenFiles": [
-    "_glaucoma- acute angle closure.md",
-    "_hairy leukoplakia.md",
+    "upper gi bleed.md",
+    "qt prolongation.md",
+    "ra vs osteoarthritis.md",
+    "side effects of cvs drugs.md",
+    "legg-calve-perthe's disease.md",
+    "nash.md",
+    "newborn Infant physical examination.md",
+    "lichen planus.md",
+    "hairy leukoplakia.md",
+    "inflammatory bowel disease.md",
+    "glaucoma- acute angle closure.md",
+    "gord in children.md",
+    "cystic fibrosis.md",
+    "chicken pox treatment flowchart (work in progress).canvas",
     "gord.md",
-    "_gord in children.md",
-    "_chicken pox treatment flowchart (work in progress).canvas",
-    "_upper gi bleed.md",
-    "_trochanteric bursitis.md",
-    "_side effects of cvs drugs.md",
-    "_ra vs osteoarthritis.md",
-    "_qt prolongation.md",
-    "_newborn Infant physical examination.md",
-    "_nash.md",
-    "_lichen planus.md",
-    "_inflammatory bowel disease.md",
-    "_legg-calve-perthe's disease.md",
+    "trochanteric bursitis.md",
     "erythrodermic psoriasis.md",
     "acute epiglottitis.md",
     "chicken pox.md",
@@ -234,8 +235,6 @@
     "meralgia paresthetica.md",
     "acanthosis nigricans.md",
     "flexural psoriasis.md",
-    "bronchiolitis (lrti).md",
-    "eosinophilic granulomatosis with polyangiitis.md",
     "attachments/tetralogy of fallot.png",
     "h. pylori treatment flowchart.canvas",
     "housekeeping/memorise.base",
@@ -259,7 +258,6 @@
     "Untitled",
     "_chicken Pox treatment flowchart (Work in progress).canvas",
     "hypertension management.canvas",
-    "chicken pox treatment flowchart (work in progress).canvas",
     "Chicken Pox treatment flowchart (Work in progress).canvas"
   ]
 }

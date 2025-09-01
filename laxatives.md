@@ -67,4 +67,4 @@ Hard loading
 - Glycerol suppository (softener), then treat as above.
 
 ---
-Cosmocol & Sodium picosulfate is given in [[_inflammatory bowel disease|Crohn's disease]] as it constricts the bowel. 
+Cosmocol & Sodium picosulfate is given in [[inflammatory bowel disease|Crohn's disease]] as it constricts the bowel. 
