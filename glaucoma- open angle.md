@@ -13,7 +13,7 @@ Progressive, painless decrease in visual acuity & peripheral visual field in eld
 	- *Also seen in [[retinitis pigmentosa]]* #confusion 
 - Decreased visual acuity.
 - Optic disc cupping.
-- FHx, [[_afro caribbean|Black people]], Myopia (Myopia causes OAG, Cataract, Retinal detachment)
+- FHx, [[afro-caribbean|Black people]], Myopia (Myopia causes OAG, Cataract, Retinal detachment)
 - > 60yo
 
 ## When to consider cataract?

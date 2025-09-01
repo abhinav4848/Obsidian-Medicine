@@ -2,7 +2,7 @@
 tags:
   - rheumat
 ---
-It's a [[Seronegative Spondyloarthropathy]]. 
+It's a [[seronegative spondyloarthropathy]]. 
 # Clinical features
 - <30yo male
 - Stiffness & low back pain

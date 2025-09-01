@@ -7,7 +7,7 @@ aliases:
 ---
 *See [[prostate]] for other prostate problems.* 
 
-[[_afro caribbean|African American]] male. 
+[[afro-caribbean|African American]] male. 
 Initial test: Digital rectal exam, PSA.
 Diagnostic: Multiparametric MRI has replaced TRUS Biopsy.
 If Likert scale >=3, Offer a prostate biopsy.

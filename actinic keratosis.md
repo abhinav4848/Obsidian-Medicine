@@ -4,7 +4,7 @@ tags:
   - cancer
 ---
 aka Solar Keratoses.
-*Not to be confused with [[Plaque Psoriasis]]*
+*Not to be confused with [[plaque psoriasis]]*
 
 Common sun-induced scaly or hyperkeratotic lesion which are **pre-malignant**. (Actinic keratoses & [[Bowen's disease]] can become SCC, also leukoplakia).
 

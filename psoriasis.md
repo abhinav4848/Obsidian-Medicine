@@ -2,9 +2,9 @@
 tags:
   - dermat
 ---
-[[Plaque Psoriasis]]
+[[plaque psoriasis]]
 [[Erythrodermic Psoriasis]]
-[[Flexural Psoriasis]]
+[[flexural psoriasis]]
 [[Guttate psoriasis]]
 [[Pustular Psoriasis]] 
 

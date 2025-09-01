@@ -36,7 +36,7 @@ Gingivitis, Gum swelling, Gum bleed (but can also happen in ALL).
 [[cell histology|Auer rods]] on blood film.
 Bone marrow biopsy: Numerous blasts
 
-[[Myelodysplastic, Myeloproliferative syndrome#Myelodysplastic syndrome|Myelodysplastic syndrome]] can progress to AML. 
+[[myelodysplastic, myeloproliferative syndrome#Myelodysplastic syndrome|Myelodysplastic syndrome]] can progress to AML. 
 # CLL
 Older (> 65 yo)  
 Asymptomatic/Anemia/Recurrent infection/LNE.  

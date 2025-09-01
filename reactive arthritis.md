@@ -4,7 +4,7 @@ tags:
 aliases:
   - Reiter's Syndrome
 ---
-*It's a [[Seronegative Spondyloarthropathy]].* 
+*It's a [[seronegative spondyloarthropathy]].* 
 
 Arthritis developing after an infection (STI: [[Chlamydia]], UTI, Dysentery) when organism can't be retrieved from the joint.
 

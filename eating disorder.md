@@ -8,7 +8,7 @@ aliases:
 # Anorexia
 BMI < 18.5. Compensatory behaviours such as excess exercise, vomiting, laxative misuse.
 - **G's and C's raised**: growth hormone, glucose, salivary glands, cortisol, cholesterol, carotinaemia
-[[parkinson's disease|Levodopa]] & [[_digoxin]] can cause anorexia.
+[[parkinson's disease|Levodopa]] & [[digoxin]] can cause anorexia.
 # Bulimia
 Eating then purging. At least once a week for 3 months. Weight does not change. Compensatory behavior.
 

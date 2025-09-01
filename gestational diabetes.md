@@ -13,7 +13,7 @@ aliases:
 - previous macrosomic baby weighing 4.5 kg or above
 - previous GDM
 - first-degree relative with DM
-- family origin with a high prevalence of DM (South Asian, [[_afro caribbean|black Caribbean]] and Middle Eastern)
+- family origin with a high prevalence of DM (South Asian, [[afro-caribbean|black Caribbean]] and Middle Eastern)
 
 # Screening for GDM
 - OGTT is test of choice
