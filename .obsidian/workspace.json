@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_acute epiglottitis.md",
+                "file": "erythrodermic psoriasis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "_acute epiglottitis"
+              "title": "erythrodermic psoriasis"
             }
           }
         ]
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_acute epiglottitis.md",
+                "file": "erythrodermic psoriasis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _acute epiglottitis"
+              "title": "Backlinks for erythrodermic psoriasis"
             }
           }
         ]
@@ -207,12 +207,12 @@
       "learnie:Start quiz": false
     }
   },
-  "active": "9c6b4614d06689f3",
+  "active": "676efa40181a3294",
   "lastOpenFiles": [
-    "_chicken pox treatment flowchart (Work in progress).canvas",
+    "chicken pox treatment flowchart (Work in progress).canvas",
+    "acute epiglottitis.md",
     "chicken pox.md",
-    "_erythrodermic psoriasis.md",
-    "_acute epiglottitis.md",
+    "erythrodermic psoriasis.md",
     "seronegative spondyloarthropathy.md",
     "osgood-schlatter.md",
     "plaque psoriasis.md",
