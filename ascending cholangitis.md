@@ -18,7 +18,7 @@ Abx & fluids.
 - Proper pyrexia, chills, rigor
 - Leukocytosis.
 ## Charcot triad
-Fever, [[hepatobiliary disease and related disorders|RUQ pain]], jaundice. #triad  
+Fever, [[hepatobiliary diseases|RUQ pain]], jaundice. #triad  
 ### Reynold's pentad
 Charcot's triad + Hypotension + altered mental status (confusion) #pentad
 # Imaging

@@ -13,10 +13,10 @@ Rare adenocarcinoma of biliary tract.
 - RUQ pain: Persistent biliary colic symptoms
 - Weight loss/Anorexia.
 
-RUQ pain differentiates Cholangiocarcinoma from Pancreatic cancer as their LFT is similar.
+[[hepatobiliary diseases|RUQ pain]] differentiates Cholangiocarcinoma from [[cancer- pancreas|pancreatic cancer]] as their LFT is similar. Painless jaundice is a classical presentation of pancreatic cancer. 
 
 ## Associated findings
-- Palpable mass in the right upper quadrant (Courvoisier sign) #named 
+- Palpable mass in the RUQ (Courvoisier sign) #named 
 Due to enlarged Lymph nodes (same as [[cancer- gastric|gastric cancer]]): 
 - periumbilical lymphadenopathy (Sister Mary Joseph's nodes) #named and
 - left supraclavicular adenopathy (Virchow node) may be seen #named 

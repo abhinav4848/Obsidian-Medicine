@@ -25,9 +25,10 @@ SPASMODIC: #mnemonic
 - dermatitis, 
 - impetigo herpetiformis, 
 - Chvostek's sign #named, cardiomyopathy ([[qt prolongation]]), 
-- Trousseau's sign (not the [[cancer- pancreas|pancreatic cancer]] one) #named 
+- Trousseau's sign of latent tetany (not the [[cancer- pancreas|pancreatic cancer]] one) #named 
 
 **Chvostek**: twitch of facial muscles when tap over parotid
 **Trousseau**: wrist flexion when brachial artery occluded.
 
-Rx: 10 ml of 10% Ca gluconate initially.
+# Treatment
+10 ml of 10% Ca gluconate initially.

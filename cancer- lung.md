@@ -6,6 +6,7 @@ aliases:
   - Small cell carcinoma of Lung
   - Squamous cell carcinoma Lung
   - paraneoplastic syndrome
+  - Lung Cancer
 ---
 # Types
 ## Small cell carcinoma (15%)

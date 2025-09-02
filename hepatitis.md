@@ -17,7 +17,7 @@ ALT > AST
 - nausea and vomiting, anorexia 
 - myalgia 
 - lethargy 
-- [[hepatobiliary disease and related disorders|RUQ pain]] 
+- [[hepatobiliary diseases|RUQ pain]] 
 Questions may point to risk-factors such as foreign travel or intravenous drug use. 
 
 ---

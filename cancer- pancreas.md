@@ -11,7 +11,7 @@ Smoking, DM, Chronic pancreatitis, age, HNPCC, BRCA2, MEN, KRAS
 *(alcohol is not an independent risk factor)*
 
 # Clinical Features
-- Painless jaundice (there can be epigastric pain radiating to back and worse on lying flat or after eating), 
+- Painless jaundice is the classical presentation (there can be epigastric pain radiating to back and worse on lying flat or after eating) #important 
 - Weight loss, 
 - anorexia, 
 - epigastric pain, 
@@ -19,13 +19,14 @@ Smoking, DM, Chronic pancreatitis, age, HNPCC, BRCA2, MEN, KRAS
 - Loss of exocrine function: steatorrhea (pale stool),
 - Loss of endocrine function: recent onset DM (paraneoplastic syndrome),
 - Cholestatic LFTs (raised ALP and γGT) -> cuz pancreatic head compressed the Bile duct. 
-	- cholestatic LFT can also bee seen in [[cancer- cholangiocarcinoma]]. 
+	- cholestatic LFT can also bee seen in [[cancer- cholangiocarcinoma|cholangiocarcinoma]]. 
 	- ALP & GGT rise first, and as bile continues to back up, AST and ALT will rise. 
-- Migratory thrombophlebitis (Trousseau's sign #named  -> not the [[hypocalcemia]] one. Here, there is multiple venous thrombosis due to procoagulant factors formed by cancer cells.) 
+- Migratory thrombophlebitis (Trousseau's sign of malignancy #named )
+	- Not the [[hypocalcemia]] one. 
+	- Here, there is multiple venous thrombosis due to procoagulant factors formed by cancer cells. It's seen in pancreatic, [[cancer- gastric|gastric cancer]] & [[cancer- lung|Lung Cancer]]
 	
 >[!info]
 >**Courvoisier's law** states that in the presence of painless obstructive jaundice, a palpable gallbladder is unlikely to be due to gallstones.
-
 # Investigation 
 - Most initial/most appropriate investigation: HRCT abdomen > if no CT, then USG. If CT normal -> ERCP. 
 	- imaging may demonstrate the 'double duct' #named sign - the presence of simultaneous dilatation of the common bile and pancreatic ducts

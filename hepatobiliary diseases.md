@@ -6,6 +6,7 @@ tags:
 aliases:
   - RUQ pain
 ---
+# Hepatobiliary diseases
 * [[hepatitis viruses|viral hepatitis]]
 - [[congestive hepatomegaly]]
 - [[biliary colic]]
@@ -14,7 +15,7 @@ aliases:
 - [[gallstone ileus]]
 - [[cancer- cholangiocarcinoma|cholangiocarcinoma]]
 - [[pancreatitis]]
-- [[cancer- pancreas|pancreatic cancer]]
+- [[cancer- pancreas|pancreatic cancer]]- painless jaundice is classic. 
 - [[amoebic liver abscess]]
 
 
