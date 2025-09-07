@@ -231,11 +231,7 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsifetch:obsifetch": false,
-      "markdown-importer:Open format converter": false,
-      "learnie:Review notes": false,
-      "learnie:Create Learnie note": false,
-      "learnie:View all questions": false,
-      "learnie:Start quiz": false
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "676efa40181a3294",
