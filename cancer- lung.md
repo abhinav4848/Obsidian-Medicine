@@ -10,7 +10,7 @@ aliases:
 ---
 # Types
 ## Small cell carcinoma (15%)
-usually not amenable to resection (chemo and radio done) 
+usually not amenable to resection (chemo and radio done& have good response) 
 #mnemonic *Small cells are so small that surgeons can't see them.* 
 ### Paraneoplastic effects
 - Releases ADH -> [[SIADH]] -> Dilutional hyponatremia, Hypokalemia

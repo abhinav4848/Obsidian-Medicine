@@ -10,4 +10,11 @@ Primary tumours which give rise to metastases to bone are remembered by many stu
 - bidney (kidney)
 - bostate (prostate)
 - (rarely, bowel)
+Widespread bone lesions are a feature of [[melanoma]]. 
+
+# Clinical Features of bone mets
+- bone pain- unrelenting, progressive, could be present at rest. 
+- pathological fracture
+- nerve compression
+- [[hypercalcemia]]
 
