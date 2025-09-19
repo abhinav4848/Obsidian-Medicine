@@ -14,8 +14,8 @@ usually not amenable to resection (chemo and radio done)
 #mnemonic *Small cells are so small that surgeons can't see them.* 
 ### Paraneoplastic effects
 - Releases ADH -> [[SIADH]] -> Dilutional hyponatremia, Hypokalemia
-- ACTH -> Cushing
-- **Lambert-Eaton**: Antibodies against presynaptic calcium channels. Same as Myasthenia gravis, but: Reflexes are absent and elicited after exercise. Increased strength/power of weakened muscle after repeated test.
+- ACTH -> [[cushing's syndrome]]
+- **Lambert-Eaton**: Antibodies against presynaptic calcium channels. Same as Myasthenia gravis, but: #confusion Reflexes are absent and elicited after exercise. Increased strength/power of weakened muscle after repeated test.
 
 ## Non-Small cell carcinoma (85%)
 Usually amenable to surgery. 
