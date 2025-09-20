@@ -19,4 +19,4 @@ Rarely it can lead to neurotoxic effects, including
 - peripheral neuropathy, 
 - ototoxicity, 
 - encephalopathy,
-- [[drugs that can cause ocular problems|optic neuritis]] and seizures.
+- [[drugs that can cause ocular problems|optic neuritis]] and seizures. 
