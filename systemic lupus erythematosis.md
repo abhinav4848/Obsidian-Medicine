@@ -3,6 +3,7 @@ tags:
   - rheumat
 aliases:
   - SLE
+  - drug induced lupus erythematosis
 ---
 # SLE
 Screen/Sensitive: [[antibodies|ANA]]  
@@ -13,23 +14,8 @@ Specific: Anti ds-DNA (most discriminative test), Smith
 - Complements (C3 & C4), 
 - ESR (ESR is raised but CRP is normal)
 *negative ANCA*
-# Drug induced SLE causes:
-SHIPP ME #mnemonic 
-- Sulfa drugs, 
-- hydralazine, 
-- [[tuberculosis|isoniazid]], 
-- procainamide, 
-- [[phenytoin]], 
-- Methyldopa, 
-- Etanercept
-**Extras**: Carbamazepine, Infliximab
+# Clinical Features of SLE
 
-Renal/nervous system involvement is rare. 
-[[antibodies]]: 
-- ANA +ve, 
-- **Anti-Histone +ve**
-- dsDNA -ve.
-# Clinical Features
 | Organ system | Effect                                                                                                                                         |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | Neurological | Anxiety, depression, psychosis                                                                                                                 |
@@ -46,9 +32,26 @@ Renal/nervous system involvement is rare.
 - Oral ulcers
 - Arthritis
 - Photosensitivity
-- Blood disorders (Pancytopenia)
-- Renal involvement
-- Antinuclear antibodies (ANA)
+- Blood disorders (Pancytopenia) 
+- Renal involvement 
+- Antinuclear [[antibodies]] (ANA)
 - Immunologic phenomena
 - Neurologic disorder
-![[sle- md soap brain mnemonic.png]]
+![[sle- md soap brain mnemonic.png|400]]
+
+# Drug induced Lupus erythematosis (DILE) causes:
+SHIPP ME #mnemonic 
+- Sulfa drugs, 
+- hydralazine, 
+- [[tuberculosis|isoniazid]], 
+- procainamide, 
+- [[phenytoin]], 
+- Methyldopa, 
+- Etanercept
+**Extras**: Carbamazepine, Infliximab
+
+Renal/nervous system involvement is rare. 
+[[antibodies]]: 
+- ANA +ve, 
+- **Anti-Histone +ve**
+- dsDNA -ve. 

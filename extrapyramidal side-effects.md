@@ -11,14 +11,20 @@ aliases:
 ---
 
 Mostly due to typical [[antipsychotic drugs|anti-psychotics]]. 
-# [[parkinson's disease|Parkinsonism]]
+## Parkinsonism
+See: [[parkinson's disease|Parkinson's]]
 Resting tremor. 
-# Acute dystonia
+
+---
+## Acute dystonia
 - sustained muscle contraction (e.g. torticollis, oculogyric crisis: Involuntary upward movement of eye.)
 - may be managed with procyclidine #antidote  (anti-cholinergic)
-# Akathisia
+---
+## Akathisia
 severe restlessness
-# Tardive dyskinesia
+
+---
+## Tardive dyskinesia
 Due to long term (months to years) use of typical [[antipsychotic drugs]] mostly in younger women. 
 Often due to Depot injection of **Atypical antipsychotics** (Not Oral)- Risperidone, Olanzapine. 
 Causes late onset of choreoathetoid movements, abnormal, involuntary, may be irreversible. Most common is chewing and pouting of jaw.

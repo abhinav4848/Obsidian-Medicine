@@ -7,12 +7,12 @@ aliases:
 Caused by an increased oestrogen:androgen ratio.
 # Drugs
 DISCKO #mnemonic 
-Digoxin
-Isoniazid
-Spironolactone
-Cimetidine
-Ketoconazole
-Oestrogen/anti-testosterone hormone: GnRh Analogue (e.g. Goserelin) used in [[cancer- prostate|Prostate Cancer]], finasteride
+- Digoxin
+- [[tuberculosis|Isoniazid]]
+- Spironolactone
+- Cimetidine
+- Ketoconazole
+- Oestrogen/anti-testosterone hormone: GnRh Analogue (e.g. Goserelin) used in [[cancer- prostate|Prostate Cancer]], finasteride
 
 # Others
 Testicular failure: mumps, liver disease, hyperthyroid, haemodialysis, androgen deficiency (Kallman's, Klinefelter)

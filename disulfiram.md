@@ -2,7 +2,7 @@
 tags:
   - pharmacology
 ---
-Causes: flushing, headache, vomiting and palpitations.
+Causes: flushing, headache, vomiting and palpitations when the patient drinks alcohol. 
 # Disulfiram like reaction
 [[Metronidazole]]. 
 
