@@ -5,11 +5,52 @@ tags:
 aliases:
   - anti-psychotics
   - neuroleptic drugs
+  - antipsychotics
 ---
 Antipsychotic drugs are aka neuroleptics/anti-schizophrenic drugs. 
 
-| Typical                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Atypical                                                                                                                                               |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Dopamine D2 antagonists -> D2 antagonism reduces vomiting.<br><br>[[Haloperidol]], Chlorpromazine, Flupentixol                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Many different receptors.  Risperidone, Olanzapine, Quetiapine, Clozapine, Aripiprazole                                                                |
-| **[[Extrapyramidal side-effects]] (EPSEs)** more common<br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Less common                                                                                                                                            |
-| Other Side effects (for both)<br><br>#mnemonic : HAMd<br>- Anti-Histamine: sedation, weight gain<br>- Anti-Adrenergic: Hypotension;<br>- Anti-Muscarinic: dry mouth, blurred vision, urinary retention, constipation, can exacerbate Alzheimer's.<br>- Anti-Dopamine: Raised prolactin. <br>    - may result in galactorrhoea<br>    - [[Gynaecomastia]]<br><br>- impaired glucose tolerance<br>- [[fever caused by drugs\|Neuroleptic malignant syndrome]]: pyrexia, muscle stiffness (lead pipe rigidity) -> Rx with iv **dantrolene** #antidote <br>- reduced seizure threshold (greater with atypicals)<br>- [[qt prolongation]] (particularly haloperidol)<br><br>VTE risk in elderly. i.e. Stroke. Olanzapine MCC.<br><br>HAM side effects: Found in [[tricyclic antidepressants]] (TCA’s) and low potency antipsychotics. | Clozapine: agranulocytosis  <br>  <br>Olanazapine: High risk of dyslipidemia and obesity.<br><br>Greater lowering of seizure thresholds than typicals. |
+# Typical
+**Mechanism**: Dopamine D2 antagonists -> D2 antagonism reduces vomiting.
+**Examples**: [[Haloperidol]], Chlorpromazine, Flupentixol
+**Side effects**: [[Extrapyramidal side-effects]] (EPSEs) more common
+
+# Atypical
+**Mechanism**: Many different receptors.  
+**Examples**: Clozapine, Olanzapine, Risperidone, Quetiapine, Aripiprazole
+**Side Effects**: 
+- EPS less common than typicals
+- Clozapine: agranulocytosis 
+- Olanazapine: High risk of dyslipidemia and obesity.
+- Greater lowering of seizure thresholds than typicals.
+
+# Other Side effects (for both)
+
+#mnemonic : HAMd
+- Anti-Histamine: 
+	- sedation, 
+	- weight gain
+- Anti-Adrenergic: 
+	- Hypotension;
+- [[anticholinergic burden|Anti-Muscarinic]]: 
+	- dry mouth, 
+	- blurred vision, 
+	- urinary retention, 
+	- constipation, 
+	- can exacerbate Alzheimer's.
+- Anti-Dopamine: Raised prolactin. 
+    - may result in galactorrhoea
+    - [[Gynaecomastia]]
+
+- impaired glucose tolerance
+- [[fever caused by drugs|Neuroleptic malignant syndrome]]
+	- Especially with Clozapine
+	- pyrexia, muscle stiffness (lead pipe rigidity)
+	- Rx with iv **dantrolene** #antidote 
+- reduced seizure threshold (greater with atypical antipsychotics)
+- [[qt prolongation]] (particularly haloperidol)
+
+VTE risk in elderly. i.e. Stroke. Olanzapine MCC.
+
+HAM side effects: Found in [[tricyclic antidepressants]] (TCA’s) and low potency antipsychotics.
+
+

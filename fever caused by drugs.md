@@ -7,7 +7,10 @@ aliases:
   - Malignant Hyperthermia
 ---
 # Neuroleptic malignant syndrome
-Due to excess dopamine antagonists -> Haloperidol, Metoclopramide, or potent antipsychotics -> Clozapine. 
+Due to excess dopamine antagonists
+- Haloperidol (typical antipsychotic), 
+- [[Metoclopramide]], or 
+- potent [[antipsychotic drugs|antipsychotics]] -> Clozapine (atypical antipsychotic)
 ### Clinical Features
 Fever, Muscle rigidity/twitching, sweat, neck stiffness
 TRP- tachycardia, rigidity, pyrexia, altered consciousness. 
@@ -17,11 +20,11 @@ Onset: Hours to Days
 Raised Creatine kinase -> AKI (due to rhabdomyolysis). 
 raised white cell count, bradykinesia, muscle rigidity.
 
-### Rx: 
-Stop offending drug
-Rapid cooling 
-Give dantrolene (post synaptic muscle relaxant) -> Hepatotoxic, 
-Dopaminergic agent (Bromocriptine). 
+### Treatment of NMS
+- Stop offending drug
+- Rapid cooling 
+- Give dantrolene #antidote (post synaptic muscle relaxant) -> Hepatotoxic, 
+- Dopaminergic agent (Bromocriptine). 
 
 ---
 # Serotonin syndrome
@@ -34,6 +37,8 @@ Faster reflexes,
 Dilated pupils
 Clonus
 
+---
+
 | [Link to table](https://www.medsafe.govt.nz/profs/PUArticles/Dec2012Neuroleptic.htm) | Serotonin syndrome                                            | NMS                  |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------- | -------------------- |
 | Ppt by                                                                               | Serotonergic agents                                           | Dopamine antagonists |
@@ -41,7 +46,9 @@ Clonus
 | Reflexes                                                                             | Hyperreflexia, clonus (unless masked by incresed muscle tone) | Hyporeflexia         |
 | Pupils                                                                               | Dilated                                                       | Normal               |
 | Bowel sounds                                                                         | Hyperactive                                                   | Normal or decreased  |
-![[overlap of serotonin syndrome and neuroleptic malignant syndrome.png]]
+
+Overlap of serotonin syndrome and neuroleptic malignant syndrome: ![[overlap of serotonin syndrome and neuroleptic malignant syndrome.png|400]]
+
 ---
 # Malignant Hyperthermia
 Fever, muscle rigidity, sweating 
