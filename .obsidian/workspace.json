@@ -106,8 +106,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -235,7 +234,7 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "404fa50cf26702f1",
+  "active": "676efa40181a3294",
   "lastOpenFiles": [
     "anticipatory meds.md",
     "cancers metastasizing to the bone.md",
