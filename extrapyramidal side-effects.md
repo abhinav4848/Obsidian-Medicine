@@ -8,9 +8,12 @@ aliases:
   - drug induced parkinsons
   - acute dystonia
   - akathasia
+  - drug-induced movement disorders
 ---
 
 Mostly due to typical [[antipsychotic drugs|anti-psychotics]]. 
+Do not combine Metoclopramide with antipsychotics because this increases risk of dyskinesia. #important 
+
 ## Parkinsonism
 See: [[parkinson's disease|Parkinson's]]
 Resting tremor. 
@@ -30,8 +33,12 @@ Often due to Depot injection of **Atypical antipsychotics** (Not Oral)- Risperid
 Causes late onset of choreoathetoid movements, abnormal, involuntary, may be irreversible. Most common is chewing and pouting of jaw. 
 
 ---
+# NMS
+[[fever caused by drugs|Neuroleptic malignant syndrome]]
+
+---
 # Treatment
-Rx with Benztropine #antidote
+Rx with Benztropine, Biperiden (anticholinergic) #antidote
 
 ---
 *See [[metoclopramide]]*

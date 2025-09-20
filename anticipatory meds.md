@@ -39,7 +39,7 @@ Drugs: H2M2
 | Lorazepam | Agitation & restlessness, anxiety and sleeplessness in a dying patient.                                                                                                                                                                |
 | Midazolam | Agitation & Restlessness.<br>Much higher dose (2 doses of 10mg i.m. given 10 mins apart. Takes up to 30 mins to work- especially useful in a patient who has a catastrophic bleed who will of course be in distress due to that bleed) |
 ## Anti-cholinergic
-See: [[anticholinergic burden|anticholinergic]]
+See: [[anticholinergics|anticholinergic]]
 
 |                             |                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

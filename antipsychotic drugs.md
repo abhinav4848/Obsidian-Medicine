@@ -10,8 +10,8 @@ aliases:
 Antipsychotic drugs are aka neuroleptics/anti-schizophrenic drugs. 
 
 # Typical
-**Mechanism**: Dopamine D2 antagonists -> D2 antagonism reduces vomiting.
-**Examples**: [[Haloperidol]], Chlorpromazine, Flupentixol
+**Mechanism**: [[D2 antagonism]] -> reduces vomiting.
+**Examples**: [[Haloperidol]], Chlorpromazine, Flupentixol, Prochlorperazine. 
 **Side effects**: [[Extrapyramidal side-effects]] (EPSEs) more common
 
 # Atypical
@@ -31,7 +31,7 @@ Antipsychotic drugs are aka neuroleptics/anti-schizophrenic drugs.
 	- weight gain
 - Anti-Adrenergic: 
 	- Hypotension;
-- [[anticholinergic burden|Anti-Muscarinic]]: 
+- [[anticholinergics|Anti-Muscarinic]]: 
 	- dry mouth, 
 	- blurred vision, 
 	- urinary retention, 

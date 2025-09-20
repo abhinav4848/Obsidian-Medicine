@@ -5,11 +5,13 @@ tags:
 aliases:
   - long QT syndrome
   - prolonged QT interval
+urls:
+  - https://litfl.com/qt-interval-ecg-library/
 ---
-QT interval is from start of Q to end of T. (Ventricular depol and repol).![[ecg.jpg]]
-For QTc, Divide the time you get on ECG by the heart rate.
-Use QT nomogram to check where the QTc lies. 
-Rule of thumb: Anything less than 420ms should be okay. 
+QT interval is from start of QRS complex to end of T wave. (Ventricular depol and repol).![[ecg.jpg]]
+For QTc, Divide the time you get on ECG by the heart rate to get QT interval at a standard HR of 60bpm. This is because QT is inversely proportional to heart rate. 
+Use QT nomogram to check if normal. 
+Rule of thumb: Anything less than 420ms should be okay, or QT should be less than half the preceding RR interval. 
 
 # Drugs
 - amiodarone, sotalol, class 1a antiarrhythmic drugs

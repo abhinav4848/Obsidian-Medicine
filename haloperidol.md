@@ -3,7 +3,8 @@ tags:
   - psychiatry
   - pharmacology
 ---
-First gen antipsychotic. Central D2-dopamine receptor antagonist- avoid in [[parkinson's disease]].
+First gen [[antipsychotic drugs|antipsychotic]]. 
+MoA: Central D2-dopamine receptor antagonist- avoid in [[parkinson's disease]] as can cause [[extrapyramidal side-effects|EPS]]. 
 # Indication
 1. drug/chemo induced nausea
 2. Management of intractable hiccups
