@@ -58,13 +58,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "antiemetics.md",
+                "file": "anticipatory meds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "antiemetics"
+              "title": "anticipatory meds"
+            }
+          },
+          {
+            "id": "84cffc2d8a30b014",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://cks.nice.org.uk/topics/hiccups/management/management/",
+                "title": "Scenario: Management | Management | Hiccups | CKS | NICE",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Scenario: Management | Management | Hiccups | CKS | NICE"
             }
           }
         ],
@@ -219,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "antiemetics.md",
+                "file": "anticipatory meds.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +243,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for antiemetics"
+              "title": "Backlinks for anticipatory meds"
             }
           }
         ]
@@ -252,18 +266,18 @@
   },
   "active": "ae456b0805bd6037",
   "lastOpenFiles": [
-    "anticholinergics.md",
-    "antiemetics.md",
+    "anticipatory meds.md",
     "antipsychotic drugs.md",
+    "d2 antagonism.md",
     "metoclopramide.md",
     "extrapyramidal side-effects.md",
-    "parkinson's disease.md",
+    "antiemetics.md",
     "fever caused by drugs.md",
-    "d2 antagonism.md",
+    "anticholinergics.md",
+    "parkinson's disease.md",
     "haloperidol.md",
     "qt prolongation.md",
     "quinine.md",
-    "anticipatory meds.md",
     "attachments/ecg.jpg",
     "pancreatitis.md",
     "cancers metastasizing to the bone.md",

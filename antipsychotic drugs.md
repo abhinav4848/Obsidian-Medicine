@@ -24,6 +24,7 @@ Antipsychotic drugs are aka neuroleptics/anti-schizophrenic drugs.
 - Greater lowering of seizure thresholds than typicals.
 
 # Other Side effects (for both)
+HAM side effects: Found in [[tricyclic antidepressants]] (TCA’s) and low potency antipsychotics. 
 
 #mnemonic : HAMd
 - Anti-Histamine: 
@@ -50,7 +51,5 @@ Antipsychotic drugs are aka neuroleptics/anti-schizophrenic drugs.
 - [[qt prolongation]] (particularly haloperidol)
 
 VTE risk in elderly. i.e. Stroke. Olanzapine MCC.
-
-HAM side effects: Found in [[tricyclic antidepressants]] (TCA’s) and low potency antipsychotics.
 
 

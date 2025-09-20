@@ -14,6 +14,7 @@ aliases:
 Mostly due to typical [[antipsychotic drugs|anti-psychotics]]. 
 Do not combine Metoclopramide with antipsychotics because this increases risk of dyskinesia. #important 
 
+---
 ## Parkinsonism
 See: [[parkinson's disease|Parkinson's]]
 Resting tremor. 
