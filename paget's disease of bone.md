@@ -4,6 +4,7 @@ tags:
   - confusion
 aliases:
   - osteitis deformans
+  - Paget's
 ---
 Paget's disease is a bone making process gone out of control.
 Affected region is warmer due to increased blood flow. Also leads to high output HF.
