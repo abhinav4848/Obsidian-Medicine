@@ -4,7 +4,9 @@ tags:
   - neurology
 urls:
   - https://www.hey.nhs.uk/patient-leaflet/anticholinergic-burden-acb/
+aliases:
+  - anticholinergic
 ---
 ![[anticholinergic burden.png]]
 
-can lead to [[confusion]]. 
+Can lead to [[confusion]]. 
