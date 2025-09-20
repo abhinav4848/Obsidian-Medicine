@@ -10,7 +10,6 @@ Hypocalcaemia/vitamin D deficiency should be corrected before giving bisphosphon
 
 When starting bisphosphonate treatment for [[osteoporosis]], [[osteoporosis#Calcium Supplementation|Calcium]] should only be prescribed if dietary intake is inadequate. 
 Vitamin D supplements are normally given. 
-
 # Alendronate dosage:
 10mg OD, or
 70mg once weekly. No monthly regimen.
@@ -23,6 +22,7 @@ Don’t take calcium & vit D for 4 hrs after Alendronic acid.
 
 If esophagitis, review -> Risk of oropharyngeal ulcers.
 Dyspepsia common in first month 
+
 ## Review of alendronate usage
 Low risk of #: review after 3-5 years
 High risk: Take at least for 10 years.
