@@ -30,7 +30,7 @@ Don't treat asymptomatic hyperuricemia.
 
 # Contraindications
 1. Aspirin (low dose) **not** given in gout as it can worsen it. 
-2. NSAID not given in renal impairment/asthma/HF/IHD -> Give Steroid/Colchicene instead. 
+2. NSAID not given in renal impairment/[[asthma]]/HF/IHD -> Give Steroid/Colchicene instead. 
 3. Allopurinol reduces clearance of
 	a. [[Azathioprine]] (prodrug of 6-MP) clearance -> Immunosuppression -> Neutropenic sepsis
 	b. Cyclophosphamide -> Marrow toxicity

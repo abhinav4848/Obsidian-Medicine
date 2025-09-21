@@ -64,3 +64,9 @@ Wait 30s before you repeat a puff.
 Although, in practice, patients are typically reviewed on an annual basis with regard to asthma, guidelines recommend stepping down treatment every 3 months in well controlled asthma. 
 
 Reduce inhaled steroids by 25-50% at a time.
+
+---
+# Drugs to avoid in Asthma
+Beta Blockers- As salbutamol is a beta agonist and opens airways, we can make sense that beta blocker will worsen airway constriction. 
+- In pre-eclampsia with asthma, you'll choose [[calcium channel blockers|Nifedipine]] instead of Labetalol. 
+Avoid aspirin & NSAIDs in [[samter's triad]] 

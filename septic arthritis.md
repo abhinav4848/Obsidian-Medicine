@@ -4,10 +4,10 @@ tags:
 ---
 # Risk Factors
 There's usually a immunocompromised state: DM, Steroid, HIV
-h/o prior joint damage -> RA, Gout, Osteoarthritis. 
+h/o prior joint damage -> RA, [[Gout]], Osteoarthritis. 
 
 # Clinical features
-Monoarthritis, 
+Mono-arthritis, 
 **Triad**: #triad
 	• Fever (not seen in reactive arthritis), may even not be seen if they've had paracetamol. 
 	• Acute, hot, painful joint.

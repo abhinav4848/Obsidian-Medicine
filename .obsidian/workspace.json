@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asthma.md",
+                "file": "samter's triad.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "asthma"
+              "title": "samter's triad"
             }
           }
         ],
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asthma.md",
+                "file": "samter's triad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for asthma"
+              "title": "Backlinks for samter's triad"
             }
           }
         ]
@@ -222,8 +222,14 @@
   },
   "active": "68f591afb7aab009",
   "lastOpenFiles": [
-    "housekeeping/study tips.md",
     "asthma.md",
+    "samter's triad.md",
+    "calcium channel blockers.md",
+    "drugs contraindicated in pregnancy.md",
+    "bronchiolitis (lrti).md",
+    "gout.md",
+    "septic arthritis.md",
+    "housekeeping/study tips.md",
     "asthma- acute attack.md",
     "cancer- screening programs.md",
     "cancer- pancreas.md",
@@ -243,13 +249,7 @@
     "antiemetics.md",
     "anticholinergics.md",
     "parkinson's disease.md",
-    "haloperidol.md",
-    "qt prolongation.md",
-    "quinine.md",
     "attachments/ecg.jpg",
-    "cancers metastasizing to the bone.md",
-    "hypercalcemia.md",
-    "palliative drugs.md",
     "h. pylori treatment flowchart.canvas",
     "chicken pox treatment flowchart (work in progress).canvas",
     "attachments/tetralogy of fallot.png",

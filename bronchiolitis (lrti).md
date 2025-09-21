@@ -13,7 +13,7 @@ Difficulty feeding and breathing
 Persistent cough, tachypnoea, chest recession
 ## Confusion
 < 2 years: bronchiolitis
- more than 2 years: Asthma
+ more than 2 years: [[Asthma]]
 ## Treatment
 Supportive care even if severe:
 **Humidified O2**,
