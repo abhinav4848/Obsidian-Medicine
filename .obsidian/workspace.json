@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "study",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -220,8 +220,9 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "68f591afb7aab009",
+  "active": "e8655fe722644f1f",
   "lastOpenFiles": [
+    "desktop.ini",
     "asthma.md",
     "samter's triad.md",
     "calcium channel blockers.md",
@@ -234,7 +235,6 @@
     "cancer- screening programs.md",
     "cancer- pancreas.md",
     "melanoma.md",
-    "desktop.ini",
     "pancreatitis.md",
     "paeds ortho diff- ddh, perthe's, sufe.md",
     "fever caused by drugs.md",
@@ -248,7 +248,6 @@
     "extrapyramidal side-effects.md",
     "antiemetics.md",
     "anticholinergics.md",
-    "parkinson's disease.md",
     "attachments/ecg.jpg",
     "h. pylori treatment flowchart.canvas",
     "chicken pox treatment flowchart (work in progress).canvas",
