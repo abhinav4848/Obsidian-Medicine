@@ -17,7 +17,7 @@ Determining right time for bronchodilators (assess severity)-> Peak flow rate di
 - [[asthma- life threatening features|life threatening features of asthma]]
 - [[asthma- acute attack]] 
 ## Adult stable asthma management
-Adult Stable asthma management:
+See [[asthma- drugs]]. 
 1. Reliever: SABA (if < 3 attacks)
 2. Add regular preventer: SABA + Low dose ICS (beclomethasone)
 3. SABA + low ICS + LTRA
@@ -33,7 +33,12 @@ Adult Stable asthma management:
 
 Unique case: Stable asthma, with just exercise induced SoB: LTRA > Sodium cromoglicate.
 
-take puff and hold breath for 10s to allow time to spread to lungs. Wait 30s before next puff. 
+### Inhaler Technique
+remove cap and shake
+breathe out gently
+take puff as you begin to breathe in
+hold breath for >=10s as per comfort, to allow time to spread to lungs. 
+Wait 30s before you repeat a puff. 
 
 ---
 ## Child stable asthma management

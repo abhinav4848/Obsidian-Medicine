@@ -9,14 +9,14 @@ tags:
 Bronchodilators
 - Sympathomimetics
 	- Selective Beta2 agonists
-		- SABA: Salbutamol, Terbutaline
-		- LABA: Salmeterol, Formoterol
+		- **SABA**: Salbutamol, Terbutaline
+		- **LABA**: Salmeterol, Formoterol
 	- Nonselective
 		- Adrenaline
 - Methylxanthines: Theophylline, Aminophylline
 - Anticholinergics:
-	- SAMA: Ipratropium,
-	- LAMA: Tiotropium
+	- **SAMA**: Ipratropium,
+	- **LAMA**: Tiotropium
 LTRA: Montelukast
 Mast cell stabilizers: Cromoglicate, Nedocromil
 Steroids
