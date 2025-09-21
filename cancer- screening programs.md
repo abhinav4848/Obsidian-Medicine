@@ -1,6 +1,9 @@
 ---
 tags:
   - cancer
+aliases:
+  - Frequency of cancers in UK
+  - Screening programs for cancer
 ---
 # [[cancer- colorectal|Colorectal cancer]]
 Faecal immunochemical test (FIT). 
@@ -39,15 +42,15 @@ Single abdo ultrasound is done at age 65 years to screen for AAA.
 
 # Frequency of Cancers in UK
 In order of incidence ([Cancer Research](https://www.cancerresearchuk.org/health-professional/cancer-statistics/incidence/common-cancers-compared#heading-Zero) ):  
-1. Breast (15% of all cases)
-2. Prostate (14%)
-3. Lung (13%)
-4. Colorectal (11%)
-5. Melanoma skin cancer
+1. [[cancer- breast (treatment)|Breast]] (15% of all cases)
+2. [[cancer- prostate|Prostate]] (14%)
+3. [[cancer- lung|Lung]] (13%)
+4. [[cancer- colorectal|Colorectal]] (11%)
+5. [[Melanoma]] skin cancer
   
 In order of mortality ([Cancer Research](https://www.cancerresearchuk.org/health-professional/cancer-statistics/mortality/common-cancers-compared#heading-Zero)):  
 1. Lung (21%)
 2. Colorectal (10%)  
 3. Prostate (7%)
 4. Breast (7%)
-5. Pancreas 
+5. [[cancer- pancreas|Pancreas]] 

@@ -13,6 +13,8 @@ Aim for AKT results above 70%.
 look at the most recent AKT summary report and improve on that. 
 https://duckduckgo.com/?q=akt+summary+reports&ia=web 
 
+See section on data interpretation: https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing 
+
 ## InnovAiT
 https://journals.sagepub.com/home/ino (need to log in)
 All issues: https://journals.sagepub.com/loi/INO
@@ -36,5 +38,12 @@ CPD catalogue by RCGP: https://elearning.rcgp.org.uk/local/rcgp_coursedisplay/in
 Flowcharts
 https://calgaryguide.ucalgary.ca/ 
 
+---
+# RCGP super-condensed curriculum for GPs
+[2021 Index](https://www.rcgp.org.uk/mrcgp-exams/gp-curriculum/super-condensed-guides)
+[2025 Index](https://www.rcgp.org.uk/mrcgp-exams/gp-curriculum/gp-curriculum-update-notice)
+- [Resp Super condensed guide](https://www.rcgp.org.uk/getmedia/27bf973a-fb82-4a2a-8aa6-3a9562e41da7/Respiratory-Health-SCCG-2025.pdf )
+
+---
 # Yesterday's notes changes
 ![[revise recent changes.base#Yesterday's changes]]

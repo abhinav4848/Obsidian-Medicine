@@ -1,6 +1,11 @@
 ---
 tags:
   - respiratory
+aliases:
+  - diagnose asthma
+  - management of stable asthma in adults
+  - management of stable asthma in children
+  - Step down treatment of Asthma
 ---
 # Diagnose Asthma
 #Triad: Chest tightness, SoB, Wheezing.
@@ -15,7 +20,7 @@ Determining right time for bronchodilators (assess severity)-> Peak flow rate di
 ---
 # Attacks of asthma
 - [[asthma- life threatening features|life threatening features of asthma]]
-- [[asthma- acute attack]] 
+- [[asthma- acute attack]] (adult & paeds)
 ## Adult stable asthma management
 See [[asthma- drugs]]. 
 1. Reliever: SABA (if < 3 attacks)
@@ -55,7 +60,7 @@ Wait 30s before you repeat a puff.
 3. SABA + paediatric low-dose ICS + leukotriene receptor antagonist (LTRA)
 4. Stop the LTRA and refer to a paediatric asthma specialist
 ---
-# Step down treatment
-Although, in practice, patients are typically reviewed on an annual basis with regard to asthma, guidelines recommend stepping down treatment every 3 months.
+# Step down treatment of Asthma
+Although, in practice, patients are typically reviewed on an annual basis with regard to asthma, guidelines recommend stepping down treatment every 3 months in well controlled asthma. 
 
 Reduce inhaled steroids by 25-50% at a time.

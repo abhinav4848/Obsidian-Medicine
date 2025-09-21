@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cancer- screening programs.md",
+                "file": "asthma.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cancer- screening programs"
+              "title": "asthma"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scree",
+                "query": "study",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cancer- screening programs.md",
+                "file": "asthma.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cancer- screening programs"
+              "title": "Backlinks for asthma"
             }
           }
         ]
@@ -222,15 +222,19 @@
   },
   "active": "68f591afb7aab009",
   "lastOpenFiles": [
+    "housekeeping/study tips.md",
+    "asthma.md",
+    "asthma- acute attack.md",
+    "cancer- screening programs.md",
+    "cancer- pancreas.md",
+    "melanoma.md",
+    "desktop.ini",
     "pancreatitis.md",
     "paeds ortho diff- ddh, perthe's, sufe.md",
     "fever caused by drugs.md",
     "anticipatory meds.md",
-    "asthma.md",
-    "cancer- screening programs.md",
     "asthma- drugs.md",
     "asthma- life threatening features.md",
-    "asthma- acute attack.md",
     "atelectasis.md",
     "antipsychotic drugs.md",
     "d2 antagonism.md",
@@ -246,10 +250,6 @@
     "cancers metastasizing to the bone.md",
     "hypercalcemia.md",
     "palliative drugs.md",
-    "bisphosphonates.md",
-    "paget's disease of bone.md",
-    "morphine breakthrough dose.md",
-    "desktop.ini",
     "h. pylori treatment flowchart.canvas",
     "chicken pox treatment flowchart (work in progress).canvas",
     "attachments/tetralogy of fallot.png",
