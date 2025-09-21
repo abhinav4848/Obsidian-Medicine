@@ -28,106 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pancreatitis.md",
+                "file": "cancer- screening programs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "pancreatitis"
-            }
-          },
-          {
-            "id": "404fa50cf26702f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fever caused by drugs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "fever caused by drugs"
-            }
-          },
-          {
-            "id": "ae456b0805bd6037",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "anticipatory meds.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "anticipatory meds"
-            }
-          },
-          {
-            "id": "c55ff088fde859bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "asthma.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "asthma"
-            }
-          },
-          {
-            "id": "b3c4449a11e1bb99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "asthma.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "asthma"
-            }
-          },
-          {
-            "id": "9081cc5c53696c3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "asthma- drugs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "asthma- drugs"
-            }
-          },
-          {
-            "id": "84cffc2d8a30b014",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://cks.nice.org.uk/topics/hiccups/management/management/",
-                "title": "Scenario: Management | Management | Hiccups | CKS | NICE",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Scenario: Management | Management | Hiccups | CKS | NICE"
+              "title": "cancer- screening programs"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -278,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asthma.md",
+                "file": "cancer- screening programs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +199,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for asthma"
+              "title": "Backlinks for cancer- screening programs"
             }
           }
         ]
@@ -309,35 +220,35 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "b3c4449a11e1bb99",
+  "active": "68f591afb7aab009",
   "lastOpenFiles": [
-    "cancer- screening programs.md",
+    "pancreatitis.md",
+    "paeds ortho diff- ddh, perthe's, sufe.md",
+    "fever caused by drugs.md",
+    "anticipatory meds.md",
     "asthma.md",
+    "cancer- screening programs.md",
     "asthma- drugs.md",
     "asthma- life threatening features.md",
     "asthma- acute attack.md",
     "atelectasis.md",
-    "anticipatory meds.md",
     "antipsychotic drugs.md",
     "d2 antagonism.md",
     "metoclopramide.md",
     "extrapyramidal side-effects.md",
     "antiemetics.md",
-    "fever caused by drugs.md",
     "anticholinergics.md",
     "parkinson's disease.md",
     "haloperidol.md",
     "qt prolongation.md",
     "quinine.md",
     "attachments/ecg.jpg",
-    "pancreatitis.md",
     "cancers metastasizing to the bone.md",
     "hypercalcemia.md",
     "palliative drugs.md",
     "bisphosphonates.md",
     "paget's disease of bone.md",
     "morphine breakthrough dose.md",
-    "gynaecomastia.md",
     "desktop.ini",
     "h. pylori treatment flowchart.canvas",
     "chicken pox treatment flowchart (work in progress).canvas",
