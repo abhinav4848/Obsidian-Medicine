@@ -4,6 +4,7 @@ tags:
 aliases:
   - Frequency of cancers in UK
   - Screening programs for cancer
+  - cancer frequency
 ---
 # [[cancer- colorectal|Colorectal cancer]]
 Faecal immunochemical test (FIT). 
@@ -47,10 +48,11 @@ In order of incidence ([Cancer Research](https://www.cancerresearchuk.org/health
 3. [[cancer- lung|Lung]] (13%)
 4. [[cancer- colorectal|Colorectal]] (11%)
 5. [[Melanoma]] skin cancer
+#mnemonic for cancer in men: Protein, Lunch, Bowl
   
 In order of mortality ([Cancer Research](https://www.cancerresearchuk.org/health-professional/cancer-statistics/mortality/common-cancers-compared#heading-Zero)):  
-1. Lung (21%)
-2. Colorectal (10%)  
-3. Prostate (7%)
-4. Breast (7%)
-5. [[cancer- pancreas|Pancreas]] 
+7. Lung (21%)
+8. Colorectal (10%)  
+9. Prostate (7%)
+10. Breast (7%)
+11. [[cancer- pancreas|Pancreas]] 

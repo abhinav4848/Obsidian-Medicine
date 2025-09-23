@@ -8,7 +8,7 @@ Atypical pneumonia has dry cough.
 Typical has productive cough, more rapid onset, high fever, and is usually caused by Strep -> MCC of CAP. 
 # Types
 ## [[Haemophilus influenzae]]
-Especially common in patients with COPD -> Presents as acute exacerbation of COPD. 
+Especially common in patients with [[COPD]] -> Presents as acute exacerbation of COPD. 
 Reduced occurrence in children due to Hib vaccine but can cause [[acute epiglottitis]] in them. 
 
 ---
@@ -24,7 +24,7 @@ CXR: Cavitating pneumonia of upper lobes.
 ## Legionella pneumophilia
 Seen in hotel, tours. Foreign holidays. Exposure to common source of water or air conditioning. 
 Another one of the atypical pneumonias.
-### c/f
+### Clinical Features
 - **Hyponatremia** (due to SIADH)-> can cause patients presenting as confused.
 - Lymphocytopenia
 - Hypoalbuminemia

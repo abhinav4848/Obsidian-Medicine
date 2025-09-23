@@ -17,7 +17,7 @@ Progressive, painless decrease in visual acuity & peripheral visual field in eld
 - > 60yo
 
 ## When to consider cataract?
-- If there is a h/o Steroid intake (e.g. Asthma, COPD, RA).
+- If there is a h/o Steroid intake (e.g. [[Asthma]], [[COPD]], RA).
 - Glare at night, Dazzling (halos) around lights.
 - Frequent change spectacles.
 - Exposure to significant amounts of ultra violet light.

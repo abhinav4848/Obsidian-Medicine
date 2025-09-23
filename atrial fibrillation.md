@@ -4,7 +4,7 @@ tags:
 ---
 # P.I.R.A.T.E.S Mnemonic for new-onset atrial fibrillation
 #mnemonic 
-Pulmonary causes (OSA, PE, COPD, pneumonia)  
+Pulmonary causes (OSA, PE, [[COPD]], pneumonia)  
 Ischemia/Infarction/CAD  
 Rheumatic heart disease and Mitral Regurgitation (abnormal heart valve)  
 Alcohol / Anaemia (high output failure)  

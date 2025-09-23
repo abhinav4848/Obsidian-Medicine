@@ -6,7 +6,7 @@ tags:
 # Acute Epiglottitis
 Hemophilus influenzae type B #virus 
 Thumb #sign on lateral neck X-Ray
-_Can also happen due to trauma or foreign body._
+_Can also happen due to trauma or foreign body._ 
 Risk of airway obstruction hence life threatening. 
 ## Clinical features:
 ### Classic triad

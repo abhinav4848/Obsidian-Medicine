@@ -1,11 +1,11 @@
 ---
 aliases:
-  - drugs used in asthma
+  - drugs used in asthma/copd
   - drugs to avoid in asthma
 tags:
   - pharmacology
 ---
-# Drugs used in Asthma
+# Drugs used in Asthma/COPD
 Bronchodilators
 - Sympathomimetics
 	- Selective Beta2 agonists

@@ -10,6 +10,7 @@ Non-infectious [[granulomatous disease]] involving abnormal collections of infla
 	- Fever, weight loss, night sweat, appetite change, sleep change, pain, fatigue, malaise
 - Pulmonary
 	- Dry cough, dyspnea, basal rales on auscultation, pulmonary fibrosis
+	- Restrictive pattern on [[spirometry]]. 
 - Extrapulmonary (*Skin & eyes MC. But also heart, renal*)
 	- [[Erythema nodosum]], 
 	- [[Uveitis]]
