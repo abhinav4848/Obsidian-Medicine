@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pneumonia.md",
+                "file": "copd.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "pneumonia"
+              "title": "copd"
             }
           },
           {
@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "strido",
+                "query": "score",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -166,7 +166,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -263,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pneumonia.md",
+                "file": "copd.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +274,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pneumonia"
+              "title": "Backlinks for copd"
             }
           }
         ]
@@ -296,11 +297,16 @@
   },
   "active": "e48709e52fd2e6bd",
   "lastOpenFiles": [
+    "scoring system.md",
+    "curb-65.md",
     "copd.md",
+    "copd- acute exacerbation.md",
+    "sputum.md",
+    "copd- xray.md",
+    "pneumonia.md",
     "glaucoma- open angle.md",
     "atrial fibrillation.md",
     "asthma- drugs.md",
-    "copd- xray.md",
     "copd- treatment.md",
     "spirometry.md",
     "asthma.md",
@@ -319,11 +325,6 @@
     "desktop.ini",
     "calcium channel blockers.md",
     "drugs contraindicated in pregnancy.md",
-    "bronchiolitis (lrti).md",
-    "gout.md",
-    "septic arthritis.md",
-    "housekeeping/study tips.md",
-    "asthma- acute attack.md",
     "attachments/ecg.jpg",
     "h. pylori treatment flowchart.canvas",
     "chicken pox treatment flowchart (work in progress).canvas",
