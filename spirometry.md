@@ -18,7 +18,7 @@ Also, asthma worse at night & early morning
 | < 0.7                        | 50-79%              | Stage 2 - Moderate                                                             |
 | < 0.7                        | 30-49%              | Stage 3 - Severe                                                               |
 | < 0.7                        | < 30%               | Stage 4 - Very severe                                                          |
-**Frequent Exacerbation**: Defined as >=2 exacerbations in the last 12 months. 
+**Frequent Exacerbation**: Defined as >=2 exacerbations in the last 12 months despite being on triple inhaled therapy. 
 
 Hyperinflated lung on CXR: > 7 ribs seen.
 
