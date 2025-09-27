@@ -2,10 +2,10 @@
 tags:
   - respiratory
 aliases:
-  - diagnose asthma
   - management of stable asthma in adults
   - management of stable asthma in children
   - Step down treatment of Asthma
+  - treatment of asthma
 ---
 Diagnosis: [[asthma- diagnosis]]. 
 
@@ -37,7 +37,7 @@ hold breath for >=10s as per comfort, to allow time to spread to lungs.
 Wait 30s before you repeat a puff. 
 
 ### Determine right time for bronchodilators
-Assess severity: Peak flow rate diary > FeNO
+Assess severity: Peak flow rate diary > [[asthma- investigations|FeNO]]
 - Peak flow rate diary helps with management, as well as diagnosis if doubtful.
 
 ---
