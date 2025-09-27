@@ -43,7 +43,7 @@ If immunocompromised: Pseudomonas
 ---
 # PSA test
 *[[cancer- screening programs]]*
-*[[tumor marker]]*
+*[[tumour marker]]*
 
 Not a sensitive test. 
 NICE says 'If a hard, irregular prostate typical of a prostate carcinoma is felt on rectal examination, then the patient should be referred urgently. The PSA should be measured and the result should accompany the referral.'

@@ -2,9 +2,10 @@
 tags:
   - cancer
 aliases:
-  - Frequency of cancers in UK
   - Screening programs for cancer
   - cancer frequency
+revision counter:
+  - "1"
 ---
 # [[cancer- colorectal|Colorectal cancer]]
 Faecal immunochemical test (FIT). 
@@ -36,23 +37,9 @@ Pap smear.
 50-64yo: every 5 years. 
 
 # Aortic aneurysm
-Single abdo ultrasound is done at age 65 years to screen for AAA.
+Single abdominal ultrasound is done at age 65 years to screen for AAA.
+
+See also: [[guthrie test|Neonatal blood spot screening]]. 
 
 ---
-*See [[tumor marker]].* 
-
-# Frequency of Cancers in UK
-In order of incidence ([Cancer Research](https://www.cancerresearchuk.org/health-professional/cancer-statistics/incidence/common-cancers-compared#heading-Zero) ):  
-1. [[cancer- breast (treatment)|Breast]] (15% of all cases)
-2. [[cancer- prostate|Prostate]] (14%)
-3. [[cancer- lung|Lung]] (13%)
-4. [[cancer- colorectal|Colorectal]] (11%)
-5. [[Melanoma]] skin cancer
-#mnemonic for cancer in men: Protein, Lunch, Bowl
-  
-In order of mortality ([Cancer Research](https://www.cancerresearchuk.org/health-professional/cancer-statistics/mortality/common-cancers-compared#heading-Zero)):  
-7. Lung (21%)
-8. Colorectal (10%)  
-9. Prostate (7%)
-10. Breast (7%)
-11. [[cancer- pancreas|Pancreas]] 
+*See [[tumour marker]].* 

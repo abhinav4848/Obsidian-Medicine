@@ -10,7 +10,7 @@ aliases:
 
 **Genes & tumour marker** 
 BRCA 1, BRCA 2 (AD with incomplete penetrance) for Breast & Ovary. 
-Ca 15-3 is the [[tumor marker|tumour marker]] for prognosis. 
+Ca 15-3 is the [[tumour marker|tumour marker]] for prognosis. 
 #genetics 
 
 **Referral criteria**

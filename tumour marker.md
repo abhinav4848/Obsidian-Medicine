@@ -2,7 +2,7 @@
 tags:
   - cancer
 aliases:
-  - tumour marker
+  - tumor marker
 ---
 All tumour markers beginning with CA are monoclonal antibodies.
 

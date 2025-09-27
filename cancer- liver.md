@@ -28,9 +28,9 @@ HCC doesn't happen from cirrhosis due to Wilson's disease.
 
 # Clinical Features
 Similar to [[cirrhosis]]. 
-[[tumor marker|AFP]] is elevated. 
+[[tumour marker|AFP]] is elevated. 
 
 # Screening
-Screening with ultrasound (+/- [[tumor marker|alpha-fetoprotein]]) should be considered for high risk groups such as:  
+Screening with ultrasound (+/- [[tumour marker|alpha-fetoprotein]]) should be considered for high risk groups such as:  
 - patients with liver cirrhosis secondary to hepatitis B & C, or haemochromatosis
 - men with liver cirrhosis secondary to [[alcohol]]
