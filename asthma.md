@@ -7,15 +7,7 @@ aliases:
   - management of stable asthma in children
   - Step down treatment of Asthma
 ---
-# Diagnose Asthma
-#Triad: Chest tightness, SoB, Wheezing.
-
-Spirometry is done for diagnosis of asthma seeing improvement post bronchodilator -> Spirometry with reversibility +ve.  
-A variable peak expiratory flow (even if spirometry normal) -> Asthma
-Variability > 20%  seen after monitoring at least BD for 2-4 weeks
-
-Determining right time for bronchodilators (assess severity)-> Peak flow rate diary > FeNO
-- Peak flow rate diary helps with management, as well as diagnosis if doubtful.
+Diagnosis: [[asthma- diagnosis]]. 
 
 ---
 # Attacks of asthma
@@ -36,14 +28,17 @@ See [[asthma- drugs]].
 
 \* MART: Maintenance & Reliever therapy (has fast acting LABA)
 
-Unique case: Stable asthma, with just exercise induced SoB: LTRA > Sodium cromoglicate.
-
+**Unique case**: Stable asthma, with just exercise induced SoB: LTRA > Sodium cromoglicate.
 ### Inhaler Technique
 remove cap and shake
 breathe out gently
 take puff as you begin to breathe in
 hold breath for >=10s as per comfort, to allow time to spread to lungs. 
 Wait 30s before you repeat a puff. 
+
+### Determine right time for bronchodilators
+Assess severity: Peak flow rate diary > FeNO
+- Peak flow rate diary helps with management, as well as diagnosis if doubtful.
 
 ---
 ## Child stable asthma management
