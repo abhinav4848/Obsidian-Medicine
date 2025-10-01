@@ -43,13 +43,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asthma- diagnosis.md",
+                "file": "anticipatory meds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "asthma- diagnosis"
+              "title": "anticipatory meds"
+            }
+          },
+          {
+            "id": "a9374ccebeee8275",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://cks.nice.org.uk/topics/hiccups/management/management/",
+                "title": "Scenario: Management | Management | Hiccups | CKS | NICE",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Scenario: Management | Management | Hiccups | CKS | NICE"
             }
           }
         ],
@@ -85,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cancer- fre",
+                "query": "hicc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -203,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asthma- diagnosis.md",
+                "file": "anticipatory meds.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +227,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for asthma- diagnosis"
+              "title": "Backlinks for anticipatory meds"
             }
           }
         ]
@@ -236,6 +250,9 @@
   },
   "active": "63879ce1d99d9080",
   "lastOpenFiles": [
+    "anticipatory meds.md",
+    "haloperidol.md",
+    "asthma- diagnosis.md",
     "asthma- investigations.md",
     "cancer- frequency.md",
     "amoebic liver abscess.md",
@@ -244,7 +261,6 @@
     "neurocutaneous markers.md",
     "hemoptysis.md",
     "aspergilloma.md",
-    "asthma- diagnosis.md",
     "cancer- screening programs.md",
     "cowden's disease.md",
     "asthma.md",
@@ -260,8 +276,6 @@
     "acne vulgaris.md",
     "acne rosacea.md",
     "acne.md",
-    "achalasia cardia.md",
-    "ace inhibitors.md",
     "attachments/Pasted image 20250927105611.png",
     "attachments/Pasted image 20250927105613.png",
     "attachments/diagnose asthma in ages 5-16yo.jpg",
