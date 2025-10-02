@@ -6,11 +6,14 @@ tags:
 urls:
   - https://www.nice.org.uk/guidance/ng115/resources/visual-summary-treatment-algorithm-pdf-6604261741
 ---
+COPD- need influenza vaccine. 
+MRC score > 3 need pulmonary rehab. 
+
 # From NICE CKS 
 - Stop smoking
 - One off pneumococcal vaccine + annual influenza vaccine
 - [[asthma- drugs|SABA/SAMA]] (first line)
-- If ✔[[asthma|asthmatic]] features suggesting steroid responsiveness -> LABA + ICS
+- If ✅[[asthma|asthmatic]] features suggesting steroid responsiveness -> LABA + ICS
 	- If still breathless/have exacerbations:
 		- Triple therapy: LAMA + LABA + ICS
 	- Continue SABA/SAMA prn. Discontinue SAMA if taking LAMA. 

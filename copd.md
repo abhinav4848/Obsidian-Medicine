@@ -16,6 +16,7 @@ Night time waking with breathlessness and/or wheeze is more asthma.
 Significant diurnal or day-to-day variability of symptoms is more asthma.
 Symptoms in age <35 are more common in asthma.
 ## Spirometry Criteria
+You must confirm COPD by spirometry
 See: [[spirometry#COPD]]
 ## Imaging
 Hyperinflated lung
