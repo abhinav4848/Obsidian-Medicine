@@ -3,7 +3,7 @@ tags:
   - endocrine
   - diabetes
 ---
-Common in [[diabetes mellitus 1|T1DM]]. 
+Common in [[diabetes mellitus 1|T1DM]]. Rare in type 2 diabetics. 
 # Clinical Features
 Abdominal pain, vomit, Kussmaul breathing (deep hyperventilation), dehydration.
 
@@ -25,3 +25,6 @@ When blood glucose reaches below 12, shift IV NS. to 5% dextrose to avoid hypogl
 Add KCl to correct [[Hypokalemia]] after 1st litre of fluid is given, if K+ is 3.5-5.5mmol/L
 
 If DM1 with DKA & dehydration: First check capillary blood glucose, then ABG. 
+
+# Ketosis prone T2DM
+common in Africans called Flatbush diabetes

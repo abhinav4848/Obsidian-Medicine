@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "copd- treatment.md",
+                "file": "anti-diabetic drugs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "copd- treatment"
+              "title": "anti-diabetic drugs"
             }
           },
           {
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "copd",
+                "query": "metformin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "copd- treatment.md",
+                "file": "anti-diabetic drugs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for copd- treatment"
+              "title": "Backlinks for anti-diabetic drugs"
             }
           }
         ]
@@ -251,8 +251,9 @@
   },
   "active": "63879ce1d99d9080",
   "lastOpenFiles": [
-    "asthma.md",
+    "diabetic ketoacidosis.md",
     "copd- treatment.md",
+    "asthma.md",
     "copd.md",
     "anticipatory meds.md",
     "desktop.ini",
@@ -277,7 +278,6 @@
     "respiratory failure.md",
     "actinic keratosis.md",
     "acromegaly.md",
-    "acne vulgaris.md",
     "attachments/Pasted image 20250927105611.png",
     "attachments/Pasted image 20250927105613.png",
     "attachments/diagnose asthma in ages 5-16yo.jpg",
