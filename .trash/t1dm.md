@@ -1,0 +1,4 @@
+---
+aliases:
+  - type 1 diabetes
+---
