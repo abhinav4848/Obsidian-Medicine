@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diabetes mellitus 1.md",
+                "file": "delirium.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "diabetes mellitus 1"
+              "title": "delirium"
             }
           },
           {
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "type 1 diabe",
+                "query": "antipsy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -217,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diabetes mellitus 1.md",
+                "file": "delirium.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +228,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for diabetes mellitus 1"
+              "title": "Backlinks for delirium"
             }
           }
         ]
@@ -250,6 +251,12 @@
   },
   "active": "63879ce1d99d9080",
   "lastOpenFiles": [
+    "antipsychotic drugs.md",
+    "delirium.md",
+    "areas of brain.md",
+    "antiemetics.md",
+    "haloperidol.md",
+    "diabetes mellitus 1.md",
     "desktop.ini",
     "diagnosing diabetes mellitus.md",
     "t1dm.md",
@@ -259,7 +266,6 @@
     "asthma.md",
     "copd.md",
     "anticipatory meds.md",
-    "haloperidol.md",
     "asthma- diagnosis.md",
     "asthma- investigations.md",
     "cancer- frequency.md",
@@ -272,10 +278,6 @@
     "cancer- screening programs.md",
     "cowden's disease.md",
     "tumour marker.md",
-    "spirometry.md",
-    "paeds ortho diff- ddh, perthe's, sufe.md",
-    "sarcoidosis.md",
-    "acute epiglottitis.md",
     "attachments/Pasted image 20250927105611.png",
     "attachments/Pasted image 20250927105613.png",
     "attachments/diagnose asthma in ages 5-16yo.jpg",
