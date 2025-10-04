@@ -6,7 +6,7 @@ aliases:
 urls:
   - https://www.amboss.com/us/knowledge/antiemetics/
 ---
-[[D2 antagonism]]- [[metoclopramide]], domperidone, [[antipsychotic drugs|Prochlorperazine]], [[haloperidol]].
+[[D2 antagonism]]- [[metoclopramide]], domperidone, [[antipsychotic drugs|Prochlorperazine]], [[haloperidol]]. 
 
 Serotonin receptor antagonists (5HT3 antagonists): Ondansetron, Granisetron
 - Strong central antiemetic effect at the CTZ. 

@@ -5,8 +5,11 @@ aliases:
   - Neuroleptic malignant syndrome
   - Serotonin syndrome
   - Malignant Hyperthermia
+  - acute dopamine depletion syndrome (NMS)
 ---
 # Neuroleptic malignant syndrome
+aka. acute dopamine depletion syndrome. 
+
 Due to excess dopamine antagonists
 - Haloperidol (typical antipsychotic), 
 - [[Metoclopramide]], or 

@@ -9,6 +9,7 @@ aliases:
   - acute dystonia
   - akathasia
   - drug-induced movement disorders
+  - acute dopamine depletion syndrome
 ---
 
 Mostly due to typical [[antipsychotic drugs|anti-psychotics]]. 

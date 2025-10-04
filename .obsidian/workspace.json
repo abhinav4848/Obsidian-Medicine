@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "delirium.md",
+                "file": "haloperidol.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "delirium"
+              "title": "haloperidol"
             }
           },
           {
@@ -58,12 +58,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://cks.nice.org.uk/topics/hiccups/management/management/",
-                "title": "Scenario: Management | Management | Hiccups | CKS | NICE",
+                "url": "https://www.nice.org.uk/cks-is-only-available-in-the-uk",
+                "title": "CKS is only available in the UK | NICE",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Scenario: Management | Management | Hiccups | CKS | NICE"
+              "title": "CKS is only available in the UK | NICE"
             }
           }
         ],
@@ -99,10 +99,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "antipsy",
+                "query": "neurolep",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "delirium.md",
+                "file": "haloperidol.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for delirium"
+              "title": "Backlinks for haloperidol"
             }
           }
         ]
@@ -251,11 +251,15 @@
   },
   "active": "63879ce1d99d9080",
   "lastOpenFiles": [
+    "qt prolongation.md",
+    "haloperidol.md",
+    "antiemetics.md",
     "antipsychotic drugs.md",
     "delirium.md",
+    "depression.md",
+    "extrapyramidal side-effects.md",
+    "fever caused by drugs.md",
     "areas of brain.md",
-    "antiemetics.md",
-    "haloperidol.md",
     "diabetes mellitus 1.md",
     "desktop.ini",
     "diagnosing diabetes mellitus.md",
@@ -274,10 +278,6 @@
     "bronchiectasis.md",
     "neurocutaneous markers.md",
     "hemoptysis.md",
-    "aspergilloma.md",
-    "cancer- screening programs.md",
-    "cowden's disease.md",
-    "tumour marker.md",
     "attachments/Pasted image 20250927105611.png",
     "attachments/Pasted image 20250927105613.png",
     "attachments/diagnose asthma in ages 5-16yo.jpg",
