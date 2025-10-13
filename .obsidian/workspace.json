@@ -173,9 +173,21 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "f773b2f74c015d2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "mscc.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for mscc"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "ba756b466b0b4515",
@@ -219,7 +231,7 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "609471f0190bcec3",
+  "active": "f773b2f74c015d2b",
   "lastOpenFiles": [
     "cancers metastasizing to the bone.md",
     "mscc.md",
