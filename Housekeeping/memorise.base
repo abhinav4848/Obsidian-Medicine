@@ -1,5 +1,16 @@
 views:
   - type: table
+    name: revision
+    filters:
+      and:
+        - or:
+            - '!note["revision notes"].isEmpty()'
+            - note["revision counter"].containsAny("1", "2", "3", "4", "5")
+    order:
+      - file.name
+      - revision counter
+      - revision notes
+  - type: table
     name: Mnemonics
     filters:
       and:

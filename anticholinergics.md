@@ -22,5 +22,15 @@ Useful as [[antiemetics]]
 
 #antidote: Physostigmine
 
+## Full list
+| **System**             | **Effects**                                                                                                                       |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **CNS**                | Drowsiness, Cognitive impairment, Delirium, Restlessness, Agitation<br>*Increased risk of falls and fracture*                     |
+| **Peripheral effects** | Mydriasis, Loss of accommodation<br>*Blurred vision (may impair driving ability)*                                                 |
+| **CVS**                | Tachycardia, Palpitations, Extrasystoles, Arrhythmias<br>*also related to noradrenaline potentiation and a quinidine-like action* |
+| **GI**                 | Dry mouth (inhibition of salivation)<br>Heartburn (relaxation of LES)<br>Constipation (decreased intestinal motility → ileus)     |
+| **Urinary Tract**      | Hesitancy of micturition<br>Retention of urine                                                                                    |
+| **Skin**               | Reduced sweating<br>Flushing                                                                                                      |
+
 # Anticholinergic burden
 ![[anticholinergic burden.png]]

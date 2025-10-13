@@ -6,15 +6,18 @@ aliases:
   - glycopyrronium
   - levomepromazine
   - drugs in palliative care
+revision counter:
+  - "1"
+revision notes: see cyclizine uses
 ---
 # Drugs
 Given to palliative patients to make death more comfortable
 
-Drugs: H2M2 
-- Pain & breathlessness: s.c. morphine 
-- Nausea & vomiting: s.c. [[haloperidol]], Levomepromazine 
-- Anxiety, delirium, agitation: s.c. midazolam 
-- Noisy respiratory secretions: s.c. hyoscine butyl bromide
+Drugs: M2H2 #mnemonic 
+- **Pain & breathlessness**: morphine 
+- **Anxiety, delirium, agitation**: midazolam 
+- **Noisy respiratory secretions**: hyoscine butyl bromide
+- **Nausea & vomiting**: [[haloperidol]], Levomepromazine 
 ## Opioids
 |           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -22,12 +25,15 @@ Drugs: H2M2
 | Oxycodone | Stronger than Morphine but costlier.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Methadone | Specialist management only. <br>Wide variation in individual plasma concentration<br>Long half-life leads to tendency to accumulate<br>Needs 1 week to titrate. Take PRNs 3 hourly for a week and then use that to start BD regimen. That too might need further adjustments. Can only be done in hospice setting.                                                                                                                                                                                                                                                                                                     |
 ## Anti-emetics
+[[antiemetics]]
+
 |                      |                                                                                                                                                                                                                                                                |
 | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cyclizine            | Antiemetic, Especially useful for intracranial causes of N & V.  <br>Also give s.c. for cancer related intestinal obstruction.                                                                                                                                 |
+| Cyclizine            | Broad spectrum Antiemetic, <br>Especially useful for **intracranial causes** of N & V. <br>Also give s.c. for cancer related intestinal obstruction.<br><br>Also good for nausea due to vestibular system irritation.                                          |
 | [[Haloperidol]] s.c. | Antiemetic.<br>Agitation, Restless, & Confusion but not terminal. <br><br>Avoid in elderly cuz EPS side effects exacerbate agitation/restlessness.<br><br>If the patient is in the terminal phase and agitated then subcutaneous midazolam would be indicated. |
 | [[Metoclopramide]]   | N & V in a palliative patient with delayed gastric emptying                                                                                                                                                                                                    |
 | Ondansetron          | N& V due to chemo & radio                                                                                                                                                                                                                                      |
+| Domperidone          | antagonises the inhibitory effect of dopamine peripherally, resulting in stimulation of gastric muscle contraction. Good anti-emetic to use for GI pain in palliative care                                                                                     |
 ## Sedative and anti-emetic
 |                 |                                                                                             |
 | --------------- | ------------------------------------------------------------------------------------------- |

@@ -5,6 +5,24 @@ properties:
     displayName: Tags
 views:
   - type: table
+    name: today's changes
+    filters:
+      and:
+        - file.mtime > today()
+        - file.ext == "md"
+    order:
+      - file.name
+      - file.mtime
+      - file.tags
+    sort:
+      - property: file.tags
+        direction: DESC
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      file.name: 164
+      file.tags: 342
+  - type: table
     name: Yesterday's changes
     filters:
       and:

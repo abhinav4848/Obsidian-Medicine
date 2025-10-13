@@ -10,7 +10,6 @@ Antagonist on D2, alpha-1, sigma receptors.
 2. Management of intractable hiccups (not confirmed in RCTs). 
 3. metabolic causes of [[antiemetics|nausea]] 
 4. Settles agitation and [[antipsychotic drugs|psychosis]] including hallucinations. 
-
 ## Caution
 Use caution in dementia (increased mortality and stroke risk)
 Reduce starting dose in renal impairment

@@ -2,6 +2,9 @@
 tags:
   - palliative
   - pharmacology
+revision notes: increasing regular morphine dose via PRNs
+revision counter:
+  - "1"
 ---
 Main dose
 	Total dose in 24 hrs./2 so you can give it BD as main dose.
@@ -9,7 +12,14 @@ Additional dose/breakthrough dose
 	Breakthrough dose is 1/6th the daily morphine dose.
 	Total of new dose in 24 hrs/6, is the dose in 4 hrs.
 	or 10% of total daily dose given 4 hourly.
+
 If a patient has had to use PRN oramorph, say 40mg in a day, then add that to the total daily morphine intake when converting to syringe driver. 
+
+When increasing the dose of opioids the next dose should be increased by 30-50%. #important 
+>[!info]
+>If patient is on 50mg BD & took 70mg PRN, then adding on the PRN would make the BD dose 85mg which is more than 30-50% increase from the previous dose of 50mg. So max strength of new BD dose will be $1.3 * 50= 65 mg$ to $1.5*50=75 mg$. 
+>Increase the regular dose of morphine every 2-3 days. 
+# Conversion table
 
 | From                  | To                   | Equation          | Notes                       |
 | --------------------- | -------------------- | ----------------- | --------------------------- |
