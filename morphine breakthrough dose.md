@@ -5,6 +5,8 @@ tags:
 revision notes: increasing regular morphine dose via PRNs
 revision counter:
   - "1"
+urls:
+  - https://cks.nice.org.uk/topics/palliative-cancer-care-pain/prescribing-information/strong-opioids/#titration-of-oral-morphine
 ---
 Main dose
 	Total dose in 24 hrs./2 so you can give it BD as main dose.
@@ -15,10 +17,12 @@ Additional dose/breakthrough dose
 
 If a patient has had to use PRN oramorph, say 40mg in a day, then add that to the total daily morphine intake when converting to syringe driver. 
 
-When increasing the dose of opioids the next dose should be increased by 30-50%. #important 
+When increasing the dose of opioids the next dose should be increased by 30% in primary care (at max, 50%, but stick to 30%). [CKS says 30%](https://cks.nice.org.uk/topics/palliative-cancer-care-pain/prescribing-information/strong-opioids/#titration-of-oral-morphine). #important 
 >[!info]
 >If patient is on 50mg BD & took 70mg PRN, then adding on the PRN would make the BD dose 85mg which is more than 30-50% increase from the previous dose of 50mg. So max strength of new BD dose will be $1.3 * 50= 65 mg$ to $1.5*50=75 mg$. 
+>
 >Increase the regular dose of morphine every 2-3 days. 
+>Use smaller increments when increasing large doses.
 # Conversion table
 
 | From                  | To                   | Equation          | Notes                       |
