@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asthma- life threatening features.md",
+                "file": "asthma.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "asthma- life threatening features"
+              "title": "asthma"
             }
           }
         ]
@@ -75,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asthma- life threatening features.md",
+                "file": "asthma.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +182,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for asthma- life threatening features"
+              "title": "Backlinks for asthma"
             }
           }
         ]
@@ -206,12 +205,17 @@
   },
   "active": "35051b88c3edd0ee",
   "lastOpenFiles": [
+    "asthma- life threatening features.md",
     "asthma.md",
+    "asthma- investigations.md",
+    "glaucoma- acute angle closure.md",
+    "asthma- acute attack.md",
+    "asthma- drugs.md",
+    "housekeeping/rules.md",
     "morphine breakthrough dose.md",
     "anticipatory meds.md",
     "antiemetics.md",
     "housekeeping/revise recent changes.base",
-    "housekeeping/rules.md",
     "guthrie test.md",
     "bronchiectasis.md",
     "housekeeping/memorise.base",
@@ -230,11 +234,6 @@
     "diagnosing diabetes mellitus.md",
     "t1dm.md",
     "anti-diabetic drugs.md",
-    "diabetic ketoacidosis.md",
-    "copd- treatment.md",
-    "copd.md",
-    "asthma- diagnosis.md",
-    "asthma- investigations.md",
     "attachments/Pasted image 20250927105611.png",
     "attachments/Pasted image 20250927105613.png",
     "attachments/diagnose asthma in ages 5-16yo.jpg",

@@ -17,6 +17,7 @@ Immediate:
 - Steroids (100mg i.v. Hydrocortisone > Oral prednisolone 40-50mg PO)
 
 If severe/life threatening:
+- arrange immediate admission (999 call) if life threatening
 - Salbutamol nebulizers every 15 mins
 - Ipratropium bromide 0.5mg (SAMA)
 - Single dose of MgSO4: 1.2-2gm i.v. over 20 mins.

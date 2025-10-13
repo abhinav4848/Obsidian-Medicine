@@ -6,6 +6,8 @@ aliases:
   - management of stable asthma in children
   - Step down treatment of Asthma
   - treatment of asthma
+urls:
+  - https://www.brit-thoracic.org.uk/document-library/guidelines/asthma/btssign-asthma-guideline-quick-reference-guide-2019/
 ---
 Diagnosis: [[asthma- diagnosis]]. 
 
@@ -63,5 +65,5 @@ Reduce inhaled steroids by 25-50% at a time.
 ---
 # Drugs to avoid in Asthma
 Beta Blockers- As salbutamol is a beta agonist and opens airways, we can make sense that beta blocker will worsen airway constriction. 
-- In pre-eclampsia with asthma, you'll choose [[calcium channel blockers|Nifedipine]] instead of Labetalol. 
+- In pre-eclampsia with asthma, you'll choose [[calcium channel blockers|Nifedipine]] instead of Labetalol. #confusion 
 Avoid aspirin & NSAIDs in [[samter's triad]] 

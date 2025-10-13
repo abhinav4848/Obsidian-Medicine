@@ -22,7 +22,7 @@ Do IOP test: Ocular tonometry-> Anterior chamber affected
 # Treatment
 ## Eye drops
 - Topical Pilocarpine (cholinergic agonist) 1-2%: cause pupillary constriction -> it's meiotic,
-- Topical beta blockers (Timolol, except in Asthma),
+- Topical beta blockers (Timolol, except in [[Asthma]]),
 - Topical alpha-2 agonists (apraclonidine, brimonidine) -> decreases production of aqueous + increases drainage.
 ## Intravenous
 - i.v. Acetazolamide: reduce secretions,
