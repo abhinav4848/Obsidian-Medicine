@@ -20,4 +20,4 @@ Useful in impaired gastric emptying (gastroparesis).
 2. Can cause hyperprolactinemia & nipple discharge but not [[gynaecomastia]].
 3. Lowers seizure threshold. 
 4. Avoid in suspected small bowel obstruction
-5. Avoid combining with [[digoxin]] and [[anti-diabetic drugs]]. 
+5. Avoid combining with [[digoxin]] and [[antidiabetic drugs]]. 

@@ -1,6 +1,7 @@
 ---
 tags:
   - pharmacology
+  - oncology
 aliases:
   - anti-emetic
 urls:
@@ -25,9 +26,12 @@ Six broad nausea and vomiting syndromes
 - Anti-cholinergics such as hyoscine can be useful
 
 **Raised intra-cranial pressure**
-- Usually in context of cerebral metastases
+- Due to high ICP (e.g. brain metastasis, intracerebral tumour e.g. glioblastoma) or vomiting due to bowel obstruction -> Cyclizine.
+- Give Dexamethasone to shrink perilesional (intracerebral) edema -> elevates ICP symptoms. 4mg QID PO or IV.
+- If GCS <=8, intubate & give Mannitol for raised ICP.
+- If GCS very low + neurological deficit (unequal pupils) & ICH, do craniotomy
 
-**Vestibular**
+**Vestibular (BPPV, Meniere, Vestibular neuritis)***
 - Related to activation of acetylcholine and histamine (H1) receptors-> cyclizine works best. Can also use Metoclopramide/Prochlorperazine for refractory cases. Or can even use Olanzapine/Risperidone as per UpToDate. 
 - Most frequently in palliative care is opioid related
 - Can be motion related, or due to base of skull tumours
@@ -35,7 +39,13 @@ Six broad nausea and vomiting syndromes
 **Cortical**
 - May be due to anxiety, pain, fear and/or anticipatory nausea
 - Related to GABA and histamine (H1) receptors in the cerebral cortex
-- Can use Loraz, else cyclizine. Can trial ondansetron/metoclopramide    
+- Can use Loraz, else cyclizine. Can trial ondansetron/metoclopramide
+
+**Hyperemesis gravidarum**
+The first step is IV fluids
+- 1st line: "zine" family e.g. Cyclizine, Promethazine
+- 2nd line: IV Metoclopramide, Ondansetron
+- 3rd line: Steroids
 # Treatments
 [[D2 antagonism]]- [[metoclopramide]], domperidone, [[antipsychotic drugs|Prochlorperazine]], [[haloperidol]]. 
 

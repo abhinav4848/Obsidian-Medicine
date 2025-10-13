@@ -13,6 +13,6 @@ Mild hyperglycemia
 Refer to **secondary care** (else, start sulfonylureas) as treatment of MODY differs from DM2.
 
 **HNF1A-MODY**, and **HNF4-MODY**
-	Responds to [[anti-diabetic drugs|sulphonylureas]] (gliclazide)
+	Responds to [[antidiabetic drugs|sulphonylureas]] (gliclazide)
 **GCK-MODY**
 	Managed with Diet alone

@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asthma.md",
+                "file": "antiemetics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "asthma"
+              "title": "antiemetics"
+            }
+          },
+          {
+            "id": "609471f0190bcec3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mscc.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "mscc"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asthma.md",
+                "file": "mscc.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +198,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for asthma"
+              "title": "Backlinks for mscc"
             }
           }
         ]
@@ -203,37 +219,37 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "35051b88c3edd0ee",
+  "active": "609471f0190bcec3",
   "lastOpenFiles": [
-    "asthma- life threatening features.md",
-    "asthma.md",
+    "cancers metastasizing to the bone.md",
+    "mscc.md",
+    "antiemetics.md",
+    "anticholinergics.md",
+    "antidiabetic drugs.md",
+    "antimuscarinic.md",
+    "anticipatory meds.md",
+    "sjogren's syndrome.md",
+    "primary biliary cirrhosis.md",
+    "sarcoidosis.md",
+    "spirometry.md",
     "asthma- investigations.md",
+    "asthma.md",
+    "asthma- life threatening features.md",
     "glaucoma- acute angle closure.md",
     "asthma- acute attack.md",
     "asthma- drugs.md",
     "housekeeping/rules.md",
     "morphine breakthrough dose.md",
-    "anticipatory meds.md",
-    "antiemetics.md",
     "housekeeping/revise recent changes.base",
     "guthrie test.md",
     "bronchiectasis.md",
     "housekeeping/memorise.base",
     "areas of brain.md",
     "metoclopramide.md",
-    "anticholinergics.md",
     "haloperidol.md",
     "qt prolongation.md",
     "antipsychotic drugs.md",
-    "delirium.md",
-    "depression.md",
-    "extrapyramidal side-effects.md",
-    "fever caused by drugs.md",
-    "diabetes mellitus 1.md",
     "desktop.ini",
-    "diagnosing diabetes mellitus.md",
-    "t1dm.md",
-    "anti-diabetic drugs.md",
     "attachments/Pasted image 20250927105611.png",
     "attachments/Pasted image 20250927105613.png",
     "attachments/diagnose asthma in ages 5-16yo.jpg",

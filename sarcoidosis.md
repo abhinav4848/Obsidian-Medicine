@@ -16,17 +16,16 @@ Non-infectious [[granulomatous disease]] involving abnormal collections of infla
 	- [[Uveitis]]
 	- **Lupus Pernio**: A pathognomonic manifestation of sarcoidosis characterized by extensive indurated purple nodular lesions (i.e., epithelioid granulomas of the dermis) on the nose, cheeks, chin, and/or ears.
 	- ![[lupus pernio (classic in sarcoidosis).png]]
-	- Butterfly rash as seen in systemic lupus erythematosus.
+	- Butterfly rash as seen in [[systemic lupus erythematosis|SLE]].
 	- Polyarthralgia
-
 # Types & features
 *Classical sarcoidosis is Lofgren syndrome.*
 
 - **Lofgren**: *Love Heals* #mnemonic : b/l Hilar LNE, [[Erythema nodosum|EN]], (migratory poly-)arthralgia, Lofgren, Sarcoidosis, fever
-- **Mikulicz**: (*licks* #mnemonic ) Symmetrical Parotid & Lacrimal gland enlargement (narrowing of palpebral fissures), Dry mouth, Face swelling. (Due to sarcoidosis, TB, Lymphoma)
-- **Heerfordt** (uveo-parotid fever): Parotitis, Uveitis (due to sarcoid), Facial palsy
+- **Mikulicz**: (*licks* #mnemonic ) Symmetrical Parotid & Lacrimal gland enlargement (narrowing of palpebral fissures), Dry mouth (xerostomia), Face swelling. (Due to sarcoidosis, TB, Lymphoma)
+- **Heerfordt** (uveo-parotid fever): Parotitis, Uveitis (due to sarcoid), Facial palsy, fever
 
-[[Sjogren's syndrome]] on the other hand will always have something related to dry eyes, dry mouth. #confusion 
+[[Sjogren's syndrome]] on the other hand will always have something related to dry eyes (keratoconjunctivitis sicca), dry mouth. #confusion 
 # Investigation
 - CXR: b/l Hilar LNE, 
 - Biopsy: Non-caseating granulomas, 
