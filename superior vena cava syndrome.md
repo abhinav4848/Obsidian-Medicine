@@ -5,12 +5,13 @@ tags:
   - cancer
 urls:
   - https://resident360.amboss.com/adult-medicine/oncology/superior-vena-cava-syndrome/superior-vena-cava-syndrome.html
+  - https://www.youtube.com/watch?v=P81nxZpQO4s
 ---
-Although presentation of SVC syndrome can be impressive, it is rarely an emergency.
+Although presentation of SVC syndrome can be impressive, it is rarely an emergency. 
 # Causes
 88% of causes are malignant & in 50% of those cases, SVCO can be the first manifestation. 
 The most common malignant causes of SVC syndrome are 
-1. [[cancer- lung|non-small-cell lung cancer]], 
+1. [[cancer- lung|non small-cell lung cancer]], 
 2. small-cell lung cancer, 
 3. non-Hodgkin lymphoma, and 
 4. metastatic lesions.

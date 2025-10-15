@@ -10,7 +10,7 @@ Compression of the stellate ganglion by a Pancoast tumour can lead to Horner syn
 Superior sulcus tumours can infiltrate neighbouring structures and cause additional symptoms, which is known as 
 Pancoast #syndrome: 
 - shoulder and arm pain, 
-- atrophy of the arm and hand muscles,  
+- atrophy of the arm and hand muscles, 
 - possibly [[superior vena cava syndrome]], and 
 - hoarseness due to compression of the recurrent laryngeal nerve. 
 

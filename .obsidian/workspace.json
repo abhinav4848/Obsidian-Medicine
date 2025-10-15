@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mscc.md",
+                "file": "pancoast tumor.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "mscc"
+              "title": "pancoast tumor"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "panco",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,14 +181,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "mscc.md"
+                "file": "pancoast tumor.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for mscc"
+              "title": "File properties for pancoast tumor"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "ba756b466b0b4515",
@@ -200,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mscc.md",
+                "file": "pancoast tumor.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +211,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for mscc"
+              "title": "Backlinks for pancoast tumor"
             }
           }
         ]
@@ -231,10 +232,12 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "f773b2f74c015d2b",
+  "active": "609471f0190bcec3",
   "lastOpenFiles": [
-    "cancers metastasizing to the bone.md",
     "mscc.md",
+    "superior vena cava syndrome.md",
+    "cancer- lung.md",
+    "cancers metastasizing to the bone.md",
     "antiemetics.md",
     "anticholinergics.md",
     "antidiabetic drugs.md",
@@ -259,8 +262,6 @@
     "areas of brain.md",
     "metoclopramide.md",
     "haloperidol.md",
-    "qt prolongation.md",
-    "antipsychotic drugs.md",
     "desktop.ini",
     "attachments/Pasted image 20250927105611.png",
     "attachments/Pasted image 20250927105613.png",
