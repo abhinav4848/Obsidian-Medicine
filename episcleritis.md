@@ -6,7 +6,7 @@ tags:
 ---
 **Affected part**: Sclera.
 
-Associated with [[Rheumatoid arthritis]] (morning stiffness of small joints), [[inflammatory bowel disease|ulcerative colitis]] and granulomatosis with polyangiitis.
+Associated with [[rheumatoid arthritis]] (morning stiffness of small joints), [[inflammatory bowel disease|ulcerative colitis]] and granulomatosis with polyangiitis.
 
 Commonly associated with Keratoconjunctivitis sicca.  
   

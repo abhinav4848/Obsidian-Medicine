@@ -16,3 +16,5 @@ Used for leg cramps, SLE.
 5. Bull's eye [[retinopathy]].
 6. Can cause [[plaque psoriasis]].
 7. Can cause [[qt prolongation|long QT syndrome]].
+
+Hydroxychloroquine can cause diffuse alveolar damage. 

@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "syringe driver.md",
+                "file": "ra vs osteoarthritis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "syringe driver"
+              "title": "ra vs osteoarthritis"
             }
           }
         ],
@@ -85,10 +85,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cyclizine",
+                "query": "hydroxychlo",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -106,11 +106,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 262.5044631958008
+    "width": 243.50446319580078
   },
   "right": {
     "id": "18cd351862e29aca",
@@ -215,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "syringe driver.md",
+                "file": "ra vs osteoarthritis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,14 +226,14 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for syringe driver"
+              "title": "Backlinks for ra vs osteoarthritis"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,9 +249,17 @@
   },
   "active": "d8cdb718f4d9c587",
   "lastOpenFiles": [
+    "rheumatoid arthritis.md",
+    "methotrexate.md",
+    "lung fibrosis.md",
+    "interstitial lung disease vs pneumonitis.md",
+    "ra vs osteoarthritis.md",
+    "quinine.md",
+    "cytotoxic drugs.md",
+    "fibrosis.md",
+    "syringe driver.md",
     "desktop.ini",
     "anticipatory meds.md",
-    "syringe driver.md",
     "antiemetics.md",
     "morphine breakthrough dose.md",
     "pancoast tumor.md",
@@ -267,14 +276,7 @@
     "spirometry.md",
     "asthma- investigations.md",
     "asthma.md",
-    "asthma- life threatening features.md",
-    "glaucoma- acute angle closure.md",
-    "asthma- acute attack.md",
-    "asthma- drugs.md",
-    "housekeeping/rules.md",
     "housekeeping/revise recent changes.base",
-    "guthrie test.md",
-    "bronchiectasis.md",
     "housekeeping/memorise.base",
     "attachments/Pasted image 20250927105611.png",
     "attachments/Pasted image 20250927105613.png",
