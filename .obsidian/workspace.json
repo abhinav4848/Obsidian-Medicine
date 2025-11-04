@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ra vs osteoarthritis.md",
+                "file": "rheumatoid arthritis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ra vs osteoarthritis"
+              "title": "rheumatoid arthritis"
             }
           }
         ],
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ra vs osteoarthritis.md",
+                "file": "rheumatoid arthritis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ra vs osteoarthritis"
+              "title": "Backlinks for rheumatoid arthritis"
             }
           }
         ]
@@ -249,9 +249,10 @@
   },
   "active": "d8cdb718f4d9c587",
   "lastOpenFiles": [
-    "nsaid.md",
     "ra vs osteoarthritis.md",
     "rheumatoid arthritis.md",
+    "desktop.ini",
+    "nsaid.md",
     "methotrexate.md",
     "diabetes treatment.md",
     "gout.md",
@@ -281,9 +282,7 @@
     "cytotoxic drugs.md",
     "fibrosis.md",
     "syringe driver.md",
-    "desktop.ini",
     "anticipatory meds.md",
-    "antiemetics.md",
     "housekeeping/revise recent changes.base",
     "housekeeping/memorise.base",
     "attachments/Pasted image 20250927105611.png",
