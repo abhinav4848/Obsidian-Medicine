@@ -4,7 +4,7 @@ aliases:
 tags:
   - respiratory
 ---
-# Obstructive cause(FEV1/FVC: <0.7)
+# Obstructive cause (FEV1/FVC: <0.7)
 #confusion 
 ## Asthma
 BDR with spirometry is [[asthma- diagnosis|2nd line test]] to diagnose asthma. Here, spirometry improves after bronchodilators (reversible obstruction).

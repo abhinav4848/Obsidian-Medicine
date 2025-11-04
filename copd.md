@@ -2,6 +2,7 @@
 aliases:
   - chronic obstructive pulmonary disease
   - COPD
+  - LTOT
 tags:
   - respiratory
 ---
@@ -12,18 +13,18 @@ tags:
 3. Regular sputum production >3 months.
 4. Frequent winter 'bronchitis' wheeze
 
-Night time waking with breathlessness and/or wheeze is more asthma.
+Night time waking with breathlessness and/or wheeze is more [[asthma]].
 Significant diurnal or day-to-day variability of symptoms is more asthma.
 Symptoms in age <35 are more common in asthma.
-## Spirometry Criteria
-You must confirm COPD by spirometry
-See: [[spirometry#COPD]]
 ## Imaging
 Hyperinflated lung
 More than 7 posterior ribs seen
 Flat diaphragm
 Small heart
 May see bullae
+## Spirometry Criteria
+You must confirm COPD by spirometry
+See: [[spirometry#COPD]]
 
 ---
 # LTOT

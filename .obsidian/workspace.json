@@ -43,17 +43,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rheumatoid arthritis.md",
+                "file": "cancer & associations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "rheumatoid arthritis"
+              "title": "cancer & associations"
+            }
+          },
+          {
+            "id": "75781bfd6e90776d",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://bjgp.org/content/bjgp/67/659/e405.full.pdf",
+                "title": "e405.full.pdf",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "e405.full.pdf"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dmard",
+                "query": "tag:#named",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,8 +120,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,7 +229,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rheumatoid arthritis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +238,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for rheumatoid arthritis"
+              "title": "Backlinks"
             }
           }
         ]
@@ -247,10 +259,14 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "d8cdb718f4d9c587",
+  "active": "75781bfd6e90776d",
   "lastOpenFiles": [
-    "ra vs osteoarthritis.md",
+    "cancer & associations.md",
+    "inflammatory bowel disease.md",
     "rheumatoid arthritis.md",
+    "spirometry.md",
+    "copd.md",
+    "ra vs osteoarthritis.md",
     "desktop.ini",
     "nsaid.md",
     "methotrexate.md",
@@ -280,9 +296,6 @@
     "interstitial lung disease vs pneumonitis.md",
     "quinine.md",
     "cytotoxic drugs.md",
-    "fibrosis.md",
-    "syringe driver.md",
-    "anticipatory meds.md",
     "housekeeping/revise recent changes.base",
     "housekeeping/memorise.base",
     "attachments/Pasted image 20250927105611.png",
