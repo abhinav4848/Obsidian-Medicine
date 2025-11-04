@@ -29,15 +29,13 @@ If still not controlled, 2nd intensification. Or if other drugs c/i: consider in
 
 # Rx based on appropriate drug to use
 If high risk of CVD/established CVD/HF -> Metformin, once established, add SGLT-2 inhibitor  
- 
- If no risk of HF: Metformin
+
+If no risk of HF: Metformin
 ## Scenario:  
 If Metformin not tolerated -> Modified release Metformin.  
 If Metformin C/I
-
-If risk of CVD -> SGLT-2 monotherapy
-
-If not high risk CVD/no HF -> DPP4 inhibitor/Pioglitazone/Sulfonylurea.
+- If risk of CVD -> SGLT-2 monotherapy
+- If not high risk CVD/no HF -> DPP4 inhibitor/Pioglitazone/Sulfonylurea.
 
 |                                                                                                   |                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

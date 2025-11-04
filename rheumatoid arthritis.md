@@ -1,6 +1,7 @@
 ---
 aliases:
   - RA
+  - DMARD
 tags:
   - rheumat
 ---

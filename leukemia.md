@@ -11,6 +11,7 @@ aliases:
   - Acute Myeloid Leukemia
   - Chronic Lymphocytic Leukemia
   - Chronic Myeloid Leukemia
+  - leukaemia
 ---
 Chronic has mature cells.
 Acute has immature cells.

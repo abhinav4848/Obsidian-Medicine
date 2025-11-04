@@ -17,7 +17,7 @@ Diagnosis: [[asthma- diagnosis]].
 - [[asthma- acute attack]] (adult & paeds)
 ## Adult stable asthma management
 See [[asthma- drugs]]. 
-1. Reliever: SABA (if < 3 attacks)
+1. **Reliever**: SABA (if < 3 attacks- excessive use of SABA to relieve acute asthma symptoms may mask progression of the underlying disease and contribute to an increased risk of severe and potentially life-threatening asthma exacerbations. So [always give with ICS](https://www.sign.ac.uk/our-guidelines/british-guideline-on-the-management-of-asthma/). )
 2. Add regular preventer: SABA + Low dose ICS (beclomethasone)
 3. SABA + low ICS + LTRA
 4. SABA + low ICS + LABA +/- LTRA
@@ -66,4 +66,4 @@ Reduce inhaled steroids by 25-50% at a time.
 # Drugs to avoid in Asthma
 Beta Blockers- As salbutamol is a beta agonist and opens airways, we can make sense that beta blocker will worsen airway constriction. 
 - In pre-eclampsia with asthma, you'll choose [[calcium channel blockers|Nifedipine]] instead of Labetalol. #confusion 
-Avoid aspirin & NSAIDs in [[samter's triad]] 
+Avoid aspirin & [[NSAID]]s in [[samter's triad]] 

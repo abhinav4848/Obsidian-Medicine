@@ -5,8 +5,7 @@ tags:
 aliases:
   - Breast Cancer
 ---
-**Most imp risk**
-[[cancer- risk factors|family History]], COCP, *early menarche?*
+Most imp risk: [[cancer- risk factors|Family History]], COCP, *early menarche?*
 
 **Genes & tumour marker** 
 BRCA 1, BRCA 2 (AD with incomplete penetrance) for Breast & Ovary. 
