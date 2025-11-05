@@ -28,10 +28,15 @@ Usually amenable to surgery.
 3. large cell neuroendocrine carcinoma (5%)
 4. carcinoid tumour (5%)
 
-#### Paraneoplastic syndrome from Squamous cell carcinoma
-SCC bronchus -> Releases PTH-like molecules (but actual PTH will be low) -> [[Hypercalcemia]]. 
-More common than SIADH.
-- Serum PTH will be low (1* & 3* Hyperparathyroidism ruled out)
+### Paraneoplastic syndrome from Squamous cell carcinoma
+SqCC bronchus -> Releases PTH-like molecules (but actual PTH will be low) -> [[Hypercalcemia]]. 
+More common than paraneoplastic SIADH.
+- Serum PTH will be low (1* & 3* [[hyperparathyroidism]] ruled out)
 - Then check ALP -> high ALP (+ high Ca) means bone metastasis.
 
 Clubbing, Hyperthyroidism due to ectopic TSH.
+# Investigation
+CXR- first line for suspected lung cancer. 
+10% of patients subsequently diagnosed with lung cancer had normal CXR. 
+CT- IoC for suspected lung cancer
+Bronchoscopy- to take biopsy

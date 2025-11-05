@@ -2,7 +2,7 @@
 tags:
   - endocrine
 ---
-**CKD & PO4**
+# CKD & PO4
 PTH is phosphaturic -> prevents resorption, but kidneys must excrete PO4 first for PTH to even prevent resorption-> CKD kidneys can't excrete PO4 so all calcium gets used up in Ca3(PO4)2.
 
 Kidneys synthesize Vit D.
@@ -11,6 +11,8 @@ Remember that 10% of Primary Hyperparathyroidism have normal PTH but low PO4.
 
 **Rx**: for Primary hyperthyroidism: Parathyroidectomy.
 If patient can't tolerate surgery, Cinacalcet
+
+# Types of Hyperparathyroidism
 
 | Hyperparathyroidism | Note                                                                                                                                         | PTH         | Calcium                                                            | PO4         | Vit D    |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------ | ----------- | -------- |

@@ -10,9 +10,9 @@ Defined as "the passage of large volumes (>3 L/24 hr.) of dilute urine (< 300 mO
 Dilute urine = Low Osmolality Urine.
 # Types:
 ## Cranial
-Low ADH Production. Responds to Desmopressin (e.g. [[Sarcoidosis]] -> Infective process of hypothalamus)
+Low ADH Production. Responds to Desmopressin (e.g. [[Sarcoidosis]] -> involvement of hypothalamus)
 ## Nephrogenic
-Kidney resistant to ADH. (e.g. Lithium, Hypercalcemia, Hypokalemia) -> eg:
+Kidney resistant to ADH. (e.g. Lithium, Hypercalcemia, Hypokalemia)
 ### Hypokalemia
 Low K+ can cause Na+/2Cl/K+ pump to fail so Na+ not reabsorbed -> Urine Na loss & polyuria.
 
