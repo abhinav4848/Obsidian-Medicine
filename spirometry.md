@@ -4,6 +4,7 @@ aliases:
 tags:
   - respiratory
 ---
+Normal ratio of FEV1:FVC is 0.8
 # Obstructive cause (FEV1/FVC: <0.7)
 #confusion 
 ## Asthma
@@ -29,16 +30,9 @@ If couldn't diagnose, do treat to diagnose method with 6 week course of ICS (or 
 
 # Restrictive cause
 (FEV1/FVC > 0.7)
+FEV1 ↓, FVC ↓, ratio normal or ↑
 
-[[lung fibrosis|pulmonary fibrosis]], 
-[[Sarcoidosis]], 
-Neuromuscular disorder
-Asbestosis
-ARDS
-Infant RDS
-Severe obesity
-Kyphoscoliosis e.g. [[ankylosing spondylitis]]
-
+See [[restrictive lung diseases]]
 
 ---
 # Nuances
