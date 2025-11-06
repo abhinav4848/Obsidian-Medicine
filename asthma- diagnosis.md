@@ -9,6 +9,7 @@ revision counter:
 #Triad: Chest tightness, Sob, Wheezing.
 Others: Nocturnal cough, Exercise induced wheeze, family history of asthma. 
 # Diagnose Asthma in Adults
+NICE has adopted a stepwise approach to diagnostic testing: you do a test; if it is positive, asthma is confirmed and no further testing is needed; if it is negative, you proceed to the next test, and so on.
 
 ![[diagnose asthma in people over 16yo.jpg]]
 ## First line investigation

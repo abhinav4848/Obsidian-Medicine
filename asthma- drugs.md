@@ -32,3 +32,8 @@ Analgesics:
 Tetracycline.
 Beta blocker (Bronchospasm), 
 ACE inhibitors (cough)
+
+# Drugs Licensed for Asthma
+- Budesonide + Formoterol licensed for MART from 6y
+- Budesonide + Formoterol licensed for AIR from 12y (200/6 or 160/4.5)
+- Beclometasone + Formoterol licensed for MART from 18y
