@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anticipatory meds.md",
+                "file": "bronchiectasis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "anticipatory meds"
+              "title": "bronchiectasis"
             }
           },
           {
@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#named",
+                "query": "spiromet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,7 +106,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -215,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hyperparathyroidism.md",
+                "file": "bronchiectasis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +226,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hyperparathyroidism"
+              "title": "Backlinks for bronchiectasis"
             }
           }
         ]
@@ -246,14 +247,19 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "d8cdb718f4d9c587",
+  "active": "609471f0190bcec3",
   "lastOpenFiles": [
+    "spirometry.md",
+    "ankylosing spondylitis.md",
+    "asthma- diagnosis.md",
+    "asthma- investigations.md",
+    "anticipatory meds.md",
+    "hyperparathyroidism.md",
     "cancer- lung.md",
     "rheumatoid arthritis.md",
     "cancer & associations.md",
     "diabetes Insipidus.md",
     "inflammatory bowel disease.md",
-    "spirometry.md",
     "copd.md",
     "ra vs osteoarthritis.md",
     "desktop.ini",
@@ -271,18 +277,13 @@
     "leukemia.md",
     "upper limb ortho problems.md",
     "osteoporosis.md",
-    "cancer- drugs involved in gynae cancers.md",
-    "cancer- breast (treatment).md",
     "attachments/monteggia vs galeazzi fracture.jpg",
-    "lower limb ortho problems.md",
     "attachments/mallet Finger.png",
     "attachments/dupuytren's contracture.png",
     "attachments/skier's thumb.png",
     "attachments/jersey finger.png",
     "attachments/de quervain synovitis.png",
     "attachments/Boutonniere deformity.png",
-    "lung fibrosis.md",
-    "interstitial lung disease vs pneumonitis.md",
     "housekeeping/revise recent changes.base",
     "housekeeping/memorise.base",
     "attachments/Pasted image 20250927105611.png",

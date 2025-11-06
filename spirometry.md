@@ -10,7 +10,7 @@ tags:
 BDR with spirometry is [[asthma- diagnosis|2nd line test]] to diagnose asthma. Here, spirometry improves after bronchodilators (reversible obstruction).
 Also, [[asthma- investigations#Peak expiratory flow (PEF) variability|asthma worse at night]] & early morning so Peak flow will show variability
 ## COPD
-[[copd|COPD]]: FEV1/FVC remains <0.7 even after bronchodilator.
+[[copd|COPD]]: FEV1/FVC remains <0.7 even after bronchodilator. This can be expressed in percentage, so <70%. 
 
 | Post-bronchodilator FEV1/FVC | FEV1 (of predicted) | COPD Severity                                                                  |
 | ---------------------------- | ------------------- | ------------------------------------------------------------------------------ |
@@ -30,4 +30,17 @@ If couldn't diagnose, do treat to diagnose method with 6 week course of ICS (or 
 # Restrictive cause
 (FEV1/FVC > 0.7)
 
-Pulmonary fibrosis, [[Sarcoidosis]]
+[[lung fibrosis|pulmonary fibrosis]], 
+[[Sarcoidosis]], 
+Neuromuscular disorder
+Asbestosis
+ARDS
+Infant RDS
+Severe obesity
+Kyphoscoliosis e.g. [[ankylosing spondylitis]]
+
+
+---
+# Nuances
+- Asthma - reversibility is pathognomonic. FEV1/FVC can be normal non-obstructive.   
+- [[Bronchiectasis]] - only in severe cases can develop into obstructive pattern but most patients with bronchiectasis have normal FEV1/FVC
