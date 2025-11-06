@@ -8,7 +8,7 @@ aliases:
 # ILD
 An umbrella term describing any lung disorder that primarily affects the interstitium. [[Lung fibrosis]] is the end stage of ILD. 
 ## Causes
-Leflunomide and Sulfasalazine cause ILD while MTX is more associated with pneumonitis.
+Leflunomide and Sulfasalazine cause ILD while MTX is more associated with pneumonitis. 
 
 ---
 # Pneumonitis 

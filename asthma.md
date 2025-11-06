@@ -6,6 +6,7 @@ aliases:
   - management of stable asthma in children
   - Step down treatment of Asthma
   - treatment of asthma
+  - asthma- treatment (old)
 urls:
   - https://www.brit-thoracic.org.uk/document-library/guidelines/asthma/btssign-asthma-guideline-quick-reference-guide-2019/
 ---
@@ -17,6 +18,8 @@ Diagnosis: [[asthma- diagnosis]].
 - [[asthma- acute attack]] (adult & paeds)
 ## Adult stable asthma management
 See [[asthma- drugs]]. 
+⭐see [[asthma- new management 2024]]. 
+
 1. **Reliever**: SABA (if < 3 attacks- excessive use of SABA to relieve acute asthma symptoms may mask progression of the underlying disease and contribute to an increased risk of severe and potentially life-threatening asthma exacerbations. So [always give with ICS](https://www.sign.ac.uk/our-guidelines/british-guideline-on-the-management-of-asthma/). )
 2. Add regular preventer: SABA + Low dose ICS (beclomethasone)
 3. SABA + low ICS + LTRA
@@ -24,11 +27,13 @@ See [[asthma- drugs]].
 5. SABA + low MART* (ICS+LABA) +/- LTRA
 6. SABA + med MART (ICS+LABA) +/- LTRA
 7. SABA +/- LTRA +
-	1. Increase to high dose ICS (not as MART), or
+	1. Increase to high dose ICS (not as MART. Done by specialist), or
 	2. trial of LAMA, theophylline
 	3. Seek expert opinion
 
-\* MART: Maintenance & Reliever therapy (has fast acting LABA)
+* MART: Maintenance & Reliever therapy (has fast acting LABA)
+
+If Asthma not controlled despite med MART, check for type 2 inflammation using Blood eosinophil + FeNO. If either raised-> specialist, else continue to LTRA/LAMA
 
 **Unique case**: Stable asthma, with just exercise induced SoB: LTRA > Sodium cromoglicate.
 ### Inhaler Technique
