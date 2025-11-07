@@ -42,18 +42,19 @@ see [[asthma|asthma- treatment (old)]]
 | SABA + moderate-dose ICS  <br>SABA + moderate-dose ICS/LABA  <br>SABA + moderate-dose ICS + LTRA or LAMA  <br>SABA + moderate-dose ICS/LABA + LTRA or LAMA | Regular moderate-dose MART therapy                                                                     |
 | Treatment regime containing a high-dose ICS                                                                                                                | test FeNO/Eosinophil & treat as per result (See step 4 above)<br><br>Refer to a respiratory specialist |
 # Asthma Management 5-11yo
-Start with Paediatric low dose ICS + SABA inhaler
+**Step 1**: Start with Paediatric low dose ICS + SABA inhaler
 
 If need to step up to MART, assess if able to use device & okay with use of unlicensed product for those <6yo ([[asthma- drugs#Drugs Licensed for Asthma]])
 
 ✅if yes for MART:
 
-**Step 1**: Switch to paediatric low-dose MART
+**Step 2**: Switch to paediatric low-dose MART
 - ICS-Formoterol 100/6 + PRN of the same inhaler
-- low dose: Budesonide 100-200mcg/day
+- *low dose: Budesonide 100-200mcg/day*
 
-**Step 2**: Increase to paediatric moderate-dose MART
+**Step 3**: Increase to paediatric moderate-dose MART
 - ICS-Formoterol 100/6 + PRN of the same inhaler
-- moderate dose: Budesonide 300-400mcg/day
+- *moderate dose: Budesonide 300-400mcg/day*
 
 ❌if not, use [[asthma- old management#Child stable asthma management]]
+

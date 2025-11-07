@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asthma.md",
+                "file": "asthma- old management.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "asthma"
+              "title": "asthma- old management"
             }
           },
           {
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asthma- new management 2024.md",
+                "file": "asthma- old management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for asthma- new management 2024"
+              "title": "Backlinks for asthma- old management"
             }
           }
         ]
@@ -251,12 +251,12 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "53d75b324009aea9",
+  "active": "609471f0190bcec3",
   "lastOpenFiles": [
-    "asthma- old management.md",
     "asthma- new management 2024.md",
-    "asthma- drugs.md",
+    "asthma- old management.md",
     "asthma.md",
+    "asthma- drugs.md",
     "asthma- diagnosis.md",
     "attachments/asthma management in adults 2024 guidelines.png",
     "interstitial lung disease vs pneumonitis.md",
