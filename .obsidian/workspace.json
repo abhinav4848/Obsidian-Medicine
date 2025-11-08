@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asthma- old management.md",
+                "file": "asthma- new management 2024.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for asthma- old management"
+              "title": "Backlinks for asthma- new management 2024"
             }
           }
         ]
@@ -251,10 +251,10 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "609471f0190bcec3",
+  "active": "53d75b324009aea9",
   "lastOpenFiles": [
-    "asthma- new management 2024.md",
     "asthma- old management.md",
+    "asthma- new management 2024.md",
     "asthma.md",
     "asthma- drugs.md",
     "asthma- diagnosis.md",
