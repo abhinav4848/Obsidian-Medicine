@@ -28,7 +28,7 @@ urls:
     - if neither is raised, add on LTRA/LAMA to mod MART
     - if control has not improved, stop the LTRA or LAMA and start a trial of the alternative medicine (LTRA or LAMA)
 ## Step 5
-- refer people to a specialist in asthma care when asthma is not controlled despite treatment with moderate-dose MART, and trials of an LTRA and a LAMA
+- If still not controlled after moderate-dose MART + trials of an LTRA and a LAMA ->refer people to a specialist in asthma care. 
 
 ![[asthma management in adults 2024 guidelines.png]]
 

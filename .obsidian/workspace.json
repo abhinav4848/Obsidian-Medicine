@@ -55,8 +55,7 @@
               "title": "asthma management in adults 2024 guidelines"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/asthma management in adults 2024 guidelines.png",
+                "file": "hyperparathyroidism.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +227,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for asthma management in adults 2024 guidelines"
+              "title": "Backlinks for hyperparathyroidism"
             }
           }
         ]
@@ -249,14 +248,14 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "b0260efc4bdf6f1a",
+  "active": "d8cdb718f4d9c587",
   "lastOpenFiles": [
     "asthma- new management 2024.md",
+    "attachments/asthma management in adults 2024 guidelines.png",
     "asthma- old management.md",
     "asthma.md",
     "asthma- drugs.md",
     "asthma- diagnosis.md",
-    "attachments/asthma management in adults 2024 guidelines.png",
     "interstitial lung disease vs pneumonitis.md",
     "antiemetics.md",
     "lung fibrosis.md",
@@ -278,7 +277,6 @@
     "nsaid.md",
     "methotrexate.md",
     "diabetes treatment.md",
-    "gout.md",
     "attachments/trigger finger (stenosing tenosynovitis).png",
     "attachments/monteggia vs galeazzi fracture.jpg",
     "attachments/mallet Finger.png",

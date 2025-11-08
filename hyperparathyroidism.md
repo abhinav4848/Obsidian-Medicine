@@ -14,11 +14,11 @@ If patient can't tolerate surgery, Cinacalcet
 
 # Types of Hyperparathyroidism
 
-| Hyperparathyroidism | Note                                                                                                                                         | PTH         | Calcium                                                            | PO4         | Vit D    |
-| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------ | ----------- | -------- |
-| Primary             | Commonest cause is PTH adenoma. High Ca should cause low PTH, but PTH staying normal means hyper-.<br><br>  <br>(→ osteitis fibrosa cystica) | Normal/High | [[hypercalcemia\|High]] (polydipsia, polyuria)<br><br>+ Raised ALP | Low         | N/low    |
-| Secondary           | High PTH due to existing Hypocalcemia, especially secondary to CKD                                                                           | High        | Low/normal                                                         | High/normal | Very low |
-| Tertiary            | End stage renal failure                                                                                                                      | Very high   | High                                                               | High        | N/Low    |
+| Hyperparathyroidism | Note                                                                                                                                          | PTH         | Calcium                                                            | PO4         | Vit D    |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------ | ----------- | -------- |
+| Primary             | Commonest cause is PTH adenoma. High Ca should cause low PTH, but PTH staying normal means primary.<br><br>  <br>(→ osteitis fibrosa cystica) | Normal/High | [[hypercalcemia\|High]] (polydipsia, polyuria)<br><br>+ Raised ALP | Low         | N/low    |
+| Secondary           | High PTH due to existing Hypocalcemia, especially secondary to CKD                                                                            | High        | Low/normal                                                         | High/normal | Very low |
+| Tertiary            | End stage renal failure                                                                                                                       | Very high   | High                                                               | High        | N/Low    |
 
 
 *See: [[paget's disease of bone|this for more comparison]].*
