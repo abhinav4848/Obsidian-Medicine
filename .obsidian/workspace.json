@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paget's disease of bone.md",
+                "file": "biochemical differences in different ortho conditions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "paget's disease of bone"
+              "title": "biochemical differences in different ortho conditions"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.50446319580078
+    "width": 234.50446319580078
   },
   "right": {
     "id": "18cd351862e29aca",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paget's disease of bone.md",
+                "file": "biochemical differences in different ortho conditions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for paget's disease of bone"
+              "title": "Backlinks for biochemical differences in different ortho conditions"
             }
           }
         ]
@@ -217,9 +217,15 @@
   },
   "active": "d8cdb718f4d9c587",
   "lastOpenFiles": [
-    "asthma- new management 2024.md",
+    "osteomalacia.md",
+    "biochemical differences in different ortho conditions.md",
     "paget's disease of bone.md",
+    "polymyositis.md",
+    "sarcoidosis.md",
     "hyperparathyroidism.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "asthma- new management 2024.md",
     "attachments/asthma management in adults 2024 guidelines.png",
     "asthma- old management.md",
     "asthma.md",
@@ -241,10 +247,6 @@
     "diabetes Insipidus.md",
     "inflammatory bowel disease.md",
     "copd.md",
-    "ra vs osteoarthritis.md",
-    "nsaid.md",
-    "methotrexate.md",
-    "diabetes treatment.md",
     "attachments/trigger finger (stenosing tenosynovitis).png",
     "attachments/monteggia vs galeazzi fracture.jpg",
     "attachments/mallet Finger.png",
@@ -264,7 +266,6 @@
     "_learnie",
     "attachments/a",
     "attachments/New folder",
-    "Test Base.base",
     "_chicken Pox treatment flowchart (Work in progress).canvas",
     "hypertension management.canvas",
     "Chicken Pox treatment flowchart (Work in progress).canvas"
