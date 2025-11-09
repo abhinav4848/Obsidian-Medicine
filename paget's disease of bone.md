@@ -6,8 +6,8 @@ aliases:
   - osteitis deformans
   - Paget's
 ---
-Paget's disease is a bone making process gone out of control.
-Affected region is warmer due to increased blood flow. Also leads to high output HF.
+Paget's disease of bone (PDB) is a chronic, localized, bone remodelling disorder characterized by increased bone resorption, bone formation, and remodelling, which may lead to major long bone and skull deformities.
+	Affected region is warmer due to increased blood flow. Also leads to high output HF.
 
 Knee pain, back pain, kyphosis, hearing loss (due to 8th nerve affected in Paget of skull).
 
