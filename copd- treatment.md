@@ -47,7 +47,6 @@ Standby medication: NICE recommend offering a short course of oral corticosteroi
 - have had an exacerbation within the last year
 - understand how to take the medication, and are aware of associated risks and benefits
 - know to when to seek help and when to ask for replacements once medication has been used
-# Cor pulmonale 
-- Peripheral edema, raised JVP, systolic parasternal heave, Loud P2
-- Use loop diuretic for edema, consider [[copd|LTOT]]
-- Don't use- ACE-inhibitors, CCB and alpha-blockers. 
+
+# Cor Pulmonale
+[[cor pulmonale]]

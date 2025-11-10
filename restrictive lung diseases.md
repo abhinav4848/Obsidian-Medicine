@@ -26,4 +26,4 @@ Structures around lungs are damaged- prevents chest expansion
 Reduced TLC, FEV1, FVC
 But FEV1:FVC stay same or increases
 
-In ILD, Fibrosis in the lung leads to pulmonary HTN which leads to RVH -> cor pulmonale. 
+In ILD, Fibrosis in the lung leads to pulmonary HTN which leads to RVH -> [[cor pulmonale]]. 

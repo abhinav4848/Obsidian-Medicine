@@ -37,4 +37,4 @@ HRCT for idiopathic pulmonary fibrosis.
 CXR: bilateral interstitial shadowing
 
 # Management
-LTOT
+[[long term oxygen therapy|LTOT]]

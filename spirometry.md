@@ -19,15 +19,9 @@ Also, [[asthma- investigations#Peak expiratory flow (PEF) variability|asthma wor
 | < 0.7                        | 50-79%              | Stage 2 - Moderate                                                             |
 | < 0.7                        | 30-49%              | Stage 3 - Severe                                                               |
 | < 0.7                        | < 30%               | Stage 4 - Very severe                                                          |
-**Frequent Exacerbation**: Defined as >=2 exacerbations in the last 12 months despite being on triple inhaled therapy. 
-
-Hyperinflated lung on CXR: > 7 ribs seen.
 
 Ratio of <0.7 needed for diagnosis of COPD. 
 Severity then classified using the FEV1 % of predicted.
-
-If couldn't diagnose, do treat to diagnose method with 6 week course of ICS (or few days of Oral steroid)-> If symptoms (Wheeze, SOB, cough) improve-> Asthma.
-
 # Restrictive cause
 (FEV1/FVC > 0.7)
 FEV1 ↓, FVC ↓, ratio normal or ↑
