@@ -2,7 +2,8 @@
 aliases:
   - Acute exacerbation of COPD
   - Infective exacerbation of COPD
-  - Noninfective exacerbation of COPD
+  - Non-infective exacerbation of COPD
+  - COPD- acute exacerbation
 tags:
   - respiratory
 urls:

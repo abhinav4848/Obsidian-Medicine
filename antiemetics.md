@@ -17,7 +17,7 @@ Six broad nausea and vomiting syndromes
 
 **Chemically mediated**
 - Secondary to hypercalcaemia, opioids, or chemotherapy
-- Can use Ondansetron, Haloperidol, Levomepromazine
+- Can use [[Ondansetron]], Haloperidol, Levomepromazine
 
 **Visceral/Serosal**
 - Due to constipation

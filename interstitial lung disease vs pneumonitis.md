@@ -4,6 +4,8 @@ tags:
   - confusion
 aliases:
   - ILD
+  - interstitial lung disease
+  - pneumonitis
 ---
 # ILD
 An umbrella term describing any lung disorder that primarily affects the interstitium. [[Lung fibrosis]] is the end stage of ILD. 

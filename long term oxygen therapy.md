@@ -1,6 +1,7 @@
 ---
 aliases:
   - LTOT
+  - Oxygen therapy
 tags:
   - respiratory
 ---

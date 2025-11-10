@@ -2,6 +2,7 @@
 tags:
   - psychiatry
   - pharmacology
+  - palliative
 ---
 First gen [[antipsychotic drugs|antipsychotic]]. 
 Antagonist on D2, alpha-1, sigma receptors. 

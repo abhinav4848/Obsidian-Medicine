@@ -1,6 +1,7 @@
 ---
 tags:
   - pharmacology
+  - respiratory
 ---
 # Meds
 - Bupropion: Norepinephrine and dopamine reuptake inhibitor, and nicotinic acetylcholine antagonist.

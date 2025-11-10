@@ -13,16 +13,16 @@ NICE has adopted a stepwise approach to diagnostic testing: you do a test; if it
 
 ![[diagnose asthma in people over 16yo.jpg]]
 ## First line investigation
-Measure eosinophil count OR Fractional Nitric Oxide ([[asthma- investigations|FeNO]])
+Measure eosinophil count OR Fractional Nitric Oxide ([[asthma- investigations#Fractional exhaled nitric oxide (FeNO)|FeNO]])
 Can diagnose asthma without further investigations if:
 - Eosinophil above reference range
 - FeNO >= 50ppb.
 ## Second line investigation
 If asthma not confirmed by above tests,
 - Measure bronchodilator reversibility (BDR) with [[spirometry]]. Diagnose asthma if:
-	- FEV1 increases >=12%, and >=200ml from pre BD measurement, or
+	- FEV1 increases >=12%, and >=200ml from pre-BD measurement, or
 	- FEV1 increases >=10% of predicted normal FEV1
-- Otherwise do PEF (peak expiratory flow) twice daily for 2 weeks. Diagnose asthma if:
+- If BDR not available, do PEF (peak expiratory flow) twice daily for 2 weeks. Diagnose asthma if:
 	- PEF Variability (expressed as 'amplitude percentage mean') > 20%  seen after monitoring at least BD for 2-4 weeks. 
 ## Third line
 If asthma still not confirmed with Eosinophil count, FeNO, BDR, PEF variability but still suspected on clinical grounds:

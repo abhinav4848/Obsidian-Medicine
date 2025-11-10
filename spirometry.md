@@ -8,7 +8,7 @@ Normal ratio of FEV1:FVC is 0.8
 # Obstructive cause (FEV1/FVC: <0.7)
 #confusion 
 ## Asthma
-BDR with spirometry is [[asthma- diagnosis|2nd line test]] to diagnose asthma. Here, spirometry improves after bronchodilators (reversible obstruction).
+BDR with spirometry is [[asthma- diagnosis|2nd line test]] to diagnose asthma. Here, spirometry improves after bronchodilators (reversible obstruction). 
 Also, [[asthma- investigations#Peak expiratory flow (PEF) variability|asthma worse at night]] & early morning so Peak flow will show variability
 ## COPD
 [[copd|COPD]]: FEV1/FVC remains <0.7 even after bronchodilator. This can be expressed in percentage, so <70%. 

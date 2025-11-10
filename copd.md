@@ -2,6 +2,7 @@
 aliases:
   - chronic obstructive pulmonary disease
   - COPD
+  - COPD- diagnosis
 tags:
   - respiratory
 ---
@@ -11,12 +12,12 @@ tags:
 2. Chronic cough
 3. Regular sputum production >3 months.
 4. Frequent winter 'bronchitis' wheeze
-
+## vs Asthma
 Night time waking with breathlessness and/or wheeze is more [[asthma]].
 Significant diurnal or day-to-day variability of symptoms is more asthma.
 Symptoms in age <35 are more common in asthma.
 
-**Frequent Exacerbation**: Defined as >=2 exacerbations in the last 12 months despite being on triple inhaled therapy. 
+---
 ## Imaging
 - Hyperinflated lung
 - More than 7 posterior ribs seen (Hyperinflated lung)
@@ -27,6 +28,14 @@ Symptoms in age <35 are more common in asthma.
 You must confirm COPD by [[spirometry#COPD|spirometry]]. 
 
 If couldn't diagnose, do treat to diagnose method with 6 week course of ICS (or few days of Oral steroid)-> If symptoms (Wheeze, SOB, cough) improve-> Asthma. 
+
+---
+# Complication
+## Cor Pulmonale
+[[cor pulmonale]]
+
+---
 # Treatment
 [[COPD- Treatment]] 
+[[COPD- acute exacerbation]]
 [[Long term oxygen therapy]] 

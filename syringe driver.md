@@ -13,7 +13,7 @@ The majority of drugs are compatible with water for injection although for the f
 - ketamine
 - ketorolac
 - octreotide
-- ondansetron
+- [[ondansetron]]
 # Commonly used drugs
 - nausea and vomiting: cyclizine, levomepromazine, haloperidol, metoclopramide
 - respiratory secretions/bowel colic: hyoscine hydrobromide, hyoscine butylbromide, or glycopyrronium bromide.
