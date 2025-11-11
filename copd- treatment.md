@@ -7,6 +7,7 @@ urls:
   - https://www.nice.org.uk/guidance/ng115/resources/visual-summary-treatment-algorithm-pdf-6604261741
   - https://www.nice.org.uk/guidance/ng115/chapter/Recommendations
 ---
+
 >[!info]
 >COPD- need annual influenza vaccine. 
 >MRC score > 3, needs pulmonary rehab. 

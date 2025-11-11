@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "copd.md",
+                "file": "spirometry.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "copd"
+              "title": "spirometry"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "erythrom",
+                "query": "cor pu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "copd.md",
+                "file": "spirometry.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for copd"
+              "title": "Backlinks for spirometry"
             }
           }
         ]
@@ -218,12 +218,16 @@
   },
   "active": "d8cdb718f4d9c587",
   "lastOpenFiles": [
+    "asthma- diagnosis.md",
     "copd- treatment.md",
+    "spirometry.md",
     "copd.md",
+    "long term oxygen therapy.md",
+    "cor pulmonale.md",
+    "smoking.md",
     "asthma.md",
     "copd- acute exacerbation.md",
     "asthma- drugs.md",
-    "smoking.md",
     "mrc dyspnoea scale.md",
     "qt prolongation.md",
     "haloperidol.md",
@@ -235,12 +239,8 @@
     "hypokalemia.md",
     "attachments/ecg- segments and intervals.jpg",
     "bronchiectasis.md",
-    "asthma- diagnosis.md",
-    "cor pulmonale.md",
-    "spirometry.md",
     "asthma- investigations.md",
     "hypoxic pulmonary vasoconstriction.md",
-    "long term oxygen therapy.md",
     "lung fibrosis.md",
     "interstitial lung disease vs pneumonitis.md",
     "restrictive lung diseases.md",

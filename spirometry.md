@@ -18,10 +18,11 @@ Also, [[asthma- investigations#Peak expiratory flow (PEF) variability|asthma wor
 | < 0.7                        | > 80%               | Stage 1 - Mild - symptoms should be present to diagnose COPD in these patients |
 | < 0.7                        | 50-79%              | Stage 2 - Moderate                                                             |
 | < 0.7                        | 30-49%              | Stage 3 - Severe                                                               |
-| < 0.7                        | < 30%               | Stage 4 - Very severe                                                          |
+| < 0.7                        | < 30%               | Stage 4 - Very severe- consider [[long term oxygen therapy\|LTOT]].            |
 
 Ratio of <0.7 needed for diagnosis of COPD. 
 Severity then classified using the FEV1 % of predicted.
+Don't do [[copd- treatment#Asthmatic Features|new BDR to check for COPD]] with asthma features, as it can be misleading as per NICE. 
 # Restrictive cause
 (FEV1/FVC > 0.7)
 FEV1 ↓, FVC ↓, ratio normal or ↑

@@ -25,5 +25,5 @@ Cor pulmonale is right ventricular (RV) enlargement and/or failure caused by pul
 - Loud P2 (pulmonary component of S2)
 - Sometimes cyanosis
 ## Management
-- Use loop diuretic for edema, consider [[copd|LTOT]]
+- Use loop diuretic for edema, consider [[long term oxygen therapy|LTOT]]. 
 - Don't use- ACE-inhibitors, CCB and alpha-blockers. 
