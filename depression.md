@@ -1,6 +1,8 @@
 ---
 tags:
   - psychiatry
+aliases:
+  - psychotropic drugs
 ---
 # Typical Antidepressants
 ## TCA
