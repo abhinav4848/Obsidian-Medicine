@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "granulomatosis with polyangiitis.md",
+                "file": "hypercalcemia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "granulomatosis with polyangiitis"
+              "title": "hypercalcemia"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "methotr",
+                "query": "paget",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -75,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "granulomatosis with polyangiitis.md",
+                "file": "hypercalcemia.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +194,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for granulomatosis with polyangiitis"
+              "title": "Backlinks for hypercalcemia"
             }
           }
         ]
@@ -216,11 +215,15 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "d8cdb718f4d9c587",
+  "active": "676efa40181a3294",
   "lastOpenFiles": [
+    "paget's disease of bone.md",
+    "biochemical differences in different ortho conditions.md",
+    "hypercalcemia.md",
+    "cancers metastasizing to the bone.md",
+    "granulomatosis with polyangiitis.md",
     "desktop.ini",
     "cytotoxic drugs.md",
-    "granulomatosis with polyangiitis.md",
     "granulomatous disease.md",
     "methotrexate.md",
     "depression.md",
@@ -241,10 +244,7 @@
     "syringe driver.md",
     "antiemetics.md",
     "metoclopramide.md",
-    "anticipatory meds.md",
-    "hypokalemia.md",
     "attachments/ecg- segments and intervals.jpg",
-    "bronchiectasis.md",
     "Untitled.base",
     "Untitled.canvas",
     "attachments/asthma management in adults 2024 guidelines.png",

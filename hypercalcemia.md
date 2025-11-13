@@ -6,15 +6,15 @@ Hypercalcemia / Hyperparathyroidism
 Hypercalcemia (Normal: 2.1 - 2.6mmol/L)
 # Aetiology
 - Primary [[hyperthyroidism]] (Associated with increased PTH, Decreased Phosphate). 
-- [[cancers metastasizing to the bone|Bone metastasis]] from Prostate, Breast, etc. 
+- [[cancers metastasizing to the bone|Bone metastasis]] from solid organs- Prostate, Breast, etc. 
 - [[cancer- lung|Squamous cell carcinoma Lung]]
-- Multiple myeloma ([[diff bw Osteoporosis, Pagets, osteomalacia, myeloma, meta, b cell lymphoma, sarcoidosis|ALP is normal]]) 
+- Multiple myeloma ([[biochemical differences in different ortho conditions|ALP is normal]]) 
 - Granuloma: [[Sarcoidosis]]/[[tuberculosis|TB]]/Histoplasmosis -> Sarcoidosis check serum ACE. 
 - Vit D intoxication, acromegaly, Thyrotoxicosis, [[Thiazides]], Ca containing antacids, Dehydration, Addison's, Paget's disease of bone
 # Signs
 First sign is drowsiness & increased thirst -> **Excessive thirst** presents with **hypercalcemia** first. Not hyponatremia.
 
-**Mnemonic**: Bones, Stones, Groans, Moans #mnemonic 
+**Mnemonic**: Bones, Stones, Groans, Moans #mnemonic - ONLY IN CHRONIC Hypercalcemia cuz these need time to develop. 
 
 | **Condition**             | Description                                                                                                                      |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
