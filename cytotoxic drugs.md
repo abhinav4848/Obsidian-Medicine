@@ -4,6 +4,7 @@ tags:
   - oncology
 aliases:
   - side effects of cancer drugs
+  - Cyclophosphamide
 ---
 # Platinum compounds
 *Peripheral neuropathy due to chemotherapy drugs:* 
@@ -12,6 +13,10 @@ Vincristine, Cisplatin, Carboplatin, Taxanes.
 - Longest nerves most commonly affected-> Symmetrical loss over the feet and hands first.  Progress to motor loss eventually.
 Vincristine crisps the nerves #mnemonic 
 Vinblastine blasts the marrow #mnemonic 
+
+# Cyclophosphamide
+risk of hemorrhagic cystitis due to the toxic metabolite acrolein, which accumulates in the bladder and causes inflammation and bleeding. To minimise this risk, patients are advised to maintain adequate hydration and may also be given mesna, a protective agent that binds acrolein.
+Can also cause myelosuppression, Transitional cell carcinoma. 
 # Chemo Man
 ![[chemo man.png]]
 

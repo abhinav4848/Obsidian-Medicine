@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "depression.md",
+                "file": "granulomatosis with polyangiitis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "depression"
+              "title": "granulomatosis with polyangiitis"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sertra",
+                "query": "methotr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "depression.md",
+                "file": "granulomatosis with polyangiitis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for depression"
+              "title": "Backlinks for granulomatosis with polyangiitis"
             }
           }
         ]
@@ -218,6 +218,11 @@
   },
   "active": "d8cdb718f4d9c587",
   "lastOpenFiles": [
+    "cytotoxic drugs.md",
+    "methotrexate.md",
+    "granulomatosis with polyangiitis.md",
+    "granulomatous disease.md",
+    "depression.md",
     "spirometry.md",
     "asthma- diagnosis.md",
     "desktop.ini",
@@ -241,10 +246,6 @@
     "attachments/ecg- segments and intervals.jpg",
     "bronchiectasis.md",
     "asthma- investigations.md",
-    "hypoxic pulmonary vasoconstriction.md",
-    "lung fibrosis.md",
-    "interstitial lung disease vs pneumonitis.md",
-    "restrictive lung diseases.md",
     "Untitled.base",
     "Untitled.canvas",
     "attachments/asthma management in adults 2024 guidelines.png",

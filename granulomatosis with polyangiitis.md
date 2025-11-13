@@ -15,3 +15,6 @@ Wegener's #named aka Granulomatosis with polyangiitis.
 Haemoptysis
 Nasal/Sinus problems. 
 
+
+# Treatment
+[[cytotoxic drugs|Cyclophosphamide]]. 
