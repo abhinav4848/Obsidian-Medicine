@@ -5,7 +5,7 @@ tags:
 Toxicity can be caused by DAMN (not to be confused with DAMN in [[diarrhoea|diarrhoea]]) #mnemonic #confusion 
 - Diuretics (Thiazides), 
 - [[ace inhibitors|ACE inhibitor]]/ARB, 
-- [[Metronidazole]], 
+- [[Metronidazole]]- it reduces excretion of Lithium, 
 - NSAIDs -> Reduces eGFR.
 
 Lithium can cause [[congenital cyanotic diseases of heart|Ebstein's anomaly]] in fetus #associated 

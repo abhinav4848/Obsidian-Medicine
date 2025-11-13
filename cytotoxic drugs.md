@@ -5,11 +5,12 @@ tags:
 aliases:
   - side effects of cancer drugs
   - Cyclophosphamide
+  - Chemo man
 ---
 # Platinum compounds
 *Peripheral neuropathy due to chemotherapy drugs:* 
 Vincristine, Cisplatin, Carboplatin, Taxanes.
-- Loss of DTR, Loss of pain & temp sensation (glove and stocking distribution)
+- Loss of DTR (deep tendon reflex), Loss of pain & temp sensation (glove and stocking distribution)
 - Longest nerves most commonly affected-> Symmetrical loss over the feet and hands first.  Progress to motor loss eventually.
 Vincristine crisps the nerves #mnemonic 
 Vinblastine blasts the marrow #mnemonic 
@@ -22,5 +23,5 @@ Can also cause myelosuppression, Transitional cell carcinoma.
 
 **Vincristine** for childhood cancers: Marrow sparing - Ewing, Wilms, ALL, HL
 
-**Capecitabine** becomes fluorouracil in body. Used for breast cancer and colorectal cancer.
+**Capecitabine** becomes fluorouracil in body. Used for [[cancer- breast (treatment)|Breast Cancer]] and [[cancer- colorectal|Colorectal cancer]]. 
 	-> Causes [[diarrhoea]]. Control with loperamide. If not controlled, stop capecitabine

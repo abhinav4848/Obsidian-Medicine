@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hypercalcemia.md",
+                "file": "metronidazole.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hypercalcemia"
+              "title": "metronidazole"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "paget",
+                "query": "chemo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -75,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hypercalcemia.md",
+                "file": "metronidazole.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +195,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hypercalcemia"
+              "title": "Backlinks for metronidazole"
             }
           }
         ]
@@ -215,15 +216,18 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "676efa40181a3294",
+  "active": "d8cdb718f4d9c587",
   "lastOpenFiles": [
+    "lithium.md",
+    "metronidazole.md",
+    "diarrhoea.md",
+    "cytotoxic drugs.md",
+    "hypercalcemia.md",
+    "desktop.ini",
     "paget's disease of bone.md",
     "biochemical differences in different ortho conditions.md",
-    "hypercalcemia.md",
     "cancers metastasizing to the bone.md",
     "granulomatosis with polyangiitis.md",
-    "desktop.ini",
-    "cytotoxic drugs.md",
     "granulomatous disease.md",
     "methotrexate.md",
     "depression.md",
@@ -241,9 +245,6 @@
     "qt prolongation.md",
     "haloperidol.md",
     "ondansetron.md",
-    "syringe driver.md",
-    "antiemetics.md",
-    "metoclopramide.md",
     "attachments/ecg- segments and intervals.jpg",
     "Untitled.base",
     "Untitled.canvas",
