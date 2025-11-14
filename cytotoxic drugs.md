@@ -12,7 +12,7 @@ aliases:
 Vincristine, Cisplatin, Carboplatin, Taxanes.
 - Loss of DTR (deep tendon reflex), Loss of pain & temp sensation (glove and stocking distribution)
 - Longest nerves most commonly affected-> Symmetrical loss over the feet and hands first.  Progress to motor loss eventually.
-Vincristine crisps the nerves #mnemonic 
+Vincristine crisps the nerves #mnemonic - it's reversible
 Vinblastine blasts the marrow #mnemonic 
 
 # Cyclophosphamide
@@ -25,3 +25,5 @@ Can also cause myelosuppression, Transitional cell carcinoma.
 
 **Capecitabine** becomes fluorouracil in body. Used for [[cancer- breast (treatment)|Breast Cancer]] and [[cancer- colorectal|Colorectal cancer]]. 
 	-> Causes [[diarrhoea]]. Control with loperamide. If not controlled, stop capecitabine
+
+Irinotecan, Hydroxyurea cause myelosuppression

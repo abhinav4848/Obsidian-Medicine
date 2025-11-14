@@ -14,7 +14,7 @@ urls:
 - a low-dose ICS/formoterol combination inhaler to be taken **as needed** (prn) for symptom relief
     - this is termed anti-inflammatory reliever (AIR) therapy #mnemonic AIR-prn
 - if the patient presents highly symptomatic (for example, regular nocturnal waking) or with a severe exacerbation:
-    - start treatment with low-dose MART (see step 2)
+    - start treatment with low-dose MART- Maintenance & Reliever therapy (see step 2)
     - treat the acute symptoms as appropriate (e.g. a course of oral corticosteroids may be indicated)
 ## Step 2
 [NICE](https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#pharmacological-management-in-people-aged-12-and-over:~:text=asthma%20management.-,Medicine%20combination%20and%20sequencing%20in%20people%20aged%2012%20and%20over,-For%20guidance%20on "NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)") 
@@ -26,7 +26,7 @@ urls:
 - If Asthma not controlled despite med MART, check for type 2 inflammation with FeNO & blood eosinophil count 
     - if either is raised, refer to a specialist in asthma care
     - if neither is raised, add on LTRA/LAMA to mod MART
-    - if control has not improved, stop the LTRA or LAMA and start a trial of the alternative medicine (LTRA or LAMA)
+	    - if control has not improved, stop the LTRA or LAMA and start a trial of the alternative medicine (LTRA or LAMA)
 ## Step 5
 - If still not controlled after moderate-dose MART + trials of an LTRA and a LAMA ->refer people to a specialist in asthma care. 
 

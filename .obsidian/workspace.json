@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nsaid.md",
+                "file": "pre-eclampsia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "nsaid"
+              "title": "pre-eclampsia"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nsaid",
+                "query": "copd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nsaid.md",
+                "file": "pre-eclampsia.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for nsaid"
+              "title": "Backlinks for pre-eclampsia"
             }
           }
         ]
@@ -218,9 +218,19 @@
   },
   "active": "d8cdb718f4d9c587",
   "lastOpenFiles": [
-    "desktop.ini",
+    "attachments/Pasted image 20251114224930.png",
+    "calcium channel blockers.md",
+    "pre-eclampsia.md",
     "asthma.md",
+    "asthma- old management.md",
+    "copd- treatment.md",
+    "asthma- new management 2024.md",
+    "rheumatoid arthritis.md",
+    "methotrexate.md",
+    "ectopic pregnancy.md",
+    "cytotoxic drugs.md",
     "nsaid.md",
+    "desktop.ini",
     "lithium.md",
     "congenital cyanotic diseases of heart.md",
     "metronidazole.md",
@@ -235,15 +245,6 @@
     "pcos.md",
     "addison's disease.md",
     "travel infections.md",
-    "leptospirosis.md",
-    "malaria.md",
-    "dengue.md",
-    "typhoid.md",
-    "epstein barr virus.md",
-    "tonsillitis.md",
-    "diphtheria.md",
-    "thrombocytopenia.md",
-    "diarrhoea.md",
     "attachments/ecg- segments and intervals.jpg",
     "Untitled.base",
     "Untitled.canvas",

@@ -14,7 +14,7 @@ urls:
 >There's risk of pneumonia in COPD patients using ICS. 
 # From NICE CKS 
 - Stop [[smoking]] (including nicotine replacement, varenicline or bupropion)
-- One off pneumococcal vaccine + annual influenza vaccine
+- One off pneumococcal vaccine + annual influenza vaccine #vaccine
 - Start with Bronchodilator therapy: [[asthma- drugs|SABA/SAMA]] (first line)
 - If ✅ \*[[asthma|asthmatic]] features suggesting steroid responsiveness -> LABA + ICS
 	- If still breathless/having exacerbations:
