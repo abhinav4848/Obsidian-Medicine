@@ -22,13 +22,13 @@ ECG: [[qt prolongation|long QT syndrome]], Depressed ST segment & T wave, U wave
 Predisposes to Digoxin toxicity.
 
 # Treatment
-The normal serum potassium is 3.5-5 mmol/I
+The normal serum potassium is 3.5-5 mmol/I.
+
 If K+ is < 2.5 Or, < 3 with ECG Changes "U wave"
 	-> IV potassium chloride. (e.g. 40 mmol KCI in 1 L Normal Saline IV infusion)
 
 If K+ >= 2.5, without ECG changes
 	-> Oral Potassium Supplements.
 
-Remember to order Magnesium and ABG to exclude Metabolic Alkalosis.
-
-**Magnesium** inhibits the ROMK channel in the tubule (I think DCT). Lack of inhibition of this channel causes massive potassium losses in the urine in hypomagnesaemia
+Remember to order [[Magnesium]] and ABG to exclude Metabolic Alkalosis. #important 
+- **Magnesium** inhibits the ROMK channel in the tubule (I think DCT). Lack of inhibition of this channel causes massive potassium losses in the urine in hypomagnesaemia. So in hypokalemia, check magnesium levels
