@@ -36,13 +36,13 @@ Tetralogy of Fallot (TOF) is the most common cause of cyanotic congenital heart 
 # TGA
 presents within the first 24 hours of life.
 
+---
 # Duct dependent cardiac lesions
-Tetralogy of fallot, ebstein’s anomaly, pulmonary atresia and pulmonary stenosis.
+Tetralogy of Fallot, ebstein’s anomaly, pulmonary atresia and pulmonary stenosis.
 
 The PDA is allowing oxygenated blood to still get to the aorta, and deoxygenated to the lungs, less efficiently than if it was just a normal healthy heart without PDA, but the PDA is compensating for the cyanotic effect of the cardiac anomaly
 
 They are often diagnosed antenatally but may present at birth with
-
 1. cyanosis,
 2. tachypnoea and
 3. poor peripheral pulses.

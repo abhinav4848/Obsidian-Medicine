@@ -5,8 +5,7 @@ tags:
   - infection
 ---
 Caused by spirochetes.
-
-Weil is a Severe form of lepto which is icteric. ([patient.info](https://patient.info/doctor/leptospirosis-weils-disease))
+Weil is a severe form of Leptospirosis which is icteric. ([patient.info](https://patient.info/doctor/leptospirosis-weils-disease))
 
 h/o [[travel infections|travel]] + Water exposure (Swimming/ Fishing/ Rowing/canoeing) ± Contact with Animals.
 # Clinical features

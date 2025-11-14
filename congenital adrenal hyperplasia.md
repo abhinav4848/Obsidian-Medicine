@@ -17,7 +17,7 @@ It may present in neonates and children with the following features:
 **Female**
 	Ambiguous genitalia 
 **Male**
-	Penile Enlargement, Hyperpigmentation, testes small (so they're not the cause for androgen -> Adrenal is.)
+	Penile Enlargement, [[hyperpigmentation]], testes small (so they're not the cause for androgen -> Adrenal is.)
 **Infant Male**
 	Salt Wasting (due to Aldosterone deficiency)
 - -> Vomiting, Weight Loss, Lethargy, Dehydration, low Na+, High K+

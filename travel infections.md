@@ -9,3 +9,4 @@ tags:
 [[Dengue]]: Far East Asia (e.g. Indonesia, Bangkok)
 [[Typhoid]]: South America
 [[Diphtheria]]: India
+[[leptospirosis|Weil's Disease]]

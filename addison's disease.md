@@ -9,7 +9,7 @@ aliases:
 Due to autoimmune in developed world, TB in developing.
 
 ## High ACTH
-**Hyperpigmentation** (Can also be seen in case of ACTH secreting tumour (ACTH dependent [[cushing's syndrome]])).
+[[Hyperpigmentation]] (Can also be seen in case of ACTH secreting tumour (ACTH dependent [[cushing's syndrome]])).
 	Hyperpigmentation (of buccal mucosa, palmar creases -> only in primary Addison's) #important 
 
 **Low cortisol**: Postural hypotension, Hypoglycemia.

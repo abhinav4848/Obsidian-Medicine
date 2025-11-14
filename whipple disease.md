@@ -6,10 +6,9 @@ tags:
 - Malabsorption: [[diarrhoea]], weight loss
 - large-joint arthralgia
 - lymphadenopathy
-- Skin: hyperpigmentation and photosensitivity
+- Skin: [[hyperpigmentation]] and photosensitivity
 - Heart: Pleurisy, pericarditis, Endocarditis
 - CNS (rare): ophthalmoplegia, dementia, seizures, ataxia, myoclonus.
-  
 # Investigation
 Jejunal biopsy shows Stunted Villi and deposition of macrophages containing Periodic acid-Schiff (PAS) granules. Diagnostic #important 
   

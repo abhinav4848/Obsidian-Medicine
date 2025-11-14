@@ -9,7 +9,7 @@ Assoc with [[sjogren's syndrome|Sjogren Syndrome]]
 -> Seen with 1* biliary cirrhosis, and chronic [[hepatitis viruses|hep c]]
 
 Patient comes with fatigue/lethargy, **pruritus**, no weight loss. 
-**Others**: cholestatic jaundice, hyperpigmentation over pressure points, xanthelasma.
+**Others**: cholestatic jaundice, [[hyperpigmentation]] over pressure points, xanthelasma.
 
 Can lead to [[cirrhosis|liver cirrhosis]] & [[cancer- liver|HCC]]. 
 ### M rule: 
