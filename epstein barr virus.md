@@ -5,11 +5,12 @@ tags:
 aliases:
   - EBV
   - Infectious Mononucleosis
+  - glandular fever
 ---
 Aka Mono/glandular fever -> Seen in adolescents.
 
 # Clinical Features
-**Triad**: Fever, pharyngitis (sore throat), Cervical LNE (other sites also)-> exudative tonsils. 
+#Triad : Fever, pharyngitis (sore throat), Cervical LNE (other sites also)-> exudative tonsils. 
 	In [[tonsillitis]] -> Only anterior chain of LN affected
 	In EBV-> Both anterior & posterior chain of LN affected.
 Hepatosplenomegaly, Jaundice -> Anaemia.

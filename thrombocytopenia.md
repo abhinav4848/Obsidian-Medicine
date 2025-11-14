@@ -1,6 +1,10 @@
 ---
 tags:
   - hematology
+aliases:
+  - drug induced thrombocytopenia
+  - low platelet
+  - decreasing platelet
 ---
 # Drug-induced thrombocytopenia (probable immune-mediated)
 - [[Quinine]]

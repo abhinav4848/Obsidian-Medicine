@@ -9,7 +9,7 @@ tags:
 Used for leg cramps, SLE.
 
 # Side Effects
-1. [[drug induced thrombocytopenia]]. 
+1. [[thrombocytopenia]]. 
 2. Can cause [[Pulses|premature ventricular beats]].
 3. Used to treat [[malaria]].
 4. Can cause [[lichen planus|lichenoid drug eruptions]].

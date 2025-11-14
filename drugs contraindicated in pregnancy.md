@@ -42,8 +42,7 @@ tags:
 | VTE/PE ([RCUK Guideline](https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/thrombosis-and-embolism-during-pregnancy-and-the-puerperium-acute-management-green-top-guideline-no-37b/)) | If DVT or Pulmonary embolism: DOAC > Warfarin in normal people, but both are c/I in pregnancy -> Pick LMWH.<br><br>Treatment to continue for a minimum of 3 months and all women should receive anticoagulant therapy until they are at least 6 weeks post partum. From day 5 of the post-partum period, can use warfarin or continue with LMWH.<br><br>Both warfarin & LMWH are safe in breastfeeding. |
 | Warfarin                                                                                                                                                                                                      | Craniofacial abnormalities.<br><br>Change to aspirin                                                                                                                                                                                                                                                                                                                                                    |
 
-- UTI Alternatives:
-
+UTI Alternatives:
 - Amoxicillin (but only if culture shows sensitivity),
 - Cefalexin (1st gen cephalosporin. 2nd choice in UTI after Nitrofurantoin. Even if culture not available. Plus it can be used for both upper and [lower UTI](onenote:#Nephrology&section-id={145871C2-3C63-4A25-A087-79EA3E5CD53A}&page-id={2D2A9352-3D83-44A8-977A-31B8E3FF414E}&object-id={6A72BD48-34E7-42AC-8FDA-DFAFD5BB9CB3}&8C&base-path=https://d.docs.live.net/450c0e1b0b9c7922/Documents/Onenote/MBBS/PLAB.one). Has 10% cross reactivity with penicillin but this is too low to worry about),
 - Erythromycin

@@ -8,9 +8,9 @@ tags:
 Aka Enteric fever.
 
 ## Epidemiology
-h/o travel to South America/India.
+h/o [[travel infections|travel]] to South America/India.
 
-## c/f
+## Clinical Features
 - Has rose spots- Sparse macular rash on abdomen.
 - Abdo pain, distension.
 - Relative bradycardia.

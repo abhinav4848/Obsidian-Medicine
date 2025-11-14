@@ -6,8 +6,7 @@ aliases:
   - diarrhea
 ---
 # Diarrhoea definition
-World Health Organisation definitions  
-
+World Health Organisation definitions: 
 - Diarrhoea: > 3 loose or watery stool per day
 - Acute diarrhoea < 14 days
 - Chronic diarrhoea > 14 days
