@@ -1,6 +1,7 @@
 ---
 aliases:
   - FEV1
+  - PEFR
 tags:
   - respiratory
 ---

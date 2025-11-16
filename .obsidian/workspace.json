@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "respiratory tract infections.md",
+                "file": "asthma- life threatening features.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "respiratory tract infections"
+              "title": "asthma- life threatening features"
             }
           }
         ]
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "respiratory tract infections.md",
+                "file": "asthma- life threatening features.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for respiratory tract infections"
+              "title": "Backlinks for asthma- life threatening features"
             }
           }
         ]
@@ -217,9 +217,14 @@
   },
   "active": "d8cdb718f4d9c587",
   "lastOpenFiles": [
-    "tonsillitis.md",
-    "respiratory tract infections.md",
+    "housekeeping/memorise.base",
+    "asthma- life threatening features.md",
+    "asthma- acute attack.md",
+    "spirometry.md",
+    "asthma.md",
     "otitis.md",
+    "respiratory tract infections.md",
+    "tonsillitis.md",
     "rhinosinusitis.md",
     "sarcoidosis.md",
     "cancer- ent.md",
@@ -237,8 +242,6 @@
     "audiograms.md",
     "attachments/right snhl.png",
     "attachments/meniere's disease.png",
-    "asthma- life threatening features.md",
-    "asthma.md",
     "copd.md",
     "misidentification.md",
     "anal fissure.md",
@@ -250,15 +253,11 @@
     "drugs contraindicated in pregnancy.md",
     "upper gi bleed.md",
     "cancer- gastric.md",
-    "thrombocytopenia.md",
     "hypertension management.canvas",
-    "copd- treatment.md",
-    "qt prolongation.md",
     "desktop.ini",
     "Untitled.base",
     "Untitled.canvas",
     "housekeeping/revise recent changes.base",
-    "housekeeping/memorise.base",
     "attachments/atropa belladona.pdf",
     "h. pylori treatment flowchart.canvas",
     "chicken pox treatment flowchart (work in progress).canvas",

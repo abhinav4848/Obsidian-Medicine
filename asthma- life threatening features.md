@@ -4,6 +4,9 @@ aliases:
 tags:
   - respiratory
   - emergency
+revision counter:
+  - "1"
+revision notes: different grades of severity like Pulse rate, RR, PEFR
 ---
 # Assess Severity of asthma attack
 Determine the severity of asthma exacerbation by: Peak expiratory flow rate (PEFR) using Peak flow meter.

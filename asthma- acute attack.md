@@ -9,19 +9,25 @@ tags:
 # Acute Asthma attack in Adults
 Clinical Features: [[asthma- life threatening features]] (Emergency)
 ## Treatment
-#Mnemonic: OSTH-PIMPO
+Moderate Asthma: 
+- Salbutamol 5mg (or terbutaline 10mg) nebulised with O2, or via spacer. 
+	- 4-6 puffs, given one at a time and inhaled separately, repeated at intervals of 10-20 minutes
+- If [[spirometry|PEFR]] between 50-75% then prednisolone 40-50mg #steroid 
 
-Immediate:
-- O2
-- Salbutamol 5mg (or terbutaline 10mg) with O2
-- Steroids (100mg i.v. Hydrocortisone > Oral prednisolone 40-50mg PO)
-
-If severe/life threatening:
-- arrange immediate admission (999 call) if life threatening
+If severe:
+- Consider admission
+- Oxygen to maintain SpO2 94 - 98%
 - Salbutamol nebulizers every 15 mins
-- Ipratropium bromide 0.5mg (SAMA)
-- Single dose of [[magnesium|MgSO4]]: 1.2-2gm i.v. over 20 mins.
+- Pred 40-50mg
+- If no response, then admit
 
+If life threatening: 
+- Admit
+- Oxygen
+- SABA + Ipratropium bromide 0.5mg (SAMA)
+- 100mg i.v. Hydrocortisone > Oral prednisolone 40-50mg PO
+
+Hospital gives single dose of [[magnesium|MgSO4]]: 1.2-2gm i.v. over 20 mins.
 If no improvement: ICU for i.v. aminophylline & i.v. salbutamol
 If decompensated: Intubate.
 
