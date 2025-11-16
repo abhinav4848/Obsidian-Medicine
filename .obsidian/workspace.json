@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pre-eclampsia.md",
+                "file": "calcium channel blockers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "pre-eclampsia"
+              "title": "calcium channel blockers"
             }
           },
           {
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pre-eclampsia.md",
+                "file": "calcium channel blockers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pre-eclampsia"
+              "title": "Backlinks for calcium channel blockers"
             }
           }
         ]
@@ -230,10 +230,11 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "676efa40181a3294",
+  "active": "d8cdb718f4d9c587",
   "lastOpenFiles": [
-    "calcium channel blockers.md",
     "pre-eclampsia.md",
+    "asthma.md",
+    "calcium channel blockers.md",
     "nephrotic syndrome.md",
     "drugs contraindicated in pregnancy.md",
     "magnesium.md",
@@ -241,7 +242,6 @@
     "thrombocytopenia.md",
     "asthma- old management.md",
     "asthma- new management 2024.md",
-    "asthma.md",
     "attachments/Urinalysis protein.png",
     "attachments/Pasted image 20251114224930.png",
     "copd- treatment.md",
