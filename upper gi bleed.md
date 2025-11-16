@@ -12,11 +12,11 @@ An upper gastrointestinal bleed can act as a 'protein meal' and cause a temporar
 1. **Oesophageal**: 
 	1. [[variceal hemorrhage|varices]] (in [[cirrhosis|liver cirrhosis]]), 
 	2. Oesophagitis (in GORD- only streaks vomit, as small volume of blood), 
-	3. cancer (Usually small volume of blood, except as a preterminal event with erosion of major vessels), 
-	4. Mallory-Weiss tears #named (due to repeated vomiting)
+	3. [[cancer- oesophagus|Oesophageal cancer]] (Usually small volume of blood, except as a preterminal event with erosion of major vessels), 
+	4. Mallory-Weiss tears #named (due to repeated vomiting). 
 2. **Gastric**: 
 	1. Ulcer (small, low volume bleeds- can present as IDA), 
-	2. cancer (h/o prodromal symptoms like dyspepsia), 
+	2. [[cancer- gastric|Gastric cancer]] (h/o prodromal symptoms like dyspepsia), 
 	3. Dieulafoy lesion #named : (AV malformation which has no prodrome, can produce considerable haemorrhage, and can be hard to detect endoscopically), 
 	4. Diffuse erosive gastritis (Underlying cause like NSAID use).
 3. **Duodenal**: Ulcer (pain occurs several hours after eating), Aorto-enteric fistula (can be an imp risk in patients with previous AAA surgery)
@@ -41,7 +41,7 @@ Band ligation > injection N-butyl-2-cyanoacrylate for patient with gastric varic
 
 ## Others
 If liver disease patient with Hematemesis + High INR -> Give FFP.
-If low platelet (<50,000) -> Platelet transfusion.
+If [[thrombocytopenia|low platelet]] (<50,000) -> Platelet transfusion.
 INR prolonged -> Vit K.
 
 # Prophylaxis

@@ -3,7 +3,7 @@ tags:
   - cancer
   - gastro
 aliases:
-  - gastric cancer
+  - Gastric cancer
   - stomach cancer
 ---
 *See referral criteria in patients with [[dyspepsia]].* 

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "copd- treatment.md",
+                "file": "asthma- life threatening features.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "copd- treatment"
+              "title": "asthma- life threatening features"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "copd",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,8 +90,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "copd- treatment.md",
+                "file": "asthma- life threatening features.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +209,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for copd- treatment"
+              "title": "Backlinks for asthma- life threatening features"
             }
           }
         ]
@@ -233,38 +232,38 @@
   },
   "active": "d8cdb718f4d9c587",
   "lastOpenFiles": [
-    "spirometry.md",
+    "asthma.md",
+    "copd.md",
+    "misidentification.md",
+    "anal fissure.md",
+    "developmental milestones.md",
+    "innocent murmurs.md",
+    "fraser Guidelines for contraception.md",
+    "inflammatory bowel disease.md",
+    "ciprofloxacin.md",
+    "drugs contraindicated in pregnancy.md",
+    "upper gi bleed.md",
+    "asthma- old management.md",
+    "cancer- gastric.md",
+    "thrombocytopenia.md",
+    "hypertension management.canvas",
+    "copd- treatment.md",
+    "qt prolongation.md",
+    "lower limb ortho problems.md",
+    "copd- acute exacerbation.md",
     "bronchiectasis.md",
+    "spirometry.md",
     "restrictive lung diseases.md",
     "long term oxygen therapy.md",
     "cor pulmonale.md",
-    "copd.md",
-    "copd- treatment.md",
     "pre-eclampsia.md",
     "magnesium.md",
-    "hypertension management.canvas",
     "asthma- acute attack.md",
     "attachments/urinalysis protein (urine dip stick).png",
     "attachments/tetralogy of fallot.png",
     "attachments/target cells.png",
     "attachments/Pasted image 20251114224930.png",
-    "breastfeeding.md",
-    "thrombocytopenia.md",
-    "asthma- old management.md",
-    "clostridia.md",
-    "calcium channel blockers.md",
-    "asthma.md",
-    "rheumatoid arthritis.md",
-    "nephrotic syndrome.md",
-    "drugs contraindicated in pregnancy.md",
-    "hypokalemia.md",
-    "asthma- new management 2024.md",
-    "methotrexate.md",
-    "ectopic pregnancy.md",
-    "cytotoxic drugs.md",
-    "nsaid.md",
     "desktop.ini",
-    "lithium.md",
     "attachments/ecg- segments and intervals.jpg",
     "Untitled.base",
     "Untitled.canvas",

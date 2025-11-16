@@ -2,9 +2,10 @@
 tags:
   - paeds
 ---
+
 >[!warning]
->hand dominance prior to 18 months of age is seen to be a red flag sign within development. It can indicate a hemiparesis or be an early sign of cerebral palsy.
->### Other Red Flags:
+>Hand dominance prior to 18 months of age is seen to be a red flag sign within development. It can indicate a hemiparesis or be an early sign of cerebral palsy.
+>## Other Red Flags:
 >- Persistent fisting beyond 3 months
 >- Early rolling over, early pulling to a stand instead of sitting, and persistent toe walking may all indicate spasticity.
 >- Spontaneous postures, such as scissoring in a child with spasticity or a frog-level position in a hypotonic infant, are important visual clues to motor abnormalities
