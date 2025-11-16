@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calcium channel blockers.md",
+                "file": "copd- treatment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "calcium channel blockers"
+              "title": "copd- treatment"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "copd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,7 +90,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calcium channel blockers.md",
+                "file": "copd- treatment.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +210,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for calcium channel blockers"
+              "title": "Backlinks for copd- treatment"
             }
           }
         ]
@@ -233,19 +234,25 @@
   "active": "d8cdb718f4d9c587",
   "lastOpenFiles": [
     "pre-eclampsia.md",
-    "asthma.md",
-    "calcium channel blockers.md",
-    "nephrotic syndrome.md",
-    "drugs contraindicated in pregnancy.md",
     "magnesium.md",
-    "hypokalemia.md",
+    "hypertension management.canvas",
+    "asthma- acute attack.md",
+    "attachments/urinalysis protein (urine dip stick).png",
+    "attachments/tetralogy of fallot.png",
+    "attachments/target cells.png",
+    "attachments/Pasted image 20251114224930.png",
+    "breastfeeding.md",
     "thrombocytopenia.md",
     "asthma- old management.md",
-    "asthma- new management 2024.md",
-    "attachments/Urinalysis protein.png",
-    "attachments/Pasted image 20251114224930.png",
+    "clostridia.md",
+    "calcium channel blockers.md",
+    "asthma.md",
     "copd- treatment.md",
     "rheumatoid arthritis.md",
+    "nephrotic syndrome.md",
+    "drugs contraindicated in pregnancy.md",
+    "hypokalemia.md",
+    "asthma- new management 2024.md",
     "methotrexate.md",
     "ectopic pregnancy.md",
     "cytotoxic drugs.md",
@@ -257,10 +264,6 @@
     "acne rosacea.md",
     "pyelonephritis.md",
     "whipple disease.md",
-    "hyperpigmentation.md",
-    "primary biliary cirrhosis.md",
-    "cushing's syndrome.md",
-    "congenital adrenal hyperplasia.md",
     "attachments/ecg- segments and intervals.jpg",
     "Untitled.base",
     "Untitled.canvas",
@@ -269,8 +272,6 @@
     "attachments/monteggia vs galeazzi fracture.jpg",
     "attachments/mallet Finger.png",
     "attachments/dupuytren's contracture.png",
-    "attachments/skier's thumb.png",
-    "attachments/jersey finger.png",
     "housekeeping/revise recent changes.base",
     "housekeeping/memorise.base",
     "attachments/atropa belladona.pdf",
@@ -282,7 +283,6 @@
     "attachments/a",
     "attachments/New folder",
     "_chicken Pox treatment flowchart (Work in progress).canvas",
-    "hypertension management.canvas",
     "Chicken Pox treatment flowchart (Work in progress).canvas"
   ]
 }

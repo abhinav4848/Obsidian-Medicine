@@ -44,16 +44,17 @@ Severe HTN: 160/110
 If not effective or woman has good control with [[calcium channel blockers|Nifedipine]] from before, to continue with nifedipine throughout the pregnancy. BP should be monitored regularly during pregnancy as it may reduce during pregnancy in which case the meds may be withheld until after 20 weeks or delivery, when BP starts to rise again.
 ## Proteinuria
 Proteinuria ( >0.3g/24 hr. 1+) 
-*->3g/24hr. is [[nephrotic syndrome]]*
+*\>3g/24hr. is [[nephrotic syndrome]]*
 - Albumin Creatinine ratio (ACR) > 8mg/mmol
 - Protein Creatinine ratio (PCR) > 30mg/mmol
 A comes before P. #mnemonic 
 8 comes before 30. 
 
-Proteinuria 1+ and normotensive (<140/90): review & assess in 1 week in GP clinic. 
-Proteinuria 1+ & >140/90 or Proteinuria 2+: urgent referral same day 24 hrs. Even if normotensive. 
+Proteinuria 1+ & <140/90 (normotensive): review & assess in 1 week in GP clinic. 
+Proteinuria 1+ & >140/90: urgent referral same day 24 hrs. 
+Proteinuria 2+: urgent referral same day 24 hrs. Even if normotensive. 
 
-![[Urinalysis protein.png]]
+![[urinalysis protein (urine dip stick).png]]
 
 # Prevention
 NICE divide risk factors into high and moderate risk: 
@@ -65,21 +66,17 @@ NICE divide risk factors into high and moderate risk:
 - women with the following should take aspirin 75-150mg daily from 12 weeks gestation until the birth
 	- ≥ 1 high risk factors
 	- ≥ 2 moderate factors
-- Aspirin is c/i in breastfeeding.
+- Aspirin is c/i in [[breastfeeding]].
 - Women with APLA take Aspirin + LMWH.
 ---
 # Eclampsia
 GTCS + pre-eclampsia
 (but GTCS can rarely occur both in postpartum period, and w/o h/o Preeclampsia). 
 ## Treatment
+We can give diazepam (but don’t give diazepam before [[magnesium|MgSO4]], even if GTCS). 
+
 Control/prevent seizure: MgSO4 (repeat iv bolus if another fit)
 	**Loading dose**: 4g in 100ml NS over 5-10 mins  
 	**Maintenance**: 1g/hr. for 24 hrs. after last seizure.
-If recurrent seizure: either give 2gm bolus or increase infusion to 1.5 - 2g/hr. 
-### MgSO4
-Give diazepam if seizure, (i.e. Don’t give diazepam before MgSO4 even if GTCS). 
-#### Magnesium overdose
-If [[magnesium|MgSO4]] overdose: loss of DTR, N, V, Confusion. 
-Stop MgSO4. 
-Request its levels. 
-Calcium gluconate is antidote for MgSO4. 
+If recurrent seizure: either give 2gm bolus, or increase infusion to 1.5 - 2g/hr. 
+

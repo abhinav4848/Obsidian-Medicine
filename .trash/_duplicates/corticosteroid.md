@@ -1,6 +1,0 @@
----
-tags:
-  - drug
-aliases:
-  - steroid
----

@@ -14,3 +14,6 @@ aliases:
 - **Antibiotics**: Penicillins, Sulphonamides, rifampicin #abx 
 - **Anticonvulsants**: Carbamazepine, Valproate
 - Heparin
+
+# Other causes
+[[pre-eclampsia]] 

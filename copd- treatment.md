@@ -9,7 +9,7 @@ urls:
 ---
 
 >[!info]
->COPD- need annual influenza vaccine. 
+>COPD- need annual influenza vaccine + one-off pneumococcal vaccine. 
 >MRC score > 3, needs pulmonary rehab. 
 >There's risk of pneumonia in COPD patients using ICS. 
 # From NICE CKS 
@@ -31,8 +31,8 @@ Pulmonary rehabilitation to all people who view themselves as functionally disa
 - any previous, secure [[asthma- diagnosis|diagnosis of Asthma]] or of atopy
 - Raised eosinophil count.
 - substantial variation in [[spirometry|FEV1]] over time (at least 400 ml)
-- substantial diurnal variation in PEF ([[asthma- diagnosis#Second line investigation|at least 20%]]). 
-- Don't do BDR as it can be misleading as per NICE. 
+- substantial **diurnal** variation in PEF ([[asthma- diagnosis#Second line investigation|at least 20%]]). 
+- Don't do BDR now as it can be misleading as per NICE. 
 
 # Room for prophylactic Azithromycin 
 - No smoking, optimised treatment but still exacerbations
