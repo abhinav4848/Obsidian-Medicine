@@ -36,5 +36,5 @@ Non-infectious [[granulomatous disease]] involving abnormal collections of infla
 - Urea & Electrolytes for Acute Kidney injury due to Hypercalcemia.
 - Cardiac sarcoidosis can lead to sudden cardiac death. Perform an ECG in all patients with suspected sarcoidosis regardless of symptoms.
 # Treatment
-Steroids #steroids 
+Steroids #steroid 
 Spontaneous remission w/o complications is common in early-stage pulmonary disease. 
