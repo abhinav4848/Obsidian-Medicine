@@ -24,6 +24,7 @@ urls:
 	- If already taking SAMA, switch to SABA
 	- if severe, can add ICS 3 month trial -> no relief then stop
 - Oral theophylline after all else fails.
+	- dose should be reduced if macrolide or fluoroquinolone antibiotics are co-prescribed
 
 Pulmonary rehabilitation to all people who view themselves as functionally disabled by COPD (usually [[mrc dyspnoea scale|Medical Research Council dyspnoea scale]] >= grade 3)
 
@@ -43,12 +44,12 @@ Pulmonary rehabilitation to all people who view themselves as functionally disa
 
 # PDE-4 inhibitor (e.g.: roflumilast) 
 - *Started by respiratory clinic*. Patients benefit most when they have a chronic productive cough which is consistent with a chronic bronchitic phenotype. This type particularly benefits from PDE-4 inhibitors. ([NICE](https://www.nice.org.uk/guidance/TA461/chapter/1-Recommendations))
-- PDE-4 inhibitor reduces COPD risk in severe cases having frequent exacerbations 
+- PDE-4 inhibitor reduces COPD exacerbation in severe cases having frequent exacerbations 
 - Given if **severe COPD**: 
 	- FEV1 < 50% predicted after bronchodilator 
 	- **Frequent Exacerbation**: Defined as >=2 exacerbations in the last 12 months despite being on triple inhaled therapy (LAMA + LABA + ICS). 
 # Rescue Pack
-Standby medication: NICE recommend offering a short course of oral corticosteroids and oral antibiotics to keep at home if: 
+aka Standby medication: NICE recommend offering a short course of oral corticosteroids and oral antibiotics to keep at home if: 
 - have had an exacerbation within the last year
 - understand how to take the medication, and are aware of associated risks and benefits
 - know when to seek help and when to ask for replacements once medication has been used. 

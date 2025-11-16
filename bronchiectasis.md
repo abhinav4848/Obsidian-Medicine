@@ -3,7 +3,7 @@ tags:
   - respiratory
 ---
 Permanent dilatation of airway 2* to chronic inflammation or infection
-Hib > Pseudomonas, Klebsiella, Strep pneumoniae
+HiB > Pseudomonas, Klebsiella, Strep pneumoniae
 # Clinical features
 - Chronic cough -> Excessive sputum production
 - Fever with shivering, night sweats, patients have dental decay (alcoholics, children)

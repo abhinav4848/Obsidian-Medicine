@@ -30,8 +30,7 @@ You must confirm COPD by [[spirometry#COPD|spirometry]].
 If couldn't diagnose, do treat to diagnose method with 6 week course of ICS (or few days of Oral steroid)-> If symptoms (Wheeze, SOB, cough) improve-> Asthma. 
 
 ---
-# Complication
-## Cor Pulmonale
+# Complication: Cor Pulmonale
 [[cor pulmonale]]
 
 ---

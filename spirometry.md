@@ -22,7 +22,7 @@ Also, [[asthma- investigations#Peak expiratory flow (PEF) variability|asthma wor
 
 Ratio of <0.7 needed for diagnosis of COPD. 
 Severity then classified using the FEV1 % of predicted.
-Don't do [[copd- treatment#Asthmatic Features|new BDR to check for COPD]] with asthma features, as it can be misleading as per NICE. 
+Don't do [[copd- treatment#Asthmatic Features|new BDR to check for Asthma]] features in COPD, as it can be misleading as per NICE. 
 # Restrictive cause
 (FEV1/FVC > 0.7)
 FEV1 ↓, FVC ↓, ratio normal or ↑
