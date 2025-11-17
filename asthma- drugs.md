@@ -5,7 +5,7 @@ aliases:
 tags:
   - pharmacology
 ---
-# Drugs used in Asthma/COPD
+# Drugs used in [[Asthma]]/COPD
 Bronchodilators
 - Sympathomimetics
 	- Selective Beta2 agonists

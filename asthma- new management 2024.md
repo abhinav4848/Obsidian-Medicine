@@ -13,12 +13,13 @@ urls:
 [NICE](https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#pharmacological-management-in-people-aged-12-and-over:~:text=and%20over.-,Initial%20management%20of%20newly%20diagnosed%20asthma%20in%20people%20aged%2012%20and%20over,-1.7.1 "NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)") 
 - a low-dose ICS/formoterol combination inhaler to be taken **as needed** (prn) for symptom relief
     - this is termed anti-inflammatory reliever (AIR) therapy #mnemonic AIR-prn
-- if the patient presents highly symptomatic (for example, regular nocturnal waking) or with a severe exacerbation:
+- if the patient presents **highly symptomatic** (for example, regular nocturnal waking) or with a severe exacerbation:
     - start treatment with low-dose MART- Maintenance & Reliever therapy (see step 2)
     - treat the acute symptoms as appropriate (e.g. a course of oral corticosteroids may be indicated)
 ## Step 2
 [NICE](https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#pharmacological-management-in-people-aged-12-and-over:~:text=asthma%20management.-,Medicine%20combination%20and%20sequencing%20in%20people%20aged%2012%20and%20over,-For%20guidance%20on "NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)") 
 - a low-dose MART for daily maintenance + PRN 
+- 
 ## Step 3
 - a moderate-dose MART
 ## Step 4 
