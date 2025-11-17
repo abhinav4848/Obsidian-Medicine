@@ -8,10 +8,11 @@ tags:
 ---
 # Acute Asthma attack in Adults
 Clinical Features: [[asthma- life threatening features]] (Emergency)
+See: [UHL guidelines](https://www.publication.uhleicester.nhs.uk/publication-scheme/pagl-document-library/) 
 ## Treatment
 Moderate Asthma: 
-- Salbutamol 5mg (or terbutaline 10mg) nebulised with O2, or via spacer. 
-	- 4-6 puffs, given one at a time and inhaled separately, repeated at intervals of 10-20 minutes
+- Salbutamol 5mg (or terbutaline 10mg) via spacer, or Oxygen driven nebuliser
+	- 4-6 puffs, given one at a time and inhaled separately, repeated at intervals of 10-20 minutes. 
 - If [[spirometry|PEFR]] between 50-75% then prednisolone 40-50mg #steroid 
 
 If severe:
@@ -22,12 +23,12 @@ If severe:
 - If no response, then admit
 
 If life threatening: 
-- Admit
+- Admit to Resus
 - Oxygen
 - SABA + Ipratropium bromide 0.5mg (SAMA)
 - 100mg i.v. Hydrocortisone > Oral prednisolone 40-50mg PO
 
-Hospital gives single dose of [[magnesium|MgSO4]]: 1.2-2gm i.v. over 20 mins.
+Hospital gives single dose of [[magnesium|MgSO4]] iv 1.2-2gm in NS over 20 mins.
 If no improvement: ICU for i.v. aminophylline & i.v. salbutamol
 If decompensated: Intubate.
 

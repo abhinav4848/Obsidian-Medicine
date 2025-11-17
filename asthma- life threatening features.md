@@ -30,7 +30,7 @@ ABG is done in A&E to know O2 sats.
 - Exhaustion.
 - Altered mental status with drowsiness.
 - PaO2 < 8 kPa.
-- PaCO2 is normal (4.6-6 kPa)
+- PaCO2 is normal (4.6-6 kPa)- This indicates exhaustion. In acute asthma, patient hyperventilates and so PaCO2 should be low, so if it's normal, that means patient is tiring and CO2 is rising, signalling impending respiratory failure.
 
 As an asthmatic patient deteriorates their RR drops as they tire. This is a sign of near fatal flare
 # Management
