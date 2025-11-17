@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asthma- investigations.md",
+                "file": "spirometry.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "asthma- investigations"
+              "title": "spirometry"
             }
           },
           {
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asthma- investigations.md",
+                "file": "spirometry.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for asthma- investigations"
+              "title": "Backlinks for spirometry"
             }
           }
         ]
@@ -249,9 +249,9 @@
   },
   "active": "c032e0a5b8c56094",
   "lastOpenFiles": [
-    "asthma.md",
     "asthma- investigations.md",
     "asthma- diagnosis.md",
+    "asthma.md",
     "asthma- severity assessment.md",
     "spirometry.md",
     "asthma- acute attack.md",

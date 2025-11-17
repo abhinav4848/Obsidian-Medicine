@@ -16,7 +16,7 @@ They have FEV1/FVC: <0.7
 BDR with spirometry is [[asthma- diagnosis#Second line investigation|2nd line test]] to diagnose asthma. Here, spirometry improves after bronchodilators (reversible obstruction). 
 Also, [[asthma- investigations#Peak expiratory flow (PEF) variability|asthma worse at night]] & early morning so Peak flow will show variability
 
-See [[asthma- severity assessment|Assess severity of asthma]] for the grading of Asthma severity.
+*See [[asthma- severity assessment|Assess severity of asthma]] for the grading of Asthma severity.*
 ![[asthma- severity assessment#Severity differences]]
 
 ---
