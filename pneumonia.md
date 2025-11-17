@@ -1,6 +1,8 @@
 ---
 tags:
   - infection
+aliases:
+  - LRTI
 ---
 # Clinical features 
 Cough, Sputum production, fever, old age

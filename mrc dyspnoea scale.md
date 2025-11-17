@@ -1,6 +1,7 @@
 ---
 aliases:
   - Medical Research Council dyspnoea scale
+  - MRC scale
 tags:
   - respiratory
 urls:

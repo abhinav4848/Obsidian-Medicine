@@ -14,6 +14,7 @@ A no antibiotic prescribing or delayed antibiotic prescribing approach is genera
 # Antibiotics
 See [[otitis|otitis media]] for when to give antibiotics. 
 See [[tonsillitis]] for CENTOR criteria- >=3 criteria. 
+See [[pneumonia]] for LRTI. 
 
 ## When at risk of developing complications
 Give immediate antibiotics when

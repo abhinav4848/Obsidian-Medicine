@@ -1,4 +1,6 @@
 ---
 tags:
   - infection
+aliases:
+  - HiB
 ---

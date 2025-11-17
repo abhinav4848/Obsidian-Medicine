@@ -11,19 +11,19 @@ urls:
 >[!info]
 >COPD- need annual influenza vaccine + one-off pneumococcal vaccine. 
 >MRC score > 3, needs pulmonary rehab. 
->There's risk of pneumonia in COPD patients using ICS. 
+>There's risk of pneumonia in COPD patients using ICS + [Psychological](https://www.gov.uk/drug-safety-update/inhaled-and-intranasal-corticosteroids) side effects. 
 # From NICE CKS 
 - Stop [[smoking]] (including nicotine replacement, varenicline or bupropion)
 - One off pneumococcal vaccine + annual influenza vaccine #vaccine
 - Start with Bronchodilator therapy: [[asthma- drugs|SABA/SAMA]] (first line)
 - If ✅ \*[[asthma|asthmatic]] features suggesting steroid responsiveness -> LABA + ICS
-	- If still breathless/having exacerbations:
+	- If still breathless/having exacerbations:[]()
 		- Triple therapy: LAMA + LABA + ICS
 	- Continue SABA/SAMA prn. Discontinue SAMA if taking LAMA. 
 - If ❌ No \*asthmatic features -> +LABA + LAMA
 	- If already taking SAMA, switch to SABA
 	- if severe, can add ICS 3 month trial -> no relief then stop
-- Oral theophylline after all else fails.
+- Oral theophylline after all else fails. 
 	- dose should be reduced if macrolide or fluoroquinolone antibiotics are co-prescribed
 
 Pulmonary rehabilitation to all people who view themselves as functionally disabled by COPD (usually [[mrc dyspnoea scale|Medical Research Council dyspnoea scale]] >= grade 3)
