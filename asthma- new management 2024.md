@@ -7,6 +7,7 @@ aliases:
   - management of stable asthma in adults
 urls:
 ---
+See [[asthma]]. 
 # For a new diagnosis of Asthma in patients aged >= 12 years
 
 ## Step 1 

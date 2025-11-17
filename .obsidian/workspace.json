@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asthma- new management 2024.md",
+                "file": "asthma- investigations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "asthma- new management 2024"
+              "title": "asthma- investigations"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "copd exacerbation",
+                "query": "asthma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asthma- new management 2024.md",
+                "file": "asthma- investigations.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for asthma- new management 2024"
+              "title": "Backlinks for asthma- investigations"
             }
           }
         ]
@@ -250,12 +250,16 @@
   "active": "c032e0a5b8c56094",
   "lastOpenFiles": [
     "asthma.md",
+    "asthma- investigations.md",
+    "asthma- diagnosis.md",
+    "asthma- severity assessment.md",
+    "spirometry.md",
+    "asthma- acute attack.md",
+    "asthma- new management 2024.md",
     "asthma- drugs.md",
     "copd- treatment.md",
     "copd.md",
-    "spirometry.md",
     "copd- acute exacerbation.md",
-    "asthma- diagnosis.md",
     "respiratory failure.md",
     "pneumonia.md",
     "mrc dyspnoea scale.md",
@@ -263,8 +267,6 @@
     "bronchiectasis.md",
     "immunisation schedule (paeds).md",
     "respiratory tract infections.md",
-    "asthma- life threatening features.md",
-    "asthma- acute attack.md",
     "desktop.ini",
     "housekeeping/memorise.base",
     "otitis.md",
@@ -283,10 +285,8 @@
     "attachments/Pasted image 20251116221234.png",
     "attachments/Pasted image 20251116221232.png",
     "attachments/parkinson's drugs and effects 2.png",
-    "audiograms.md",
     "attachments/right snhl.png",
     "attachments/meniere's disease.png",
-    "misidentification.md",
     "hypertension management.canvas",
     "Untitled.base",
     "Untitled.canvas",

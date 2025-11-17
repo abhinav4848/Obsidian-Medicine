@@ -1,6 +1,7 @@
 ---
 aliases:
   - life threatening features of asthma
+  - Assess severity of asthma
 tags:
   - respiratory
   - emergency
@@ -9,12 +10,13 @@ revision counter:
 revision notes: different grades of severity like Pulse rate, RR, PEFR
 ---
 # Assess Severity of asthma attack
-Determine the severity of asthma exacerbation by: Peak expiratory flow rate (PEFR) using Peak flow meter.
+Determine the severity of asthma exacerbation by: [[asthma- investigations#Peak expiratory flow (PEF) variability|Peak expiratory flow rate]] (PEFR) using [[spirometry#Asthma|Peak flow meter (Spirometry)]].
 - Moderate: 50-75%
 - Acute severe: 33-50%
 - Life threat: <33%
-
 ABG is done in A&E to know O2 sats. 
+
+## Severity differences
 
 | **Moderate**                                                                                    | **Severe**                                                                                                  | **Life-threatening**                                                                                                                                                                                   |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

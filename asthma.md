@@ -7,11 +7,11 @@ aliases:
 urls:
   - https://www.brit-thoracic.org.uk/document-library/guidelines/asthma/btssign-asthma-guideline-quick-reference-guide-2019/
 ---
-Diagnosis: [[asthma- diagnosis]]. 
+Diagnosis: See [[asthma- diagnosis]]. 
 
 ---
 # Attacks of asthma
-- [[asthma- life threatening features|Life threatening features of asthma]]
+- [[asthma- severity assessment|Assess severity of asthma]]
 - [[asthma- acute attack]] (adult & paeds)
 - **Unique case**: Stable asthma, with just exercise induced SoB: LTRA > Sodium cromoglicate.
 ## Stable asthma management

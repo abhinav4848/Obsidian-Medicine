@@ -7,7 +7,7 @@ tags:
   - emergency
 ---
 # Acute Asthma attack in Adults
-Clinical Features: [[asthma- life threatening features]] (Emergency)
+Clinical Features: [[asthma- severity assessment]] (Emergency)
 See: [UHL guidelines](https://www.publication.uhleicester.nhs.uk/publication-scheme/pagl-document-library/) 
 ## Treatment
 Moderate Asthma: 
