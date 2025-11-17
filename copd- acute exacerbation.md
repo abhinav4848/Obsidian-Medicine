@@ -31,20 +31,17 @@ The most common infective causes of COPD exacerbations are:
 - Patients can be hypoxic, some may have acute confusion
 
 ---
-# Management
-## Oxygen
-24% - 28% Oxygen (not 100%) using "venturi face mask"
-Maintain O2 saturation between 88-92% if retaining.
-
+# Primary Care Management
 ## Salbutamol
 Nebulized [[asthma- drugs|salbutamol]] (with ipratropium bromide).
-
 ## Steroids
 Prednisolone 30 mg stat. (or 100 mg IV hydrocortisone)
 	Prednisolone should be continued as 30 mg OD for 5 days. 
 ## Antibiotics
-If purulent sputum, fever, high CRP, signs of Pneumonia -> give Antibiotics (see Nice [NG114](https://www.nice.org.uk/guidance/ng114)).
-- While those with Mod or Severe COPD have a higher risk of exacerbation, only give abx is symptom of infection as exacerbation can happen without infection. 
+If purulent sputum, fever, high CRP, signs of [[Pneumonia]] -> give Antibiotics (see Nice [NG114](https://www.nice.org.uk/guidance/ng114)).
+- Choose between: amoxicillin / clarithromycin / doxycycline. #abx
+- Even though it's common practice to give abx in exacerbation, NICE does not support it. 
+- While those with Mod or Severe COPD have a higher risk of exacerbation, only give abx if there is symptom of infection. Exacerbation can happen without infection. 
 
 Still no response? -> IV aminophylline.
 
@@ -53,3 +50,20 @@ After giving above medical management, if he is still dyspnoeic, with respirator
 
 If NIV fails or is C/I (Respiratory arrest, high aspiration risk, impaired mental status): Invasive ventilation
 	E.g: pH < 7.26, pCO2 still rising despite NIV
+
+# Hospital Admission
+Admission is recommended if any of the following criteria are met  
+- severe breathlessness
+- acute confusion or impaired consciousness
+- cyanosis
+- oxygen saturation less than 90% on pulse oximetry.
+- social reasons e.g. inability to cope at home (or living alone)
+- significant comorbidity (such as cardiac disease or insulin-dependent diabetes)
+
+## Oxygen therapy
+Before ABG:
+- COPD patients are at risk of hypercapnia (CO2 Narcosis- depressed consciousness)
+- 24% - 28% Oxygen (not 100%) using "venturi face mask"
+- Aim initial O2 saturation between 88-92% if no ABG. 
+After ABG: 
+- Adjust target range to 94 - 98% if the pCO2 is normal

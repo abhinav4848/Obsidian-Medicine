@@ -7,7 +7,7 @@ aliases:
 # Clinical features 
 Cough, Sputum production, fever, old age
 Atypical pneumonia has dry cough.
-Typical has productive cough, more rapid onset, high fever, and is usually caused by Strep -> MCC of CAP. 
+Typical Pneumonia has productive cough, more rapid onset, high fever, and is usually caused by Strep -> MCC of CAP. 
 # Types
 ## [[Haemophilus influenzae]]
 Especially common in patients with [[COPD]] -> Presents as acute exacerbation of COPD. 

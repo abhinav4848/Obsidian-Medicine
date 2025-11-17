@@ -26,14 +26,15 @@
             "id": "c032e0a5b8c56094",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://www.nice.org.uk/guidance/ng114/resources/guide-to-resources-pdf-6602624893",
-                "title": "NG114 COPD (acute exacerbation): antimicrobial prescribing: Visual summary 19/09/2024",
-                "mode": "webview"
+                "file": "copd- acute exacerbation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "globe-2",
-              "title": "NG114 COPD (acute exacerbation): antimicrobial prescribing: Visual summary 19/09/2024"
+              "icon": "lucide-file",
+              "title": "copd- acute exacerbation"
             }
           },
           {
@@ -215,6 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "copd- acute exacerbation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +226,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for copd- acute exacerbation"
             }
           }
         ]
@@ -247,14 +249,14 @@
   },
   "active": "c032e0a5b8c56094",
   "lastOpenFiles": [
-    "copd- acute exacerbation.md",
     "copd- treatment.md",
+    "copd- acute exacerbation.md",
+    "pneumonia.md",
     "copd.md",
     "mrc dyspnoea scale.md",
     "haemophilus influenzae.md",
     "bronchiectasis.md",
     "immunisation schedule (paeds).md",
-    "pneumonia.md",
     "respiratory tract infections.md",
     "asthma- drugs.md",
     "asthma- life threatening features.md",
