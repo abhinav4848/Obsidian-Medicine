@@ -13,25 +13,28 @@ urls:
 >MRC score > 3, needs pulmonary rehab. 
 >There's risk of pneumonia in COPD patients using ICS + [Psychological](https://www.gov.uk/drug-safety-update/inhaled-and-intranasal-corticosteroids) side effects. 
 # From NICE CKS 
-- Stop [[smoking]] (including nicotine replacement, varenicline or bupropion)
-- One off pneumococcal vaccine + annual influenza vaccine #vaccine
+Stop [[smoking]] (including nicotine replacement, varenicline or bupropion)
+One off pneumococcal vaccine + annual influenza vaccine #vaccine
+
 - Start with Bronchodilator therapy: [[asthma- drugs|SABA/SAMA]] (first line)
-- If ✅ \*[[asthma|asthmatic]] features suggesting steroid responsiveness -> LABA + ICS
-	- If still breathless/having exacerbations:[]()
+- If ✅ \*[[asthma|asthmatic]] features suggesting steroid responsiveness -> Add on LABA + ICS
+	- If still breathless/having exacerbations:
 		- Triple therapy: LAMA + LABA + ICS
 	- Continue SABA/SAMA prn. Discontinue SAMA if taking LAMA. 
 - If ❌ No \*asthmatic features -> +LABA + LAMA
 	- If already taking SAMA, switch to SABA
 	- if severe, can add ICS 3 month trial -> no relief then stop
-- Oral theophylline after all else fails. 
+- Oral theophylline after all else fails (done by specialist)
 	- dose should be reduced if macrolide or fluoroquinolone antibiotics are co-prescribed
 
 Pulmonary rehabilitation to all people who view themselves as functionally disabled by COPD (usually [[mrc dyspnoea scale|Medical Research Council dyspnoea scale]] >= grade 3)
 
+**Frequent Exacerbation**: Defined as >=2 exacerbations in the last 12 months despite being on triple inhaled therapy (LAMA + LABA + ICS). 
+
 # \*Asthmatic Features 
 - any previous, secure [[asthma- diagnosis|diagnosis of Asthma]] or of atopy
 - Raised eosinophil count.
-- substantial variation in [[spirometry|FEV1]] over time (at least 400 ml)
+- substantial variation in [[spirometry|FEV1]] over time (at least 400 ml). 
 - substantial **diurnal** variation in PEF ([[asthma- diagnosis#Second line investigation|at least 20%]]). 
 - Don't do BDR now as it can be misleading as per NICE. 
 

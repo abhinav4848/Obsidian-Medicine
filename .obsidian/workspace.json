@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "copd- acute exacerbation.md",
+                "file": "copd- treatment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "copd- acute exacerbation"
+              "title": "copd- treatment"
             }
           },
           {
@@ -85,9 +85,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "copd",
+                "query": "copd exacerbation",
                 "matchingCase": false,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "copd- acute exacerbation.md",
+                "file": "copd- treatment.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for copd- acute exacerbation"
+              "title": "Backlinks for copd- treatment"
             }
           }
         ]
@@ -249,10 +249,14 @@
   },
   "active": "c032e0a5b8c56094",
   "lastOpenFiles": [
-    "copd- treatment.md",
-    "copd- acute exacerbation.md",
-    "pneumonia.md",
     "copd.md",
+    "spirometry.md",
+    "copd- acute exacerbation.md",
+    "copd- treatment.md",
+    "asthma- diagnosis.md",
+    "asthma.md",
+    "respiratory failure.md",
+    "pneumonia.md",
     "mrc dyspnoea scale.md",
     "haemophilus influenzae.md",
     "bronchiectasis.md",
@@ -263,8 +267,6 @@
     "asthma- acute attack.md",
     "desktop.ini",
     "housekeeping/memorise.base",
-    "spirometry.md",
-    "asthma.md",
     "otitis.md",
     "tonsillitis.md",
     "rhinosinusitis.md",
@@ -285,8 +287,6 @@
     "attachments/right snhl.png",
     "attachments/meniere's disease.png",
     "misidentification.md",
-    "anal fissure.md",
-    "developmental milestones.md",
     "hypertension management.canvas",
     "Untitled.base",
     "Untitled.canvas",

@@ -4,6 +4,9 @@ aliases:
   - PEFR
 tags:
   - respiratory
+revision notes: Keep forgetting the mild/mod/severe classification of COPD
+revision counter:
+  - "1"
 ---
 Normal ratio of FEV1:FVC is 0.8
 # Obstructive cause (FEV1/FVC: <0.7)
