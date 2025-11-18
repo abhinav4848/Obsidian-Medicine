@@ -30,3 +30,8 @@ DEMO ECG #mnemonic
 **Osteoblastoma**: Pain worse at night not relieved ❌by NSAID.
 
 **Exostosis** (aka Osteochondroma/osteoma) is MC benign tumour. Growth of new bone on top of existing bone. Can occur in many parts of the body. When covered by cartilage, called osteochondroma. Can be painless or painful. Seen in males <20yo.
+
+---
+
+# Management of Metastatic bone pain
+Metastatic bone pain may respond to strong opioids, bisphosphonates or radiotherapy. The assertion that NSAIDs are particularly effective for metastatic bone pain is not supported by studies. Strong opioids have the lowest number needed to treat for relieving the pain and can provide quick relief, in contrast to radiotherapy and bisphosphonates. All patients, however, should be considered for referral to a clinical oncologist for consideration of further treatments such as radiotherapy

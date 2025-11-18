@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asthma- new management 2024.md",
+                "file": "mscc.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "asthma- new management 2024"
+              "title": "mscc"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dyspnoea",
+                "query": "mscc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asthma- new management 2024.md",
+                "file": "mscc.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for asthma- new management 2024"
+              "title": "Backlinks for mscc"
             }
           }
         ]
@@ -234,6 +234,10 @@
   },
   "active": "9adc3ec57ec76983",
   "lastOpenFiles": [
+    "cancers metastasizing to the bone.md",
+    "mscc.md",
+    "cancer- bone.md",
+    "asthma- new management 2024.md",
     "asthma.md",
     "shortness of breath.md",
     "copd.md",
@@ -251,7 +255,6 @@
     "spirometry.md",
     "respiratory failure.md",
     "scoring system.md",
-    "asthma- new management 2024.md",
     "asthma- drugs.md",
     "pneumonia.md",
     "haemophilus influenzae.md",
@@ -260,8 +263,6 @@
     "desktop.ini",
     "housekeeping/memorise.base",
     "otitis.md",
-    "tonsillitis.md",
-    "rhinosinusitis.md",
     "attachments/urinalysis protein (urine dip stick).png",
     "attachments/auer rods (AML).png",
     "attachments/boutonniere's deformity.png",
