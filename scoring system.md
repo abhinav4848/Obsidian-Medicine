@@ -22,7 +22,7 @@ tags:
 | CAGE                                 | Alcohol screening tool                                                                                                        |
 | FAST*                                | Alcohol screening tool                                                                                                        |
 | [[curb-65\|CURB-65]]                 | Used to assess the prognosis of a patient with pneumonia                                                                      |
-| Epworth Sleepiness Scale             | Used in the assessment of suspected obstructive sleep apnoea                                                                  |
+| Epworth Sleepiness Scale             | Used in the assessment of suspected [[obstructive sleep apnoea]]                                                              |
 | IPSS                                 | International prostate symptom score                                                                                          |
 | Gleason score                        | Indicates prognosis in prostate cancer                                                                                        |
 | APGAR                                | Assesses the health of a newborn immediately after birth                                                                      |
