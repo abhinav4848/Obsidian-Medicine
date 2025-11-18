@@ -1,8 +1,11 @@
 ---
 aliases:
-  - obstructive sleep apnoea
+  - Obstructive sleep apnoea
   - OSA
   - Sleep Apnea
+  - Obstructive sleep apnoea/hypopnoea syndrome
+tags:
+  - respiratory
 ---
 # Predisposing factors
 - obesity
@@ -13,16 +16,14 @@ aliases:
 The partner often complains of excessive snoring and may report periods of apnoea.  
 # Consequence  
 - daytime somnolence
-- compensated respiratory acidosis
+- compensated [[respiratory failure|respiratory acidosis]]. 
 - hypertension
-  
 # Assessment of sleepiness 
 [[scoring system]]
 - Epworth Sleepiness Scale - questionnaire completed by patient +/- partner
 - Multiple Sleep Latency Test (MSLT) - measures the time to fall asleep in a dark room (using EEG criteria)
-  
 # Diagnostic tests
-- sleep studies (polysomnography) - ranging from monitoring of pulse oximetry at night to full polysomnography where a wide variety of physiological factors are measured including EEG, respiratory airflow, thoraco-abdominal movement, snoring and pulse oximetry
+- Sleep studies (polysomnography) - ranging from monitoring of pulse oximetry at night to full polysomnography where a wide variety of physiological factors are measured including EEG, respiratory airflow, thoraco-abdominal movement, snoring and pulse oximetry
   
 # Management
 - weight loss

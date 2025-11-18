@@ -2,6 +2,7 @@
 aliases:
   - acute asthma attack in adults
   - acute asthma attack in children
+  - Acute attack of Asthma
 tags:
   - respiratory
   - emergency

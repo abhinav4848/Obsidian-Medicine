@@ -32,10 +32,10 @@ Pulmonary rehabilitation to all people who view themselves as functionally disa
 **Frequent Exacerbation**: Defined as >=2 exacerbations in the last 12 months despite being on triple inhaled therapy (LAMA + LABA + ICS). 
 
 # \*Asthmatic Features 
-- any previous, secure [[asthma- diagnosis|diagnosis of Asthma]] or of atopy
+- any previous, secure [[asthma- diagnosis (algorithm)|diagnosis of Asthma]] or of atopy
 - Raised eosinophil count.
 - substantial variation in [[spirometry|FEV1]] over time (at least 400 ml). 
-- substantial **diurnal** variation in PEF ([[asthma- diagnosis#Second line investigation|at least 20%]]). 
+- substantial **diurnal** variation in PEF ([[asthma- diagnosis (algorithm)#Second line investigation|at least 20%]]). 
 - Don't do BDR now as it can be misleading as per NICE. 
 
 # Room for prophylactic Azithromycin 

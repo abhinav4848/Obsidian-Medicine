@@ -13,62 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "copd- acute exacerbation.md",
+                "file": "asthma- diagnosis (algorithm).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "copd- acute exacerbation"
-            }
-          },
-          {
-            "id": "c032e0a5b8c56094",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "spirometry.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "spirometry"
-            }
-          },
-          {
-            "id": "82204709ee578b3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obstructive sleep apnoea.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "obstructive sleep apnoea"
-            }
-          },
-          {
-            "id": "8e258c5c22f86965",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mrc dyspnoea scale.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "mrc dyspnoea scale"
+              "title": "asthma- diagnosis (algorithm)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scoring s",
+                "query": "asthma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -231,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obstructive sleep apnoea.md",
+                "file": "asthma- diagnosis (algorithm).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +195,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for obstructive sleep apnoea"
+              "title": "Backlinks for asthma- diagnosis (algorithm)"
             }
           }
         ]
@@ -262,24 +216,24 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "82204709ee578b3f",
+  "active": "d8cdb718f4d9c587",
   "lastOpenFiles": [
-    "scoring system.md",
-    "obstructive sleep apnoea.md",
-    "spirometry.md",
-    "asthma- investigations.md",
-    "asthma- diagnosis.md",
     "asthma.md",
     "asthma- severity assessment.md",
     "asthma- acute attack.md",
+    "asthma- diagnosis (algorithm).md",
+    "asthma- investigations.md",
+    "obstructive sleep apnoea.md",
+    "copd- acute exacerbation.md",
+    "spirometry.md",
+    "mrc dyspnoea scale.md",
+    "respiratory failure.md",
+    "scoring system.md",
     "asthma- new management 2024.md",
     "asthma- drugs.md",
     "copd- treatment.md",
     "copd.md",
-    "copd- acute exacerbation.md",
-    "respiratory failure.md",
     "pneumonia.md",
-    "mrc dyspnoea scale.md",
     "haemophilus influenzae.md",
     "bronchiectasis.md",
     "immunisation schedule (paeds).md",

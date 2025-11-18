@@ -33,7 +33,7 @@ If asthma still not confirmed with Eosinophil count, FeNO, BDR, PEF variability 
 
 FeNO >= 35ppb
 
-If level not raised or test can't be done
+If level not raised, or test can't be done: 
 - BDR with spirometry
 If no spirometry
 - PEF twice daily for 2 weeks

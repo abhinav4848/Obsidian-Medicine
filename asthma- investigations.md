@@ -6,13 +6,14 @@ aliases:
 tags:
   - respiratory
 ---
-See [[asthma]] & [[asthma- diagnosis]]. 
+See [[asthma]] & [[asthma- diagnosis (algorithm)]]. 
 # Eosinophils 
 Eosinophils are specifically involved in type 2 inflammation, a key immunological pathway in many asthma phenotypes, making them a targeted marker for disease activity. Unlike other white blood cells, eosinophils play a direct role in airway inflammation by releasing granules containing cytotoxic proteins like eosinophil peroxidase and major basic protein, which damage epithelial cells and perpetuate inflammation. Additionally, eosinophils are activated by interleukin-5 (IL-5) and other cytokines in the type 2 pathway, distinguishing them from neutrophils or lymphocytes, which are more associated with other immune responses. IL-5 is an important target new monoclonal antibody treatments such as mepolizumab.  
   
 # Fractional exhaled nitric oxide (FeNO)
-FeNO reflects the level of nitric oxide produced by airway epithelial cells in response to eosinophilic inflammation, a hallmark of [[asthma- diagnosis#First line investigation|asthma]]. It is measured non-invasively by having the patient exhale steadily into a handheld device, which analyses nitric oxide concentration in parts per billion (ppb).  
-  
+FeNO reflects the level of nitric oxide produced by airway epithelial cells in response to eosinophilic inflammation, a hallmark of [[asthma- diagnosis (algorithm)#First line investigation|asthma]]. It is measured non-invasively by having the patient exhale steadily into a handheld device, which analyses nitric oxide concentration in parts per billion (ppb).  
+Adult confirmation > 50ppb
+Child confirmation >35ppb
 # Bronchodilator reversibility (BDR) testing with spirometry 
 Bronchodilator reversibility (BDR) testing with [[spirometry]] evaluates the degree of airflow limitation that improves after administration of a bronchodilator, a key diagnostic feature of asthma. In asthma, airway obstruction results primarily from reversible bronchial smooth muscle constriction and airway inflammation, which can respond to bronchodilators by relaxing the smooth muscle and reducing resistance. Measuring FEV1 before and after bronchodilator administration demonstrates this reversibility, with an increase of ≥12% and ≥200 mL indicating significant improvement. This reversibility distinguishes [[asthma]] from fixed airway obstruction seen in conditions like [[COPD]], where airflow limitation is less responsive.  
   
