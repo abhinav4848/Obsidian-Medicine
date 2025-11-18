@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asthma- diagnosis (algorithm).md",
+                "file": "asthma- severity assessment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "asthma- diagnosis (algorithm)"
+              "title": "asthma- severity assessment"
+            }
+          },
+          {
+            "id": "9adc3ec57ec76983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shortness of breath.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "shortness of breath"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "asthma",
+                "query": "dyspnoea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -185,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asthma- diagnosis (algorithm).md",
+                "file": "shortness of breath.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +211,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for asthma- diagnosis (algorithm)"
+              "title": "Backlinks for shortness of breath"
             }
           }
         ]
@@ -216,26 +232,29 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "d8cdb718f4d9c587",
+  "active": "9adc3ec57ec76983",
   "lastOpenFiles": [
-    "asthma.md",
+    "copd.md",
+    "shortness of breath.md",
+    "heart failure.md",
+    "copd- treatment.md",
+    "attachments/chronic heart failure- management.png",
+    "mrc dyspnoea scale.md",
+    "bronchiectasis.md",
     "asthma- severity assessment.md",
-    "asthma- acute attack.md",
+    "asthma.md",
     "asthma- diagnosis (algorithm).md",
+    "asthma- acute attack.md",
     "asthma- investigations.md",
     "obstructive sleep apnoea.md",
     "copd- acute exacerbation.md",
     "spirometry.md",
-    "mrc dyspnoea scale.md",
     "respiratory failure.md",
     "scoring system.md",
     "asthma- new management 2024.md",
     "asthma- drugs.md",
-    "copd- treatment.md",
-    "copd.md",
     "pneumonia.md",
     "haemophilus influenzae.md",
-    "bronchiectasis.md",
     "immunisation schedule (paeds).md",
     "respiratory tract infections.md",
     "desktop.ini",
@@ -243,9 +262,6 @@
     "otitis.md",
     "tonsillitis.md",
     "rhinosinusitis.md",
-    "sarcoidosis.md",
-    "cancer- ent.md",
-    "morphine breakthrough dose.md",
     "attachments/urinalysis protein (urine dip stick).png",
     "attachments/auer rods (AML).png",
     "attachments/boutonniere's deformity.png",
@@ -255,7 +271,6 @@
     "attachments/Pasted image 20251116221232.png",
     "attachments/parkinson's drugs and effects 2.png",
     "attachments/right snhl.png",
-    "attachments/meniere's disease.png",
     "hypertension management.canvas",
     "Untitled.base",
     "Untitled.canvas",

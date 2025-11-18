@@ -10,7 +10,7 @@ urls:
 # Asthma
 - [[asthma- diagnosis (algorithm)|Diagnosis of Asthma]] 
 - [[asthma- severity assessment|Assess severity of asthma]]
-- [[asthma- acute attack|Acute attack of Asthma]] (adult & paeds)
+- [[asthma- acute attack|Acute attack of Asthma]] (adult & paeds) 
 - **Unique case**: Stable asthma, with just exercise induced SoB: LTRA > Sodium cromoglicate.
 ## Stable asthma management
 See [[asthma- drugs]]. 

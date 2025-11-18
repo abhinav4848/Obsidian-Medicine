@@ -4,6 +4,9 @@ tags:
 ---
 Permanent dilatation of airway 2* to chronic inflammation or infection
 [[haemophilus influenzae|HiB]] > Pseudomonas, Klebsiella, Strep pneumoniae
+
+# Predisposing features
+Patients may have a history of previous infections (e.g. [[Tuberculosis]], measles), bronchial obstruction or ciliary dyskinetic syndromes e.g. Kartagener's syndrome
 # Clinical features
 - Chronic cough -> Excessive sputum production
 - Fever with shivering, night sweats, patients have dental decay (alcoholics, children)

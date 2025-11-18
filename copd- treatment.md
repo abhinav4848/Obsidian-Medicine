@@ -1,6 +1,7 @@
 ---
 aliases:
   - treatment of stable COPD
+  - COPD- Treatment
 tags:
   - respiratory
 urls:
@@ -14,7 +15,7 @@ urls:
 >There's risk of pneumonia in COPD patients using ICS + [Psychological](https://www.gov.uk/drug-safety-update/inhaled-and-intranasal-corticosteroids) side effects. 
 # From NICE CKS 
 Stop [[smoking]] (including nicotine replacement, varenicline or bupropion)
-One off pneumococcal vaccine + annual influenza vaccine #vaccine
+One off pneumococcal vaccine + annual influenza vaccine #vaccine Same as [[heart failure#Other treatments|HF]]. 
 
 - Start with Bronchodilator therapy: [[asthma- drugs|SABA/SAMA]] (first line)
 - If ✅ \*[[asthma|asthmatic]] features suggesting steroid responsiveness -> Add on LABA + ICS

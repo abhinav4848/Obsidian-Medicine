@@ -6,21 +6,21 @@ tags:
   - respiratory
   - emergency
 revision counter:
-  - "1"
+  - "2"
 revision notes: different grades of severity like Pulse rate, RR, PEFR
 ---
 # Assess Severity of asthma attack
 Determine the severity of asthma exacerbation by: [[asthma- investigations#Peak expiratory flow (PEF) variability|Peak expiratory flow rate]] (PEFR) using [[spirometry#Asthma|Peak flow meter (Spirometry)]].
-- Moderate: 50-75%
+- Moderate: 50-75% 
 - Acute severe: 33-50%
 - Life threat: <33%
 ABG is done in A&E to know O2 sats. 
 
 ## Severity differences
 
-| **Moderate**                                                                                    | **Severe**                                                                                                  | **Life-threatening**                                                                                                                                                                                   |
-| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| • PEFR > 50% best or predicted  <br>• Speech normal  <br>• RR < 25 / min  <br>• Pulse < 110 bpm | • PEFR 33 - 50% best or predicted  <br>• Can't complete sentences  <br>• RR > 25/min  <br>• Pulse > 110 bpm | • PEFR < 33% best or predicted  <br>• Oxygen sats < 92%  <br>• Silent chest, cyanosis or feeble respiratory effort  <br>• Bradycardia, dysrhythmia or hypotension  <br>• Exhaustion, confusion or coma |
+| **Moderate**                                                                                   | **Severe**                                                                                                  | **Life-threatening**                                                                                                                                                                                   |
+| ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| • PEFR > 50% best or predicted  <br>• Speech normal <br>• RR < 25 / min  <br>• Pulse < 110 bpm | • PEFR 33 - 50% best or predicted  <br>• Can't complete sentences  <br>• RR > 25/min  <br>• Pulse > 110 bpm | • PEFR < 33% best or predicted  <br>• Oxygen sats < 92%  <br>• Silent chest, cyanosis or feeble respiratory effort  <br>• Bradycardia, dysrhythmia or hypotension  <br>• Exhaustion, confusion or coma |
 # Life threatening features
 - PEFR < 33% predicted or best.
 - SpO2 < 92%.
