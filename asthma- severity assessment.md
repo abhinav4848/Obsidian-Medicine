@@ -9,14 +9,13 @@ revision counter:
   - "2"
 revision notes: different grades of severity like Pulse rate, RR, PEFR
 ---
-# Assess Severity of asthma attack
-Determine the severity of asthma exacerbation by: [[asthma- investigations#Peak expiratory flow (PEF) variability|Peak expiratory flow rate]] (PEFR) using [[spirometry#Asthma|Peak flow meter (Spirometry)]].
-- Moderate: 50-75% 
-- Acute severe: 33-50%
-- Life threat: <33%
-ABG is done in A&E to know O2 sats. 
-
-## Severity differences
+Determine the severity of asthma exacerbation by
+- [[asthma- investigations#Peak expiratory flow (PEF) variability|Peak expiratory flow rate]] (PEFR) 
+- using [[spirometry#Asthma|Peak flow meter (Spirometry)]]: 
+	- Moderate: 50-75% 
+	- Acute severe: 33-50%
+	- Life threat: <33%
+#### Severity grading of Asthma
 
 | **Moderate**                                                                                   | **Severe**                                                                                                  | **Life-threatening**                                                                                                                                                                                   |
 | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

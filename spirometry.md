@@ -8,16 +8,24 @@ revision notes: Keep forgetting the mild/mod/severe classification of COPD
 revision counter:
   - "1"
 ---
-Normal ratio of FEV1:FVC is 0.8
-# Obstructive Lung Diseases
-They have FEV1/FVC: <0.7
-#confusion 
-## Asthma
-BDR with spirometry is [[asthma- diagnosis (algorithm)#Second line investigation|2nd line test]] to diagnose asthma. Here, spirometry improves after bronchodilators (reversible obstruction). 
-Also, [[asthma- investigations#Peak expiratory flow (PEF) variability|asthma worse at night]] & early morning so Peak flow will show variability
+# Differences
 
-*See [[asthma- severity assessment|Assess severity of asthma]] for the grading of Asthma severity.*
-![[asthma- severity assessment#Severity differences]]
+| Pattern         | FEV₁   | FVC         | FEV₁/FVC ratio     | Key Point                        |
+| --------------- | ------ | ----------- | ------------------ | -------------------------------- |
+| **Normal**      | Normal | Normal      | ~0.8               | Normal lung function             |
+| **Restrictive** | ↓      | ↓           | Normal or ↑ (>0.7) | Reduced volumes; preserved ratio |
+| **Obstructive** | ↓      | Normal or ↓ | <0.7               | Airflow limitation               |
+
+---
+# Obstructive Lung Diseases 
+## Asthma
+### See [[asthma- diagnosis (algorithm)|Algorithm for Asthma Diagnosis]]. 
+- BDR with spirometry is [[asthma- diagnosis (algorithm)#Second line investigation|2nd line test]] to diagnose asthma. Here, spirometry improves after bronchodilators (reversible obstruction). 
+- Peak flow will show variability, as [[asthma- investigations#Peak expiratory flow (PEF) variability|Asthma worse at night]] & early morning. 
+
+### [[asthma- severity assessment|Assess severity of asthma]] with Peak Flow:
+
+![[asthma- severity assessment#Severity grading of Asthma]]
 
 ---
 ## COPD
@@ -36,9 +44,6 @@ Don't do [[copd- treatment#Asthmatic Features|new BDR to check for Asthma]] feat
 
 ---
 # Restrictive Lung Diseases
-(FEV1/FVC > 0.7)
-FEV1 ↓, FVC ↓, ratio normal or ↑
-
 See [[restrictive lung diseases]]
 
 ---
