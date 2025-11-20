@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "antiemetics.md",
+                "file": "morphine breakthrough dose.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "antiemetics"
+              "title": "morphine breakthrough dose"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ondanse",
+                "query": "morphine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "antiemetics.md",
+                "file": "morphine breakthrough dose.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for antiemetics"
+              "title": "Backlinks for morphine breakthrough dose"
             }
           }
         ]
@@ -234,9 +234,10 @@
   },
   "active": "9adc3ec57ec76983",
   "lastOpenFiles": [
-    "anticholinergics.md",
     "antiemetics.md",
+    "anticipatory meds.md",
     "ondansetron.md",
+    "anticholinergics.md",
     "d2 antagonism.md",
     "asthma- diagnosis (algorithm).md",
     "desktop.ini",
@@ -261,7 +262,6 @@
     "respiratory failure.md",
     "scoring system.md",
     "asthma- drugs.md",
-    "pneumonia.md",
     "housekeeping/memorise.base",
     "attachments/urinalysis protein (urine dip stick).png",
     "attachments/auer rods (AML).png",

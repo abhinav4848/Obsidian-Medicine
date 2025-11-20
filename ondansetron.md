@@ -11,3 +11,4 @@ Works by blocking the action of serotonin which can cause vomiting.
 
 # Side effects
 [[qt prolongation|QT prolongation]]
+Constipation. 

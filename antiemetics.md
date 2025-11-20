@@ -47,8 +47,6 @@ The first step is IV fluids
 - 2nd line: IV Metoclopramide, Ondansetron
 - 3rd line: Steroids
 # Treatments
-We can combine different classes of antiemetics for patients who are undergoing chemo & have not responded to initial treatments. 
-
 [[D2 antagonism]]- [[metoclopramide]], domperidone, [[antipsychotic drugs|Prochlorperazine]], [[haloperidol]]. 
 
 Serotonin receptor antagonists (5HT3 antagonists): [[Ondansetron]], Granisetron
@@ -80,3 +78,10 @@ Benzodiazepines- Loraz
 
 Atypical [[antipsychotic drugs|antipsychotics]]- Olanzapine
 - Central action by inhibiting dopamine, serotonin, histamine
+
+See [[anticipatory meds|drugs in palliative care]] for Haloperidol, Levomepromazine. 
+
+# Notes
+- We can combine different classes of antiemetics for patients who are undergoing chemo & have not responded to initial treatments. 
+- If treatment is not effective, aim to change rather than add medication. In particular, avoid prokinetics in combination with cyclizine as they have an antagonistic effect with each other. Sometimes, however, a combination is appropriate. 
+- **Remember oropharyngeal irritation**. Perhaps due to candidiasis, this is an under-recognised and reversible cause of retching and vomiting – just take a look to check for this!
