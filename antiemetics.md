@@ -47,9 +47,11 @@ The first step is IV fluids
 - 2nd line: IV Metoclopramide, Ondansetron
 - 3rd line: Steroids
 # Treatments
+We can combine different classes of antiemetics for patients who are undergoing chemo & have not responded to initial treatments. 
+
 [[D2 antagonism]]- [[metoclopramide]], domperidone, [[antipsychotic drugs|Prochlorperazine]], [[haloperidol]]. 
 
-Serotonin receptor antagonists (5HT3 antagonists): Ondansetron, Granisetron
+Serotonin receptor antagonists (5HT3 antagonists): [[Ondansetron]], Granisetron
 - Strong central antiemetic effect at the [[areas of brain|CTZ]]. 
 - peripheral antiemetic effect via inhibition of vagus nerve.
 

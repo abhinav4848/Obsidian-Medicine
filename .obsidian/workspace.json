@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asthma- diagnosis (algorithm).md",
+                "file": "antiemetics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "asthma- diagnosis (algorithm)"
+              "title": "antiemetics"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "asthma",
+                "query": "ondanse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -91,7 +91,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asthma- diagnosis (algorithm).md",
+                "file": "antiemetics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +211,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for asthma- diagnosis (algorithm)"
+              "title": "Backlinks for antiemetics"
             }
           }
         ]
@@ -233,9 +234,13 @@
   },
   "active": "9adc3ec57ec76983",
   "lastOpenFiles": [
+    "anticholinergics.md",
+    "antiemetics.md",
+    "ondansetron.md",
+    "d2 antagonism.md",
+    "asthma- diagnosis (algorithm).md",
     "desktop.ini",
     "asthma- investigations.md",
-    "asthma- diagnosis (algorithm).md",
     "spirometry.md",
     "asthma- severity assessment.md",
     "asthma.md",
@@ -257,9 +262,6 @@
     "scoring system.md",
     "asthma- drugs.md",
     "pneumonia.md",
-    "haemophilus influenzae.md",
-    "immunisation schedule (paeds).md",
-    "respiratory tract infections.md",
     "housekeeping/memorise.base",
     "attachments/urinalysis protein (urine dip stick).png",
     "attachments/auer rods (AML).png",

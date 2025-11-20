@@ -2,9 +2,12 @@
 tags:
   - pharmacology
 ---
+5HT3 antagonist. 
+This class also includes Granisetron. 
+
+Works by blocking the action of serotonin which can cause vomiting. 
 # Indication
-Chemo or radiotherapy induced N&V
+[[antiemetics|anti-emetic]]: Chemo or radiotherapy induced N&V (CINV). 
 
 # Side effects
-5HT3 antagonist. 
 [[qt prolongation|QT prolongation]]
