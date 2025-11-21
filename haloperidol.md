@@ -8,7 +8,7 @@ First gen [[antipsychotic drugs|antipsychotic]].
 Antagonist on D2, alpha-1, sigma receptors. 
 # Indication
 1. drug/chemo induced nausea
-2. Management of intractable hiccups (not confirmed in RCTs). 
+2. Management of intractable hiccups (not confirmed in Randomised control trials). 
 3. metabolic causes of [[antiemetics|nausea]] 
 4. Settles agitation and [[antipsychotic drugs|psychosis]] including hallucinations. 
 ## Caution

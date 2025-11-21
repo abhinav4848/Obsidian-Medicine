@@ -13,11 +13,11 @@ Six broad nausea and vomiting syndromes
 **Reduced gastric motility**
 - May be opioid related
 - Related to serotonin (5HT4) and dopamine (D2) receptors
-- Can use Metoclopramide/Domperidone unless prokinetic effect will have negative effects, e.g. Complete bowel obstruction, GI perforation, soon after gastric surgery. 
+- Can use [[Metoclopramide]]/Domperidone unless prokinetic effect will have negative effects, e.g. Complete bowel obstruction, GI perforation, soon after gastric surgery. 
 
 **Chemically mediated**
 - Secondary to hypercalcaemia, opioids, or chemotherapy
-- Can use [[Ondansetron]], Haloperidol, Levomepromazine
+- Can use [[Ondansetron]], [[Haloperidol]], Levomepromazine
 
 **Visceral/Serosal**
 - Due to constipation
@@ -32,7 +32,7 @@ Six broad nausea and vomiting syndromes
 - If GCS very low + neurological deficit (unequal pupils) & ICH, do craniotomy
 
 **Vestibular (BPPV, Meniere, Vestibular neuritis)***
-- Related to activation of acetylcholine and histamine (H1) receptors-> cyclizine works best. Can also use Metoclopramide/Prochlorperazine for refractory cases. Or can even use Olanzapine/Risperidone as per UpToDate. 
+- Related to activation of acetylcholine and histamine (H1) receptors-> cyclizine works best. Can also use [[Metoclopramide]]/Prochlorperazine for refractory cases. Or can even use Olanzapine/Risperidone as per UpToDate. 
 - Most frequently in palliative care is opioid related
 - Can be motion related, or due to base of skull tumours
 
@@ -43,6 +43,7 @@ Six broad nausea and vomiting syndromes
 
 **Hyperemesis gravidarum**
 The first step is IV fluids
+*See [[drugs contraindicated in pregnancy]].* 
 - 1st line: "zine" family e.g. Cyclizine, Promethazine
 - 2nd line: IV Metoclopramide, Ondansetron
 - 3rd line: Steroids

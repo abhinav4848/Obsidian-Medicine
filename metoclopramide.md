@@ -4,14 +4,15 @@ tags:
 urls:
   - https://www.amboss.com/us/knowledge/antiemetics/
 ---
-Has complimentary [[antiemetics|anti-emetic]] effects due to action on 2 diff receptors:
+Has complimentary [[antiemetics|anti-emetic]] effects due to action on two different receptors:
 - [[d2 antagonism|D2-receptor antagonist]] (Avoid in Parkinson's)
 - It's also Serotonin receptor antagonist that helps with anti-emetic effect. 
 Non-sedating. 
-Useful in impaired gastric emptying (gastroparesis). 
-# Uses
+Useful in impaired gastric emptying (gastroparesis).  
+# Uses 
 - Central anti-emetic effect on [[areas of brain|area postrema]] (an area just outside the BBB that contains CTZ)
 - D2 antagonism, 5-HT4 agonism in GIT -> Increased Ach release in myenteric plexus -> Prokinetic effect in upper GIT (useful in diabetic and post-surgery gastroparesis). 
+	- Good for nausea due to gastric stasis. 
 - Hyperemesis gravidarum
 - Symptomatic relief of acute migraine, chemotherapy or radiotherapy-induced nausea and vomiting. 
 # Side effects
