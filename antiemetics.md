@@ -14,16 +14,16 @@ Six broad nausea and vomiting syndromes
 - May be opioid related
 - Related to [[5-ht receptors (serotonin receptors)|Serotonin]] (5HT4) and dopamine (D2) receptors
 - Can use [[Metoclopramide]]/Domperidone **unless** prokinetic effect will have negative effects, e.g. Complete bowel obstruction, GI perforation, soon after gastric surgery, Colic
-- Use case: Gastric Stasis (patient with malignant ascites feeling nausea/bloated/passing wind/BNO 2 days/No Colic). 
+- Use case: Gastric Stasis (patient with malignant ascites feeling nausea/bloated/passing wind/BNO 2 days/No Colic)- First line domperidone. Consider Paracentesis if ascites significant issue. 
 
 **Chemically mediated**
 - Secondary to hypercalcaemia, opioids, or chemotherapy
 - Can use [[Ondansetron]], [[Haloperidol]], Levomepromazine
 
-**Visceral/Serosal**
+**Visceral/Serosal** 
 - Due to constipation
 - Oral candidiasis
-- Cyclizine and levomepromazine are first-line
+- **Cyclizine** and levomepromazine are first-line
 - Anti-cholinergics such as hyoscine can be useful
 
 **Raised intra-cranial pressure**
