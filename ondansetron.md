@@ -2,7 +2,7 @@
 tags:
   - pharmacology
 ---
-5HT3 antagonist. 
+It is [[5-ht receptors (serotonin receptors)|5HT3 antagonist]]. 
 This class also includes Granisetron. 
 
 Works by blocking the action of serotonin which can cause vomiting. 

@@ -28,17 +28,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "haloperidol.md",
+                "file": "anticipatory meds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "haloperidol"
+              "title": "anticipatory meds"
+            }
+          },
+          {
+            "id": "853f707be641e9d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "metoclopramide.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "metoclopramide"
+            }
+          },
+          {
+            "id": "dc933002cfb69c4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "areas of brain.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "areas of brain"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "morphine",
+                "query": "parts of ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -91,7 +121,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "haloperidol.md",
+                "file": "metoclopramide.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +241,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for haloperidol"
+              "title": "Backlinks for metoclopramide"
             }
           }
         ]
@@ -231,17 +262,19 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "9adc3ec57ec76983",
+  "active": "853f707be641e9d1",
   "lastOpenFiles": [
-    "antipsychotic drugs.md",
-    "anticholinergics.md",
-    "gynaecomastia.md",
-    "haloperidol.md",
-    "anticipatory meds.md",
-    "antiemetics.md",
+    "5-ht receptors (serotonin receptors).md",
     "metoclopramide.md",
-    "morphine breakthrough dose.md",
+    "gynaecomastia.md",
+    "areas of brain.md",
     "ondansetron.md",
+    "antipsychotic drugs.md",
+    "anticipatory meds.md",
+    "haloperidol.md",
+    "anticholinergics.md",
+    "antiemetics.md",
+    "morphine breakthrough dose.md",
     "d2 antagonism.md",
     "asthma- diagnosis (algorithm).md",
     "desktop.ini",
@@ -259,8 +292,6 @@
     "copd- treatment.md",
     "attachments/chronic heart failure- management.png",
     "mrc dyspnoea scale.md",
-    "bronchiectasis.md",
-    "asthma- acute attack.md",
     "housekeeping/memorise.base",
     "attachments/urinalysis protein (urine dip stick).png",
     "attachments/auer rods (AML).png",
