@@ -16,7 +16,7 @@ Useful in impaired gastric emptying (gastroparesis).
 - D2 antagonism, 5-HT4 agonism in GIT -> Increased Ach release in myenteric plexus -> Prokinetic effect in upper GIT (useful in diabetic and post-surgery gastroparesis). 
 	- Good for nausea due to gastric stasis. 
 - Hyperemesis gravidarum
-- Symptomatic relief of acute migraine, chemotherapy or radiotherapy-induced nausea and vomiting. 
+- Symptomatic relief of acute migraine, chemotherapy or radiotherapy-induced nausea and vomiting 
 - Subacute bowel obstruction
 	- Prokinetics like metoclopramide are actually used in sub-acute bowel obstruction as they can prevent progression to complete obstruction - so unless you are concerned about acute obstruction then fine to go ahead.
 # Side effects
