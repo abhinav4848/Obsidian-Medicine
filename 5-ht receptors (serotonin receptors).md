@@ -3,6 +3,7 @@ tags:
   - pharmacology
 aliases:
   - Serotonin receptor
+  - Serotonin
 ---
 Serotonin is synthesized from Tryptophan. 
 High concentration of Serotonin is found in Intestine, platelets, brain.

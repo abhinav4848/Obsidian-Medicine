@@ -12,8 +12,9 @@ Six broad nausea and vomiting syndromes
 
 **Reduced gastric motility**
 - May be opioid related
-- Related to serotonin (5HT4) and dopamine (D2) receptors
-- Can use [[Metoclopramide]]/Domperidone unless prokinetic effect will have negative effects, e.g. Complete bowel obstruction, GI perforation, soon after gastric surgery. 
+- Related to [[5-ht receptors (serotonin receptors)|Serotonin]] (5HT4) and dopamine (D2) receptors
+- Can use [[Metoclopramide]]/Domperidone unless prokinetic effect will have negative effects, e.g. Complete bowel obstruction, GI perforation, soon after gastric surgery, Colic
+- Use case: Gastric Stasis (patient with malignant ascites feeling nausea/bloated/passing wind/BNO 2 days/No Colic). 
 
 **Chemically mediated**
 - Secondary to hypercalcaemia, opioids, or chemotherapy
@@ -39,7 +40,7 @@ Six broad nausea and vomiting syndromes
 **Cortical**
 - May be due to anxiety, pain, fear and/or anticipatory nausea
 - Related to GABA and histamine (H1) receptors in the cerebral cortex
-- Can use Loraz, else cyclizine. Can trial ondansetron/metoclopramide
+- Can use Lorazepam, else cyclizine. Can trial ondansetron/metoclopramide
 
 **Hyperemesis gravidarum**
 The first step is IV fluids
