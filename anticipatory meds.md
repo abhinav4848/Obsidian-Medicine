@@ -73,3 +73,11 @@ Phenobarbital- anti-convulsant and sedative.
 | Breathlessness                                                                        | If palliative patient fit enough for x-ray, he's fit for pleural aspiration to treat his breathlessness.<br><br>But if he was too unwell, try oxygen, fan therapy, otherwise strong opioids. Morphine/Oxy/Diamorphine s.c                                                                                                                                                                                                                                                                                                                                                 |
 | Nausea/Vomiting                                                                       | Initially tailor the antiemetic to the cause, later, give broad spectrum anti-emetic like Levomepromazine.                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Agitation/Anxiety                                                                     | Midaz/Loraz.<br>Levomepromazine<br>haloperidol                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+# Syringe driver meds
+These drugs prefer NaCl 
+#mnemonic : Granny KO KO
+Granisetron
+Ketamine
+Octreotide
+Ketorolac
+Ondansetron
