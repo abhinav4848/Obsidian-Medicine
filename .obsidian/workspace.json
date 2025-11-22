@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "antiemetics.md",
+                "file": "metoclopramide.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "antiemetics"
+              "title": "metoclopramide"
             }
           }
         ],
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "antiemetics.md",
+                "file": "metoclopramide.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for antiemetics"
+              "title": "Backlinks for metoclopramide"
             }
           }
         ]
@@ -249,8 +249,8 @@
   },
   "active": "853f707be641e9d1",
   "lastOpenFiles": [
-    "areas of brain.md",
     "antiemetics.md",
+    "areas of brain.md",
     "metoclopramide.md",
     "5-ht receptors (serotonin receptors).md",
     "ondansetron.md",

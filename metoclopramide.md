@@ -17,6 +17,8 @@ Useful in impaired gastric emptying (gastroparesis).
 	- Good for nausea due to gastric stasis. 
 - Hyperemesis gravidarum
 - Symptomatic relief of acute migraine, chemotherapy or radiotherapy-induced nausea and vomiting. 
+- Subacute bowel obstruction
+	- Prokinetics like metoclopramide are actually used in sub-acute bowel obstruction as they can prevent progression to complete obstruction - so unless you are concerned about acute obstruction then fine to go ahead.
 # Side effects
 1. Crosses BBB- In young people can cause [[extrapyramidal side-effects|acute dystonia]] due to EPS effect (drug-induced [[parkinson's disease|parkinsonism]]), e.g.: Oculogyric crisis.
 	1. The FDA recommends that metoclopramide be used at low doses and for less than 12 weeks because the risk of [[extrapyramidal side-effects|drug-induced movement disorders]] (e.g., tardive dyskinesia, akathisia) is increased with high-doses and prolonged therapy.
