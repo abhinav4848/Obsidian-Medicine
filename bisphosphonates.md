@@ -39,3 +39,4 @@ A: It's because they're poorly absorbed so need to be on an empty stomach to try
 
 # In Palliative setting with high calcium
 - zoledronate over 4 hrs. Shows effect in few days. 
+- Also used for [[cancers metastasizing to the bone|bone pain due to mets]]. 

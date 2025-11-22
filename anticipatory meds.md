@@ -81,3 +81,5 @@ Ketamine
 Octreotide
 Ketorolac
 Ondansetron
+
+Rest others use water for injection. 

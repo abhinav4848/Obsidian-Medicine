@@ -18,6 +18,7 @@ Widespread bone lesions are a feature of [[melanoma]]- more osteolytic lesions.
 # Clinical Features of bone mets
 - bone pain- unrelenting, progressive, could be present at rest. 
 - pathological fracture
-- nerve compression
-- [[hypercalcemia]] 
+- nerve compression- Risk of [[mscc|MSCC]]. 
+- [[hypercalcemia]]
+- Strong opioids have the lowest number needed to treat for relieving the pain and can provide quick relief, in contrast to radiotherapy and [[bisphosphonates]]. All patients, however, should be considered for referral to a clinical oncologist for consideration of further treatments such as radiotherapy
 
