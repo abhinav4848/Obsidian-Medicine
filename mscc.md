@@ -28,7 +28,8 @@ Mostly extradural compression due to [[cancers metastasizing to the bone|vertebr
 - MSCC can be the initial presentation of a cancer and so an important differential to consider when seeing all patients even if no previous history of cancer is known.
 
 # Investigation
-Urgent MRI: the 2019 NICE guidelines recommend a **whole MRI spine** within 24 hours of presentation
+Urgent MRI: the 2019 NICE guidelines recommend a **whole MRI spine** within 24 hours of presentation.
+Waiting for neurological signs to develop could result in irreversible neurological damage. 
 
 # Management 
 - high-dose oral [[corticosteroid|dexamethasone]] 16mg until MRI done. 
