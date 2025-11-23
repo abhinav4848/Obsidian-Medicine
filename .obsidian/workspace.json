@@ -43,17 +43,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "morphine breakthrough dose.md",
+                "file": "cancer- frequency.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "morphine breakthrough dose"
+              "title": "cancer- frequency"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bisph",
+                "query": "cancer fre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mscc.md",
+                "file": "cancer- frequency.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for mscc"
+              "title": "Backlinks for cancer- frequency"
             }
           }
         ]
@@ -247,16 +247,17 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "9adc3ec57ec76983",
+  "active": "853f707be641e9d1",
   "lastOpenFiles": [
-    "corticosteroid.md",
+    "melanoma.md",
+    "cancer- frequency.md",
+    "morphine breakthrough dose.md",
     "mscc.md",
+    "corticosteroid.md",
     "polymyalgia rheumatica.md",
     "cancers metastasizing to the bone.md",
     "bisphosphonates.md",
     "anticipatory meds.md",
-    "morphine breakthrough dose.md",
-    "cancer- frequency.md",
     "cancer- breast (treatment).md",
     "cancer & associations.md",
     "cancer- breast (referral criteria).md",
@@ -275,7 +276,6 @@
     "asthma- diagnosis (algorithm).md",
     "asthma- investigations.md",
     "spirometry.md",
-    "asthma- severity assessment.md",
     "attachments/chronic heart failure- management.png",
     "housekeeping/memorise.base",
     "attachments/urinalysis protein (urine dip stick).png",
