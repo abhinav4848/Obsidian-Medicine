@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anticipatory meds.md",
+                "file": "irritable bowel syndrome.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "anticipatory meds"
+              "title": "irritable bowel syndrome"
             }
           },
           {
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oral lesion",
+                "query": "fodm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anticipatory meds.md",
+                "file": "irritable bowel syndrome.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +241,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for anticipatory meds"
+              "title": "Backlinks for irritable bowel syndrome"
             }
           }
         ]
@@ -263,9 +264,9 @@
   },
   "active": "853f707be641e9d1",
   "lastOpenFiles": [
+    "anticipatory meds.md",
     "mscc.md",
     "oral lesions- treatments.md",
-    "anticipatory meds.md",
     "haloperidol.md",
     "morphine breakthrough dose.md",
     "cancer- frequency.md",
