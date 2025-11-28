@@ -3,7 +3,7 @@ tags:
   - cancer
   - gastro
 aliases:
-  - pancreatic cancer
+  - Pancreatic cancer
   - pancreatic head adenocarcinoma
 ---
 # Risk Factor
