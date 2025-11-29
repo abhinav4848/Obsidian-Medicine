@@ -195,14 +195,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "pancoast tumor.md"
+                "file": "tumour marker.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for pancoast tumor"
+              "title": "File properties for tumour marker"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "ba756b466b0b4515",
@@ -246,7 +246,7 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "676efa40181a3294",
+  "active": "f773b2f74c015d2b",
   "lastOpenFiles": [
     "oral lesions- treatments.md",
     "cancer- pancreas.md",
