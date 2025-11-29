@@ -106,8 +106,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -247,7 +246,7 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "853f707be641e9d1",
+  "active": "676efa40181a3294",
   "lastOpenFiles": [
     "oral lesions- treatments.md",
     "cancer- pancreas.md",
