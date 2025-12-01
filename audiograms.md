@@ -2,7 +2,7 @@
 tags:
   - ent
 ---
-Rules of interpretation
+# Rules of interpretation
 - anything above the 20dB line is essentially normal (marked in green on the audiogram below)
 - SNHL: both air and bone conduction are impaired
 - CHL: only air conduction is impaired. So Air-Bone gap will be seen.
