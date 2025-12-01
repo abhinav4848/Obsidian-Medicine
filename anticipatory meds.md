@@ -40,9 +40,9 @@ if renal impairment is more severe, alfentanil, fentanyl, (they're metabolised i
 | [[Ondansetron]]      | N& V due to chemo & radio                                                                                                                                                                                                                                                                                                                                                                                        |
 | Domperidone          | antagonises the inhibitory effect of dopamine peripherally, resulting in stimulation of gastric muscle contraction. Good anti-emetic to use for GI pain in palliative care                                                                                                                                                                                                                                       |
 ## Sedative and anti-emetic
-|                 |                                                                                             |
-| --------------- | ------------------------------------------------------------------------------------------- |
-| Levomepromazine | Sedative & Broad-spectrum antiemetic. <br>Pain, Restlessness, Confusion, terminal agitation |
+|                 |                                                                                                                                                                                                                                           |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Levomepromazine | Sedative & Broad-spectrum [[antiemetics\|anti-emetic]] useful for mechanical obstruction, and for persistent nausea and vomiting uncontrolled by other anti-emetics.<br><br>Can use for pain, Restlessness, Confusion, terminal agitation |
 ## Sedatives
 
 |           |                                                                                                                                                                                                                                        |

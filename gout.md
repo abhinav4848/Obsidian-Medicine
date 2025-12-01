@@ -5,7 +5,7 @@ tags:
 ---
 # Cause
 ## Diseases: 
-Seen in Polycythemia, [[leukemia|leukaemia]], Tumour lysis syndrome, Psoriasis, Lesch-Nyhan syndrome (self mutilating disorder due to buildup of uric acid). 
+Seen in Polycythemia, [[leukemia|leukaemia]], [[tumour lysis syndrome]], Psoriasis, Lesch-Nyhan syndrome (self mutilating disorder due to buildup of uric acid). 
 ## Drugs
 #mnemonic : FACT 
 Furosemide, Alcohol excess, [[Cytotoxic drugs]] (cyclosporine), [[side effects of cvs drugs|thiazide]], Pyrazinamide

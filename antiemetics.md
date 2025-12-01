@@ -4,6 +4,7 @@ tags:
   - oncology
 aliases:
   - anti-emetic
+  - antiemetic
 urls:
   - https://www.amboss.com/us/knowledge/antiemetics/
 ---

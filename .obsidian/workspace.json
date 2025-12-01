@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mscc.md",
+                "file": "cancer- bone.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "mscc"
+              "title": "cancer- bone"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tumour marker.md",
+                "file": "superior vena cava syndrome.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "tumour marker"
+              "title": "superior vena cava syndrome"
             }
           }
         ],
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cancer",
+                "query": "svco",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,7 +106,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,10 +196,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "tumour marker.md"
+                "file": "superior vena cava syndrome.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for tumour marker"
+              "title": "File properties for superior vena cava syndrome"
             }
           }
         ],
@@ -215,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tumour marker.md",
+                "file": "superior vena cava syndrome.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +226,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for tumour marker"
+              "title": "Backlinks for superior vena cava syndrome"
             }
           }
         ]
@@ -246,35 +247,35 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "f773b2f74c015d2b",
+  "active": "853f707be641e9d1",
   "lastOpenFiles": [
+    "cancer- lung.md",
+    "superior vena cava syndrome.md",
+    "tumour lysis syndrome.md",
+    "gout.md",
+    "cancer- bone.md",
+    "cytotoxic drugs.md",
+    "anticipatory meds.md",
+    "mscc.md",
+    "cancers metastasizing to the bone.md",
+    "antiemetics.md",
+    "metoclopramide.md",
     "oral lesions- treatments.md",
-    "cancer- pancreas.md",
+    "diabetes in palliative care.md",
     "tumour marker.md",
+    "cancer- pancreas.md",
     "cancer- screening programs.md",
     "cancer- frequency.md",
     "irritable bowel syndrome.md",
     "desktop.ini",
-    "anticipatory meds.md",
-    "mscc.md",
     "haloperidol.md",
     "morphine breakthrough dose.md",
     "melanoma.md",
     "corticosteroid.md",
     "polymyalgia rheumatica.md",
-    "cancers metastasizing to the bone.md",
     "bisphosphonates.md",
     "cancer- breast (treatment).md",
     "cancer & associations.md",
-    "cancer- breast (referral criteria).md",
-    "cancer- bone.md",
-    "antiemetics.md",
-    "ondansetron.md",
-    "metoclopramide.md",
-    "areas of brain.md",
-    "5-ht receptors (serotonin receptors).md",
-    "gynaecomastia.md",
-    "antipsychotic drugs.md",
     "attachments/chronic heart failure- management.png",
     "housekeeping/memorise.base",
     "attachments/urinalysis protein (urine dip stick).png",

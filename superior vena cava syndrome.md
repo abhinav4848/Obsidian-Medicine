@@ -11,13 +11,13 @@ Although presentation of SVC syndrome can be impressive, it is rarely an emergen
 # Causes
 88% of causes are malignant & in 50% of those cases, SVCO can be the first manifestation. 
 The most common malignant causes of SVC syndrome are 
-1. [[cancer- lung|non small-cell lung cancer]], 
+1. [[cancer- lung|non small-cell lung cancer]] (most Pancoast tumours are NSCLC type)
 2. small-cell lung cancer, 
 3. non-Hodgkin lymphoma, and 
 4. metastatic lesions.
 
 # Classic Symptoms
-Edema of the head, neck, and arms, often with cyanosis, and distended subcutaneous vessels. SVC syndrome may also cause the following signs and symptoms:
+Edema of the head (periorbital), neck, and arms, often with cyanosis, and distended subcutaneous vessels. SVC syndrome may also cause the following signs and symptoms:
 - cough
 - hoarseness
 - dyspnoea- breathlessness is a very common complaint. Symptoms may be exacerbated by bending forward or lying down. 
