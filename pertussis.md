@@ -12,7 +12,7 @@ lasts between 2-8 weeks (Cough of 100 days)
 - Paroxysmal cough (a bout of cough)
 - Inspiratory whoop (due to forced inspiration against closed glottis)
 - Post tussive vomiting- leads to central cyanosis. More common at night & after feeding.
-- Undiagnosed apneic attacks in young infants.
+- Undiagnosed apnoeic attacks in young infants.
 ## Vaccination
 - In UK, pregnants receive Influenza + Pertussis (as DPT)- (*Cough and sneeze vaccine*) around 16 - 32 weeks. 
 - infants are routinely immunized at 2, 3, 4 months and 3-5 years
