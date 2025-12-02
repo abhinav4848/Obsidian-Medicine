@@ -119,8 +119,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -260,7 +259,7 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "d317ebd2993558bc",
+  "active": "676efa40181a3294",
   "lastOpenFiles": [
     "erythema infectiosum.md",
     "school in children with rash.md",
