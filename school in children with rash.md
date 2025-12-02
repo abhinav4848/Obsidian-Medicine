@@ -6,22 +6,22 @@ tags:
   - paeds
 ---
 # School exclusion for children with rash
-### [[Chicken Pox]]
+### [[Chicken Pox]] 
 -4 & +5 days from onset of rash, or when crusted over. 
 Keep away from pregnant women 
-### [[Impetigo]]
+### [[Impetigo]] 
 Crusted or 48 hrs. after Abx started 
-### Measles
+### Measles 
 +4 days from onset of rash 
-### [[Mumps]]
+### [[Mumps]] 
 +5 days from onset of swollen glands 
-### [[Rubella]]
+### [[Rubella]] 
 +5 days from onset from rash 
 ### [[Parvovirus B19]] 
 Not infectious once rash appears. 
-### [[Pertussis]]
+### [[Pertussis]] 
 48 hrs. after Ab started (or 21 days from onset of symptoms if no Abx given)
-### Scarlet Fever
+### Scarlet Fever 
 24 hrs. after Ab started
 
 ---
