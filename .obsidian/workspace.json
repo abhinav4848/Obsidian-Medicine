@@ -101,17 +101,15 @@
             "id": "d85739a9453b9020",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "chicken pox treatment flowchart (work in progress).canvas",
-                "viewState": {
-                  "x": 149,
-                  "y": 410,
-                  "zoom": -0.23285140033741608
-                }
+                "file": "smoking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "chicken pox treatment flowchart (work in progress)"
+              "icon": "lucide-file",
+              "title": "smoking"
             }
           },
           {
@@ -175,7 +173,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#rash",
+                "query": "smoking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -196,11 +194,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 234.50446319580078
+    "width": 239.50695419311523
   },
   "right": {
     "id": "18cd351862e29aca",
@@ -285,10 +284,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "chicken pox treatment flowchart (work in progress).canvas"
+                "file": "smoking.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for chicken pox treatment flowchart (work in progress)"
+              "title": "File properties for smoking"
             }
           }
         ],
@@ -305,7 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chicken pox treatment flowchart (work in progress).canvas",
+                "file": "smoking.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +314,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for chicken pox treatment flowchart (work in progress)"
+              "title": "Backlinks for smoking"
             }
           }
         ]
@@ -338,6 +337,7 @@
   },
   "active": "d85739a9453b9020",
   "lastOpenFiles": [
+    "chicken pox treatment flowchart (work in progress).canvas",
     "chicken pox.md",
     "school in children with rash.md",
     "shingles.md",
@@ -365,7 +365,6 @@
     "audiograms.md",
     "anticipatory meds.md",
     "cancer- bone.md",
-    "asthma- severity assessment.md",
     "housekeeping/memorise.base",
     "attachments/chronic heart failure- management.png",
     "attachments/urinalysis protein (urine dip stick).png",
@@ -382,7 +381,6 @@
     "Untitled.canvas",
     "attachments/atropa belladona.pdf",
     "h. pylori treatment flowchart.canvas",
-    "chicken pox treatment flowchart (work in progress).canvas",
     "_learnie/Questions",
     "_learnie/Note Revisions",
     "_learnie",
