@@ -101,15 +101,17 @@
             "id": "d85739a9453b9020",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "shingles.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "chicken pox treatment flowchart (work in progress).canvas",
+                "viewState": {
+                  "x": 149,
+                  "y": 410,
+                  "zoom": -0.23285140033741608
+                }
               },
-              "icon": "lucide-file",
-              "title": "shingles"
+              "icon": "lucide-layout-dashboard",
+              "title": "chicken pox treatment flowchart (work in progress)"
             }
           },
           {
@@ -173,7 +175,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hsv",
+                "query": "tag:#rash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -194,8 +196,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -284,10 +285,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "shingles.md"
+                "file": "chicken pox treatment flowchart (work in progress).canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for shingles"
+              "title": "File properties for chicken pox treatment flowchart (work in progress)"
             }
           }
         ],
@@ -304,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shingles.md",
+                "file": "chicken pox treatment flowchart (work in progress).canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +315,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for shingles"
+              "title": "Backlinks for chicken pox treatment flowchart (work in progress)"
             }
           }
         ]
@@ -337,10 +338,10 @@
   },
   "active": "d85739a9453b9020",
   "lastOpenFiles": [
+    "chicken pox.md",
     "school in children with rash.md",
     "shingles.md",
     "impetigo.md",
-    "chicken pox.md",
     "confusion in skin lesions.md",
     "chickenpox.md",
     "migraine.md",

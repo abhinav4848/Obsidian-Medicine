@@ -5,13 +5,13 @@
 		{"id":"d59dea64208732e8","type":"text","text":"Develops chicken pox","x":-227,"y":120,"width":250,"height":77},
 		{"id":"44e2efb48a9f1c0f","type":"text","text":"Acyclovir","x":-303,"y":425,"width":152,"height":60,"color":"1"},
 		{"id":"1d2a3076d28dbbea","type":"text","text":"VZIG is effective within 10 days of exposure. ","x":400,"y":425,"width":250,"height":115,"color":"2"},
-		{"id":"1c2ca7eec239f611","type":"text","text":"<20 weeks POG,","x":435,"y":252,"width":180,"height":108},
-		{"id":"8d06323c9f093818","type":"text","text":"More than or = 20 weeks PoG","x":121,"y":197,"width":177,"height":112},
+		{"id":"1c2ca7eec239f611","type":"text","text":"< 20 weeks POG,","x":435,"y":280,"width":180,"height":80},
 		{"id":"e1e83101ed0bf747","type":"text","text":"Treat within 24 hrs, give","x":-352,"y":560,"width":250,"height":65},
-		{"id":"5636239cfe97f326","type":"text","text":"Neonate develops chicken pox","x":-111,"y":700,"width":195,"height":140,"color":"6"},
-		{"id":"3898a33b399807ba","type":"text","text":"With exposure & No VZ antibodies","x":267,"y":-5,"width":250,"height":90},
-		{"id":"eb5ace8093687be6","type":"text","text":"If not within 24 hrs of rash, Start Acyclovir 7-14 days later","x":150,"y":407,"width":224,"height":152},
-		{"id":"b7c9353ac4ea756f","type":"text","text":"Newborns with peripartum exposure ","x":285,"y":625,"width":214,"height":110,"color":"6"}
+		{"id":"5636239cfe97f326","type":"text","text":"Neonate develops chicken pox","x":-111,"y":700,"width":195,"height":80,"color":"6"},
+		{"id":"b7c9353ac4ea756f","type":"text","text":"Newborns with peripartum exposure ","x":285,"y":625,"width":195,"height":75,"color":"6"},
+		{"id":"8d06323c9f093818","type":"text","text":"\\>= 20 weeks PoG","x":150,"y":159,"width":177,"height":55},
+		{"id":"eb5ace8093687be6","type":"text","text":"If not within 24 hrs of rash, Start Acyclovir 7-14 days later","x":84,"y":388,"width":224,"height":95,"color":"1"},
+		{"id":"3898a33b399807ba","type":"text","text":"With exposure & No VZ antibodies","x":351,"y":-5,"width":168,"height":90}
 	],
 	"edges":[
 		{"id":"f045170d41a93655","fromNode":"a0ba565baf173b5e","fromSide":"bottom","toNode":"d59dea64208732e8","toSide":"top"},

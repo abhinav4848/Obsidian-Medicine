@@ -26,13 +26,11 @@ Virus lies dormant in dorsal root/cranial nerve ganglia.
     - pain may be severe and interfere with sleep
     - around 20% of patients will experience fever, headache, lethargy
 - rash
-    - initially erythematous, macular rash over the affected dermatome
+    - initially erythematous, macular #rash over the affected dermatome
     - quickly becomes vesicular
     - characteristically is well demarcated by the dermatome and does not cross the midline. However, some 'bleeding' into adjacent areas may be seen
-
 # Diagnosis 
 - clinical
-
 # Management
 - Patients are potentially infectious
 	- Avoid pregnant women & immunosuppressed people. 
