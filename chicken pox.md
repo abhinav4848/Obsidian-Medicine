@@ -1,13 +1,17 @@
+---
+aliases:
+  - Chicken Pox
+  - chickenpox
+---
 Airborne spread. Spread also if contact with vesicles.
 **Infectivity**: -4 & +5 days of rash appearance.
 
 # Clinical Features
-Precede with cold-like symptoms and temperature
-Begins with crops of red macules which then becomes raised then blister and crust.
-Appear in circular crops. Spread from face to chest & back.
-Pruritic Rash. Scratches at night. 
-Lasts 4-10 days. 
-
+- Precede with cold-like symptoms and temperature
+- Begins with crops of red macules which then becomes raised then blister and crust.
+- Appear in circular crops. Spread from face to chest & back.
+- Pruritic Rash. Scratches at night. 
+- Lasts 4-10 days. 
 # Rx: 
 Healthy child/adult: **Reassure**. 
 Symptomatic management -> Chlorpheniramine/calamine lotion for itch. 
@@ -33,15 +37,19 @@ Symptomatic management -> Chlorpheniramine/calamine lotion for itch.
 ## Risk of superadded infection 
 present in chicken pox (not in mumps) -> vesicular discharge, high fever -> Give antibiotics
 
-## Questions
-- Mother gets varicella rash > 1 week before delivery: no need for giving vzig cuz mom has adequate time to develop and transmit antibodies to the child
-- Rash after 1 week of delivery: VZIg serves no benefit after this time
+---
+# Questions
+- Mother gets varicella rash > 1 week before delivery: 
+	- no need for giving vzig cuz mom has adequate time to develop and transmit antibodies to the child
+- Rash after 1 week of delivery: 
+	- VZIg serves no benefit after this time
 - During 1st week of life, baby exclusively dependent on maternal antibodies. After 1 week it starts to produce its own ab. So needs vzig while in the first week of life. 
 - If neonate develops pox, give acyclovir within 24 hrs. 
 
 ## Complications of chicken pox
 - Disseminated hemorrhagic chickenpox
 - Secondary bacterial infection (NSAIDs may increase this risk in chicken pox)
-- Encephalitis (cerebellar involvement may be seen) 
-- Pneumonia
+- [[Encephalitis]] (cerebellar involvement may be seen) 
+- [[pneumonia]]
 - If a baby is born with **congenital varicella**, he can develop *pneumonia* and *[[hepatitis]]* when delivered.
+- Can cause painful lesions called [[shingles|shingles]]. 
