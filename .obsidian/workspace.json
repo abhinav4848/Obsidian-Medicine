@@ -113,6 +113,18 @@
             }
           },
           {
+            "id": "dbd9683f062b21ea",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
             "id": "62d1286b829ace98",
             "type": "leaf",
             "state": {
@@ -141,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -283,11 +295,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "smoking.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for smoking"
+              "title": "File properties"
             }
           }
         ],
@@ -304,7 +314,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "smoking.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +323,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for smoking"
+              "title": "Backlinks"
             }
           }
         ]
@@ -335,7 +344,7 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "d85739a9453b9020",
+  "active": "dbd9683f062b21ea",
   "lastOpenFiles": [
     "chicken pox treatment flowchart (work in progress).canvas",
     "chicken pox.md",
