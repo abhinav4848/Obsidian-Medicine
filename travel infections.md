@@ -10,3 +10,4 @@ tags:
 [[Typhoid]]: South America
 [[Diphtheria]]: India
 [[leptospirosis|Weil's Disease]]
+[[hiv- acute infection|acute HIV infection]] 
