@@ -4,6 +4,10 @@ aliases:
   - HSV
   - herpes zoster
   - varicella-zoster virus
+  - Post-Herpetic neuralgia
+  - Herpes Zoster ophthalmicus
+  - Herpes Zoster oticus
+  - Ramsay Hunt syndrome
 tags:
   - infection
 ---
@@ -32,12 +36,12 @@ Virus lies dormant in dorsal root/cranial nerve ganglia.
 # Management
 - Patients are potentially infectious
 	- Avoid pregnant women & immunosuppressed people. 
-	- infectious until vesicles have crusted over- i.e. 5-7 days following onset. 
+	- infectious, until vesicles have [[school in children with rash|crusted over]]- i.e. 5-7 days following onset. 
 	- covering lesions reduces the risk. 
 - Analgesia
 	- PCT, NSAID are first line 
 	- else, neuropathic agents (e.g. amitriptyline)
-	- else oral [[corticosteroid]] in first 2 weeks in immunocompetent adults with localized shingles if pain sever and not responding to above treatments. 
+	- else oral [[corticosteroid]] in first 2 weeks in immunocompetent adults with localized shingles if pain severe and not responding to above treatments. 
 - Antivirals
 	- Start antivirals within 72 hrs of onset, unless patient age <50, and mild truncal rash + mild pain + no risk factors. 
 	- antivirals reduce the incidence of post-herpetic neuralgia, esp in elderly

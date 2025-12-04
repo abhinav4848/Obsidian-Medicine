@@ -10,7 +10,7 @@ tags:
 -4 & +5 days from onset of rash, or when crusted over. 
 Keep away from pregnant women 
 ### [[Impetigo]] 
-Crusted or 48 hrs. after Abx started 
+Crusted over / 48 hrs. after Abx started 
 ### Measles 
 +4 days from onset of rash 
 ### [[Mumps]] 
@@ -54,3 +54,7 @@ Influenza
 - Until lesions are crusted and healed, or 48 hours after commencing antibiotic treatment: [[Impetigo]]
 - Until treated: [[Scabies]]
 - Until recovered: Influenza
+
+---
+# Other infections
+[[shingles]]- until crusted over (i.e. 5-7 days after onset)
