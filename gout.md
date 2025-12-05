@@ -2,6 +2,10 @@
 tags:
   - rheumat
   - ortho
+urls:
+  - https://cks.nice.org.uk/topics/gout/management/acute-gout/
+  - https://www.nice.org.uk/guidance/ng219/chapter/Recommendations#diagnosis-and-assessment
+  - https://academic.oup.com/rheumatology/article/56/7/1056/3855178?login=false
 ---
 # Cause
 ## Diseases: 
@@ -14,14 +18,23 @@ Drugs used for CHF cause gout: Thiazide, loop diuretics (prescribed first).
 High purine containing: Liver, Kidneys, Seafood, oily fish (mackerel, sardines), and yeast products. 
 
 # Investigations
-Test uric acid 6 weeks after acute attack, because during attack levels are raised.
+Test uric acid 6 weeks after acute attack, because during attack levels are raised. (wrong? can be normal)
 
+Measure uric acid levels in suspected gout (i.e. in the acute setting)  
+- a uric acid level ≥ 360 micromol/L is seen as supporting a diagnosis. Normal: 180-480. 
+- if uric acid level < 360 micromol/L during a flare, it could be a false negative. So repeat the uric acid 2-4 weeks after flare has settled
+
+Hyperuricemia is not diagnostic of gout & 30-50% of patients don't have elevated serum uric acid, and diagnosis of gout shouldn't be made on presence of hyperuricemia alone. 
+
+Synovial fluid- needle shaped negatively birefringent monosodium urate crystals under polarised light
 # Treatment
 ## Acute management
-Give Naproxen, Ibuprofen in acute mx > Colchicine is 2nd line cuz of s/e (GIT, Renal).
+Give Naproxen, Ibuprofen at max dose in acute mx > Colchicine is 2nd line cuz of s/e (GIT, Renal).
+	Aspirin is not indicated for gout. 
 	Don't give [[NSAID]] if already on blood thinner. 
 	Ask patient to stop taking statins if giving colchicine cuz risk of rhabdo. #important 
 	Just like we ask patients to not take [[statins]] when giving macrolide. 
+Discuss urate lowering therapy with all patients experiencing a first flare.
 ## Long term
 Allopurinol is only started after symptoms settle > Febuxostat if not tolerated. 
 Colchicine cover is given when starting allopurinol. 

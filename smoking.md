@@ -13,7 +13,7 @@ NRT, varenicline or bupropion should not be favoured one over the other.
 They should be given as part of a plan to stop smoking on or before a particular date. 
 - supply should last until 2 weeks after target stopping date. 
 - if giving NRT, choose target date 2 weeks after starting NRT, else with others, choose 3-4 weeks. 
-- further prescription only if quit attempt continuing.
+- further prescription only if quit attempt continuing. 
 - if not successful with them, don't repeat prescription for 6 months. 
 - Do not offer NRT (nicotine replacement therapy), varenicline or bupropion in any combination with one another. 
 ## Quitting date
@@ -26,8 +26,9 @@ They should be given as part of a plan to stop smoking on or before a particular
 
 # NRT
 - can cause N&V, headache, flu-like symptoms. 
-- NICE recommends combos of nicotine patch with another form of NRT (gum/inhalator/lozenge/nasal spray) to those with high dependence & where NRT wasn't enough. 
+- NICE recommends combos of nicotine patch with another form of NRT (gum/inhalator/lozenge/nasal spray) to those with high dependence & where NRT background wasn't enough & they're having breakthrough urges. 
 - NRT patches should be used for no more than 16 hours in any 24-hour period. The best way to stick to this is to remove the patch at bedtime. Nicotine is a stimulant, and if the patch is worn at night, it may cause insomnia or abnormal dreams.
+- there is now a 24 hour NRT patch that is recommended by CKS if smoking cravings are worst in the morning
 - NRT can be started on the Quit day
 
 # Varenicline
