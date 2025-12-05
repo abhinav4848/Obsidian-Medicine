@@ -12,9 +12,8 @@ Can occur due to AKI/ARF (low eGFR) which can itself be due to HF.
 
 [[addison's disease|Addison's]]
 Acidosis
-Rhabdo
+Rhabdomyolysis
 Massive blood transfusion
-
 # Severity
 Mild (5.5-5.9)
 Moderate: (6-6.4)
