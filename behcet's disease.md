@@ -19,3 +19,6 @@ Turkey
 HLA-B51
 
 *Not related to sexual activity.*
+# Treatment
+steroids +/- azathioprine, ciclosporin. 
+topical steroids may be useful for ulcers. 

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shin lesions.md",
+                "file": "behcet's disease.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "shin lesions"
+              "title": "behcet's disease"
             }
           }
         ]
@@ -165,10 +165,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "shin lesions.md"
+                "file": "behcet's disease.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for shin lesions"
+              "title": "File properties for behcet's disease"
             }
           }
         ],
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shin lesions.md",
+                "file": "behcet's disease.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for shin lesions"
+              "title": "Backlinks for behcet's disease"
             }
           }
         ]
@@ -218,11 +218,13 @@
   },
   "active": "d1673f995a3c509c",
   "lastOpenFiles": [
-    "inflammatory bowel disease.md",
-    "shin lesions.md",
-    "keratoderma blennorrhagica.md",
-    "reactive arthritis.md",
     "seronegative spondyloarthropathy.md",
+    "ankylosing spondylitis.md",
+    "reactive arthritis.md",
+    "erythema nodosum.md",
+    "shin lesions.md",
+    "inflammatory bowel disease.md",
+    "keratoderma blennorrhagica.md",
     "behcet's disease.md",
     "whipple disease.md",
     "hyperkalemia.md",
@@ -244,9 +246,7 @@
     "shingles.md",
     "impetigo.md",
     "confusion in skin lesions.md",
-    "chickenpox.md",
     "desktop.ini",
-    "headaches.md",
     "housekeeping/memorise.base",
     "attachments/chronic heart failure- management.png",
     "attachments/urinalysis protein (urine dip stick).png",
