@@ -3,13 +3,19 @@ tags:
   - rheumat
 aliases:
   - Reiter's Syndrome
+urls:
+  - https://dermnetnz.org/topics/reactive-arthropathy
 ---
 *It's a [[seronegative spondyloarthropathy]].* 
 
-Arthritis developing after an infection (STI: [[Chlamydia]], UTI, Dysentery) when organism can't be retrieved from the joint.
+Arthritis developing after an infection elsewhere 
+- GU: [[Chlamydia]], Gonorrhoea, UTI
+- Gastroenteritis: Salmonella, campylobacter, Dysentery 
+Organism can't be retrieved from the joint.
 
-More common in young. No fever.
-Recent h/o infection - Develops within 3 weeks of initial infection and symptoms last around 4-6 months.
+More common in young with HLAB27+ve.
+No fever.
+Recent h/o infection- Develops within 3 weeks of initial infection and symptoms last around 4-6 months.
 
 There may be maculopapular waxy rash ([[keratoderma blennorrhagica]] -> palm, sole), palpable cervical nodes. Small joints swollen.
 

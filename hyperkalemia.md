@@ -18,7 +18,6 @@ Massive blood transfusion
 Mild (5.5-5.9)
 Moderate: (6-6.4)
 Severe (>= 6.5)
-
 # Treatment
 If mild or moderate with no ECG changes
 Stop the offending drug.
