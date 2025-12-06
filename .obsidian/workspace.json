@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "keratoderma blennorrhagica.md",
+                "file": "shin lesions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "keratoderma blennorrhagica"
+              "title": "shin lesions"
             }
           }
         ]
@@ -165,10 +165,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "keratoderma blennorrhagica.md"
+                "file": "shin lesions.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for keratoderma blennorrhagica"
+              "title": "File properties for shin lesions"
             }
           }
         ],
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "keratoderma blennorrhagica.md",
+                "file": "shin lesions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for keratoderma blennorrhagica"
+              "title": "Backlinks for shin lesions"
             }
           }
         ]
@@ -218,9 +218,10 @@
   },
   "active": "d1673f995a3c509c",
   "lastOpenFiles": [
-    "reactive arthritis.md",
-    "keratoderma blennorrhagica.md",
+    "inflammatory bowel disease.md",
     "shin lesions.md",
+    "keratoderma blennorrhagica.md",
+    "reactive arthritis.md",
     "seronegative spondyloarthropathy.md",
     "behcet's disease.md",
     "whipple disease.md",
@@ -246,7 +247,6 @@
     "chickenpox.md",
     "desktop.ini",
     "headaches.md",
-    "hiv- acute infection.md",
     "housekeeping/memorise.base",
     "attachments/chronic heart failure- management.png",
     "attachments/urinalysis protein (urine dip stick).png",
