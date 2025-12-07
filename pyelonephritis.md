@@ -1,6 +1,7 @@
 ---
 aliases:
   - upper UTI
+  - small kidney
 tags:
   - nephrology
 ---
@@ -15,16 +16,18 @@ Imaging not needed normally.
 
 Acute pyelonephritis: Do urinalysis -> Urine culture.
 # Treatment
-If admitted, antibiotics given i.v.
+If admitted, give i.v. abx
 Women (not pregnant)/Men/Indwelling catheter:
 	Ciprofloxacin 500mg , or
 	Co-Amoxiclav 625mg TID
 Children:
 	Co-Amoxiclav > Cefalexin
-Pregnant w/o need for admission: Cefalexin (PO) 500mg BD for 7-10days
+Pregnant w/o need for admission: 
+	Cefalexin (PO) 500mg BD for 7-10days 
+	*Use cephalosporin (not quinolone).* 
 ## Summary of Rx
 If Dysuria (Lower UTI): Nitrofurantoin, Trimethoprim  
 if loin pain, etc. (upper UTI):
-	Broad spectrum Cephalosporin or quinolone for non pregnant women for 10-14 days. Ciprofloxacin, Co-Amoxiclav  
+	Broad spectrum Cephalosporin or quinolone (for [[drugs contraindicated in pregnancy|non pregnant women]]) for 10-14 days. Ciprofloxacin, Co-Amoxiclav  
  
 Start empirical therapy as soon as urine for C&S is sent.

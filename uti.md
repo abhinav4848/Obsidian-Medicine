@@ -6,6 +6,7 @@ aliases:
   - urinary tract infection
   - cystitis
   - UTI
+  - catheter-associated UTI
 ---
 # Investigation
 NICE: All women with macroscopic or microscopic haematuria with a suspected UTI, send MSU to confirm infection. This differs from guidance where haematuria is not present. 
@@ -21,7 +22,6 @@ See [[cancer- urology|urological cancer]].
 Treat with Nitro/Trimethoprim. #abx
 
 **Non-pregnant female**: 3 days 
-
 Extend antibiotics to 5-10 days if: 
 - Impaired renal function
 - abnormal urinary tract
@@ -34,11 +34,15 @@ Extend antibiotics to 5-10 days if:
 
 ## Pregnant women
 Pregnant female: 7 days (for symptomatic or asymptomatic bacteriuria)
-- trimethoprim [[drugs contraindicated in pregnancy|c/i in first trimester]]
-- nitrofurantoin should be avoided near term
-- *can give amoxicillin or cefalexin*
+- trimethoprim [[drugs contraindicated in pregnancy|c/i in first trimester]] (anti-folate)
+- [[nitrofurantoin]] should be avoided near term
+	- *can give amoxicillin or cefalexin*
 - **Asymptomatic bacteriuria** is treated because there's high risk of progression to acute [[pyelonephritis]]. 
 - A further test-for-cure MSU should be sent after treatment. 
 - women who suffer regular urinary tract infections following sexual intercourse can be offered *post-coital antibiotic prophylaxis*- single dose trimethoprim or nitrofurantoin are used first-line. 
 
-## Ca
+## Catheterised
+- do not treat asymptomatic bacteria in catheterised patients. 
+- if the patient is symptomatic they should be treated with an antibiotic
+    - a 7-day, rather than a 3-day course should be given
+    - consider removing or changing the catheter asap if it's been in place for longer than 7 days
