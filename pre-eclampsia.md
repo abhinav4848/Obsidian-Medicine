@@ -23,7 +23,7 @@ New HTN > 140/90 + Proteinuria ( > 0.3g/24 hr. 1+) after 20th week of gestation.
 - Hyperreflexia or clonus: Signs of cerebral irritability 
 - Uterine tenderness or vaginal bleeding from placental abruption
 - Fetal growth restriction (SGA <10th centile) or IUGR on USS
-- [[thrombocytopenia|Platelet count]] < 100 * 10^6/l, abnormal liver enzymes or HELLP syndrome
+- [[thrombocytopenia|Platelet count]] < 100 * 10^6/L, abnormal liver enzymes or HELLP syndrome
 	- Can lead to haemorrhage: placental abruption, intra-abdominal, intra-cerebral
 # Management
 ## BP
@@ -45,8 +45,8 @@ If not effective or woman has good control with [[calcium channel blockers|Nifed
 ## Proteinuria
 Proteinuria ( >0.3g/24 hr. 1+) 
 *\>3g/24hr. is [[nephrotic syndrome]]*
-- Albumin Creatinine ratio (ACR) > 8mg/mmol
-- Protein Creatinine ratio (PCR) > 30mg/mmol
+- Albumin-Creatinine ratio (ACR) > 8mg/mmol
+- Protein-Creatinine ratio (PCR) > 30mg/mmol
 A comes before P. #mnemonic 
 8 comes before 30. 
 

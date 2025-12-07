@@ -2,13 +2,16 @@
 tags:
   - nephrology
   - respiratory
+aliases:
+  - Goodpasture Syndrome
 ---
-CXR: patchy interstitial infiltration (intra-pulmonary bleeding)  
- 
 # Investigation
 **Best initial test**
-Anti-GBM antibody
+- Anti-GBM antibody
 
-**Most accurate test** 
-Lung Biopsy 
-Kidney Biopsy- Crescentic glomerulonephritis
+**Most accurate test**: 
+- Lung Biopsy 
+- Kidney Biopsy- Crescentic glomerulonephritis
+
+**CXR**
+- patchy interstitial infiltration (intra-pulmonary bleeding)  
