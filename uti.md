@@ -31,6 +31,7 @@ Extend antibiotics to 5-10 days if:
 - 7 days of abx. 
 - Send MSU in all cases before starting abx.
 - NICE: _'Referral to urology is not routinely required for men who have had one uncomplicated lower urinary tract infection (UTI).'_
+- for prostatitis- [[ciprofloxacin]], ofloxacin, or Trimethoprim 200mg BD for 14 days. 
 
 ## Pregnant women
 Pregnant female: 7 days (for symptomatic or asymptomatic bacteriuria)

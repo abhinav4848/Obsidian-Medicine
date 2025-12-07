@@ -4,7 +4,7 @@ tags:
   - abx
 aliases:
 ---
-Used in UTI
+Used in [[UTI]]. 
 
 Avoid in patients with >=[[chronic kidney disease|CKD]] 3. 
 Can give amoxicillin & ciprofloxacin but at reduced dose. 

@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pyelonephritis.md",
+                "file": "uti.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "pyelonephritis"
+              "title": "uti"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quinolone",
+                "query": "prostatitis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -181,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "pyelonephritis.md"
+                "file": "uti.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for pyelonephritis"
+              "title": "File properties for uti"
             }
           }
         ],
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pyelonephritis.md",
+                "file": "uti.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pyelonephritis"
+              "title": "Backlinks for uti"
             }
           }
         ]
@@ -274,13 +274,13 @@
       }
     ]
   },
-  "active": "d7f371dc268b2234",
+  "active": "ddd0634700d65c2d",
   "lastOpenFiles": [
+    "ciprofloxacin.md",
+    "uti.md",
+    "nitrofurantoin.md",
     "drugs contraindicated in pregnancy.md",
     "pyelonephritis.md",
-    "ciprofloxacin.md",
-    "nitrofurantoin.md",
-    "uti.md",
     "haematuria.canvas",
     "haematuria.md",
     "goodpasture syndrome.md",

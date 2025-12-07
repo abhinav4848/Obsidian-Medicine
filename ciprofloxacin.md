@@ -2,8 +2,13 @@
 tags:
   - pharmacology
   - abx
+aliases:
+  - Quinolones
+urls:
+  - https://bnf.nice.org.uk/treatment-summaries/quinolones/
 ---
  It's a Quinolone.
+ It is active against both Gram-positive and Gram-negative bacteria. It is particularly active against Gram-negative bacteria, including Salmonella, Shigella, Campylobacter, Neisseria, and Pseudomonas. Most anaerobes are not susceptible. 
 # Use in
 - Cipro used for acute prostatitis.
 - Can give in [[Gonorrhoea]].
