@@ -28,17 +28,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uti.md",
+                "file": "blepharitis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "uti"
+              "title": "blepharitis"
+            }
+          },
+          {
+            "id": "ca7dc15c1f79d975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "statistics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "statistics"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,8 +106,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,10 +195,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "uti.md"
+                "file": "statistics.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for uti"
+              "title": "File properties for statistics"
             }
           }
         ],
@@ -201,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uti.md",
+                "file": "statistics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +225,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for uti"
+              "title": "Backlinks for statistics"
             }
           }
         ]
@@ -254,7 +268,7 @@
                     "viewState": {
                       "x": 344,
                       "y": -50,
-                      "zoom": 0
+                      "zoom": -0.5646815859009907
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -274,17 +288,22 @@
       }
     ]
   },
-  "active": "ddd0634700d65c2d",
+  "active": "d7f371dc268b2234",
   "lastOpenFiles": [
-    "ciprofloxacin.md",
+    "blepharitis.md",
+    "statistics.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "haematuria.canvas",
+    "cancer- urology.md",
     "uti.md",
+    "ciprofloxacin.md",
     "nitrofurantoin.md",
     "drugs contraindicated in pregnancy.md",
     "pyelonephritis.md",
-    "haematuria.canvas",
     "haematuria.md",
     "goodpasture syndrome.md",
-    "cancer- urology.md",
     "pre-eclampsia.md",
     "nephrotic syndrome.md",
     "behcet's disease.md",
@@ -298,11 +317,6 @@
     "keratoderma blennorrhagica.md",
     "whipple disease.md",
     "hyperkalemia.md",
-    "tumour lysis syndrome.md",
-    "gout.md",
-    "smoking.md",
-    "statins.md",
-    "tuberculosis.md",
     "housekeeping/revise recent changes.base",
     "chicken pox treatment flowchart (work in progress).canvas",
     "desktop.ini",
