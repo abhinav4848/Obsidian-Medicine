@@ -246,52 +246,10 @@
       "obsifetch:obsifetch": false
     }
   },
-  "floating": {
-    "id": "63b993cf8046e006",
-    "type": "floating",
-    "children": [
-      {
-        "id": "aca9b8b9bd5fbd6f",
-        "type": "window",
-        "children": [
-          {
-            "id": "ba56c9542f5350a0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "58c27201392870f2",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "haematuria.canvas",
-                    "viewState": {
-                      "x": 344,
-                      "y": -50,
-                      "zoom": -0.5646815859009907
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "haematuria"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 697,
-        "y": 67,
-        "width": 1167,
-        "height": 826,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "d7f371dc268b2234",
+  "active": "ca7dc15c1f79d975",
   "lastOpenFiles": [
-    "blepharitis.md",
     "statistics.md",
+    "blepharitis.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md",
