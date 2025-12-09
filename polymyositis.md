@@ -7,6 +7,7 @@ has weakness.
 
 **Anti Jo [[antibodies]]**: Polymyositis. 
 #mnemonic: jo goes to gym to build (muscles), and takes creatine supplements. (Has high CK)
+Myositis can be caused by [[statins]]. 
 
 | **Name**                                     | Proximal muscle weakness seen? | ESR | CK  |
 | ---------------------------------------- | ------------------------------ | --- | --- |
