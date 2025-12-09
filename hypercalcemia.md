@@ -3,6 +3,8 @@ tags:
   - endocrine
 aliases:
   - hypercalcaemia
+OHCM 11ed (Int):
+  - "215"
 ---
 Hypercalcemia / Hyperparathyroidism 
 Normal Calcium: (Normal: 2.1 - 2.6mmol/L)

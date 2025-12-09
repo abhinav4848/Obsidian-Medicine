@@ -75,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,15 +217,15 @@
   },
   "active": "d1673f995a3c509c",
   "lastOpenFiles": [
-    "biochemical differences in different ortho conditions.md",
-    "cancer- lung.md",
     "hyperparathyroidism.md",
+    "cancer- lung.md",
+    "hypercalcemia.md",
+    "sarcoidosis.md",
+    "hyperthyroidism.md",
+    "biochemical differences in different ortho conditions.md",
     "paget's disease of bone.md",
     "polymyositis.md",
-    "hypercalcemia.md",
     "cancers metastasizing to the bone.md",
-    "hyperthyroidism.md",
-    "sarcoidosis.md",
     "restrictive lung diseases.md",
     "lung fibrosis.md",
     "cor pulmonale.md",

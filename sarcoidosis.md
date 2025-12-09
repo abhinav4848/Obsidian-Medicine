@@ -8,7 +8,7 @@ Non-infectious [[granulomatous disease]] involving abnormal collections of infla
 # Clinical Features 
 - Constitutional symptoms
 	- Fever, weight loss, night sweat, appetite change, sleep change, pain, fatigue, malaise
-- Pulmonary
+- Pulmonary 
 	- sarcoidosis affects lungs first before skin or other organs. 
 	- Dry cough, dyspnea, basal rales on auscultation, [[lung fibrosis|pulmonary fibrosis]]
 	- Restrictive pattern on [[spirometry]]. 
