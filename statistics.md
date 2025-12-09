@@ -23,3 +23,19 @@ Does not follow a normal distribution. Might be skewed, have outliers, or be bas
 - Spearman, Kendall rank - correlation (Correlation = seeing if two numbers move together)
 
 # Correlation (relationship between two variables)
+Correlation means seeing whether two variables move together (as one increases, does the other increase or decrease?).
+
+| Purpose                                                               | Parametric test                          | Non-parametric test                      |
+| --------------------------------------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+| Strength & direction of relationship between two continuous variables | Pearson’s product-moment correlation | Spearman's rank or Kendall’s tau |
+# Paired vs Unpaired
+## Parametric
+**Paired = same people measured twice**  
+(e.g. weight before vs after diet)
+
+**Unpaired = different groups of people**  
+(e.g. Group A on drug vs Group B on placebo)
+
+## Non-parametric
+Mann-Whitney U = comparing 2 unpaired non-parametric groups  
+Wilcoxon = comparing 2 paired non-parametric groups
