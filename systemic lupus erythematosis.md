@@ -4,6 +4,7 @@ tags:
 aliases:
   - SLE
   - drug induced lupus erythematosis
+  - DILE
 ---
 # SLE
 Screen/Sensitive: [[antibodies|ANA]]  
@@ -13,7 +14,7 @@ Specific: Anti ds-DNA (most discriminative test), Smith
 - dsDNA, 
 - Complements (C3 & C4), 
 - ESR (ESR is raised but CRP is normal)
-*negative ANCA*
+*negative ANCA*. 
 # Clinical Features of SLE
 
 | Organ system | Effect                                                                                                                                         |
