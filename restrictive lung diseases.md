@@ -4,9 +4,10 @@ tags:
 urls:
   - https://www.youtube.com/watch?v=sBoRKzc7pdY
 ---
+Test with [[spirometry]]. 
 # Causes
 ## Interstitial
-Lung tissue is damaged. All these conditions reduce 
+Lung tissue is damaged. All these conditions reduce air intake: 
 - Pneumoconiosis: Coal, Silicosis, Asbestosis
 - [[lung fibrosis|Pulmonary fibrosis]] ([[interstitial lung disease vs pneumonitis|ILD]])
 - [[Sarcoidosis]]

@@ -19,17 +19,17 @@ revision counter:
 ---
 # Obstructive Lung Diseases 
 ## Asthma
-### See [[asthma- diagnosis (algorithm)|Algorithm for Asthma Diagnosis]]. 
+#### See [[asthma- diagnosis (algorithm)|Algorithm for Asthma Diagnosis]]. 
 - BDR with spirometry is [[asthma- diagnosis (algorithm)#Second line investigation|2nd line test]] to diagnose asthma. Here, spirometry improves after bronchodilators (reversible obstruction). 
 - Peak flow will show variability, as [[asthma- investigations#Peak expiratory flow (PEF) variability|Asthma worse at night]] & early morning. 
 
-### [[asthma- severity assessment|Assess severity of asthma]] with Peak Flow:
+#### [[asthma- severity assessment|Assess severity of asthma]] with Peak Flow:
 
 ![[asthma- severity assessment#Severity grading of Asthma]]
 
 ---
 ## COPD
-[[copd|COPD]]: FEV1/FVC remains <0.7 even after bronchodilator. This can be expressed in percentage, so <70%. 
+[[copd|COPD]]: FEV1/FVC remains <0.7 even after bronchodilator. This can also be expressed in percentage, so FEV1/FVC <70%. 
 
 | Post-bronchodilator FEV1/FVC | FEV1 (of predicted) | COPD Severity                                                                  |
 | ---------------------------- | ------------------- | ------------------------------------------------------------------------------ |

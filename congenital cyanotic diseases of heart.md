@@ -15,9 +15,9 @@ aliases:
 | ToF                | Tetralogy of Fallott                                                                                                                                                                                                      |
 | Tricuspid atresia  |                                                                                                                                                                                                                           |
 | Truncus arteriosus |                                                                                                                                                                                                                           |
-# ToF
+# Tetralogy of Fallot 
 Tetralogy of Fallot (TOF) is the most common cause of cyanotic congenital heart disease typically presenting at around 1-2 months, although picked up up to 6 months.
-![[tetralogy of fallot.png]]
+![[tetralogy of fallot.png|300]]
 ## Clinical Features
 - The severity of the right ventricular outflow tract obstruction determines the degree of cyanosis and clinical severity
 - cyanosis
@@ -38,7 +38,7 @@ presents within the first 24 hours of life.
 
 ---
 # Duct dependent cardiac lesions
-Tetralogy of Fallot, ebstein’s anomaly, pulmonary atresia and pulmonary stenosis.
+Tetralogy of Fallot, Ebstein’s anomaly, pulmonary atresia and pulmonary stenosis.
 
 The PDA is allowing oxygenated blood to still get to the aorta, and deoxygenated to the lungs, less efficiently than if it was just a normal healthy heart without PDA, but the PDA is compensating for the cyanotic effect of the cardiac anomaly
 
