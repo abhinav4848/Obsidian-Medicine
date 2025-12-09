@@ -17,11 +17,11 @@ HPV is the physiological constriction of small pulmonary arteries in response to
 ## Mechanism
 1. Alveolar hypoxia detected → smooth muscle in pulmonary arterioles contracts.
 2. Mediators involved:
-    - Low oxygen inhibits potassium channels in pulmonary artery smooth muscle → depolarisation → calcium influx → contraction.
+    - Low oxygen inhibits potassium channels in pulmonary artery smooth muscle → depolarisation → calcium influx → contraction. 
     - Local factors like endothelin-1 (vasoconstrictor) and reduced nitric oxide (vasodilator) play roles.
 3. Chronic hypoxia → sustained vasoconstriction → pulmonary hypertension.
 ## Pathological Consequences
-- Acute HPV is protective (improves oxygenation).
+- Acute HPV is protective (improves oxygenation). 
 - Chronic HPV, as seen in [[COPD]], [[interstitial lung disease vs pneumonitis|interstitial lung disease]], or high altitude:
 	- Leads to pulmonary hypertension.
 	- Increases right ventricular afterload → RV hypertrophy → [[cor pulmonale]].

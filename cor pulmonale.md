@@ -9,7 +9,7 @@ aliases:
 # Cor pulmonale
 Cor pulmonale is right ventricular (RV) enlargement and/or failure caused by pulmonary hypertension secondary to disorders of the lungs or pulmonary vasculature, not due to left heart disease.
 ## Pathophysiology
-1. Chronic lung disease → hypoxia → pulmonary vasoconstriction ([[hypoxic pulmonary vasoconstriction]]).
+1. Chronic lung disease → hypoxia → pulmonary vasoconstriction ([[hypoxic pulmonary vasoconstriction]]). 
 2. Pulmonary vasoconstriction → increased pulmonary vascular resistance.
 3. Right ventricle has to pump against higher resistance → RV hypertrophy.
 4. Over time, RV decompensates → right-sided heart failure.

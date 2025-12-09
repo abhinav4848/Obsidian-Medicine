@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cor pulmonale.md",
+                "file": "cancer- lung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cor pulmonale"
+              "title": "cancer- lung"
             }
           }
         ]
@@ -165,10 +165,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "cor pulmonale.md"
+                "file": "cancer- lung.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for cor pulmonale"
+              "title": "File properties for cancer- lung"
             }
           }
         ],
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cor pulmonale.md",
+                "file": "cancer- lung.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cor pulmonale"
+              "title": "Backlinks for cancer- lung"
             }
           }
         ]
@@ -218,8 +218,14 @@
   },
   "active": "d1673f995a3c509c",
   "lastOpenFiles": [
-    "restrictive lung diseases.md",
+    "hypercalcemia.md",
+    "cancers metastasizing to the bone.md",
+    "hyperthyroidism.md",
     "sarcoidosis.md",
+    "restrictive lung diseases.md",
+    "lung fibrosis.md",
+    "cor pulmonale.md",
+    "hypoxic pulmonary vasoconstriction.md",
     "tumour marker.md",
     "erythema nodosum.md",
     "behcet's disease.md",
@@ -238,12 +244,6 @@
     "systemic sclerosis.md",
     "shin lesions.md",
     "rhinophyma.md",
-    "ivermectin.md",
-    "acne.md",
-    "statistics.md",
-    "calcium.md",
-    "hypercalcemia.md",
-    "Untitled 2.md",
     "haematuria.canvas",
     "housekeeping/revise recent changes.base",
     "chicken pox treatment flowchart (work in progress).canvas",

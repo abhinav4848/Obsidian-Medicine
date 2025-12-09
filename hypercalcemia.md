@@ -1,13 +1,15 @@
 ---
 tags:
   - endocrine
+aliases:
+  - hypercalcaemia
 ---
 Hypercalcemia / Hyperparathyroidism 
-Hypercalcemia (Normal: 2.1 - 2.6mmol/L)
+Normal Calcium: (Normal: 2.1 - 2.6mmol/L)
 # Aetiology
 - Primary [[hyperthyroidism]] (Associated with increased PTH, Decreased Phosphate). 
 - [[cancers metastasizing to the bone|Bone metastasis]] from solid organs- Prostate, Breast, etc. 
-- [[cancer- lung|Squamous cell carcinoma Lung]]
+- [[cancer- lung|Squamous cell carcinoma Lung]]. 
 - Multiple myeloma ([[biochemical differences in different ortho conditions|ALP is normal]]) 
 - Granuloma: [[Sarcoidosis]]/[[tuberculosis|TB]]/Histoplasmosis -> Sarcoidosis check serum ACE. 
 - Vit D intoxication, acromegaly, Thyrotoxicosis, [[Thiazides]], Ca containing antacids, Dehydration, Addison's, Paget's disease of bone

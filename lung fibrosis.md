@@ -19,13 +19,13 @@ In essence: Fibrosis is the scarring aftermath, the end result, not the initial 
 Compare with [[interstitial lung disease vs pneumonitis]]. 
 
 # Clinical Features
-Older patient,
-progressive exertional dyspnea,
-dry cough,
-clubbing,
-non-smoker
-Fine-end inspiratory crackles.
-Restrictive pattern.
+- Older patient,
+- progressive exertional dyspnea,
+- dry cough,
+- clubbing,
+- non-smoker
+- Fine-end inspiratory crackles.
+- Restrictive pattern.
 # Causes
 - Amiodarone
 - [[Cytotoxic drugs]]: Busulphan, Bleomycin
