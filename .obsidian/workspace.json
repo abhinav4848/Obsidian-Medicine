@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hepatitis",
+                "query": "Streptococcus pneumoniae",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -218,6 +218,8 @@
   },
   "active": "d1673f995a3c509c",
   "lastOpenFiles": [
+    "pneumonia.md",
+    "hepatitis viruses.md",
     "erythema nodosum.md",
     "shin lesions.md",
     "systemic lupus erythematosis.md",
@@ -242,8 +244,6 @@
     "tumour marker.md",
     "blepharitis.md",
     "misidentification.md",
-    "spirometry.md",
-    "congenital cyanotic diseases of heart.md",
     "haematuria.canvas",
     "housekeeping/revise recent changes.base",
     "chicken pox treatment flowchart (work in progress).canvas",

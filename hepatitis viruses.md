@@ -25,17 +25,31 @@ urls: https://www.cdc.gov/hepatitis-b/hcp/diagnosis-testing/?CDC_AAref_Val=https
 ---
 # Hepatitis A 
 Incubation period: 4 weeks 
+- flu-like prodrome
+- abdo pain (RUQ)
+- tender hepatomegaly
+- jaundice
+- ALT > AST 
 
 Can be due to eating out. **Shellfish** are known reservoirs. #important 
-Hepatitis A transmitted by faecal-oral route 
-- For MSM (men having sex with men), give Hep A vaccine
-ALT > AST 
-
+Hepatitis A transmitted by faecal-oral route
 No increased risk for HCC (Hep B has risk for HCC) 
+### Who should be vaccinated? (Based on the Green book guidelines)  
+- people travelling to or going to reside in areas of high or intermediate prevalence, if aged > 1 year old
+- people with chronic liver disease
+- patients with haemophilia
+- men who have sex with men
+- injecting drug users
+- individuals at occupational risk: laboratory worker; staff of large residential institutions; sewage workers; people who work with primates
+
+### How & why give HA Vaccine?
+- give a booster dose 6 months after initial. 
+- Although there are few long-term sequelae of HAV, tender hepatomegaly & GI upset are unpleasant & rapidly preventable with the vaccine. 
+- even non-life-threatening cases can cause significant morbidity including fatigue, nausea, abdominal pain and jaundice which could last for several weeks or months.
 
 ---
 # Hepatitis B 
-^See CDC link above. 
+^See [CDC link above](https://www.cdc.gov/hepatitis-b/hcp/diagnosis-testing/?CDC_AAref_Val=https://www.cdc.gov/hepatitis/hbv/interpretationOfHepBSerologicResults.htm#cdc_hcp_diagnosis_interpreting-how-to-interpret-test-results). 
 Can have chronic hepatitis: ground glass hepatocytes on microscopy
 Risk of HCC #important
 ### HBsAg 

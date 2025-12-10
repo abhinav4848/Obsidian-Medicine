@@ -87,7 +87,6 @@ CXR: b/l lower lobe cavitation.
 ---
 ## Streptococcus pneumoniae (pneumococcus)
 Herpes `L`abialis-> Streptococca`L`
-	
 Commonest cause of pneumonia: Accounts for 80% of cases. 
 u/l basal crackles, u/l lobar consolidation -> Lobar pneumonia.
 
@@ -97,3 +96,6 @@ lobar consolidation
 Productive cough, fever, chest tightness.
 Especially associated with high fever, rapid onset and herpes labialis
 A vaccine to pneumococcal is available. 
+
+### Vaccination
+The pneumococcal vaccine is routinely offered to infants, those aged > 65, and patients with other health conditions that put them at high risk. #vaccine 
