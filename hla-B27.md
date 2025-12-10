@@ -3,7 +3,7 @@ tags:
   - genetics
 ---
 [[Ankylosing spondylitis]]
-Reactive arthritis
+[[reactive arthritis]]
 Psoriatic arthritis
 
 Also seen in: Anterior uveitis ([[Iritis]])

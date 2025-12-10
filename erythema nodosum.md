@@ -2,7 +2,7 @@
 tags:
   - dermat
 ---
-*See other [[erythemas]].* 
+*See other [[erythemas]], and [[shin lesions]].*
 
 ![[erythema nodosum.png]]
 ![[erythema nodosum 2.png]]

@@ -17,17 +17,17 @@ Specific: Anti ds-DNA (most discriminative test), Smith
 *negative ANCA*. 
 # Clinical Features of SLE
 
-| Organ system | Effect                                                                                                                                         |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Neurological | Anxiety, depression, psychosis                                                                                                                 |
-| CVS          | Pericarditis (MC heart problem in SLE), Myocarditis                                                                                            |
-| Resp         | Pleurisy, Fibrosing alveolitis                                                                                                                 |
-| Renal        | Diffuse proliferative glomerulonephritis (Nephritic syndrome), proteinuria                                                                     |
-| Skin         | Malar rash, discoid rash, photosensitivity, Raynaud's, livedo reticularis, non-scarring alopecia<br><br>[[shin lesions\|Pyoderma gangrenosum]] |
-| MSK          | Arthralgia, non-erosive arthritis                                                                                                              |
-| Others       | Pancytopenia                                                                                                                                   |
+| Organ system | Effect                                                                                                                                                         |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Neurological | Anxiety, depression, psychosis                                                                                                                                 |
+| CVS          | Pericarditis (MC heart problem in SLE), Myocarditis                                                                                                            |
+| Resp         | Pleurisy, Fibrosing alveolitis                                                                                                                                 |
+| Renal        | Diffuse proliferative glomerulonephritis (Nephritic syndrome), proteinuria                                                                                     |
+| Skin         | Malar rash, discoid rash, photosensitivity, Raynaud's, livedo reticularis (net like rash), non-scarring alopecia<br><br>[[shin lesions\|Pyoderma gangrenosum]] |
+| MSK          | Arthralgia, non-erosive arthritis                                                                                                                              |
+| Others       | Pancytopenia                                                                                                                                                   |
 #mnemonic 
-- Malar rash
+- Malar rash (nasal sparing, but not always)
 - Discoid rash
 - Serositis – Pleurisy, pericarditis
 - Oral ulcers
