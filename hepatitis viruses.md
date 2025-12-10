@@ -25,8 +25,10 @@ urls: https://www.cdc.gov/hepatitis-b/hcp/diagnosis-testing/?CDC_AAref_Val=https
 ---
 # Hepatitis A 
 Incubation period: 4 weeks 
+
 Can be due to eating out. **Shellfish** are known reservoirs. #important 
-Hepatitis A is by faecal-oral route 
+Hepatitis A transmitted by faecal-oral route 
+- For MSM (men having sex with men), give Hep A vaccine
 ALT > AST 
 
 No increased risk for HCC (Hep B has risk for HCC) 
