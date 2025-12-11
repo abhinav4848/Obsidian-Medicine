@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cancer- lymphoma.md",
+                "file": "alcohol.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cancer- lymphoma"
+              "title": "alcohol"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Streptococcus pneumoniae",
+                "query": "epis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cancer- lymphoma.md",
+                "file": "alcohol.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cancer- lymphoma"
+              "title": "Backlinks for alcohol"
             }
           }
         ]
@@ -211,15 +211,15 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
       "obsidian-git:Open Git source control": false,
       "obsifetch:obsifetch": false
     }
   },
   "active": "d1673f995a3c509c",
   "lastOpenFiles": [
-    "lower limb ortho problems.md",
     "cancer- lymphoma.md",
+    "toxoplasmosis.md",
+    "lower limb ortho problems.md",
     "sjogren's syndrome.md",
     "primary biliary cirrhosis.md",
     "hepatitis viruses.md",
@@ -243,7 +243,6 @@
     "paget's disease of bone.md",
     "polymyositis.md",
     "restrictive lung diseases.md",
-    "lung fibrosis.md",
     "haematuria.canvas",
     "housekeeping/revise recent changes.base",
     "chicken pox treatment flowchart (work in progress).canvas",

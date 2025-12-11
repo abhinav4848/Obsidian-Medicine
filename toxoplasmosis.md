@@ -4,7 +4,7 @@ tags:
 aliases:
   - Toxoplasma gondii
 ---
-*Compare with lymphoma* #confusion 
+*Compare with [[cancer- lymphoma|Lymphoma]]* #confusion 
 
 Toxoplasma gondii lives & reproduces in cat's gut.
 

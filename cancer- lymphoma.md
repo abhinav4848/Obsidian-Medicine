@@ -33,7 +33,7 @@ Do Excision Biopsy.
 # DDX 
 #confusion 
 - [[toxoplasmosis]]: Splenomegaly, LNE seen but Weight loss not seen.
-- EBV causes HL, NHL (Burkitt in HIV), Hairy leukoplakia (HIV)
-- [[epstein barr virus|Infectious Mononucleosis]]]] vs Lymphoma: sore throat in IM, exudative pus over tonsils, tender tonsils, monospot test +ve, rash after taking ampicillin.
+- EBV causes HL, NHL (Burkitt in HIV), Hairy leukoplakia (HIV). 
+- [[epstein barr virus|Infectious Mononucleosis]] vs Lymphoma: sore throat in IM, exudative pus over tonsils, tender tonsils, monospot test +ve, rash after taking ampicillin.
 - [[tuberculosis|TB]] has diurnal fever, sweat, weight loss if chronic, tender matted LN (HL has non tender), h/o productive cough, no organomegaly, h/o travel.
 - Hodgkin's has normal CBC, because the problem in Hodgkin is outside the bone marrow.

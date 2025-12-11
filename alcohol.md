@@ -8,3 +8,5 @@ tags:
 3. **Deter alcohol**: [[Disulfiram]]. 
 4. **Alcoholic wants to reduce craving**: Acamprosate
 5. **Relapses**: Naltreoxone 
+
+Alcohol causes pain in [[cancer- lymphoma|Hodgkin's lymphoma]]. 
