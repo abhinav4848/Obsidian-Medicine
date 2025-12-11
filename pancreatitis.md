@@ -8,13 +8,13 @@ Usually due to alcohol or gallstones. Can be due to ERCP.
 # Causes
 **GET SMASHED** #mnemonic 
 - Gallstones
-- Ethanol
+- [[alcohol|Ethanol]]
 - Trauma
 - Steroids
 - [[Mumps]] (other viruses include Coxsackie B)
 - Autoimmune (e.g. polyarteritis nodosa), Ascaris infection
 - Scorpion venom 
-- Hypertriglyceridemia, Hyperchylomicronemia, Hypercalcemia, Hypothermia
+- Hypertriglyceridemia, Hyperchylomicronemia, [[Hypercalcemia]], Hypothermia
 - ERCP 
 - Drugs ([[azathioprine]], Mesalazine*, didanosine, Bendroflumethiazide, furosemide, pentamidine, steroids, sodium valproate)
 
@@ -23,14 +23,15 @@ Usually due to alcohol or gallstones. Can be due to ERCP.
 # Acute
 >[!info]
 >Pyrexia, vomiting.
->Constant severe epigastric pain, dull, radiates to back. Relieved on leaning forward.
+>Constant severe epigastric pain, dull, radiates to back. 
+>Worse on lying down, Relieved on leaning forward.
 >
 >Periumbilical discolouration (Cullen's sign #named ) and flank discolouration (Grey-Turner's sign #named ) is described but rare. 
 
 ## Clinical Features
 - Epigastric pain gradually worsens and lasts > 24 hrs. 
 - Relieved on leaning forward. 
-- Fever, tachy, guarding, distension, oliguria. 
+- Fever, tachycardia, guarding, distension, oliguria. 
 - Ileus, reduced bowel sounds
 - Ascites
 - Periumbilical discolouration (Cullen's sign) and flank discolouration (Grey-Turner's sign) is described but rare
