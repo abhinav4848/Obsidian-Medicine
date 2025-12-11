@@ -49,3 +49,6 @@ UTI Alternatives:
 - Amoxicillin (but only if culture shows sensitivity),
 - Cefalexin (1st gen cephalosporin. 2nd choice in UTI after Nitrofurantoin. Even if culture not available. Plus it can be used for both [[pyelonephritis|upper]] and lower UTI. Has 10% cross reactivity with penicillin but this is too low to worry about),
 - Erythromycin
+
+# Breastfeeding
+Not c/i during [[hepatitis viruses#Hepatitis C|hepatitis C]]. 

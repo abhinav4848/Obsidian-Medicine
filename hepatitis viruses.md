@@ -84,7 +84,7 @@ Response to treatment.
 
 ---
 # Hepatitis C
-Breastfeeding not contraindicated. 
+Breastfeeding not [[drugs contraindicated in pregnancy|contraindicated]]. 
 No vaccine 
 causes the most morbidity in IVDUs
 Risk of transmitting in needle stick injury -> 2% (6% if HIV too). 
