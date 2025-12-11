@@ -41,7 +41,7 @@ Lipase > Amylase
 Serum Calcium is used as part of the Glasgow score #named  in acute pancreatitis, in which low calcium is one of the scoring criteria. 
 
 ## Treatment
-- In severe pancreatitis due to gallstones where jaundice and cholangitis are present, early ERCP to achieve duct decompression and cholecystectomy once acute symptoms settle. 
+- In severe pancreatitis due to gallstones where jaundice and [[ascending cholangitis|cholangitis]] are present, early ERCP to achieve duct decompression and cholecystectomy once acute symptoms settle. 
 - In A&E: IV fluids & analgesia. 
 
 ---

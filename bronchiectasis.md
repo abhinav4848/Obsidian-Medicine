@@ -7,7 +7,7 @@ Permanent dilatation of airway 2* to chronic inflammation or infection
 
 # Predisposing features
 Patients may have a history of previous infections (e.g. [[Tuberculosis]], measles), bronchial obstruction or ciliary dyskinetic syndromes e.g. Kartagener's syndrome
-# Clinical features
+# Clinical features 
 - Chronic cough -> Excessive sputum production
 - Fever with shivering, night sweats, patients have dental decay (alcoholics, children)
 - Cachexia (weight loss), SOB.

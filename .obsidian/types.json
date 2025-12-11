@@ -4,9 +4,8 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "urls": "multitext",
-    "revision counter": "multitext",
+    "revision counter": "number",
     "OHGp 5th Ed": "multitext",
-    "OHCM 11th ed": "multitext",
     "OHCM 11ed (Int)": "multitext"
   }
 }

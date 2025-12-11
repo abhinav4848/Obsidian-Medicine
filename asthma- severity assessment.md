@@ -5,17 +5,17 @@ aliases:
 tags:
   - respiratory
   - emergency
-revision counter:
-  - "2"
+revision counter: 2
 revision notes: different grades of severity like Pulse rate, RR, PEFR
 ---
-Determine the severity of asthma exacerbation by
-- [[asthma- investigations#Peak expiratory flow (PEF) variability|Peak expiratory flow rate]] (PEFR) 
-- using [[spirometry#Asthma|Peak flow meter (Spirometry)]]: 
+# Determine the severity of asthma exacerbation by
+- [[asthma- investigations#Peak expiratory flow (PEF) variability|Peak expiratory flow rate]] (PEFR) using [[spirometry#Asthma|Peak flow meter (Spirometry)]]: 
 	- Moderate: 50-75% 
 	- Acute severe: 33-50%
 	- Life threat: <33%
-#### Severity grading of Asthma
+## Severity grading of Asthma
+Widespread, bilateral wheeze does not indicate severity of symptoms. 
+Note: A few puffs of Salbutamol could increase HR to go above 110/min. 
 
 | **Moderate**                                                                                   | **Severe**                                                                                                  | **Life-threatening**                                                                                                                                                                                   |
 | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

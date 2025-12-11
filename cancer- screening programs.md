@@ -36,7 +36,7 @@ Pap smear.
 25-49yo: every 3 years. 
 50-64yo: every 5 years. 
 
-# Aortic aneurysm
+# [[abdominal aortic aneurysm|Aortic aneurysm]]
 Single abdominal ultrasound is done at age 65 years to screen for AAA.
 
 See also: [[guthrie test|Neonatal blood spot screening]]. 

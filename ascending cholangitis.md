@@ -14,13 +14,17 @@ Can also be caused by ERCP.
 > **Cholecystitis + Jaundice = Cholangitis**
 # Treatment
 Abx & fluids.
+
+---
 # Clinical Features
 - Proper pyrexia, chills, rigor
-- Leukocytosis.
-## Charcot triad
+- Leukocytosis
+### Charcot triad
 Fever, [[abdominal pain|RUQ pain]], jaundice. #triad  
-### Reynold's pentad
+#### Reynold's pentad
 Charcot's triad + Hypotension + altered mental status (confusion) #pentad
+
+---
 # Imaging
 Do USG of GB, Biliary duct, blood culture.
 	USG shows dilation of duct within liver -> Obstructive jaundice.
