@@ -9,17 +9,17 @@ tags:
   - hematology
 ---
 # HL
-Reed Sternberg cells (Multinucleated giant cells)  
+Reed-Sternberg cells (Multinucleated giant cells)  
 Bimodal age (<25 or >55) seen in supraclavicular/cervical LN (close proximity)
-Involves more central nodes.
-Has alcohol induced pain.
-(can cause ALL, assoc with EBV. Radiation for HL can lead to NHL. )
+Involves more central nodes. 
+Has [[alcohol]] induced pain. 
+(can cause ALL, assoc with [[epstein barr virus|EBV]]. Radiation for HL can lead to NHL. )
 
 # NHL
 No RS cells (some other cell morphology may be mentioned).
 Age 25-40yo.
 Involves peripheral LN (not in close proximity)
-Seen in HIV, Rheumatoid arthritis, Celiac disease
+Seen in HIV, Rheumatoid arthritis, [[coeliac disease|celiac disease]] #associated 
 - MC HIV related lymphoma: NHL (diffuse large B cell lymphoma > Burkitt (caused by [[epstein barr virus|EBV]]))
 # Clinical Features
 **B Symptoms**: fever, night sweats, weight loss #named 

@@ -10,4 +10,4 @@ Often associated with [[primary biliary cirrhosis|Primary Biliary Cholangitis]] 
 
 *differentiate with [[sarcoidosis]]*. #confusion 
 # Treatment
-**Tears**: Hypromellose, NaCl, Sodium Hyaluronate
+**Tears**: Hypromellose, NaCl, Sodium Hyaluronate 
