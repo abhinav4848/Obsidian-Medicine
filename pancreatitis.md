@@ -24,17 +24,16 @@ Usually due to alcohol or gallstones. Can be due to ERCP.
 >[!info]
 >Pyrexia, vomiting.
 >Constant severe epigastric pain, dull, radiates to back. 
->Worse on lying down, Relieved on leaning forward.
 >
 >Periumbilical discolouration (Cullen's sign #named ) and flank discolouration (Grey-Turner's sign #named ) is described but rare. 
 
 ## Clinical Features
 - Epigastric pain gradually worsens and lasts > 24 hrs. 
-- Relieved on leaning forward. 
-- Fever, tachycardia, guarding, distension, oliguria. 
+- Worse on lying down, Relieved on leaning forward.
+- low grade fever, tachycardia, guarding, distension, vomiting, oliguria. 
 - Ileus, reduced bowel sounds
 - Ascites
-- Periumbilical discolouration (Cullen's sign) and flank discolouration (Grey-Turner's sign) is described but rare
+- Periumbilical discolouration (Cullen's sign) and flank discolouration (Grey-Turner's sign) is described but rare #named 
 ## Investigation  
 Do Amylase, Lipase, CT.
 Lipase > Amylase 

@@ -5,4 +5,4 @@ tags:
 ---
 Typical symptoms are malaise, anorexia and weight loss.
 
-The associated [[hepatobiliary diseases|RUQ pain]] tends to be mild and jaundice is uncommon.
+The associated [[abdominal pain|RUQ pain]] tends to be mild and jaundice is uncommon.

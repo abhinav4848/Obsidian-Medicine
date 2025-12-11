@@ -17,7 +17,7 @@ ALT > AST
 - nausea and vomiting, anorexia 
 - myalgia 
 - lethargy 
-- [[hepatobiliary diseases|RUQ pain]] 
+- [[abdominal pain|RUQ pain]] 
 Questions may point to risk-factors such as foreign travel or intravenous drug use. 
 
 ---
