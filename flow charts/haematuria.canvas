@@ -15,8 +15,8 @@
 		{"id":"ad388585b12ae84b","type":"text","text":"in a woman <50yo","x":770,"y":-138,"width":179,"height":60},
 		{"id":"838404196813262c","type":"text","text":"test: \n- urine albumin/creatinine ratio\n- serum creatinine","x":714,"y":-37,"width":291,"height":110},
 		{"id":"ad9796fee9f82286","type":"text","text":"Haematuria + [[UTI]] (persistent or recurrent)","x":86,"y":-69,"width":215,"height":69},
-		{"id":"2d59b234fb6b3f6d","type":"text","text":"Woman aged >=40yo","x":92,"y":75,"width":204,"height":50},
-		{"id":"0457ab6db4a4e106","type":"text","text":"# Haematuria\nSee [[cancer- urology]]\nsee [[haematuria]]","x":82,"y":-400,"width":210,"height":120}
+		{"id":"0457ab6db4a4e106","type":"text","text":"# Haematuria\nSee [[cancer- urology]]\nsee [[haematuria]]","x":82,"y":-400,"width":210,"height":120},
+		{"id":"2d59b234fb6b3f6d","type":"text","text":"Woman aged >=40yo","x":94,"y":73,"width":200,"height":62}
 	],
 	"edges":[
 		{"id":"260cb8686edb2dd8","fromNode":"0457ab6db4a4e106","fromSide":"bottom","toNode":"afdad807c617048a","toSide":"top"},

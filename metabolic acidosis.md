@@ -3,4 +3,4 @@ tags:
   - endocrine
   - notAKT
 ---
-![[metabolic acidosis.png]]
+![[metabolic acidosis.jpg]]

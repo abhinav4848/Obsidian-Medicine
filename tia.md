@@ -2,6 +2,8 @@
 tags:
   - vascular
   - neurology
+aliases:
+  - Transient Ischaemic Attack
 ---
 May present as TIA of Eye. ([[Amaurosis fugax]])
 # Investigation

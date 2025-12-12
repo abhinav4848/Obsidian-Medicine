@@ -23,4 +23,4 @@ Myositis can be caused by [[statins]].
 # Differentials
 polymyositis
 dermatomyositis
-Statins causing myositis
+[[Statins]] causing myositis

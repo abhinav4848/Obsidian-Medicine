@@ -21,7 +21,7 @@ urls:
 - **pre-syncope**: sense of feeling faint.
 
 Full assessment is called head impulse, nystagmus and test of skew (HINTS) examination
-[HINTS examination (YouTube)](https://www.youtube.com/watch?v=1q-VTKPweuk)
+![HINTS examination (YouTube)](https://www.youtube.com/watch?v=1q-VTKPweuk)
 # Head impulse test 
 It's performed on symptomatic patients (i.e. vertigo, nausea, vomiting) to differentiate between peripheral and central causes of their vertigo. 
 

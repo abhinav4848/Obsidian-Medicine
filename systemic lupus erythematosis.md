@@ -5,6 +5,7 @@ aliases:
   - SLE
   - drug induced lupus erythematosis
   - DILE
+  - systemic lupus erythematosus
 ---
 # SLE
 Screen/Sensitive: [[antibodies|ANA]]  

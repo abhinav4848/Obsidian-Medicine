@@ -29,4 +29,4 @@ Edema of the head (periorbital), neck, and arms, often with cyanosis, and disten
 
 Onset is insidious which allows collaterals to develop, visible as engorged veins. 
 
-![[svc syndrome.png|400]]
+![[svc syndrome.jpg|400]]
