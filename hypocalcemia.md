@@ -5,7 +5,7 @@ tags:
 *See [[hypercalcemia]].*
 causes- Tingling, numbness, paresthesia, involuntary spasm.
 # Causes
-- Osteomalacia (vit D deficiency)
+- [[osteomalacia]] (vit D deficiency)
 - Chronic renal failure due to impaired conversion of 25-hydroxyvitamin D to its active form (e.g. in DM-> nephropathy -> CRF -> Hypocalcemia, Hyper PO), so Acute renal failure will not have hypocalcemia. 
 	- Hypocalcemia can then lead to secondary hyperparathyroidism.
 - Post thyroidectomy when PTH accidentally removed.

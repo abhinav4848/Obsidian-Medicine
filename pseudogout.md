@@ -4,7 +4,7 @@ tags:
 ---
 Calcium pyrophosphate.
 # Cause:
-Hyperparathyroidism, hemochromatosis, Hypophosphatemia, Hypomagnesemia, Hypothyroidism, 
+[[Hyperparathyroidism]], hemochromatosis, Hypophosphatemia, Hypomagnesemia, Hypothyroidism, 
 
 # Clinical Features
 Joint pain, swelling, erythema, warmth, fever, raised WBC. 

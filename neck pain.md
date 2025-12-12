@@ -25,3 +25,6 @@ clonus, hyperreflexia, Hoffman's sign.
 See: [Physiopedia](https://www.physio-pedia.com/Hoffmann's_Sign)
 
 ![Hyperreflexia, Clonus, Positive Hoffman's sign](https://www.youtube.com/watch?v=i39Zvyhnv_A) 
+
+# DDx
+Cervical spondylosis: Wear & tear of cervical spine. 
