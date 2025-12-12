@@ -4,6 +4,8 @@ tags:
   - autoimmune
   - rheumat
 urls: https://dermnetnz.org/topics/behcet-disease
+aliases:
+  - Behçet’s disease
 ---
 Behcet's disease is a form of **vasculitis** which primarily targets small arteries, but can affect both arteries and veins of all sizes.
 *Happens due to HLA-B51. (see [[hla-b27]]).* 
