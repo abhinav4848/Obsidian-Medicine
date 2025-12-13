@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "housekeeping/study tips.md",
+                "file": "asthma- acute attack.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "study tips"
+              "title": "asthma- acute attack"
             }
           }
         ],
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "housekeeping/study tips.md",
+                "file": "asthma- acute attack.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for study tips"
+              "title": "Backlinks for asthma- acute attack"
             }
           }
         ]
@@ -232,8 +232,13 @@
   },
   "active": "0003cd23fa1d0dd1",
   "lastOpenFiles": [
-    "attachments/knee orthopaedic pathologies.png",
+    "spirometry.md",
+    "asthma- acute attack.md",
+    "asthma- severity assessment.md",
+    "asthma- new management 2024.md",
+    "corticosteroid.md",
     "housekeeping/study tips.md",
+    "attachments/knee orthopaedic pathologies.png",
     "housekeeping/rules.md",
     "housekeeping/revise recent changes.base",
     "upper limb ortho problems.md",
@@ -255,10 +260,6 @@
     "qt prolongation.md",
     "drugs contraindicated in pregnancy.md",
     "antipsychotic drugs.md",
-    "acute pericarditis.md",
-    "gout.md",
-    "colchicine.md",
-    "behcet's disease.md",
     "attachments/pericarditis.png",
     "flow charts/haematuria.canvas",
     "attachments/svc syndrome.png",
