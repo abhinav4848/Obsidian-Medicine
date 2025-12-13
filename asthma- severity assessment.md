@@ -14,15 +14,15 @@ revision notes: different grades of severity like Pulse rate, RR, PEFR
 	- Acute severe: 33-50%
 	- Life threat: <33%
 ## Severity grading of Asthma
-Widespread, bilateral wheeze does not indicate severity of symptoms. 
-Note: A few puffs of Salbutamol could increase HR to go above 110/min. 
+*Widespread, bilateral wheeze is not something that dictates severity of asthma.*  
+**Note**: A few puffs of Salbutamol could increase HR to go above 110/min but that shouldn't mean severity has worsened. 
 
 | **Moderate**                                                                                   | **Severe**                                                                                                  | **Life-threatening**                                                                                                                                                                                   |
 | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | • PEFR > 50% best or predicted  <br>• Speech normal <br>• RR < 25 / min  <br>• Pulse < 110 bpm | • PEFR 33 - 50% best or predicted  <br>• Can't complete sentences  <br>• RR > 25/min  <br>• Pulse > 110 bpm | • PEFR < 33% best or predicted  <br>• Oxygen sats < 92%  <br>• Silent chest, cyanosis or feeble respiratory effort  <br>• Bradycardia, dysrhythmia or hypotension  <br>• Exhaustion, confusion or coma |
 # Life threatening features
 - PEFR < 33% predicted or best.
-- SpO2 < 92%.
+- SpO2 < 92%. 
 - Silent Chest (Absent chest sounds)- impending resp arrest. 
 - Cyanosis.
 - Poor respiratory effort.
