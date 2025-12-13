@@ -11,10 +11,10 @@ aliases:
 **Alpha-1 blockers**: Tamsulosin, doxazosin, alfuzosin
 - **s/e**: Postural hypotension, Drowsiness, Dyspnoea, Cough
 - Alpha blockers are given to relax smooth muscles of bladder and prostate for fast relief (BPH can cause acute retention). And also if just LUT features. But it doesn't slow the growth of BPH. 
-	        
+
 **5 alpha reductase inhibitor**: Finasteride
 - These take up-to 6 months to start acting and are given to those with high risk of progression of BPH. i.e. LUT + Large prostate + raised PSA
-- **s/e**: Erectile dysfunction, Ejaculation problems, Gynecomastia
+- **s/e**: Erectile dysfunction, Ejaculation problems, [[gynaecomastia|Gynecomastia]]
 	- Finasteride is not a fun ride when you have erectile dysfunction
 
 Surgery: TURP
@@ -27,7 +27,6 @@ Surgery: TURP
 ---
 # Prostatitis
 Can be post biopsy: E coli is common cause
-
 ## Clinical Features
 Cloudy urine and foul smell, abdominal pain
 

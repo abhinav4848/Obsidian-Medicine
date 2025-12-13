@@ -45,7 +45,7 @@ If purulent sputum, fever, high CRP, signs of [[Pneumonia]] -> give Antibiotics 
 
 ---
 # Hospital Admission
-Admission is recommended if any of the following criteria are met  
+Admit if: 
 - severe breathlessness
 - acute confusion or impaired consciousness
 - cyanosis
@@ -56,7 +56,7 @@ Admission is recommended if any of the following criteria are met
 ## Oxygen therapy
 Before ABG:
 - COPD patients are at risk of hypercapnia (CO2 Narcosis- depressed consciousness)
-- Aim initial O2 saturation between 88-92% if no ABG. 
+- Aim initial sats 88-92% if no ABG. 
 - 24% - 28% Oxygen (not 100%) using "venturi face mask"
 After ABG: 
 - Adjust target range to 94 - 98% if the pCO2 is normal

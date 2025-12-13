@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "copd- acute exacerbation.md",
+                "file": "sarcoidosis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "copd- acute exacerbation"
+              "title": "sarcoidosis"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "copd",
+                "query": "sjog",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "copd- acute exacerbation.md",
+                "file": "sarcoidosis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for copd- acute exacerbation"
+              "title": "Backlinks for sarcoidosis"
             }
           }
         ]
@@ -233,6 +233,10 @@
   },
   "active": "0003cd23fa1d0dd1",
   "lastOpenFiles": [
+    "sjogren's syndrome.md",
+    "gynaecomastia.md",
+    "prostate.md",
+    "copd- acute exacerbation.md",
     "antiarrhythmic drugs.md",
     "qt prolongation.md",
     "drugs contraindicated in pregnancy.md",
@@ -264,12 +268,8 @@
     "uti.md",
     "tia.md",
     "flow charts",
-    "statins.md",
-    "polymyositis.md",
-    "systemic lupus erythematosis.md",
     "attachments/pericarditis- widespread ST elevation & PR depression.png",
     "attachments/pericarditis- widespread st elevation without reciprocal changes, marked PR depression.png",
-    "calcium.md",
     "housekeeping/revise recent changes.base",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "desktop.ini",
