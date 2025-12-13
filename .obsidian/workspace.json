@@ -26,15 +26,17 @@
             "id": "0003cd23fa1d0dd1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "asthma- severity assessment.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "flow charts/chicken pox treatment flowchart (work in progress).canvas",
+                "viewState": {
+                  "x": 131.5,
+                  "y": 380,
+                  "zoom": -0.07616514412041889
+                }
               },
-              "icon": "lucide-file",
-              "title": "asthma- severity assessment"
+              "icon": "lucide-layout-dashboard",
+              "title": "chicken pox treatment flowchart (work in progress)"
             }
           }
         ],
@@ -70,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "chicken p",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -91,7 +93,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asthma- severity assessment.md",
+                "file": "flow charts/chicken pox treatment flowchart (work in progress).canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +213,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for asthma- severity assessment"
+              "title": "Backlinks for chicken pox treatment flowchart (work in progress)"
             }
           }
         ]
@@ -232,9 +235,9 @@
   },
   "active": "0003cd23fa1d0dd1",
   "lastOpenFiles": [
+    "asthma- severity assessment.md",
     "asthma- acute attack.md",
     "spirometry.md",
-    "asthma- severity assessment.md",
     "asthma- new management 2024.md",
     "corticosteroid.md",
     "housekeeping/study tips.md",
