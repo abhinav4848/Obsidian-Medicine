@@ -18,10 +18,10 @@ Use QT nomogram to check if normal.
 **Rule of thumb**: Anything less than 420ms should be okay, or QT should be less than half the preceding RR interval. 
 
 # Drugs
-- amiodarone, sotalol, class 1a antiarrhythmic drugs
+- amiodarone, sotalol, class 1a [[antiarrhythmic drugs]]
 - [[tricyclic antidepressants]], SSRI (esp. [[citalopram]])
 - Methadone (Opioid agonist)
-- [[quinine]]
+- [[quinine]], Quinidine 
 - terfenadine #antifungal 
 - Macrolides (Erythromycin) #abx
 - [[Haloperidol]] (anti-psychotic)
