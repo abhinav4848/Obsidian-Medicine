@@ -92,7 +92,7 @@ Risk of transmitting in needle stick injury -> 2% (6% if HIV too).
 - HCV RNA is the investigation of choice to diagnose acute infection
 - HCV antibody. If positive -> HCV RNA for currently circulating virus -> if RNA -ve, repeat RNA in 6 months. 
 ## Associated with
-- [[Sjogren's syndrome]] (seen with 1* biliary cirrhosis & chronic hepatitis C)
+- [[Sjogren's syndrome]] (Sjogren is seen with [[primary biliary cirrhosis]] & chronic hepatitis C)
 - [[cancer- liver|HCC]] 
 - Cryoglobulinemia (type 2-> mixed monoclonal & polyclonal),
 - [[porphyria cutanea tarda]], esp. if also Alcohol abuse 

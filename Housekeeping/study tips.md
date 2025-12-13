@@ -24,7 +24,7 @@ https://bjgp.org/content/75/757?current-issue=y
 
 ## RCGP library
 https://research.ebsco.com/c/u3lu7a/search (need openathens login)
-
+UHL Guidelines: https://www.publication.uhleicester.nhs.uk/publication-scheme/pagl-document-library/
 ## Exam Booking Page
 https://www.rcgp.org.uk/mrcgp-exams/mrcgp-exam-applications 
 
@@ -35,14 +35,19 @@ CPD catalogue by RCGP: https://elearning.rcgp.org.uk/local/rcgp_coursedisplay/in
 
 ---
 # Calgary guide to understanding disease 
-Flowcharts
-https://calgaryguide.ucalgary.ca/ 
+Flowcharts: https://calgaryguide.ucalgary.ca/ 
+
+# Cancer symptom & cause
+Cancer Map by Gateway C: https://www.gatewayc.org.uk/the-cancer-maps/
 
 ---
 # RCGP super-condensed curriculum for GPs
 [2021 Index](https://www.rcgp.org.uk/mrcgp-exams/gp-curriculum/super-condensed-guides)
 [2025 Index](https://www.rcgp.org.uk/mrcgp-exams/gp-curriculum/gp-curriculum-update-notice)
 - [Resp Super condensed guide](https://www.rcgp.org.uk/getmedia/27bf973a-fb82-4a2a-8aa6-3a9562e41da7/Respiratory-Health-SCCG-2025.pdf )
+
+
+
 
 ---
 # Yesterday's notes changes

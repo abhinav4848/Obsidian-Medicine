@@ -13,17 +13,16 @@ Mono-arthritis,
 	• Acute, hot, painful joint.
 	• Restricted joint movement
 
-Children <3yo are greatly vulnerable: Orthopedic emergency. *See [[limping child]]*.
+Children <3yo are greatly vulnerable: Orthopaedic emergency. *See [[limping child]]*.
 
 **Kocher's criteria** #named for septic arthritis in children (Kocher's WIFE)
 	• WCC > 12 * 10^9/L - 1 point
 	• Inability to Weight bear - 1 point
 	• Fever >38.5ºC - 1 point
 	• ESR > 40mm/hr
-
 # Investigation 
 Send aspirate for culture & microscopy. 
-Causative organism: (mnemonic: Septic SANG)- Staph aureus > Gonorrhea
+Causative organism: (mnemonic: Septic SANG)- Staph aureus > Gonorrhoea
 
 # Treatment
 #abx

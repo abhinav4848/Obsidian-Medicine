@@ -5,7 +5,7 @@ aliases:
 tags:
   - rheumat
 ---
-Most of the information is at [[ra vs osteoarthritis]]. 
+Most of the information is at [[RA vs osteoarthritis]]. 
 
 # Resp problems
 A variety of respiratory problems may be seen in patients with rheumatoid arthritis:  

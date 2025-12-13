@@ -30,8 +30,8 @@ Non-infectious [[granulomatous disease]] involving abnormal collections of infla
 # Investigation
 - CXR: b/l Hilar LNE, 
 - Biopsy: Non-caseating granulomas, 
-- [[tumour marker|ACE elevated]]
-- LFT abnormal, 
+- [[tumour marker|ACE elevated]] 
+- LFT abnormal 
 - Pulmonary function test: [[restrictive lung diseases|Restrictive]], 
 - [[Hypercalcemia]] (due to elevated Vit D)
 - Urea & Electrolytes for Acute Kidney injury due to Hypercalcemia.

@@ -15,6 +15,6 @@ tags:
 - Prader-Willi syndrome
 
 # Consequences of obesity in children
-- Orthopedic problems: [[Slipped upper femoral epiphysis]], Blount's disease (a development abnormality of the tibia resulting in bowing of the legs), musculoskeletal pains
-- Sleep apnea
+- Orthopaedic problems: [[Slipped upper femoral epiphysis]], Blount's disease (a development abnormality of the tibia resulting in bowing of the legs), musculoskeletal pains
+- Sleep apnoea
 - Benign intracranial hypertension

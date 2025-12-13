@@ -19,8 +19,10 @@ Has [[alcohol]] induced pain.
 No RS cells (some other cell morphology may be mentioned).
 Age 25-40yo.
 Involves peripheral LN (not in close proximity)
-Seen in HIV, Rheumatoid arthritis, [[coeliac disease|celiac disease]] #associated 
+Seen in HIV, [[rheumatoid arthritis]], [[coeliac disease|celiac disease]] #associated 
 - MC HIV related lymphoma: NHL (diffuse large B cell lymphoma > Burkitt (caused by [[epstein barr virus|EBV]]))
+A subtype of NHL: 
+	MALT can occur in [[sjogren's syndrome]], [[hypothyroidism|Hashimoto's thyroiditis]], [[h. pylori]] (gastric MALT) #associated 
 # Clinical Features
 **B Symptoms**: fever, night sweats, weight loss #named 
 Hepatosplenomegaly. 
