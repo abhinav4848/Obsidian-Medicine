@@ -21,7 +21,7 @@ Steatorrhea (Malabsorption), foul smelling, Respiratory infections, cough, delay
 - **1st decade**: staph > pseudomonas
 - **2nd decade onwards**: [[pseudomonas]] > staph
 Can cause bronchiectasis due to recurrent infections. 
-## Rx
+## Treatment
 1. Long term **azithromycin**, inhaled hypertonic saline, salbutamol are useful.
 2. Chest physiotherapy.
 3. Enteric coated pancreatic replacement therapy. 

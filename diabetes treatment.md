@@ -7,7 +7,7 @@ HbA1c target < 48 (i.e. Pre-diabetic levels are acceptable)
 NICE PDF: [https://www.nice.org.uk/guidance/ng28](https://www.nice.org.uk/guidance/ng28)
 
 *See [[antidiabetic drugs]].* 
-# Rx based on target levels
+# Treatment based on target levels
 If new diagnosis: Lifestyle advice
 	Exercise: 30 mins moderate intensity physical activity 5 times/week.
 If Lifestyle modification but still
@@ -27,7 +27,7 @@ If still not controlled, 2nd intensification. Or if other drugs c/i: consider in
 - metformin + (pioglitazone or sulfonylurea or DPP-4 inhibitor) + SGLT-2 if certain NICE criteria are met
 - insulin-based treatment
 
-# Rx based on appropriate drug to use
+# Treatment based on appropriate drug to use
 If high risk of CVD/established CVD/HF -> Metformin, once established, add SGLT-2 inhibitor  
 
 If no risk of HF: Metformin

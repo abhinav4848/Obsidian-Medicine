@@ -35,7 +35,7 @@ Another one of the atypical pneumonias.
 ### Inv
 Urinary antigen
 **CXR**: patchy Bi-basal consolidation
-### Rx
+### Treatment
 Macrolides (Clarithromycin > Azithromycin) or tetracycline #abx 
 
 ---
@@ -58,7 +58,7 @@ Worsening flu like symptoms precede a dry cough
 ### Inv
 • CXR: Atypical chest signs/x-ray findings. Reticular-nodular shadowing or patchy consolidation of 1 lower lobe
 • Serology for diagnosis. 
-### Rx
+### Treatment
 Doxycycline or a macrolide (e.g. erythro/clarithromycin preferred in atypicals in general) #abx
 
 ---
@@ -68,7 +68,7 @@ Generally seen in patients with **HIV (CD4 < 200)**.
 Presents with a dry cough, exercise-induced desaturations and the absence of chest signs
 
 CXR: b/l consolidation, b/l perihilar interstitial shadow
-### Rx
+### Treatment
 If CD < 200: Co-trimoxazole as prophylaxis. #abx
 If CD < 50: Azithromycin (prophylaxis against M. avium)
 

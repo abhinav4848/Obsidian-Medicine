@@ -25,7 +25,7 @@ Children:
 Pregnant w/o need for admission: 
 	Cefalexin (PO) 500mg BD for 7-10days 
 	*Use cephalosporin (not quinolone).* 
-## Summary of Rx
+## Summary of Treatment
 If Dysuria (Lower UTI): Nitrofurantoin, Trimethoprim  
 if loin pain, etc. (upper UTI):
 	Broad spectrum Cephalosporin or quinolone (for [[drugs contraindicated in pregnancy|non pregnant women]]) for 10-14 days. Ciprofloxacin, Co-Amoxiclav  

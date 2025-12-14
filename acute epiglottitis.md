@@ -17,8 +17,8 @@ Risk of airway obstruction hence life threatening.
 1. Rapid onset
 2. Generally unwell
 3. 'tripod' position: the patient finds it easier to breathe if they are leaning forward and extending their neck in a seated position
-## Rx:
-- intubate/secure airway by anesthetist- the diagnosis is made by direct visualization but this should only be done by senior staff who are able to intubate if necessary
+## Treatment
+- intubate/secure airway by anaesthetist- the diagnosis is made by direct visualization but this should only be done by senior staff who are able to intubate if necessary
 >[!warning]
  if suspected Acute Epiglottitis, do NOT examine the throat due to the risk of acute airway obstruction.
  An examination carried out at the bedside is extremely high risk as any manipulation or agitation of an inflamed epiglottis can cause sudden complete airway obstruction.

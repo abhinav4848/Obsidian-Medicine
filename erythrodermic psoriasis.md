@@ -6,7 +6,7 @@ tags:
 See [[Erythroderma]]. 
 
 Dermatological #emergency -> BP drop, tachy, mild pyrexia, rigor.  
-# Rx
+# Treatment
 Supportive, 
 **rapid acting drugs**: Ciclosporin, 
 **slow acting drugs**: methotrexate.

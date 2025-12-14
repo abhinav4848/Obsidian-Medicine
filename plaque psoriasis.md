@@ -4,7 +4,7 @@ tags:
 ---
 *See [[Psoriasis]] for all other types*
 Not to be confused with [[Actinic keratosis]].
-## Etiology
+## Aetiology
 - Has family history. 
 - Can be triggered by stress/throat infections and can go away on its own. 
 - Relapsing nature. 
@@ -15,15 +15,15 @@ Not to be confused with [[Actinic keratosis]].
 ## Drugs causing Psoriasis: 
 ACE inhibitor, Alcohol, Anti-malarial (HCQ), Beta blocker, Infliximab, Lithium, Mepacrine, NSAID, Trauma
 
-## C/f
+## Clinical Features
 - Itchy, scale, elevated, well demarcated, erythematous.
 - On extensor surface (elbow, knees) & scalp (eczema on flexures). 
-- Auspitz's sign: Punctate bleeding when scales are scraped off. 
+- Auspitz's sign #named : Punctate bleeding when scales are scraped off. 
 - New lesion at site of injury: [[Koebner's phenomenon]].
 - Nail changes: Pitting/Onycholysis.
 
 Based on shape: Plaque, [[Guttate psoriasis]] (oil drop)
-## Rx: 
+## Treatment
 ### Initial
 Topical corticosteroids (Betamethasone), 
 Vit D analogues (**calcipotriol**), 

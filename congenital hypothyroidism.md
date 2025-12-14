@@ -14,7 +14,7 @@ Broad flat nose, wide set eyes, protruding tongue.
 
 [[Guthrie test]] identifies serum TSH -> if +ve, -> Radioisotope scan, USG of neck.
 
-**Rx**: Levothyroxine till 2 years of age.
+**Treatment**: Levothyroxine till 2 years of age.
 
 ---
 [[Down's syndrome]] has small mouth

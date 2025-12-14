@@ -27,6 +27,6 @@ Xanthopsia: Yellow-green vision
 - inverted T waves
 - Short QT interval
 
-# Rx
+# Treatment
 Digoxin-specific antibody fragments #antidote 
 Digibind

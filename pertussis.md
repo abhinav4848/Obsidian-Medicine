@@ -19,7 +19,7 @@ Suspected if a person has an acute cough that has lasted for >= 14 days without 
 ## Vaccination
 - In UK, pregnants receive Influenza + Pertussis (as DPT)- (*Cough and sneeze vaccine*) around 16 - 32 weeks. 
 - infants are routinely immunized at 2, 3, 4 months and 3-5 years
-## Rx:
+## Treatment
 - Oral macrolide: (Clarithromycin/ Erythromycin/ Azithromycin) #abx if onset of cough is within past 21 days.
 > [!info]
 > Household contacts to be **offered abx prophylaxis**.

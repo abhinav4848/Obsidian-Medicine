@@ -10,5 +10,5 @@ Causes gradual loss of peripheral vision -> tunnel vision.
 # Fundoscopy
 black bone spicule-shaped pigmentation in the peripheral retina, mottling of the retinal pigment epithelium.  
   
-# Rx
+# Treatment
 Routine eye referral.

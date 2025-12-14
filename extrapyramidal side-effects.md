@@ -40,7 +40,7 @@ Causes late onset of choreoathetoid movements, abnormal, involuntary, may be irr
 
 ---
 # Treatment
-Rx with Benztropine, Biperiden (anticholinergic) #antidote
+Benztropine, Biperiden (anticholinergic) #antidote
 
 ---
 *See [[metoclopramide]]*

@@ -19,7 +19,7 @@ Whipple triad #triad
 2. c/f of hypoglycemia: Tachycardia, sweating, Confusion, Altered mentation, hypotension
 3. If blood glucose corrected -> rapid resolution of symptoms.
 
-# Rx:
+# Treatment
 If conscious & can swallow-> 200ml fruit juice
 
 If conscious but can't swallow-> 200ml 10% glucose iv, or 1mg glucagon im or sc.
