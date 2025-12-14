@@ -38,8 +38,7 @@ Investigation
 
 - lateralised periodic discharges at 2 Hz
 
-Rx:
-
+# Treatment
 As over 95% of encephalitis cases are caused by herpes simplex virus (HSV), IV aciclovir (works against HSV) should be started in all patients urgently.
 
 Autoimmune encaphalitis

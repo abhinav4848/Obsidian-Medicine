@@ -6,10 +6,10 @@ aliases:
 
 | HHV name   | Common Name | Disease caused                                                                                                     |
 | ---------- | ----------- | ------------------------------------------------------------------------------------------------------------------ |
-| HHV-1      | HSV-1       |                                                                                                                    |
-| HHV-2      | HSV-2       |                                                                                                                    |
-| HHV-3      | VZV         |                                                                                                                    |
-| HHV-4      | EBV         |                                                                                                                    |
+| HHV-1      | HSV-1       | Oral & Facial lesions. [[cold sores\|cold sore]]                                                                   |
+| HHV-2      | HSV-2       | Genital & Rectal infections (anogenital herpes)                                                                    |
+| HHV-3      | VZV         | [[chicken pox\|chickenpox]] -> recurs as [[shingles\|herpes zoster]]                                               |
+| HHV-4      | EBV         | [[epstein barr virus\|glandular fever]]                                                                            |
 | HHV-5      | CMV         |                                                                                                                    |
 | HHV-6A     |             |                                                                                                                    |
 | HHV-6B<br> |             | [[roseola infantum\|exanthem subitum]] (sixth disease)                                                             |
