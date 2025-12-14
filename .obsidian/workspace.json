@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cold sores.md",
+                "file": "human herpes viruses.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cold sores"
+              "title": "human herpes viruses"
             }
           }
         ],
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cytomega",
+                "query": "hsv-1",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -106,8 +106,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cold sores.md",
+                "file": "human herpes viruses.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +225,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cold sores"
+              "title": "Backlinks for human herpes viruses"
             }
           }
         ]
@@ -246,24 +245,26 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "a85543a86ec4dbe0",
+  "active": "676efa40181a3294",
   "lastOpenFiles": [
+    "shingles.md",
+    "chicken pox.md",
+    "impetigo.md",
+    "confusion in skin lesions.md",
+    "cold sores.md",
+    "human herpes viruses.md",
+    "encephalitis.md",
     "eczema.md",
     "atopic diseases.md",
     "eczema herpeticum.md",
-    "human herpes viruses.md",
     "roseola infantum.md",
-    "encephalitis.md",
     "cancer- lung.md",
-    "cold sores.md",
     "hhv.md",
     "plaque psoriasis.md",
-    "confusion in skin lesions.md",
     "acne vulgaris.md",
     "retinoids.md",
     "drugs contraindicated in pregnancy.md",
     "acne.md",
-    "chicken pox.md",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "asthma- severity assessment.md",
     "asthma- acute attack.md",
@@ -275,8 +276,6 @@
     "housekeeping/rules.md",
     "housekeeping/revise recent changes.base",
     "upper limb ortho problems.md",
-    "rheumatoid arthritis.md",
-    "ra vs osteoarthritis.md",
     "attachments/pericarditis.png",
     "flow charts/haematuria.canvas",
     "attachments/svc syndrome.png",

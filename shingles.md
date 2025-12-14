@@ -10,6 +10,8 @@ aliases:
   - Ramsay Hunt syndrome
 tags:
   - infection
+urls:
+  - https://www.nhs.uk/conditions/shingles/
 ---
 acute, unilateral, painful, blistering rash caused by the reactivation of the varicella-zoster virus, after primary infection with VZV ([[chicken pox]]). 
 Virus lies dormant in dorsal root/cranial nerve ganglia. 
@@ -43,7 +45,7 @@ Virus lies dormant in dorsal root/cranial nerve ganglia.
 - Antivirals
 	- Start antivirals within 72 hrs of onset, unless patient age <50, and mild truncal rash + mild pain + no risk factors. 
 	- antivirals reduce the incidence of post-herpetic neuralgia, esp in elderly
-	- Use: aciclovir, famciclovir, or valaciclovir
+	- Use: acyclovir, famciclovir, or valaciclovir
 
 # Complications
 - Post-Herpetic neuralgia

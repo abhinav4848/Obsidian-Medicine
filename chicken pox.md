@@ -3,6 +3,7 @@ aliases:
   - Chicken Pox
   - chickenpox
 urls:
+  - https://www.nhs.uk/conditions/chickenpox/
 ---
 Airborne spread. Spread also if contact with vesicles.
 **Infectivity**: -4 & +5 days of rash appearance.
@@ -13,7 +14,7 @@ Airborne spread. Spread also if contact with vesicles.
 - Appear in circular crops. Spread from face to chest & back.
 - Pruritic Rash. Scratches at night. 
 - Lasts 4-10 days. 
-# Rx: 
+# Treatment
 Healthy child/adult: **Reassure**. 
 Symptomatic management -> Chlorpheniramine/calamine lotion for itch. 
 
@@ -21,7 +22,7 @@ Symptomatic management -> Chlorpheniramine/calamine lotion for itch.
 [[School in children with rash]]: -4 to +5 days from onset of rash, or when crusted over. Keep away from pregnant women.
 
 > [!warning]
-> Don't use NSAID for fever in chicken pox cuz it can increase risk of skin infection, incl risk of gp A strep nec fasc
+> Don't use NSAID for fever in chicken pox cuz it can increase risk of skin infection, incl risk of gp A strep nec fasc 
 
 ## Acyclovir #drug to 
 - Immunocompromised who develop chicken pox, or 
