@@ -9,7 +9,7 @@ urls:
 *It's a [[seronegative spondyloarthropathy]].* 
 
 Arthritis developing after an infection elsewhere 
-- GU: [[Chlamydia]], Gonorrhoea, UTI
+- GU: [[chlamydia]], Gonorrhoea, UTI
 - Gastroenteritis: Salmonella, campylobacter, Dysentery 
 Organism can't be retrieved from the joint.
 

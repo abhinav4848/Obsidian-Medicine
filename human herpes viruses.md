@@ -2,6 +2,7 @@
 aliases:
   - Herpes simplex
   - HHV
+  - herpes
 ---
 
 | HHV name   | Common Name | Disease caused                                                                                                     |

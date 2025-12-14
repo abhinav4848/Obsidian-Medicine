@@ -11,7 +11,7 @@ urls:
  It is active against both Gram-positive and Gram-negative bacteria. It is particularly active against Gram-negative bacteria, including Salmonella, Shigella, Campylobacter, Neisseria, and Pseudomonas. Most anaerobes are not susceptible. 
 # Use in
 - Cipro used for acute prostatitis.
-- Can give in [[Gonorrhoea]].
+- Can give in [[gonorrhoea]].
 - Can be used for empirical therapy in [[cystic fibrosis]] but PipTaz (tazocin) is better.
 - Prophylactic abx in [[upper gi bleed|UGIB]]. 
 

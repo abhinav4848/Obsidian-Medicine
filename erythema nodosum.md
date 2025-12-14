@@ -17,7 +17,7 @@ tags:
 
 ## Infections
 - Brucellosis
-- [[Chlamydia]],
+- [[chlamydia]],
 - Strep throat
 - TB can cause but not its drugs -> CXR
 

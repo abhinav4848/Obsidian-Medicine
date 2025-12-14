@@ -1,0 +1,83 @@
+---
+aliases:
+  - Neisseria meningitidis
+tags:
+  - infection
+  - neurology
+---
+After treating meningitis, arrange hearing test cuz it's the most likely complication. But most likely outcome is complete recovery.
+# Causes
+- **Bacterial**: Streptococcus pneumoniae, Neisseria meningitidis, and Listeria monocytogenes
+	- Bacteria eats glucose and poops protein. #mnemonic 
+- **TB**: low glucose, high lymphocytes
+- **Viral**: Normal glucose, high lymphocytes.
+	- Coxsackievirus is the most common cause of viral meningitis in adults
+
+*Compare [[Encephalitis]]*  
+
+---
+# Diagnosis
+CT shows meningeal enhancement.
+
+If rash developed: 
+- Blood culture (Meningococcal septicaemia -> Neisseria meningitidis)
+- The rash is non-blanching.
+
+if w/o rash
+- Lumbar puncture for CSF analysis
+
+Bacterial CSF look same (turbid, purulent), but if
+- No rash: Streptococcus pneumoniae,
+- rash: Neisseria meningitidis (meningococcus)  
+## Lumbar puncture contraindicated if:
+- Increased ICP
+- Bulging, tense fontanelle
+- Ongoing seizure
+- GCS < 9 or a drop of >=3
+- Unequal, dilated, unresponsive pupils
+- Papilledema
+- If there's Meningococcal septicaemia -> cuz then you risk introducing it to brain.
+
+---
+# Treatment
+Treat even if suspected meningitis.
+### GP Clinic
+- Benzylpenicillin I.M. /IV
+### Hospital/A&E
+- 3rd gen cephalosporin -> Ceftriaxone/Cefotaxime empirical. Even [[gonorrhoea]] has same abx. 
+- If > 60yo, add i.v. ampicillin/amoxicillin to ceftriaxone to also cover listeria.
+
+\>3m: iv Ceftriaxone (or even cefotaxime as both are 3rd gen) as empirical therapy
+<3m: iv amox/ampi + iv cefotaxime (avoid steroid).
+
+If hypersensitivity to penicillin/cephalosporins: Chloramphenicol
+
+**Listeria meningitis**: Ceftriaxone + Amoxicillin
+- Gentamicin only if confirmed. 
+- Pregnant individuals, elders, newborns, immunocompromised are most susceptible. It can cross placenta and can kill baby in late pregnancy.
+
+**Cryptococcal meningitis**
+- Amphotericin B
+## Meningitis prophylaxis for contacts/household people
+Ciprofloxacin (preferred) or Rifampicin.
+
+Vancomycin is used in conjunction with cefotaxime for empirical treatment of suspected meningococcal disease in patients with prolonged or multiple use of other antibacterials in the last 3 months, or if travelled, in the last 3 months, to areas outside the UK with highly penicillin- and cephalosporin-resistant pneumococci.
+
+| Scenario                                           | BNF recommendation                                           |
+| -------------------------------------------------- | ------------------------------------------------------------ |
+| Initial empirical therapy aged < 3 months          | iv cefotaxime + amoxicillin (or ampicillin)                  |
+| Initial empirical therapy aged 3 months - 50 years | iv cefotaxime (or ceftriaxone)                               |
+| Initial empirical therapy aged > 50 years          | iv cefotaxime (or ceftriaxone) + amoxicillin (or ampicillin) |
+| Meningococcal meningitis                           | iv benzylpenicillin or cefotaxime (or ceftriaxone)           |
+| Pneumococcal meningitis                            | iv cefotaxime (or ceftriaxone)                               |
+| Meningitis caused by Haemophilus influenzae        | iv cefotaxime (or ceftriaxone)                               |
+| Meningitis caused by Listeria                      | iv amoxicillin (or ampicillin) + gentamicin                  |
+If the patient has a history of immediate hypersensitivity reaction to penicillin or to cephalosporins the BNF recommends using chloramphenicol.
+
+# Steroids
+NICE advise against giving corticosteroids in children younger than 3 months
+
+Dexamethsone should be considered if the lumbar puncture reveals any of the following:
+- frankly purulent CSF
+- CSF WCC >1000/microlitre
+- raised CSF WCC + protein concentration > 1 g/L

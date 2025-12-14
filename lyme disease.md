@@ -1,0 +1,4 @@
+---
+aliases:
+  - Erythema chronicum migrans
+---

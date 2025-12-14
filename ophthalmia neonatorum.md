@@ -7,7 +7,7 @@ Ophthalmia neonatorum simply means infection of the newborn eye.
 In neonates, the aetiology of [[conjunctivitis]] can be diverse ranging from benign causes such as nasolacrimal duct obstruction (NLDO) to more serious ones such as bacterial infections. 
 
 Responsible organisms include  
-- _[[Chlamydia]] trachomatis_ 
+- _[[chlamydia]] trachomatis_ 
 - _Neisseria gonorrhoeae_
   
 Suspected ophthalmia neonatorum should be referred for same-day ophthalmology/paediatric assessment. 

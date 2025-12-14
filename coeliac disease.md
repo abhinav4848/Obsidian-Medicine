@@ -19,7 +19,7 @@ Inability to tolerate gliadin, the alcohol soluble fraction of gluten that confe
 #associated 
 1. Coeliac can cause: **T-cell lymphoma** (as T-cells get activated by gluten exposure).  #cancer  
 2. Dermatitis Herpetiformis [Dermnetz](https://dermnetnz.org/topics/dermatitis-herpetiformis)
-	1. Cutaneous manifestation of coeliac disease. Nothing to do with herpes. It's pruritic vesicles on [[confusion in skin lesions|extensors]]. 
+	1. Cutaneous manifestation of coeliac disease. Nothing to do with [[human herpes viruses|herpes]]. It's pruritic vesicles on [[confusion in skin lesions|extensors]]. 
 	2. Give [[dapsone]]. 
 3. F/h/o Autoimmune disorders (type 1 diabetes mellitus, autoimmune [[hepatitis]], thyroid). 
 4. Iron deficiency anaemia due to malabsorption. 

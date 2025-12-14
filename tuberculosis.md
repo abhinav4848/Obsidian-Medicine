@@ -5,6 +5,11 @@ tags:
 aliases:
   - TB
   - side effects of TB drugs
+  - Isoniazid
+  - Rifampicin
+  - Pyrazinamide
+  - Ethambutol
+  - Streptomycin
 ---
 # Risk
 Loading bay, harbour > travel to endemic country.
@@ -30,7 +35,7 @@ Mantoux used to diagnose only latent TB -> May be positive in patients with BCG 
 | Medication      | Side effects                                                                               |
 | --------------- | ------------------------------------------------------------------------------------------ |
 | INH (Isoniazid) | peripheral neuritis, [[hepatitis]] (hepatotoxicity), [[systemic lupus erythematosis\|SLE]] |
-| Rifampicin      | Red secretion, urine discolouration, [[P450]] induction                                    |
+| Rifampicin      | Red secretion, urine discolouration, [[p450]] induction                                    |
 | Pyrazinamide    | Hepatotoxicity, hyperuricemia -> [[Gout]] (Cat C: so isn't contraindicated but avoid it)   |
 | Ethambutol      | [[optic neuritis]], decrease visual acuity                                                 |
 | Streptomycin    | C/I in [[drugs contraindicated in pregnancy\|pregnancy]].<br><br>Ototoxicity: Deafness     |
