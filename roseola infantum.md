@@ -9,7 +9,7 @@ aliases:
 urls: https://dermnetnz.org/topics/roseola
 ---
 
-[[HHV]] type 6. aka exanthem subitum, sixth disease.
+[[human herpes viruses|HHV]] type 6. aka exanthem subitum, sixth disease.
 # Clinical Features
 - Sudden high [[febrile children|fever]] lasting few days
 - After fever resolution -> maculopapular, non-itchy rash -> starts on chest & legs, then onto body (not on head and neck). 

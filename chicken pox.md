@@ -2,12 +2,13 @@
 aliases:
   - Chicken Pox
   - chickenpox
+urls:
 ---
 Airborne spread. Spread also if contact with vesicles.
 **Infectivity**: -4 & +5 days of rash appearance.
 
 # Clinical Features
-- Precede with cold-like symptoms and temperature
+- Preceded by cold-like symptoms and temperature
 - Begins with crops of red macules which then becomes raised then blister and crust.
 - Appear in circular crops. Spread from face to chest & back.
 - Pruritic Rash. Scratches at night. 
@@ -49,7 +50,13 @@ present in chicken pox (not in mumps) -> vesicular discharge, high fever -> Give
 ## Complications of chicken pox
 - Disseminated hemorrhagic chickenpox
 - Secondary bacterial infection (NSAIDs may increase this risk in chicken pox)
-- [[Encephalitis]] (cerebellar involvement may be seen) 
-- [[pneumonia]]
+- [[encephalitis]] (cerebellar involvement may be seen) 
+- [[pneumonia]]- Pregnant women are at 5x more risk of pneumonitis
 - If a baby is born with **congenital varicella**, he can develop *pneumonia* and *[[hepatitis]]* when delivered.
 - Can cause painful lesions called [[shingles|shingles]]. 
+
+
+# References
+1. [Chickenpox in Pregnancy (Green-top Guideline No. 13) | RCOG](https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/chickenpox-in-pregnancy-green-top-guideline-no-13/) 
+2. [Varicella: the green book chapter - GOV.UK](https://www.gov.uk/government/publications/varicella-the-green-book-chapter-34)
+3. [Guidelines on post-exposure prophylaxis (PEP) for varicella or shingles (July 2025) - GOV.UK](https://www.gov.uk/government/publications/post-exposure-prophylaxis-for-chickenpox-and-shingles/guidelines-on-post-exposure-prophylaxis-pep-for-varicella-or-shingles-january-2023)
