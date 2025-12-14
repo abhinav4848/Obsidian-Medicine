@@ -27,7 +27,7 @@ Symptomatic management -> Chlorpheniramine/calamine lotion for itch.
 - Immunocompromised **with exposure** 
 	Due to shortage of IVIG, we now prescribe oral acyclovir to immunocompromised to be started from days 7-14 after exposure. Not immediately
 - Pregnant who develop chicken pox & presents <24 hrs of onset of rash. 
-- Pregnant >=20 weeks POG, with exposure and with no VZ antibodies -> Acyclovir 7-14 days later, unless she presents within 24 hrs. of onset of rash.
+- Pregnant >=20 weeks POG, with exposure and with no VZ antibodies -> Acyclovir 7-14 days later, unless she presents within 24 hrs. of onset of rash. 
 - See [[chicken pox treatment flowchart (work in progress).canvas|Chicken Pox treatment flowchart (Work in progress)]]
 
 ## VZIG to 

@@ -26,17 +26,15 @@
             "id": "0003cd23fa1d0dd1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "flow charts/chicken pox treatment flowchart (work in progress).canvas",
-                "viewState": {
-                  "x": 131.5,
-                  "y": 380,
-                  "zoom": -0.07616514412041889
-                }
+                "file": "chicken pox.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "chicken pox treatment flowchart (work in progress)"
+              "icon": "lucide-file",
+              "title": "chicken pox"
             }
           }
         ],
@@ -72,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chicken p",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -203,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flow charts/chicken pox treatment flowchart (work in progress).canvas",
+                "file": "chicken pox.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +211,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for chicken pox treatment flowchart (work in progress)"
+              "title": "Backlinks for chicken pox"
             }
           }
         ]
@@ -235,6 +233,7 @@
   },
   "active": "0003cd23fa1d0dd1",
   "lastOpenFiles": [
+    "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "asthma- severity assessment.md",
     "asthma- acute attack.md",
     "spirometry.md",
@@ -262,7 +261,6 @@
     "antiarrhythmic drugs.md",
     "qt prolongation.md",
     "drugs contraindicated in pregnancy.md",
-    "antipsychotic drugs.md",
     "attachments/pericarditis.png",
     "flow charts/haematuria.canvas",
     "attachments/svc syndrome.png",
@@ -274,7 +272,6 @@
     "flow charts",
     "attachments/pericarditis- widespread ST elevation & PR depression.png",
     "attachments/pericarditis- widespread st elevation without reciprocal changes, marked PR depression.png",
-    "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "desktop.ini",
     "housekeeping/memorise.base",
     "flow charts/hypertension management.canvas",
