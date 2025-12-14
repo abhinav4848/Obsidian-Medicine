@@ -7,8 +7,8 @@ aliases:
   - Squamous cell carcinoma Lung
   - paraneoplastic syndrome
   - Lung Cancer
-revision counter:
-  - "1"
+  - small cell lung cancer
+revision counter: 1
 revision notes: paraneoplastic symptoms
 ---
 2 types broadly. 
@@ -19,6 +19,7 @@ Usually not amenable to resection (chemo and radio done & have good response)
 - Releases ADH -> [[SIADH]] -> Dilutional hyponatremia, Hypokalemia 
 - ACTH -> [[cushing's syndrome]] 
 - **Lambert-Eaton**: Antibodies against presynaptic calcium channels. Same as Myasthenia gravis, but: #confusion Reflexes are absent and elicited after exercise. Increased strength/power of weakened muscle after repeated test. 
+- autoimmune [[encephalitis]]. 
 
 ---
 # Non-Small cell carcinoma (85%)
@@ -36,7 +37,7 @@ More common than paraneoplastic SIADH.
 - Serum PTH will be low (1* & 3* [[hyperparathyroidism]] ruled out). 
 - Then check [[biochemical differences in different ortho conditions#High ALP causes|ALP]] -> high ALP (+ high Ca) means [[cancers metastasizing to the bone|bone metastasis]]. 
 
-Clubbing, Hyperthyroidism due to ectopic TSH. 
+Clubbing, Hyperthyroidism, due to ectopic TSH. 
 
 ---
 # Investigation 
