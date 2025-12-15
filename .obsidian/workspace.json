@@ -166,8 +166,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "systemic sclerosis.md",
+                "file": "school in children with rash.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of systemic sclerosis"
+              "title": "Outline of school in children with rash"
             }
           },
           {
@@ -263,7 +262,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "ba756b466b0b4515",
@@ -306,16 +305,17 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "9a589fad9d896562",
+  "active": "91c8e30ab36bd5e3",
   "lastOpenFiles": [
+    "thrombocytopenia.md",
     "school in children with rash.md",
+    "erythema infectiosum.md",
+    "different rashes in paeds.md",
     "scabies.md",
     "conjunctivitis.md",
     "molluscum contagiosum.md",
     "hand foot mouth.md",
-    "erythema infectiosum.md",
     "Parvovirus B19.md",
-    "different rashes in paeds.md",
     "scarlet Fever.md",
     "day named diseases.md",
     "measles.md",
@@ -333,7 +333,6 @@
     "drugs contraindicated in pregnancy.md",
     "acne vulgaris.md",
     "chlamydia.md",
-    "gonorrhoea.md",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "attachments/knee orthopaedic pathologies.png",
     "housekeeping/revise recent changes.base",
