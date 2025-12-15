@@ -4,11 +4,12 @@ tags:
   - neurology
 aliases:
   - Transient Ischaemic Attack
+  - TIA
 ---
+*See [[Stroke]].*
 May present as TIA of Eye. ([[Amaurosis fugax]])
 # Investigation
 Do Carotid doppler scanning/Carotid Duplex -> within 2 weeks of admission to check for carotid artery stenosis
-
 # Treatment
 Start on aspirin & switch to Clopidogrel **just like in stroke** *.
 If ICA stenosis

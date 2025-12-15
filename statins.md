@@ -7,6 +7,18 @@ tags:
 OHGp 5th Ed:
   - "224"
 ---
+# Who to give statins
+- everyone with cardiovascular disease ([[stroke]], [[tia|TIA]], IHD, PVD)
+- Anyone with 10-year cardiovascular risk >= 10%
+- Type 2 DM to be assessed by QRISK to start statins
+- Type 1 DM where
+	- Diagnosis made >= 10 years ago
+	- age >=40 yo
+	- have established nephropathy
+- QRISK 3 score
+	- Determines the CVA risk in next 10 years
+	- If risk >10% & age <=84yo, start statins
+
 # Test before & after starting
 - Recheck lipid profile in 3 months. If target not met, promote lifestyle, check concordance, increase dose if tolerated/not on max dose. 
 - Check LFT in 3m & 1y after initiating, increasing dose. Don't check again unless clinically indicated. 
