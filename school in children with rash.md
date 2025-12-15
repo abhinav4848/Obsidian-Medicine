@@ -17,7 +17,7 @@ Crusted over / 48 hrs. after Abx started
 +5 days from onset of swollen glands 
 ### [[Rubella]] 
 +5 days from onset from rash 
-### [[Parvovirus B19]] 
+### [[erythema infectiosum|Parvovirus B19]] 
 Not infectious once rash appears. 
 ### [[Pertussis]] 
 48 hrs. after Ab started (or 21 days from onset of symptoms if no Abx given)
@@ -27,12 +27,12 @@ Not infectious once rash appears.
 ---
 #### No restrictions: 
 - [[hand foot mouth]],
-- cold sores (herpes simplex),
+- [[cold sores]] (herpes simplex),
 - [[molluscum contagiosum]],
-- [[roseola infantum]] (sixth disease)
-- Conjunctivitis
+- [[roseola infantum]] ([[day named diseases|sixth disease]])
+- [[conjunctivitis]] 
 - [[epstein barr virus|Infectious Mononucleosis]]
-- Head lice
+- Head lice 
 - Threadworms
 - [[Erythema infectiosum]] (Fifth disease)
 #### Until treated
@@ -52,7 +52,7 @@ Influenza
 - All lesions crusted over: [[chicken pox]]
 - Until symptoms have settled for 48 hours: Diarrhoea & vomiting
 - Until lesions are crusted and healed, or 48 hours after commencing antibiotic treatment: [[Impetigo]]
-- Until treated: [[Scabies]]
+- Until treated: [[scabies]]
 - Until recovered: Influenza
 
 ---

@@ -16,7 +16,7 @@ Centor criteria to know if viral or bacterial
 	If there's 3 out of 4, suspect Streptococcus & give antibiotics.
 	Check patient's allergy status first.
 	No Allergy: Phenoxymethylpenicillin- Penicillin V for 10 days. #abx
-	*Pen V also used in [[Scarlet Fever]]*
+	*Pen V also used in [[scarlet Fever]]*
 	Pen allergic: 5 days of erythromycin or clarithromycin
 ❌Amoxicillin should never be given in suspected [[epstein barr virus|glandular fever]].
 

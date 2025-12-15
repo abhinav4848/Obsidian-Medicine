@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cancer- lymphoma.md",
+                "file": "lyme disease.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cancer- lymphoma"
+              "title": "lyme disease"
             }
           },
           {
@@ -28,13 +28,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "human herpes viruses.md",
+                "file": "day named diseases.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "human herpes viruses"
+              "title": "day named diseases"
+            }
+          },
+          {
+            "id": "11b3feaea1ea8aa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mumps.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "mumps"
+            }
+          },
+          {
+            "id": "9a589fad9d896562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school in children with rash.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "school in children with rash"
+            }
+          },
+          {
+            "id": "6efb15194116616f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rubella.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "rubella"
             }
           },
           {
@@ -100,10 +145,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lyme",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
               },
@@ -121,7 +166,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stroke.md",
+                "file": "school in children with rash.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +286,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for stroke"
+              "title": "Backlinks for school in children with rash"
             }
           }
         ]
@@ -260,34 +306,34 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "1b5520d2adb613c8",
+  "active": "9a589fad9d896562",
   "lastOpenFiles": [
-    "statins.md",
-    "stroke.md",
-    "tia.md",
+    "school in children with rash.md",
+    "scabies.md",
+    "conjunctivitis.md",
+    "molluscum contagiosum.md",
+    "hand foot mouth.md",
+    "erythema infectiosum.md",
+    "Parvovirus B19.md",
+    "different rashes in paeds.md",
+    "scarlet Fever.md",
+    "day named diseases.md",
+    "measles.md",
+    "mumps.md",
+    "lyme disease.md",
+    "cancer- lymphoma.md",
+    "rubella.md",
+    "pancreatitis.md",
+    "human herpes viruses.md",
+    "roseola infantum.md",
     "pyelonephritis.md",
+    "stroke.md",
+    "statins.md",
+    "tia.md",
     "drugs contraindicated in pregnancy.md",
     "acne vulgaris.md",
     "chlamydia.md",
-    "lyme disease.md",
     "gonorrhoea.md",
-    "gynaecological infections.md",
-    "gynaecological discharges.md",
-    "meningitis.md",
-    "ciprofloxacin.md",
-    "fitz-hugh-curtis syndrome.md",
-    "breastfeeding.md",
-    "pre-eclampsia.md",
-    "p450.md",
-    "tuberculosis.md",
-    "human herpes viruses.md",
-    "cold sores.md",
-    "coeliac disease.md",
-    "systemic sclerosis.md",
-    "retinitis pigmentosa.md",
-    "plaque psoriasis.md",
-    "prostate.md",
-    "pneumonia.md",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "attachments/knee orthopaedic pathologies.png",
     "housekeeping/revise recent changes.base",

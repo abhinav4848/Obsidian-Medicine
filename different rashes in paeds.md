@@ -2,6 +2,8 @@
 tags:
   - paeds
   - dermat
+aliases:
+  - Rashes differences
 ---
 ## [[Chicken Pox]]
 Pruritic Rash. Macules, papules, vesicles, dry crust. 
@@ -19,3 +21,9 @@ Maculopapular rash initially on face, starts behind ear, before spreading to who
 3Cs: Coryza, conjunctivitis, cough
 ## [[Scarlet Fever]]
 Rash- pink, sandpaper like, fine punctate erythema (pinhead). Doesn’t involve palm and soles, Strawberry tongue (white coated tongue with red papillae), Cervical LN, Tonsils covered in pale exudates)
+
+
+---
+See [[day named diseases]]
+See [[school in children with rash|school exclusion]]
+

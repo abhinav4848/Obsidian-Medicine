@@ -5,11 +5,13 @@ aliases:
   - Lyme borreliosis
   - Borrelia burgdorferi
   - Erythema migrans
+  - Bull's eye rash
 tags:
   - dermat
   - infection
 urls:
   - https://dermnetnz.org/topics/lyme-disease
+  - https://dermnetnz.org/topics/erythema-migrans-images
 ---
 **Migrans**: migrating redness
 # Clinical Features
