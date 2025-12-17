@@ -27,8 +27,8 @@ Schober's test #named to assess lumbar spine mobility. <5cm is problem.
 - bamboo spine.
 - Dagger #sign: A single central radio-dense line related to ossification of supraspinous and interspinous ligaments
 - Syndesmophytes: due to ossification of outer fibers of annulus fibrosus
-- Chest x-ray: apical fibrosis -> Spirometry shows restrictive changes.
+- Chest x-ray: apical fibrosis -> [[spirometry]] shows restrictive changes.
 # Treatment
 - Exercise & NSAID,
-- Anti-TNF. (Mx of [[Churg-Strauss]] is Steroids)
-- Methotrexate, Sulphasalazine are disease modifiers which are useful only if peripheral involvement exists. Not if only axial symptoms.
+- Anti-TNF. (Mx of [[eosinophilic granulomatosis with polyangiitis|Churg Staruss]] is Steroids)
+- [[Methotrexate]], Sulphasalazine are disease modifiers which are useful only if peripheral involvement exists. Not if only axial symptoms.

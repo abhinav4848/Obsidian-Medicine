@@ -9,5 +9,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "mobilePullAction": "markdown:add-metadata-property"
 }

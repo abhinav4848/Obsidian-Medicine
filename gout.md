@@ -18,7 +18,7 @@ Drugs used for CHF cause gout: Thiazide, loop diuretics (prescribed first).
 High purine containing: Liver, Kidneys, Seafood, oily fish (mackerel, sardines), and yeast products. 
 
 # Investigations
-Test uric acid 6 weeks after acute attack, because during attack levels are raised. (wrong? can be normal)
+Test uric acid 6 weeks after acute attack, because during attack levels are raised. (*wrong? can be normal*)
 
 Measure uric acid levels in suspected gout (i.e. in the acute setting)  
 - a uric acid level ≥ 360 micromol/L is seen as supporting a diagnosis. Normal: 180-480. 
@@ -30,10 +30,10 @@ Synovial fluid- needle shaped negatively birefringent monosodium urate crystals 
 # Treatment
 ## Acute management
 Give Naproxen, Ibuprofen at max dose in acute mx > [[Colchicine]] is 2nd line cuz of s/e (GIT, Renal).
-	Aspirin is not indicated for gout. 
-	Don't give [[NSAID]] if already on blood thinner. 
-	Ask patient to stop taking [[statins]] if giving colchicine, cuz risk of rhabdomyolysis. #important 
-	Just like we ask patients to not take [[statins]] when giving macrolide. 
+- Aspirin is not indicated for gout. 
+- Don't give [[NSAID]] if already on blood thinner. 
+- Ask patient to stop taking [[statins]] if giving colchicine, cuz risk of rhabdomyolysis. #important 
+- Just like we ask patients to not take [[statins]] when giving macrolide. 
 Discuss urate lowering therapy with all patients experiencing a first flare.
 ## Long term
 Allopurinol is only started after symptoms settle > Febuxostat if not tolerated. 
