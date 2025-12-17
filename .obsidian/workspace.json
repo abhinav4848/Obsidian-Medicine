@@ -28,92 +28,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "day named diseases.md",
+                "file": "morphine breakthrough dose.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "day named diseases"
+              "title": "morphine breakthrough dose"
             }
           },
           {
-            "id": "11b3feaea1ea8aa3",
+            "id": "7a18b2739cea8376",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mumps.md",
+                "file": "pain ladder- neuropathic.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "mumps"
-            }
-          },
-          {
-            "id": "9a589fad9d896562",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school in children with rash.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "school in children with rash"
-            }
-          },
-          {
-            "id": "6efb15194116616f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rubella.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "rubella"
-            }
-          },
-          {
-            "id": "ecceba57139edd1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pyelonephritis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "pyelonephritis"
-            }
-          },
-          {
-            "id": "1b5520d2adb613c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stroke.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "stroke"
+              "title": "pain ladder- neuropathic"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "morphine",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -216,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school in children with rash.md",
+                "file": "pain ladder- neuropathic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of school in children with rash"
+              "title": "Outline of pain ladder- neuropathic"
             }
           },
           {
@@ -275,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school in children with rash.md",
+                "file": "pain ladder- neuropathic.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +225,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for school in children with rash"
+              "title": "Backlinks for pain ladder- neuropathic"
             }
           }
         ]
@@ -305,10 +245,20 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "91c8e30ab36bd5e3",
+  "active": "7a18b2739cea8376",
   "lastOpenFiles": [
-    "thrombocytopenia.md",
+    "duloxetine.md",
+    "pain ladder- neuropathic.md",
+    "morphine breakthrough dose.md",
+    "steroids.md",
+    "neck pain.md",
+    "day named diseases.md",
+    "mumps.md",
+    "stroke.md",
+    "pyelonephritis.md",
+    "rubella.md",
     "school in children with rash.md",
+    "thrombocytopenia.md",
     "erythema infectiosum.md",
     "different rashes in paeds.md",
     "scabies.md",
@@ -317,22 +267,12 @@
     "hand foot mouth.md",
     "Parvovirus B19.md",
     "scarlet Fever.md",
-    "day named diseases.md",
     "measles.md",
-    "mumps.md",
     "lyme disease.md",
     "cancer- lymphoma.md",
-    "rubella.md",
     "pancreatitis.md",
     "human herpes viruses.md",
     "roseola infantum.md",
-    "pyelonephritis.md",
-    "stroke.md",
-    "statins.md",
-    "tia.md",
-    "drugs contraindicated in pregnancy.md",
-    "acne vulgaris.md",
-    "chlamydia.md",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "attachments/knee orthopaedic pathologies.png",
     "housekeeping/revise recent changes.base",
