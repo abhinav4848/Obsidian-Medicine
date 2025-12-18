@@ -33,5 +33,5 @@ If unconscious->
 Oral glucose gel is absorbed via buccal mucosa but is useful only in drowsy patients, not unconscious patients.
 
 Patient keeps getting dizzy & hypoglycemic attacks:
-- If patient on [[antidiabetic drugs|metformin]] & Sulphonylureas -> Stop Sulphonylureas.
+- If patient on [[diabetes- antidiabetic drugs|metformin]] & Sulphonylureas -> Stop Sulphonylureas.
 - If patient on metformin & long acting insulin (This may be seen in patients not eating well) -> reduce/stop the dose of long acting insulin.

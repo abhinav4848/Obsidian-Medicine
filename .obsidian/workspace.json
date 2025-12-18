@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "depression.md",
+                "file": "diabetes- antidiabetic drugs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "depression"
+              "title": "diabetes- antidiabetic drugs"
             }
           }
         ],
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "incont",
+                "query": "diabetes",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -106,7 +106,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "depression.md",
+                "file": "diabetes- antidiabetic drugs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of depression"
+              "title": "Outline of diabetes- antidiabetic drugs"
             }
           },
           {
@@ -215,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "depression.md",
+                "file": "diabetes- antidiabetic drugs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +226,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for depression"
+              "title": "Backlinks for diabetes- antidiabetic drugs"
             }
           }
         ]
@@ -247,6 +248,9 @@
   },
   "active": "7a18b2739cea8376",
   "lastOpenFiles": [
+    "diabetes treatment.md",
+    "diabetes- antidiabetic drugs.md",
+    "depression.md",
     "duloxetine.md",
     "pain ladder- neuropathic.md",
     "morphine breakthrough dose.md",
@@ -270,9 +274,6 @@
     "measles.md",
     "lyme disease.md",
     "cancer- lymphoma.md",
-    "pancreatitis.md",
-    "human herpes viruses.md",
-    "roseola infantum.md",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "attachments/knee orthopaedic pathologies.png",
     "housekeeping/revise recent changes.base",

@@ -2,11 +2,12 @@
 tags:
   - diabetes
   - endocrine
+aliases:
 ---
 HbA1c target < 48 (i.e. Pre-diabetic levels are acceptable)
 NICE PDF: [https://www.nice.org.uk/guidance/ng28](https://www.nice.org.uk/guidance/ng28)
 
-*See [[antidiabetic drugs]].* 
+*See [[diabetes- antidiabetic drugs]].* 
 # Treatment based on target levels
 If new diagnosis: Lifestyle advice
 	Exercise: 30 mins moderate intensity physical activity 5 times/week.
