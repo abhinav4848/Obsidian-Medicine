@@ -24,6 +24,7 @@ All SSRIs lower seizure threshold and cause hyponatremia
 ## MAOi
 They are also antidepressants that are almost entirely not used, even in comparison to TCAs (dosulepin, etc.)
 
+---
 # Atypical Antidepressants
 1. SNRI: Venlafaxine, Duloxetine
 2. Presynaptic alpha 2 antagonist: Mirtazapine (Atypical Antidepressant)

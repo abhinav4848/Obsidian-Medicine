@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pain ladder- neuropathic.md",
+                "file": "depression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "pain ladder- neuropathic"
+              "title": "depression"
             }
           }
         ],
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "morphine",
+                "query": "incont",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pain ladder- neuropathic.md",
+                "file": "depression.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pain ladder- neuropathic"
+              "title": "Outline of depression"
             }
           },
           {
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pain ladder- neuropathic.md",
+                "file": "depression.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pain ladder- neuropathic"
+              "title": "Backlinks for depression"
             }
           }
         ]
