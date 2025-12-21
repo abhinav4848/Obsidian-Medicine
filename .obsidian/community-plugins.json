@@ -3,7 +3,7 @@
   "obsidian-git",
   "convert-url-to-iframe",
   "obsifetch",
-  "dynamic-outline",
   "multi-properties",
-  "obsidian-text-format"
+  "obsidian-text-format",
+  "dynamic-outline"
 ]

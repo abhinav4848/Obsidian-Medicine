@@ -26,7 +26,8 @@ Resting tremor.
 - may be managed with procyclidine #antidote (anti-cholinergic)
 ---
 ## Akathisia
-severe restlessness
+severe restlessness.
+Occasional s/e of prolonged use of Antipsychotic (can be atypical also) & Anti-depressants.
 
 ---
 ## Tardive dyskinesia

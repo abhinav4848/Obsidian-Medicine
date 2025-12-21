@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cancer- lymphoma.md",
+                "file": "psychiatric disorders.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cancer- lymphoma"
+              "title": "psychiatric disorders"
             }
           },
           {
@@ -28,17 +28,77 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyclothymia.md",
+                "file": "housekeeping/study tips.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Cyclothymia"
+              "title": "study tips"
+            }
+          },
+          {
+            "id": "f386d48b27e0aca6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "extrapyramidal side-effects.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "extrapyramidal side-effects"
+            }
+          },
+          {
+            "id": "966d7bc7d21e14ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dementia vs pseudo-dementia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "dementia vs pseudo-dementia"
+            }
+          },
+          {
+            "id": "ea05de3357dc1de4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mania.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "mania"
+            }
+          },
+          {
+            "id": "bde686ffe7225617",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cyclo-thymia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "cyclo-thymia"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -70,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sertraline",
+                "query": "personali",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -142,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psych disorders.md",
+                "file": "cyclo-thymia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of psych disorders"
+              "title": "Outline of cyclo-thymia"
             }
           },
           {
@@ -201,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyclothymia.md",
+                "file": "cyclo-thymia.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +271,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cyclothymia"
+              "title": "Backlinks for cyclo-thymia"
             }
           }
         ]
@@ -231,34 +291,34 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "330a9a2b08b3c3b6",
+  "active": "bde686ffe7225617",
   "lastOpenFiles": [
-    "Bipolar Disorder.md",
-    "Cyclothymia.md",
-    "psych disorders.md",
+    "bi-polar disorder.md",
+    "psychiatric disorders.md",
+    "personality disorder.md",
+    "mania.md",
+    "Untitled.md",
+    "steroids.md",
+    "antipsychotic drugs.md",
+    "psych terminology.md",
+    "dementia vs pseudo-dementia.md",
+    "extrapyramidal side-effects.md",
+    "misidentification.md",
+    "gp guidelines- psych.md",
+    "cyclo-thymia.md",
+    "cancer- lymphoma.md",
+    "housekeeping/study tips.md",
     "lithium.md",
     "drugs contraindicated in pregnancy.md",
     "thyroiditis.md",
     "hypothyroidism.md",
     "monitoring bloods with drugs.md",
     "diabetes Insipidus.md",
-    "personality disorder.md",
     "p450.md",
     "depression.md",
     "tricyclic antidepressants.md",
     "Amiodarone.md",
     "antiarrhythmic drugs.md",
-    "metronidazole.md",
-    "gynaecological infections.md",
-    "chlamydia.md",
-    "gynaecological discharges.md",
-    "plaque psoriasis.md",
-    "cancer- lymphoma.md",
-    "cell histology.md",
-    "leukaemia.md",
-    "hairy leukoplakia.md",
-    "statins.md",
-    "abdominal aortic aneurysm.md",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "attachments/knee orthopaedic pathologies.png",
     "housekeeping/revise recent changes.base",

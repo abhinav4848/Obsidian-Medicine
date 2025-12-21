@@ -5,7 +5,7 @@ tags:
 aliases:
   - Lithium toxicity
 ---
-It's a mood stabiliser used in [[Bipolar Disorder]]. 
+It's a mood stabiliser used in [[bi-polar disorder]]. 
 
 Lithium can cause [[congenital cyanotic diseases of heart|Ebstein's anomaly]] in [[drugs contraindicated in pregnancy|fetus]] #associated 
 

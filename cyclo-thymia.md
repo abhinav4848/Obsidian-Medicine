@@ -2,7 +2,7 @@
 tags:
   - psychiatry
 ---
-*also see [[Bipolar Disorder]].*
+*also see [[bi-polar disorder]].*
 
 Cyclothymia (cyclothymic disorder) is a chronic mood disorder characterised by long-term mood instability with recurrent hypomanic symptoms and mild depressive symptoms that do not meet full criteria for hypomania or major depressive episodes.
 # Key features

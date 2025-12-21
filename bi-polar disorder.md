@@ -2,12 +2,14 @@
 tags:
   - psychiatry
 ---
- *Also see [[Cyclothymia]]*
- 
- It's a mood disorder.
+ *Also see [[cyclo-thymia]]* 
+
+---
+# Bipolar disorder 
+It's a mood disorder.
 **Medications**: Lithium, quetiapine
 # Interactions
-Addition of [[depression|antidepressants]] (sertraline, etc.) can worsen Mania.
+Addition of [[depression|antidepressants]] (sertraline, etc.) can worsen [[Mania]].
 
 ACEi, ARB, Diuretics and NSAIDs can lead to [[lithium|Lithium toxicity]].
 - Acetazolamide increases Lithium excretion.
@@ -21,8 +23,6 @@ Patients on lithium should have their lithium levels checked 3 monthly & TSH & r
 
 Test lithium 12 hrs. after last dose.
 *See [[monitoring bloods with drugs]]*. 
-
-
 
 ---
 # ChatGPT generated questions
