@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psych disorders.md",
+                "file": "Cyclothymia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "psych disorders"
+              "title": "Cyclothymia"
             }
           }
         ],
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psych disorders.md",
+                "file": "Cyclothymia.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for psych disorders"
+              "title": "Backlinks for Cyclothymia"
             }
           }
         ]
@@ -233,16 +233,21 @@
   },
   "active": "330a9a2b08b3c3b6",
   "lastOpenFiles": [
-    "p450.md",
+    "Bipolar Disorder.md",
+    "Cyclothymia.md",
     "psych disorders.md",
     "lithium.md",
+    "drugs contraindicated in pregnancy.md",
+    "thyroiditis.md",
+    "hypothyroidism.md",
     "monitoring bloods with drugs.md",
+    "diabetes Insipidus.md",
+    "personality disorder.md",
+    "p450.md",
     "depression.md",
     "tricyclic antidepressants.md",
-    "personality disorder.md",
     "Amiodarone.md",
     "antiarrhythmic drugs.md",
-    "drugs contraindicated in pregnancy.md",
     "metronidazole.md",
     "gynaecological infections.md",
     "chlamydia.md",
@@ -254,11 +259,6 @@
     "hairy leukoplakia.md",
     "statins.md",
     "abdominal aortic aneurysm.md",
-    "acne vulgaris.md",
-    "lyme disease.md",
-    "morphine breakthrough dose.md",
-    "coeliac disease.md",
-    "whipple disease.md",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "attachments/knee orthopaedic pathologies.png",
     "housekeeping/revise recent changes.base",

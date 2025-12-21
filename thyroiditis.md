@@ -17,7 +17,7 @@ aliases:
 | **De Quervain thyroiditis/Subacute thyroiditis** | Follows URTI (viral)                               | Presents with [[hyperthyroidism]]<br><br>ESR Raised.<br><br>Tender thyroid that may radiate to lower jaw. (Grave is non-tender)<br><br>No enlargement. | Initially hyper then 1* hypothyroidism                           |
 | **Postpartum thyroiditis**                       |                                                    | ESR normal.                                                                                                                                            | Initially hyper (occurs <4 months postpartum), then hypo phases. |
 | **Hashimoto thyroiditis**                        |                                                    |                                                                                                                                                        | Acute phase is hyper                                             |
-| **Drug induced**                                 | Amiodarone, Lithium                                |                                                                                                                                                        | Amiodarone: Hyper then hypo.<br><br>Lithium: Hypo                |
+| **Drug induced**                                 | [[Amiodarone]], [[Lithium]]                        |                                                                                                                                                        | Amiodarone: Hyper then hypo.<br><br>Lithium: Hypo                |
 | **Autoimmune**                                   | Hashimoto (most common cause of hypothyroid in UK) | Associated with goiter                                                                                                                                 | Hypo                                                             |
 | **Riedel**                                       |                                                    |                                                                                                                                                        | Hypo                                                             |
 
@@ -26,7 +26,7 @@ T3 & T4 high/upper normal.
 
 ## Auto-antibodies
 Anti-TPO ->
-	+ve in [[Hashimoto]], Grave's
+	+ve in Grave's [[hypothyroidism|Hashimoto's thyroiditis]]
 	+ve in hyper phase of post-partum thyroiditis
 	-ve in de Quervain/Subacute
 
