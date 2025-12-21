@@ -2,7 +2,7 @@
 tags:
   - psychiatry
 ---
- *Also see [[cyclo-thymia]]* 
+ *Also see [[cyclothymia]]* 
 
 ---
 # Bipolar disorder 
