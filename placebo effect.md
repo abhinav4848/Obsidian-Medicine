@@ -1,6 +1,6 @@
 ---
 tags:
-  - psychiatry
+  - pharmacology
 aliases:
   - Nocebo
 ---
