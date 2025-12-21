@@ -5,7 +5,7 @@ aliases:
   - Chlamydia
 ---
 Most prevalent sexually transmitted infection in the UK.
-1. Cervicitis, Salpingitis: Painless ulcer, vaginal discharge, post-coital bleed, red & inflamed vulva, cervix, tender pelvis but non-tender abdomen.
+1. [[gynaecological infections|cervicitis]], Salpingitis: Painless ulcer, vaginal discharge, post-coital bleed, red & inflamed vulva, cervix, tender pelvis but non-tender abdomen.
 2. Epididymitis (in both)
 ## 3 stages.
 1. Small painless pustule which later turns to an ulcer
@@ -14,7 +14,7 @@ Most prevalent sexually transmitted infection in the UK.
 # Potential complications
 - epididymitis
 - [[gynaecological infections#Pelvic Inflammatory disease|pelvic inflammatory disease]]
-- endometritis
+- [[gynaecological discharges|Endometritis]]
 - increased incidence of ectopic pregnancies
 - infertility
 - [[reactive arthritis]]

@@ -4,7 +4,7 @@ tags:
   - pharmacology
 ---
 # Uses
-- Used in [[Bacterial vaginosis]].
+- Used in [[gynaecological infections|bacterial vaginosis]]. 
 - Used in [[acne rosacea]].
 - Used for perianal fistulae in [[inflammatory bowel disease|Crohn's disease]]. 
 - A [[disulfiram]] like reaction can occur if metro & [[alcohol]] are taken together.

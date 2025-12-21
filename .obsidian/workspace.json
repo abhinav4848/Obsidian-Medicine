@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "cancer- lymphoma"
             }
+          },
+          {
+            "id": "330a9a2b08b3c3b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "psych disorders.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "psych disorders"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "leuk",
+                "query": "sertraline",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -97,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cancer- lymphoma.md",
+                "file": "psych disorders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from cancer- lymphoma"
+              "title": "Outgoing links from psych disorders"
             }
           },
           {
@@ -126,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cancer- lymphoma.md",
+                "file": "psych disorders.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cancer- lymphoma"
+              "title": "Outline of psych disorders"
             }
           },
           {
@@ -185,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cancer- lymphoma.md",
+                "file": "psych disorders.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +211,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cancer- lymphoma"
+              "title": "Backlinks for psych disorders"
             }
           }
         ]
@@ -215,34 +231,34 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "d1673f995a3c509c",
+  "active": "330a9a2b08b3c3b6",
   "lastOpenFiles": [
-    "cell histology.md",
+    "monitoring bloods with drugs.md",
+    "psych disorders.md",
+    "lithium.md",
+    "depression.md",
+    "tricyclic antidepressants.md",
+    "personality disorder.md",
+    "Amiodarone.md",
+    "antiarrhythmic drugs.md",
+    "drugs contraindicated in pregnancy.md",
+    "metronidazole.md",
+    "gynaecological infections.md",
+    "chlamydia.md",
+    "gynaecological discharges.md",
+    "plaque psoriasis.md",
     "cancer- lymphoma.md",
+    "cell histology.md",
     "leukaemia.md",
     "hairy leukoplakia.md",
     "statins.md",
     "abdominal aortic aneurysm.md",
     "acne vulgaris.md",
     "lyme disease.md",
-    "chlamydia.md",
     "morphine breakthrough dose.md",
     "coeliac disease.md",
     "whipple disease.md",
     "diabetes mellitus 1.md",
-    "human herpes viruses.md",
-    "diarrhoea.md",
-    "diabetes- antidiabetic drugs.md",
-    "diabetes treatment.md",
-    "depression.md",
-    "duloxetine.md",
-    "pain ladder- neuropathic.md",
-    "steroids.md",
-    "neck pain.md",
-    "day named diseases.md",
-    "mumps.md",
-    "stroke.md",
-    "pyelonephritis.md",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "attachments/knee orthopaedic pathologies.png",
     "housekeeping/revise recent changes.base",

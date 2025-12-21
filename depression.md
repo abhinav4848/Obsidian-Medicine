@@ -3,13 +3,14 @@ tags:
   - psychiatry
 aliases:
   - psychotropic drugs
+  - antidepressant
 ---
 # Typical Antidepressants
-## TCA
+## [[Tricyclic antidepressants]]
 Amitriptyline
 - 3 C of s/e: Cardiotoxic, convulsions, coma. Has antimuscarinic [[tricyclic antidepressants|side effects]]
 - Less commonly used because of risk of toxicity on overdose.
-## SSRI
+## SSRI 
 Sertraline, Fluoxetine (both s/e: Anorgasmia/delayed ejaculation, SIADH),
 	- Takes 1-2 week (even 2-4 weeks) for effect to be seen
 	- Give for 6-9 months.
@@ -30,8 +31,9 @@ They are also antidepressants that are almost entirely not used, even in compari
 2. Presynaptic alpha 2 antagonist: Mirtazapine (Atypical Antidepressant)
 3. **Others**: Trazodone, Bupropion (Norepinephrine and dopamine reuptake inhibitor, and [[smoking|nicotinic]] acetylcholine antagonist. Bupropion increases seizure risk).
 
-| Antiepileptic drug                                      | sertraline                                                                                                                                                                                                                                                                                                                                                   |
+|                                                         |                                                                                                                                                                                                                                                                                                                                                              |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Antiepileptic drug                                      | sertraline                                                                                                                                                                                                                                                                                                                                                   |
 | Atypical depression                                     | MAOi Phenelzine                                                                                                                                                                                                                                                                                                                                              |
 | MI                                                      | Sertraline > Citalopram (SSRI) (but risk of bleeding cuz patient on blood thinners already) -> if patient has IHD & is on Aspirin, add PPI.<br><br>  <br>Also, [[citalopram]] has [[qt prolongation]].                                                                                                                                                       |
 | Patient on Triptans/MAO inhibitors                      | Increased risk of [[fever caused by drugs\|Serotonin syndrome]].                                                                                                                                                                                                                                                                                             |
