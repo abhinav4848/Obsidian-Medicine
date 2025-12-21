@@ -25,7 +25,14 @@ OHGp 5th Ed:
 - Do not routinely check CK levels- only if muscle pain. 
 # Interactions
 - They increase effect of Warfarin. 
-- Increased risk of myositis when taken with other lipid lowering drugs, macrolides (erythromycin), antifungals (ketoconazole), amiodarone, [[calcium channel blockers|CCB]], HIV protease inhibitors (nelfinavir), danazol, ciclosporin. 
+- Increased risk of myositis when taken with other lipid lowering drugs, 
+	- macrolides (erythromycin), 
+	- antifungals (ketoconazole), 
+	- amiodarone, 
+	- [[calcium channel blockers|CCB]], 
+	- HIV protease inhibitors (nelfinavir), 
+	- danazol, 
+	- ciclosporin. 
 - Diet restrictions- avoid grapefruit if taking atorva, simva, lovastatin. Avoid cranberry juice if Fluvastatin. 
 
 Ask patient to stop taking statins if giving [[colchicine]] ([[gout]]) cuz risk of rhabdomyolysis. #important 

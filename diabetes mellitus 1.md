@@ -6,6 +6,7 @@ aliases:
   - DM-1
   - T1DM
   - type 1 diabetes
+  - type 1 diabetes mellitus
 ---
 Patients present with recent weight loss.
 

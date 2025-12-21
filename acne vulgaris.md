@@ -5,7 +5,7 @@ urls:
   - https://dermnetnz.org/topics/acne-vulgaris
 ---
 Occurs in adolescence
-- Androgen levels are normal however.
+- Androgen levels are normal however. 
 - Blackhead is caused by plug within the pilosebaceous duct expanding to dilate (and block) the pilosebaceous orifice and gradually becoming extruded (exposed) -> inflammation leads to papules, pustules, nodules.
 - Severity of acne is directly related to the degree of secretion of sebum -> sebaceous gland becomes blocked.
 - Anaerobic bacterium Propionibacterium acnes.
@@ -30,12 +30,11 @@ Prescribe treatment as above while awaiting appointment.
 ---
 # Other tips
 ## Women
-1. Avoid tetracycline in Pregnant/Breastfeeding/children < 12years. Use Erythromycin.
+1. Avoid tetracycline in [[drugs contraindicated in pregnancy|Pregnant]]/Breastfeeding/children < 12years. Use Erythromycin.
 2. Avoid topical/oral retinoids in pregnancy.
 3. COCPs are an alternative to oral Abx in women. Use them in combination with topical agents.
 	- Co-Cyprindiol (Dianette): has anti-androgen properties, but increased VTE risk compared to other COCPs. (Only licensed for acne with contraception needs ([BNF](https://bnf.nice.org.uk/drugs/co-cyprindiol/)). Not individually for either).
 	- Due to the increased risk of VTE with Co-Cyprindiol (Dianette), it should be discontinued 3-4 cycles after acne has cleared, and should not be used just for contraception. Can switch to other OCPs.
-
 ## Others
 1. Treatment option with oral Abx to be used for max. 6 months. Regardless of route of administration of abx (topical or oral), initial course of 3 months, extended by another 3 months only if good response.
 2. Adding topical benzoyl peroxide (BPO)/topical retinoid to someone already receiving oral antibiotics can reduce the risk of resistant Propionibacterium acnes.

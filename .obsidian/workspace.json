@@ -13,47 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lyme disease.md",
+                "file": "cancer- lymphoma.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "lyme disease"
-            }
-          },
-          {
-            "id": "0003cd23fa1d0dd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "morphine breakthrough dose.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "morphine breakthrough dose"
-            }
-          },
-          {
-            "id": "7a18b2739cea8376",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "diabetes- antidiabetic drugs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "diabetes- antidiabetic drugs"
+              "title": "cancer- lymphoma"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diabetes",
+                "query": "leuk",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -120,7 +89,7 @@
       {
         "id": "c32654b7ac1c916a",
         "type": "tabs",
-        "dimension": 48.896156991005725,
+        "dimension": 35.12690355329949,
         "children": [
           {
             "id": "76e084a2bc339e0c",
@@ -128,12 +97,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "systemic sclerosis.md",
+                "file": "cancer- lymphoma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from systemic sclerosis"
+              "title": "Outgoing links from cancer- lymphoma"
             }
           },
           {
@@ -157,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diabetes- antidiabetic drugs.md",
+                "file": "cancer- lymphoma.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of diabetes- antidiabetic drugs"
+              "title": "Outline of cancer- lymphoma"
             }
           },
           {
@@ -203,12 +172,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "ba756b466b0b4515",
         "type": "tabs",
-        "dimension": 51.103843008994275,
+        "dimension": 64.8730964467005,
         "children": [
           {
             "id": "639b2a927a3a9294",
@@ -216,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diabetes- antidiabetic drugs.md",
+                "file": "cancer- lymphoma.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,14 +195,14 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for diabetes- antidiabetic drugs"
+              "title": "Backlinks for cancer- lymphoma"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,14 +215,26 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "7a18b2739cea8376",
+  "active": "d1673f995a3c509c",
   "lastOpenFiles": [
-    "diabetes treatment.md",
+    "leukaemia.md",
+    "cancer- lymphoma.md",
+    "statins.md",
+    "abdominal aortic aneurysm.md",
+    "acne vulgaris.md",
+    "lyme disease.md",
+    "chlamydia.md",
+    "morphine breakthrough dose.md",
+    "coeliac disease.md",
+    "whipple disease.md",
+    "diabetes mellitus 1.md",
+    "human herpes viruses.md",
+    "diarrhoea.md",
     "diabetes- antidiabetic drugs.md",
+    "diabetes treatment.md",
     "depression.md",
     "duloxetine.md",
     "pain ladder- neuropathic.md",
-    "morphine breakthrough dose.md",
     "steroids.md",
     "neck pain.md",
     "day named diseases.md",
@@ -262,18 +243,6 @@
     "pyelonephritis.md",
     "rubella.md",
     "school in children with rash.md",
-    "thrombocytopenia.md",
-    "erythema infectiosum.md",
-    "different rashes in paeds.md",
-    "scabies.md",
-    "conjunctivitis.md",
-    "molluscum contagiosum.md",
-    "hand foot mouth.md",
-    "Parvovirus B19.md",
-    "scarlet Fever.md",
-    "measles.md",
-    "lyme disease.md",
-    "cancer- lymphoma.md",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "attachments/knee orthopaedic pathologies.png",
     "housekeeping/revise recent changes.base",

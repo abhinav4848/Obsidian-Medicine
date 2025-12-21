@@ -11,7 +11,7 @@ aliases:
   - Acute Myeloid Leukemia
   - Chronic Lymphocytic Leukemia
   - Chronic Myeloid Leukemia
-  - leukaemia
+  - leukemia
 ---
 Chronic has mature cells.
 Acute has immature cells.
@@ -40,11 +40,13 @@ Bone marrow biopsy: Numerous blasts
 [[myelodysplastic, myeloproliferative syndrome#Myelodysplastic syndrome|Myelodysplastic syndrome]] can progress to AML. 
 # CLL
 Older (> 65 yo)  
-Asymptomatic/Anemia/Recurrent infection/LNE.  
+Asymptomatic/Anemia/Recurrent infection (due to hypo-gamma-globulinaemia)/LNE.  
 B-lymphocyte predominant. Cervical LNE.
 
 Increased WBC, but non functioning  
 Smear: [[cell histology|Smudge cells]], Mature lymphocytes.
+Associated: transformation to high-grade lymphoma ([[cancer- lymphoma|Richter's transformation]]) . 
+
 # CML
 Middle age (40 - 50 yo)
 Massive splenomegaly (seen in either CML or malaria- h/o travelling)  

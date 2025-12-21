@@ -13,8 +13,9 @@ Reed-Sternberg cells (Multinucleated giant cells)
 Bimodal age (<25 or >55) seen in supraclavicular/cervical LN (close proximity)
 Involves more central nodes. 
 Has [[alcohol]] induced pain. 
-(can cause ALL, assoc with [[epstein barr virus|EBV]]. Radiation for HL can lead to NHL. )
+(can cause [[leukaemia|ALL]], assoc with [[epstein barr virus|EBV]]. Radiation for HL can lead to NHL. )
 
+---
 # NHL
 No RS cells (some other cell morphology may be mentioned).
 Age 25-40yo.
@@ -23,6 +24,8 @@ Seen in HIV, [[rheumatoid arthritis]], [[coeliac disease|celiac disease]] #assoc
 - MC HIV related lymphoma: NHL (diffuse large B cell lymphoma > Burkitt (caused by [[epstein barr virus|EBV]]))
 A subtype of NHL: 
 	MALT can occur in [[sjogren's syndrome]], [[hypothyroidism|Hashimoto's thyroiditis]], [[h. pylori]] (gastric MALT) #associated 
+
+---
 # Clinical Features
 **B Symptoms**: fever, night sweats, weight loss #named 
 Hepatosplenomegaly. 
@@ -39,3 +42,15 @@ Do Excision Biopsy.
 - [[epstein barr virus|Infectious Mononucleosis]] vs Lymphoma: sore throat in IM, exudative pus over tonsils, tender tonsils, monospot test +ve, rash after taking ampicillin.
 - [[tuberculosis|TB]] has diurnal fever, sweat, weight loss if chronic, tender matted LN (HL has non tender), h/o productive cough, no organomegaly, h/o travel.
 - Hodgkin's has normal CBC, because the problem in Hodgkin is outside the bone marrow.
+
+---
+# Richter's transformation
+Ritcher's transformation occurs when [[leukaemia|leukaemia]] (like CLL) cells enter the lymph node and change into a high-grade, fast-growing non-Hodgkin's lymphoma. Patients often become unwell very suddenly.  
+  
+Ritcher's transformation is indicated by one of the following symptoms:  
+- lymph node swelling
+- fever without infection
+- weight loss
+- night sweats
+- nausea
+- abdominal pain

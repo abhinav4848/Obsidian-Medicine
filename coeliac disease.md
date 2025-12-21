@@ -14,14 +14,14 @@ Inability to tolerate gliadin, the alcohol soluble fraction of gluten that confe
 - [[Diarrhoea]] (fatty, grey-frothy stools)
 - low B9 (B9 > B12)
 - IDA
-- tired all the time 
+- tired all the time (TATT)
 # Associations
 #associated 
 1. Coeliac can cause: **T-cell lymphoma** (as T-cells get activated by gluten exposure).  #cancer  
 2. Dermatitis Herpetiformis [Dermnetz](https://dermnetnz.org/topics/dermatitis-herpetiformis)
 	1. Cutaneous manifestation of coeliac disease. Nothing to do with [[human herpes viruses|herpes]]. It's pruritic vesicles on [[confusion in skin lesions|extensors]]. 
 	2. Give [[dapsone]]. 
-3. F/h/o Autoimmune disorders (type 1 diabetes mellitus, autoimmune [[hepatitis]], thyroid). 
+3. F/h/o Autoimmune disorders ([[diabetes mellitus 1|type 1 diabetes mellitus]], autoimmune [[hepatitis]], thyroid). 
 4. Iron deficiency anaemia due to malabsorption. 
 5. Hyposplenism
 6. [[osteoporosis]], Osteomalacia
@@ -31,11 +31,11 @@ Inability to tolerate gliadin, the alcohol soluble fraction of gluten that confe
 ![[coeliac disease- dermatitis herpetiformis.png]]
 
 # Test for antibody
-Eat gluten for at least 6 weeks before being tested. Else Gluten-free diet can result false negative results. This is important because if patient doesn't have coeliac, it'll be quite restrictive to their lifestyle to avoid gluten for no reason.
+Eat gluten for at least 6 weeks before being tested. Else Gluten-free diet can result false negative results. This is important because if patient doesn't have coeliac, it'll be quite restrictive to their lifestyle to avoid gluten for no reason. 
 
 tTG- IgA (test of choice)
 +
-Absolute IgA: Needed to look for selective IgA deficiency, which would give a false-negative coeliac result. Some patients have low IgA so for all patients, also do absolute IgA count to rule out Celiac with low IgA. 
+**Absolute IgA**: Needed to look for selective IgA deficiency, which would give a false-negative coeliac result. Some patients have low IgA so for all patients, also do absolute IgA count to rule out Celiac with low IgA. 
 
 if there is confirmed IgA deficiency but coeliac still suspected, test for: 
 - IgG endomyseal antibodies (EMA), 
@@ -52,10 +52,11 @@ quinoa
 ## Avoid
 Avoid BROW #mnemonic 
 Barley, Rye, Oats, Wheat
-- Rye Bread (contains grain)
+- Rye Bread (contains grain) 
 - Oats don't contain gluten but are contaminated by gluten
 couscous
 
 ---
 Note: 
 *[[inflammatory bowel disease|ulcerative colitis]] can cause [[cancer- colorectal|colorectal cancer]].* 
+*Coeliac can cause T cell lymphoma.* 

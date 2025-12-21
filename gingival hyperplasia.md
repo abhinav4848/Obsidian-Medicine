@@ -6,4 +6,4 @@ tags:
 [[Phenytoin]]
 Ciclosporin
 [[calcium channel blockers|CCB]] (esp. nifedipine)
-[[leukemia|AML]]
+[[leukaemia|AML]]
