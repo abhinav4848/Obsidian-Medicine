@@ -19,7 +19,7 @@ Acute has immature cells.
 Children (<15yo), [[Down's syndrome]].
 
 Pancytopenia (either ALL or Aplastic anaemia).
-- Anaemia: Lethargy and pallor.
+- **Anaemia**: Lethargy and pallor.
 - WBCs can be any value - fever can be present in up-to 50% of new cases (due to infection or constitutional symptoms)
 - Thrombocytopenia will have petechiae (they're non-blanching) - May present with hemorrhagic or thrombotic complications due to DIC. 
 
