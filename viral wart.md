@@ -3,9 +3,11 @@ tags:
   - dermat
 aliases:
   - HPV
+  - verruca vulgaris
 urls:
   - https://dermnetnz.org/topics/viral-wart
 ---
+Non genital warts caused by [[viral wart|HPV]]. 
 Warts are common and do not require treatment unless painful, unsightly or a patient is requesting treatment for a persistent wart. 
 
 They are contagious and can easily spread. 

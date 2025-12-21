@@ -23,7 +23,7 @@ Painless, cauliflower-like or polypoid, skin-coloured papules of varying sizes o
 Wart like lesions on genitals. 
 Painless, hypopigmented, firm, moist, flat-topped, smooth, pink-to-reddish papules containing numerous spirochetes.
 
-**Verruca Vulgaris**: Non-genital warts caused by HPV. Affects hands.
+**[[viral wart|verruca vulgaris]]**: Non-genital warts caused by HPV. Affects hands.
 
 **Verruca plana**: Caused by HPV
 
