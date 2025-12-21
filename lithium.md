@@ -21,6 +21,9 @@ Lithium level, TFT, U&E
 - TFT, U&E prior to treatment
 - Lithium levels weekly until stabilized then every 3 months
 - TFT, U&E every 6 months
+
+TFT is monitored because Lithium inhibits iodine uptake & Thyroid hormone release, leading to [[hypothyroidism]]. Hypothyroidism can worsen depressive symptoms, or complicate bipolar management. 
+
 *See: [[monitoring bloods with drugs]]* 
 # Management of Toxicity
 - mild-moderate toxicity may respond to volume resuscitation with normal saline
