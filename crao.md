@@ -7,9 +7,9 @@ aliases:
   - retinal artery occlusion
 ---
 ICA -> Ophthalmic Artery -> CRA.
-Sudden, painless, u/l [[loss of vision]]
+Sudden, painless, u/l [[loss of vision]] due to embolism/thrombotic disease at site. 
 [[confusion in ophthalmology|RAPD]]- the retina is ischemic and not transmitting light perception. 
-Associated with Giant cell arteritis ([[polymyalgia rheumatica|temporal arteritis]]). 
+Associated with [[polymyalgia rheumatica|giant cell arteritis]]. 
 
 # Fundoscopy
 - pale/white retina (ischemia),

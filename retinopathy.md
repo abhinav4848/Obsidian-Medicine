@@ -2,8 +2,6 @@
 tags:
   - ophthal
 ---
-[[diabetic retinopathy]]
-[[hypertensive retinopathy]]
 # Diabetic Retinopathy
 Common in [[diabetes mellitus 1|type 1 diabetes]].
 ## Maculopathy
@@ -28,8 +26,24 @@ progress rapidly to blindness.
 Rx: Laser photocoagulation
 Intravitreal VEGF inhibitors.
 
+---
 # Hypertensive Retinopathy
+Classified according to Keith-Wagner classification
 
+| Stage | Features                                                                                                                      |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------- |
+| I     | Arteriolar narrowing and tortuosity<br>Increased light reflex - silver wiring                                                 |
+| II    | Arteriovenous nipping                                                                                                         |
+| III   | Cotton-wool exudates<br><br>Flame and blot haemorrhages<br>- These may collect around the fovea resulting in a 'macular star' |
+| IV    | Papilloedema                                                                                                                  |
+Macular edema, dot, blot, hard exudate.
+
+## Look for
+- Copper/silver wiring,
+- AV nipping,
+- Flame shaped haemorrhage (necrotic vessels bleed into nerve fibre layer)/dot-blot haemorrhage -> Also seen in DM
+
+**Rx**: control HTN
 
 # Common Terms
 **Flame shaped haemorrhage**:

@@ -17,7 +17,7 @@ Ischemic/vascular (Thrombosis/embolism)
 - [[retinal detachment]]
 	- Curtain falling. Optic disc normal.
 
-- Anterior Ischemic Optic neuropathy. Normally seen in people > 50yo.
+- [[anterior ischaemic optic neuropathy]]. Normally seen in people > 50yo.
 - Vasculitis: Temporal arteritis
 - Retinal migraine
 - Cerebrovascular accident

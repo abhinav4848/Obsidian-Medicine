@@ -20,6 +20,6 @@ tags:
 **Diplopia**
 - Carbamazepine, Phenytoin
 
-**[[Sildenafil]]** can cause both blue discolouration and non-arteritic anterior ischaemic neuropathy
+**[[Sildenafil]]** can cause both blue discolouration and non-arteritic [[anterior ischaemic optic neuropathy]]
 Yellow-green vision (Xanthopsia): Digoxin
 Brown pigmentation of iris: Latanoprost
