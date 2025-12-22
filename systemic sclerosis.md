@@ -3,6 +3,7 @@ tags:
   - rheumat
 aliases:
   - scleroderma
+  - morphea
 ---
 
 | Limited                                                                                                                                                                                                                  | Diffuse                                                                                                                                                                        |
@@ -17,4 +18,5 @@ aliases:
 # Scleroderma
 (without internal organ involvement)
 1. Tightening and fibrosis of skin
-2. May be manifest as plaques (morphoea) or linear
+2. May be manifest as plaques (morphea) or linear
+	1. Morphoea is a localised form of scleroderma characterised by circumscribed, indurated plaques with ivory centres and violaceous borders.

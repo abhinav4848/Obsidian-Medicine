@@ -28,21 +28,21 @@ Itchy, non-infectious rash seen on palm, soles, genitalia, flexor aspect of arms
 [[Koebner's phenomenon]] #named Can appear at the site of a trauma/scar as well. 
 
 E.g.: *Healthcare worker in elderly home (not always scabies) has itchy, scaly, shiny rash on wrist & fine white streaks overlying the lesion. Nails have ridges & are thickened in the middle. Buccal mucosa has lacy white pattern.*
-
-## Differentials
-It must be differentiated from lichenoid drug eruptions caused by anti hypertensives and anti malarial drugs.
 ## Treatment
 *Usually self resolves.*
 
 - Can give Topical Steroids/Tacrolimus (immunosuppressant). #steroid 
-- Oral lichen planus:
+- Oral lichen planus: 
 	- Mouthwash: Benzydamine- locally acting NSAID.
 	- Meticulous oral hygiene: brushing teeth and gums, regular visits to dentist, once-weekly mouthwash with diluted chlorhexidine or benzydamine
 - Extensive lichen planus needs oral steroids/immunosuppression (Mycophenolate mofetil).
-- Hair & nail lichen planus may need Methotrexate to avoid permanent damage.
+- Hair & nail lichen planus may need [[Methotrexate]] to avoid permanent damage.
 - UVB phototherapy is added as a 2nd line treatment.
 
-# Lichenoid drug eruptions
+---
+# Differentials
+It must be differentiated from lichenoid drug eruptions caused by anti hypertensives and anti malarial drugs.
+### Lichenoid drug eruptions
 **Causes:**
 - Gold,
 - [[Quinine]]

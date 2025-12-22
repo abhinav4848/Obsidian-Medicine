@@ -4,6 +4,7 @@ tags:
 ---
 *See [[atopic diseases]].* 
 
+---
 Itchy rash on flexures & skin creases. (wrist, palms, elbow folds, behind the knees).
 URTI can flare up eczema.
 

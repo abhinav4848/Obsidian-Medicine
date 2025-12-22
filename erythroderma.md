@@ -2,10 +2,10 @@
 tags:
   - dermat
 ---
-See: [[erythrodermic psoriasis]]
+*See: [[erythrodermic psoriasis]]*
 
-It is an exfoliative dermatitis -> Widespread severe erythema -> Extensive exfoliation of skin.
-
+---
+It is an exfoliative dermatitis -> Widespread severe erythema -> Extensive exfoliation of skin. 
 # Clinical Features
 - Scaling appears from day 2-6 after erythema begins - may be fine flakes or large sheets.
 - skin warm to touch, pruritus,
