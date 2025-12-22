@@ -1,6 +1,8 @@
 ---
 tags:
   - ophthal
+urls:
+  - https://eyewiki.org/Hypertensive_retinopathy
 ---
 # Diabetic Retinopathy
 Common in [[diabetes mellitus 1|type 1 diabetes]].
@@ -29,6 +31,7 @@ Intravitreal VEGF inhibitors.
 ---
 # Hypertensive Retinopathy
 Classified according to Keith-Wagner classification
+![[hypertensive retinopathy.png]]
 
 | Stage | Features                                                                                                                      |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -37,7 +40,6 @@ Classified according to Keith-Wagner classification
 | III   | Cotton-wool exudates<br><br>Flame and blot haemorrhages<br>- These may collect around the fovea resulting in a 'macular star' |
 | IV    | Papilloedema                                                                                                                  |
 Macular edema, dot, blot, hard exudate.
-
 ## Look for
 - Copper/silver wiring,
 - AV nipping,
@@ -45,6 +47,7 @@ Macular edema, dot, blot, hard exudate.
 
 **Rx**: control HTN
 
+---
 # Common Terms
 **Flame shaped haemorrhage**:
 	CRVO, diabetic, hypertensive.
