@@ -28,13 +28,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fungal infections of skin.md",
+                "file": "systemic sclerosis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "fungal infections of skin"
+              "title": "systemic sclerosis"
+            }
+          },
+          {
+            "id": "bf70118f27721049",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://dermnetnz.org/images/pityriasis-rosea-images",
+                "title": "Pityriasis Rosea Images — DermNet",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Pityriasis Rosea Images — DermNet"
             }
           }
         ],
@@ -70,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Malassezia",
+                "query": "morphea",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -142,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fungal infections of skin.md",
+                "file": "systemic sclerosis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of fungal infections of skin"
+              "title": "Outline of systemic sclerosis"
             }
           },
           {
@@ -201,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fungal infections of skin.md",
+                "file": "systemic sclerosis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +225,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for fungal infections of skin"
+              "title": "Backlinks for systemic sclerosis"
             }
           }
         ]
@@ -233,18 +247,18 @@
   },
   "active": "005e9de597152f0b",
   "lastOpenFiles": [
-    "kerion.md",
+    "pityriasis rosea.md",
+    "pityriasis versicolor.md",
+    "lichen planus.md",
     "fungal infections of skin.md",
     "tinea corporis.md",
+    "kerion.md",
     "ketoconazole.md",
     "immunisation (contraindications).md",
-    "pityriasis versicolor.md",
-    "pityriasis rosea.md",
     "seborrhoeic dermatitis.md",
     "tinea capitis.md",
     "otitis.md",
     "alopecia.md",
-    "lichen planus.md",
     "erythroderma.md",
     "guttate psoriasis.md",
     "eczema.md",
