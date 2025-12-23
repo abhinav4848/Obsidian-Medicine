@@ -13,11 +13,12 @@ aliases:
 	4. [[tinea corporis]] (trunk/limbs)
 	5. tinea cruris (groin) 
 	6. tinea pedis (feet)
-	7. tinea manuum (hands)
+	7. tinea manuum (hands) 
 	8. tinea unguium ([[fungal infections of skin#Onychomycosis|Onychomycosis]])- Fungal Nail Infection
-2. [[seborrhoeic dermatitis]] 
-3. Tinea versicolor- The term *tinea* should strictly be used for dermatophyte (ringworm) fungus infections. *See [[pityriasis versicolor]]* (Caused by *Malassezia furfur*, a yeast) 
-4. [[kerion]] 
+2.  Due to *Malassezia furfur*, a yeast 
+	1. [[seborrhoeic dermatitis]] 
+	2. Tinea versicolor- The term *tinea* should strictly be used for dermatophyte (ringworm) fungus infections. *See [[pityriasis versicolor]]*. 
+3. [[kerion]] 
 
 ---
 # Onychomycosis

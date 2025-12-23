@@ -10,7 +10,7 @@ tags:
 - Highly contagious.
 # Treatment
 Scalp:
-- Topical ketoconazole shampoo should be given for the first two weeks to reduce transmission.
+- Topical [[ketoconazole]] shampoo should be given for the first two weeks to reduce transmission.
 for hair and nail involvement: Oral.
 - Terbinafine for *Trichophyton tonsurans* infections
 - Griseofulvin for *Microsporum* infections.

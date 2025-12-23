@@ -17,7 +17,6 @@ aliases:
 - ringworm (tinea corporis), 
 - jock itch (tinea cruris), 
 - athlete's foot (tinea pedis). 
-
 # Clinical Features
 Red, circular. Ringworm.
 
