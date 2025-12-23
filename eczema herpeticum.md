@@ -22,5 +22,6 @@ Disseminated [[human herpes viruses|Herpes simplex]] viral infection, rarely by 
 >[!info]
 >See [[confusion in skin lesions]]
 
-![[eczema herpeticum 1.png|300]]![[eczema herpeticum 2.png|300]]
-the individual vesicles of the pic with loads of small circles is not what impetigo looks like. Impetigo has more of a normal scab type appearance. 
+![[eczema herpeticum 1.png|300]]
+the individual vesicles with loads of small circles is not what impetigo looks like. Impetigo has more of a normal scab type appearance. 
+![[eczema herpeticum 2.png|300]]
