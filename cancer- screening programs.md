@@ -4,8 +4,7 @@ tags:
 aliases:
   - Screening programs for cancer
   - cancer frequency
-revision counter:
-  - "1"
+revision counter: 1
 ---
 # [[cancer- colorectal|Colorectal cancer]]
 Faecal immunochemical test (FIT). 

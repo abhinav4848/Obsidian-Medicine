@@ -4,8 +4,7 @@ aliases:
   - Algorithm for Asthma Diagnosis
 tags:
   - respiratory
-revision counter:
-  - "1"
+revision counter: 1
 ---
 #Triad: Chest tightness, Sob, Wheezing.
 Others: Nocturnal cough, Exercise induced wheeze, family history of asthma. 

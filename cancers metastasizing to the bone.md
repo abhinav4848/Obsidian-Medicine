@@ -2,8 +2,7 @@
 tags:
   - cancer
   - notAKT
-revision counter:
-  - "1"
+revision counter: 1
 revision notes: the sources
 ---
 Primary tumours which give rise to metastases to bone are remembered by many students by the nonsense rule that they all begin with a B. Thus:

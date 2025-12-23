@@ -5,8 +5,7 @@ aliases:
 tags:
   - respiratory
 revision notes: Keep forgetting the mild/mod/severe classification of COPD
-revision counter:
-  - "1"
+revision counter: 1
 ---
 # Differences
 

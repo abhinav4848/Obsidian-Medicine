@@ -6,8 +6,7 @@ aliases:
   - glycopyrronium
   - levomepromazine
   - drugs in palliative care
-revision counter:
-  - "1"
+revision counter: 1
 revision notes: see cyclizine uses
 ---
 # Drugs

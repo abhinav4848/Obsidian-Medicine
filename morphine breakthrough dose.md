@@ -3,8 +3,7 @@ tags:
   - palliative
   - pharmacology
 revision notes: increasing regular morphine dose via PRNs
-revision counter:
-  - "1"
+revision counter: 1
 urls:
   - https://cks.nice.org.uk/topics/palliative-cancer-care-pain/prescribing-information/strong-opioids/#titration-of-oral-morphine
 ---
