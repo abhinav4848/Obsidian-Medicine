@@ -1,12 +1,16 @@
 ---
 tags:
   - dermat
+urls:
+  - https://dermnetnz.org/topics/kerion
 ---
 *See [[fungal infections of skin]].* 
 *See [[Tinea corporis]].* 
 
 ---
-A kerion is a boggy, inflammatory, pustular mass that arises as a result of a severe inflammatory reaction to a fungal infection, typically caused by dermatophytes such as *Trichophyton* or *Microsporum* species.  
-Treat urgently, risk of scarring [[alopecia]]. 
+A kerion is an abscess caused by dermatophytes (tinea)
+It's a boggy, inflammatory, pustular mass that arises as a result of a severe inflammatory reaction to a fungal infection, happening most often on scalp, face, upper limbs.
+- Treat urgently, risk of scarring [[alopecia]]. 
 
-diff: #confusion Bacterial abscesses tend to be more localized and painful compared to kerions
+Can be confused for bacterial infection
+Difference: #confusion Bacterial abscesses tend to be more localized and painful compared to kerions
