@@ -16,7 +16,7 @@ Refers to the end-stage scarring (fibrotic remodelling) of lung tissue resulting
 
 In essence: Fibrosis is the scarring aftermath, the end result, not the initial process.
 
-Compare with [[interstitial lung disease vs pneumonitis]]. 
+*Compare with [[interstitial lung disease vs pneumonitis]].* 
 
 # Clinical Features
 - Older patient,

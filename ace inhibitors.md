@@ -16,7 +16,7 @@ aliases:
 	- Acceptable changes are an increase in serum creatinine, up to 30% from baseline and an increase in potassium up to 5.5 mmol/l.
 	- Deterioration of renal function after starting-> b/l renal stenosis.
 ## Microalbuminuria
-- Normal BP diabetic patient with 2 episodes of microalbuminuria -> Start on ACE inhibitors as it's Reno-protective.
+- Normal BP diabetic patient with 2 episodes of microalbuminuria -> Start on ACE inhibitors as it's Reno-protective. 
 
 
 

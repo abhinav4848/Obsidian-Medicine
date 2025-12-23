@@ -11,7 +11,7 @@ NSAIDs: Don't give NSAIDs in CHF, IHD, CKD, [[Asthma]].
 
 Triple whammy. Kidney catastrophe. #mnemonic 
 - NSAID: afferent
-- ACE inhibitor: efferent
+- [[ace inhibitors|ACE inhibitor]]: efferent
 - Thiazide: reduce flow
 
 # NSAID & Asthma
