@@ -28,41 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pityriasis versicolor.md",
+                "file": "eczema herpeticum.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "pityriasis versicolor"
-            }
-          },
-          {
-            "id": "9b2774aa56729058",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://dermnetnz.org/topics/pityriasis-versicolor",
-                "title": "Pityriasis versicolor. Tinea versicolor",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Pityriasis versicolor. Tinea versicolor"
-            }
-          },
-          {
-            "id": "bf70118f27721049",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://dermnetnz.org/images/pityriasis-rosea-images",
-                "title": "Pityriasis Rosea Images — DermNet",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Pityriasis Rosea Images — DermNet"
+              "title": "eczema herpeticum"
             }
           }
         ],
@@ -98,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pityri",
+                "query": "eczema",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -170,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pityriasis versicolor.md",
+                "file": "eczema herpeticum.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pityriasis versicolor"
+              "title": "Outline of eczema herpeticum"
             }
           },
           {
@@ -229,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pityriasis versicolor.md",
+                "file": "eczema herpeticum.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +211,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pityriasis versicolor"
+              "title": "Backlinks for eczema herpeticum"
             }
           }
         ]
@@ -261,6 +233,17 @@
   },
   "active": "005e9de597152f0b",
   "lastOpenFiles": [
+    "confusion in skin lesions.md",
+    "impetigo.md",
+    "school in children with rash.md",
+    "cold sores.md",
+    "eczema herpeticum.md",
+    "human herpes viruses.md",
+    "atopic diseases.md",
+    "eczema.md",
+    "lichen planus.md",
+    "lichens.md",
+    "koebner's phenomenon.md",
     "pityriasis versicolor.md",
     "pityriasis rosea.md",
     "systemic sclerosis.md",
@@ -272,21 +255,10 @@
     "interstitial lung disease vs pneumonitis.md",
     "lung fibrosis.md",
     "parkinson's disease.md",
-    "lichen planus.md",
     "fungal infections of skin.md",
     "tinea corporis.md",
     "kerion.md",
     "ketoconazole.md",
-    "immunisation (contraindications).md",
-    "seborrhoeic dermatitis.md",
-    "tinea capitis.md",
-    "otitis.md",
-    "alopecia.md",
-    "erythroderma.md",
-    "guttate psoriasis.md",
-    "eczema.md",
-    "atopic diseases.md",
-    "discoid eczema.md",
     "attachments/hypertensive retinopathy.png",
     "housekeeping/revise recent changes.base",
     "housekeeping/memorise.base",

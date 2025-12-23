@@ -28,7 +28,7 @@ Not infectious once rash appears.
 # Others
 #### No restrictions
 - [[hand foot mouth]],
-- [[cold sores]] (herpes simplex),
+- [[cold sores]] (herpes simplex) - start to heal within 10 days, is contagious. 
 - [[molluscum contagiosum]],
 - [[roseola infantum]] ([[day named diseases|sixth disease]])
 - [[conjunctivitis]] 

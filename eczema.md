@@ -5,7 +5,9 @@ tags:
 *See [[atopic diseases]].* 
 
 ---
-Itchy rash on flexures & skin creases. (wrist, palms, elbow folds, behind the knees).
+Disease of the dry skin. Throw moisture at the dry skin and that helps. 
+
+Eczema is an Itchy rash on flexures & skin creases. (wrist, palms, elbow folds, behind the knees).
 URTI can flare up eczema.
 
 **In infants**: face, trunk, extremities.
@@ -16,9 +18,9 @@ Psoriasis has well defined borders but not Eczema.
 Eczema & Psoriasis are relapsing in nature.
 
 # Clinical Features
-**Mild**: Dry skin, infrequent itching, small areas of redness
-**Moderate**: Dry skin, frequent itching, redness, +/- excoriation
-**Severe**: Dry skin, Very frequent itching, redness, excoriation, extensive skin thickening, bleeding, interfere with eating & sleep
+- **Mild**: Dry skin, infrequent itching, small areas of redness
+- **Moderate**: Dry skin, frequent itching, redness, +/- excoriation
+- **Severe**: Dry skin, Very frequent itching, redness, excoriation, extensive skin thickening, bleeding, interfere with eating & sleep
 # Treatment
 - Emollients (1st line)
 	- Apply emollients before steroids (E comes before S) as creams soak into skin faster than ointments.

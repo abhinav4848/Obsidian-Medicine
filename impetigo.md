@@ -4,16 +4,19 @@ tags:
   - paeds
 urls:
   - https://www.nhs.uk/conditions/impetigo/
+  - https://dermnetnz.org/topics/impetigo
 ---
-Beta-Strep.
+Group A Beta-haemolytic strep (GABHS) & Staph. 
 
 Very Contagious.
 Spreads via direct contact with discharges
 Honey coloured, golden crust typically around mouth.
 
 Bullous means fluid filled blister > 1cm. 
-## Treatment
-### Non bullous, limited, localized
+
+---
+# Treatment
+### Non bullous, limited, localized (aka School sores)
 H2O2 cream 1% (1st line. Antiseptic)
 Fusidic acid 2% (2nd line) #abx
 Mupirocin
