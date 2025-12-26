@@ -24,7 +24,7 @@ AIR & MART contain the same ICS/Formoterol combo. So the name is only to emphasi
 - a moderate-dose MART 
 ## Step 4 
 [NICE](https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#pharmacological-management-in-people-aged-12-and-over:~:text=Check%20the%20fractional%20exhaled%20nitric%20oxide%20\(FeNO\)%20level%20if%20available "NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)") 
-- If Asthma not controlled despite med MART, check for type 2 inflammation with FeNO & blood eosinophil count 
+- If Asthma not controlled despite med MART, check for type 2 inflammation with [[asthma- investigations|FeNO]] & blood eosinophil count 
     - if either is raised, refer to a specialist in asthma care
     - if neither is raised, add on LTRA/LAMA to mod MART
 	    - if control has not improved, stop the LTRA or LAMA and start a trial of the alternative medicine (LTRA or LAMA)

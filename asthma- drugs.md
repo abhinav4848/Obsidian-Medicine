@@ -26,12 +26,18 @@ Anti IgE: Omalizumab
 
 # Drugs to avoid in asthma
 Analgesics:
-- ❌Ibuprofen, Aspirin (Samter's triad: Nasal polyp, asthma, Nasal polyp), Naproxen
-- ❌Drugs aggravating asthma: BAN-> Beta blockers, Aspirin, NASIDs
-- ✔PCT & diclofenac are safe.
+- ❌Ibuprofen, Aspirin (Samter's #triad: Aspirin sensitivity, asthma, Nasal polyp), Naproxen
+- ❌Drugs aggravating Asthma: BAN-> Beta blockers, Aspirin, NASIDs #mnemonic 
+- ✔PCT & diclofenac are safe. 
 Tetracycline.
 Beta blocker (Bronchospasm), 
-ACE inhibitors (cough)
+ACE inhibitors (cough).
+
+##### Why no NSAIDs?
+NSAID block COX-1
+Shunts arachidonic acid to lipoxygenase pathway
+excess leukotriene production (they are broncho-constrictive)
+-> Constricts airway, increases mucus, triggers asthma attacks, 
 
 # Drugs Licensed for Asthma
 - Budesonide + Formoterol licensed for MART from 6y
