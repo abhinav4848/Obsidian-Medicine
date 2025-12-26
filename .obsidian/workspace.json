@@ -28,13 +28,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asthma- investigations.md",
+                "file": "retinopathy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "asthma- investigations"
+              "title": "retinopathy"
+            }
+          },
+          {
+            "id": "a5eeccf717fd8988",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ophthalmology- ophthalmoscopy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "ophthalmology- ophthalmoscopy"
             }
           }
         ],
@@ -91,8 +106,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asthma- investigations.md",
+                "file": "retinopathy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +225,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for asthma- investigations"
+              "title": "Backlinks for retinopathy"
             }
           }
         ]
@@ -233,8 +247,14 @@
   },
   "active": "005e9de597152f0b",
   "lastOpenFiles": [
-    "asthma- new management 2024.md",
+    "ophthalmology- ophthalmoscopy.md",
+    "retinopathy.md",
+    "housekeeping/revise recent changes.base",
+    "tinea corporis.md",
+    "housekeeping/memorise.base",
     "asthma.md",
+    "asthma- new management 2024.md",
+    "asthma- investigations.md",
     "asthma- drugs.md",
     "eczema herpeticum.md",
     "confusion in skin lesions.md",
@@ -255,13 +275,7 @@
     "nsaid.md",
     "afro-caribbean.md",
     "heart failure.md",
-    "interstitial lung disease vs pneumonitis.md",
-    "lung fibrosis.md",
-    "parkinson's disease.md",
-    "fungal infections of skin.md",
     "attachments/hypertensive retinopathy.png",
-    "housekeeping/revise recent changes.base",
-    "housekeeping/memorise.base",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "attachments/knee orthopaedic pathologies.png",
     "attachments/pericarditis.png",

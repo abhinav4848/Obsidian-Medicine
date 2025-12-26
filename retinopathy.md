@@ -3,7 +3,9 @@ tags:
   - ophthal
 urls:
   - https://eyewiki.org/Hypertensive_retinopathy
+  - https://geekymedics.com/fundoscopic-appearances-of-retinal-pathologies/
 ---
+*See [[ophthalmology- ophthalmoscopy|ophthalmoscopy]].* 
 # Diabetic Retinopathy
 Common in [[diabetes mellitus 1|type 1 diabetes]].
 ## Maculopathy
@@ -12,26 +14,29 @@ Rx: Intravitreal vascular endothelial growth factor (VEGF) inhibitors.
 ## Non Proliferative retinopathy
 No Neovascularization.
 
-|               |                                                                                                                                                                                                                                                                                                                                                                                      |
+| Severity      | Notes                                                                                                                                                                                                                                                                                                                                                                                |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Mild NPDR     | 1 or more dots (microaneurysm)                                                                                                                                                                                                                                                                                                                                                       |
 | Moderate NPDR | Dot (micro-aneurysm),<br>Blot haemorrhages (necrotic vessel bleed into inner retina-> haemorrhage),<br>Hard exudate (only seen in moderate/severe form of diabetic retinopathy)<br><br>Cotton wool spots ('soft exudates' - represent areas of retinal infarction),<br>Venous beading/looping and<br>Intraretinal microvascular abnormalities (IRMA) less severe than in severe NPDR |
 | Severe NPDR   | blot haemorrhages and microaneurysms in 4 quadrants<br>venous beading in at least 2 quadrants<br>IRMA in at least 1 quadrant                                                                                                                                                                                                                                                         |
 ## Pre-Proliferative retinopathy
 Dot, blot, hard exudate, Cotton wool spot
+
 ## Proliferative Retinopathy
 Dot, blot, hard exudate, Cotton wool spot, neovascularization.
 
 Floaters in vision  
 progress rapidly to blindness.
 
-Rx: Laser photocoagulation
-Intravitreal VEGF inhibitors.
+Rx: 
+- Laser photocoagulation
+- Intravitreal VEGF inhibitors.
 
 ---
 # Hypertensive Retinopathy
 Classified according to Keith-Wagner classification
-![[hypertensive retinopathy.png]]
+![[hypertensive retinopathy.png|300]]
+![Stage 3-4 HTN retinopathy|500](https://eyewiki-images.s3.us-east-va.perf.cloud.ovh.us/9/9d/HTN_RET_Findings.jpg)
 
 | Stage | Features                                                                                                                      |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------- |

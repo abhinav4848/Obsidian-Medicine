@@ -7,6 +7,9 @@ aliases:
   - tinea pedis
   - jock itch
   - tinea cruris
+urls:
+  - https://dermnetnz.org/topics/tinea-corporis
+  - https://www.pcds.org.uk/clinical-guidance/tinea-corporis-body-cruris-groin-and-incognito-steroid-exacerbated
 ---
 *See [[fungal infections of skin]].* 
 
