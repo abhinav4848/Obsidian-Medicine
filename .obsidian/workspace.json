@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retinopathy.md",
+                "file": "ophthalmology- ophthalmoscopy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for retinopathy"
+              "title": "Backlinks for ophthalmology- ophthalmoscopy"
             }
           }
         ]
@@ -245,10 +245,10 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "005e9de597152f0b",
+  "active": "a5eeccf717fd8988",
   "lastOpenFiles": [
-    "ophthalmology- ophthalmoscopy.md",
     "retinopathy.md",
+    "ophthalmology- ophthalmoscopy.md",
     "housekeeping/revise recent changes.base",
     "tinea corporis.md",
     "housekeeping/memorise.base",
