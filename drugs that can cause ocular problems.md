@@ -1,24 +1,26 @@
 ---
 tags:
   - ophthal
+  - pharmacology
 ---
-**Cataracts**
-- steroids
+**Cataracts** 
+- steroids 
 
-**Corneal opacities**
-- amiodarone
-- indomethacin
+**Corneal opacities** 
+- [[Amiodarone]] 
+- indomethacin 
 
-**[[Optic neuritis]]**
-- [[tuberculosis|ethambutol]]
-- amiodarone
-- [[metronidazole]]
+**[[Optic neuritis]]** 
+- [[tuberculosis|ethambutol]] 
+- amiodarone 
+- [[metronidazole]] 
 
-**Retinopathy**
-- chloroquine, [[quinine]] (HCQ -> Bull's eye)
+**Retinopathy** 
+- chloroquine, [[quinine]] (HCQ -> Bull's eye) 
 
-**Diplopia**
-- Carbamazepine, Phenytoin
+**Diplopia** 
+- Carbamazepine, Phenytoin 
+
 
 **[[Sildenafil]]** can cause both blue discolouration and non-arteritic [[anterior ischaemic optic neuropathy]]
 Yellow-green vision (Xanthopsia): Digoxin
