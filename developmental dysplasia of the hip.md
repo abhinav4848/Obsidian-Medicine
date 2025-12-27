@@ -13,7 +13,8 @@ Age < 3yo
 # Clinical Features
 [[limping child|Limping]], painless leg that is shorter than the other. Unequal skin folds.
 ### Exam:
-Barlow #named : attempt to dislocate an articulated femoral head. Note: might be negative if hip is already dislocated at the time of presentation. 
+Barlow #named : attempt to dislocate an articulated femoral head. 
+	Note: might be negative if hip is already dislocated at the time of presentation. 
 Ortolani #named : relocate a dislocated femoral head.
 # Investigation
 Confirm with USG.
@@ -25,4 +26,4 @@ Pavlik harness #named(dynamic flexion abduction orthosis) in children <4-6 month
 
 Other children: Surgery.
 # Reference
-<iframe title="Developmental Dysplasia of the Hip (DDH): What is it and How is it Treated?" src="https://www.youtube.com/embed/wLzDvJ-d_rE?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 16 / 9; width: 100%; height: 100%;"></iframe> 
+![Developmental Dysplasia of the Hip (DDH): What is it and How is it Treated?](https://www.youtube.com/watch?v=wLzDvJ-d_rE)

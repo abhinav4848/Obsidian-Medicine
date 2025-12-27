@@ -4,6 +4,7 @@ tags:
 aliases:
   - Lichen Sclerosis
   - Lichen Simplex Chronicus
+  - neurodermatitis
 ---
 # [[Lichen planus]]
 
@@ -12,7 +13,7 @@ aliases:
 Affects genitalia only -> seen mostly on vulva of elderly women  
 White plaques on anogenital skin + itching at night
 ## Treatment
-Topical steroids, Follow up 3-6 months because risk of SCC vulva seen in old age.
+Topical steroids, Follow up 3-6 months because risk of SCC vulva seen in old age. 
 
 ---
 # Lichen Simplex Chronicus

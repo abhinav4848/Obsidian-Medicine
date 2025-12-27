@@ -6,7 +6,7 @@ aliases:
   - normal fundus of eye
 ---
 ![Normal Fundus](https://geekymedics.com/wp-content/uploads/2019/03/Normal-fundus-eye-1-scaled.jpg)
-
+Inspect the macula by asking the patient to briefly look directly into the light of the ophthalmoscope. The macula is found lateral (temporal) to the optic nerve head and is yellow in colour. The central part of the macula, the “fovea” is about the same diameter as the optic disc and appears darker than the rest of the macula due to the presence of an additional pigment.
 https://geekymedics.com/fundoscopy-ophthalmoscopy-osce-guide/#Assess_the_fundus
 
 # Optic disc

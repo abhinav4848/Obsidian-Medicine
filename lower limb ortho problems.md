@@ -2,9 +2,10 @@
 tags:
   - ortho
 ---
-see [[upper limb ortho problems]]. 
+*See [[upper limb ortho problems]].* 
+*See: [[limping child]]* 
 # Hip
-|           |                                                                                                   |
+| Age       | Paediatric lower limb conditions                                                                  |
 | --------- | ------------------------------------------------------------------------------------------------- |
 | < 3 years | [[Developmental dysplasia of the hip\|DDH]], Spiral injury                                        |
 | 3-9 years | Acute (<48 hrs.): [[Transient synovitis]]  <br>Chronic: [[legg-calve-perthe's disease\|Perthe's]] |
@@ -30,7 +31,7 @@ see [[paeds ortho diff- ddh, perthe's, sufe]]
 2. [[Chondromalacia patellae]]
 3. [[Housemaid knee]]
 4. [[Iliotibial band syndrome]]
-5. [[osgood-schlatter]]
+5. [[osgood-schlatter]] 
 6. [[Osteochondritis dissecans]]
 7. [[Patellar subluxation]]
 8. [[Patellar tendonitis]]

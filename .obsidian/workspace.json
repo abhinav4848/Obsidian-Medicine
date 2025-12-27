@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lichens.md",
+                "file": "developmental dysplasia of the hip.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "lichens"
+              "title": "developmental dysplasia of the hip"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "retinop",
+                "query": "macular de",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lichens.md",
+                "file": "developmental dysplasia of the hip.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lichens"
+              "title": "Backlinks for developmental dysplasia of the hip"
             }
           }
         ]
@@ -248,9 +248,24 @@
   },
   "active": "005e9de597152f0b",
   "lastOpenFiles": [
+    "ophthalmoscopy.md",
+    "developmental dysplasia of the hip.md",
+    "lower limb ortho problems.md",
+    "limping child.md",
+    "juvenile idiopathic arthritis.md",
+    "growing pains.md",
+    "chondromalacia patellae.md",
+    "patellar tendonitis.md",
+    "housemaid knee.md",
+    "iliotibial band syndrome.md",
+    "macular degeneration.md",
+    "osteochondritis dissecans.md",
+    "osgood-schlatter.md",
+    "cancers metastasizing to the bone.md",
+    "mscc.md",
+    "lichens.md",
     "lichen planus.md",
     "quinine.md",
-    "ophthalmoscopy.md",
     "retinopathy.md",
     "housekeeping/revise recent changes.base",
     "attachments/eyewiki- Hypertensive retinopathy.jpg",
@@ -263,23 +278,8 @@
     "cataract.md",
     "red eye.md",
     "acute angle glaucoma.md",
-    "headache.md",
     "attachments/cup disc ratio- 50 percent.png",
-    "loss of vision.md",
-    "crvo.md",
-    "alcohol.md",
-    "optic neuritis.md",
-    "drugs that can cause ocular problems.md",
-    "Amiodarone.md",
-    "nsaid.md",
-    "asthma.md",
-    "samter's triad.md",
-    "asthma- drugs.md",
-    "tinea corporis.md",
     "housekeeping/memorise.base",
-    "asthma- new management 2024.md",
-    "asthma- investigations.md",
-    "eczema herpeticum.md",
     "attachments/hypertensive retinopathy.png",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "attachments/knee orthopaedic pathologies.png",
