@@ -9,7 +9,7 @@ aliases:
 # Risk factors
 First fat female born oligo breech in a family with such history
 	Firstborn, birth wt. > 5kgs, Girl child, oligohydramnios, breech presentation, family history,
-Age < 3yo
+Age < 3yo 
 # Clinical Features
 [[limping child|Limping]], painless leg that is shorter than the other. Unequal skin folds.
 ### Exam:
