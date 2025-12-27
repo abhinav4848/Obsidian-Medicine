@@ -27,7 +27,7 @@ Itchy, non-infectious rash seen on palm, soles, genitalia, flexor aspect of arms
 
 [[Koebner's phenomenon]] #named Can appear at the site of a trauma/scar as well. 
 
-E.g.: *Healthcare worker in elderly home (not always scabies) has itchy, scaly, shiny rash on wrist & fine white streaks overlying the lesion. Nails have ridges & are thickened in the middle. Buccal mucosa has lacy white pattern.*
+E.g.: *Healthcare worker in elderly home (not always scabies) has itchy, scaly, shiny rash on wrist & fine white streaks overlying the lesion. Nails have ridges & are thickened in the middle. Buccal mucosa has lacy white pattern.* 
 ## Treatment
 *Usually self resolves.*
 
