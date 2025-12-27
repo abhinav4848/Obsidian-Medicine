@@ -33,12 +33,19 @@ Eczema & Psoriasis are relapsing in nature.
 - **Mild**: Dry skin, infrequent itching, small areas of redness
 - **Moderate**: Dry skin, frequent itching, redness, +/- excoriation
 - **Severe**: Dry skin, Very frequent itching, redness, excoriation, extensive skin thickening, bleeding, interfere with eating & sleep
+
 # Treatment
 Avoid triggers- soaps, or anything that bubbles/lathers, cigarette smoke, irritant clothing. 
+## Emollients
+- Emollients are 1st line for eczema. 
+	- #Mnemonic: Apply emollients before steroids (E comes before S). 
+- From least (absorbs better) to most greasy: Lotion > Cream > Ointment 
+- Emollients are the 1st line management for flare ups as well.
 
-- Emollients (1st line)
-	- Apply emollients before steroids (E comes before S) as creams soak into skin faster than ointments.
-	- Emollients are the 1st line management for flare ups as well.
+Dermol is good for soap substitution but prefer not to use it as a leave-on moisturiser, as it has antibiotics in it, that can lead to irritant contact dermatitis (Benzalkonium chloride, Chlorhexidine dihydrochloride)
+
+For your leave-on moisturiser, switch to a bland, simple emollient that does not contain any antimicrobial agents or other potential irritants like fragrances. Good alternatives for a leave-on moisturiser include Cetraben Cream, Doublebase gel, or Epaderm Ointment.
+## Steroids 
 - Topical steroids
 	Apply thinly for short duration. Mostly rely on
 	- **Mild strength**: Hydrocortisone acetate 0.5, 1, or 2.5% (Daktacort)
@@ -52,4 +59,7 @@ Avoid triggers- soaps, or anything that bubbles/lathers, cigarette smoke, irrita
 - If eczema awakens the patient at night, consider sedative anti-histamines (Chlorpheniramine)
 - Treat bacterial infection with oral antibiotic.
 
-Can use steroid sparing agent like tacrolimus (brand: Protopic). It is a topical calcineurin inhibitor.
+## Topical Calcineurin inhibitor
+Topical calcineurin inhibitors (e.g. tacrolimus, brand Protopic) can be used as steroid-sparing agents and are typically second-line treatment for eczema.
+
+Useful on delicate/steroid-sensitive areas, such as the face, eyelids, and flexures, where prolonged topical steroid use risks skin atrophy. 
