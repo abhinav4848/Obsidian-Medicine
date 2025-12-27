@@ -24,7 +24,7 @@ Barlow #named : attempt to dislocate an articulated femoral head.
 	Note: might be negative if hip is already dislocated at the time of presentation. 
 Ortolani #named : relocate a dislocated femoral head. 
 
-In infants older than 3 months, assessment by the Barlow and Ortolani tests is no longer sensitive. Perform the Galleazi sign to test for loss of abduction of the affected hip. 
+Galleazi #named:In infants older than 3 months, assessment by the Barlow and Ortolani tests is no longer sensitive. Perform the Galleazi sign to test for loss of abduction of the affected hip. 
 # Investigation
 Confirm with USG as although can be self resolving, it presents as a spectrum so can be bad as well. 
 USG from 6 weeks up to 4.5 months cuz hips are cartilaginous. 

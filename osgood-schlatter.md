@@ -1,6 +1,7 @@
 ---
 aliases:
   - tibial apophysitis
+  - Osgood-Schlatter
 tags:
   - ortho
   - paeds
