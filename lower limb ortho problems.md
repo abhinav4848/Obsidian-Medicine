@@ -33,12 +33,13 @@ tags:
 see [[paeds ortho diff- ddh, perthe's, sufe]]
 
 # Knee
-![[knee orthopaedic pathologies.png]]
+##### Knee Problems
+![[knee orthopaedic pathologies.png|400]]
 1. [[Baker's cyst]]
 2. [[Chondromalacia patellae]]
 3. [[Housemaid knee]]
 4. [[Iliotibial band syndrome]]
-5. [[osgood-schlatter]] 
+5. [[Osgood-Schlatter]] 
 6. [[Osteochondritis dissecans]]
 7. [[Patellar subluxation]]
 8. [[Patellar tendonitis]]

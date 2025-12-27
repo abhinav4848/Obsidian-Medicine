@@ -2,6 +2,9 @@
 tags:
   - ortho
 ---
+![[lower limb ortho problems#Knee Problems]] 
+
+---
 Cyst in the popliteal fossa, due to disease of knee joint: OA/RA.
 No treatment needed if asymptomatic as can resolve spontaneously.
 

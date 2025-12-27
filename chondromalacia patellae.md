@@ -5,6 +5,9 @@ tags:
 aliases:
   - Patellofemoral pain syndrome
 ---
+![[lower limb ortho problems#Knee Problems]] 
+
+---
 aka Patellofemoral pain syndrome.
 Common in teenage girls.
 Associated with Quadriceps muscle weakness & Softening of the cartilage of the patella.

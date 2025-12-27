@@ -3,6 +3,9 @@ tags:
   - ortho
   - paeds
 ---
+![[lower limb ortho problems#Knee Problems]] 
+
+---
 Misnomer as not related to growth. Should be: benign idiopathic nocturnal limb pains of childhood
 
 Common cause of musculoskeletal pain in children, typically affecting the legs and occurring at night. They are usually bilateral and self-limiting. 
