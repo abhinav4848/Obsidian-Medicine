@@ -7,6 +7,9 @@ Misnomer as not related to growth. Should be: benign idiopathic nocturnal limb p
 
 Common cause of musculoskeletal pain in children, typically affecting the legs and occurring at night. They are usually bilateral and self-limiting. 
 
+>[!info]
+>Not associated with a limp. 
+
 # Clinical features of growing pains
 - never present at the start of the day after the child has woken
 - no limp

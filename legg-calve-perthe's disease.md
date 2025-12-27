@@ -13,6 +13,9 @@ Degenerative condition of hip joints in [[limping child|children]] aged 3 - 9 ye
 
 Leads to avascular necrosis of femur epiphysis.
 Chronic disease. 
+
+>[!notice]
+>A limping child (aged 4–6 years) with hip pain, persisting for more than 2 weeks, should be examined and investigated to rule out Perthes disease.
 # Clinical features
 Chronic pain: Hip & groin pain, progresses over weeks, months.
 [[limping child]]. 

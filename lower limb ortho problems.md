@@ -2,26 +2,33 @@
 tags:
   - ortho
 ---
+
 *See [[upper limb ortho problems]].* 
 *See: [[limping child]]* 
+
+---
 # Hip
 | Age       | Paediatric lower limb conditions                                                                  |
 | --------- | ------------------------------------------------------------------------------------------------- |
 | < 3 years | [[Developmental dysplasia of the hip\|DDH]], Spiral injury                                        |
 | 3-9 years | Acute (<48 hrs.): [[Transient synovitis]]  <br>Chronic: [[legg-calve-perthe's disease\|Perthe's]] |
 | > 9 years | [[Slipped upper femoral epiphysis\|SUFE]]                                                         |
-*[[legg-calve-perthe's disease|Perthe's]] = Primary school*
-*[[Slipped upper femoral epiphysis|SUFE]] = Secondary school*
+*[[legg-calve-perthe's disease|Perthe's]] = Primary school* 
+*[[Slipped upper femoral epiphysis|SUFE]] = Secondary school* 
 
-1. [[Developmental dysplasia of the hip|DDH]]
+![[slipped upper femoral epiphysis#Warning]]
+
+#### Hip & above knee problems
+1. [[Developmental dysplasia of the hip|DDH]] - head of femur moves out of acetabulum
 2. Fracture Neck of Femur
 3. [[Hip dislocation]]
 4. [[Juvenile idiopathic arthritis]]
 5. [[meralgia paresthetica]]
-6. [[legg-calve-perthe's disease|Perthe's Disease]]
+6. [[legg-calve-perthe's disease|Perthe's Disease]] - Osteonecrosis of femoral head. 
 7. [[Slipped upper femoral epiphysis]]
 8. [[Transient synovitis]]
-9. [[trochanteric bursitis]]
+9. [[trochanteric bursitis]] 
+10. [[growing pains]] 
 
 see [[paeds ortho diff- ddh, perthe's, sufe]]
 
