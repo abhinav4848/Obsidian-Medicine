@@ -4,15 +4,20 @@ tags:
 urls:
   - https://eyewiki.org/Hypertensive_retinopathy
   - https://geekymedics.com/fundoscopic-appearances-of-retinal-pathologies/
+aliases:
+  - diabetic retinopathy
+  - hypertensive retinopathy
 ---
-*See [[ophthalmology- ophthalmoscopy|ophthalmoscopy]].* 
+*See [[ophthalmoscopy|ophthalmoscopy]].* 
+
+---
 # Diabetic Retinopathy
 Common in [[diabetes mellitus 1|type 1 diabetes]].
 ## Maculopathy
 if there is a change in visual acuity,
 Rx: Intravitreal vascular endothelial growth factor (VEGF) inhibitors.
 ## Non Proliferative retinopathy
-No Neovascularization.
+No Neovascularization. 
 
 | Severity      | Notes                                                                                                                                                                                                                                                                                                                                                                                |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -55,7 +60,10 @@ Macular edema, dot, blot, hard exudate.
 ---
 # Common Terms
 **Flame shaped haemorrhage**:
-	CRVO, diabetic, hypertensive.
-**Floaters**:
-#Mnemonic: CURD
-	CMV, Uveitis, Retinal detachment, DM retinopathy
+Larger haemorrhages with a flame-like appearance caused by rupture of pre-capillary arterioles or small veins in the retinal nerve fibre layer. Most commonly associated with grade 3 hypertensive retinopathy, thrombocytopaenia, retinal vein occlusion and trauma. e.g. RVO, diabetic, hypertensive.
+**Floaters**: #Mnemonic: CURD
+	CMV, [[Uveitis]], [[Retinal detachment]], DM retinopathy
+
+ **Cotton-wool spots**: caused by ischemia to the nerve fibre layer secondary to fibrinous necrosis and luminal narrowing. Ischemia to the nerve fibres leads to decreased axoplasmic flow, nerve swelling, and ultimately fluffy opacification.
+ 
+**Exudates** occur later in the course of the disease, surrounding areas of haemorrhage, as a result of lipid accumulation. 

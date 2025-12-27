@@ -1,6 +1,10 @@
 ---
 tags:
   - neurology
+aliases:
+  - Cluster headache
+  - Migraine
+  - Tension Headache
 ---
 
 | **Category**                                                                   | Tension Headache                              | Migraine                                                                                                                                                                                                                                                                                                  | Cluster                                                                                                                                                |

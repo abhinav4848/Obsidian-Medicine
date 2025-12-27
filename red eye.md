@@ -2,6 +2,8 @@
 tags:
   - ophthal
   - confusion
+aliases:
+  - inflamed eye
 ---
 
 | Eye Condition                                                   | Symptoms                                                                                                                                                  |

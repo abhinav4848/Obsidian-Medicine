@@ -1,0 +1,6 @@
+---
+tags:
+  - ophthal
+aliases:
+  - Glaucoma
+---

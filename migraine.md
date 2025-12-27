@@ -2,7 +2,7 @@
 tags:
   - neurology
 ---
-Pulsating/throbbing [[headaches]] lasting up to 72 hrs. 
+Pulsating/throbbing [[headache]] lasting up to 72 hrs. 
 MCC of primary headache in children.
 Can be one side.
 # Red Flag 🚩
