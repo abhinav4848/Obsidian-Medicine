@@ -2,6 +2,8 @@
 tags:
   - ortho
   - paeds
+aliases:
+  - JIA
 ---
 *See [[limping child]].* 
 

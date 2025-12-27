@@ -1,27 +1,41 @@
 ---
 tags:
   - dermat
+urls:
+  - https://www.pcds.org.uk/files/general/Paediatric-Eczema-Pathway-update-web.pdf
+aliases:
+  - atopic eczema
+  - atopic dermatitis
 ---
 *See [[atopic diseases]].* 
+See PCDS link for paediatric eczema (0-12 years). 
 
 ---
+>[!notice]
 Disease of the dry skin. Throw moisture at the dry skin and that helps. 
 
-Eczema is an Itchy rash on flexures & skin creases. (wrist, palms, elbow folds, behind the knees).
 URTI can flare up eczema.
 
-**In infants**: face, trunk, extremities.
-**In younger children**: extensor surfaces.
+Eczema is a common, chronic, relapsing, inflammatory skin disorder. 
+- The skin function is impaired leading to porous and dry skin that easily becomes inflamed, susceptible to infection and itchy. 
+- Chronically scratched skin may become thickened (lichenified)
 
-Psoriasis is on extensor, Eczema in adults is flexor.
+Eczema is an Itchy rash on flexures & skin creases. (wrist, palms, elbow folds, behind the knees).
+- **In infants**: face, trunk, extremities.
+- **In younger children**: extensor surfaces.
+
+### Difference with psoriasis
+[[Psoriasis]] is on extensor, Eczema in adults is flexor.
 Psoriasis has well defined borders but not Eczema.
-Eczema & Psoriasis are relapsing in nature.
+Eczema & Psoriasis are relapsing in nature. 
 
 # Clinical Features
 - **Mild**: Dry skin, infrequent itching, small areas of redness
 - **Moderate**: Dry skin, frequent itching, redness, +/- excoriation
 - **Severe**: Dry skin, Very frequent itching, redness, excoriation, extensive skin thickening, bleeding, interfere with eating & sleep
 # Treatment
+Avoid triggers- soaps, or anything that bubbles/lathers, cigarette smoke, irritant clothing. 
+
 - Emollients (1st line)
 	- Apply emollients before steroids (E comes before S) as creams soak into skin faster than ointments.
 	- Emollients are the 1st line management for flare ups as well.

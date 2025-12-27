@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paeds ortho diff- ddh, perthe's, sufe.md",
+                "file": "eczema.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "paeds ortho diff- ddh, perthe's, sufe"
+              "title": "eczema"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "macular de",
+                "query": "eczema",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -106,7 +106,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -215,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paeds ortho diff- ddh, perthe's, sufe.md",
+                "file": "eczema.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +226,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for paeds ortho diff- ddh, perthe's, sufe"
+              "title": "Backlinks for eczema"
             }
           }
         ]
@@ -245,13 +246,16 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "676efa40181a3294",
+  "active": "005e9de597152f0b",
   "lastOpenFiles": [
+    "juvenile idiopathic arthritis.md",
+    "limping child.md",
+    "transient synovitis.md",
+    "legg-calve-perthe's disease.md",
+    "paeds ortho diff- ddh, perthe's, sufe.md",
     "lower limb ortho problems.md",
     "developmental dysplasia of the hip.md",
     "ophthalmoscopy.md",
-    "limping child.md",
-    "juvenile idiopathic arthritis.md",
     "growing pains.md",
     "chondromalacia patellae.md",
     "patellar tendonitis.md",
@@ -274,9 +278,6 @@
     "attachments/fundoscopy- edema, exudate, haemorrhage, cotton wool spots.png",
     "glaucoma- open angle.md",
     "glaucoma- acute angle closure.md",
-    "cataract.md",
-    "red eye.md",
-    "acute angle glaucoma.md",
     "attachments/cup disc ratio- 50 percent.png",
     "housekeeping/memorise.base",
     "attachments/hypertensive retinopathy.png",

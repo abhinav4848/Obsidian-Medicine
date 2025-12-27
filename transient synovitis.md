@@ -8,8 +8,9 @@ tags:
 	- Pain can radiate to knee on the same side.
 - Age: 3-9yo.
 - Mild fever
-- Pain on weight bearing but not at rest. 
+- Pain on [[limping child|weight bearing]] but not at rest. 
 
 DDx: [[Septic Arthritis]]
 
-If acute: Transient synovitis, if chronic: [[legg-calve-perthe's disease]].
+If acute: Transient synovitis, 
+If chronic: [[legg-calve-perthe's disease|Legg-Calve-Perthe's disease]]. 
