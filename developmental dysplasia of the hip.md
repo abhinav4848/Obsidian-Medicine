@@ -9,6 +9,7 @@ aliases:
 *See [[paeds ortho diff- ddh, perthe's, sufe]]*
 
 ---
+The head of femur can easily come out of the acetabulum -> Unstable joint -> Subluxation/Dislocation. 
 # Risk factors
 First fat female born oligo breech in a family with such history
 	Firstborn, birth wt. > 5kgs, Girl child, oligohydramnios, breech presentation, family history,
