@@ -16,4 +16,5 @@ Associated with Quadriceps muscle weakness & Softening of the cartilage of the p
 - Usually responds to physiotherapy
 - Has grinding sensation/clicking sound within knee joint.
 
-No intermittent swelling or locking of joint. 
+**No** intermittent swelling or locking of joint. 
+*-> Locking is in [[osteochondritis dissecans]] & [[lower limb ortho problems#Knee Ligaments|meniscal tears]].* 

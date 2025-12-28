@@ -9,7 +9,7 @@ aliases:
 urls: https://dermnetnz.org/topics/roseola
 ---
 
-[[human herpes viruses|HHV]] type 6. aka exanthem subitum, sixth disease.
+[[human herpes viruses|HHV]] type 6. aka exanthem subitum, ([[day named diseases|sixth disease]]). 
 # Clinical Features
 - Sudden high [[febrile children|fever]] lasting few days
 - After fever resolution -> maculopapular, non-itchy rash -> starts on chest & legs, then onto body (not on head and neck). 
@@ -18,7 +18,7 @@ urls: https://dermnetnz.org/topics/roseola
 - [[diarrhoea]] and cough common. 
 # Treatment
 Support + PCT
-[[School in children with rash|school exclusion]] Not needed. 
+[[School in children with rash|school exclusion]] not needed. 
 # Complication
 febrile convulsion
 aseptic meningitis

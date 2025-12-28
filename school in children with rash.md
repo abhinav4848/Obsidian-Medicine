@@ -11,7 +11,7 @@ tags:
 Keep away from pregnant women 
 ### [[Impetigo]] 
 Crusted over / 48 hrs. after Abx started 
-### Measles 
+### [[Measles]] 
 +4 days from onset of rash 
 ### [[Mumps]] 
 +5 days from onset of swollen glands 
@@ -21,7 +21,7 @@ Crusted over / 48 hrs. after Abx started
 Not infectious once rash appears. 
 ### [[Pertussis]] 
 48 hrs. after Ab started (or 21 days from onset of symptoms if no Abx given)
-### Scarlet Fever 
+### [[Scarlet Fever]]
 24 hrs. after Ab started
 
 ---

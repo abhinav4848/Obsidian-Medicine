@@ -9,8 +9,8 @@ urls:
 *It's a [[seronegative spondyloarthropathy]].* 
 
 Arthritis developing after an infection elsewhere 
-- GU: [[chlamydia]], Gonorrhoea, UTI
-- Gastroenteritis: Salmonella, campylobacter, Dysentery 
+- GU: [[chlamydia]], [[gonorrhoea]], UTI
+- Gastroenteritis: Salmonella, campylobacter, Dysentery  
 Organism can't be retrieved from the joint.
 
 More common in young with HLAB27+ve.

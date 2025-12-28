@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "limping child.md",
+                "file": "chondromalacia patellae.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "limping child"
+              "title": "chondromalacia patellae"
             }
           },
           {
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "limping child.md",
+                "file": "chondromalacia patellae.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for limping child"
+              "title": "Backlinks for chondromalacia patellae"
             }
           }
         ]
@@ -263,20 +263,20 @@
   },
   "active": "a5eeccf717fd8988",
   "lastOpenFiles": [
+    "osteochondritis dissecans.md",
+    "chondromalacia patellae.md",
+    "housemaid knee.md",
+    "iliotibial band syndrome.md",
+    "osgood-schlatter.md",
+    "patellar tendonitis.md",
+    "patellar subluxation.md",
     "limping child.md",
     "legg-calve-perthe's disease.md",
-    "osgood-schlatter.md",
     "developmental dysplasia of the hip.md",
     "juvenile idiopathic arthritis.md",
-    "osteochondritis dissecans.md",
-    "patellar tendonitis.md",
-    "chondromalacia patellae.md",
     "baker's cyst.md",
     "lower limb ortho problems.md",
     "growing pains.md",
-    "patellar subluxation.md",
-    "iliotibial band syndrome.md",
-    "housemaid knee.md",
     "retinopathy.md",
     "transient synovitis.md",
     "slipped upper femoral epiphysis.md",
