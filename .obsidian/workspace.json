@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chondromalacia patellae.md",
+                "file": "osgood-schlatter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "chondromalacia patellae"
+              "title": "osgood-schlatter"
             }
           },
           {
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chondromalacia patellae.md",
+                "file": "osgood-schlatter.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for chondromalacia patellae"
+              "title": "Backlinks for osgood-schlatter"
             }
           }
         ]
@@ -263,14 +263,14 @@
   },
   "active": "a5eeccf717fd8988",
   "lastOpenFiles": [
-    "osteochondritis dissecans.md",
+    "limping child.md",
+    "osgood-schlatter.md",
     "chondromalacia patellae.md",
+    "osteochondritis dissecans.md",
     "housemaid knee.md",
     "iliotibial band syndrome.md",
-    "osgood-schlatter.md",
     "patellar tendonitis.md",
     "patellar subluxation.md",
-    "limping child.md",
     "legg-calve-perthe's disease.md",
     "developmental dysplasia of the hip.md",
     "juvenile idiopathic arthritis.md",
