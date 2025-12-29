@@ -3,31 +3,47 @@ tags:
   - diabetes
   - endocrine
 aliases:
+urls:
+  - https://www.nice.org.uk/guidance/ng28
+---
+*See [[diabetes- antidiabetic drugs]].* 
+
 ---
 HbA1c target < 48 (i.e. Pre-diabetic levels are acceptable)
-*See NICE Flowchart: [NICE](https://www.nice.org.uk/guidance/ng28) *  
-
-*See [[diabetes- antidiabetic drugs]].* 
+	*See [[diabetes mellitus- diagnosis]]*
 # Treatment based on target levels
 If new diagnosis: Lifestyle advice
-	Exercise: 30 mins moderate intensity physical activity 5 times/week.
-If Lifestyle modification but still
-	HbA1c > 48: Start 1 drug (Metformin). Target for adding another drug is 58.
-	If instead of Metformin, sulphonylurea is started as 1st drug, target will be 53 instead of 58.
-If already on metformin (or Metformin c/i), but
+	**Exercise**: 30 mins moderate intensity physical activity 5 times/week.
+	
+If Lifestyle modification but still HbA1c > 48: 
+	Start Metformin. Target for adding another drug is 58. 
+	If Metformin *not* tolerated, try one of these: 
+		- DPP-4 inhibitor (gliptin), or 
+		- Pioglitazone, or 
+		- Sulfonylurea, or 
+			- If instead of Metformin, sulphonylurea is started as 1st drug, target for another drug will be 53 instead of 58.
+		- SGLT-2 inhibitor (if [[diabetes- antidiabetic drugs#NICE criteria for SGLT-2|NICE criteria]] met)
+
+If already on one drug, but
 	HbA1c 48 - 58: Reinforce advice about Lifestyle modification.
-	HbA1c > 58: 2nd drug (aka first intensification) and now target: 53.
-		- metformin + DPP-4 inhibitor (gliptin)
-		- metformin + pioglitazone 
-		- metformin + sulfonylurea 
-		- metformin + SGLT-2 inhibitor (if [[diabetes- antidiabetic drugs#Glucose excretion|NICE criteria]] met)
+	HbA1c > 58: Add 2nd drug (aka first intensification) and now target: 53. Consider switching or adding treatments with: 
+		- DPP-4 inhibitor (gliptin), or 
+		- Pioglitazone, or 
+		- Sulfonylurea, or 
+		- SGLT-2 inhibitor (if [[diabetes- antidiabetic drugs#NICE criteria for SGLT-2|NICE criteria]] met)
 
-If still not controlled, 2nd intensification. Or if other drugs c/i: consider insulin
-- metformin + DPP-4 inhibitor + sulfonylurea
-- metformin + pioglitazone + sulfonylurea
-- metformin + (pioglitazone or sulfonylurea or DPP-4 inhibitor) + SGLT-2 if certain NICE criteria are met
-- insulin-based treatment
+If still HbA1c > 58, add another drug from above list (2nd intensification). 
+- if they were on Metformin, they'll now be on triple therapy (If someone is on triple therapy, one drug will always be Metformin). 
+- If they didn't tolerate Metformin, they'll now be on dual therapy
 
+ If still not controlled 
+ - with dual therapy, consider insulin +/- other drugs. 
+ - with triple therapy, swap one of them for GLP-1 agonist if: 
+	 - BMI >= 35 kg/m2 (adjust accordingly for BAME groups) and specific psychological/medical problems associated with obesity, or
+	 - BMI < 35 kg/m2 but:
+		 - insulin therapy would have significant occupational implications, or 
+		 - weight loss would benefit other significant obesity related comorbidities. 
+---
 # Treatment based on appropriate drug to use
 If high risk of CVD/established CVD/HF -> Metformin, once established, add SGLT-2 inhibitor  
 

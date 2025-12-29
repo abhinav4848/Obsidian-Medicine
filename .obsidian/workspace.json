@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diabetes- antidiabetic drugs.md",
+                "file": "diabetes treatment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "diabetes- antidiabetic drugs"
+              "title": "diabetes treatment"
             }
           },
           {
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diabetes- antidiabetic drugs.md",
+                "file": "diabetes treatment.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for diabetes- antidiabetic drugs"
+              "title": "Backlinks for diabetes treatment"
             }
           }
         ]
@@ -263,12 +263,12 @@
   },
   "active": "a5eeccf717fd8988",
   "lastOpenFiles": [
+    "diabetes- antidiabetic drugs.md",
     "diabetes treatment.md",
+    "diabetes mellitus- diagnosis.md",
     "housekeeping/gp guidelines- dermat.md",
     "osteochondritis dissecans.md",
-    "diabetes- antidiabetic drugs.md",
     "diabetes insipidus.md",
-    "diabetes mellitus- diagnosis.md",
     "diabetes- gestational.md",
     "diabetes- pre-op control.md",
     "afro-caribbean.md",
