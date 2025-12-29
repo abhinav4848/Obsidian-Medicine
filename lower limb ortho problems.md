@@ -10,7 +10,7 @@ tags:
 # Hip
 | Age       | Paediatric lower limb conditions                                                                  |
 | --------- | ------------------------------------------------------------------------------------------------- |
-| < 3 years | [[Developmental dysplasia of the hip\|DDH]], Spiral injury                                        |
+| < 3 years | [[Developmental dysplasia of the hip\|DDH]], Spinal injury                                        |
 | 3-9 years | Acute (<48 hrs.): [[Transient synovitis]]  <br>Chronic: [[legg-calve-perthe's disease\|Perthe's]] |
 | > 9 years | [[Slipped upper femoral epiphysis\|SUFE]]                                                         |
 *[[legg-calve-perthe's disease|Perthe's]] = Primary school* 

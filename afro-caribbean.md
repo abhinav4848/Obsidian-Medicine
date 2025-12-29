@@ -6,7 +6,7 @@ aliases:
   - African American
 ---
 1. Fibroids common
-2. [[gestational diabetes|gestational diabetes mellitus]]
+2. [[diabetes- gestational|gestational diabetes mellitus]]
 3. Don't use [[ace inhibitors|ACE inhibitor]] for HTN starting  
 4. [[systemic lupus erythematosis|SLE]] common  
 5. [[cancer- prostate|Prostate Cancer]]

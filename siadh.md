@@ -24,4 +24,4 @@ Fluid restriction > Tolvaptan/Demeclocycline
 2. Water retention → ↓ serum osmolality with transient volume expansion → ↑ ANP, ↑ BNP, and ↓ aldosterone → ↑ urinary sodium and water excretion → euvolemic hyponatremia
 3. Osmotic fluid shifts → cerebral edema and ↑ intracranial pressure (may occur in patients with extremely low Na+ levels)
 
-*compare with [[diabetes Insipidus]].* 
+*compare with [[diabetes insipidus]].* 

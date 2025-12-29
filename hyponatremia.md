@@ -18,7 +18,7 @@ Addison (both Na & H2O lost cuz no aldosterone)
 High urinary sodium (thus high urine osmolality) seen here.
 
 **Treatment**: Fluid restriction > Demeclocycline/Tolvaptan
-- Demeclocycline is used for chronic management to artificially induce [[diabetes Insipidus#Nephrogenic|nephrogenic DI]]. It's rarely used.
+- Demeclocycline is used for chronic management to artificially induce [[diabetes insipidus#Nephrogenic|nephrogenic DI]]. It's rarely used.
 - Tolvaptan (ADH antagonist) is used for resistant hyponatremia in acute cases. Even more rarely used.
 
 ### Psychogenic polydipsia, Diuretics 

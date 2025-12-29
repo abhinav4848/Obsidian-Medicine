@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 HbA1c target < 48 (i.e. Pre-diabetic levels are acceptable)
-NICE PDF: [https://www.nice.org.uk/guidance/ng28](https://www.nice.org.uk/guidance/ng28)
+*See NICE Flowchart: [NICE](https://www.nice.org.uk/guidance/ng28) *  
 
 *See [[diabetes- antidiabetic drugs]].* 
 # Treatment based on target levels
@@ -14,13 +14,13 @@ If new diagnosis: Lifestyle advice
 If Lifestyle modification but still
 	HbA1c > 48: Start 1 drug (Metformin). Target for adding another drug is 58.
 	If instead of Metformin, sulphonylurea is started as 1st drug, target will be 53 instead of 58.
-If already on metformin but
+If already on metformin (or Metformin c/i), but
 	HbA1c 48 - 58: Reinforce advice about Lifestyle modification.
 	HbA1c > 58: 2nd drug (aka first intensification) and now target: 53.
-		- metformin + DPP-4 inhibitor
-		- metformin + pioglitazone
-		- metformin + sulfonylurea
-		- metformin + SGLT-2 inhibitor (if NICE criteria met)
+		- metformin + DPP-4 inhibitor (gliptin)
+		- metformin + pioglitazone 
+		- metformin + sulfonylurea 
+		- metformin + SGLT-2 inhibitor (if [[diabetes- antidiabetic drugs#Glucose excretion|NICE criteria]] met)
 
 If still not controlled, 2nd intensification. Or if other drugs c/i: consider insulin
 - metformin + DPP-4 inhibitor + sulfonylurea

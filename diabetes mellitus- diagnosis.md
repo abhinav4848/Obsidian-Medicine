@@ -22,7 +22,7 @@ Or
 % is mmol per mol
 
 # Tests
-OGTT is diagnostic for [[gestational diabetes|diabetes in pregnancy]]. It's not recommended for diagnosing DM.
+OGTT is diagnostic for [[diabetes- gestational|diabetes in pregnancy]]. It's not recommended for diagnosing DM.
 HbA1c is not suitable for diagnosing DM in children. Do FBS.
 
 Fresh patient with c/f, do FBG (not RBG), cuz it's cheaper than HbA1c.

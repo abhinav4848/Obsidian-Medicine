@@ -7,6 +7,7 @@ aliases:
   - diabetes in pregnancy
   - GDM
   - gestational diabetes mellitus
+  - gestational diabetes
 ---
 # Risk factors for gestational diabetes
 - BMI of > 30 kg/m²
@@ -35,7 +36,7 @@ GDM is diagnosed if either:
 | ----------- | ------------- |
 | 2 hour OGTT | >= 7.8        |
 
-See [[diagnosing diabetes mellitus]]
+See [[diabetes mellitus- diagnosis]]
 
 # Management of GDM
 

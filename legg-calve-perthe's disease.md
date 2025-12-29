@@ -7,6 +7,7 @@ urls:
   - https://gpnotebook.com/en-GB/pages/orthopaedics/perthes-disease
 ---
 *See [[paeds ortho diff- ddh, perthe's, sufe]]*
+*See [[lower limb ortho problems]]* 
 
 ---
 Degenerative condition of hip joints in [[limping child|children]] aged 3 - 9 years. (more common in boys & 10% cases are b/l)

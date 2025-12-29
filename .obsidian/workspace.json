@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lower limb ortho problems.md",
+                "file": "diabetes- antidiabetic drugs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "lower limb ortho problems"
+              "title": "diabetes- antidiabetic drugs"
             }
           },
           {
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "limping",
+                "query": "diabete",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lower limb ortho problems.md",
+                "file": "diabetes- antidiabetic drugs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lower limb ortho problems"
+              "title": "Backlinks for diabetes- antidiabetic drugs"
             }
           }
         ]
@@ -263,7 +263,16 @@
   },
   "active": "a5eeccf717fd8988",
   "lastOpenFiles": [
+    "diabetes treatment.md",
+    "housekeeping/gp guidelines- dermat.md",
     "osteochondritis dissecans.md",
+    "diabetes- antidiabetic drugs.md",
+    "diabetes insipidus.md",
+    "diabetes mellitus- diagnosis.md",
+    "diabetes- gestational.md",
+    "diabetes- pre-op control.md",
+    "afro-caribbean.md",
+    "lower limb ortho problems.md",
     "osgood-schlatter.md",
     "limping child.md",
     "chondromalacia patellae.md",
@@ -275,20 +284,11 @@
     "developmental dysplasia of the hip.md",
     "juvenile idiopathic arthritis.md",
     "baker's cyst.md",
-    "lower limb ortho problems.md",
     "growing pains.md",
     "retinopathy.md",
     "transient synovitis.md",
     "slipped upper femoral epiphysis.md",
     "paeds ortho diff- ddh, perthe's, sufe.md",
-    "stunted growth.md",
-    "upper limb ortho problems.md",
-    "ophthalmoscopy.md",
-    "macular degeneration.md",
-    "housekeeping/gp guidelines- dermat.md",
-    "eczema.md",
-    "cancers metastasizing to the bone.md",
-    "mscc.md",
     "housekeeping/revise recent changes.base",
     "attachments/eyewiki- Hypertensive retinopathy.jpg",
     "attachments/eyewiki- Hypertensive retinopathy.png",
