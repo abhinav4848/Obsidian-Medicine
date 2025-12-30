@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diabetes treatment.md",
+                "file": "diabetes- antidiabetic drugs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "diabetes treatment"
+              "title": "diabetes- antidiabetic drugs"
             }
           }
         ],
@@ -106,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "beta agonist",
+                "query": "iabetes",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diabetes treatment.md",
+                "file": "diabetes- antidiabetic drugs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for diabetes treatment"
+              "title": "Backlinks for diabetes- antidiabetic drugs"
             }
           }
         ]
@@ -269,10 +269,10 @@
   },
   "active": "a5eeccf717fd8988",
   "lastOpenFiles": [
+    "diabetes treatment.md",
     "beta adrenergic receptors.md",
     "hyperglycemia.md",
     "hypoglycemia.md",
-    "diabetes treatment.md",
     "lower limb ortho problems.md",
     "diabetes mellitus- diagnosis.md",
     "diabetes- antidiabetic drugs.md",
