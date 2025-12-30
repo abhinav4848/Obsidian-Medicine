@@ -43,32 +43,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diabetes treatment.md",
+                "file": "beta adrenergic receptors.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "diabetes treatment"
-            }
-          },
-          {
-            "id": "e308c41a612e50a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "osteochondritis dissecans.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "osteochondritis dissecans"
+              "title": "beta adrenergic receptors"
             }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "2593489f2f559042",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1294104a72b63a36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "diabetes- antidiabetic drugs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "diabetes- antidiabetic drugs"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diabete",
+                "query": "beta agonist",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -231,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diabetes treatment.md",
+                "file": "beta adrenergic receptors.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +247,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for diabetes treatment"
+              "title": "Backlinks for beta adrenergic receptors"
             }
           }
         ]
@@ -263,16 +269,19 @@
   },
   "active": "a5eeccf717fd8988",
   "lastOpenFiles": [
-    "diabetes- antidiabetic drugs.md",
+    "hyperglycemia.md",
+    "beta adrenergic receptors.md",
+    "hypoglycemia.md",
     "diabetes treatment.md",
+    "lower limb ortho problems.md",
     "diabetes mellitus- diagnosis.md",
+    "diabetes- antidiabetic drugs.md",
     "housekeeping/gp guidelines- dermat.md",
     "osteochondritis dissecans.md",
     "diabetes insipidus.md",
     "diabetes- gestational.md",
     "diabetes- pre-op control.md",
     "afro-caribbean.md",
-    "lower limb ortho problems.md",
     "osgood-schlatter.md",
     "limping child.md",
     "chondromalacia patellae.md",
@@ -286,9 +295,6 @@
     "baker's cyst.md",
     "growing pains.md",
     "retinopathy.md",
-    "transient synovitis.md",
-    "slipped upper femoral epiphysis.md",
-    "paeds ortho diff- ddh, perthe's, sufe.md",
     "housekeeping/revise recent changes.base",
     "attachments/eyewiki- Hypertensive retinopathy.jpg",
     "attachments/eyewiki- Hypertensive retinopathy.png",

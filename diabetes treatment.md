@@ -6,9 +6,6 @@ aliases:
 urls:
   - https://www.nice.org.uk/guidance/ng28
 ---
-*See [[diabetes- antidiabetic drugs]].* 
-
----
 HbA1c target < 48 (i.e. Pre-diabetic levels are acceptable)
 	*See [[diabetes mellitus- diagnosis]]*
 # Treatment based on target levels
@@ -45,9 +42,10 @@ If still HbA1c > 58, add another drug from above list (2nd intensification).
 		 - weight loss would benefit other significant obesity related comorbidities. 
 ---
 # Treatment based on appropriate drug to use
-If high risk of CVD/established CVD/HF -> Metformin, once established, add SGLT-2 inhibitor  
+*See [[diabetes- antidiabetic drugs]].* 
+If high risk of CVD/established CVD/HF -> Metformin and once established, add SGLT-2 inhibitor  
 
-If no risk of HF: Metformin
+If no risk of HF: Metformin 
 ## Scenario:  
 If Metformin not tolerated -> Modified release Metformin.  
 If Metformin C/I
@@ -60,6 +58,6 @@ If Metformin C/I
 | DM2 in obese with impaired RFT                                                                    | Give insulin or gliptins (DDP4 inhibitors. Avoid this if HF)                                                                                                                    |
 | If DM with obese only                                                                             | start metformin.                                                                                                                                                                |
 | If DM with impaired renal only                                                                    | Gliptins, Repaglinide.                                                                                                                                                          |
-| Beta 2 agonists (Salbutamol)                                                                      | can cause hyperglycemia, & hypokalemia so monitor.                                                                                                                              |
+| [[beta adrenergic receptors\|beta 2 agonist]]s (Salbutamol)                                       | can cause [[hyperglycemia]], & [[hypokalemia]] so monitor.                                                                                                                      |
 | Beta blockers                                                                                     | cause hypoglycemia. They can also mask features of hypoglycemia like tachycardia, sweating.                                                                                     |
 | All diabetics with confirmed microalbuminuria (& eGFR > 30)                                       | Give [[ace inhibitors\|ACE]]i even if normotensive > Atorvastatin 20mg (irrespective of lipid profile). Metformin commenced based on results of lifestyle modification & HbA1c. |

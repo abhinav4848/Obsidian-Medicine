@@ -9,7 +9,7 @@ Can occur during sports when player collapses with features of hypoglycemia.
 1. Alcohol (commonest cause in adults)
 2. Liver failure (impaired gluconeogenesis),
 3. Relative disbalance vs glucose & insulin
-4. **Drugs**: Excess PCT/Aspirin, Sulphonylureas (Glibenclamide, Gliclazide)
+4. **Drugs**: Excess PCT/Aspirin, Sulphonylureas (Glibenclamide, Gliclazide), [[beta adrenergic receptors#Liver|beta blockers]]. 
 5. Addison's disease: Low cortisol -> Low glucose.
 6. Insulinoma
 
