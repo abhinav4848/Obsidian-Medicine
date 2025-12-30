@@ -6,28 +6,28 @@ aliases:
   - beta 2 antagonist
   - beta blockers
 ---
-Beta 2 agonists:
-- SABA: salbutamol, terbutaline, 
-- LABA: formoterol, salmeterol
-
-Beta blockers:
+#### Beta 2 agonists:
+- SABA: salbutamol, terbutaline. 
+- LABA: formoterol, salmeterol. 
+	- *See [[asthma- drugs]].* 
+#### Beta blockers:
 - Bisoprolol, Atenolol
 ---
-# Sites
+# Site specific action
 ### Lung
 - Bronchodilation
 ### Heart
 - Vasodilation -> Mild decrease in diastolic BP
 - Reflex tachycardia
-### Skeletal muscle
+### Skeletal muscle 
 - Beta 2 receptors -> Increased K+ uptake -> [[hypokalemia]]
-- May cause tremor, mainly to hands. 
+- Contraction -> May cause tremor, mainly to hands. 
 ### Liver 
 - Beta 2 stimulation -> Glycogenolysis -> transient [[hyperglycemia]]
 	- (So beta blockers can cause [[hypoglycemia]]). 
 ### Other smooth muscles
-- **Gut:** mild relaxation → slowed peristalsis
-- **Bladder / ureter:** minimal relaxation
+- **Gut:** relaxation → slowed peristalsis
+- **Bladder / ureter:** relaxation
 - **Vascular beds:** peripheral vasodilation (hands/feet → sometimes flushing)
 ### Uterus
 - used historically as tocolytics

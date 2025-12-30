@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beta adrenergic receptors.md",
+                "file": "diabetes treatment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "beta adrenergic receptors"
+              "title": "diabetes treatment"
             }
           }
         ],
@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "beta adrenergic receptors.md",
+                "file": "diabetes treatment.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for beta adrenergic receptors"
+              "title": "Backlinks for diabetes treatment"
             }
           }
         ]
@@ -269,8 +269,8 @@
   },
   "active": "a5eeccf717fd8988",
   "lastOpenFiles": [
-    "hyperglycemia.md",
     "beta adrenergic receptors.md",
+    "hyperglycemia.md",
     "hypoglycemia.md",
     "diabetes treatment.md",
     "lower limb ortho problems.md",
