@@ -19,6 +19,6 @@ If must be used, give 5mg Folic acid daily.
 Very small risk of 
 - severe cutaneous adverse reactions (SJS, [[erythema multiforme]], exfoliative dermatitis)
 - Bone marrow suppression: 
-	- agranulocytosis
+	- agranulocytosis 
 	- thrombocytopenia
 	- patients and their carers should be told to seek immediate medical attention if symptoms such as fever, sore throat, rash, mouth ulcers, purpura, bruising or bleeding develop. The BNF also recommends regular FBC. 

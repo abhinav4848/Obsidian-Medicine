@@ -4,7 +4,7 @@ tags:
 ---
 *See other [[erythemas]], and [[shin lesions]].*
 
-![[erythema nodosum.png]]
+![[erythema nodosum.jpg]]
 ![[erythema nodosum 2.png]]
 - Painful, purple tender erythematous nodules over shins.
 - Inflammation of s.c. fat. (*see [[Shin lesions]] for ddx*)
