@@ -19,7 +19,7 @@ If infection was confirmed; Re-test the urine for blood with a dipstick after co
 
 See [[cancer- urology|urological cancer]]. 
 # Treatment
-Treat with Nitro/Trimethoprim. #abx
+Treat with Nitro/[[Trimethoprim]]. #abx
 
 **Non-pregnant female**: 3 days 
 Extend antibiotics to 5-10 days if: 
@@ -35,7 +35,7 @@ Extend antibiotics to 5-10 days if:
 
 ## Pregnant women
 Pregnant female: 7 days (for symptomatic or asymptomatic bacteriuria)
-- trimethoprim [[drugs contraindicated in pregnancy|c/i in first trimester]] (anti-folate)
+- [[trimethoprim]] [[drugs contraindicated in pregnancy|c/i in first trimester]] (anti-folate)
 - [[nitrofurantoin]] should be avoided near term
 	- *can give amoxicillin or cefalexin*
 - **Asymptomatic bacteriuria** is treated because there's high risk of progression to acute [[pyelonephritis]]. 

@@ -11,7 +11,7 @@ Can give amoxicillin & ciprofloxacin but at reduced dose.
 # Side effect of toxicity 
 - (free radical generation): Peripheral neuropathy, Hepatotoxicity, Pulmonary fibrosis. 
 - Discolours urine but that's harmless.
-- (Trimethoprim raises Creatinine but doesn't affect kidney function)
+- ([[trimethoprim]] raises Creatinine but doesn't affect kidney function)
 
 Safe in [[drugs contraindicated in pregnancy|pregnancy]]. except in full term (1 week before, & 1 week after delivery) where there is risk of neonatal haemolysis. 
 

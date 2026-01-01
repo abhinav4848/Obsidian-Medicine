@@ -21,6 +21,7 @@ Lyme disease
 **Target lesion**
 - annular rash with scaly edges develops 3-30 days after h/o camping, walking in jungles.
 - Lesion is due to an actual infection at the site. This is a single rash that expands. 
+- ![[erythema chronicum migrans.jpg|300]]
 
 Other rashes in Lyme
 - Acrodermatitis chronica atrophicans (this is due to _B. afzelii_)

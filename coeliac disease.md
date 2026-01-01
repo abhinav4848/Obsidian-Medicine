@@ -28,7 +28,7 @@ Inability to tolerate gliadin, the alcohol soluble fraction of gluten that confe
 7. lactose intolerance
 8. subfertility, unfavourable pregnancy outcomes
 
-![[coeliac disease- dermatitis herpetiformis.png]]
+![[coeliac disease- dermatitis herpetiformis.png|300]]
 
 # Test for antibody
 Eat gluten for at least 6 weeks before being tested. Else Gluten-free diet can result false negative results. This is important because if patient doesn't have coeliac, it'll be quite restrictive to their lifestyle to avoid gluten for no reason. 

@@ -45,7 +45,7 @@ Prolonged and gradual onset
 Worsening flu like symptoms precede a dry cough
 ### Complications
 - [[Autoimmune hemolytic anemia]] ([[ITP]]) due to Cold agglutinins (IgM),
-- [[Erythema multiforme]], Erythema nodosum
+- [[erythema multiforme]], Erythema nodosum
 	Erythe`ma` multiforme: Mycoplas`ma`
 - **Bullous myringitis**: painful vesicles on the tympanic membrane
 ### Less imp points
