@@ -7,7 +7,14 @@ aliases:
   - prostatitis
   - PSA test
 ---
-# BPH	
+# Manage patient coming with urinary symptoms
+1. Get bloods done- FBC, U&e, LFT, HbA1c, Bone profile, [[prostate#PSA test|PSA]]
+2. get urine dip to rule out infection. Referral for 2ww includes question on whether you tested for UTI. 
+3. DRE 
+4. Risk factors for [[cancer- prostate|Prostate Cancer]]: Age > 50, [[afro-caribbean]], family history. 
+5. if there's haematuria, then wonder where it could come from- [[cancer- urology|bladder]], kidney, possibly prostate. That's where smoking becomes a risk factor for kidney/bladder cancers. It's not a risk factor towards prostate cancer itself. 
+
+## BPH
 **Alpha-1 blockers**: Tamsulosin, doxazosin, alfuzosin
 - **s/e**: Postural hypotension, Drowsiness, Dyspnoea, Cough
 - Alpha blockers are given to relax smooth muscles of bladder and prostate for fast relief (BPH can cause acute retention). And also if just LUT features. But it doesn't slow the growth of BPH. 
@@ -21,15 +28,15 @@ Surgery: TURP
 - **s/e**: Hyponatremia: Confusion & Agitation. 
 
 ---
-# Prostate Cancer
+## Prostate Cancer
 [[cancer- prostate]]. 
 
 ---
 # Prostatitis
 Can be post biopsy: E coli is common cause
 ## Clinical Features
-Cloudy urine and foul smell, abdominal pain
-
+Cloudy urine and foul smell, abdominal pain.
+Will be tender on DRE. 
 ## Treatment
 If patient normal: E coli
 	**Rx**: Quinolone ([[ciprofloxacin]], ofloxacin) > Co-trimoxazole #abx 
@@ -41,10 +48,11 @@ If immunocompromised: Pseudomonas
 
 ---
 # PSA test
-*[[cancer- screening programs]]*
-*[[tumour marker]]*
+See: *[[cancer- screening programs]] & [[tumour marker]]*
 
 Not a sensitive test. 
+3/4th of raised PSAs can be normal. 
+
 NICE says 'If a hard, irregular prostate typical of a prostate carcinoma is felt on rectal examination, then the patient should be referred urgently. The PSA should be measured and the result should accompany the referral.'
 
 However in an asymptomatic patient where you can't do PSA yet, a digital rectal examination is not a substitute for a PSA test.
@@ -56,7 +64,7 @@ Don’t have before test:
 	4 wk.: UTI (PSA is always high during & after UTI), Prostatitis
 	6 wk.: prostate biopsy
 	
-Levels:
+PSA levels rise naturally with age, so thresholds: 
 	40-49: >=2
 	50-69: >=3
 	Over 70: >=5

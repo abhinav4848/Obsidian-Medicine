@@ -6,6 +6,8 @@ urls:
 aliases:
   - atopic eczema
   - atopic dermatitis
+OHGp 5th Ed:
+  - "563"
 ---
 *See [[atopic diseases]].* 
 See PCDS link for paediatric eczema (0-12 years). 
