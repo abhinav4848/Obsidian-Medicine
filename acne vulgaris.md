@@ -3,6 +3,8 @@ tags:
   - dermat
 urls:
   - https://dermnetnz.org/topics/acne-vulgaris
+  - https://www.pcds.org.uk/files/general/Acne-Pathway-2024-final-proof.pdf
+  - https://www.pcds.org.uk/clinical-guidance/acne-vulgaris
 ---
 Occurs in adolescence
 - Androgen levels are normal however. 
@@ -22,6 +24,7 @@ Benzoyl peroxide used especially if papules and pustules are present.
 ### Mod-Severe
 12 weeks FDC of topicals as above, or
 - Topical azelaic acid + either oral lymecycline or oral doxycycline
+Patients should be advised on sun protection if using oral tetracyclines and topical retinoids as both increase photosensitivity. 
 ### Severe
 Refer all severe cases to Specialists.
 

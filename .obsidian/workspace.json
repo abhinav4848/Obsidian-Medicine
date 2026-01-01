@@ -80,13 +80,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-31.md",
+                "file": "cancer- prostate.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-31"
+              "title": "cancer- prostate"
             }
           }
         ],
@@ -253,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-12-31.md",
+                "file": "cancer- prostate.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-12-31"
+              "title": "Backlinks for cancer- prostate"
             }
           }
         ]
@@ -285,8 +285,10 @@
   },
   "active": "1b882ba74ceb1c51",
   "lastOpenFiles": [
-    "drugs contraindicated in pregnancy.md",
+    "afro-caribbean.md",
     "2025-12-31.md",
+    "acne vulgaris.md",
+    "drugs contraindicated in pregnancy.md",
     "uti.md",
     "nitrofurantoin.md",
     "trimethoprim.md",
@@ -320,7 +322,6 @@
     "diabetes insipidus.md",
     "diabetes- gestational.md",
     "diabetes- pre-op control.md",
-    "afro-caribbean.md",
     "housekeeping/revise recent changes.base",
     "housekeeping/memorise.base",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
