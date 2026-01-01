@@ -26,6 +26,11 @@ Topical corticosteroid preparation potencies (*Oxford handbook GP 5th ed Page 56
 | Moderate    | Betamethasone valerate 0.025% (Betnovate®-​RD), Eumovate® <br>• *With antimicrobials* Trimovate®<br>• *With [[urea]]* Alphaderm                                                            |
 | Potent      | Betamethasone valerate 0.1% (Betnovate®), Betacap®, Elocon®, Locoid®, Synalar®<br>• *With antimicrobials* Aureocort®, Betnovate®-C or -N, Fucibet® <br>• *With salicylic acid* Diprosalic® |
 | Very Potent | Dermovate®, Nerisone® Forte<br>• *With antimicrobials* Dermovate®-N                                                                                                                        |
+### What is the role of 
+[[Urea]]
+Crotamiton: Antipruritic, Mild scabicidal activity.
+	Comes as Eurax cream without steroid as well. 
+	Used for: Generalised pruritus (helps break itch-scratch cycle), Eczema-related itch, Scabies (second-line or alternative if permethrin unsuitable). 
 # Side effect
 - [[osteoporosis]]: No pain. Directly bone # (Osteomalacia is painful)
 - Avascular necrosis of hip

@@ -1,11 +1,13 @@
 ---
 tags:
   - dermat
+urls:
+  - https://www.pcds.org.uk/clinical-guidance/psoriasis-an-overview
 ---
 *See [[Psoriasis]] for all other types*
 
 Not to be confused with [[Actinic keratosis]].
-# Aetiology
+# Aetiology 
 - Has family history. 
 - Can be triggered by stress/throat infections and can go away on its own. 
 - Relapsing nature. 

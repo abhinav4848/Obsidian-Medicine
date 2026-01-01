@@ -7,7 +7,7 @@ aliases:
   - hematemesis
   - Upper GI bleed
 ---
-An upper gastrointestinal bleed can act as a 'protein meal' and cause a temporary, **disproportionate rise in the blood urea**.
+An upper gastrointestinal bleed can act as a 'protein meal' and cause a temporary, **disproportionate rise in the blood [[urea]]**.
 # Causes
 1. **Oesophageal**: 
 	1. [[variceal hemorrhage|varices]] (in [[cirrhosis|liver cirrhosis]]), 

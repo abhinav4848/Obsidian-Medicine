@@ -80,13 +80,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plaque psoriasis.md",
+                "file": "urea.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "plaque psoriasis"
+              "title": "urea"
             }
           }
         ],
@@ -253,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plaque psoriasis.md",
+                "file": "urea.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for plaque psoriasis"
+              "title": "Backlinks for urea"
             }
           }
         ]
@@ -286,17 +286,20 @@
   "active": "1b882ba74ceb1c51",
   "lastOpenFiles": [
     "corticosteroid.md",
-    "plaque psoriasis.md",
-    "psoriasis.md",
     "urea.md",
+    "sarcoidosis.md",
+    "hypercalcemia.md",
+    "upper gi bleed.md",
     "lichens.md",
+    "psoriasis.md",
+    "plaque psoriasis.md",
+    "diabetes- antidiabetic drugs.md",
     "eczema.md",
     "steroids.md",
     "osteoporosis.md",
     "2025-12-31.md",
     "prostate.md",
     "addison's disease.md",
-    "diabetes- antidiabetic drugs.md",
     "cancer- urology.md",
     "flow charts/haematuria.canvas",
     "cancer- prostate.md",
@@ -309,9 +312,7 @@
     "erythema multiforme.md",
     "erythemas.md",
     "erythema nodosum.md",
-    "lyme disease.md",
     "attachments/erythema nodosum.jpg",
-    "erythema nodoum.md",
     "attachments/erythema multiforme.jpg",
     "attachments/erythema marginatum.jpg",
     "attachments/erythema infectiosum.jpg",
@@ -321,7 +322,6 @@
     "attachments/erythema chronicum migrans.jpg",
     "attachments/coeliac disease- dermatitis herpetiformis 2.png",
     "attachments/erythema gyratum repens.png",
-    "coeliac disease.md",
     "to learn",
     "housekeeping/revise recent changes.base",
     "housekeeping/memorise.base",
