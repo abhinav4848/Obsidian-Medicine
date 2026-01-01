@@ -52,7 +52,7 @@ For your leave-on moisturiser, switch to a bland, simple emollient that does not
 ## Steroids 
 > [!Topical Steroids] 
 > Apply thinly for short duration. Mostly rely on
-> - **Mild strength**: Hydrocortisone acetate 0.5, 1, or 2.5% (Daktacort)
+> - **Mild strength**: Hydrocortisone acetate 0.5, 1, or 2.5% ([Daktacort](https://bnf.nice.org.uk/drugs/hydrocortisone-with-miconazole/medicinal-forms/))
 > - **Moderate strength**: Betamethasone valerate (0.025%), Clobetasone (Eumovate)
 > - **Potent strength**:
 > 	- Betamethasone valerate (0.1%) (Betnovate),

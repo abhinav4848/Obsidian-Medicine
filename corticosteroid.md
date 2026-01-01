@@ -19,19 +19,21 @@ For [[polymyalgia rheumatica|PMR]], the weaning regiment is very long. Up to 2 y
 | Dexamethasone,  <br>Betamethasone | +++            | -                 |
 # Topical steroid preparations
 Topical corticosteroid preparation potencies (*Oxford handbook GP 5th ed Page 563*)
+*See [[eczema#Steroids]] for context.* 
 
-| Potency     | Examples                                                                                                                                                                                   |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Mild        | Hydrocortisone 0.1–2.5%, Dioderm®, Mildison®, Synalar® 1 in 10<br>• *With antimicrobials* Canesten® HC, Fucidin® H, Timodine®<br>• *With crotamiton* Eurax-Hydrocortisone®                 |
-| Moderate    | Betamethasone valerate 0.025% (Betnovate®-​RD), Eumovate® <br>• *With antimicrobials* Trimovate®<br>• *With [[urea]]* Alphaderm                                                            |
-| Potent      | Betamethasone valerate 0.1% (Betnovate®), Betacap®, Elocon®, Locoid®, Synalar®<br>• *With antimicrobials* Aureocort®, Betnovate®-C or -N, Fucibet® <br>• *With salicylic acid* Diprosalic® |
-| Very Potent | Dermovate®, Nerisone® Forte<br>• *With antimicrobials* Dermovate®-N                                                                                                                        |
-### What is the role of 
-[[Urea]]
-Crotamiton: Antipruritic, Mild scabicidal activity.
-	Comes as Eurax cream without steroid as well. 
+| Potency     | Examples                                                                                                                                                                                    |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mild        | Hydrocortisone 0.1–2.5%, Dioderm®, Mildison®, Synalar® 1 in 10<br>• *With antimicrobials* Canesten® HC, Fucidin® H, Timodine®<br>• *With crotamiton* Eurax-Hydrocortisone®                  |
+| Moderate    | Betamethasone valerate 0.025% (Betnovate®-​RD), Eumovate® <br>• *With antimicrobials* Trimovate® (clobetasone, nystatin, oxytetracycline)<br>• *With [[urea]]* Alphaderm                    |
+| Potent      | Betamethasone valerate 0.1% (Betnovate®), Betacap®, Elocon®, Locoid®, Synalar® <br>• *With antimicrobials* Aureocort®, Betnovate®-C or -N, Fucibet® <br>• *With salicylic acid* Diprosalic® |
+| Very Potent | Dermovate®, Nerisone® Forte<br>• *With antimicrobials* Dermovate®-N                                                                                                                         |
+## What is the role of 
+1. [[Urea]]
+2. **Crotamiton**: Antipruritic, Mild scabicidal activity.
+	Comes as Eurax cream with/without steroid. 
 	Used for: Generalised pruritus (helps break itch-scratch cycle), Eczema-related itch, Scabies (second-line or alternative if permethrin unsuitable). 
-# Side effect
+3. **Trimovate**: It's a brand name for clobetasone (a topical corticosteroid) with nystatin (an antifungal) and oxytetracycline (a tetracycline antibiotic). Can be used for someone with skin infection suspected post course of abx. 
+# Side effect of steroids
 - [[osteoporosis]]: No pain. Directly bone # (Osteomalacia is painful)
 - Avascular necrosis of hip
 - Cataract
