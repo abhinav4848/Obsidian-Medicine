@@ -1,5 +1,7 @@
 ---
 tags:
   - abx
+  - pharmacology
 ---
-Co-Trimox used for HIV leading to PCP, Hospital acquired pneumonia,
+Has sulphamethoxazole, [[trimethoprim]]
+Co-Trimox is used for HIV leading to PCP, Hospital acquired pneumonia

@@ -34,15 +34,15 @@ Metformin also reduces hepatic gluconeogenesis
 ## Glucose excretion
 SGLT1 works in descending tubules and absorbs 10% glucose and SGLT2 in proximal tubule absorbs 90% of glucose. So when SGLT2 inhibits, it prevents Na:Glucose::1:1 reabsorption. 
 
-| Class             | Medication                                      | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| ----------------- | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| SGLT-2 inhibitors | Gliflozin<br>(empa, cana, dapa, ertu-gliflo Works on & inhibits reabsorption of glucose in renal tubules.<br><br>Reduces weight. <br>-> Indicated in risk of Heart Failure/CVD/Q-Risk > 10%<br><br>Contraindicated if GFR <60<br>can cause electrolyte disturbance<br><br>Euglycemia DKA if risk of dehydration when ill, so discuss: <br>-> Should maintain adequate fluid intake.<br>-> Sick day rules<br>Fournier's gangrene<br>Can cause UTI due to excretion of glucose in urine. <br>Fungal genital infections- thrush.  -  -  -  |
+| Class             | Medication                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Notes |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| SGLT-2 inhibitors Gliflozin<br>(empa, cana, dapa, ertu-gliflo Works on & inhibits reabsorption of glucose in renal tubules.<br><br>Reduces weight. <br>-> Indicated in risk of Heart Failure/CVD/Q-Risk > 10%<br><br>Contraindicated if GFR <60<br>can cause electrolyte disturbance<br><br>Euglycemia DKA if risk of dehydration when ill, so discuss: <br>-> Maintain adequate fluid intake.<br>-> [[Sick day rules]]<br>Fournier's gangrene<br>Can cause UTI due to excretion of glucose in urine. <br>- Fungal genital infections- thrush.  .  |       |
 #### NICE criteria for SGLT-2 
 If not high CVD risk: ([link to flowchart](https://www.nice.org.uk/guidance/ng28))
 - SGLT2 can be monotherapy if Metformin not acceptable, & lifestyle changes didn't provide adequate glycaemic control. 
 - The SGLT2 inhibitors are recommended only if a DPP-4 inhibitor (gliptin) would otherwise be prescribed and a sulfonylurea or pioglitazone is not appropriate. 
 
-If CHF/established atherosclerotic CVD, then offer | if high CVD risk >10%, offer: 
+If CHF/established atherosclerotic CVD, then offer / if high CVD risk >10%, offer: 
 - Start metformin alone to assess tolerability before adding an SGLT2 inhibitor
 - Once you know tolerance to Metformin, start SGLT2 inhibitor (either alone or with metformin)
 
@@ -57,7 +57,7 @@ Acarbose (alpha-1 glucosidase inhibitors). Not common in UK. Inhibits enzymes fo
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | With bad kidneys (GFR < 30), avoid MS    | Metformin, Sulfonylurea                                                                                                          |
 | Renal **safe** drugs                     | RIP: Repaglinide, Linagliptin, Pioglitazone                                                                                      |
-| With obesity,<br><br>avoid P(q)RS        | Pioglitazones, Repaglinide, Sulfonylurea.<br><br>Rest cause weight loss.<br><br>Gliptins (DPP-4 inhibitors) don’t affect weight. |
+| With obesity,<br><br>==avoid== P(q)RS    | Pioglitazones, Repaglinide, Sulfonylurea.<br><br>Rest cause weight loss.<br><br>Gliptins (DPP-4 inhibitors) don’t affect weight. |
 | RS (no P) have high risk of hypoglycemia | Repaglinide, Sulfonylurea.                                                                                                       |
 | Pancreatitis                             | avoid Gliptins (DDP-4 inhibitors)                                                                                                |
 | Heart failure (4 chambers)               | avoid Gliptins (DDP-4 inhibitors)<br><br>also avoid Glitazones in HF as can cause  peripheral edema.                             |
