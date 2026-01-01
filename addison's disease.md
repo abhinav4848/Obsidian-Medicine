@@ -26,19 +26,13 @@ Do ACTH stimulation test: **Short Synacthen test** #named > send 9 am serum cort
 - 100-150: Do ACTH stimulation test
 
 # Treatment
+*see [[corticosteroid|steroid]].* 
 **Combination of both**
 	Hydrocortisone 20-30mg/day in 2-3 divided doses,
 	Fludrocortisone.
 
 **If intercurrent illness**
-	Double glucocorticoid dose -> im Hydrocortisone 100mg.
+	Double glucocorticoid dose -> i.m. Hydrocortisone 100mg.
 	Fludrocortisone dose stays same
 
-MedicAlert bracelet, Steroid card.
-
-| [[Steroids]]                      | Glucocorticoid | Mineralocorticoid |
-| --------------------------------- | -------------- | ----------------- |
-| Fludrocortisone                   | -              | +++               |
-| Hydrocortisone                    | +              | ++                |
-| Prednisolone                      | ++             | +                 |
-| Dexamethasone,  <br>Betamethasone | +++            | -                 |
+![[corticosteroid#Long term steroids- Extra steps for patients on them|steroid]]

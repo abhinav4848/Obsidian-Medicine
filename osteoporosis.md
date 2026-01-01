@@ -3,7 +3,7 @@ tags:
   - ortho
 urls: https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/search/?_search_terms=osteoporosis
 ---
-Long term use of [[steroids]] can cause osteoporosis and make teeth lose. So do DEXA for them.
+Long term use of [[corticosteroid|steroids]] can cause osteoporosis and make teeth lose. So do DEXA for them.
 
 **Other drugs**: PPIs, Glitazones, SSRIs, Antiepileptics, Long term Heparin, aromatase inhibitors: Anastrozole (prevents formation of Oestrogen).
 
