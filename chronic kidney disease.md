@@ -3,6 +3,7 @@ tags:
   - nephrology
 aliases:
   - CKD
+  - Chronic Kidney Disease
 OHGp 5th Ed:
   - "414"
 urls:
@@ -18,14 +19,14 @@ Use a combination of GFR & ACR categories & make a KDIGO grid:
 
 Also do a Kidney Failure Risk: https://kidneyfailurerisk.co.uk/ -> Predicts the 2y & 5y probability of ESRF in an individual with stage 3a to 5. So it's not valid if eGFR > 59
 Refer if ([NICE](https://www.nice.org.uk/guidance/ng203/chapter/Recommendations#risk-assessment-referral-criteria-and-shared-care))
-- 5 year risk is > 5%
+- 5 year risk is > 5% 
 - ACR >= 70 mg/mmol, unless known to be caused by diabetes and already appropriately treated
 - ACR > 30 mg/mmol (ACR category A3), together with haematuria
-- Sustained decrease in eGFR of 25% or more + a change in eGFR category within 12 months
-- Sustained decrease in eGFR of 15 ml/min/1.73 m2 or more per year
-- Hypertension that remains poorly controlled (above the person's individual target) despite the use of at least 4 antihypertensive medicines at therapeutic doses (see also [NICE's guideline on hypertension in adults](https://www.nice.org.uk/guidance/ng136))
-- known or suspected rare or genetic causes of CKD
-- suspected renal artery stenosis.
+- Sustained decrease in eGFR of >= 25% + a change in eGFR category within 12 months
+- Sustained decrease in eGFR of >= 15 ml/min/1.73 m2 per year 
+- [[Hypertension]] that remains poorly controlled (above the person's individual target) despite the use of at least 4 antihypertensive medicines at therapeutic doses (see also [NICE's guideline on hypertension in adults](https://www.nice.org.uk/guidance/ng136))
+- known or suspected rare / genetic causes of CKD 
+- suspected renal artery stenosis. 
 # Causes of CKD
 - Diabetic nephropathy
 - [[hypertension|HTN]] 
@@ -38,13 +39,25 @@ Refer if ([NICE](https://www.nice.org.uk/guidance/ng203/chapter/Recommendations#
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | CKD on hemodialysis s/e | most likely cause of death is IHD.<br><br>- due to several factors including hypertension, dyslipidaemia, anaemia and systemic inflammation<br>- Loss of antithrombin III in CKD increases risk for Thromboembolic event. |
 
-# Medications to adjust in CKD
+# Pharmacology in CKD
+## Managing Proteinuria
+*See [Visual summary of NICE in CKD](https://www.nice.org.uk/guidance/ng203), and [SGLT2 use in diabetics with CKD](https://www.nice.org.uk/guidance/ng28/chapter/Recommendations#chronic-kidney-disease)* 
+
+Adult with Diabetes: 
+- ACR < 3: monitor ACR, Creatinine & BP annually
+- ACR >= 3
+	- Offer [[ace inhibitors|ACE]] or ARB to max tolerated dose
+	- Offer [[diabetes- antidiabetic drugs#Glucose excretion|SGLT2 inhibitor]] if T2DM & ACR >=30 & criteria in license met
+		- Consider SGLT2 inhibitor if all the above, but ACR b/w 3 & 30. 
+
+## Medication safety in Kidney disease
 
 |                 |                                                                                                                                                                                                                                                                                     |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Avoid           | Avoid these drugs entirely:<br><br>- antibiotics: tetracycline, [[nitrofurantoin]]<br>- [[nsaid\|NSAIDs]]<br>- [[lithium]]<br>- [[diabetes- antidiabetic drugs\|metformin]]:  Reduce dose if GFR <45, Stop dose if eGFR <30. <br>- calcineurin inhibitors (ciclosporin, tacrolimus) |
 | Adjust dose     | Drugs likely to accumulate in chronic kidney disease - need dose adjustment<br><br>- most antibiotics: penicillins, cephalosporins, vancomycin, gentamicin, streptomycin<br>- digoxin, atenolol<br>- methotrexate<br>- sulphonylurea<br>- furosemide<br>- opioids                   |
 | Relatively safe | can sometimes use normal dose depending on the degree of CKD<br><br>- antibiotics: erythromycin, rifampicin<br>- diazepam<br>- warfarin                                                                                                                                             |
+### Some antibiotics in Kidney disease
 
 |                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -7,9 +7,12 @@ aliases:
   - Ramipril
   - ACE
 ---
+# Role in [[Hypertension]]
+First line if HTN + diabetes
+- But if no diabetes, first line only if <55 & not [[afro-caribbean]]. 
 # Role in Diabetes
 - Protects against diabetic retinopathy
-- Positive effect on glucose metabolism.
+- Positive effect on glucose metabolism. 
 # Damage to Kidneys
 - Reno-protective unless eGFR <30. 
 - U&e must be checked before & after treatment is initiated (3 weeks) and after increasing dose.

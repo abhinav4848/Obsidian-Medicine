@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diabetes- antidiabetic drugs.md",
+                "file": "chronic kidney disease.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "diabetes- antidiabetic drugs"
+              "title": "chronic kidney disease"
             }
           },
           {
@@ -69,40 +69,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "b9d254da193edda3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7bd5152d5c0ae1ae",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.nice.org.uk/guidance/ng203/chapter/Recommendations#risk-assessment-referral-criteria-and-shared-care",
-                "title": "Recommendations | Chronic kidney disease: assessment and management | Guidance | NICE",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Recommendations | Chronic kidney disease: assessment and management | Guidance | NICE"
-            }
-          },
-          {
-            "id": "8586dee054667b2f",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.nice.org.uk/guidance/ng203/chapter/Recommendations#risk-assessment-referral-criteria-and-shared-care",
-                "title": "Recommendations | Chronic kidney disease: assessment and management | Guidance | NICE",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Recommendations | Chronic kidney disease: assessment and management | Guidance | NICE"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proteinuria",
+                "query": "chronic kidney",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -265,6 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "chronic kidney disease.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +241,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for chronic kidney disease"
             }
           }
         ]
@@ -294,11 +261,17 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "7bd5152d5c0ae1ae",
+  "active": "1b882ba74ceb1c51",
   "lastOpenFiles": [
-    "chronic kidney disease.md",
-    "pre-eclampsia.md",
     "diabetes- antidiabetic drugs.md",
+    "chronic kidney disease.md",
+    "prostate.md",
+    "afro-caribbean.md",
+    "ace inhibitors.md",
+    "2025-12-31.md",
+    "hypertension.md",
+    "flow charts/hypertension management.canvas",
+    "pre-eclampsia.md",
     "systemic lupus erythematosis.md",
     "shin lesions.md",
     "keratoderma blennorrhagica.md",
@@ -314,14 +287,9 @@
     "eczema.md",
     "pyelonephritis.md",
     "retinopathy.md",
-    "2025-12-31.md",
     "osteoporosis.md",
     "asthma- new management 2024.md",
     "sarcoidosis.md",
-    "hypercalcemia.md",
-    "upper gi bleed.md",
-    "lichens.md",
-    "psoriasis.md",
     "flow charts/haematuria.canvas",
     "attachments/erythema nodosum.jpg",
     "attachments/erythema multiforme.jpg",
@@ -339,7 +307,6 @@
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "flow charts",
     "desktop.ini",
-    "flow charts/hypertension management.canvas",
     "Untitled.base",
     "attachments/atropa belladona.pdf",
     "flow charts/h. pylori treatment flowchart.canvas",
