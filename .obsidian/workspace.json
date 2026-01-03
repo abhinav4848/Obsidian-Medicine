@@ -66,6 +66,20 @@
               "icon": "lucide-file",
               "title": "ckd pharmacology"
             }
+          },
+          {
+            "id": "9a7bd01f20bd604a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://cks.nice.org.uk/topics/diabetes-type-2/prescribing-information/sglt-2-inhibitors/",
+                "title": "SGLT-2 inhibitors | Prescribing information | Diabetes - type 2 | CKS | NICE",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "SGLT-2 inhibitors | Prescribing information | Diabetes - type 2 | CKS | NICE"
+            }
           }
         ],
         "currentTab": 3
@@ -157,7 +171,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754585181185,
+                  "scale": 0.9999999850391019,
                   "close": true
                 }
               },
@@ -306,8 +320,8 @@
   },
   "active": "3c332c25168fe837",
   "lastOpenFiles": [
-    "copd- acute exacerbation.md",
     "ckd pharmacology.md",
+    "copd- acute exacerbation.md",
     "diabetes drugs.md",
     "chronic kidney disease.md",
     "ckd classification.md",

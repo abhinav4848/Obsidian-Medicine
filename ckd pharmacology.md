@@ -15,6 +15,7 @@ aliases:
 		- Consider SGLT2 inhibitor if all the above, but ACR b/w 3 & 30. 
 
 Avoid initiating SGLT2 if eGFR <60, and avoid continuation if <45.
+Dapagliflozin is licensed for CKD but don't start if if eGFR <15
 ## Medication safety in Kidney disease
 
 |                 |                                                                                                                                                                                                                                                                       |
