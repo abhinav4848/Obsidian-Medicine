@@ -37,17 +37,18 @@ SGLT1 works in descending tubules and absorbs 10% glucose and SGLT2 in proximal 
 | Class             | Medication                                   | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ----------------- | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | SGLT-2 inhibitors | Gliflozin<br>(empa, cana, dapa, ertu-gliflo) | Works on & inhibits reabsorption of glucose in renal tubules.<br><br>Reduces weight. <br>-> Indicated in risk of Heart Failure/CVD/Q-Risk > 10%<br><br>Contraindicated if GFR <60<br>can cause electrolyte disturbance<br><br>Euglycemia DKA if risk of dehydration when ill, so discuss: <br>-> Maintain adequate fluid intake.<br>-> [[Sick day rules]]<br>Fournier's gangrene<br>Can cause UTI due to excretion of glucose in urine. <br>- Fungal genital infections- thrush. |
-#### NICE criteria for SGLT-2 
-##### Diabetes
-If not high CVD risk: ([See Visual summary on T2DM](https://www.nice.org.uk/guidance/ng28))
+### NICE criteria for SGLT-2 
+- [NICE: SGLT2](https://cks.nice.org.uk/topics/diabetes-type-2/prescribing-information/sglt-2-inhibitors/)  
+##### Diabetes only
+If not high CVD risk: ([NICE: T2DM visual summary](https://www.nice.org.uk/guidance/ng28))
 - SGLT2 can be monotherapy if Metformin not acceptable, & lifestyle changes didn't provide adequate glycaemic control. 
 - The SGLT2 inhibitors are recommended only if a DPP-4 inhibitor (gliptin) would otherwise be prescribed, and a sulfonylurea or pioglitazone is not appropriate. 
 
 If CHF/established atherosclerotic CVD, then offer / if high CVD risk >10%, offer: 
 - Start metformin alone to assess tolerability before adding an SGLT2 inhibitor
 - Once you know tolerance to Metformin, start SGLT2 inhibitor (either alone or with metformin)
-##### CKD + Diabetes
-*See [[chronic kidney disease#Pharmacology in CKD|Chronic Kidney Disease]].* 
+##### Diabetes + CKD
+*See [[ckd pharmacology|Pharmacology in CKD]].* 
 
 ## Reduce dietary glucose absorption
 Acarbose (alpha-1 glucosidase inhibitors). Not common in UK. Inhibits enzymes for digestion of carbs, so taken with meals. Leads to flatulence & diarrhoea. 

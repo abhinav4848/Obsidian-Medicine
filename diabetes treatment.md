@@ -19,7 +19,7 @@ If Lifestyle modification but still HbA1c > 48:
 		- Pioglitazone, or 
 		- Sulfonylurea, or 
 			- If instead of Metformin, sulphonylurea is started as 1st drug, target for another drug will be 53 instead of 58.
-		- SGLT-2 inhibitor (if [[diabetes- antidiabetic drugs#NICE criteria for SGLT-2|NICE criteria]] met)
+		- SGLT-2 inhibitor (if [[diabetes drugs#NICE criteria for SGLT-2|NICE criteria]] met)
 
 If already on one drug, but
 	HbA1c 48 - 58: Reinforce advice about Lifestyle modification.
@@ -27,7 +27,7 @@ If already on one drug, but
 		- DPP-4 inhibitor (gliptin), or 
 		- Pioglitazone, or 
 		- Sulfonylurea, or 
-		- SGLT-2 inhibitor (if [[diabetes- antidiabetic drugs#NICE criteria for SGLT-2|NICE criteria]] met)
+		- SGLT-2 inhibitor (if [[diabetes drugs#NICE criteria for SGLT-2|NICE criteria]] met)
 
 If still HbA1c > 58, add another drug from above list (2nd intensification). 
 - if they were on Metformin, they'll now be on triple therapy (If someone is on triple therapy, one drug will always be Metformin). 
@@ -42,7 +42,7 @@ If still HbA1c > 58, add another drug from above list (2nd intensification).
 		 - weight loss would benefit other significant obesity related comorbidities. 
 ---
 # Treatment based on appropriate drug to use
-*See [[diabetes- antidiabetic drugs]].* 
+*See [[diabetes drugs]].* 
 If high risk of CVD/established CVD/HF -> Metformin and once established, add SGLT-2 inhibitor  
 
 If no risk of HF: Metformin 
