@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chronic kidney",
+                "query": "rashes in",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -106,8 +106,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -248,8 +247,11 @@
   },
   "active": "1b882ba74ceb1c51",
   "lastOpenFiles": [
-    "diabetes- antidiabetic drugs.md",
+    "CKD- pharmacology.md",
+    "different rashes in paeds.md",
     "chronic kidney disease.md",
+    "attachments/Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf",
+    "diabetes- antidiabetic drugs.md",
     "prostate.md",
     "afro-caribbean.md",
     "ace inhibitors.md",
@@ -273,8 +275,6 @@
     "pyelonephritis.md",
     "retinopathy.md",
     "osteoporosis.md",
-    "asthma- new management 2024.md",
-    "sarcoidosis.md",
     "flow charts/haematuria.canvas",
     "attachments/erythema nodosum.jpg",
     "attachments/erythema multiforme.jpg",
@@ -297,7 +297,6 @@
     "flow charts/h. pylori treatment flowchart.canvas",
     "_learnie/Questions",
     "_learnie/Note Revisions",
-    "_learnie",
     "_chicken Pox treatment flowchart (Work in progress).canvas",
     "Chicken Pox treatment flowchart (Work in progress).canvas"
   ]

@@ -17,7 +17,7 @@ Occurs in adolescence
 - adapalene (retinoid) with benzoyl peroxide, (brand: Epiduo 0.1%/2.5% gel. Apply OD in evening)
 - Add either oral lymecycline or oral doxycycline IF Moderate
 - [[retinoids|tretinoin]] with clindamycin, or
-- benzoyl peroxide with clindamycin
+- benzoyl peroxide with clindamycin (Brand: Duac. Use OD)
 
 Topical benzoyl peroxide can be used alone if contraindications exist or if the patient prefers to avoid retinoids or antibiotics.
 Benzoyl peroxide used especially if papules and pustules are present.

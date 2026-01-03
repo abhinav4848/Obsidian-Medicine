@@ -25,5 +25,6 @@ Rash- pink, sandpaper like, fine punctate erythema (pinhead). Doesn’t involve 
 
 ---
 See [[day named diseases]]
-See [[school in children with rash|school exclusion]]
+See [[school in children with rash|school exclusion]] 
 
+![[Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf]]
