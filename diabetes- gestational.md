@@ -50,7 +50,7 @@ See [[diabetes mellitus- diagnosis]]
 # Management of pre-existing DM
 - weight loss for women with BMI of > 27 kg/m^2
 - stop oral hypoglycaemic agents, apart from metformin, and commence insulin
-- folic acid 5 mg/day from pre-conception to 12 weeks gestation
+- [[folic acid]] 5 mg/day from pre-conception to 12 weeks gestation
 - detailed anomaly scan at 20 weeks including four-chamber view of the heart and outflow tracts
 - tight glycaemic control reduces complication rates
 - treat retinopathy as can worsen during pregnancy

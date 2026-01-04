@@ -12,7 +12,7 @@ See [BNF](https://bnf.nice.org.uk/drugs/trimethoprim/#trimethoprim-indication-3)
 300 mg BD
 
 # Pregnancy
-Anti-folate. Don't give in T1 (avoid entirely as per new guidance). 
+[[folic acid|anti-folate]]. Don't give in T1 (avoid entirely as per new guidance). 
 	*see [[drugs contraindicated in pregnancy]].* 
 If must be used, give 5mg Folic acid daily.
 # Side effects

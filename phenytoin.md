@@ -20,7 +20,7 @@ Common:
 	Drowsiness
 Lymphadenopathy
 Dyskinesia
-Megaloblastic anemia (this is secondary to altered folate metabolism)
+Megaloblastic anaemia (this is secondary to altered [[folic acid|folate]] metabolism)
 Peripheral neuropathy
 Enhanced vitamin D metabolism causing Osteomalacia
 Drug induced SLE 

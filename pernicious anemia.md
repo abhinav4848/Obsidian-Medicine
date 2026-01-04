@@ -30,7 +30,7 @@ A schilling test involves administering radiolabelled B12. Given that artificial
 IM B12
 - no neurological features: 3 injections per week for 2 weeks followed by 3 monthly treatment of vitamin B12 injections
 - more frequent doses are given for patients with neurological features
-Folic acid supplementation
+[[Folic acid]] supplementation
 
 
 ---
