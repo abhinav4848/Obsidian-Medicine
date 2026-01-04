@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"c79ae8dedd0f76a7","type":"text","text":"USS","x":-243,"y":-140,"width":73,"height":60},
+		{"id":"1958d11568f3148d","type":"text","text":"DVT confirmed","x":-720,"y":115,"width":168,"height":50},
+		{"id":"3b315e625a8d6e5a","type":"text","text":"Do D-Dimer","x":320,"y":-29,"width":140,"height":50},
+		{"id":"e251d988ee6611ee","type":"text","text":"start interim Apixaban/ Rivaroxaban while waiting for proximal leg vein scan.","x":60,"y":113,"width":251,"height":101},
+		{"id":"e671c6d86c2176ff","type":"text","text":"Consider alternative diagnosis","x":362,"y":214,"width":138,"height":106},
+		{"id":"4101e3f31835ca1b","type":"text","text":"D-Dimer","x":-60,"y":440,"width":120,"height":60},
+		{"id":"a43c7e2557962f35","type":"text","text":"Stop DOAC & repeat scan 6-8 days later","x":-600,"y":320,"width":200,"height":80},
+		{"id":"ee56dfd0642f0d5d","type":"text","text":"Well's score for [[deep vein thrombosis]]","x":-170,"y":-360,"width":340,"height":60}
+	],
+	"edges":[
+		{"id":"b9958d5bb1f7cbd0","fromNode":"ee56dfd0642f0d5d","fromSide":"bottom","toNode":"c79ae8dedd0f76a7","toSide":"top","color":"4","label":" >=2"},
+		{"id":"4e7243c2a01fa962","fromNode":"c79ae8dedd0f76a7","fromSide":"bottom","toNode":"4101e3f31835ca1b","toSide":"top","color":"6","label":"If USS not available"},
+		{"id":"d57da1a346bc7cbc","fromNode":"c79ae8dedd0f76a7","fromSide":"bottom","toNode":"1958d11568f3148d","toSide":"top","color":"4","label":"Scan +ve\nD-dimer irrelevant"},
+		{"id":"fec0c5d344512cd5","fromNode":"c79ae8dedd0f76a7","fromSide":"bottom","toNode":"a43c7e2557962f35","toSide":"top","color":"2","label":"Scan -ve\nD-Dimer +ve"},
+		{"id":"7b3c743fda656e04","fromNode":"c79ae8dedd0f76a7","fromSide":"bottom","toNode":"e251d988ee6611ee","toSide":"top","color":"5","label":"D-Dimer +ve\nScan not done"},
+		{"id":"6f68c09caa66c7a8","fromNode":"3b315e625a8d6e5a","fromSide":"left","toNode":"c79ae8dedd0f76a7","toSide":"right","color":"4","label":"+ve"},
+		{"id":"e8b0cef4164c97af","fromNode":"3b315e625a8d6e5a","fromSide":"bottom","toNode":"e671c6d86c2176ff","toSide":"top","color":"1","label":"-ve"},
+		{"id":"e6fb9e3039270b14","fromNode":"4101e3f31835ca1b","fromSide":"right","toNode":"e251d988ee6611ee","toSide":"bottom","color":"5","label":"D-Dimer +ve\nScan not done"},
+		{"id":"d22e7c9bccf2b53d","fromNode":"4101e3f31835ca1b","fromSide":"right","toNode":"e671c6d86c2176ff","toSide":"bottom","color":"1","label":"-ve"},
+		{"id":"c94ec2003e255a1b","fromNode":"ee56dfd0642f0d5d","fromSide":"bottom","toNode":"3b315e625a8d6e5a","toSide":"top","color":"2","label":"Well's 1"},
+		{"id":"f9cb923e032b798d","fromNode":"a43c7e2557962f35","fromSide":"right","toNode":"c79ae8dedd0f76a7","toSide":"bottom","color":"3"}
+	]
+}

@@ -11,7 +11,7 @@ tags:
 | NYHA                                 | Heart failure severity scale                                                                                                  |
 | DAS28                                | Measure of disease activity in rheumatoid arthritis                                                                           |
 | Child-Pugh classification            | A scoring system used to assess the severity of liver cirrhosis                                                               |
-| Wells score                          | Helps estimate the risk of a patient having a deep vein thrombosis<br><br>PERC: PE rule out criteria.                         |
+| Wells score                          | Helps estimate the risk of a patient having a [[deep vein thrombosis]]<br><br>PERC: PE rule out criteria.                     |
 | MMSE                                 | Mini-mental state examination - used to assess cognitive impairment                                                           |
 | HAD                                  | Hospital Anxiety and Depression (HAD) scale - assesses severity of anxiety and depression symptoms                            |
 | PHQ-9                                | Patient Health Questionnaire - assesses severity of depression symptoms                                                       |

@@ -6,13 +6,13 @@ tags:
   - nephrology
 ---
 # Causes of small kidney
-- Chronic pyelonephritis- history of repeated UTIs, stone, VUR -> renal scarring and hypertension. No proteinuria or haematuria. 
-- Chronic glomerulonephritis- third leading cause of CKD
+- Chronic pyelonephritis- history of repeated [[UTI]]s, stone, VUR -> renal scarring and [[hypertension]]. No proteinuria or [[haematuria]]. 
+- Chronic glomerulonephritis- third leading cause of [[chronic kidney disease|CKD]]. 
 - Bilateral renal artery stenosis
 - Hypertensive nephropathy
 # Investigation
 Imaging not needed normally.
--> It's requested only in complicated cases: fever > 48 hrs. despite antibiotics, Recurrent episodes, Suspect stone, DM, Immunocompromised -> Do USG (it can't diagnose pyelonephritis, but can exclude Hydronephrosis, stones)
+-> It's requested only in complicated cases: fever > 48 hrs. despite antibiotics, Recurrent episodes, Suspect stone, DM, Immunocompromised -> Do USS (it can't diagnose pyelonephritis, but can exclude Hydronephrosis, stones). 
 
 Acute pyelonephritis: Do urinalysis -> Urine culture.
 # Treatment
@@ -26,7 +26,7 @@ Pregnant w/o need for admission:
 	Cefalexin (PO) 500mg BD for 7-10days 
 	*Use cephalosporin (not quinolone).* 
 ## Summary of Treatment
-If Dysuria (Lower UTI): Nitrofurantoin, Trimethoprim  
+If Dysuria (Lower UTI): [[Nitrofurantoin]], [[Trimethoprim]]  
 if loin pain, etc. (upper UTI):
 	Broad spectrum Cephalosporin or quinolone (for [[drugs contraindicated in pregnancy|non pregnant women]]) for 10-14 days. Ciprofloxacin, Co-Amoxiclav  
  

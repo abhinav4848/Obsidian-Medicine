@@ -13,91 +13,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pyelonephritis.md",
+                "file": "deep vein thrombosis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "pyelonephritis"
-            }
-          },
-          {
-            "id": "005e9de597152f0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "housekeeping/gp guidelines- dermat.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "gp guidelines- dermat"
-            }
-          },
-          {
-            "id": "1b882ba74ceb1c51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chronic kidney disease.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "chronic kidney disease"
-            }
-          },
-          {
-            "id": "3c332c25168fe837",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "statistics- parametric tests.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "statistics- parametric tests"
-            }
-          },
-          {
-            "id": "a8291f4b3bee2abd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "malaria.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "malaria"
-            }
-          },
-          {
-            "id": "9a7bd01f20bd604a",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://cks.nice.org.uk/topics/diabetes-type-2/prescribing-information/sglt-2-inhibitors/",
-                "title": "SGLT-2 inhibitors | Prescribing information | Diabetes - type 2 | CKS | NICE",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "SGLT-2 inhibitors | Prescribing information | Diabetes - type 2 | CKS | NICE"
+              "title": "deep vein thrombosis"
             }
           }
-        ],
-        "currentTab": 4
+        ]
+      },
+      {
+        "id": "df7473f3f5e65269",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2879082e246071ec",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "flow charts/h. pylori treatment flowchart.canvas",
+                "viewState": {
+                  "x": -80.5,
+                  "y": 201,
+                  "zoom": -0.9548444021508635
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "h. pylori treatment flowchart"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "folate",
+                "query": "deep vein",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -150,8 +98,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -163,7 +110,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "malaria.md",
+                "file": "flow charts/h. pylori treatment flowchart.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +138,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of malaria"
+              "title": "Graph of h. pylori treatment flowchart"
             }
           }
         ]
@@ -215,12 +162,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "malaria.md",
+                "file": "flow charts/h. pylori treatment flowchart.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from malaria"
+              "title": "Outgoing links from h. pylori treatment flowchart"
             }
           },
           {
@@ -244,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "malaria.md",
+                "file": "flow charts/h. pylori treatment flowchart.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of malaria"
+              "title": "Outline of h. pylori treatment flowchart"
             }
           },
           {
@@ -283,10 +230,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "malaria.md"
+                "file": "flow charts/h. pylori treatment flowchart.canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for malaria"
+              "title": "File properties for h. pylori treatment flowchart"
             }
           }
         ],
@@ -303,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "malaria.md",
+                "file": "flow charts/h. pylori treatment flowchart.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,7 +260,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for malaria"
+              "title": "Backlinks for h. pylori treatment flowchart"
             }
           }
         ]
@@ -333,10 +280,24 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a8291f4b3bee2abd",
+  "active": "2879082e246071ec",
   "lastOpenFiles": [
-    "folic acid.md",
+    "flow charts/deep vein thrombosis.canvas",
+    "flow charts/h. pylori treatment flowchart.canvas",
+    "flow charts/haematuria.canvas",
+    "flow charts/hypertension management.canvas",
+    "deep vein thrombosis.md",
+    "Untitled.md",
+    "scoring system.md",
+    "pyelonephritis.md",
+    "housekeeping/gp guidelines- dermat.md",
+    "chronic kidney disease.md",
+    "statistics- parametric tests.md",
+    "housekeeping/gp guidelines- psych.md",
+    "housekeeping/gp guideliens- infectious diseases.md",
+    "housekeeping/gp guidelines- ophthal.md",
     "malaria.md",
+    "folic acid.md",
     "methotrexate.md",
     "drugs contraindicated in pregnancy.md",
     "pernicious anemia.md",
@@ -346,24 +307,11 @@
     "trimethoprim.md",
     "uti.md",
     "statistics- risk reduction.md",
-    "statistics- parametric tests.md",
     "ivermectin.md",
     "ckd pharmacology.md",
     "copd- acute exacerbation.md",
     "diabetes drugs.md",
-    "chronic kidney disease.md",
-    "ckd classification.md",
-    "nitrofurantoin.md",
-    "different rashes in paeds.md",
     "attachments/Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf",
-    "prostate.md",
-    "afro-caribbean.md",
-    "ace inhibitors.md",
-    "2025-12-31.md",
-    "hypertension.md",
-    "flow charts/hypertension management.canvas",
-    "pre-eclampsia.md",
-    "flow charts/haematuria.canvas",
     "attachments/erythema nodosum.jpg",
     "attachments/erythema multiforme.jpg",
     "attachments/erythema marginatum.jpg",
@@ -382,7 +330,6 @@
     "desktop.ini",
     "Untitled.base",
     "attachments/atropa belladona.pdf",
-    "flow charts/h. pylori treatment flowchart.canvas",
     "_learnie/Questions",
     "_learnie/Note Revisions",
     "_chicken Pox treatment flowchart (Work in progress).canvas",
