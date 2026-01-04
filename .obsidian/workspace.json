@@ -11,38 +11,17 @@
             "id": "d1673f995a3c509c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deep vein thrombosis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "deep vein thrombosis"
-            }
-          }
-        ]
-      },
-      {
-        "id": "df7473f3f5e65269",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2879082e246071ec",
-            "type": "leaf",
-            "state": {
               "type": "canvas",
               "state": {
-                "file": "flow charts/h. pylori treatment flowchart.canvas",
+                "file": "flow charts/deep vein thrombosis.canvas",
                 "viewState": {
-                  "x": -80.5,
-                  "y": 201,
-                  "zoom": -0.9548444021508635
+                  "x": -110,
+                  "y": 70,
+                  "zoom": -0.5892690562798788
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "h. pylori treatment flowchart"
+              "title": "deep vein thrombosis"
             }
           }
         ]
@@ -77,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deep vein",
+                "query": "orbit score",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -98,7 +77,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -110,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "flow charts/h. pylori treatment flowchart.canvas",
+                "file": "flow charts/deep vein thrombosis.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,7 +118,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of h. pylori treatment flowchart"
+              "title": "Graph of deep vein thrombosis"
             }
           }
         ]
@@ -162,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flow charts/h. pylori treatment flowchart.canvas",
+                "file": "flow charts/deep vein thrombosis.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from h. pylori treatment flowchart"
+              "title": "Outgoing links from deep vein thrombosis"
             }
           },
           {
@@ -191,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flow charts/h. pylori treatment flowchart.canvas",
+                "file": "flow charts/deep vein thrombosis.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of h. pylori treatment flowchart"
+              "title": "Outline of deep vein thrombosis"
             }
           },
           {
@@ -230,10 +210,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "flow charts/h. pylori treatment flowchart.canvas"
+                "file": "flow charts/deep vein thrombosis.canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for h. pylori treatment flowchart"
+              "title": "File properties for deep vein thrombosis"
             }
           }
         ],
@@ -250,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flow charts/h. pylori treatment flowchart.canvas",
+                "file": "flow charts/deep vein thrombosis.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,14 +240,14 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for h. pylori treatment flowchart"
+              "title": "Backlinks for deep vein thrombosis"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 530.5
+    "width": 494.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,15 +260,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "2879082e246071ec",
+  "active": "d1673f995a3c509c",
   "lastOpenFiles": [
-    "flow charts/deep vein thrombosis.canvas",
-    "flow charts/h. pylori treatment flowchart.canvas",
-    "flow charts/haematuria.canvas",
-    "flow charts/hypertension management.canvas",
     "deep vein thrombosis.md",
-    "Untitled.md",
+    "flow charts/deep vein thrombosis.canvas",
     "scoring system.md",
+    "atrial fibrillation.md",
+    "flow charts/haematuria.canvas",
+    "flow charts/h. pylori treatment flowchart.canvas",
+    "flow charts/hypertension management.canvas",
+    "Untitled.md",
     "pyelonephritis.md",
     "housekeeping/gp guidelines- dermat.md",
     "chronic kidney disease.md",
@@ -310,7 +291,6 @@
     "ivermectin.md",
     "ckd pharmacology.md",
     "copd- acute exacerbation.md",
-    "diabetes drugs.md",
     "attachments/Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf",
     "attachments/erythema nodosum.jpg",
     "attachments/erythema multiforme.jpg",

@@ -1,20 +1,20 @@
 {
 	"nodes":[
-		{"id":"6fe93cf89389918f","type":"text","text":"Triple therapy (PPI, Amox, Clarithromycin/Metro 7-14 day course)","x":-476,"y":137,"width":296,"height":123},
-		{"id":"9c4b73870c9c181f","type":"text","text":"Give PPI for 4 weeks","x":39,"y":141,"width":250,"height":60},
+		{"id":"9c4b73870c9c181f","type":"text","text":"Give PPI for 4 weeks","x":65,"y":141,"width":250,"height":60},
 		{"id":"61cae305bd10a76d","type":"text","text":"*Test using any:*\n1. H. pylori serum Ab test\n2. Stool antigen test\n3. Rapid urease test- C13 test","x":-245,"y":-198,"width":300,"height":153,"color":"3"},
-		{"id":"32ac001bcdd03761","type":"text","text":"C-13 urea breath test","x":-201,"y":392,"width":256,"height":55,"color":"3"},
-		{"id":"078cf356b3f93739","type":"text","text":"Another attempt at eradicating H. pylori","x":-523,"y":731,"width":195,"height":69,"color":"1"},
 		{"id":"d7c3615b9b9c5eab","type":"file","file":"h. pylori.md","x":-751,"y":-330,"width":400,"height":208},
 		{"id":"65081f3d9807a32e","type":"text","text":"*Serum Ab remains +ve after eradication*","x":225,"y":-87,"width":263,"height":84,"color":"6"},
 		{"id":"6e3fe1ccdebb1f2e","type":"text","text":"If >55yo + [[dyspepsia]] + weight loss, or even upper abdo pain, reflux","x":78,"y":-398,"width":250,"height":103},
-		{"id":"db4606479b92a639","type":"text","text":"Reassure. No need to repeat tests.","x":-578,"y":495,"width":250,"height":84},
-		{"id":"8c699fac0a1b3ade","type":"text","text":"Improved","x":-37,"y":286,"width":152,"height":60,"color":"4"},
 		{"id":"8b514cc446d9f3ba","type":"text","text":"*Urea Breath test- Don't do <4 weeks of Abx, or within 2 weeks of a PPI*\n\n*It's the only test used to check for eradication*\n\n*If no C-13, use stool antigen test*","x":340,"y":115,"width":250,"height":231,"color":"6"},
-		{"id":"276260bd4de9feda","type":"text","text":"do upper GI endoscopy to investigate causes","x":90,"y":731,"width":250,"height":69},
 		{"id":"f75edcaf366c4175","type":"text","text":"[[dyspepsia]] in <55yo","x":-186,"y":-390,"width":183,"height":60},
 		{"id":"26f6f367373ffb0b","type":"text","text":"lifestyle + Antacids","x":-186,"y":-295,"width":183,"height":52},
-		{"id":"26570269b34fcdc3","type":"text","text":"Endoscopy for [[cancer- oesophagus|oesophageal cancer]]/[[cancer- gastric|gastric cancer]]","x":78,"y":-269,"width":250,"height":80}
+		{"id":"26570269b34fcdc3","type":"text","text":"Endoscopy for [[cancer- oesophagus|oesophageal cancer]]/[[cancer- gastric|gastric cancer]]","x":78,"y":-269,"width":250,"height":80},
+		{"id":"32ac001bcdd03761","type":"text","text":"C-13 urea breath test","x":-314,"y":400,"width":256,"height":55,"color":"3"},
+		{"id":"8c699fac0a1b3ade","type":"text","text":"Improved","x":-29,"y":260,"width":118,"height":60,"color":"4"},
+		{"id":"db4606479b92a639","type":"text","text":"Reassure. \nNo need to repeat tests.","x":-696,"y":371,"width":145,"height":84},
+		{"id":"078cf356b3f93739","type":"text","text":"Another attempt at eradicating H. pylori","x":-648,"y":560,"width":195,"height":69,"color":"1"},
+		{"id":"276260bd4de9feda","type":"text","text":"do upper GI endoscopy to investigate causes","x":65,"y":629,"width":250,"height":69,"color":"3"},
+		{"id":"6fe93cf89389918f","type":"text","text":"Triple therapy (PPI, Amox, Clarithromycin/Metro 7-14 day course)","x":-551,"y":137,"width":286,"height":94}
 	],
 	"edges":[
 		{"id":"96e0994bf8f272c1","fromNode":"f75edcaf366c4175","fromSide":"bottom","toNode":"26f6f367373ffb0b","toSide":"top"},
@@ -29,8 +29,8 @@
 		{"id":"9a00bdd5b49e3942","fromNode":"6e3fe1ccdebb1f2e","fromSide":"right","toNode":"26570269b34fcdc3","toSide":"right"},
 		{"id":"8b3e4a9cf950c01b","fromNode":"61cae305bd10a76d","fromSide":"bottom","toNode":"6fe93cf89389918f","toSide":"top","color":"4","label":"+ve"},
 		{"id":"a18f157232cedaae","fromNode":"61cae305bd10a76d","fromSide":"bottom","toNode":"9c4b73870c9c181f","toSide":"top","color":"1","label":"-ve"},
-		{"id":"380d371360a67d80","fromNode":"32ac001bcdd03761","fromSide":"bottom","toNode":"078cf356b3f93739","toSide":"top","color":"4","label":"test +ve"},
+		{"id":"380d371360a67d80","fromNode":"32ac001bcdd03761","fromSide":"bottom","toNode":"078cf356b3f93739","toSide":"right","color":"4","label":"test +ve"},
 		{"id":"1ef226cc3e343024","fromNode":"078cf356b3f93739","fromSide":"left","toNode":"6fe93cf89389918f","toSide":"left"},
-		{"id":"68c3ca0c22ce0732","fromNode":"9c4b73870c9c181f","fromSide":"bottom","toNode":"276260bd4de9feda","toSide":"right","color":"1","label":"didn't improve"}
+		{"id":"68c3ca0c22ce0732","fromNode":"9c4b73870c9c181f","fromSide":"bottom","toNode":"276260bd4de9feda","toSide":"top","color":"1","label":"No improvement"}
 	]
 }

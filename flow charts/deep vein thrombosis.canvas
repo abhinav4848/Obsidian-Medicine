@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"c79ae8dedd0f76a7","type":"text","text":"USS","x":-243,"y":-140,"width":73,"height":60},
+		{"id":"c79ae8dedd0f76a7","type":"text","text":"USS","x":-260,"y":-140,"width":90,"height":50},
 		{"id":"1958d11568f3148d","type":"text","text":"DVT confirmed","x":-720,"y":115,"width":168,"height":50},
 		{"id":"3b315e625a8d6e5a","type":"text","text":"Do D-Dimer","x":320,"y":-29,"width":140,"height":50},
 		{"id":"e251d988ee6611ee","type":"text","text":"start interim Apixaban/ Rivaroxaban while waiting for proximal leg vein scan.","x":60,"y":113,"width":251,"height":101},

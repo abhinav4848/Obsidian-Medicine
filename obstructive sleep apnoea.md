@@ -20,7 +20,7 @@ The partner often complains of excessive snoring and may report periods of apnoe
 - hypertension
 # Assessment of sleepiness 
 [[scoring system]]
-- Epworth Sleepiness Scale - questionnaire completed by patient +/- partner
+- [[scoring system|Epworth Sleepiness Scale]] - questionnaire completed by patient +/- partner
 - Multiple Sleep Latency Test (MSLT) - measures the time to fall asleep in a dark room (using EEG criteria)
 # Diagnostic tests
 - Sleep studies (polysomnography) - ranging from monitoring of pulse oximetry at night to full polysomnography where a wide variety of physiological factors are measured including EEG, respiratory airflow, thoraco-abdominal movement, snoring and pulse oximetry
