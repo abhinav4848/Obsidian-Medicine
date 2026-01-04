@@ -15,9 +15,9 @@
               "state": {
                 "file": "flow charts/deep vein thrombosis.canvas",
                 "viewState": {
-                  "x": -110,
-                  "y": 70,
-                  "zoom": -0.5892690562798788
+                  "x": -41,
+                  "y": 76.5,
+                  "zoom": -0.014039836518811582
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -247,7 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 494.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
