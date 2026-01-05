@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "seborrhoeic keratosis.md",
+                "file": "seborrhoeic dermatitis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "seborrhoeic keratosis"
+              "title": "seborrhoeic dermatitis"
             }
           }
         ]
@@ -90,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "seborrhoeic keratosis.md",
+                "file": "seborrhoeic dermatitis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -118,7 +118,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of seborrhoeic keratosis"
+              "title": "Graph of seborrhoeic dermatitis"
             }
           }
         ]
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "seborrhoeic keratosis.md",
+                "file": "seborrhoeic dermatitis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from seborrhoeic keratosis"
+              "title": "Outgoing links from seborrhoeic dermatitis"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "seborrhoeic keratosis.md",
+                "file": "seborrhoeic dermatitis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of seborrhoeic keratosis"
+              "title": "Outline of seborrhoeic dermatitis"
             }
           },
           {
@@ -210,10 +210,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "seborrhoeic keratosis.md"
+                "file": "seborrhoeic dermatitis.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for seborrhoeic keratosis"
+              "title": "File properties for seborrhoeic dermatitis"
             }
           }
         ],
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "seborrhoeic keratosis.md",
+                "file": "seborrhoeic dermatitis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +240,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for seborrhoeic keratosis"
+              "title": "Backlinks for seborrhoeic dermatitis"
             }
           }
         ]
@@ -262,6 +262,7 @@
   },
   "active": "d1673f995a3c509c",
   "lastOpenFiles": [
+    "otitis.md",
     "seborrhoeic dermatitis.md",
     "seborrhoeic keratosis.md",
     "eczema.md",
@@ -293,7 +294,6 @@
     "pyelonephritis.md",
     "chronic kidney disease.md",
     "statistics- parametric tests.md",
-    "housekeeping/gp guidelines- psych.md",
     "attachments/Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf",
     "attachments/erythema nodosum.jpg",
     "attachments/erythema multiforme.jpg",

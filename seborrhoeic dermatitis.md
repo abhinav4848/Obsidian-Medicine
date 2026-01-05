@@ -20,6 +20,7 @@ An itchy, scaly rash affecting the sebum rich areas (face, scalp, centre of ches
 
 More common with [[HIV]], [[parkinson's disease|Parkinson's]] #associated 
 
+![Seborrhoeic eczmea|300](https://www.pcds.org.uk/imager/gallery/clinical/seborrhoeic-eczema/13247/Fig_6-SD_eyes_fee391183f15cb4d62773032fe0be92d.jpg)
 # Management 
 ## Adults 
 **Scalp**: [[Ketoconazole]] shampoo (Nizoral) > Zinc Pyrithione (Head & Shoulders), Tar (neutrogen T-gel)
