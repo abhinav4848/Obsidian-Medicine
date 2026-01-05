@@ -13,16 +13,16 @@ urls:
 ---
 Due to yeast *Malassezia furfur* (it also causes [[pityriasis versicolor]]).
 
-An itchy, scaly rash affecting the sebum rich areas.
+An itchy, scaly rash affecting the sebum rich areas (face, scalp, centre of chest). 
 - scalp ('Cradle cap'), face, limb flexures, chest, nappy areas
 - E.g.: Dandruff, [[otitis|otitis externa]], Blepharitis 
 - Erythematous rash with coarse yellow scales. 
 
 More common with [[HIV]], [[parkinson's disease|Parkinson's]] #associated 
 
-# Management
-## Adults
-**Scalp**: [[Ketoconazole]] shampoo > Zinc Pyrithione (Head & Shoulders), Tar (neutrogen T-gel)
+# Management 
+## Adults 
+**Scalp**: [[Ketoconazole]] shampoo (Nizoral) > Zinc Pyrithione (Head & Shoulders), Tar (neutrogen T-gel)
 	*Ketoconazole also works in: [[Pityriasis versicolor]] as that's also Malassezia*. 
 ## Babies
 - reassurance that it doesn't affect the baby and usually resolves within a few weeks

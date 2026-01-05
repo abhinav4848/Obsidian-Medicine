@@ -21,12 +21,12 @@ For [[polymyalgia rheumatica|PMR]], the weaning regiment is very long. Up to 2 y
 Topical corticosteroid preparation potencies (*Oxford handbook GP 5th ed Page 563*)
 *See [[eczema#Steroids]] for context.* 
 
-| Potency     | Examples                                                                                                                                                                                    |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mild        | Hydrocortisone 0.1–2.5%, Dioderm®, Mildison®, Synalar® 1 in 10<br>• *With antimicrobials* Canesten® HC, Fucidin® H, Timodine®<br>• *With crotamiton* Eurax-Hydrocortisone®                  |
-| Moderate    | Betamethasone valerate 0.025% (Betnovate®-​RD), Eumovate® <br>• *With antimicrobials* Trimovate® (clobetasone, nystatin, oxytetracycline)<br>• *With [[urea]]* Alphaderm                    |
-| Potent      | Betamethasone valerate 0.1% (Betnovate®), Betacap®, Elocon®, Locoid®, Synalar® <br>• *With antimicrobials* Aureocort®, Betnovate®-C or -N, Fucibet® <br>• *With salicylic acid* Diprosalic® |
-| Very Potent | Dermovate®, Nerisone® Forte<br>• *With antimicrobials* Dermovate®-N                                                                                                                         |
+| Potency     | Examples                                                                                                                                                                                                                                                                 |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Mild        | Hydrocortisone 0.1–2.5%, Dioderm®, Mildison®, Synalar® 1 in 10<br>• *With antimicrobials* Canesten® HC, Fucidin® H, Timodine®, [Daktacort](https://bnf.nice.org.uk/drugs/hydrocortisone-with-miconazole/medicinal-forms/) ®<br>• *With crotamiton* Eurax-Hydrocortisone® |
+| Moderate    | Betamethasone valerate 0.025% (Betnovate®-​RD), Eumovate® <br>• *With antimicrobials* Trimovate® (clobetasone, nystatin, oxytetracycline)<br>• *With [[urea]]* Alphaderm                                                                                                 |
+| Potent      | Betamethasone valerate 0.1% (Betnovate®), Betacap®, Elocon®, Locoid®, Synalar® <br>• *With antimicrobials* Aureocort®, Betnovate®-C or -N, Fucibet® <br>• *With salicylic acid* Diprosalic®                                                                              |
+| Very Potent | Dermovate®, Nerisone® Forte<br>• *With antimicrobials* Dermovate®-N                                                                                                                                                                                                      |
 ## What is the role of 
 1. [[Urea]]
 2. **Crotamiton**: Antipruritic, Mild scabicidal activity.

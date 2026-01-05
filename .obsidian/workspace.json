@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hiv.md",
+                "file": "seborrhoeic keratosis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hiv"
+              "title": "seborrhoeic keratosis"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hiv",
+                "query": "daktacort",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -90,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hiv.md",
+                "file": "seborrhoeic keratosis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -118,7 +118,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of hiv"
+              "title": "Graph of seborrhoeic keratosis"
             }
           }
         ]
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hiv.md",
+                "file": "seborrhoeic keratosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from hiv"
+              "title": "Outgoing links from seborrhoeic keratosis"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hiv.md",
+                "file": "seborrhoeic keratosis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hiv"
+              "title": "Outline of seborrhoeic keratosis"
             }
           },
           {
@@ -210,10 +210,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "hiv.md"
+                "file": "seborrhoeic keratosis.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for hiv"
+              "title": "File properties for seborrhoeic keratosis"
             }
           }
         ],
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hiv.md",
+                "file": "seborrhoeic keratosis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +240,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hiv"
+              "title": "Backlinks for seborrhoeic keratosis"
             }
           }
         ]
@@ -262,9 +262,13 @@
   },
   "active": "d1673f995a3c509c",
   "lastOpenFiles": [
-    "epstein barr virus.md",
-    "hiv.md",
     "seborrhoeic dermatitis.md",
+    "seborrhoeic keratosis.md",
+    "eczema.md",
+    "corticosteroid.md",
+    "hiv.md",
+    "toxoplasmosis.md",
+    "epstein barr virus.md",
     "ketoconazole.md",
     "gynaecomastia.md",
     "tuberculosis.md",
@@ -290,10 +294,6 @@
     "chronic kidney disease.md",
     "statistics- parametric tests.md",
     "housekeeping/gp guidelines- psych.md",
-    "housekeeping/gp guidelines- ophthal.md",
-    "malaria.md",
-    "folic acid.md",
-    "methotrexate.md",
     "attachments/Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf",
     "attachments/erythema nodosum.jpg",
     "attachments/erythema multiforme.jpg",

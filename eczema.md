@@ -61,7 +61,7 @@ For your leave-on moisturiser, switch to a bland, simple emollient that does not
 > - Very potent: Clobetasol propionate (0.5%) aka Dermovate
 > - #Mnemonic: HEBDO -> Hydrocortisone > Eumovate > Betnovate > Dermovate > Oral
 - If eczema awakens the patient at night, consider sedative anti-histamines (Chlorpheniramine)
-- Treat bacterial infection with oral antibiotic.
+- Treat bacterial infection with oral antibiotic. 
 
 ![[corticosteroid#Topical steroid preparations|steroid]] 
 
