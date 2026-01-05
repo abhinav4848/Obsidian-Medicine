@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "housekeeping/gp guidelines- dermat.md",
+                "file": "ophthalmoscopy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "gp guidelines- dermat"
+              "title": "ophthalmoscopy"
             }
           }
         ]
@@ -89,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "housekeeping/gp guidelines- dermat.md",
+                "file": "ophthalmoscopy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,7 +117,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of gp guidelines- dermat"
+              "title": "Graph of ophthalmoscopy"
             }
           }
         ]
@@ -141,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "housekeeping/gp guidelines- dermat.md",
+                "file": "ophthalmoscopy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from gp guidelines- dermat"
+              "title": "Outgoing links from ophthalmoscopy"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "housekeeping/gp guidelines- dermat.md",
+                "file": "ophthalmoscopy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of gp guidelines- dermat"
+              "title": "Outline of ophthalmoscopy"
             }
           },
           {
@@ -209,10 +209,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "housekeeping/gp guidelines- dermat.md"
+                "file": "ophthalmoscopy.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for gp guidelines- dermat"
+              "title": "File properties for ophthalmoscopy"
             }
           }
         ],
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "housekeeping/gp guidelines- dermat.md",
+                "file": "ophthalmoscopy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +239,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for gp guidelines- dermat"
+              "title": "Backlinks for ophthalmoscopy"
             }
           }
         ]
@@ -261,8 +261,9 @@
   },
   "active": "d1673f995a3c509c",
   "lastOpenFiles": [
-    "housekeeping/gp guideliens- infectious diseases.md",
+    "housekeeping/revise recent changes.base",
     "housekeeping/gp guidelines- dermat.md",
+    "housekeeping/gp guideliens- infectious diseases.md",
     "tuberculosis.md",
     "meningitis.md",
     "benzylpenicillin.md",
@@ -291,7 +292,6 @@
     "hba1c readings.md",
     "diabetes- gestational.md",
     "phenytoin.md",
-    "trimethoprim.md",
     "attachments/Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf",
     "attachments/erythema nodosum.jpg",
     "attachments/erythema multiforme.jpg",
@@ -304,7 +304,6 @@
     "attachments/coeliac disease- dermatitis herpetiformis 2.png",
     "attachments/erythema gyratum repens.png",
     "to learn",
-    "housekeeping/revise recent changes.base",
     "housekeeping/memorise.base",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "flow charts",
