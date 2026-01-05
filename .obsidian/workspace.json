@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meningitis.md",
+                "file": "housekeeping/gp guidelines- dermat.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "meningitis"
+              "title": "gp guidelines- dermat"
             }
           }
         ]
@@ -34,6 +34,7 @@
       {
         "id": "dd6b9f486e1006c5",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "676efa40181a3294",
@@ -54,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "meningitis",
+                "query": "vaccine",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -75,12 +76,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "66b70f772136150d",
@@ -88,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "meningitis.md",
+                "file": "housekeeping/gp guidelines- dermat.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -116,7 +117,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of meningitis"
+              "title": "Graph of gp guidelines- dermat"
             }
           }
         ]
@@ -140,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meningitis.md",
+                "file": "housekeeping/gp guidelines- dermat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from meningitis"
+              "title": "Outgoing links from gp guidelines- dermat"
             }
           },
           {
@@ -169,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meningitis.md",
+                "file": "housekeeping/gp guidelines- dermat.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of meningitis"
+              "title": "Outline of gp guidelines- dermat"
             }
           },
           {
@@ -208,10 +209,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "meningitis.md"
+                "file": "housekeeping/gp guidelines- dermat.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for meningitis"
+              "title": "File properties for gp guidelines- dermat"
             }
           }
         ],
@@ -228,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meningitis.md",
+                "file": "housekeeping/gp guidelines- dermat.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +239,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for meningitis"
+              "title": "Backlinks for gp guidelines- dermat"
             }
           }
         ]
@@ -260,8 +261,15 @@
   },
   "active": "d1673f995a3c509c",
   "lastOpenFiles": [
-    "benzylpenicillin.md",
+    "housekeeping/gp guideliens- infectious diseases.md",
+    "housekeeping/gp guidelines- dermat.md",
+    "tuberculosis.md",
     "meningitis.md",
+    "benzylpenicillin.md",
+    "Clippings/People who are very articulate, what did you actually do to become this way.md",
+    "Clippings",
+    "papilledema.md",
+    "ophthalmoscopy.md",
     "deep vein thrombosis.md",
     "scoring system.md",
     "flow charts/deep vein thrombosis.canvas",
@@ -271,11 +279,9 @@
     "flow charts/hypertension management.canvas",
     "Untitled.md",
     "pyelonephritis.md",
-    "housekeeping/gp guidelines- dermat.md",
     "chronic kidney disease.md",
     "statistics- parametric tests.md",
     "housekeeping/gp guidelines- psych.md",
-    "housekeeping/gp guideliens- infectious diseases.md",
     "housekeeping/gp guidelines- ophthal.md",
     "malaria.md",
     "folic acid.md",
@@ -286,10 +292,6 @@
     "diabetes- gestational.md",
     "phenytoin.md",
     "trimethoprim.md",
-    "uti.md",
-    "statistics- risk reduction.md",
-    "ivermectin.md",
-    "ckd pharmacology.md",
     "attachments/Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf",
     "attachments/erythema nodosum.jpg",
     "attachments/erythema multiforme.jpg",
@@ -310,7 +312,6 @@
     "Untitled.base",
     "attachments/atropa belladona.pdf",
     "_learnie/Questions",
-    "_learnie/Note Revisions",
     "_chicken Pox treatment flowchart (Work in progress).canvas",
     "Chicken Pox treatment flowchart (Work in progress).canvas"
   ]

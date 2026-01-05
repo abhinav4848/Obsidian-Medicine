@@ -4,6 +4,9 @@ tags:
 urls:
   - https://eyewiki.org/Papilledema
   - https://www.visioncenter.org/conditions/papilledema/
+aliases:
+  - papilloedema
+  - papillodema
 ---
 It is swollen optic nerve. 
 

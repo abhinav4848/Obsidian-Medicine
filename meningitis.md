@@ -35,7 +35,7 @@ if w/o rash
 - Lumbar puncture for CSF analysis
 
 Bacterial CSF look same (turbid, purulent), but if
-- No rash: Streptococcus pneumoniae,
+- No rash: Streptococcus pneumoniae (pneumococcal meningitis)
 - rash: Neisseria meningitidis (meningococcus)  
 ## Lumbar puncture contraindicated if:
 - Increased ICP
@@ -43,7 +43,7 @@ Bacterial CSF look same (turbid, purulent), but if
 - Ongoing seizure
 - GCS < 9 or a drop of >=3
 - Unequal, dilated, unresponsive pupils
-- Papilledema
+- [[papilledema]] 
 - If there's Meningococcal septicaemia -> cuz then you risk introducing it to brain.
 
 ---
@@ -56,11 +56,10 @@ Treat even if suspected meningitis.
 	- Do not administer antibacterial treatment outside of hospital if history of severe allergy to a beta-lactam antibacterial.
 - Can also give Ceftriaxone
 ### Hospital/A&E
-- 3rd gen cephalosporin -> Ceftriaxone/Cefotaxime empirical. Even [[gonorrhoea]] has same abx. 
+- <3m: iv amox/ampi + iv cefotaxime (avoid steroid).
+- 3m - 60yo: Ceftriaxone/Cefotaxime empirical. (*3rd gen cephalosporin*)
+	- *Even [[gonorrhoea]] has same abx.* 
 - If > 60yo, add i.v. ampicillin/amoxicillin to ceftriaxone to also cover listeria.
-
-\>3m: iv Ceftriaxone (or even cefotaxime as both are 3rd gen) as empirical therapy
-<3m: iv amox/ampi + iv cefotaxime (avoid steroid).
 
 If hypersensitivity to penicillin/cephalosporins: Chloramphenicol
 
@@ -71,15 +70,15 @@ If hypersensitivity to penicillin/cephalosporins: Chloramphenicol
 **Cryptococcal meningitis**
 - Amphotericin B
 ## Meningitis prophylaxis for contacts/household people
-Ciprofloxacin (preferred) or Rifampicin.
+Prophylactic Ciprofloxacin (preferred) or Rifampicin if they've had close contact within the 7 days before onset. 
 
 Vancomycin is used in conjunction with cefotaxime for empirical treatment of suspected meningococcal disease in patients with prolonged or multiple use of other antibacterials in the last 3 months, or if travelled, in the last 3 months, to areas outside the UK with highly penicillin- and cephalosporin-resistant pneumococci.
 
 | Scenario                                           | BNF recommendation                                           |
 | -------------------------------------------------- | ------------------------------------------------------------ |
 | Initial empirical therapy aged < 3 months          | iv cefotaxime + amoxicillin (or ampicillin)                  |
-| Initial empirical therapy aged 3 months - 50 years | iv cefotaxime (or ceftriaxone)                               |
-| Initial empirical therapy aged > 50 years          | iv cefotaxime (or ceftriaxone) + amoxicillin (or ampicillin) |
+| Initial empirical therapy aged 3 months - 59 years | iv cefotaxime (or ceftriaxone)                               |
+| Initial empirical therapy aged > 60 years          | iv cefotaxime (or ceftriaxone) + amoxicillin (or ampicillin) |
 | Meningococcal meningitis                           | iv benzylpenicillin or cefotaxime (or ceftriaxone)           |
 | Pneumococcal meningitis                            | iv cefotaxime (or ceftriaxone)                               |
 | Meningitis caused by Haemophilus influenzae        | iv cefotaxime (or ceftriaxone)                               |

@@ -39,3 +39,6 @@ Mantoux used to diagnose only latent TB -> May be positive in patients with BCG 
 | Pyrazinamide    | Hepatotoxicity, hyperuricemia -> [[Gout]] (Cat C: so isn't contraindicated but avoid it)   |
 | Ethambutol      | [[optic neuritis]], decrease visual acuity                                                 |
 | Streptomycin    | C/I in [[drugs contraindicated in pregnancy\|pregnancy]].<br><br>Ototoxicity: Deafness     |
+# Vaccine
+[Greenbook](https://www.gov.uk/government/publications/tuberculosis-the-green-book-chapter-32)
+BCG is given intradermally. 
