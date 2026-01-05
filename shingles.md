@@ -18,7 +18,7 @@ Virus lies dormant in dorsal root/cranial nerve ganglia.
 
 # Risk factor
 - increasing age
-- HIV (strong risk factor)- 15x more common
+- [[HIV]] (strong risk factor)- 15x more common
 - immunosuppressive conditions (steroids, chemo)
 
 # Clinical Features

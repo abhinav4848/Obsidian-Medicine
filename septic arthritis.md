@@ -3,7 +3,7 @@ tags:
   - ortho
 ---
 # Risk Factors
-There's usually a immunocompromised state: DM, Steroid, HIV
+There's usually a immunocompromised state: DM, Steroid, [[HIV]]
 h/o prior joint damage -> RA, [[Gout]], Osteoarthritis. 
 
 # Clinical features

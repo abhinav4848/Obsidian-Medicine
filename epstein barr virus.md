@@ -23,7 +23,7 @@ Neutropenia & lymphocytosis (at least 10% atypical lymphocytes).
 In IMN (Glandular fever), the most likely organ to be involved is -> Spleen
 	A swollen spleen does not present any immediate health problems, but it increases the risk of the spleen rupturing (splitting). The main sign of a ruptured spleen is the sudden onset of a sharp abdominal (tummy) pain.
 
-IN HIV, EBV can cause [[hairy leukoplakia]]. 
+IN [[HIV]], EBV can cause [[hairy leukoplakia]]. 
 [[cancer- ent|nasopharyngeal cancer]], Burkitt Lymphoma. #associated 
 Ampicillin/amoxicillin leads to rash.
 # Investigation

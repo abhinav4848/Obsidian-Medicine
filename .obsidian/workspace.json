@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tuberculosis.md",
+                "file": "hiv.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "tuberculosis"
+              "title": "hiv"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bcg",
+                "query": "hiv",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -90,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "tuberculosis.md",
+                "file": "hiv.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -113,12 +113,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754371756358,
+                  "scale": 0.7514342019604846,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of tuberculosis"
+              "title": "Graph of hiv"
             }
           }
         ]
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tuberculosis.md",
+                "file": "hiv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from tuberculosis"
+              "title": "Outgoing links from hiv"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tuberculosis.md",
+                "file": "hiv.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of tuberculosis"
+              "title": "Outline of hiv"
             }
           },
           {
@@ -210,10 +210,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "tuberculosis.md"
+                "file": "hiv.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for tuberculosis"
+              "title": "File properties for hiv"
             }
           }
         ],
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tuberculosis.md",
+                "file": "hiv.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +240,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for tuberculosis"
+              "title": "Backlinks for hiv"
             }
           }
         ]
@@ -262,12 +262,17 @@
   },
   "active": "d1673f995a3c509c",
   "lastOpenFiles": [
+    "epstein barr virus.md",
+    "hiv.md",
+    "seborrhoeic dermatitis.md",
+    "ketoconazole.md",
+    "gynaecomastia.md",
+    "tuberculosis.md",
     "immunisation in adults.md",
     "ophthalmoscopy.md",
     "housekeeping/revise recent changes.base",
     "housekeeping/gp guidelines- dermat.md",
     "housekeeping/gp guideliens- infectious diseases.md",
-    "tuberculosis.md",
     "meningitis.md",
     "benzylpenicillin.md",
     "Clippings/People who are very articulate, what did you actually do to become this way.md",
@@ -289,11 +294,6 @@
     "malaria.md",
     "folic acid.md",
     "methotrexate.md",
-    "drugs contraindicated in pregnancy.md",
-    "pernicious anemia.md",
-    "hba1c readings.md",
-    "diabetes- gestational.md",
-    "phenytoin.md",
     "attachments/Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf",
     "attachments/erythema nodosum.jpg",
     "attachments/erythema multiforme.jpg",

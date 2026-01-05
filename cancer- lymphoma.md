@@ -29,8 +29,8 @@ Divided into B cell or T cell lymphomas & subdivided into high grade & low grade
 
 Age 25-40yo.
 Involves peripheral LN (not in close proximity), spleen, bone marrow, extranodal sites (GI, skin, brain). 
-Seen in HIV, [[rheumatoid arthritis]], [[coeliac disease|celiac disease]] #associated 
-- MC HIV related lymphoma: NHL (diffuse large B cell lymphoma > Burkitt (caused by [[epstein barr virus|EBV]]))
+Seen in [[HIV]], [[rheumatoid arthritis]], [[coeliac disease|celiac disease]] #associated 
+- MC [[HIV]] related lymphoma: NHL (diffuse large B cell lymphoma > Burkitt (caused by [[epstein barr virus|EBV]]))
 
 A subtype of NHL: MALT can occur in #associated :
 - [[sjogren's syndrome]], 

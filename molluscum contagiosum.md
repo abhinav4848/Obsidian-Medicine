@@ -16,5 +16,5 @@ Reassure.
 Resolves spontaneously in 6-24 months. No need to exclude from [[school in children with rash|school]]/gym/pool.
 # Referrals
 If eyelid involved & red eye -> specialist referral.
-If HIV +ve with extensive lesion -> HIV specialist
+If [[HIV]] +ve with extensive lesion -> HIV specialist
 If Anogenital lesion -> refer to GUM for screening for other STI. 

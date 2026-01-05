@@ -87,7 +87,7 @@ Response to treatment.
 Breastfeeding not [[drugs contraindicated in pregnancy|contraindicated]]. 
 No vaccine 
 causes the most morbidity in IVDUs
-Risk of transmitting in needle stick injury -> 2% (6% if HIV too). 
+Risk of transmitting in needle stick injury -> 2% (6% if [[HIV]] too). 
 ## Investigation
 - HCV RNA is the investigation of choice to diagnose acute infection
 - HCV antibody. If positive -> HCV RNA for currently circulating virus -> if RNA -ve, repeat RNA in 6 months. 

@@ -64,7 +64,7 @@ Doxycycline or a macrolide (e.g. erythro/clarithromycin preferred in atypicals i
 ---
 ## Pneumocystis jirovecii (carinii) (PCP)	
 Yeast like fungus.  
-Generally seen in patients with **HIV (CD4 < 200)**.
+Generally seen in patients with **[[HIV]] (CD4 < 200)**.
 Presents with a dry cough, exercise-induced desaturations and the absence of chest signs
 
 CXR: b/l consolidation, b/l perihilar interstitial shadow

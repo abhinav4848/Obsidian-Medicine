@@ -30,7 +30,7 @@ OHGp 5th Ed:
 	- antifungals (ketoconazole), 
 	- amiodarone, 
 	- [[calcium channel blockers|CCB]], 
-	- HIV protease inhibitors (nelfinavir), 
+	- [[HIV]] protease inhibitors (nelfinavir), 
 	- danazol, 
 	- ciclosporin. 
 - Diet restrictions- avoid grapefruit if taking atorva, simva, lovastatin. Avoid cranberry juice if Fluvastatin. 

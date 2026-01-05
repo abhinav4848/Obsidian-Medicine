@@ -9,9 +9,9 @@ Caused by an increased oestrogen:androgen ratio.
 DISCKO #mnemonic 
 - Digoxin
 - [[tuberculosis|Isoniazid]]
-- Spironolactone
+- [[Spironolactone]]
 - Cimetidine
-- Ketoconazole
+- [[Ketoconazole]]
 - Oestrogen/anti-testosterone hormone: 
 	- GnRh Analogue (e.g. Goserelin) used in [[cancer- prostate|Prostate Cancer]], finasteride ([[prostate|BPH]]). 
 

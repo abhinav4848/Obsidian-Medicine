@@ -39,4 +39,4 @@ is typically the result of a paraneoplastic syndrome (usually secondary to [[can
 is caused by the yeast Cryptococcus neoformans and typically only affects those with severe immunodeficiency (especially AIDS). It has a subacute presentation, with symptoms progressing over several weeks (as opposed to a few days).
 
 ### Cytomegalovirus encephalitis
-almost always occurs in patients with severe immunodeficiency. In those with HIV, it typically occurs once the CD4 count is <50.
+almost always occurs in patients with severe immunodeficiency. In those with [[HIV]], it typically occurs once the CD4 count is <50.

@@ -40,19 +40,21 @@ Mantoux used to diagnose only latent TB -> May be positive in patients with BCG 
 | Pyrazinamide    | Hepatotoxicity, hyperuricemia -> [[Gout]] (Cat C: so isn't contraindicated but avoid it)   |
 | Ethambutol      | [[optic neuritis]], decrease visual acuity                                                 |
 | Streptomycin    | C/I in [[drugs contraindicated in pregnancy\|pregnancy]].<br><br>Ototoxicity: Deafness     |
-# Vaccine
+# BCG Vaccine
 BCG offers limited protection against TB. In UK, it's given to high-risk infants. 
-	*See full list of who to give vaccine at the [Greenbook](https://www.gov.uk/government/publications/tuberculosis-the-green-book-chapter-32).* 
+	*See full list of who to give vaccine at the [Greenbook](https://www.gov.uk/government/publications/tuberculosis-the-green-book-chapter-32) Page 6*. 
 BCG is given intradermally. 
 It contains live attenuated *Mycobacterium bovis*. It also offers limited protection against leprosy.  
 #### Administration 
 - any person being considered for the BCG vaccine must first be given a tuberculin skin test. The only exceptions are children < 6 years old who have had no contact with tuberculosis
 - given intradermally, normally to the lateral aspect of the left upper arm
-- BCG can be given at the same time as other live vaccines, but if not administered simultaneously there should be a 4 week interval
+- BCG can be given at the same time as other live vaccines, but if not administered simultaneously there should be a 4 week interval. 
+> Live vaccines, such as rotavirus, live attenuated influenza vaccine (LAIV), oral typhoid vaccine, yellow fever, varicella, zoster and MMR can be administered at any time before or after BCG vaccination. 
+> No further immunisation should be given in the arm used for BCG immunisation for at least three months because of the risk of regional lymphadenitis. The individual/parent/carer must always be advised of the normal reaction to the injection and about caring for the vaccination site
 #### Contraindications
 - previous BCG vaccination
-- a past history of tuberculosis
-- HIV
+- previous TB
+- [[HIV]] regardless of CD4 count, ART use, viral load, clinical status. 
 - pregnancy
 - positive tuberculin test (Heaf or Mantoux)
 
