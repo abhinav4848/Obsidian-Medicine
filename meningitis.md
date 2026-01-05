@@ -4,7 +4,15 @@ aliases:
 tags:
   - infection
   - neurology
+urls:
+  - https://www.britishinfection.org/application/files/5414/5674/3289/algorithm.pdf
 ---
+Links: 
+1. [PDF: Early Management of Suspected Meningitis and Meningococcal Sepsis in Immunocompetent Adults](https://www.britishinfection.org/application/files/5414/5674/3289/algorithm.pdf)
+2. [PDF: Guidance for public health management of meningococcal disease in the UK](https://assets.publishing.service.gov.uk/media/694a83a9033693d5d50eb8f7/Meningo-disease-guidelines-2025.pdf)
+3. [NICE: Medical emergencies in the community](https://bnf.nice.org.uk/treatment-summaries/medical-emergencies-in-the-community/)
+4. [NICE: Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management](https://www.nice.org.uk/guidance/ng240/chapter/Recommendations)
+
 After treating meningitis, arrange hearing test cuz it's the most likely complication. But most likely outcome is complete recovery.
 # Causes
 - **Bacterial**: Streptococcus pneumoniae, Neisseria meningitidis, and Listeria monocytogenes
@@ -21,7 +29,7 @@ CT shows meningeal enhancement.
 
 If rash developed: 
 - Blood culture (Meningococcal septicaemia -> Neisseria meningitidis)
-- The rash is non-blanching.
+- The rash is ==non-blanching==.
 
 if w/o rash
 - Lumbar puncture for CSF analysis
@@ -41,8 +49,12 @@ Bacterial CSF look same (turbid, purulent), but if
 ---
 # Treatment
 Treat even if suspected meningitis.
-### GP Clinic
-- Benzylpenicillin I.M. /IV
+### Suspected meningococcal disease in GP clinic
+- [[benzylpenicillin]] I.M. /IV 
+	- If meningitis suspected, GP to administer single dose of ben pen before hospital transfer. 
+	- Mortality rates are significantly reduced by pre-hospital antibiotics. 
+	- Do not administer antibacterial treatment outside of hospital if history of severe allergy to a beta-lactam antibacterial.
+- Can also give Ceftriaxone
 ### Hospital/A&E
 - 3rd gen cephalosporin -> Ceftriaxone/Cefotaxime empirical. Even [[gonorrhoea]] has same abx. 
 - If > 60yo, add i.v. ampicillin/amoxicillin to ceftriaxone to also cover listeria.
