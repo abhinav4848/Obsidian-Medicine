@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ophthalmoscopy.md",
+                "file": "tuberculosis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ophthalmoscopy"
+              "title": "tuberculosis"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vaccine",
+                "query": "bcg",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -76,7 +76,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -89,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ophthalmoscopy.md",
+                "file": "tuberculosis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,12 +113,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9999999700782042,
+                  "scale": 0.7132754371756358,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ophthalmoscopy"
+              "title": "Graph of tuberculosis"
             }
           }
         ]
@@ -141,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ophthalmoscopy.md",
+                "file": "tuberculosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ophthalmoscopy"
+              "title": "Outgoing links from tuberculosis"
             }
           },
           {
@@ -170,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ophthalmoscopy.md",
+                "file": "tuberculosis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ophthalmoscopy"
+              "title": "Outline of tuberculosis"
             }
           },
           {
@@ -209,10 +210,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ophthalmoscopy.md"
+                "file": "tuberculosis.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for ophthalmoscopy"
+              "title": "File properties for tuberculosis"
             }
           }
         ],
@@ -229,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ophthalmoscopy.md",
+                "file": "tuberculosis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +240,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ophthalmoscopy"
+              "title": "Backlinks for tuberculosis"
             }
           }
         ]
@@ -261,6 +262,8 @@
   },
   "active": "d1673f995a3c509c",
   "lastOpenFiles": [
+    "immunisation in adults.md",
+    "ophthalmoscopy.md",
     "housekeeping/revise recent changes.base",
     "housekeeping/gp guidelines- dermat.md",
     "housekeeping/gp guideliens- infectious diseases.md",
@@ -270,7 +273,6 @@
     "Clippings/People who are very articulate, what did you actually do to become this way.md",
     "Clippings",
     "papilledema.md",
-    "ophthalmoscopy.md",
     "deep vein thrombosis.md",
     "scoring system.md",
     "flow charts/deep vein thrombosis.canvas",
