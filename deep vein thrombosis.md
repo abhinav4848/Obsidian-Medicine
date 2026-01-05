@@ -4,6 +4,8 @@ tags:
 aliases:
   - DVT
   - well's score (DVT)
+urls:
+  - https://www.nice.org.uk/guidance/ng158/chapter/Recommendations
 ---
 # Venous thromoboembolism
 Scoring: [[scoring system|Well's Score]]
@@ -25,10 +27,11 @@ If D-Dimer:
 ### Exception
 Superficial vein thrombosis (aka superficial thrombophlebitis) of the long saphenous vein has the risk of becoming DVT so whenever a patient comes with it, get an ultrasound right away cuz high risk of DVT and anyway this condition has raised D-Dimer so no need of that.
 # Treatment
-DOAC ([[drugs contraindicated in pregnancy|Avoid in pregnancy]]/breastfeeding/CrCl < 15) -> LMWH.
+DOAC ([[drugs contraindicated in pregnancy|Avoid in pregnancy]]/breastfeeding/CrCl < 15) -> LMWH, UH, or LMWH then VKA
 ###### Duration
 - Provoked: 3 months
 - Unprovoked: 6 months if [[scoring system|ORBIT score]] says low bleeding risk
+	- Important for the first 3 months, then next 3 months is based on balancing bleeding risk vs VTE recurrence risk
 
 -----------------
 # D-Dimer elevation

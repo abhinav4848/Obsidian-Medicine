@@ -19,10 +19,10 @@ aliases:
   - FRAX
   - GAD-7
   - Gleason score
-  - HAD
+  - HAD Score
   - IPSS
   - MMSE
-  - MUST
+  - MUST Score
   - NYHA
   - Orbit Score
   - PHQ-9
@@ -31,8 +31,6 @@ aliases:
   - Smith scale
   - Waterlow score
   - Wells score
-
-
 ---
 
 | Scoring system                         | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |

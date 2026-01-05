@@ -5,10 +5,10 @@
 		{"id":"3b315e625a8d6e5a","type":"text","text":"Do D-Dimer","x":241,"y":-140,"width":140,"height":50,"color":"6"},
 		{"id":"1958d11568f3148d","type":"text","text":"DVT confirmed","x":-580,"y":76,"width":168,"height":50},
 		{"id":"e671c6d86c2176ff","type":"text","text":"Consider alternative diagnosis","x":360,"y":23,"width":138,"height":106},
-		{"id":"8cfd2dc11b6c2349","x":-412,"y":214,"width":200,"height":73,"color":"6","type":"text","text":"Do D-Dimer \n(if not already done)"},
+		{"id":"8cfd2dc11b6c2349","type":"text","text":"Do D-Dimer \n(if not already done)","x":-412,"y":214,"width":200,"height":73,"color":"6"},
 		{"id":"a43c7e2557962f35","type":"text","text":"Stop DOAC & repeat scan 6-8 days later","x":-415,"y":400,"width":200,"height":80,"color":"3"},
 		{"id":"e251d988ee6611ee","type":"text","text":"start interim DOAC while waiting\n- Apixaban\n- Rivaroxaban","x":70,"y":367,"width":251,"height":146,"color":"3"},
-		{"id":"53c7d2ed6004d739","x":-40,"y":76,"width":160,"height":101,"color":"6","type":"text","text":"Do D-Dimer \n(if not already done)"}
+		{"id":"53c7d2ed6004d739","type":"text","text":"Do D-Dimer \n(if not already done)","x":-80,"y":50,"width":160,"height":101,"color":"6"}
 	],
 	"edges":[
 		{"id":"b9958d5bb1f7cbd0","fromNode":"ee56dfd0642f0d5d","fromSide":"bottom","toNode":"c79ae8dedd0f76a7","toSide":"top","color":"4","label":" >=2"},

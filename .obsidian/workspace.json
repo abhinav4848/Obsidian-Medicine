@@ -11,16 +11,14 @@
             "id": "d1673f995a3c509c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "flow charts/deep vein thrombosis.canvas",
-                "viewState": {
-                  "x": -41,
-                  "y": 76.5,
-                  "zoom": -0.014039836518811582
-                }
+                "file": "deep vein thrombosis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
+              "icon": "lucide-file",
               "title": "deep vein thrombosis"
             }
           }
@@ -90,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "flow charts/deep vein thrombosis.canvas",
+                "file": "deep vein thrombosis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flow charts/deep vein thrombosis.canvas",
+                "file": "deep vein thrombosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -171,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flow charts/deep vein thrombosis.canvas",
+                "file": "deep vein thrombosis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -210,7 +208,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "flow charts/deep vein thrombosis.canvas"
+                "file": "deep vein thrombosis.md"
               },
               "icon": "lucide-info",
               "title": "File properties for deep vein thrombosis"
@@ -230,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flow charts/deep vein thrombosis.canvas",
+                "file": "deep vein thrombosis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,9 +260,9 @@
   },
   "active": "d1673f995a3c509c",
   "lastOpenFiles": [
+    "scoring system.md",
     "deep vein thrombosis.md",
     "flow charts/deep vein thrombosis.canvas",
-    "scoring system.md",
     "atrial fibrillation.md",
     "flow charts/haematuria.canvas",
     "flow charts/h. pylori treatment flowchart.canvas",
