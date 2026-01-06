@@ -5,7 +5,6 @@ tags:
 aliases:
   - psychotropic drugs
   - antidepressant
-  - SSRI
   - SNRI
 ---
 # Typical Antidepressants
@@ -22,19 +21,8 @@ Sertraline, Fluoxetine (both s/e: Anorgasmia/delayed ejaculation, SIADH),
 
 [[Citalopram]] (s/e [[glaucoma- acute angle closure|Acute angle closure glaucoma]], [[qt prolongation]]),
 Paroxetine.
-#### Side Effects of SSRIs 
-For all antidepressants, warn about: 
-- delay in onset of effect
-- transient increase in anxiety/depression, 
-- risk of withdrawal if stopped abruptly
-	- especially with paroxetine (SSRI) and venlafaxine (SNRI)
-	- Taper gradually over an extended period of time. 
-	- Withdrawal symptoms: Dizziness, numbness and tingling, gastrointestinal disturbances (particularly nausea and vomiting), headache, sweating, anxiety and sleep disturbances
-- Risk of GI bleed with SSRIs. So avoid them if Warfarin used. 
-	- If NSAID, Aspirin used, add PPI too. ([BNF Interactions](https://bnf.nice.org.uk/interactions/sertraline/))
-	- Avoid Triptans as [[fever caused by drugs|Serotonin syndrome]]. 
-- All SSRIs lower seizure threshold and cause [[hyponatremia]]. 
-- Be aware when prescribing SSRIs of the need to ask about cocaine use when considering drug–drug interactions, and the need to avoid concurrent use of multiple serotonergic drugs. 
+
+![[ssri]]
 ## MAOi 
 They are also antidepressants that are almost entirely not used, even in comparison to TCAs (dosulepin, etc.)
 

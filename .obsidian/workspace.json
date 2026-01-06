@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "depression.md",
+                "file": "ssri.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "depression"
+              "title": "ssri"
             }
           },
           {
@@ -104,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "venlaf",
+                "query": "ssri",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -139,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "depression.md",
+                "file": "ssri.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +167,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of depression"
+              "title": "Graph of ssri"
             }
           }
         ]
@@ -191,12 +191,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "depression.md",
+                "file": "ssri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from depression"
+              "title": "Outgoing links from ssri"
             }
           },
           {
@@ -220,13 +220,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "depression.md",
+                "file": "ssri.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of depression"
+              "title": "Outline of ssri"
             }
           },
           {
@@ -259,10 +259,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "depression.md"
+                "file": "ssri.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for depression"
+              "title": "File properties for ssri"
             }
           }
         ],
@@ -279,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "depression.md",
+                "file": "ssri.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +289,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for depression"
+              "title": "Backlinks for ssri"
             }
           }
         ]
@@ -311,13 +311,14 @@
   },
   "active": "d1673f995a3c509c",
   "lastOpenFiles": [
-    "tricyclic antidepressants.md",
-    "depression.md",
     "panic attacks.md",
+    "ssri.md",
+    "depression.md",
+    "citalopram.md",
+    "tricyclic antidepressants.md",
     "anticholinergics.md",
     "corticosteroid.md",
     "smoking.md",
-    "citalopram.md",
     "fever caused by drugs.md",
     "glaucoma- acute angle closure.md",
     "irritable bowel syndrome.md",
@@ -337,7 +338,6 @@
     "housekeeping/revise recent changes.base",
     "housekeeping/gp guidelines- dermat.md",
     "housekeeping/gp guideliens- infectious diseases.md",
-    "meningitis.md",
     "Clippings",
     "flow charts/deep vein thrombosis.canvas",
     "flow charts/haematuria.canvas",
