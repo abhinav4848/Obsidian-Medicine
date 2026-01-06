@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "depression.md",
+                "file": "panic attacks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "depression"
+              "title": "panic attacks"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sertraline",
+                "query": "anxie",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -90,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "depression.md",
+                "file": "panic attacks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -118,7 +118,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of depression"
+              "title": "Graph of panic attacks"
             }
           }
         ]
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "depression.md",
+                "file": "panic attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from depression"
+              "title": "Outgoing links from panic attacks"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "depression.md",
+                "file": "panic attacks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of depression"
+              "title": "Outline of panic attacks"
             }
           },
           {
@@ -210,10 +210,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "depression.md"
+                "file": "panic attacks.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for depression"
+              "title": "File properties for panic attacks"
             }
           }
         ],
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "depression.md",
+                "file": "panic attacks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +240,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for depression"
+              "title": "Backlinks for panic attacks"
             }
           }
         ]
@@ -262,6 +262,7 @@
   },
   "active": "d1673f995a3c509c",
   "lastOpenFiles": [
+    "depression.md",
     "seborrhoeic dermatitis.md",
     "otitis.md",
     "seborrhoeic keratosis.md",
@@ -293,7 +294,6 @@
     "Untitled.md",
     "pyelonephritis.md",
     "chronic kidney disease.md",
-    "statistics- parametric tests.md",
     "attachments/Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf",
     "attachments/erythema nodosum.jpg",
     "attachments/erythema multiforme.jpg",
