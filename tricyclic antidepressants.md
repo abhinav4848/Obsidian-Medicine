@@ -3,17 +3,18 @@ tags:
   - pharmacology
   - psychiatry
 ---
+Used in [[depression]]
+[[panic attacks|Panic disorder]] if [[depression|SSRI]] don't work/contraindicated. Only Imipramine, clomipramine as off-label use. 
+
 # Side Effects
+*Cardiotoxic, Convulsion, Coma.* 
+
 Antagonism of histamine receptors
-- drowsiness
-Antagonism of muscarinic receptors
-- dry mouth
-- blurred vision
-- constipation
-- urinary retention -> frequent leaking
-Antagonism of adrenergic receptors
+- drowsiness 
+Antagonism of [[anticholinergics|muscarinic receptors]]. 
+Antagonism of adrenergic receptors 
 - postural hypotension
-[[qt prolongation|lengthening of QT interval]]
+[[qt prolongation|Lengthening of QT interval]]
 
 # Management 
 - IV bicarbonate may reduce the risk of seizures and arrhythmias in severe toxicity

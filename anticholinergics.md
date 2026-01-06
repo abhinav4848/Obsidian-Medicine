@@ -11,8 +11,14 @@ aliases:
   - Muscarinic antagonist
   - Anticholinergic burden
 ---
-Useful as [[antiemetics]]
+Useful as [[antiemetics]]. 
+
 # Side effects
+- dry mouth
+- blurred vision
+- constipation
+- urinary retention -> frequent leaking
+
 #mnemonic 
 **hot** as _hare_ - hyperthermia
 **blind** as a _bat_ - dilated pupils (mydriasis), blurred vision

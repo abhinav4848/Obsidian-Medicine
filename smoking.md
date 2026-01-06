@@ -40,7 +40,7 @@ Varenicline works by partially activating the *nicotinic acetylcholine receptor*
 - c/i in [[drugs contraindicated in pregnancy|pregnancy]] & breastfeeding. 
 # Bupropion
 Norepinephrine and dopamine reuptake inhibitor, and nicotinic acetylcholine antagonist.
-Unlike many antidepressants, it has minimal effect on serotonin. 
+Unlike many [[depression|antidepressants]], it has minimal effect on serotonin. 
 - Start 1-2 weeks before target date to stop. 
 - small risk of seizures (1 in 1000)
 - c/i in epilepsy, [[drugs contraindicated in pregnancy|pregnancy]], breastfeeding. 
