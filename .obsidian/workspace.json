@@ -21,8 +21,23 @@
               "icon": "lucide-file",
               "title": "panic attacks"
             }
+          },
+          {
+            "id": "f2c0cbf11522789f",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.nice.org.uk/guidance/cg113/ifp/chapter/Generalised-anxiety-disorder-GAD",
+                "title": "Generalised anxiety disorder (GAD) | Information for the public | Generalised anxiety disorder and panic disorder in adults: management | Guidance | NICE",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Generalised anxiety disorder (GAD) | Information for the public | Generalised anxiety disorder and panic disorder in adults: management | Guidance | NICE"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +105,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "panic attacks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -118,7 +132,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of panic attacks"
+              "title": "Graph view"
             }
           }
         ]
@@ -142,12 +156,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "panic attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from panic attacks"
+              "title": "Outgoing links"
             }
           },
           {
@@ -171,13 +184,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "panic attacks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of panic attacks"
+              "title": "Outline"
             }
           },
           {
@@ -209,11 +221,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "panic attacks.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for panic attacks"
+              "title": "File properties"
             }
           }
         ],
@@ -230,7 +240,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "panic attacks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +249,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for panic attacks"
+              "title": "Backlinks"
             }
           }
         ]
@@ -260,8 +269,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "d1673f995a3c509c",
+  "active": "f2c0cbf11522789f",
   "lastOpenFiles": [
+    "panic attacks.md",
     "depression.md",
     "seborrhoeic dermatitis.md",
     "otitis.md",
@@ -293,7 +303,6 @@
     "flow charts/hypertension management.canvas",
     "Untitled.md",
     "pyelonephritis.md",
-    "chronic kidney disease.md",
     "attachments/Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf",
     "attachments/erythema nodosum.jpg",
     "attachments/erythema multiforme.jpg",
