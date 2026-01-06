@@ -28,16 +28,18 @@ Always look for a potential physical cause when considering a psychiatric diagno
 - NICE suggest [[depression|sertraline]] should be considered the first-line SSRI
 	- Sertraline is off-license for this use, so Informed consent should be obtained and documented. 
 - if sertraline is ineffective, offer an alternative SSRI or a serotonin-noradrenaline reuptake inhibitor (SNRI)
-    - SNRI: duloxetine and venlafaxine
-    - the risk of suicide and likelihood of toxicity in overdose (especially with venlafaxine)
+    - SNRI: duloxetine and venlafaxine 
     - tendency to produce a withdrawal syndrome (especially with paroxetine and venlafaxine)
 - Pregabalin if cannot tolerate SSRIs or SNRIs. 
 	- Don't offer Benzodiazepines or anti-psychotic. 
 - interestingly for patients under the age of 30 years NICE recommend you warn patients of the increased risk of suicidal thinking and self-harm. Weekly follow-up is recommended for the first month
 
+![[ssri#Side Effects of SSRIs|SSRI]]
+
+---
 # Panic Disorder
 [NICE CKS](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations#stepped-care-for-people-with-panic-disorder) 
-1. CBT
+1. CBT 
 2. SSRIs, SNRIs. Drugs licensed for the treatment of panic disorder:
 	1. Escitalopram, Sertraline, citalopram, paroxetine
 	2. Venlafaxine. 
@@ -45,12 +47,6 @@ Always look for a potential physical cause when considering a psychiatric diagno
 3. TCA (only if SSRI c/i or no response in 12 weeks): Imipramine, clomipramine- off label use. 
 4. offer referral
 5. care in specialist MH services
-
-For all antidepressants, warn about 
-- delay in onset of effect
-- transient increase in anxiety,
-- risk of withdrawal if stopped abruptly- taper gradually over an extended period of time. 
-	- dizziness, numbness and tingling, gastrointestinal disturbances (particularly nausea and vomiting), headache, sweating, anxiety and sleep disturbances
 # Acute Treatment 
 **Before attack trigger is anticipated**: Propranolol
 **During attack**: Rebreathe into a paper bag > BZD

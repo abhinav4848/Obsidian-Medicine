@@ -14,6 +14,7 @@ Used in
 For all antidepressants, warn about: 
 - delay in onset of effect
 - transient increase in anxiety/depression, 
+	- Risk of suicide and likelihood of toxicity in overdose (especially with venlafaxine)
 - risk of withdrawal if stopped abruptly
 	- especially with paroxetine (SSRI) and venlafaxine (SNRI) 
 	- Taper gradually over an extended period of time. ([GP notebook](https://gpnotebook.com/en-GB/pages/gastroenterology/antidepressants-stopping-or-switching-treatment))

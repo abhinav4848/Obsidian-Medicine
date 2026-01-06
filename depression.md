@@ -22,7 +22,7 @@ Sertraline, Fluoxetine (both s/e: Anorgasmia/delayed ejaculation, SIADH),
 [[Citalopram]] (s/e [[glaucoma- acute angle closure|Acute angle closure glaucoma]], [[qt prolongation]]),
 Paroxetine.
 
-![[ssri]]
+![[ssri#Side Effects of SSRIs]]
 ## MAOi 
 They are also antidepressants that are almost entirely not used, even in comparison to TCAs (dosulepin, etc.)
 
@@ -40,6 +40,8 @@ Use 2nd line in [[panic attacks|Generalised Anxiety Disorder]] & panic disorder.
 S/e: 
 - The risk of suicide and likelihood of toxicity in overdose (especially with venlafaxine)
 - Higher tendency to have withdrawal syndrome. 
+
+---
 # Other notes about treatment
 If SSRI not working,
 - See compliance -> Switch to another SSRI -> switch to another class: Mirtazapine
@@ -55,18 +57,15 @@ Patients < 25yo, or at increased risk of suicide should be reviewed after 1 week
 # Discontinuation
 Antidepressants are not addictive and should be used for 6 months at least, even if early improvement seen, as this reduces relapse.  
 
-When stopping a SSRI the dose should be gradually reduced over a 4 week period (this is not necessary with fluoxetine). Paroxetine has a higher incidence of discontinuation symptoms.
-- Dizziness,
-- Paresthesia- Electric shock sensation
-- Anxiety
-- GI symptoms: pain, cramp, diarrhoea, **vomiting**
+When stopping a SSRI the dose should be gradually reduced over a 4 week period (this is not necessary with fluoxetine). Paroxetine & venlafaxine has a higher incidence of discontinuation symptoms.
+- See [[ssri#Side Effects of SSRIs]]
 
 # Drugs in specific conditions
 | Condition                                               | Drug to choose                                                                                                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Antiepileptic drug                                      | sertraline                                                                                                                                                                                                                                                                                                                                                   |
 | Atypical depression                                     | MAOi Phenelzine                                                                                                                                                                                                                                                                                                                                              |
-| MI                                                      | Sertraline > Citalopram (SSRI) (but risk of bleeding cuz patient on blood thinners already) -> if patient has IHD & is on Aspirin, add PPI.<br><br>  <br>Also, [[citalopram]] has [[qt prolongation]].                                                                                                                                                       |
+| MI                                                      | Sertraline > Citalopram (SSRI) (but risk of bleeding cuz patient on blood thinners already) -> if patient has IHD & is on Aspirin, add PPI.<br><br>Also, [[citalopram]] has [[qt prolongation]].                                                                                                                                                             |
 | Patient on Triptans/MAO inhibitors                      | Increased risk of [[fever caused by drugs\|Serotonin syndrome]].                                                                                                                                                                                                                                                                                             |
 | Patient on Warfarin/Heparin/Aspirin/has sexual disorder | Mirtazapine (Avoid SSRI like [[citalopram]])                                                                                                                                                                                                                                                                                                                 |
 | Post-partum depression                                  | Sertraline (best for breastfeeding mothers)                                                                                                                                                                                                                                                                                                                  |
