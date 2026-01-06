@@ -22,5 +22,5 @@ For all antidepressants, warn about:
 - Risk of GI bleed with SSRIs. So avoid them if Warfarin used. 
 	- If NSAID, Aspirin used, add PPI too. ([BNF Interactions](https://bnf.nice.org.uk/interactions/sertraline/))
 - Avoid Triptans & MAOi as [[fever caused by drugs|Serotonin syndrome]]. 
-- All SSRIs lower seizure threshold and cause [[hyponatremia]]. 
+- All SSRIs lower [[seizure]] threshold and cause [[hyponatremia]]. 
 - Be aware when prescribing SSRIs of the need to ask about cocaine use when considering drug–drug interactions, and the need to avoid concurrent use of multiple serotonergic drugs. 

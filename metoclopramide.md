@@ -23,6 +23,6 @@ Useful in impaired gastric emptying (gastroparesis).
 1. Crosses BBB- In young people can cause [[extrapyramidal side-effects|acute dystonia]] due to EPS effect (drug-induced [[parkinson's disease|parkinsonism]]), e.g.: Oculogyric crisis.
 	1. The FDA recommends that metoclopramide be used at low doses and for less than 12 weeks because the risk of [[extrapyramidal side-effects|drug-induced movement disorders]] (e.g., tardive dyskinesia, akathisia) is increased with high-doses and prolonged therapy.
 2. Can cause hyperprolactinemia & nipple discharge but not [[gynaecomastia]].
-3. Lowers seizure threshold. 
+3. Lowers [[seizure]] threshold. 
 4. Avoid in suspected small bowel obstruction
 5. Avoid combining with [[digoxin]] and [[diabetes drugs]]. 

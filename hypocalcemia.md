@@ -19,7 +19,7 @@ SPASMODIC: #mnemonic
 - Spasm, 
 - perioral paresthesia, 
 - anxious, 
-- seizures, 
+- [[seizure|seizures]], 
 - muscle tone increased in smooth muscle, 
 - orientation impairment (time, place, person)/confusion, 
 - dermatitis, 

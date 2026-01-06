@@ -29,7 +29,7 @@ Toxicity can be caused by DAMN (not to be confused with DAMN in [[diarrhoea|diar
 - [[Metronidazole]]- it reduces excretion of Lithium, 
 - [[nsaid|NSAIDs]] -> Reduces eGFR. 
 ## Clinical Features of toxicity
-Confusion, ataxia, tremor, seizure, polyuria.
+Confusion, ataxia, tremor, [[seizure]], polyuria.
 Muscle twitch, blurred vision, [[diarrhoea]], vomiting.
 ## Management of Toxicity
 - mild-moderate toxicity may respond to volume resuscitation with normal saline

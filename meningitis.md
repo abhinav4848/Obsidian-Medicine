@@ -40,7 +40,7 @@ Bacterial CSF look same (turbid, purulent), but if
 ## Lumbar puncture contraindicated if:
 - Increased ICP
 - Bulging, tense fontanelle
-- Ongoing seizure
+- Ongoing [[seizure]]
 - GCS < 9 or a drop of >=3
 - Unequal, dilated, unresponsive pupils
 - [[papilledema]] 

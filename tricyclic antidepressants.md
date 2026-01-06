@@ -17,7 +17,7 @@ Antagonism of adrenergic receptors
 [[qt prolongation|Lengthening of QT interval]]
 
 # Management 
-- IV bicarbonate may reduce the risk of seizures and arrhythmias in severe toxicity
+- IV bicarbonate may reduce the risk of [[seizure|seizures]] and arrhythmias in severe toxicity
 - Arrhythmias: 
 	- Class 1a (e.g. Quinidine) and class 1c antiarrhythmics (e.g. Flecainide) are contraindicated as they prolong depolarisation. 
 	- Class III drugs such as amiodarone should also be avoided as they prolong the QT interval. 

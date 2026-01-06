@@ -16,7 +16,7 @@ h/o [[travel infections|travel]] to Africa + meningitis like features + anaemia 
 | **Drug**                          | **Side-effects + notes**                                                                                 | **Time to begin before travel** | **Time to end after travel** |
 | --------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------- | ---------------------------- |
 | Atovaquone + proguanil (Malarone) | GI upset                                                                                                 | 1 - 2 days                      | 7 days                       |
-| Chloroquine                       | Headache  <br>  <br>Contraindicated in epilepsy  <br>==Taken weekly==                                    | 1 week                          | 4 weeks                      |
+| Chloroquine                       | Headache  <br>  <br>Contraindicated in [[seizure]]<br><br>==Taken weekly==                               | 1 week                          | 4 weeks                      |
 | Doxycycline                       | Photosensitivity  <br>Oesophagitis                                                                       | 1 - 2 days                      | 4 weeks                      |
 | Mefloquine (Lariam)               | Dizziness  <br>Neuropsychiatric disturbance  <br>  <br>Contraindicated in epilepsy  <br>==Taken weekly== | 2 - 3 weeks                     | 4 weeks                      |
 | Proguanil (Paludrine)             |                                                                                                          | 1 week                          | 4 weeks                      |

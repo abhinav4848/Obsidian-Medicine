@@ -7,7 +7,7 @@ aliases:
 ---
 Most common type is viral & among viruses, most common is HSV-1
 # Clinical Features
-Seizures/neuro/behavioural changes/psych signs/focal features suggest encephalitis over [[meningitis]].
+[[seizure|Seizures]]/neuro/behavioural changes/psych signs/focal features suggest encephalitis over [[meningitis]].
 ## *Note:*
 - Peripheral lesions (e.g. [[cold sores]]) have no relation to the presence of HSV encephalitis.
 - In contrast to other forms of encephalitis (e.g. CMV, cryptococcal), it often affects **immunocompetent** individuals (as well as the immunocompromised).

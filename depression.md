@@ -34,7 +34,7 @@ They are also antidepressants that are almost entirely not used, even in compari
 3. Trazodone 
 4. Bupropion, and [[smoking|nicotinic]] acetylcholine antagonist. 
 	1. NDRI: NA and DA reuptake inhibitor
-	2. Bupropion increases seizure risk. 
+	2. Bupropion increases [[seizure]] risk. 
 ## SNRI
 Use 2nd line in [[panic attacks|Generalised Anxiety Disorder]] & panic disorder. 
 S/e: 

@@ -25,7 +25,7 @@ Antipsychotics counter the effects of dopamine excess in [[delirium]], psychosis
 - EPS less common than typicals
 - Clozapine: agranulocytosis 
 - Olanazapine: High risk of dyslipidemia and obesity.
-- Greater lowering of seizure thresholds than typicals.
+- Greater lowering of [[seizure]] thresholds than typicals.
 
 # Other Side effects (for both)
 HAM side effects: Found in [[tricyclic antidepressants]] (TCA’s) and low potency antipsychotics. 

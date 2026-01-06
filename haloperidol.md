@@ -15,7 +15,7 @@ Antagonist on D2, alpha-1, sigma receptors.
 ## Caution
 Use caution in dementia (increased mortality and stroke risk)
 Reduce starting dose in renal impairment
-Epilepsy (lowers seizure threshold)
+[[seizure|Epilepsy]] (lowers [[seizure]] threshold)
 
 ## Contra-indication
 - Central D2-dopamine receptor antagonist- avoid in [[Parkinson's disease]] as can cause [[extrapyramidal side-effects|EPS]]. 

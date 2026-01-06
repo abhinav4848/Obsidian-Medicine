@@ -23,7 +23,7 @@ tags:
 ---
 # Not contraindications to immunization  
 - [[asthma]] or [[eczema]]
-- history of seizures (if associated with fever then advice should be given regarding antipyretics)
+- history of [[seizure|seizures]] (if associated with fever then advice should be given regarding antipyretics)
 - breastfed child
 - previous history of natural pertussis, measles, mumps or rubella infection
 - history of neonatal jaundice

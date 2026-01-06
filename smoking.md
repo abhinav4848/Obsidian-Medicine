@@ -43,7 +43,7 @@ Norepinephrine and dopamine reuptake inhibitor, and nicotinic acetylcholine anta
 Unlike many [[depression|antidepressants]], it has minimal effect on serotonin. 
 - Start 1-2 weeks before target date to stop. 
 - small risk of seizures (1 in 1000)
-- c/i in epilepsy, [[drugs contraindicated in pregnancy|pregnancy]], breastfeeding. 
+- c/i in [[epilepsy]], [[drugs contraindicated in pregnancy|pregnancy]], breastfeeding. 
 - Having an eating disorder is a relative contraindication. 
 
 ---

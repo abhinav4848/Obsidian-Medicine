@@ -11,7 +11,7 @@ tags:
 # Side Effects
 - It’s an [[p450|enzyme inhibitor]] and will increase effectiveness of OCP, warfarin.
 - Reduces excretion of [[Lithium]] and can cause toxicity.
-- Can cause [[drugs that can cause ocular problems|Optic Neuritis]] & seizures. 
+- Can cause [[drugs that can cause ocular problems|Optic Neuritis]] & [[seizure|seizures]]. 
 
 Rarely it can lead to neurotoxic effects, including 
 - peripheral neuropathy, 
