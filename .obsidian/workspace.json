@@ -23,21 +23,6 @@
             }
           },
           {
-            "id": "bdd595bb7f1cc447",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "seizure.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "seizure"
-            }
-          },
-          {
             "id": "bd30f0ee79de8d7d",
             "type": "leaf",
             "state": {
@@ -120,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "seizure.md",
+                "file": "depression.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +133,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of seizure"
+              "title": "Graph of depression"
             }
           }
         ]
@@ -172,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "seizure.md",
+                "file": "depression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from seizure"
+              "title": "Outgoing links from depression"
             }
           },
           {
@@ -201,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "seizure.md",
+                "file": "depression.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of seizure"
+              "title": "Outline of depression"
             }
           },
           {
@@ -240,10 +225,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "seizure.md"
+                "file": "depression.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for seizure"
+              "title": "File properties for depression"
             }
           }
         ],
@@ -260,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "seizure.md",
+                "file": "depression.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +255,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for seizure"
+              "title": "Backlinks for depression"
             }
           }
         ]
@@ -290,10 +275,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "bdd595bb7f1cc447",
+  "active": "bd30f0ee79de8d7d",
   "lastOpenFiles": [
-    "phenytoin.md",
     "seizure.md",
+    "phenytoin.md",
     "tricyclic antidepressants.md",
     "seizures.md",
     "depression.md",
