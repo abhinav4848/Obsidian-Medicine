@@ -50,8 +50,9 @@ If SSRI not working,
 
 Severe Depression: when suicidal/harm self or others: Admit to psych ward. ECT is last to last resort.
 # Follow up
-Following the initiation of antidepressant therapy patients should normally be reviewed by a doctor after 2 weeks.
+Following the initiation of antidepressant therapy patients should normally be reviewed by a doctor after 2 weeks. 
 
+>[!warning]
 Patients < 25yo, or at increased risk of suicide should be reviewed after 1 week. Ensure a risk management strategy is in place. Arrange subsequent reviews as needed and within 4 weeks of starting antidepressant treatment. 
 # Discontinuation
 Antidepressants are not addictive and should be used for 6 months at least, even if early improvement seen, as this reduces relapse.  
