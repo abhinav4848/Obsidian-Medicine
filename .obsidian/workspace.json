@@ -163,6 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "menopause.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of menopause"
             }
           }
         ]
@@ -214,11 +215,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "menopause.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from menopause"
             }
           },
           {
@@ -242,12 +244,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "menopause.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of menopause"
             }
           },
           {
@@ -279,9 +282,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "menopause.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for menopause"
             }
           }
         ],
@@ -298,6 +303,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "menopause.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +313,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for menopause"
             }
           }
         ]
@@ -327,8 +333,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "c91b7f235228cd2c",
+  "active": "8f500c57b797d4ae",
   "lastOpenFiles": [
+    "hrt- negatives.md",
     "menopause.md",
     "cancer- breast (treatment).md",
     "cancer- breast (types).md",
@@ -355,7 +362,6 @@
     "panic attacks.md",
     "citalopram.md",
     "anticholinergics.md",
-    "corticosteroid.md",
     "housekeeping/revise recent changes.base",
     "Clippings",
     "flow charts/deep vein thrombosis.canvas",
