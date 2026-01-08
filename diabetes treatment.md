@@ -3,6 +3,7 @@ tags:
   - diabetes
   - endocrine
 aliases:
+  - Diabetes Mellitus
 urls:
   - https://www.nice.org.uk/guidance/ng28
 ---

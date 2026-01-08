@@ -10,7 +10,9 @@ urls:
   - https://youtu.be/4Y7wdX7iEAY
 ---
 # Mechanism of action
-![MoA](https://youtu.be/4Y7wdX7iEAY)
+>[!Video on Mechanism Of Action]-
+>![MoA](https://youtu.be/4Y7wdX7iEAY)
+
 *See [[diabetes treatment]].* 
 ## Insulin Sensitisers
 Metformin also reduces hepatic gluconeogenesis

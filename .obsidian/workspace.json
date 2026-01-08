@@ -52,12 +52,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2022/06/Menopause-and-HRT-guideline.pdf",
-                "title": "Menopause-and-HRT-guideline.pdf",
+                "url": "https://www.nice.org.uk/guidance/ng23/resources/incidence-of-medical-conditions-with-and-without-hrt-a-discussion-aid-pdf-13553199901",
+                "title": "NG23 Menopause: Discussion aid on HRT and the likelihood of some medical conditions 07/11/2024",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Menopause-and-HRT-guideline.pdf"
+              "title": "NG23 Menopause: Discussion aid on HRT and the likelihood of some medical conditions 07/11/2024"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "amenor",
+                "query": "diabetes",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -138,7 +138,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "menopause.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,7 +165,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of menopause"
+              "title": "Graph view"
             }
           }
         ]
@@ -190,12 +189,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "menopause.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from menopause"
+              "title": "Outgoing links"
             }
           },
           {
@@ -219,13 +217,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "menopause.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of menopause"
+              "title": "Outline"
             }
           },
           {
@@ -257,11 +254,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "menopause.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for menopause"
+              "title": "File properties"
             }
           }
         ],
@@ -278,7 +273,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "menopause.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +282,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for menopause"
+              "title": "Backlinks"
             }
           }
         ]
@@ -308,10 +302,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8f500c57b797d4ae",
+  "active": "bd30f0ee79de8d7d",
   "lastOpenFiles": [
-    "cancer- breast (treatment).md",
     "menopause.md",
+    "diabetes mellitus- diagnosis.md",
+    "diabetes treatment.md",
+    "diabetes- gestational.md",
+    "diabetes in palliative care.md",
+    "diabetes drugs.md",
+    "cancer- breast (treatment).md",
     "amenorrhoea.md",
     "depression.md",
     "desktop.ini",
@@ -332,11 +331,6 @@
     "corticosteroid.md",
     "fever caused by drugs.md",
     "glaucoma- acute angle closure.md",
-    "irritable bowel syndrome.md",
-    "scoring system.md",
-    "seborrhoeic dermatitis.md",
-    "otitis.md",
-    "seborrhoeic keratosis.md",
     "housekeeping/revise recent changes.base",
     "Clippings",
     "flow charts/deep vein thrombosis.canvas",
