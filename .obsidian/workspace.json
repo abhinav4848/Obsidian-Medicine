@@ -6,7 +6,7 @@
       {
         "id": "4990a8a98dccf0d5",
         "type": "tabs",
-        "dimension": 33.96328293736501,
+        "dimension": 89.20086393088553,
         "children": [
           {
             "id": "d1673f995a3c509c",
@@ -44,7 +44,7 @@
       {
         "id": "23e8e7458ae219c7",
         "type": "tabs",
-        "dimension": 66.03671706263499,
+        "dimension": 10.799136069114471,
         "children": [
           {
             "id": "bd30f0ee79de8d7d",
@@ -59,8 +59,33 @@
               "icon": "globe-2",
               "title": "NG23 Menopause: Discussion aid on HRT and the likelihood of some medical conditions 07/11/2024"
             }
+          },
+          {
+            "id": "c91b7f235228cd2c",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2022/06/Menopause-and-HRT-guideline.pdf",
+                "title": "Menopause-and-HRT-guideline.pdf",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Menopause-and-HRT-guideline.pdf"
+            }
+          },
+          {
+            "id": "e3927987bdc91df1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,6 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "menopause.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of menopause"
             }
           }
         ]
@@ -189,11 +215,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "menopause.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from menopause"
             }
           },
           {
@@ -217,12 +244,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "menopause.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of menopause"
             }
           },
           {
@@ -254,9 +282,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "menopause.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for menopause"
             }
           }
         ],
@@ -273,6 +303,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "menopause.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +313,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for menopause"
             }
           }
         ]
@@ -302,15 +333,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "bd30f0ee79de8d7d",
+  "active": "8f500c57b797d4ae",
   "lastOpenFiles": [
+    "cancer- breast (treatment).md",
+    "cancer- breast (types).md",
+    "cancer- breast (referral criteria).md",
     "menopause.md",
     "diabetes mellitus- diagnosis.md",
     "diabetes treatment.md",
     "diabetes- gestational.md",
     "diabetes in palliative care.md",
     "diabetes drugs.md",
-    "cancer- breast (treatment).md",
     "amenorrhoea.md",
     "depression.md",
     "desktop.ini",
@@ -329,8 +362,6 @@
     "citalopram.md",
     "anticholinergics.md",
     "corticosteroid.md",
-    "fever caused by drugs.md",
-    "glaucoma- acute angle closure.md",
     "housekeeping/revise recent changes.base",
     "Clippings",
     "flow charts/deep vein thrombosis.canvas",

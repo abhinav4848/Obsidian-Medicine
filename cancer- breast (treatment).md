@@ -7,12 +7,13 @@ aliases:
 ---
 Most imp risk: [[cancer- risk factors|Family History]], COCP, *early menarche?*
 
-**Genes & tumour marker** 
+#### Genes & tumour marker
 BRCA 1, BRCA 2 (AD with incomplete penetrance) for Breast & Ovary. 
 Ca 15-3 is the [[tumour marker|tumour marker]] for prognosis. 
 #genetics 
-
-**Referral criteria**
+#### Hormone receptors
+ER+, PR+, HER2+, or triple-negative
+#### Referral criteria
 See: *[[cancer- breast (referral criteria)]] & [[cancer- breast (types)]].* 
 
 ---
@@ -29,9 +30,9 @@ Suspicious breast lump: FNAC -> Core biopsy.
 - Must be HER2+ve.
 - Trastuzumab (Herceptin) -> but can't use if h/o heart disorders.
 ## Surgical
-- If no palpable axillary LN -> USG of LN -> If this also negative -> Sentinel node biopsy.
-- If palpable LN -> LN clearance at primary surgery.
-- Depending on the characteristic of tumour, either Wide Local (e.g. DCIS <4cm) or Mastectomy is done.
+- If no palpable axillary LN -> USS of LN -> If this also negative -> Sentinel node biopsy.
+- If palpable LN -> LN clearance at primary surgery. 
+- Depending on the characteristic of tumour, either Wide Local Excision (e.g. DCIS <4cm) or Mastectomy is done.
 
 ## Radiotherapy
 - If WLE -> Whole breast radiotherapy

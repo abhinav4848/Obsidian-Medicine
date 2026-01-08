@@ -18,7 +18,7 @@ Effects of Menopause
 	- Mood changes.
 	- Cognitive disturbance.
 - Osteoporosis
-- Loss of muscle mass & strength:
+- Loss of muscle mass & strength
 
 # FSH
 Premature Menopause: <40yo
