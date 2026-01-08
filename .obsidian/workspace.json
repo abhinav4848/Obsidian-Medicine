@@ -6,7 +6,7 @@
       {
         "id": "4990a8a98dccf0d5",
         "type": "tabs",
-        "dimension": 89.20086393088553,
+        "dimension": 40.98272138228942,
         "children": [
           {
             "id": "d1673f995a3c509c",
@@ -44,7 +44,7 @@
       {
         "id": "23e8e7458ae219c7",
         "type": "tabs",
-        "dimension": 10.799136069114471,
+        "dimension": 59.01727861771058,
         "children": [
           {
             "id": "bd30f0ee79de8d7d",
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +163,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "menopause.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +190,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of menopause"
+              "title": "Graph view"
             }
           }
         ]
@@ -215,12 +214,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "menopause.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from menopause"
+              "title": "Outgoing links"
             }
           },
           {
@@ -244,13 +242,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "menopause.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of menopause"
+              "title": "Outline"
             }
           },
           {
@@ -282,11 +279,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "menopause.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for menopause"
+              "title": "File properties"
             }
           }
         ],
@@ -303,7 +298,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "menopause.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,7 +307,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for menopause"
+              "title": "Backlinks"
             }
           }
         ]
@@ -333,12 +327,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8f500c57b797d4ae",
+  "active": "c91b7f235228cd2c",
   "lastOpenFiles": [
+    "menopause.md",
     "cancer- breast (treatment).md",
     "cancer- breast (types).md",
     "cancer- breast (referral criteria).md",
-    "menopause.md",
     "diabetes mellitus- diagnosis.md",
     "diabetes treatment.md",
     "diabetes- gestational.md",

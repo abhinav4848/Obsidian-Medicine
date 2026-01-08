@@ -50,10 +50,9 @@ All women over age 55 can cease contraception as spontaneous conception is rare 
 	- Strong family history of VTE
 - Liver disease (with abnormal LFTs).
 - Porphyria cutanea tarda
-- Migraine with aura
+- [[Migraine]] with aura
 - Women over the age of 60 years commencing HRT
 - Women with a subtotal or partial hysterectomy or have had a hysterectomy but have a history of endometriosis. Use Advice and Guidance before commencing HRT to check the risks of retained endometrium unless clear information has already been provided about HRT in the post-surgery clinic letters.
-
 ## Side Effects of HRT
 
 | Oestrogen                                                                                                                                                                                                                                                                                                                              | Progesterone                                                                                                                                                                                         |
