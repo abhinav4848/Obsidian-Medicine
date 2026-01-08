@@ -24,7 +24,7 @@ Suspicious breast lump: FNAC -> Core biopsy.
 ## Hormonal
 - Only done for ER+ tumours.
 - [[cancer- drugs involved in gynae cancers|Tamoxifen]] for pre and peri menopausal women up-to 5 years.
-- Aromatase inhibitor (anastrozole) in post menopausal as this is how most E is formed post-menopausally.
+- Aromatase inhibitor (Letrozole, Anastrozole) in post-menopausal, as this is how most E is formed post-menopausally. 
 ## Biological
 - Must be HER2+ve.
 - Trastuzumab (Herceptin) -> but can't use if h/o heart disorders.
