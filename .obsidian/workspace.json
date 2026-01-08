@@ -6,6 +6,7 @@
       {
         "id": "4990a8a98dccf0d5",
         "type": "tabs",
+        "dimension": 33.96328293736501,
         "children": [
           {
             "id": "d1673f995a3c509c",
@@ -23,22 +24,43 @@
             }
           },
           {
-            "id": "bd30f0ee79de8d7d",
+            "id": "8f500c57b797d4ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "depression.md",
+                "file": "menopause.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "depression"
+              "title": "menopause"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "23e8e7458ae219c7",
+        "type": "tabs",
+        "dimension": 66.03671706263499,
+        "children": [
+          {
+            "id": "bd30f0ee79de8d7d",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2022/06/Menopause-and-HRT-guideline.pdf",
+                "title": "Menopause-and-HRT-guideline.pdf",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Menopause-and-HRT-guideline.pdf"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,6 +113,16 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "9b8ea1d24095385d",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer-history",
+              "state": {},
+              "icon": "lucide-clock",
+              "title": "Web history"
+            }
           }
         ]
       },
@@ -105,7 +137,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "depression.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,7 +164,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of depression"
+              "title": "Graph view"
             }
           }
         ]
@@ -157,12 +188,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "depression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from depression"
+              "title": "Outgoing links"
             }
           },
           {
@@ -186,13 +216,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "depression.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of depression"
+              "title": "Outline"
             }
           },
           {
@@ -224,11 +253,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "depression.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for depression"
+              "title": "File properties"
             }
           }
         ],
@@ -245,7 +272,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "depression.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for depression"
+              "title": "Backlinks"
             }
           }
         ]
@@ -277,12 +303,13 @@
   },
   "active": "bd30f0ee79de8d7d",
   "lastOpenFiles": [
+    "menopause.md",
+    "depression.md",
     "desktop.ini",
     "seizure.md",
     "phenytoin.md",
     "tricyclic antidepressants.md",
     "seizures.md",
-    "depression.md",
     "malaria.md",
     "psychiatric disorders.md",
     "stroke.md",
