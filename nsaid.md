@@ -13,8 +13,8 @@ tags:
 	- NSAIDs reduce PGs -> renal efferent constriction -> 
 		- Na & Fluid retention: CHF
 		- AKI, reduced glomerular filtration: CKD
-	- NSAIDs reduce PGs -> arachidonic acid shunted to Thromboxane production: 
-		- Increased clotting with unchecked thromboxane: IHD
+	- NSAIDs reduce PGs -> arachidonic acid shunted to Leukotriene production: 
+		- Selective COX-2 inhibitors -> PGI2 from COX-2 is reduced -> Relative excess of thromboxane: IHD
 		- PGs dilate airway, leukotrienes constrict
 ## NSAID & CHF
 - NSAIDs inhibit renal prostaglandins -> Afferent arteriole vasoconstriction
