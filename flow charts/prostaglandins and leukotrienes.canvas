@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"d31b3a0df1e80d78","type":"text","text":"Membrane phospholipids","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"617382634ccd794e","type":"text","text":"Arachidonic acid","x":-125,"y":120,"width":250,"height":60},
+		{"id":"c6ae0cfa59864e45","type":"text","text":"COX-2\n- constitutively found in Brain & Kidney\n- Inducible during inflammation (i.e. upregulated by inflammation)- by cytokines & inflammatory mediators (endotoxins)","x":-229,"y":365,"width":329,"height":235},
+		{"id":"9e2416c432982467","type":"text","text":"COX-1\n- constitutive, and is found in most tissues such as BV, Kidney, Stomach, Platelets. \n- COX is the enzyme responsible for biosynthesis of various PGs","x":-540,"y":365,"width":286,"height":235},
+		{"id":"5a13c59562725bea","type":"text","text":"Cyclooxygenase (COX) enzyme","x":-354,"y":260,"width":274,"height":50},
+		{"id":"a44c936fe2773cd0","type":"text","text":"Lipoxygenase (LOX)","x":180,"y":260,"width":189,"height":50},
+		{"id":"d3e482319bd98ef8","type":"text","text":"Leukotrienes","x":186,"y":365,"width":177,"height":56},
+		{"id":"439f5d0b664554bd","x":-532,"y":660,"width":271,"height":208,"type":"text","text":"Produces:\n- PGI2\n- PGF2alpha\n- PGE2\n- PGD2\n- TXA2: Platelet aggregation"},
+		{"id":"af7cd7f241909622","x":-554,"y":-50,"width":400,"height":200,"type":"file","file":"nsaid.md"}
+	],
+	"edges":[
+		{"id":"2d0b529dfba11fbd","fromNode":"d31b3a0df1e80d78","fromSide":"bottom","toNode":"617382634ccd794e","toSide":"top","label":"Phospholipase A2"},
+		{"id":"67b59159adb0b68e","fromNode":"617382634ccd794e","fromSide":"bottom","toNode":"5a13c59562725bea","toSide":"top"},
+		{"id":"a6dfc316c0e2b5dd","fromNode":"5a13c59562725bea","fromSide":"bottom","toNode":"9e2416c432982467","toSide":"top"},
+		{"id":"259793c25515ce6d","fromNode":"5a13c59562725bea","fromSide":"bottom","toNode":"c6ae0cfa59864e45","toSide":"top"},
+		{"id":"3488b8c8f2b1d12e","fromNode":"617382634ccd794e","fromSide":"bottom","toNode":"a44c936fe2773cd0","toSide":"top"},
+		{"id":"730e35a13c00691d","fromNode":"a44c936fe2773cd0","fromSide":"bottom","toNode":"d3e482319bd98ef8","toSide":"top"},
+		{"id":"e99840c3a1d26418","fromNode":"9e2416c432982467","fromSide":"bottom","toNode":"439f5d0b664554bd","toSide":"top"}
+	]
+}

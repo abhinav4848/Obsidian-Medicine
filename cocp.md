@@ -32,10 +32,10 @@ Avoid in first 21 days (UKMEC-4: VTE Risk). After this,
 # Contraindications 
 "*MBBS is very hard*" #mnemonic 
 (COCP has the most contraindications)
-- [[Migraine]] with aura
+- [[Migraine]] with aura 
 - h/o, or genes for [[cancer- breast (treatment)|Breast Cancer]] (but just family history is okay)
 - Obese (BMI > 30kg/m2),
-- Smoker/ex-smoker,
+- Smoker/ex-smoker, 
 - h/o Venous thromboembolism, DVT
 - [[hypertension|HTN]] (even if well controlled),
 - Post partum: if breastfeeding then give > 6 months, else 6 weeks,

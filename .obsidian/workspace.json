@@ -6,7 +6,7 @@
       {
         "id": "4990a8a98dccf0d5",
         "type": "tabs",
-        "dimension": 48.488120950323975,
+        "dimension": 39.956803455723545,
         "children": [
           {
             "id": "d1673f995a3c509c",
@@ -44,13 +44,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cocp.md",
+                "file": "nsaid.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cocp"
+              "title": "nsaid"
             }
           }
         ],
@@ -59,7 +59,7 @@
       {
         "id": "23e8e7458ae219c7",
         "type": "tabs",
-        "dimension": 51.511879049676025,
+        "dimension": 60.043196544276455,
         "children": [
           {
             "id": "bd30f0ee79de8d7d",
@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,6 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "nsaid.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -199,12 +200,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.1945002145950534,
+                  "scale": 0.7514342019604853,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of nsaid"
             }
           }
         ]
@@ -228,11 +229,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "nsaid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from nsaid"
             }
           },
           {
@@ -256,12 +258,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "nsaid.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of nsaid"
             }
           },
           {
@@ -293,9 +296,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "nsaid.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for nsaid"
             }
           }
         ],
@@ -312,6 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "nsaid.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -321,7 +327,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for nsaid"
             }
           }
         ]
@@ -341,10 +347,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e3927987bdc91df1",
+  "active": "adb477bdd07b4eed",
   "lastOpenFiles": [
-    "flow charts/contraception after delivery.canvas",
+    "flow charts/prostaglandins and leukotrienes.canvas",
+    "nsaid.md",
+    "flow charts/hypertension management.canvas",
+    "migraine.md",
     "cocp.md",
+    "flow charts/contraception after delivery.canvas",
     "flow charts/haematuria.canvas",
     "time for action of contraceptives.md",
     "spider naevi.md",
@@ -369,13 +379,10 @@
     "depression.md",
     "desktop.ini",
     "seizure.md",
-    "phenytoin.md",
-    "tricyclic antidepressants.md",
     "housekeeping/revise recent changes.base",
     "Clippings",
     "flow charts/deep vein thrombosis.canvas",
     "flow charts/h. pylori treatment flowchart.canvas",
-    "flow charts/hypertension management.canvas",
     "attachments/Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf",
     "attachments/erythema nodosum.jpg",
     "attachments/erythema multiforme.jpg",

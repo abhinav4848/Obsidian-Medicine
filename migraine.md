@@ -2,13 +2,13 @@
 tags:
   - neurology
 ---
-Pulsating/throbbing [[headache]] lasting up to 72 hrs. 
+Pulsating/throbbing unilateral [[headache]] lasting up to 72 hrs. 
 MCC of primary headache in children.
 Can be one side.
 # Red Flag 🚩
 **Atypical Aura:** Investigate for TIA #red_flag 
-- \> 60 mins, motor weakness, double vision, visual symptoms affecting only one eye, or impaired balance
-- aura occurring for the first time in a person using the combined oral contraceptive (COC) pill
+- \> 60 mins, motor weakness, double vision, visual symptoms affecting only one eye, or impaired balance 
+- aura occurring for the first time in a person using [[COCP]]. 
 
 However, prolonged aura without infarction can occur in rare cases of 
 - familial hemiplegic migraine (FHM), or 
@@ -16,7 +16,7 @@ However, prolonged aura without infarction can occur in rare cases of
 but these are very specific subtypes of migraines with additional diagnostic criteria beyond just prolonged aura duration.
 # Treatment
 ## Acute
-Sumatriptan (Oral if age >17, else nasal) + NSAID (Aspirin 900mg) or PCT.
+Sumatriptan (Oral if age >17, else nasal) + [[nsaid|NSAID]] (Aspirin 900mg) or PCT.
 
 If not controlled, add non-oral [[metoclopramide]]/prochlorperazine +/- non-oral NSAID/Triptan.
 ## Chronic
