@@ -4,6 +4,9 @@ tags:
 aliases:
   - hormone replacement therapy
   - negatives & cautions with HRT
+  - side effects of COCP
+urls:
+  - https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2022/06/Menopause-and-HRT-guideline.pdf
 ---
 Used in [[menopause]]. 
 
@@ -31,3 +34,5 @@ Used in [[menopause]].
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | - bloating<br>- breast tenderness or swelling<br>- swelling in other parts of the body<br>- feeling sick<br>- leg cramps<br>- headaches<br>- indigestion<br>- vaginal bleeding<br>                                                                                                                                                     | - breast tenderness<br>- swelling in other parts of the body<br>- headaches or migraines<br>- mood swings<br>- depression<br>- [[acne vulgaris\|acne]]<br>- tummy (abdominal) pain<br>- back pain<br>- vaginal bleeding |
 | These side effects will often pass after a few weeks. It may help to:<br>- take with food, which may help feelings of sickness and indigestion<br>- eat a low-fat, high-carbohydrate diet, which may reduce breast tenderness<br>- do regular exercise and stretching, to help leg cramps<br>- lower the dose and then titrate back up | As with side effects of oestrogen, these will usually pass after a few weeks. Lowering the dose and titrating back up may help.                                                                                         |
+pregnant ladies feel nausea due to high progesterone. If someone on COCP has nausea, reduce their progesterone. MIMS has long list of meds. 
+Microgynon 30/150 is a standard COCP. 
