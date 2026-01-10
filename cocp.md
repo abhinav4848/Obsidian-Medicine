@@ -2,6 +2,7 @@
 tags:
   - gynae
   - pharmacology
+  - hormone
 aliases:
   - COCP
   - combined oral contraceptive pill
@@ -10,7 +11,7 @@ See [[hrt- negatives|side effects of COCP]]
 See [[cancer- drugs involved in gynae cancers]] 
 
 ---
-# When to start after delivery
+# When to start after delivery for contraception
 Avoid in first 21 days (UKMEC-4: VTE Risk). After this,
 - If breastfeeding:
 	- keep avoiding till 6 weeks (UKMEC-4).
@@ -21,7 +22,8 @@ Avoid in first 21 days (UKMEC-4: VTE Risk). After this,
 | **0-3w**  | 4 (Body is in prothrombotic state post partum) | - with other VTE risks: 4<br>- without: 3 |
 | **3-6w**  | 4                                              | - with other VTE risks: 3<br>- without: 2 |
 | **6w-6m** | 2 (decreases milk production)                  | 1                                         |
-- Once given, use additional contraception [[time for action of contraceptives|for first 7 days]].
+- Once given, use additional contraception for first 7 days.
+- See [[time for action of contraceptives]]. 
 
 ![[contraception after delivery.canvas|contraception after delivery]]
 # Indications
@@ -33,7 +35,7 @@ Avoid in first 21 days (UKMEC-4: VTE Risk). After this,
 "*MBBS is very hard*" #mnemonic 
 (COCP has the most contraindications)
 - [[Migraine]] with aura 
-- h/o, or genes for [[cancer- breast (treatment)|Breast Cancer]] (but just family history is okay)
+- h/o, or genes for [[cancer- breast (treatment)|Breast Cancer]] (but just family history is okay) -> [[cancer- drugs involved in gynae cancers|cocp risk of cancer]]
 - Obese (BMI > 30kg/m2),
 - Smoker/ex-smoker, 
 - h/o Venous thromboembolism, DVT

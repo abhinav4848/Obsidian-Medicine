@@ -1,15 +1,15 @@
 ---
 tags:
   - gynae
+  - hormone
 aliases:
   - hormone replacement therapy
   - negatives & cautions with HRT
-  - side effects of COCP
 urls:
   - https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2022/06/Menopause-and-HRT-guideline.pdf
 ---
 Used in [[menopause]]. 
-
+See [[cocp]]. 
 ## Contraindications/Cautions for HRT
 - History of [[cancer- breast (treatment)|Breast Cancer]] (80% are ER +ve) or oestrogen-dependent tumour ([[cancer- endometrial|Endometrial Cancer]] driven by unopposed oestrogen)
 	- High risk of breast cancer

@@ -17,12 +17,11 @@ but these are very specific subtypes of migraines with additional diagnostic cri
 # Treatment
 ## Acute
 Sumatriptan (Oral if age >17, else nasal) + [[nsaid|NSAID]] (Aspirin 900mg) or PCT.
-
 If not controlled, add non-oral [[metoclopramide]]/prochlorperazine +/- non-oral NSAID/Triptan.
 ## Chronic
 - Propranolol (Can give if pregnant. Avoid beta-blocker in [[asthma]]) >
 - Topiramate (teratogenic & contraceptive failure) >
-- Amitriptyline >
+- Amitriptyline
 - Acupuncture
 # Migraine in Children
 Ibuprofen is the first-line treatment for paediatric migraines.

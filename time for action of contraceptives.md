@@ -1,6 +1,7 @@
 ---
 tags:
   - gynae
+  - hormone
 aliases:
   - adherence window for contraceptives
 ---

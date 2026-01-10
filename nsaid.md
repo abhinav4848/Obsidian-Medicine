@@ -10,12 +10,13 @@ tags:
 - pregnants cuz PDA.
 - if gastric bleeding, already on blood thinners.
 - CHF, IHD, CKD, [[Asthma]]. 
-	- NSAIDs reduce PGs -> renal efferent constriction -> 
+	- NSAIDs reduce PGs -> renal afferent constriction -> 
 		- Na & Fluid retention: CHF
 		- AKI, reduced glomerular filtration: CKD
-	- NSAIDs reduce PGs -> arachidonic acid shunted to Leukotriene production: 
-		- Selective COX-2 inhibitors -> PGI2 from COX-2 is reduced -> Relative excess of thromboxane: IHD
+	- NSAIDs block COX -> arachidonic acid shunted to Leukotriene production: 
+		- Selective COX-2 inhibitors -> PGI2 from COX-2 is reduced -> Relative excess of thromboxane: IHD 
 		- PGs dilate airway, leukotrienes constrict
+
 ## NSAID & CHF
 - NSAIDs inhibit renal prostaglandins -> Afferent arteriole vasoconstriction
 - Decreased renal perfusion -> decreased Na & H2O excretion
