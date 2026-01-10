@@ -1,15 +1,11 @@
 ---
 tags:
   - cancer
+  - hormone
 aliases:
   - Tamoxifen
   - Raloxifene
 ---
-see
-- [[cancer- breast (treatment)]]
-- [[cancer- cervical]]
-- [[cancer- endometrial]]
-- [[cancer- ovarian]]
 #### COCP & Cancer risk
 COCP ==increases== risk for [[cancer- breast (treatment)|Breast Cancer]] & [[cancer- cervical|Cervical Cancer]], Fibroid, Cervical ectropion.
 - E promotes cervical epithelial proliferation -> Facilitates persistent HPV infection

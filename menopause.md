@@ -11,6 +11,10 @@ aliases:
   - cyclical HRT
   - continuous HRT
 ---
+The average woman in the UK goes through the menopause when she is 51 years old. 
+**Definition**
+- 12 months after the last period in women > 50 years
+- 24 months after the last period in women < 50 years
 # Effects of Menopause
 - Menopausal symptoms: 
 	- Vasomotor symptoms e.g. hot flushes, night sweats.
@@ -47,7 +51,6 @@ See: [[hrt- negatives|negatives & cautions with HRT]]
 - If uterus present → progestogen is mandatory (unless oestrogen is local only)
 	- If they have Mirena (It is IUS LNG only), then can give oestrogen via another route. 
 ## Sequential (cyclical) HRT
-What it is: 
 - Continuous oestrogen. 
 - Progestogen added for part of the cycle (usually 10–14 days/month). 
 - Mimics a menstrual cycle. Bleeding is expected. 

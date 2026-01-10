@@ -6,12 +6,14 @@ tags:
 aliases:
   - COCP
   - combined oral contraceptive pill
+  - side effects of COCP
+  - contraindication of COCP
 ---
-See [[hrt- negatives|side effects of COCP]]
 See [[cancer- drugs involved in gynae cancers]] 
+See [[hrt- negatives|negatives & cautions with HRT]]
 
 ---
-# When to start after delivery for contraception
+# When to start COCP after delivery for contraception
 Avoid in first 21 days (UKMEC-4: VTE Risk). After this,
 - If breastfeeding:
 	- keep avoiding till 6 weeks (UKMEC-4).
@@ -52,7 +54,9 @@ Avoid in first 21 days (UKMEC-4: VTE Risk). After this,
 COCP has pill free period.
 POP has no pill-free period.
 # Side Effects
-Vaginal spotting common in first 3 months. Add tranexamic acid if excess bleed. If  bleed continues after 3 months, shift to another.
-[[spider naevi]] can be caused by COCP.
+Vaginal spotting common in first 3 months. 
+	Add tranexamic acid if excess bleed. 
+	If bleed continues after 3 months, shift to another.
+[[Spider naevi]] can be caused by COCP.
 ## Cancer risk
 ![[cancer- drugs involved in gynae cancers#COCP & Cancer risk]]

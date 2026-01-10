@@ -11,7 +11,7 @@ I for Instant: IUD
 2 days for POP
 7 days for everything else: COC, injection, implant, IUS
 # COCP 
-- If COC started within 5 days of the cycle, then no need for additional contraception. If any other day, then 7 days of alternative contraception.
+- If [[cocp|COCP]] started within 5 days of the cycle, then no need for additional contraception. If any other day, then 7 days of alternative contraception. 
 # Progesterone Implant 
 - Nexplanon is an etonogestrel (progesterone) implant that prevents ovulation and thickens cervical mucus. If Nexplanon is inserted between day 1-5 of menstrual cycle, it will be effective immediately. However, if it is inserted at any other time in the cycle, it will not be effective until after 7 days. 
 - If patient was switching from POP or COCP, she'd be covered immediately. 
