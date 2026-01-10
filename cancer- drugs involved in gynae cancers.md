@@ -10,15 +10,20 @@ see
 - [[cancer- cervical]]
 - [[cancer- endometrial]]
 - [[cancer- ovarian]]
-# COCP & Cancer risk
->[!warning]
->COCP increases risk for Breast & Cervix cancer, Fibroid, Cervical ectropion.
+#### COCP & Cancer risk
+COCP ==increases== risk for [[cancer- breast (treatment)|Breast Cancer]] & [[cancer- cervical|Cervical Cancer]], Fibroid, Cervical ectropion.
+- E promotes cervical epithelial proliferation -> Facilitates persistent HPV infection
+- E&P causes breast cell proliferation. 
 
->[!info]
->COCP decreases risk for Endometrial & Ovarian, Colorectal cancer.
->#mnemonic: OCP: [[cancer- ovarian|Ovarian cancer]] protection. Because OCP reduces number of ovulations. As well as pregnancy does same.
+COCP ==decreases== risk for [[cancer- endometrial|Endometrial Cancer]] & [[cancer- ovarian|Ovarian cancer]], [[cancer- colorectal|Colorectal cancer]].
+- P counteracts E & causes endometrial thinning. 
+- E&P suppresses ovulation
 
-# Drugs used in gynae cancers
+OCP: *[[cancer- ovarian|Ovarian cancer]] protection*. #mnemonic 
+- Because OCP  suppresses ovulations. As well as pregnancy does same.
+
+---
+# Drugs used to treat Gynae cancers
 ## Tamoxifen
 - **Anti-Estrogenic action on**: Breast (reduces ER+ve tumor size), Peripheral sites (hot flushes)
 - **Estrogenic action on**: Endometrium (proliferation), Bone (Anti-resorptive), Plasma lipid (reduces Chl), Blood (VTE)

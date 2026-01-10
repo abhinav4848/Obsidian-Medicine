@@ -3,8 +3,17 @@ tags:
   - cancer
 ---
 
-[[cancer- drugs involved in gynae cancers|Ovary, breast]]: Family history ([[cancer & associations|COCP]] protective for endometrial & ovarian cancer)
+# [[cancer- ovarian|Ovarian cancer]], [[cancer- breast (treatment)|Breast Cancer]] 
+- Family history
+- [[COCP]] effect: 
+![[cancer- drugs involved in gynae cancers#COCP & Cancer risk]] 
 
-[[cancer- colorectal|Colorectal cancer]], Prostate: Age > Family history
+# [[cancer- colorectal|Colorectal cancer]], [[cancer- prostate|Prostate Cancer]]
+- Age > Family history 
 
-Bladder, Laryngeal: Smoking. 
+# [[cancer- urology|bladder]], Laryngeal
+- [[Smoking]]. 
+
+---
+*See [[afro-caribbean]]* 
+*See [[cancer- drugs involved in gynae cancers]]*

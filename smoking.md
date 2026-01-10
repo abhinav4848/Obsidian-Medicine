@@ -7,6 +7,7 @@ aliases:
   - bupropion
   - nicotine replacement therapy
 ---
+Smoking increases risk for [[cancer- urology|bladder cancer]] & laryngeal cancer. 
 # NICE guidelines
 [NICE](https://cks.nice.org.uk/topics/smoking-cessation/management/adults/) 
 NRT, varenicline or bupropion should not be favoured one over the other. 
