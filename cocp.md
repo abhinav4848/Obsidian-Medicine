@@ -10,11 +10,11 @@ See [[hrt- negatives|side effects of COCP]]
 See [[cancer- drugs involved in gynae cancers]] 
 
 ---
-After delivery,
-- Avoid in first 21 days (UKMEC-4: VTE Risk). After this,
-	- If breastfeeding:
-		- keep avoiding till 6 weeks (UKMEC-4).
-		- After that (UKMEC-2) 6 weeks - 6 months (decreases milk production). 
+# When to start after delivery
+Avoid in first 21 days (UKMEC-4: VTE Risk). After this,
+- If breastfeeding:
+	- keep avoiding till 6 weeks (UKMEC-4).
+	- After that (UKMEC-2) 6 weeks - 6 months (decreases milk production). 
 
 |           | Breastfeeding                                  | Not breastfeeding                         |
 | --------- | ---------------------------------------------- | ----------------------------------------- |
@@ -23,6 +23,7 @@ After delivery,
 | **6w-6m** | 2 (decreases milk production)                  | 1                                         |
 - Once given, use additional contraception [[time for action of contraceptives|for first 7 days]].
 
+![[contraception after delivery.canvas|contraception after delivery]]
 # Indications
 - Metrorrhagia -> irregular cycle,
 - with/without Menorrhagia/Dysmenorrhea,
@@ -50,6 +51,6 @@ COCP has pill free period.
 POP has no pill-free period.
 # Side Effects
 Vaginal spotting common in first 3 months. Add tranexamic acid if excess bleed. If  bleed continues after 3 months, shift to another.
-[[Spider naevi]] can be caused by COCP.
+[[spider naevi]] can be caused by COCP.
 ## Cancer risk
 ![[cancer- drugs involved in gynae cancers#COCP & Cancer risk]]

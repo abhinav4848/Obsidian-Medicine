@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"e2e33b88f4229590","type":"text","text":"If not breastfeeding, check other VTE risks","x":-65,"y":160,"width":250,"height":60},
+		{"id":"7c2687ed52a4e19b","type":"text","text":"0-3 weeks\n- Other risks present: UKMEC 4\n- No other VTE risks: UKMEC 3","x":-85,"y":261,"width":290,"height":119},
+		{"id":"e5a5be3c1ddcad89","type":"text","text":"3-6 weeks\n- Other risks present: UKMEC 3\n- No other VTE risks: UKMEC 2","x":-83,"y":430,"width":285,"height":119},
+		{"id":"fff69e4975058b8e","type":"text","text":"If Breastfeeding","x":-324,"y":160,"width":175,"height":60},
+		{"id":"47fe55257f5aace2","type":"text","text":"3-6 weeks\n- UKMEC 4: VTE risk","x":-363,"y":433,"width":250,"height":116},
+		{"id":"264df34b51457aa4","type":"text","text":"0-3 weeks\n- UKMEC 4: VTE risk","x":-363,"y":261,"width":250,"height":119},
+		{"id":"3110af9e248f40a9","type":"text","text":"After delivery, check breastfeeding","x":-238,"y":40,"width":297,"height":60,"color":"6"},
+		{"id":"db81ffe2393c0576","type":"text","text":"If still breastfeeding after 6 weeks to 6 months\n- Decreases milk production: UKMEC 2","x":-368,"y":580,"width":261,"height":148},
+		{"id":"e62b07059a837e9d","x":-83,"y":580,"width":285,"height":100,"type":"text","text":"6w-6 months\n- UKMEC 1"}
+	],
+	"edges":[
+		{"id":"cbef5af2bb50f6c1","fromNode":"3110af9e248f40a9","fromSide":"bottom","toNode":"fff69e4975058b8e","toSide":"top","color":"4"},
+		{"id":"047a5c7b5186055d","fromNode":"3110af9e248f40a9","fromSide":"bottom","toNode":"e2e33b88f4229590","toSide":"top","color":"1"},
+		{"id":"b1ac237ae83812ef","fromNode":"e2e33b88f4229590","fromSide":"bottom","toNode":"7c2687ed52a4e19b","toSide":"top"},
+		{"id":"b0529abd5d49ace5","fromNode":"7c2687ed52a4e19b","fromSide":"bottom","toNode":"e5a5be3c1ddcad89","toSide":"top"},
+		{"id":"cdc9d1226de55c4e","fromNode":"fff69e4975058b8e","fromSide":"bottom","toNode":"264df34b51457aa4","toSide":"top"},
+		{"id":"8cf17763583b3a24","fromNode":"264df34b51457aa4","fromSide":"bottom","toNode":"47fe55257f5aace2","toSide":"top"},
+		{"id":"c59700d44fcb3668","fromNode":"47fe55257f5aace2","fromSide":"bottom","toNode":"db81ffe2393c0576","toSide":"top"},
+		{"id":"2d3b9ba8ddfaa8e4","fromNode":"e5a5be3c1ddcad89","fromSide":"bottom","toNode":"e62b07059a837e9d","toSide":"top"}
+	]
+}

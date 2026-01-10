@@ -6,7 +6,7 @@
       {
         "id": "4990a8a98dccf0d5",
         "type": "tabs",
-        "dimension": 40.98272138228942,
+        "dimension": 48.488120950323975,
         "children": [
           {
             "id": "d1673f995a3c509c",
@@ -59,7 +59,7 @@
       {
         "id": "23e8e7458ae219c7",
         "type": "tabs",
-        "dimension": 59.01727861771058,
+        "dimension": 51.511879049676025,
         "children": [
           {
             "id": "bd30f0ee79de8d7d",
@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,7 +177,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cocp.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,7 +204,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cocp"
+              "title": "Graph view"
             }
           }
         ]
@@ -229,12 +228,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cocp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from cocp"
+              "title": "Outgoing links"
             }
           },
           {
@@ -258,13 +256,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cocp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cocp"
+              "title": "Outline"
             }
           },
           {
@@ -296,11 +293,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "cocp.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for cocp"
+              "title": "File properties"
             }
           }
         ],
@@ -317,7 +312,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cocp.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +321,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cocp"
+              "title": "Backlinks"
             }
           }
         ]
@@ -347,10 +341,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "adb477bdd07b4eed",
+  "active": "e3927987bdc91df1",
   "lastOpenFiles": [
-    "time for action of contraceptives.md",
+    "flow charts/contraception after delivery.canvas",
     "cocp.md",
+    "flow charts/haematuria.canvas",
+    "time for action of contraceptives.md",
+    "spider naevi.md",
     "cancer- risk factors.md",
     "smoking.md",
     "cancer & associations.md",
@@ -374,12 +371,9 @@
     "seizure.md",
     "phenytoin.md",
     "tricyclic antidepressants.md",
-    "seizures.md",
-    "malaria.md",
     "housekeeping/revise recent changes.base",
     "Clippings",
     "flow charts/deep vein thrombosis.canvas",
-    "flow charts/haematuria.canvas",
     "flow charts/h. pylori treatment flowchart.canvas",
     "flow charts/hypertension management.canvas",
     "attachments/Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf",
