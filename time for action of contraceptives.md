@@ -4,6 +4,7 @@ tags:
   - hormone
 aliases:
   - adherence window for contraceptives
+  - missed pill rules
 ---
 *If not day 1-5 of period*
 #mnemonic 
