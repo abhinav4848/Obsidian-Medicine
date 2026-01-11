@@ -6,12 +6,7 @@ urls:
   - https://gpnotebook.com/en-GB/pages/gynaecology/oestrogen-doses-in-combined-pill-coc
   - https://halton-st-helens-knowsley.communitypharmacy.org.uk/wp-content/uploads/sites/45/2025/03/COC-Decision-Making-Algorithm-V1.2.pdf
 ---
-Prior to first prescription, ask
-- Medical conditions (Past & Present): migraine, risk factors for CVD e.g. smoking, prev VTE, hyperlipidemia
-- Drug use: prescription, non-prescription, herbal
-- Family history: VTE, stroke, arterial disease breast cancer, diabetes, other
-- BP to be documented
-- height, weight, BMI
+See [[cocp|COCP]]. 
 # The pill ladder (Strengths of different contraceptive brands)
 From GP Notebook.
 
@@ -36,8 +31,7 @@ Ethinyloestradiol (EE), Mestranol (M), Levonorgestrel (LNG), Norethisterone (NET
 \*\*30 - 40 indicates a variable dose of oestrogen.
 \*\*35 indicates a constant dose of oestrogen, but variable dose of progestogen
 
-#### Androgenicity
-NET (least) < LNG < GSD < DSG < DRSP < Cyproterone acetate (most androgenic)
+![[hrt#Androgenicity of progesterone]]
 
 # Examples: 
 - if a woman is experiencing acne and mood swings on a progesterone dominant pill such as Microgynon, it is worth moving right across the ladders to a more oestrogen dominant pill such as Cilest. 

@@ -6,7 +6,7 @@ tags:
 # Sickle cell disease + Menorrhagia
 [[contraceptives|Depo Provera]] (DMPA)
 POP & IUS are next choice for SCD.
-Don't give cocp/IUD in SCD.
+Don't give COCP/IUD in SCD.
 
 # Migraine with Aura
 - IUCD & barrier methods (UKMEC 1)

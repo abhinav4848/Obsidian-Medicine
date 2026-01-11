@@ -11,7 +11,7 @@ aliases:
   - cocp pill ladder
 ---
 See [[cancer- drugs involved in gynae cancers]] 
-See [[hrt- negatives|negatives & cautions with HRT]]
+See [[hrt- negatives|negatives & cautions with HRT]] 
 
 ---
 # When to start COCP after delivery for contraception
@@ -36,10 +36,10 @@ Avoid in first 21 days (UKMEC-4: VTE Risk). After this,
 - Endometriosis (also IUS can be used) 
 # Contraindications 
 "*MBBS is very hard*" #mnemonic 
-(COCP has the most contraindications)
+(COCP has the most contraindications). 
 - [[Migraine]] with aura 
 - h/o, or genes for [[cancer- breast (treatment)|Breast Cancer]] (but just family history is okay) -> [[cancer- drugs involved in gynae cancers|cocp risk of cancer]]
-- Obese (BMI > 30kg/m2),
+- Obese (BMI > 30kg/m2), 
 - Smoker/ex-smoker, 
 - h/o Venous thromboembolism, DVT
 - [[hypertension|HTN]] (even if well controlled),
@@ -52,8 +52,15 @@ Avoid in first 21 days (UKMEC-4: VTE Risk). After this,
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | - more than 35 years old and smoking less than 15 cigarettes/day<br>- BMI > 35 kg/m^2*<br>- family history of thromboembolic disease in first degree relatives < 45 years<br>- controlled hypertension<br>- immobility e.g. wheel chair use<br>- carrier of known gene mutations associated with breast cancer (e.g. BRCA1/BRCA2)<br>- current gallbladder disease | - more than 35 years old and smoking more than 15 cigarettes/day<br>- migraine with aura<br>- history of thromboembolic disease or thrombogenic mutation<br>- history of stroke or ischemic heart disease<br>- breast feeding < 6 weeks post-partum<br>- uncontrolled hypertension<br>- current breast cancer<br>- major surgery with prolonged immobilization<br>- positive antiphospholipid antibodies (e.g. in SLE) |
 # Use
-COCP has pill free period.
-POP has no pill-free period.
+COCP has pill free period where you get withdrawal bleed. 
+POP has no pill-free period. 
+*See [[time for action of contraceptives#Missed pill window|missed pill rules]].* 
+#### Prior to first prescription, ask
+- Medical conditions (Past & Present): [[migraine]], risk factors for CVD e.g. smoking, prev VTE, hyperlipidemia 
+- Drug use: prescription, non-prescription, herbal
+- Family history: VTE, stroke, arterial disease breast cancer, diabetes, other
+- BP to be documented
+- height, weight, BMI
 # Side Effects
 Vaginal spotting common in first 3 months. 
 	Add tranexamic acid if excess bleed. 
@@ -64,4 +71,4 @@ See: [[cancer- drugs involved in gynae cancers#COCP & Cancer risk]]
 
 
 ---
-See: [[cocp- pill ladder]]
+See: [[cocp- pill ladder]]. 

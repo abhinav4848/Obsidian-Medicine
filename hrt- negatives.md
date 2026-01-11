@@ -5,6 +5,9 @@ tags:
 aliases:
   - hormone replacement therapy
   - negatives & cautions with HRT
+  - side effects of HRT
+  - Side effects of oestrogen
+  - Side effects of progesterone
 urls:
   - https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2022/06/Menopause-and-HRT-guideline.pdf
 ---
@@ -27,7 +30,7 @@ See [[cocp|COCP]].
 - Porphyria cutanea tarda
 - [[Migraine]] with aura
 - Women over the age of 60 years commencing HRT
-- Women with a subtotal or partial hysterectomy or have had a hysterectomy but have a history of endometriosis. Use Advice and Guidance before commencing HRT to check the risks of retained endometrium unless clear information has already been provided about HRT in the post-surgery clinic letters.
+- Women with a subtotal or partial hysterectomy or have had a hysterectomy but have a history of endometriosis. Use Advice and Guidance before commencing HRT to check the risks of retained endometrium unless clear information has already been provided about HRT in the post-surgery clinic letters. 
 ## Side Effects of HRT
 
 | Oestrogen                                                                                                                                                                                                                                                                                                                              | Progesterone                                                                                                                                                                                                            |

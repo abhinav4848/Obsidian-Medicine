@@ -11,7 +11,7 @@ urls:
 # COCP
 See [[cocp|COCP]]. 
 
-# Depo Provera
+# Depo Provera 
 Depo-Provera (POI -> injection. Aka DMPA): IM medroxyprogesterone acetate.
 - c/I in <20 yo cuz risk of osteoporosis.
 - Intermenstrual spotting in first year of starting. If bothersome bleed -> add COCP 3 months/Mefenamic acid TDS 5 days (while still on Depo-Provera)

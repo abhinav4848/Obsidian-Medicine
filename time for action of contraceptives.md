@@ -24,9 +24,9 @@ I for Instant: IUD
 - Also, POP has no pill-free break unlike COCP (21+7).
 
 ---
-# Adherence window
+# Missed pill window
 ### COCP
-- Adherence window (missed pill window) of 24 hours. 
+- Adherence window of 24 hours. 
 ### POP
 - If Pill missed > 3 hrs ago, take the missed pill and use additional protection for next 2 days 
 - Cerazette (desogestrel) a missed period of 12 hours is allowed
