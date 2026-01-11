@@ -15,6 +15,7 @@ The average woman in the UK goes through the menopause when she is 51 years old.
 **Definition**
 - 12 months after the last period in women > 50 years
 - 24 months after the last period in women < 50 years
+So need of contraception is based on whether they fit the definition of menopause. 
 # Effects of Menopause
 - Menopausal symptoms: 
 	- Vasomotor symptoms e.g. hot flushes, night sweats.
@@ -43,27 +44,8 @@ All women over age 55 can cease contraception as spontaneous conception is rare 
 - Lifestyle, 
 - HRT: First line for vasomotor symptoms, low mood. 
 - Alternatives to HRT: CBT for mood/anxiety, soy, SSRI, SNRI (Don't use fluoxetine or paroxetine for patients taking tamoxifen), Clonidine
-
-See: [[hrt- negatives|negatives & cautions with HRT]] 
-## Hormone choice rationale
-- Oestrogen → treats menopausal symptoms
-- Progestogen → protects the endometrium from oestrogen-induced hyperplasia/cancer
-- If uterus present → progestogen is mandatory (unless oestrogen is local only)
-	- If they have Mirena (It is IUS LNG only), then can give oestrogen via another route. 
-## Sequential (cyclical) HRT
-- Continuous oestrogen. 
-- Progestogen added for part of the cycle (usually 10–14 days/month). 
-- Mimics a menstrual cycle. Bleeding is expected. 
-Used for perimenopausal women with last bleeding <=12 months post-LMP. 
-
-## Continuous combined HRT
-What it is
-- Oestrogen + progestogen every day
-
-Who is it for?
-- Postmenopausal women
-- >= 12 months since last menstrual period
-- >= 2 years post-menopause if <50 years old
+# HRT
+See: [[hrt|Hormone Replacement Therapy]] 
 # Reviews for patients on HRT
 3 months after starting then at least annually
 - discuss symptom control, s/e, ongoing indication
