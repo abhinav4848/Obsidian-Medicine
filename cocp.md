@@ -32,7 +32,7 @@ Avoid in first 21 days (UKMEC-4: VTE Risk). After this,
 - Metrorrhagia -> irregular cycle,
 - with/without Menorrhagia/Dysmenorrhea,
 - Moderate [[pre-menstrual syndrome]] (severe PMS needs SSRI)
-- Endometriosis (also IUS can be used)
+- Endometriosis (also IUS can be used) 
 # Contraindications 
 "*MBBS is very hard*" #mnemonic 
 (COCP has the most contraindications)

@@ -11,4 +11,4 @@ depression, anxiety, irritability, bloating and mastalgia.
 Lifestyle,
 Moderate symptoms: [[cocp|COCP]]
 COCP: Yasmin® (drospirenone 3 mg and ethinylestradiol 0.030 mg)
-Severe symptoms: SSRI
+Severe symptoms: [[ssri|SSRI]] 

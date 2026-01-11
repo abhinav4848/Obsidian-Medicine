@@ -6,6 +6,9 @@ aliases:
   - adherence window for contraceptives
   - missed pill rules
 ---
+See also [[contraceptives]]. 
+
+---
 *If not day 1-5 of period*
 #mnemonic 
 I for Instant: IUD 
