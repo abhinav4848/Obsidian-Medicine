@@ -6,7 +6,7 @@
       {
         "id": "4990a8a98dccf0d5",
         "type": "tabs",
-        "dimension": 39.956803455723545,
+        "dimension": 49.676025917926566,
         "children": [
           {
             "id": "d1673f995a3c509c",
@@ -99,12 +99,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "23e8e7458ae219c7",
         "type": "tabs",
-        "dimension": 60.043196544276455,
+        "dimension": 50.323974082073434,
         "children": [
           {
             "id": "bd30f0ee79de8d7d",
@@ -135,17 +135,21 @@
             }
           },
           {
-            "id": "e3927987bdc91df1",
+            "id": "564b97105f3e551d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.medicines.org.uk/emc/product/14652/smpc",
+                "title": "Gedarel 20/150 microgram film-coated tablets - Summary of Product Characteristics (SmPC) - (emc) | 14652",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Gedarel 20/150 microgram film-coated tablets - Summary of Product Characteristics (SmPC) - (emc) | 14652"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,7 +227,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hrt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -251,7 +254,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of hrt"
+              "title": "Graph view"
             }
           }
         ]
@@ -275,12 +278,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hrt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from hrt"
+              "title": "Outgoing links"
             }
           },
           {
@@ -304,13 +306,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hrt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hrt"
+              "title": "Outline"
             }
           },
           {
@@ -342,11 +343,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "hrt.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for hrt"
+              "title": "File properties"
             }
           }
         ],
@@ -363,7 +362,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hrt.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -373,7 +371,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hrt"
+              "title": "Backlinks"
             }
           }
         ]
@@ -393,13 +391,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5f20cabe001e4e35",
+  "active": "564b97105f3e551d",
   "lastOpenFiles": [
-    "menopause.md",
-    "hrt.md",
-    "hrt- negatives.md",
-    "cocp.md",
     "contraceptives.md",
+    "cocp.md",
+    "contraceptives for bleeding reduction.md",
+    "hrt.md",
+    "menopause.md",
+    "hrt- negatives.md",
     "pre-menstrual syndrome.md",
     "time for action of contraceptives.md",
     "contraceptives in emergency.md",
@@ -409,7 +408,6 @@
     "smoking.md",
     "flow charts/contraception after delivery.canvas",
     "cancer- drugs involved in gynae cancers.md",
-    "contraceptives for bleeding reduction.md",
     "migraine.md",
     "housekeeping/women hormones.base",
     "housekeeping/rules.md",
