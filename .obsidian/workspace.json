@@ -6,7 +6,7 @@
       {
         "id": "4990a8a98dccf0d5",
         "type": "tabs",
-        "dimension": 49.676025917926566,
+        "dimension": 44.81641468682505,
         "children": [
           {
             "id": "d1673f995a3c509c",
@@ -29,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cocp.md",
+                "file": "hrt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cocp"
+              "title": "hrt"
             }
           },
           {
@@ -74,37 +74,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hrt.md",
+                "file": "cocp- pill ladder.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hrt"
-            }
-          },
-          {
-            "id": "adb477bdd07b4eed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "migraine.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "migraine"
+              "title": "cocp- pill ladder"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "23e8e7458ae219c7",
         "type": "tabs",
-        "dimension": 50.323974082073434,
+        "dimension": 55.183585313174945,
         "children": [
           {
             "id": "bd30f0ee79de8d7d",
@@ -135,21 +120,21 @@
             }
           },
           {
-            "id": "564b97105f3e551d",
+            "id": "4f4962936d674deb",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.medicines.org.uk/emc/product/14652/smpc",
-                "title": "Gedarel 20/150 microgram film-coated tablets - Summary of Product Characteristics (SmPC) - (emc) | 14652",
+                "url": "https://www.medicines.org.uk/emc/product/3798/smpc",
+                "title": "Femodette tablets - Summary of Product Characteristics (SmPC) - (emc) | 3798",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Gedarel 20/150 microgram film-coated tablets - Summary of Product Characteristics (SmPC) - (emc) | 14652"
+              "title": "Femodette tablets - Summary of Product Characteristics (SmPC) - (emc) | 3798"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -391,13 +376,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "564b97105f3e551d",
+  "active": "c91b7f235228cd2c",
   "lastOpenFiles": [
-    "contraceptives.md",
-    "cocp.md",
-    "contraceptives for bleeding reduction.md",
     "hrt.md",
     "menopause.md",
+    "cocp.md",
+    "contraceptives for bleeding reduction.md",
+    "contraceptives.md",
+    "cocp- pill ladder.md",
+    "migraine.md",
+    "cancer- drugs involved in gynae cancers.md",
     "hrt- negatives.md",
     "pre-menstrual syndrome.md",
     "time for action of contraceptives.md",
@@ -407,8 +395,6 @@
     "drugs contraindicated in pregnancy.md",
     "smoking.md",
     "flow charts/contraception after delivery.canvas",
-    "cancer- drugs involved in gynae cancers.md",
-    "migraine.md",
     "housekeeping/women hormones.base",
     "housekeeping/rules.md",
     "housekeeping/revise recent changes.base",
@@ -424,7 +410,6 @@
     "cancer- prostate.md",
     "cancer- breast (types).md",
     "cancer- breast (referral criteria).md",
-    "diabetes mellitus- diagnosis.md",
     "desktop.ini",
     "Clippings",
     "flow charts/deep vein thrombosis.canvas",

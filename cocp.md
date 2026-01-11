@@ -8,6 +8,7 @@ aliases:
   - combined oral contraceptive pill
   - side effects of COCP
   - contraindication of COCP
+  - cocp pill ladder
 ---
 See [[cancer- drugs involved in gynae cancers]] 
 See [[hrt- negatives|negatives & cautions with HRT]]
@@ -59,4 +60,8 @@ Vaginal spotting common in first 3 months.
 	If bleed continues after 3 months, shift to another.
 [[Spider naevi]] can be caused by COCP.
 ## Cancer risk
-![[cancer- drugs involved in gynae cancers#COCP & Cancer risk]]
+See: [[cancer- drugs involved in gynae cancers#COCP & Cancer risk]]
+
+
+---
+See: [[cocp- pill ladder]]
