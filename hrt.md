@@ -70,4 +70,5 @@ Doesn't need it:
 
 ---
 # Unscheduled bleeding on HRT
-See UHL: [Management Of Unscheduled Bleeding In Women On Hormone Replacement Therapy (HRT) UHL Gynaecology Guideline](https://www.publication.uhleicester.nhs.uk/publication-scheme/pagl-document-library/) 
+See UHL: [Management Of Unscheduled Bleeding In Women On Hormone Replacement Therapy (HRT) UHL Gynaecology Guideline](https://www.publication.uhleicester.nhs.uk/publication-scheme/pagl-document-library/) ([direct link Jan 2026](https://www.publication.uhleicester.nhs.uk/wp-content/uploads/2026/01/Management%20of%20Unscheduled%20Bleeding%20In%20Women%20on%20Hormone%20Replacement%20Therapy%20(HRT)%20UHL%20Gynaecology%20Guideline.pdf))
+
