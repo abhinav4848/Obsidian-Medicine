@@ -42,3 +42,7 @@ Whether NSAID can be given in [[asthma]] depends on the type of asthma and the p
 	- This occurs in roughly 10-20% of adults with asthma, especially those who also have nasal polyps or chronic rhinosinusitis. See [[Samter's triad]]. 
 - The mechanism involves inhibition of COX-1 → decreased prostaglandin E₂ → arachidonic acid shunted to leukotriene pathway → increased leukotrienes → bronchoconstriction (see: [[asthma- drugs#Why no NSAIDs?|Asthma & NSAIDs]]). 
 - If anti-inflammatory action is essential (e.g., for arthritis), consider selective COX-2 inhibitors (e.g., celecoxib (it's enteral only) & Parecoxib (parenteral only)- Both are often used in palliative setting). These are less likely to provoke bronchospasm. 
+
+---
+
+Aspirin for primary prevention of CVD: [[patrono2019- Role of aspirin in primary prevention of CVD.pdf]] Not effective, in fact, increases GI bleed risk (ASPREE trial, ARRIVE trial, ASCEND trial)

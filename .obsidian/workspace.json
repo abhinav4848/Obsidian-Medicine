@@ -13,28 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chondromalacia patellae.md",
+                "file": "nsaid.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "chondromalacia patellae"
-            }
-          },
-          {
-            "id": "dd75521f28bc2d32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "contraceptives for bleeding reduction.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "contraceptives for bleeding reduction"
+              "title": "nsaid"
             }
           },
           {
@@ -43,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hrt- negatives.md",
+                "file": "missed pill window.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hrt- negatives"
+              "title": "missed pill window"
             }
           },
           {
@@ -58,13 +43,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cocp- pill ladder.md",
+                "file": "cocp.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cocp- pill ladder"
+              "title": "cocp"
+            }
+          },
+          {
+            "id": "07cf7d14b0286f6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "time for action of contraceptives.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "time for action of contraceptives"
             }
           },
           {
@@ -81,7 +81,8 @@
               "title": "NG23 Menopause: Discussion aid on HRT and the likelihood of some medical conditions 07/11/2024"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "osteocho",
+                "query": "#missed",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -159,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "chondromalacia patellae.md",
+                "file": "cocp.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +188,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of chondromalacia patellae"
+              "title": "Graph of cocp"
             }
           }
         ]
@@ -211,12 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chondromalacia patellae.md",
+                "file": "cocp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from chondromalacia patellae"
+              "title": "Outgoing links from cocp"
             }
           },
           {
@@ -240,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chondromalacia patellae.md",
+                "file": "cocp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of chondromalacia patellae"
+              "title": "Outline of cocp"
             }
           },
           {
@@ -279,10 +280,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "chondromalacia patellae.md"
+                "file": "cocp.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for chondromalacia patellae"
+              "title": "File properties for cocp"
             }
           }
         ],
@@ -299,7 +300,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chondromalacia patellae.md",
+                "file": "cocp.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +310,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for chondromalacia patellae"
+              "title": "Backlinks for cocp"
             }
           }
         ]
@@ -329,40 +330,40 @@
       "graph:Open graph view": false
     }
   },
-  "active": "d1673f995a3c509c",
+  "active": "5f20cabe001e4e35",
   "lastOpenFiles": [
-    "cocp- pill ladder.md",
-    "chondromalacia patellae.md",
-    "osteochondritis dissecans.md",
-    "contraceptives.md",
-    "contraceptives for bleeding reduction.md",
-    "contraceptives in emergency.md",
-    "hrt.md",
-    "hrt- negatives.md",
-    "asthma- acute attack.md",
-    "menopause.md",
+    "flow charts/contraception after delivery.canvas",
     "cocp.md",
     "cancer- drugs involved in gynae cancers.md",
     "time for action of contraceptives.md",
+    "contraceptives in emergency.md",
+    "missed pill window.md",
+    "cocp- pill ladder.md",
+    "hrt- negatives.md",
+    "contraceptives for bleeding reduction.md",
+    "nsaid.md",
+    "attachments/patrono2019- Role of aspirin in primary prevention of CVD.pdf",
+    "chondromalacia patellae.md",
+    "osteochondritis dissecans.md",
+    "contraceptives.md",
+    "hrt.md",
+    "asthma- acute attack.md",
+    "menopause.md",
     "depression.md",
     "migraine.md",
     "pre-menstrual syndrome.md",
     "copd- treatment.md",
     "drugs contraindicated in pregnancy.md",
     "smoking.md",
-    "flow charts/contraception after delivery.canvas",
     "housekeeping/women hormones.base",
     "housekeeping/rules.md",
     "housekeeping/revise recent changes.base",
-    "nsaid.md",
     "flow charts/prostaglandins and leukotrienes.canvas",
     "flow charts/hypertension management.canvas",
     "flow charts/haematuria.canvas",
     "spider naevi.md",
     "cancer- risk factors.md",
     "cancer & associations.md",
-    "cancer- breast (treatment).md",
-    "cancer- colorectal.md",
     "desktop.ini",
     "Clippings",
     "flow charts/deep vein thrombosis.canvas",
@@ -383,7 +384,6 @@
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "flow charts",
     "attachments/atropa belladona.pdf",
-    "_learnie/Questions",
     "_chicken Pox treatment flowchart (Work in progress).canvas",
     "Chicken Pox treatment flowchart (Work in progress).canvas"
   ]

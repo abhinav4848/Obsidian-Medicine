@@ -54,7 +54,8 @@ Avoid in first 21 days (UKMEC-4: VTE Risk). After this,
 # Use
 COCP has pill free period where you get withdrawal bleed. 
 POP has no pill-free period. 
-*See [[time for action of contraceptives#Missed pill window|missed pill rules]].* 
+	*See [[missed pill window]].* 
+	*See [[time for action of contraceptives]]*.
 #### Prior to first prescription, ask
 - Medical conditions (Past & Present): [[migraine]], risk factors for CVD e.g. smoking, prev VTE, hyperlipidemia 
 - Drug use: prescription, non-prescription, herbal

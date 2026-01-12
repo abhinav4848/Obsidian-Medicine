@@ -15,7 +15,6 @@ aliases:
 | Levonorgestrel                    | Inhibits ovulation                                               |
 | Ulipristal                        | Inhibits ovulation                                               |
 | Intrauterine contraceptive device | Primary: Toxic to sperm and ovum<br>Also: Inhibits implantation. |
-
 # Levonelle (Levonorgestrel 1.5mg)
 - Use within 72 hrs (can be used upto 96hrs with low efficacy) -> Prevents ovulation and implantation.
 - Hormonal contraception can be started immediately after taking levonelle for emergency contraception.
