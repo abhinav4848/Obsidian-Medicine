@@ -19,7 +19,7 @@ Priapism
 
 ---
 # How to treat in GP Setting
-See: [[Erectile_Dysfunction_management_guidelines_in_primary_care_for_adults.pdf|PDF]]
+See: [[erectile dysfunction- management guidelines in primary care for adults.pdf|PDF]]
 Something extra I learned from endocrine consultant who gets referrals after primary care has tried sildenafil & tadalafil:
 - Do a 9am testosterone. 
 - 20mg vardenafil once a week for 8 weeks.

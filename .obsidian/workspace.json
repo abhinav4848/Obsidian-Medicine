@@ -73,27 +73,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "abnormal airway sounds.md",
+                "file": "croup.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "abnormal airway sounds"
+              "title": "croup"
             }
           },
           {
-            "id": "bd30f0ee79de8d7d",
+            "id": "b910d89c427f427c",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://www.nice.org.uk/guidance/ng23/resources/incidence-of-medical-conditions-with-and-without-hrt-a-discussion-aid-pdf-13553199901",
-                "title": "NG23 Menopause: Discussion aid on HRT and the likelihood of some medical conditions 07/11/2024",
-                "mode": "webview"
+                "file": "signs of distress in children.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "globe-2",
-              "title": "NG23 Menopause: Discussion aid on HRT and the likelihood of some medical conditions 07/11/2024"
+              "icon": "lucide-file",
+              "title": "signs of distress in children"
             }
           }
         ],
@@ -161,8 +162,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "abnormal airway sounds.md",
+                "file": "croup.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of abnormal airway sounds"
+              "title": "Graph of croup"
             }
           }
         ]
@@ -227,12 +227,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "abnormal airway sounds.md",
+                "file": "croup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from abnormal airway sounds"
+              "title": "Outgoing links from croup"
             }
           },
           {
@@ -256,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "abnormal airway sounds.md",
+                "file": "croup.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of abnormal airway sounds"
+              "title": "Outline of croup"
             }
           },
           {
@@ -295,10 +295,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "abnormal airway sounds.md"
+                "file": "croup.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for abnormal airway sounds"
+              "title": "File properties for croup"
             }
           }
         ],
@@ -315,7 +315,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "abnormal airway sounds.md",
+                "file": "croup.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for abnormal airway sounds"
+              "title": "Backlinks for croup"
             }
           }
         ]
@@ -347,8 +347,27 @@
   },
   "active": "b496a4c4fb10a107",
   "lastOpenFiles": [
+    "abnormal airway sounds.md",
     "croup.md",
+    "signs of distress in children.md",
+    "resp & heart rate in children.md",
+    "heart rate in children.md",
+    "sepsis in children.md",
+    "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
+    "attachments/bronchovesicular-2.mp3",
+    "attachments/carhart's notch (otosclerosis).png",
+    "attachments/bronchial-sound-2.mp3",
+    "bronchiolitis (lrti).md",
     "leishmaniasis.md",
+    "acute epiglottitis.md",
+    "attachments/pleural-Rub.mp3",
+    "attachments/stridor-2.mp3",
+    "attachments/stridor.mp3",
+    "attachments/ronchi.mp3",
+    "attachments/wheeze-2.mp3",
+    "attachments/wheeze.mp3",
+    "attachments/fine-crackles.mp3",
+    "attachments/breath sounds.jpg",
     "time for action of contraceptives.md",
     "travel infections.md",
     "incontinence- adult.md",
@@ -357,35 +376,21 @@
     "sildenafil.md",
     "cancer- prostate.md",
     "drugs that can cause ocular problems.md",
-    "attachments/Erectile_Dysfunction_management_guidelines_in_primary_care_for_adults.pdf",
     "beta adrenergic receptors.md",
     "antipsychotic drugs.md",
     "incontinence- paeds.md",
-    "desktop.ini",
     "cancer- risk factors.md",
     "cancer- drugs involved in gynae cancers.md",
     "afro-caribbean.md",
     "tricyclic antidepressants.md",
     "anticholinergics.md",
     "depression.md",
-    "cocp.md",
     "flow charts/contraception after delivery.canvas",
-    "contraceptives in emergency.md",
-    "missed pill window.md",
-    "cocp- pill ladder.md",
-    "hrt- negatives.md",
-    "contraceptives for bleeding reduction.md",
-    "nsaid.md",
-    "attachments/patrono2019- Role of aspirin in primary prevention of CVD.pdf",
-    "housekeeping/women hormones.base",
-    "housekeeping/revise recent changes.base",
     "flow charts/prostaglandins and leukotrienes.canvas",
     "flow charts/hypertension management.canvas",
     "flow charts/haematuria.canvas",
-    "Clippings",
     "flow charts/deep vein thrombosis.canvas",
     "flow charts/h. pylori treatment flowchart.canvas",
-    "attachments/Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf",
     "attachments/erythema nodosum.jpg",
     "attachments/erythema multiforme.jpg",
     "attachments/erythema marginatum.jpg",
@@ -394,12 +399,7 @@
     "attachments/erythema gyratum repens.jpg",
     "attachments/erythema ab igne.jpg",
     "attachments/erythema chronicum migrans.jpg",
-    "attachments/coeliac disease- dermatitis herpetiformis 2.png",
-    "attachments/erythema gyratum repens.png",
-    "to learn",
-    "housekeeping/memorise.base",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
-    "flow charts",
     "_chicken Pox treatment flowchart (Work in progress).canvas",
     "Chicken Pox treatment flowchart (Work in progress).canvas"
   ]
