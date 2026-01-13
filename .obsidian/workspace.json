@@ -146,8 +146,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -330,7 +329,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5f20cabe001e4e35",
+  "active": "676efa40181a3294",
   "lastOpenFiles": [
     "flow charts/contraception after delivery.canvas",
     "cocp.md",
