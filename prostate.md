@@ -16,26 +16,27 @@ urls:
 4. Risk factors for [[cancer- prostate|Prostate Cancer]]: Age > 50, [[afro-caribbean|Afro Caribbean]], [[cancer- risk factors|family history]]. 
 5. if there's haematuria, then wonder where it could come from- [[cancer- urology|bladder]], kidney, possibly prostate. That's where smoking becomes a risk factor for kidney/bladder cancers. It's not a risk factor towards prostate cancer itself. 
 
-## BPH
+---
+# BPH
 Patients have storage and voiding symptoms. 
-*See [[incontinence- adult]]*.  
-
-**Alpha-1 blockers**: Tamsulosin, doxazosin, alfuzosin
+*See [[incontinence- adult]]*. 
+###### Alpha-1 blockers
+Tamsulosin, doxazosin, alfuzosin
 - **s/e**: Postural hypotension, Drowsiness, Dyspnoea, Cough
 - Alpha blockers are given to relax smooth muscles of bladder and prostate for fast relief (BPH can cause acute retention). And also if just LUT features. But it doesn't slow the growth of BPH. 
-
-when a patient with BPH exhibits persistent mixed urinary symptoms despite monotherapy with an alpha-blocker, it is advisable to introduce an antimuscarinic agent such as **tolterodine**. Alternative antimuscarinic medications include darifenacin and oxybutynin.
-
-**5 alpha reductase inhibitor**: Finasteride
+##### Anticholinergics %%(is transcluded)%%
+When a patient with BPH exhibits persistent mixed urinary symptoms (storage & voiding) despite monotherapy with an alpha-blocker, can give antimuscarinic agent such as tolterodine/darifenacin/oxybutynin.
+##### 5-alpha reductase inhibitor
+Finasteride
 - These take up-to 6 months to start acting and are given to those with high risk of progression of BPH. i.e. LUT + Large prostate + raised PSA
 - **s/e**: Erectile dysfunction, Ejaculation problems, [[gynaecomastia|Gynecomastia]]
 	- Finasteride is not a fun ride when you have erectile dysfunction
-
-Surgery: TURP
+##### Surgery
+TURP
 - **s/e**: Hyponatremia: Confusion & Agitation. 
 
 ---
-## Prostate Cancer
+# Prostate Cancer
 [[cancer- prostate]]. 
 
 ---
