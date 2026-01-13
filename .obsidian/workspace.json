@@ -130,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oxybutynin",
+                "query": "erectile",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -349,6 +349,10 @@
   "lastOpenFiles": [
     "incontinence- adult.md",
     "prostate.md",
+    "sildenafil.md",
+    "drugs that can cause ocular problems.md",
+    "attachments/Erectile_Dysfunction_management_guidelines_in_primary_care_for_adults.pdf",
+    "beta adrenergic receptors.md",
     "antipsychotic drugs.md",
     "incontinence- paeds.md",
     "desktop.ini",
@@ -359,7 +363,6 @@
     "tricyclic antidepressants.md",
     "anticholinergics.md",
     "depression.md",
-    "beta adrenergic receptors.md",
     "cocp.md",
     "flow charts/contraception after delivery.canvas",
     "time for action of contraceptives.md",
@@ -374,8 +377,6 @@
     "osteochondritis dissecans.md",
     "contraceptives.md",
     "hrt.md",
-    "asthma- acute attack.md",
-    "menopause.md",
     "housekeeping/women hormones.base",
     "housekeeping/revise recent changes.base",
     "flow charts/prostaglandins and leukotrienes.canvas",
@@ -399,7 +400,6 @@
     "housekeeping/memorise.base",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "flow charts",
-    "attachments/atropa belladona.pdf",
     "_chicken Pox treatment flowchart (Work in progress).canvas",
     "Chicken Pox treatment flowchart (Work in progress).canvas"
   ]

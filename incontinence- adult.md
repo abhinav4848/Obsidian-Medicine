@@ -5,36 +5,44 @@ aliases:
   - Urge incontinence
   - Stress incontinence
   - Detrusor instability.
+  - Storage symptoms
+  - Voiding symptoms
 urls:
   - https://www.nice.org.uk/guidance/cg97/chapter/Recommendations
 ---
 See [[incontinence- paeds]]
+See [[diabetes insipidus]]. 
 
-# Obstructive symptoms/Overflow/Voiding Symptoms
-## Aetiology
-Due to bladder outlet obstruction.
-- [[Anticholinergics]]:
+# Voiding (Obstructive/Overflow)
+### Clinical Features
+#mnemonic SHIP
+- Straining due to sense of incomplete voiding, 
+- Hesitancy, 
+- Intermittent/Incontinence, 
+- Poor flow/weak stream, 
+- terminal/post-void dribbling
+### Aetiology
+Due to bladder outlet obstruction. 
+- [[Anticholinergics]] 
 	- [[antipsychotic drugs|Antipsychotics]],
 	- Older antihistamines with anti-ch activity
-	- [[tricyclic antidepressants|TCAs]] have anticholinergic effects which may lead to urinary retention, leading to frequent leaking.
+	- [[tricyclic antidepressants|TCAs]] have anticholinergic effects which may lead to urinary retention, leading to frequent leaking. 
 - [[nsaid|NSAIDs]]
 - Disopyramide
 - [[prostate|BPH]]- causes both storage, and voiding symptoms. 
 - Codeine can cause urinary retention. 
-## Clinical Features
-#mnemonic SHIP
-Straining due to sense of incomplete voiding, Hesitancy, Intermittent/Incontinence, Poor flow
-weak stream, dribbling (esp terminal/post-void dribbling). 
-## Rx: 
+### Rx: 
 Alpha blockers:
 - If normotensive: Tamsulosin
 - HTN: Doxazosin, Alfuzosin
 5-alpha reductase inhibitor: Finasteride (reduces Prostate bulk -> takes up to 6 months to show results).
 Doxazosin is step 4 in [[hypertension|HTN]] management. 
-# Urge/Overactive/Storage/Irritative
-Irritative symptoms. #mnemonic FUN
+
+---
+# Storage (Irritative/Urge/Overactive)
+#mnemonic FUN
 Detrusor instability: Frequency, urgency, Nocturia.
-## Treatment
+### Treatment
 Bladder drill (retraining)
 Antimuscarinics
 - oxybutynin- use with caution in elderly women,
@@ -47,10 +55,13 @@ Mirabegron ([[beta adrenergic receptors|beta 3 agonist]])
 
 >[!notice]
 >![[prostate#Anticholinergics (is transcluded)|BPH]]
+
+---
 # Stress Incontinence
-## Clinical Features
+
+### Clinical Features
 leaking small amounts when coughing or laughing
-## Treatment
+### Treatment
 - Pelvic floor exercise (Kegel) >
 - Tension free vaginal tape (surgery) >
 - Duloxetine ([[depression|SNRI]]).
