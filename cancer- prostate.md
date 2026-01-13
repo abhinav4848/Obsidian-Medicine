@@ -21,6 +21,8 @@ Diagnostic: Multiparametric MRI has replaced TRUS Biopsy.
 	Extracapsular extension of tumour is shown accurately with MRI. 
 But if not confirmed, then they do trans-perineal biopsy
 
+# Complication
+[[cancers metastasizing to the bone|Bone mets]]. 
 # Treatment
 GnRH analogue (e.g. Leuprolide, Goserelin): Used in continuous manner to work as antagonist. 
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - pharmacology
+  - urology
 aliases:
   - Erectile dysfunction
 ---

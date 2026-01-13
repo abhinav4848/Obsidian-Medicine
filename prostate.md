@@ -26,7 +26,7 @@ Patients have storage and voiding symptoms.
 Tamsulosin, doxazosin, alfuzosin
 - Considered First line if IPSS >= 8 (mod-severe voiding symptoms)
 - Alpha blockers are given to relax smooth muscles of bladder and prostate for fast relief (BPH can cause acute retention). And also if just LUT features. 
-- Doesn't slow the growth of BPH. 
+- They don't slow the growth of BPH. 
 - **s/e**: Postural hypotension, Drowsiness, Dyspnoea, Cough
 
 ##### Anticholinergics %%(is transcluded)%%
@@ -35,17 +35,17 @@ When a patient with BPH exhibits persistent mixed urinary symptoms (storage & vo
 
 ##### 5-alpha reductase inhibitor
 Finasteride
-- Given to those with high risk of progression of BPH. i.e. LUT + Large prostate + raised PSA
-- Work by blocking Testosterone conversion to Dihydrotestosterone, which is known to induce BPH. 
+- Given to those with high risk of progression of BPH. i.e. LUT + Large prostate (more than 30 gram) + raised PSA
+- Works by blocking Testosterone conversion to Dihydrotestosterone, which is known to induce BPH. 
 - It reduces prostate volume & takes up-to 6 months to start acting. Can also reduce PSA
-- **s/e**: Erectile dysfunction, Ejaculation problems, [[gynaecomastia|Gynecomastia]], ejaculation problems
+- **s/e**: [[sildenafil|Erectile dysfunction]], Ejaculation problems, [[gynaecomastia|Gynecomastia]], ejaculation problems
 	- Finasteride is not a fun ride when you have erectile dysfunction
 
 ##### Combined Alpha blocker + 5-alpha reductase inhibitor
 - Indicated by MTOPS trial- If the man has bothersome mod-severe voiding symptoms & prostatic enlargement, can use both together. 
 ##### Surgery
 TURP
-- **s/e**: Hyponatremia: Confusion & Agitation. 
+- **s/e**: [[Hyponatremia]]: Confusion & Agitation. 
 
 ---
 # Prostate Cancer

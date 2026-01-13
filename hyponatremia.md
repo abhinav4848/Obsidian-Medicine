@@ -3,7 +3,7 @@ tags:
   - endocrine
 ---
 [[ace inhibitors|ACE]]
-SSRIs (e.g. [Fluoxetine](onenote:#CNS,%20Psych&section-id={145871C2-3C63-4A25-A087-79EA3E5CD53A}&page-id={36435466-1956-4089-BD96-CF2298AEF2F6}&object-id={8F5D6558-E314-4B16-87A3-2590AC9D6B51}&50&base-path=https://d.docs.live.net/450c0e1b0b9c7922/Documents/Onenote/MBBS/PLAB.one)) can cause it due to SIADH.
+SSRIs (e.g. [[depression|Fluoxetine]]) can cause it due to SIADH.
 Elderly commonly have SIADH.
 
 # Hypovolemic hyponatremia

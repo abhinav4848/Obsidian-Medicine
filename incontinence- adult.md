@@ -9,6 +9,8 @@ aliases:
   - Voiding symptoms
 urls:
   - https://www.nice.org.uk/guidance/cg97/chapter/Recommendations
+revision notes: difference between storage and voiding symptoms
+revision counter: 1
 ---
 See [[incontinence- paeds]]
 See [[diabetes insipidus]]. 

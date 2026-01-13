@@ -11,3 +11,4 @@ tags:
 [[Diphtheria]]: India
 [[leptospirosis|Weil's Disease]]
 [[hiv|acute HIV infection]] 
+[[leishmaniasis]]

@@ -53,21 +53,6 @@
             }
           },
           {
-            "id": "b496a4c4fb10a107",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prostate.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "prostate"
-            }
-          },
-          {
             "id": "07cf7d14b0286f6a",
             "type": "leaf",
             "state": {
@@ -80,6 +65,21 @@
               },
               "icon": "lucide-file",
               "title": "time for action of contraceptives"
+            }
+          },
+          {
+            "id": "b496a4c4fb10a107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "leishmaniasis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "leishmaniasis"
             }
           },
           {
@@ -97,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "erectile",
+                "query": "leptosp",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "prostate.md",
+                "file": "leishmaniasis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of prostate"
+              "title": "Graph of leishmaniasis"
             }
           }
         ]
@@ -227,12 +227,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prostate.md",
+                "file": "leishmaniasis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from prostate"
+              "title": "Outgoing links from leishmaniasis"
             }
           },
           {
@@ -256,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prostate.md",
+                "file": "leishmaniasis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of prostate"
+              "title": "Outline of leishmaniasis"
             }
           },
           {
@@ -295,10 +295,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "prostate.md"
+                "file": "leishmaniasis.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for prostate"
+              "title": "File properties for leishmaniasis"
             }
           }
         ],
@@ -315,7 +315,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prostate.md",
+                "file": "leishmaniasis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for prostate"
+              "title": "Backlinks for leishmaniasis"
             }
           }
         ]
@@ -347,9 +347,14 @@
   },
   "active": "b496a4c4fb10a107",
   "lastOpenFiles": [
+    "time for action of contraceptives.md",
+    "leishmaniasis.md",
+    "travel infections.md",
     "incontinence- adult.md",
     "prostate.md",
+    "hyponatremia.md",
     "sildenafil.md",
+    "cancer- prostate.md",
     "drugs that can cause ocular problems.md",
     "attachments/Erectile_Dysfunction_management_guidelines_in_primary_care_for_adults.pdf",
     "beta adrenergic receptors.md",
@@ -358,14 +363,12 @@
     "desktop.ini",
     "cancer- risk factors.md",
     "cancer- drugs involved in gynae cancers.md",
-    "cancer- prostate.md",
     "afro-caribbean.md",
     "tricyclic antidepressants.md",
     "anticholinergics.md",
     "depression.md",
     "cocp.md",
     "flow charts/contraception after delivery.canvas",
-    "time for action of contraceptives.md",
     "contraceptives in emergency.md",
     "missed pill window.md",
     "cocp- pill ladder.md",
@@ -374,9 +377,6 @@
     "nsaid.md",
     "attachments/patrono2019- Role of aspirin in primary prevention of CVD.pdf",
     "chondromalacia patellae.md",
-    "osteochondritis dissecans.md",
-    "contraceptives.md",
-    "hrt.md",
     "housekeeping/women hormones.base",
     "housekeeping/revise recent changes.base",
     "flow charts/prostaglandins and leukotrienes.canvas",
