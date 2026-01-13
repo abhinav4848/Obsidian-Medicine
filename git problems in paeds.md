@@ -8,7 +8,7 @@ aliases:
   - Duodenal atresia
   - Gastrochisis vs Examphalos (Omphalocele)
   - Intussusception
-  - Necrotizing enterocolitis
+  - Necrotising enterocolitis
   - Oesophageal Atresia
   - Childhood Jaundice
 ---
@@ -29,6 +29,7 @@ Kasai procedure if done early. Else transplant.
 ---
 # Duodenal atresia
 Bilious vomiting with every feed. Double bubble sign. #named 
+*See [[vomiting in paeds]].* 
 
 ---
 # Celiac disease

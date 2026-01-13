@@ -1,6 +1,7 @@
 ---
 tags:
   - cardio
+  - paeds
 ---
 All with S #mnemonic 
 - Sensitive: Changes with position/Supine (increases if supine)
