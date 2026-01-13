@@ -6,18 +6,25 @@ aliases:
   - benign prostatic hyperplasia
   - prostatitis
   - PSA test
+urls:
+  - https://www.nice.org.uk/guidance/cg97/chapter/Recommendations
 ---
 # Manage patient coming with urinary symptoms
 1. Get bloods done- FBC, U&e, LFT, HbA1c, Bone profile, [[prostate#PSA test|PSA]]
 2. get urine dip to rule out infection. Referral for 2ww includes question on whether you tested for UTI. 
 3. DRE 
-4. Risk factors for [[cancer- prostate|Prostate Cancer]]: Age > 50, [[afro-caribbean]], family history. 
+4. Risk factors for [[cancer- prostate|Prostate Cancer]]: Age > 50, [[afro-caribbean|Afro Caribbean]], [[cancer- risk factors|family history]]. 
 5. if there's haematuria, then wonder where it could come from- [[cancer- urology|bladder]], kidney, possibly prostate. That's where smoking becomes a risk factor for kidney/bladder cancers. It's not a risk factor towards prostate cancer itself. 
 
 ## BPH
+Patients have storage and voiding symptoms. 
+*See [[incontinence- adult]]*.  
+
 **Alpha-1 blockers**: Tamsulosin, doxazosin, alfuzosin
 - **s/e**: Postural hypotension, Drowsiness, Dyspnoea, Cough
 - Alpha blockers are given to relax smooth muscles of bladder and prostate for fast relief (BPH can cause acute retention). And also if just LUT features. But it doesn't slow the growth of BPH. 
+
+when a patient with BPH exhibits persistent mixed urinary symptoms despite monotherapy with an alpha-blocker, it is advisable to introduce an antimuscarinic agent such as **tolterodine**. Alternative antimuscarinic medications include darifenacin and oxybutynin.
 
 **5 alpha reductase inhibitor**: Finasteride
 - These take up-to 6 months to start acting and are given to those with high risk of progression of BPH. i.e. LUT + Large prostate + raised PSA

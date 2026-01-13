@@ -27,7 +27,7 @@ aliases:
 	- (So beta blockers can cause [[hypoglycemia]]). 
 ### Other smooth muscles
 - **Gut:** relaxation → slowed peristalsis
-- **Bladder / ureter:** relaxation
+- **Bladder / ureter:** relaxation. Beta 3. ([[incontinence- adult|Mirabegron]] for Urge incontinence)
 - **Vascular beds:** peripheral vasodilation (hands/feet → sometimes flushing)
-### Uterus
+### Uterus 
 - used historically as tocolytics
