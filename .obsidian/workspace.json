@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leishmaniasis.md",
+                "file": "abnormal airway sounds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "leishmaniasis"
+              "title": "abnormal airway sounds"
             }
           },
           {
@@ -130,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "leptosp",
+                "query": "tag:infection",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "leishmaniasis.md",
+                "file": "abnormal airway sounds.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,12 +198,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7514342019604853,
+                  "scale": 0.5359795749495616,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of leishmaniasis"
+              "title": "Graph of abnormal airway sounds"
             }
           }
         ]
@@ -227,12 +227,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leishmaniasis.md",
+                "file": "abnormal airway sounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from leishmaniasis"
+              "title": "Outgoing links from abnormal airway sounds"
             }
           },
           {
@@ -256,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leishmaniasis.md",
+                "file": "abnormal airway sounds.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of leishmaniasis"
+              "title": "Outline of abnormal airway sounds"
             }
           },
           {
@@ -295,10 +295,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "leishmaniasis.md"
+                "file": "abnormal airway sounds.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for leishmaniasis"
+              "title": "File properties for abnormal airway sounds"
             }
           }
         ],
@@ -315,7 +315,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leishmaniasis.md",
+                "file": "abnormal airway sounds.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for leishmaniasis"
+              "title": "Backlinks for abnormal airway sounds"
             }
           }
         ]
@@ -347,8 +347,9 @@
   },
   "active": "b496a4c4fb10a107",
   "lastOpenFiles": [
-    "time for action of contraceptives.md",
+    "croup.md",
     "leishmaniasis.md",
+    "time for action of contraceptives.md",
     "travel infections.md",
     "incontinence- adult.md",
     "prostate.md",
@@ -376,7 +377,6 @@
     "contraceptives for bleeding reduction.md",
     "nsaid.md",
     "attachments/patrono2019- Role of aspirin in primary prevention of CVD.pdf",
-    "chondromalacia patellae.md",
     "housekeeping/women hormones.base",
     "housekeeping/revise recent changes.base",
     "flow charts/prostaglandins and leukotrienes.canvas",

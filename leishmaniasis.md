@@ -3,6 +3,7 @@ tags:
   - infection
 urls:
   - https://dermnetnz.org/topics/leishmaniasis
+  - https://bnf.nice.org.uk/treatment-summaries/antiprotozoal-drugs/#leishmaniacides
 aliases:
   - leishmania
 ---
@@ -27,6 +28,7 @@ _Leishmania tropica_ or _Leishmania mexicana_
 - If acquired in 
 	- South & Central america: Treatment due to risk of mucocutaneous leishmaniasis
 	- Africa, India: More conservative management
+- Frequently heals spontaneously, but if skin lesion extensive or unsightly, treatment is indicated. 
 # Mucocutaneous
 _Leishmania braziliensis_
 - skin lesions may spread to involve mucosae of nose, pharynx etc
@@ -42,5 +44,6 @@ _Leishmania donovani_
 - pancytopaenia secondary to hypersplenism
 - the gold standard for diagnosis is bone marrow or splenic aspirate
 #### Management
+- Treatment under specialist supervision. 
 - the BNF recommends sodium stibogluconate, an organic pentavalent antimony compound
 - amphotericin B may be used with or after treatment with an antimony compound

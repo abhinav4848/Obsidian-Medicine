@@ -10,7 +10,7 @@ aliases:
 Parainfluenza Virus #virus
 Inspiratory wheeze
 Occurs: 6 months to 3 years.
-Lasts: 3-5 days.
+Lasts: 3-5 days. 
 
 Stridor ([[Abnormal airway sounds]])- also happens in [[acute epiglottitis]]. 
 Barking cough **worse at night**.
