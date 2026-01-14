@@ -3,6 +3,8 @@ tags:
   - dermat
 urls:
   - https://dermnetnz.org/topics/cowden-disease
+aliases:
+  - Multiple hamartoma syndrome
 ---
 Multiple hamartoma syndrome.
 aka. benign overgrowth of a mature cell type normal to the site/tissue/organ. 

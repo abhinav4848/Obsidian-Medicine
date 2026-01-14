@@ -2,6 +2,13 @@
 tags:
   - dermat
   - notAKT
+aliases:
+  - tuberous sclerosis
+  - Von Recklinghausen disease
+  - Sturge Weber syndrome
+  - Spina bifida
+  - neurofibromatosis
+  - facial angiofibroma
 ---
 Von Recklinghausen disease (neurofibromatosis type 1)
 1. Café au lait spots

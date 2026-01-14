@@ -7,7 +7,7 @@ tags:
 ---
 # Megacolon
 Colonic distension.
-- Can be congenital: [[Hirschprung disease]] in [[down's syndrome]]. 
+- Can be congenital: [[git problems in paeds|Hirschprung disease]] in [[down's syndrome]]. 
 - Can also be caused by e. coli and shigella. 
 - Can be caused by use of Loperamide (anti-diarrhoea medication). 
 
