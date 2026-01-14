@@ -5,8 +5,9 @@ urls:
   - https://www.pcds.org.uk/clinical-guidance/psoriasis-an-overview
 ---
 *See [[Psoriasis]] for all other types*
-
 Not to be confused with [[Actinic keratosis]].
+
+---
 # Aetiology 
 - Has family history. 
 - Can be triggered by stress/throat infections and can go away on its own. 
@@ -38,8 +39,7 @@ no use of steroid here as we need 4 week break between steroids.
 ### 3rd line after 8-12 weeks
 Topical Steroid BD, Tar preparations.
 Short acting Dithranol
-
 ## Secondary care
-**Phototherapy**: UVB or (UVA + Psoralen)
+**Phototherapy**: UVB or (UVA + [[psoralen]])
 **Systemic**: Oral Methotrexate, Ciclosporin, oral retinoids, 
 **Biologics**: infliximab, etanercept and adalimumab
