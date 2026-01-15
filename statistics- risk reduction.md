@@ -2,6 +2,8 @@
 aliases:
   - absolute risk reduction
   - numbers needed to treat
+  - relative risk
+  - odd's ratio
 tags:
   - stats
 urls:
