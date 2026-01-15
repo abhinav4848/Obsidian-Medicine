@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plaque psoriasis.md",
+                "file": "vitamin D.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "plaque psoriasis"
+              "title": "vitamin D"
             }
           },
           {
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "psoriasis",
+                "query": "zoledron",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -115,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "plaque psoriasis.md",
+                "file": "vitamin D.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +143,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of plaque psoriasis"
+              "title": "Graph of vitamin D"
             }
           }
         ]
@@ -167,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plaque psoriasis.md",
+                "file": "vitamin D.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from plaque psoriasis"
+              "title": "Outgoing links from vitamin D"
             }
           },
           {
@@ -196,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plaque psoriasis.md",
+                "file": "vitamin D.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of plaque psoriasis"
+              "title": "Outline of vitamin D"
             }
           },
           {
@@ -235,10 +235,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "plaque psoriasis.md"
+                "file": "vitamin D.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for plaque psoriasis"
+              "title": "File properties for vitamin D"
             }
           }
         ],
@@ -255,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plaque psoriasis.md",
+                "file": "vitamin D.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +265,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for plaque psoriasis"
+              "title": "Backlinks for vitamin D"
             }
           }
         ]
@@ -285,10 +285,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "d1673f995a3c509c",
+  "active": "e8655fe722644f1f",
   "lastOpenFiles": [
-    "corticosteroid.md",
+    "hyperparathyroidism.md",
+    "vitamin D.md",
+    "hypercalcemia.md",
     "plaque psoriasis.md",
+    "osteoporosis.md",
+    "corticosteroid.md",
     "cancer- skin.md",
     "osteomalacia.md",
     "psoralen.md",
@@ -310,10 +314,6 @@
     "nsaid.md",
     "housekeeping/gp guidelines- paeds.md",
     "missed pill window.md",
-    "neurocutaneous markers.md",
-    "newborn Infant physical examination.md",
-    "git problems in paeds.md",
-    "vomiting in paeds.md",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "attachments/bronchovesicular-2.mp3",
     "attachments/carhart's notch (otosclerosis).png",

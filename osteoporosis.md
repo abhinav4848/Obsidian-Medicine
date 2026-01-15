@@ -25,3 +25,5 @@ Calcium supplements only considered if daily intake < 700mg/day (SIGN) or <1000m
 In women, [[bisphosphonates]] should be given before HRT for preventing fractures. As HRT has s/e of VTE, stroke, [[cancer- breast (treatment)|Breast Cancer]], coronary disease.
 
 Can use [[cancer- drugs involved in gynae cancers|raloxifene]] in post-menopausal women (anti-resorptive action). 
+
+If starting Vit D, The National Osteoporosis Society suggests checking serum calcium at one month (can unmask [[hyperparathyroidism]]). Vitamin D levels do not need routinely checked after commencing replacement. 

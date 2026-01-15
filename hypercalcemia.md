@@ -49,3 +49,6 @@ Give iv NS first to excrete Calcium.
 	This is cuz Hypercalcemia causes polyuria -> Dehydration -> Hypovolemia -> Hypernatremia
 Then iv [[Bisphosphonates]] (zoledronate)
 Finally we have Monoclonal antibodies (Denosumab). 
+
+### Caution
+Even if someone has low vitamin D, supplementing it can cause hypercalcemia due to it unmasking [[hyperparathyroidism]]. Hence Vit D may not be suitable for patients with renal calculi, granulomatous disease, or bone metastases.
