@@ -9,6 +9,7 @@ aliases:
   - gestational diabetes mellitus
   - gestational diabetes
 ---
+*See [[diabetes mellitus- diagnosis]].* 
 # Risk factors for gestational diabetes
 - BMI of > 30 kg/m²
 - previous macrosomic baby weighing 4.5 kg or above
@@ -31,21 +32,21 @@ aliases:
 
 # Diagnostic thresholds for GDM
 GDM is diagnosed if either:
+#mnemonic 5-6-7-8
 
 | Fasting     | >= 5.6 mmol/L |
 | ----------- | ------------- |
 | 2 hour OGTT | >= 7.8        |
 
-See [[diabetes mellitus- diagnosis]]
-
+![[diabetes mellitus- diagnosis#Diagnostic cutoff for DM (is transcluded)]]
 # Management of GDM
 
-| Fasting glucose | Treatment                                                                                                                                                                                                        |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                 | Glibenclamide if can't tolerate metformin or decline insulin treatment                                                                                                                                           |
-| 6-6.9 mmol/l    | Only if there is evidence of complications such as macrosomia or hydramnios -> insulin                                                                                                                           |
-| < 7 mmol/l      | - Trial of diet and exercise.<br>- If no control in 1-2 weeks, metformin.<br>- If no control, insulin should be added to diet/exercise/metformin<br>- GDM is treated with short-acting, not long-acting, insulin |
-| >=7 mmol/l      | Insulin                                                                                                                                                                                                          |
+| Fasting glucose | Treatment                                                                                                                                                                                                                                   |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                 | Glibenclamide if can't tolerate metformin or decline insulin treatment                                                                                                                                                                      |
+| 6-6.9 mmol/l    | Only if there is evidence of complications such as macrosomia or hydramnios -> insulin                                                                                                                                                      |
+| < 7 mmol/l      | - Trial of diet and exercise.<br>- If target not met in 1-2 weeks-> diet/exercise+ [[diabetes drugs\|metformin]].<br>- If still not met-> diet/exercise/metformin + insulin<br>- GDM is treated with short-acting, not long-acting, insulin |
+| >=7 mmol/l      | Insulin                                                                                                                                                                                                                                     |
 
 # Management of pre-existing DM
 - weight loss for women with BMI of > 27 kg/m^2

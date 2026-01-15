@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "smoking.md",
+                "file": "diabetes- gestational.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "smoking"
+              "title": "diabetes- gestational"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "smoking",
+                "query": "diabetes",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "smoking.md",
+                "file": "diabetes- gestational.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,12 +139,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.27268597604513417,
+                  "scale": 1.476986055574352,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of smoking"
+              "title": "Graph of diabetes- gestational"
             }
           }
         ]
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "smoking.md",
+                "file": "diabetes- gestational.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +266,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for smoking"
+              "title": "Backlinks for diabetes- gestational"
             }
           }
         ]
@@ -288,6 +288,10 @@
   },
   "active": "5ca67636b35fa933",
   "lastOpenFiles": [
+    "diabetes mellitus- diagnosis.md",
+    "diabetes- gestational.md",
+    "smoking.md",
+    "afro-caribbean.md",
     "corticosteroid.md",
     "gp guideline- msk.md",
     "housekeeping/gp guidelines- psych.md",
@@ -310,10 +314,6 @@
     "cowden's disease.md",
     "actinic keratosis.md",
     "melanoma.md",
-    "multiple myeloma.md",
-    "spider naevi.md",
-    "shin lesions.md",
-    "oesophagus.md",
     "desktop.ini",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "attachments/bronchovesicular-2.mp3",

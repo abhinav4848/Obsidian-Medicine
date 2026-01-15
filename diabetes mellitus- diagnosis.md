@@ -10,6 +10,7 @@ DM symptoms + one abnormal value (7/11)
 Or
 2 abnormal values (> 7) w/o symptoms.
 
+# Diagnostic cutoff for DM %%(is transcluded)%%
 **Normal**: 3.9-5.5 
 
 | Test            | Prediabetic              | Diabetic         |
