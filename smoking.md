@@ -32,21 +32,28 @@ They should be given as part of a plan to stop smoking on or before a particular
 - there is now a 24 hour NRT patch that is recommended by CKS if smoking cravings are worst in the morning
 - NRT can be started on the Quit day
 
-# Varenicline
+# Varenicline (champix)
 Nicotinic receptor partial agonist. More effective than bupropion. 
 Varenicline works by partially activating the *nicotinic acetylcholine receptor*, reducing cravings for nicotine and withdrawal symptoms.
 - Start 1 week before the target stop date. 
 - recommended course of treatment is 12 weeks. Only continue treatment at any point if patient not smoking. 
 - use with caution if h/o depression/self-harm. 
 - c/i in [[drugs contraindicated in pregnancy|pregnancy]] & breastfeeding. 
-Also has cyclocise
+Also has cyclocynicline
 # Bupropion
-Norepinephrine and dopamine reuptake inhibitor, and nicotinic acetylcholine antagonist.
+Atypical antidepressant: Norepinephrine and dopamine reuptake inhibitor, and nicotinic acetylcholine antagonist.
+- This doesn't cause a dip in dopamine level like the smoking does after raising it first. 
+- People who were treated with it for depression were noted to quit smoking. 
+
 Unlike many [[depression|antidepressants]], it has minimal effect on serotonin. 
 - Start 1-2 weeks before target date to stop. 
-- small risk of seizures (1 in 1000)
+- small risk of seizures (1 in 1000 in patients with no seizure risk)
+	- Other antidepressants (Fluoxetine, prozac, etc are also 1:1000 risk)
 - c/i in [[epilepsy]], [[drugs contraindicated in pregnancy|pregnancy]], breastfeeding. 
 - Having an eating disorder is a relative contraindication. 
+
+Can given Days 1-6: 150mg OD for 6 days, 150mg BD for 14 days, 150mg BD from day 15+
+UK license is for 9 weeks, but as independent prescribers, we van give it longer, in Canada it's licensed for 21 weeks.
 
 ---
 # Pregnancy
