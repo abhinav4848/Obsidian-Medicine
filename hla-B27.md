@@ -7,5 +7,6 @@ aliases:
 [[Ankylosing spondylitis]]
 [[reactive arthritis]]
 Psoriatic arthritis
+[[plaque psoriasis]]
 
 Also seen in: Anterior uveitis ([[Iritis]]) 

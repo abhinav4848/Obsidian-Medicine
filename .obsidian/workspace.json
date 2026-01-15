@@ -13,73 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cancer- skin.md",
+                "file": "plaque psoriasis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cancer- skin"
+              "title": "plaque psoriasis"
             }
           },
           {
-            "id": "c140192add6043b2",
+            "id": "5ca67636b35fa933",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "housekeeping/gp guidelines- dermat.md",
+                "file": "corticosteroid.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "gp guidelines- dermat"
-            }
-          },
-          {
-            "id": "b8ae8731d76cd7cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "time for action of contraceptives.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "time for action of contraceptives"
-            }
-          },
-          {
-            "id": "5f20cabe001e4e35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cocp.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "cocp"
-            }
-          },
-          {
-            "id": "07cf7d14b0286f6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "time for action of contraceptives.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "time for action of contraceptives"
+              "title": "corticosteroid"
             }
           }
         ]
@@ -115,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "melano",
+                "query": "psoriasis",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -160,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cancer- skin.md",
+                "file": "plaque psoriasis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +143,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cancer- skin"
+              "title": "Graph of plaque psoriasis"
             }
           }
         ]
@@ -212,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cancer- skin.md",
+                "file": "plaque psoriasis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from cancer- skin"
+              "title": "Outgoing links from plaque psoriasis"
             }
           },
           {
@@ -241,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cancer- skin.md",
+                "file": "plaque psoriasis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cancer- skin"
+              "title": "Outline of plaque psoriasis"
             }
           },
           {
@@ -280,10 +235,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "cancer- skin.md"
+                "file": "plaque psoriasis.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for cancer- skin"
+              "title": "File properties for plaque psoriasis"
             }
           }
         ],
@@ -300,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cancer- skin.md",
+                "file": "plaque psoriasis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,7 +265,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cancer- skin"
+              "title": "Backlinks for plaque psoriasis"
             }
           }
         ]
@@ -332,10 +287,18 @@
   },
   "active": "d1673f995a3c509c",
   "lastOpenFiles": [
-    "actinic keratosis.md",
-    "cancer- skin.md",
+    "corticosteroid.md",
     "plaque psoriasis.md",
+    "cancer- skin.md",
+    "osteomalacia.md",
     "psoralen.md",
+    "time for action of contraceptives.md",
+    "cocp.md",
+    "infantile spasms.md",
+    "housekeeping/gp guidelines- dermat.md",
+    "hla-b27.md",
+    "cowden's disease.md",
+    "actinic keratosis.md",
     "melanoma.md",
     "multiple myeloma.md",
     "spider naevi.md",
@@ -343,22 +306,14 @@
     "oesophagus.md",
     "epistaxis.md",
     "acne rosacea.md",
-    "infantile spasms.md",
     "desktop.ini",
     "nsaid.md",
-    "housekeeping/gp guidelines- dermat.md",
-    "time for action of contraceptives.md",
     "housekeeping/gp guidelines- paeds.md",
-    "cowden's disease.md",
     "missed pill window.md",
     "neurocutaneous markers.md",
     "newborn Infant physical examination.md",
     "git problems in paeds.md",
     "vomiting in paeds.md",
-    "coeliac disease.md",
-    "down's syndrome.md",
-    "megacolon.md",
-    "hirschprung disease.md",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "attachments/bronchovesicular-2.mp3",
     "attachments/carhart's notch (otosclerosis).png",

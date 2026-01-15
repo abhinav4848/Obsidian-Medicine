@@ -18,7 +18,8 @@ For [[polymyalgia rheumatica|PMR]], the weaning regiment is very long. Up to 2 y
 | Prednisolone                      | ++             | +                 |
 | Dexamethasone,  <br>Betamethasone | +++            | -                 |
 # Topical steroid preparations
-Topical corticosteroid preparation potencies (*Oxford handbook GP 5th ed Page 563*)
+Topical corticosteroid preparation potencies 
+(*Oxford handbook GP 5th ed Page 563*)
 *See [[eczema#Steroids]] for context.* 
 
 | Potency     | Examples                                                                                                                                                                                                                                                                 |
@@ -34,7 +35,7 @@ Topical corticosteroid preparation potencies (*Oxford handbook GP 5th ed Page 56
 	Used for: Generalised pruritus (helps break itch-scratch cycle), Eczema-related itch, Scabies (second-line or alternative if permethrin unsuitable). 
 3. **Trimovate**: It's a brand name for clobetasone (a topical corticosteroid) with nystatin (an antifungal) and oxytetracycline (a tetracycline antibiotic). Can be used for someone with skin infection suspected post course of abx. 
 # Side effect of steroids
-- [[osteoporosis]]: No pain. Directly bone # (Osteomalacia is painful)
+- [[osteoporosis]]: No pain. Directly bone # ([[osteomalacia]] is painful)
 - Avascular necrosis of hip
 - Cataract
 - Peptic ulcers
@@ -48,9 +49,17 @@ Topical corticosteroid preparation potencies (*Oxford handbook GP 5th ed Page 56
 More than 3 weeks of usage
 
 #mnemonic Don't stop M
-Don't -> stop suddenly -> risk of adrenal insufficiency/crisis
-[[Sick day rules]] -> increase dose if unwell
-Treatment card/Steroid card 
-Osteoporosis prevention -> Bisphosphonates, calcium, Vit D supplements
-Proton pump inhibitor 
-MedicAlert bracelet 
+- Don't -> stop suddenly -> risk of adrenal insufficiency/crisis
+- [[Sick day rules]] -> increase dose if unwell
+- Treatment card/Steroid card 
+- Osteoporosis prevention -> Bisphosphonates, calcium, Vit D supplements
+- Proton pump inhibitor 
+- MedicAlert bracelet 
+
+## Notes on topical steroids %%(is transcluded)%%
+Using topical steroids in [[plaque psoriasis]].  
+- as we know topical corticosteroid therapy may lead to skin atrophy, striae and rebound symptoms 
+    - the scalp, face and flexures are particularly prone to steroid atrophy so topical steroids should not be used for more than 1-2 weeks/month 
+- systemic side-effects may be seen when potent corticosteroids are used on large areas e.g. > 10% of the body surface area 
+- NICE recommend that we aim for a 4-week break before starting another course of topical corticosteroids
+- they also recommend using potent corticosteroids for no longer than 8 weeks at a time and very potent corticosteroids for no longer than 4 weeks at a time
