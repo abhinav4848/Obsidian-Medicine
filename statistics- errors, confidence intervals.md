@@ -6,7 +6,7 @@ aliases:
   - significance tests
 ---
 # Errors, Power
-The probability of errors happening is chosen during study design itself. They're thresholds you're willing to accept. 
+They're thresholds you're willing to accept. 
 
 | Reality                  | H1                  | H0                   |
 | ------------------------ | ------------------- | -------------------- |
@@ -26,8 +26,8 @@ i.e. the maximum acceptable probability of rejecting the null hypothesis when it
 
  As the significance level is determined in advance the chance of making a type I error is not affected by sample size. It is however increased if the number of end-points are increased. For example if a study has 20 end-points it is likely one of these will be reached, just by chance.
 ### Type 2 error (β)
-Null hypothesis is acc
-false negative. 
+Null hypothesis is accepted when it's false. 
+aka. false negative. 
 > You conclude the new drug does **not** work when it actually **does**. 
 
 - Probability of Type 2 error = **26%**
@@ -36,11 +36,14 @@ false negative.
 This corresponds to **power**:
 > **Power = 1 − β**
 
-Power means correctly identifying the result regardless of whether the hypothesis is accepted or rejected. A study with high power can accurately identify an effect (or difference when one exists) or vice versa.
+Power means correctly identifying the result regardless of whether the hypothesis is accepted or rejected. A study with high power can accurately identify an effect (or difference when one exists) or vice versa. 
 
 - Standard acceptable power = **80–90%**
 	- *Most studies accept (β) = 10-20%*
 - As (β) = 26%, This study is **underpowered**
+
+The probability of type 1 error happening is chosen during study design itself, but type 2 error depends on sample size & alpha. 
+- By increasing the sample size, you decrease beta, thus increase the power.
 
 ---
 # p-value 
