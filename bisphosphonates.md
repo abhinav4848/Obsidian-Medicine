@@ -6,10 +6,10 @@ aliases:
   - alendronic acid
   - bisphosphonate
 ---
-Hypocalcaemia/vitamin D deficiency should be corrected before giving bisphosphonates. 
-
-When starting bisphosphonate treatment for [[osteoporosis]], [[osteoporosis#Calcium Supplementation|Calcium]] should only be prescribed if dietary intake is inadequate. 
-Vitamin D supplements are normally given. 
+- Hypocalcaemia/vitamin D deficiency should be corrected before giving bisphosphonates. 
+	- Zoledronate and denosumab both suppress osteoclast activity. If calcium intake/absorption is already low due to vitamin D deficiency, serum calcium can drop dangerously once bone resorption is blocked. 
+- When starting bisphosphonate treatment for [[osteoporosis]], [[osteoporosis#Calcium Supplementation (is linked)|Calcium]] should only be prescribed if dietary intake is inadequate. 
+	- [[vitamin-d]] supplements are normally given. 
 # Alendronate dosage
 10mg OD, or 70mg once weekly. 
 No monthly regimen. 

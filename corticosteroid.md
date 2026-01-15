@@ -52,7 +52,7 @@ More than 3 weeks of usage
 - Don't -> stop suddenly -> risk of adrenal insufficiency/crisis
 - [[Sick day rules]] -> increase dose if unwell
 - Treatment card/Steroid card 
-- Osteoporosis prevention -> Bisphosphonates, calcium, Vit D supplements
+- [[Osteoporosis]] prevention -> [[Bisphosphonates]], [[calcium]], [[vitamin-d|vit D]] supplements
 - Proton pump inhibitor 
 - MedicAlert bracelet 
 

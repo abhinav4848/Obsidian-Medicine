@@ -13,7 +13,7 @@ Remember that 10% of Primary Hyperparathyroidism have normal PTH but low PO4.
 If patient can't tolerate surgery, Cinacalcet
 
 # Vit D can unmask hyperparathyroidism %%(is transcluded)%%
-Calcium levels should be monitored after commencing [[vitamin D]] because it can unmask underlying hyperparathyroidism- [[hypercalcemia|hypercalcaemia]] can occur. 
+Calcium levels should be monitored after commencing [[vitamin-d]] because it can unmask underlying hyperparathyroidism- [[hypercalcemia|hypercalcaemia]] can occur. 
 - If someone is primary hyper-parathyroid and profoundly low Vit D, they won't manifest a rise in calcium because of this massively low Vit D. 
 	- Low Vit D can also cause compensatory secondary Hyperparathyroidism. 
 - When you supplement Vit D, secondary hyperparathyroidism should normalise. 
