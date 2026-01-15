@@ -45,6 +45,7 @@ $$
 \text{CER} &= \frac{20}{100} = 0.20 \\
 \text{EER} &= \frac{10}{100} = 0.10 \\
 \text{ARR} &= 0.20 - 0.10 = 0.10 \\
-\text{NNT} &= \frac{1}{0.10} = 10
+\text{NNT} &= \frac{1}{0.10} = 10 \\
+\text{RR} &= \frac{0.1}{0.2} = 0.05 
 \end{aligned}
 $$

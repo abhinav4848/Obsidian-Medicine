@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "statistics- risk reduction.md",
+                "file": "statistics- risk reduction, nnt, odds ratio.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "statistics- risk reduction"
+              "title": "statistics- risk reduction, nnt, odds ratio"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "statistics- risk reduction.md",
+                "file": "statistics- errors, confidence intervals.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "statistics- risk reduction"
+              "title": "statistics- errors, confidence intervals"
             }
           }
         ],
@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "statistics- risk reduction.md",
+                "file": "statistics- errors, confidence intervals.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,12 +153,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.053497906014663,
+                  "scale": 0.7514342019604864,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of statistics- risk reduction"
+              "title": "Graph of statistics- errors, confidence intervals"
             }
           }
         ]
@@ -270,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "statistics- risk reduction.md",
+                "file": "statistics- errors, confidence intervals.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +280,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for statistics- risk reduction"
+              "title": "Backlinks for statistics- errors, confidence intervals"
             }
           }
         ]
@@ -302,8 +302,8 @@
   },
   "active": "1f3406c8cdddc607",
   "lastOpenFiles": [
+    "statistics- risk reduction, nnt, odds ratio.md",
     "statistics- errors, confidence intervals.md",
-    "statistics- risk reduction.md",
     "diabetes- gestational.md",
     "diabetes drugs.md",
     "diabetes mellitus- diagnosis.md",
