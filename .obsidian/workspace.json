@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "corticosteroid.md",
+                "file": "smoking.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "corticosteroid"
+              "title": "smoking"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zoledron",
+                "query": "smoking",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -102,7 +102,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -115,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "corticosteroid.md",
+                "file": "smoking.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +144,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of corticosteroid"
+              "title": "Graph of smoking"
             }
           }
         ]
@@ -255,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "corticosteroid.md",
+                "file": "smoking.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +266,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for corticosteroid"
+              "title": "Backlinks for smoking"
             }
           }
         ]
@@ -287,6 +288,7 @@
   },
   "active": "5ca67636b35fa933",
   "lastOpenFiles": [
+    "corticosteroid.md",
     "gp guideline- msk.md",
     "housekeeping/gp guidelines- psych.md",
     "osteoporosis.md",
@@ -297,7 +299,6 @@
     "hyperparathyroidism.md",
     "hypercalcemia.md",
     "plaque psoriasis.md",
-    "corticosteroid.md",
     "cancer- skin.md",
     "osteomalacia.md",
     "psoralen.md",

@@ -39,6 +39,7 @@ Varenicline works by partially activating the *nicotinic acetylcholine receptor*
 - recommended course of treatment is 12 weeks. Only continue treatment at any point if patient not smoking. 
 - use with caution if h/o depression/self-harm. 
 - c/i in [[drugs contraindicated in pregnancy|pregnancy]] & breastfeeding. 
+Also has cyclocise
 # Bupropion
 Norepinephrine and dopamine reuptake inhibitor, and nicotinic acetylcholine antagonist.
 Unlike many [[depression|antidepressants]], it has minimal effect on serotonin. 
