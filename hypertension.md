@@ -8,27 +8,9 @@ aliases:
 See [NICE CKS Chart](https://www.nice.org.uk/guidance/ng136/resources/visual-summary-pdf-6899919517) on [this page](https://cks.nice.org.uk/topics/hypertension/diagnosis/diagnosis/). 
 # Management
 See Canvas: [[hypertension management.canvas|hypertension management]]
+For Pre-eclampsia, see: [[hypertension in pregnancy]]
 
-# Pregnancy
-1. Chronic Hypertension
-	1. Switch to CCB as [[ace inhibitors|ACE]]- renal agenesis, Beta Blocker- IUGR
-	2. Start Aspirin from 12 weeks till delivery if high risk of pre-eclampsia
-2. Sudden HTN
-	1. iv Labetalol 
-	2. iv MgSO4
-	3. Delivery when Possible
-3. Eclampsia- iv MgSO4 is first line. 
-4. DM+ HTN
-	1. Give CCB
-	2. Consider Aspirin as DM puts patient at high risk of pre-eclampsia. 
-
-## Standard treatment in Pregnancy
-Monitor if BP > 140/90.
-1. Labetalol if SBP > 150 or DBP > 100.
-2. Nifedipine can be used as an alternative if labetalol is contraindicated (e.g. in [[Asthma]]). 
-3. Methyldopa is 3rd line.
-
-# Accelerated HTN
+# AcceleratedHTN
 Accelerated (or malignant) hypertension is a severe increase in blood pressure to 180/120 mmHg or higher (and often over 220/120 mmHg) with signs of retinal haemorrhage and/or [[papilledema]] (swelling of the optic nerve). 
 
 ## End organ damage
@@ -44,3 +26,13 @@ We investigate with
 - ECG for heart failure, 
 - urine dip for proteinuria. 
 - U&e for AKI. 
+
+# How to manage a patient in GP with hypertension
+Up to stage 2, ask to do a 7-day home BP reading. 
+Check eGFR, if only an old reading is available, which is not reliable anymore do new set of bloods including Renal function. 
+Also do ECG, [[chronic kidney disease|urine ACR]]
+If starting Ramipril, ask to come back in 3 weeks for a blood test to check eGFR & then do a home BP reading for a week and drop it off prior to the consultation.
+If bloodwork fine, continue with Ramipril. 
+If before starting treatment, you note the most recent eGFR low, start with Amlodipine. 
+
+### If ne 
