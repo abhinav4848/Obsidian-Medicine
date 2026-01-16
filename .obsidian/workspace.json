@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "statistics- errors, confidence intervals.md",
+                "file": "lyme disease.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "statistics- errors, confidence intervals"
+              "title": "lyme disease"
             }
           }
         ],
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "statistic",
+                "query": "lyme",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -117,7 +117,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -130,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "statistics- errors, confidence intervals.md",
+                "file": "lyme disease.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -158,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of statistics- errors, confidence intervals"
+              "title": "Graph of lyme disease"
             }
           }
         ]
@@ -270,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "statistics- errors, confidence intervals.md",
+                "file": "lyme disease.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for statistics- errors, confidence intervals"
+              "title": "Backlinks for lyme disease"
             }
           }
         ]
@@ -302,8 +303,8 @@
   },
   "active": "1f3406c8cdddc607",
   "lastOpenFiles": [
-    "statistics- risk reduction, nnt, odds ratio.md",
     "statistics- errors, confidence intervals.md",
+    "statistics- risk reduction, nnt, odds ratio.md",
     "diabetes- gestational.md",
     "diabetes drugs.md",
     "diabetes mellitus- diagnosis.md",
