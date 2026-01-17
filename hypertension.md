@@ -28,11 +28,16 @@ We investigate with
 - U&e for AKI. 
 
 # How to manage a patient in GP with hypertension
-Up to stage 2, ask to do a 7-day home BP reading. 
-Check eGFR, if only an old reading is available, which is not reliable anymore do new set of bloods including Renal function. 
-Also do ECG, [[chronic kidney disease|urine ACR]]
-If starting Ramipril, ask to come back in 3 weeks for a blood test to check eGFR & then do a home BP reading for a week and drop it off prior to the consultation.
-If bloodwork fine, continue with Ramipril. 
-If before starting treatment, you note the most recent eGFR low, start with Amlodipine. 
+- Do 3 readings in the surgery, if coding just one, code the highest reading. 
+- if BP is up to stage 2, ask to do a 7-day home BP reading. 
+- Check eGFR, if only an old reading is available, which is not reliable anymore do new set of bloods including Renal function. 
+- Also do ECG, [[chronic kidney disease|urine ACR]], [[retinopathy|ophthalmoscopy]]. 
+	- Can do urine dipstick for RBC & protein
+- If starting Ramipril, ask to come back in 3 weeks for a blood test to check eGFR & then do a home BP reading for a week and drop it off prior to the consultation.
+- If bloodwork fine, continue with Ramipril. 
+- If before starting treatment, you note the most recent eGFR low, start with Amlodipine. 
 
-### If ne 
+### If new patient with no previous history of HTN comes with stage 3 HTN
+- send to A&E for initial evaluation.
+### Known HTN coming back with stage 3 HTN readings
+Check for any end-organ damage

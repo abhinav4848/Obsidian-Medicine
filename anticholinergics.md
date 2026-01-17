@@ -5,6 +5,7 @@ tags:
 urls:
   - https://www.hey.nhs.uk/patient-leaflet/anticholinergic-burden-acb/
   - https://www.amboss.com/us/knowledge/muscarinic-antagonists/
+  - https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2023/01/LPT-Anticholinergic-side-effects-and-prescribing-guidance.pdf
 aliases:
   - Anticholinergic
   - AntiMuscarinic
@@ -40,3 +41,4 @@ Useful as [[antiemetics]].
 
 # Anticholinergic burden
 ![[anticholinergic burden.png]]
+
