@@ -53,6 +53,21 @@
             }
           },
           {
+            "id": "9de1637bdaf7883d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pain.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "pain"
+            }
+          },
+          {
             "id": "a328b358f9a5e3ed",
             "type": "leaf",
             "state": {
@@ -95,20 +110,6 @@
               },
               "icon": "lucide-file",
               "title": "safety nets"
-            }
-          },
-          {
-            "id": "a675f1eeb7f623aa",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.nhs.uk/conditions/back-pain/",
-                "title": "Back pain - NHS",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Back pain - NHS"
             }
           }
         ],
@@ -176,8 +177,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -190,6 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "safety nets.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +218,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of safety nets"
             }
           }
         ]
@@ -329,6 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "safety nets.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,7 +340,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for safety nets"
             }
           }
         ]
@@ -358,16 +360,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a675f1eeb7f623aa",
+  "active": "e3f8e80df94fa775",
   "lastOpenFiles": [
     "safety nets.md",
+    "pain.md",
+    "anticipatory meds.md",
+    "housekeeping/gp guidelines- psych.md",
+    "statistics- risk reduction, nnt, odds ratio.md",
     "goal in managing a patient in GP setting..md",
     "housekeeping/revise recent changes.base",
     "retinopathy.md",
     "anticholinergics.md",
-    "anticipatory meds.md",
-    "statistics- risk reduction, nnt, odds ratio.md",
-    "housekeeping/gp guidelines- psych.md",
     "hypertension.md",
     "flow charts/hypertension management.canvas",
     "hypertension in pregnancy.md",
@@ -387,7 +390,6 @@
     "calcium.md",
     "hyperparathyroidism.md",
     "hypercalcemia.md",
-    "plaque psoriasis.md",
     "desktop.ini",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "attachments/bronchovesicular-2.mp3",

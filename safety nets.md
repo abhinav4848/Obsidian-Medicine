@@ -121,3 +121,6 @@ Please seek urgent medical attention (e.g., A&E or call 999) if you experience a
 • Any other new, concerning symptoms
 
 We've discussed the above but also take a minute to see the leaflet on NHS website, especially the boxes about when you need to seek medical help: https://www.nhs.uk/conditions/epilepsy/
+
+---
+
