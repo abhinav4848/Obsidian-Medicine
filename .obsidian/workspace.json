@@ -96,9 +96,23 @@
               "icon": "lucide-file",
               "title": "safety nets"
             }
+          },
+          {
+            "id": "a675f1eeb7f623aa",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.nhs.uk/conditions/back-pain/",
+                "title": "Back pain - NHS",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Back pain - NHS"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -176,7 +190,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "safety nets.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of safety nets"
+              "title": "Graph view"
             }
           }
         ]
@@ -316,7 +329,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "safety nets.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +338,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for safety nets"
+              "title": "Backlinks"
             }
           }
         ]
@@ -346,10 +358,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e3f8e80df94fa775",
+  "active": "a675f1eeb7f623aa",
   "lastOpenFiles": [
-    "goal in managing a patient in GP setting..md",
     "safety nets.md",
+    "goal in managing a patient in GP setting..md",
     "housekeeping/revise recent changes.base",
     "retinopathy.md",
     "anticholinergics.md",

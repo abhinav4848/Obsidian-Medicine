@@ -4,29 +4,24 @@ tags:
 ---
 # Chest Pain
 Please seek urgent medical attention (e.g., A&E or call 999) if you experience any of the following:
-- Sudden severe chest pain that does not ease.
-- Chest pain during physical activity or pain that spreads to your arms, neck, or jaw
-- Associated symptoms like nausea, vomiting, sweating, or shortness of breath
-- Coughing up blood or experiencing fainting/near-fainting episodes
-- Worsening of current symptoms or any other new, concerning symptoms
+- Sudden, severe chest pain that does not ease – especially a crushing/pressure‑type sensation.
+- Chest pain on exertion or pain that spreads to your arms, neck, jaw, back or shoulder (possible heart origin).
+- Associated symptoms such as nausea, vomiting, sweating, shortness of breath, or feeling faint.
+- Coughing up blood or experiencing fainting/near‑fainting episodes.
+- New‑onset pain after trauma or a tearing sensation in the chest (possible aortic dissection).
+- Worsening of current symptoms or any other new, concerning symptom.
  
-We discussed these potential red flags, and I’ve advised close monitoring for any of the above.
-If you were to feel unwell then please do not hesitate to seek medical help
-
-See Leaflet on NHS website: https://www.nhs.uk/conditions/heart-attack/
+We've discussed the above but also take a minute to see the leaflet on NHS website, especially the symptoms of a heart attack: https://www.nhs.uk/conditions/heart-attack/
 # Headache	
-Please seek urgent medical attention (e.g., A&E or call 999) if you experience any of the following:
-- Sudden, severe “thunderclap” headache that feels very different from your usual headaches
-- Headache with confusion, vision changes, or slurred speech
+Please seek urgent medical attention (e.g., A&E or call 999) if you experience any of the following: 
+- Sudden, severe “thunderclap” headache that is unlike your usual headaches (worst ever).
+- Headache with confusion, vision changes, or slurred speech 
 - Nausea or vomiting that’s severe or unusual for you
 - Scalp tenderness or jaw pain when chewing
 - Neck stiffness, fever, or sensitivity to light (photophobia)
-- Worsening of current symptoms or the development of new, concerning symptoms
- 
-We discussed these red flags, and I have advised you to closely monitor for any of the above
-If you were to feel unwell then please do not hesitate to seek medical help
+- Worsening of current symptoms or the development of new, concerning symptoms 
 
-See Leaflet on NHS website: https://www.nhs.uk/symptoms/headaches/
+We've discussed the above but also take a minute to see the leaflet on NHS website, especially the boxes about when you need to seek medical help: https://www.nhs.uk/symptoms/headaches/
 # Dizziness
 Please seek urgent medical attention (e.g., A&E or call 999) if you experience any of the following:
 - Sudden weakness in your arms or legs
@@ -36,11 +31,8 @@ Please seek urgent medical attention (e.g., A&E or call 999) if you experience a
 - Fainting
 - Sudden hearing loss or persistent ringing in the ears (tinnitus)
 - Dizziness that persists or worsens over time
- 
-We discussed these red flags, and I have advised you to closely monitor for any of the above 
-If you were to feel unwell then please do not hesitate to seek medical help
 
-See Leaflet on NHS website: https://www.nhs.uk/symptoms/dizziness/
+We've discussed the above but also take a minute to see the leaflet on NHS website, especially the boxes about when you need to seek medical help: https://www.nhs.uk/symptoms/dizziness/
 # Hypertension (high blood pressure)
 Please seek urgent medical attention (e.g., A&E or call 999) if you experience any of the following:
 - A severe 'thunderclap' headache that or a headache that different from your usual headaches
@@ -49,11 +41,8 @@ Please seek urgent medical attention (e.g., A&E or call 999) if you experience a
 - Confusion, vision changes, or slurred speech
 - Shortness of breath or chest pain that does not ease.
 - Worsening of current symptoms or any new, concerning symptoms
- 
-We discussed these red flags, and I’ve advised you to closely monitor for any of the above signs.
-If you were to feel unwell then please do not hesitate to seek medical help
 
-https://www.nhs.uk/conditions/high-blood-pressure/
+We've discussed the above but also take a minute to see the leaflet on NHS website, especially the boxes about when you need to seek medical help: https://www.nhs.uk/conditions/high-blood-pressure/
 # Anaemia
 Please seek urgent medical attention (e.g., A&E or call 999) if you experience any of the following:
 - Severe fatigue or weakness 
@@ -62,11 +51,8 @@ Please seek urgent medical attention (e.g., A&E or call 999) if you experience a
 - Chest pain or a rapid, irregular heartbeat
 - Blood in your stool or dark, tarry stools
 - Worsening of current symptoms or any new, unusual symptoms
- 
-We discussed these red flags, and I have advised close monitoring for any of the above.
-If you were to feel unwell then please do not hesitate to seek medical help
 
-https://www.nhs.uk/conditions/iron-deficiency-anaemia/
+We've discussed the above but also take a minute to see the leaflet on NHS website, especially the boxes about when you need to seek medical help: https://www.nhs.uk/conditions/iron-deficiency-anaemia/
 # Gastritis
 Please seek urgent medical attention (e.g., A&E or call 999) if you experience any of the following:
 - Severe abdominal pain or tenderness, or chest pain that does not improve
@@ -74,11 +60,8 @@ Please seek urgent medical attention (e.g., A&E or call 999) if you experience a
 - your poo is black, sticky and extremely smelly
 - Severe bloating or inability to keep food down 
 - Worsening of current symptoms or any new, unusual symptoms
- 
-We discussed these red flags, and I have advised close monitoring for any of the above.
-If you were to feel unwell then please do not hesitate to seek medical help
 
-https://www.nhs.uk/conditions/gastritis/
+We've discussed the above but also take a minute to see the leaflet on NHS website, especially the boxes about when you need to seek medical help: https://www.nhs.uk/conditions/gastritis/
 # SOB
  Please seek urgent medical attention (e.g., A&E or call 999) if you experience any of the following:
 - Severe difficulty breathing or feeling like you are gasping for air
@@ -87,12 +70,9 @@ https://www.nhs.uk/conditions/gastritis/
 - Confusion or difficulty staying awake
 - Coughing up blood, or sputum that looks unusual
 - Worsening of current symptoms or any new, unusual symptoms
- 
-We discussed these red flags, and I have advised close monitoring for any of the above.
-If you were to feel unwell then please do not hesitate to seek medical help
 
-https://www.nhs.uk/symptoms/shortness-of-breath/
-# Back Pain
+We've discussed the above but also take a minute to see the leaflet on NHS website, especially the boxes about when you need to seek medical help: https://www.nhs.uk/symptoms/shortness-of-breath/
+# Back Pain 
 Please seek urgent medical attention (e.g., A&E or call 999) if you experience any of the following:
 - Severe back pain that does not improve with rest
 - Numbness or weakness in your legs
@@ -101,10 +81,8 @@ Please seek urgent medical attention (e.g., A&E or call 999) if you experience a
 - difficulty passing urine
 - Signs of infection, such as fever or chills
 - Worsening of current symptoms or any new, unusual symptoms
-We discussed these red flags, and I have advised close monitoring for any of the above.
-If you were to feel unwell then please do not hesitate to seek medical help
 
-https://www.nhs.uk/conditions/back-pain/
+We've discussed the above but also take a minute to see the leaflet on NHS website, especially the boxes about when you need to seek medical help: https://www.nhs.uk/conditions/back-pain/
 # Sepsis
 Please seek urgent medical attention (e.g., A&E or call 999) if you experience any of the following:
 - Slurred speech or signs of confusion
@@ -112,9 +90,8 @@ Please seek urgent medical attention (e.g., A&E or call 999) if you experience a
 - Severe breathlessness or difficulty breathing
 - Worsening of current symptoms or any new, unusual symptoms
 We discussed these red flags, and I have advised careful monitoring for any of the above.
-If you were to feel unwell then please do not hesitate to seek medical help
 
-https://www.nhs.uk/conditions/sepsis/
+We've discussed the above but also take a minute to see the leaflet on NHS website, especially the boxes about when you need to seek medical help: https://www.nhs.uk/conditions/sepsis/
 # DVT
 Please seek urgent medical attention (e.g., A&E or call 999) if you experience any of the following:
 - New shortness of breath or chest pain that worsens with deep breaths
@@ -123,10 +100,8 @@ Please seek urgent medical attention (e.g., A&E or call 999) if you experience a
 - Noticeable warmth or redness spreading beyond the affected area
 - Sudden changes in colour or temperature in the affected leg
 - Worsening of current symptoms or any new, unusual symptoms
-We discussed these red flags, and I have advised close monitoring for any of the above.
-If you were to feel unwell then please do not hesitate to seek medical help
 
-https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/
+We've discussed the above but also take a minute to see the leaflet on NHS website, especially the boxes about when you need to seek medical help: https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/
 # Hyperglycaemia
 Please seek urgent medical attention (e.g., A&E or call 999) if you experience any of the following:
 - Abdominal pain that is persistent or severe
@@ -135,10 +110,7 @@ Please seek urgent medical attention (e.g., A&E or call 999) if you experience a
 - Nausea or vomiting
 - Worsening of current symptoms or any new, unusual symptoms
  
-We discussed these red flags, and I have advised close monitoring for any of the above.
-If you were to feel unwell then please do not hesitate to seek medical help
-
-https://www.nhs.uk/conditions/high-blood-sugar-hyperglycaemia/
+We've discussed the above but also take a minute to see the leaflet on NHS website, especially the boxes about when you need to seek medical help: https://www.nhs.uk/conditions/high-blood-sugar-hyperglycaemia/
 # Seizure
 Please seek urgent medical attention (e.g., A&E or call 999) if you experience any of the following:
 • A new seizure or repeated seizures without recovery in between
@@ -148,7 +120,4 @@ Please seek urgent medical attention (e.g., A&E or call 999) if you experience a
 • Signs of infection (e.g., fever, chills, or a stiff neck)
 • Any other new, concerning symptoms
 
-We discussed these potential red flags, and I’ve advised close monitoring for any of the above.
-If you were to feel unwell then please do not hesitate to seek medical help
-
-https://www.nhs.uk/conditions/epilepsy/
+We've discussed the above but also take a minute to see the leaflet on NHS website, especially the boxes about when you need to seek medical help: https://www.nhs.uk/conditions/epilepsy/
