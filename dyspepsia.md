@@ -38,4 +38,4 @@ aka undiagnosed dyspepsia
 	1. If symptoms persist with one approach, try the other. 
 
 ---
-Note: Antacids neutralise acid
+See: [[gastroprotection]] 

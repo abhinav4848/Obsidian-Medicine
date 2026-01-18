@@ -7,6 +7,7 @@ urls:
   - https://bnf.nice.org.uk/treatment-summaries/constipation/
   - https://www.nhs.uk/conditions/constipation/
   - https://www.nhs.uk/live-well/eat-well/digestive-health/how-to-get-more-fibre-into-your-diet/
+  - https://cks.nice.org.uk/topics/constipation/management/adults/
 ---
 Abuse may lead to [[hypokalemia|hypokalaemia]]. _Simple constipation_ is usually relieved by increasing the intake of dietary fibre and fluids.
 
@@ -23,8 +24,9 @@ In the management of short-duration constipation (where dietary measures are ine
 
 First line in pregnancy. 
 ## Emollient stool softeners 
+aka stool wetting / surface wetting agent.
 - Sodium Docusate- acts both as a stimulant & as a softening agent. 
-- Decrease the surface tension of faecal mass (surface wetting agent) and increases intestinal fluid in the stool, lubricating it, thus making it easier to pass.
+- Decrease the surface tension of faecal mass, and increases intestinal fluid in the stool, lubricating it, thus making it easier to pass.
 - It's only approved for bowel obstruction. 
 - Also has stimulant action at higher doses. 
 - Onset: 1-3 days. 
@@ -44,11 +46,13 @@ Macrogol Onset: 1-2 days.
 Lactulose Onset: 
 ## Stimulant laxatives
 Senna, Bisacodyl (Dulcolax), Sodium Picosulfate
-- Promote contraction of the intestines, promoting the movement of stools through the bowel when patient is too weak to defecate.
+- Work by irritating the bowel- Promote contraction of the intestines, promoting the movement of stools through the bowel when patient is too weak to defecate.
 - Can cause cramping
 - Do not use if patient has complete bowel obstruction.
 
 - Senna Onset 6 -12 hrs. 
+	- Not for lactating mothers as secreted in milk. 
+	- See more about [medications for constipation in pregnancy](https://www.medicinesinpregnancy.org/leaflets-a-z/constipation/)
 - Bisacodyl Onset 10 -12 hrs. 
 - Picosulfate is preferred in palliative settings as it does not need much fluids and people who have lost their appetite and are struggling to drink, will not be able to take the amount of fluid Laxido etc needs. 
 - Picosulfate onset: 6 –14 hours

@@ -19,6 +19,8 @@ Mild pain:
 - is annoying but does not stop you doing daily activities
 
 # Scale 
-Can use Wong-Baker universal pain assessment tool
+Can use Wong-Baker universal pain assessment tool.
+
+You don't have to be crying to have this worst pain. 
 ![[universal-pain-assessment-tool-with-wong-baker-facesc2ae-pain-rating-scale.jpg]]
 https://wongbakerfaces.org/instructions-use/
