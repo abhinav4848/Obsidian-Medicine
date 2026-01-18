@@ -1,3 +1,9 @@
+---
+aliases:
+tags:
+  - obstetrics
+---
+*see [[pre-eclampsia]].* 
 # Pregnancy
 1. Chronic Hypertension
 	1. Switch to CCB as [[ace inhibitors|ACE]]- renal agenesis, Beta Blocker- IUGR

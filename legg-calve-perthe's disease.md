@@ -5,6 +5,9 @@ aliases:
   - Legg-Calve-Perthe's disease
 urls:
   - https://gpnotebook.com/en-GB/pages/orthopaedics/perthes-disease
+tags:
+  - ortho
+  - paeds
 ---
 *See [[paeds ortho diff- ddh, perthe's, sufe]]*
 *See [[lower limb ortho problems]]* 

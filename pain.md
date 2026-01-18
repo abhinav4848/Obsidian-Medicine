@@ -2,6 +2,8 @@
 tags:
   - gp_training
 ---
+Do SOCRATES. 
+
 Severe pain: 
 - always there and so bad it's hard to think or talk
 - you cannot sleep
@@ -15,3 +17,8 @@ Moderate pain:
 Mild pain: 
 - comes and goes
 - is annoying but does not stop you doing daily activities
+
+# Scale 
+Can use Wong-Baker universal pain assessment tool
+![[universal-pain-assessment-tool-with-wong-baker-facesc2ae-pain-rating-scale.jpg]]
+https://wongbakerfaces.org/instructions-use/

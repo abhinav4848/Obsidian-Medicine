@@ -1,6 +1,9 @@
 ---
 aliases:
   - Pharmacology in CKD
+tags:
+  - pharmacology
+  - nephrology
 ---
 # Pharmacology in CKD
 ## Managing Proteinuria
@@ -20,11 +23,11 @@ Dapagliflozin is licensed for CKD but don't start if if eGFR <15.
 Can give SGLT2i in CKD without diabetes, and in heart failure. 
 ## Medication safety in Kidney disease
 
-|                 |                                                                                                                                                                                                                                                                       |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Avoid           | Avoid these drugs entirely:<br><br>- antibiotics: tetracycline, [[nitrofurantoin]]<br>- [[nsaid\|NSAIDs]]<br>- [[lithium]]<br>- [[diabetes drugs\|metformin]]:  Reduce dose if GFR <45, Stop dose if eGFR <30. <br>- calcineurin inhibitors (ciclosporin, tacrolimus) |
-| Adjust dose     | Drugs likely to accumulate in chronic kidney disease - need dose adjustment<br><br>- most antibiotics: penicillins, cephalosporins, vancomycin, gentamicin, streptomycin<br>- digoxin, atenolol<br>- methotrexate<br>- sulphonylurea<br>- furosemide<br>- opioids     |
-| Relatively safe | can sometimes use normal dose depending on the degree of CKD<br><br>- antibiotics: erythromycin, rifampicin<br>- diazepam<br>- warfarin                                                                                                                               |
+|                 |                                                                                                                                                                                                                                                                                                                                                            |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Avoid           | Avoid these drugs entirely:<br>- antibiotics: tetracycline, [[nitrofurantoin]]<br>- [[nsaid\|NSAIDs]]<br>- [[lithium]]<br>- [[diabetes drugs\|metformin]]:  Reduce dose if GFR <45, Stop dose if eGFR <30. <br>- calcineurin inhibitors (ciclosporin, tacrolimus)<br><br>caution for [[magnesium]] in severe renal failure due to risk of hypermagnesemia  |
+| Adjust dose     | Drugs likely to accumulate in chronic kidney disease - need dose adjustment<br><br>- most antibiotics: penicillins, cephalosporins, vancomycin, gentamicin, streptomycin<br>- digoxin, atenolol<br>- methotrexate<br>- sulphonylurea<br>- furosemide<br>- opioids                                                                                          |
+| Relatively safe | can sometimes use normal dose depending on the degree of CKD<br><br>- antibiotics: erythromycin, rifampicin<br>- diazepam<br>- warfarin                                                                                                                                                                                                                    |
 ### Some medicines in Kidney disease
 
 |                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |

@@ -11,15 +11,17 @@
             "id": "d1673f995a3c509c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "housekeeping/gp guidelines- psych.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "flow charts/h. pylori treatment flowchart.canvas",
+                "viewState": {
+                  "x": -80.5,
+                  "y": 150,
+                  "zoom": -1.3122779248536431
+                }
               },
-              "icon": "lucide-file",
-              "title": "gp guidelines- psych"
+              "icon": "lucide-layout-dashboard",
+              "title": "h. pylori treatment flowchart"
             }
           },
           {
@@ -68,23 +70,6 @@
             }
           },
           {
-            "id": "a328b358f9a5e3ed",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "flow charts/h. pylori treatment flowchart.canvas",
-                "viewState": {
-                  "x": -80.5,
-                  "y": 150,
-                  "zoom": -1.3122779248536431
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "h. pylori treatment flowchart"
-            }
-          },
-          {
             "id": "e3f8e80df94fa775",
             "type": "leaf",
             "state": {
@@ -100,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "cf8db57f04644c10",
@@ -169,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cancer map",
+                "query": "pylori",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -200,8 +185,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -214,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "flow charts/h. pylori treatment flowchart.canvas",
+                "file": "pain.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,7 +226,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of h. pylori treatment flowchart"
+              "title": "Graph of pain"
             }
           }
         ]
@@ -354,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flow charts/h. pylori treatment flowchart.canvas",
+                "file": "pain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,7 +348,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for h. pylori treatment flowchart"
+              "title": "Backlinks for pain"
             }
           }
         ]
@@ -384,36 +368,38 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a328b358f9a5e3ed",
+  "active": "9de1637bdaf7883d",
   "lastOpenFiles": [
+    "attachments/universal-pain-assessment-tool-with-wong-baker-facesc2ae-pain-rating-scale.jpg",
+    "housekeeping/revise recent changes.base",
+    "genetic anticipation.md",
+    "spots.md",
+    "legg-calve-perthe's disease.md",
+    "hypertension in pregnancy.md",
+    "pre-eclampsia.md",
+    "human herpes viruses.md",
+    "diet and fluid thickness scale.md",
+    "attachments/anticholinergic burden.png",
+    "magnesium.md",
+    "housekeeping/study tips.md",
+    "flow charts/h. pylori treatment flowchart.canvas",
+    "anticipatory meds.md",
+    "ckd pharmacology.md",
+    "pain.md",
+    "laxatives.md",
+    "housekeeping/gp guidelines- psych.md",
+    "dyspepsia.md",
     "h. pylori.md",
     "cancer- gastric.md",
-    "dyspepsia.md",
     "dysphagia.md",
     "calcium channel blockers.md",
     "gingival hyperplasia.md",
-    "housekeeping/study tips.md",
     "liver toxicity.md",
     "upper gi bleed.md",
     "monitoring bloods with drugs.md",
     "diabetes drugs.md",
     "Amiodarone.md",
-    "monitoring in drugs.md",
-    "tuberculosis.md",
-    "p450.md",
-    "platelets.md",
-    "quinine.md",
-    "pre-eclampsia.md",
-    "epistaxis.md",
-    "anticholinergics.md",
-    "cancer & associations.md",
-    "housekeeping/gp guidelines- infectious diseases.md",
     "housekeeping/memorise.base",
-    "housekeeping/revise recent changes.base",
-    "housekeeping/rules.md",
-    "housekeeping/goal in managing a patient in GP setting..md",
-    "housekeeping/gp guidelines- resp.md",
-    "cancer- risk factors.md",
     "Untitled",
     "flow charts/hypertension management.canvas",
     "desktop.ini",
@@ -429,7 +415,6 @@
     "flow charts/prostaglandins and leukotrienes.canvas",
     "flow charts/haematuria.canvas",
     "flow charts/deep vein thrombosis.canvas",
-    "flow charts/h. pylori treatment flowchart.canvas",
     "attachments/erythema nodosum.jpg",
     "attachments/erythema multiforme.jpg",
     "attachments/erythema marginatum.jpg",
@@ -437,7 +422,6 @@
     "attachments/coeliac disease- dermatitis herpetiformis 2.jpg",
     "attachments/erythema gyratum repens.jpg",
     "attachments/erythema ab igne.jpg",
-    "attachments/erythema chronicum migrans.jpg",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "_chicken Pox treatment flowchart (Work in progress).canvas",
     "Chicken Pox treatment flowchart (Work in progress).canvas"

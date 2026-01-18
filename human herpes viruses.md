@@ -3,6 +3,8 @@ aliases:
   - Herpes simplex
   - HHV
   - herpes
+tags:
+  - virus
 ---
 
 | HHV name   | Common Name | Disease caused                                                                                                     |

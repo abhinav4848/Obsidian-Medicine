@@ -3,6 +3,8 @@ aliases:
   - SALT
 urls:
   - https://www.iddsi.org/resources/framework-documents
+tags:
+  - gastro
 ---
 IDDSI framework puts thickness of food and fluid over 8 levels. (0-7)
 - Drinks are measured from 0 - 4

@@ -36,3 +36,6 @@ aka undiagnosed dyspepsia
 2. Lifestyle advice
 3. Full dose PPI for a month or 'Test and Treat' #named approach for [[h. pylori]].
 	1. If symptoms persist with one approach, try the other. 
+
+---
+Note: Antacids neutralise acid
