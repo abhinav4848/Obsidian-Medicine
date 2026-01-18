@@ -28,5 +28,5 @@ aliases:
 - Ankle Swelling
 	- Amlodipine
 	- Diltiazem
-- [Gingival hyperplasia](onenote:#Pharma&section-id={210C3954-BE8B-A24C-8E7F-F1B991349700}&page-id={7138171D-7A77-48F3-98E0-98EEDA80D74B}&object-id={E2E24E39-8CB0-46D1-A49F-F95391062F21}&D&base-path=https://d.docs.live.net/450c0e1b0b9c7922/Documents/Onenote/MBBS/PLAB%201%20+%20MSRA.one)
+- [[Gingival hyperplasia]]
 - All HTN meds require regular monitoring of U&e except CCB.

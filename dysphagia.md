@@ -25,5 +25,6 @@ Mechanical Disorder- Affects solids before liquids.
 | **Neurological**     | - CVA<br>- Parkinson's disease<br>- Multiple Sclerosis<br>- Brainstem pathology<br>- Myasthenia Gravis |
 # Investigation
 Dysphagia + Initial investigation - Endoscopy
--> Refer via suspected cancer pathway
+-> Refer via suspected cancer pathway. See [[dyspepsia]]. 
+
 Dysphagia + Diffuse Oesophageal spasm/achalasia stem + Most appropriate investigation - Barium swallow or manometry

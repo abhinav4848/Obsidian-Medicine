@@ -5,6 +5,9 @@ urls:
   - https://www.nice.org.uk/guidance/ng12/chapter/Recommendations-organised-by-site-of-cancer#upper-gastrointestinal-tract-cancers
   - https://www.nice.org.uk/guidance/cg184/chapter/1-Recommendations
 ---
+*See: [[dysphagia]], [[upper gi bleed|Upper GI bleed]], [[h. pylori]]*
+
+---
 Indigestion- general discomfort in upper abdomen, bloating, early satiety, N&V, belching, burning
 # Who to refer 
 ### Urgently
@@ -16,8 +19,9 @@ Refer these via suspected cancer pathway
 	- reflux
 	- dyspepsia
 ### Non Urgently
-[NICE](https://www.nice.org.uk/guidance/ng12/chapter/Recommendations-organised-by-site-of-cancer#upper-gastrointestinal-tract-cancers): Consider [non-urgent](https://www.nice.org.uk/guidance/ng12/chapter/terms-used-in-this-guideline#nonurgent), [direct access](https://www.nice.org.uk/guidance/ng12/chapter/terms-used-in-this-guideline#direct-access) upper gastrointestinal endoscopy to assess for oesophageal/stomach cancer in people with:
-1. Haematemesis.
+[NICE](https://www.nice.org.uk/guidance/ng12/chapter/Recommendations-organised-by-site-of-cancer#upper-gastrointestinal-tract-cancers): Consider [non-urgent](https://www.nice.org.uk/guidance/ng12/chapter/terms-used-in-this-guideline#nonurgent), [direct access](https://www.nice.org.uk/guidance/ng12/chapter/terms-used-in-this-guideline#direct-access) (results come back to GP) upper gastrointestinal endoscopy to assess for [[cancer- oesophagus|Oesophageal]]/ [[cancer- gastric|stomach cancer]] in people with:
+
+1. [[upper gi bleed|Haematemesis]].
 2. Patients aged >= 55 years who've got:  
 	- **treatment-resistant dyspepsia**, or
 	- upper abdominal pain with low haemoglobin levels or
