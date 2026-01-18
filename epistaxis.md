@@ -6,7 +6,7 @@ tags:
 # In children
 ### <2yo
 Although minor epistaxis is common in children, it's uncommon in age <2yo. 
-- epistaxis in this age group is more likely to be due to an underlying cause such as [[thrombocytopenia]], and thus a haematological malignancy. 
+- epistaxis in this age group is more likely to be due to an underlying cause such as [[platelets|low platelets]], and thus a haematological malignancy. 
 ### General
 Common causes of epistaxis in children include: 
 - nose picking (most common cause)

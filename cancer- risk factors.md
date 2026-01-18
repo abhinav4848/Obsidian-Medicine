@@ -4,7 +4,6 @@ tags:
 aliases:
   - family history
 ---
-
 # [[cancer- ovarian|Ovarian cancer]], [[cancer- breast (treatment)|Breast Cancer]] 
 - Family history
 - [[COCP]] effect: [[cancer- drugs involved in gynae cancers#COCP & Cancer risk|COCP & cancer Risk]] 

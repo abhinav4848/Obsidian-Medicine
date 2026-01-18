@@ -3,6 +3,7 @@ tags:
   - cancer
 ---
 *See [[cancer- risk factors]].* 
+See: [NICE Recommendations for cancers & management](https://www.nice.org.uk/guidance/ng12/chapter/Recommendations-organised-by-site-of-cancer) 
 
 | Disease/gene/drug                                                    | Associated with                                                                                                                                                                                                                                  |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

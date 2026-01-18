@@ -41,7 +41,7 @@ Band ligation > injection N-butyl-2-cyanoacrylate for patient with gastric varic
 
 ## Others
 If liver disease patient with Hematemesis + High INR -> Give FFP.
-If [[thrombocytopenia|low platelet]] (<50,000) -> Platelet transfusion.
+If [[platelets|low platelet]] (<50,000) -> Platelet transfusion.
 INR prolonged -> Vit K.
 
 # Prophylaxis

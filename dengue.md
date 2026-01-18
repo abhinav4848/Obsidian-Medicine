@@ -22,5 +22,5 @@ Tender cervical LNE.
 # Investigation
 Tourniquet test +ve #investigation 
 Increasing haematocrit, 
-[[thrombocytopenia|decreasing platelet]], 
+[[platelets|decreasing platelet]], 
 mucosal bleed

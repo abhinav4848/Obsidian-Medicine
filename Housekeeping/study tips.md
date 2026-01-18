@@ -40,14 +40,12 @@ Flowcharts: https://calgaryguide.ucalgary.ca/
 # Cancer symptom & cause
 Cancer Map by Gateway C: https://www.gatewayc.org.uk/the-cancer-maps/
 
+NICE: Management of cancers: https://www.nice.org.uk/guidance/ng12/chapter/Recommendations-organised-by-site-of-cancer
+
 ---
 # RCGP super-condensed curriculum for GPs
 [2021 Index](https://www.rcgp.org.uk/mrcgp-exams/gp-curriculum/super-condensed-guides)
-[2025 Index](https://www.rcgp.org.uk/mrcgp-exams/gp-curriculum/gp-curriculum-update-notice)
-- [Resp Super condensed guide](https://www.rcgp.org.uk/getmedia/27bf973a-fb82-4a2a-8aa6-3a9562e41da7/Respiratory-Health-SCCG-2025.pdf )
-
-
-
+[2025 Index](https://www.rcgp.org.uk/mrcgp-exams/gp-curriculum/gp-curriculum-update-notice). See #curriculum 
 
 ---
 # Yesterday's notes changes

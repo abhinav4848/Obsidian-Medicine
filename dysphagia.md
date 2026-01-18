@@ -6,7 +6,6 @@ aliases: []
 *see also: [[dyspepsia]].* 
 
 # Classification of causes- Based on type of dysphagia
-
 Motility Disorder- Affects both Solids and Liquids.
 Mechanical Disorder- Affects solids before liquids. 
 
@@ -26,4 +25,5 @@ Mechanical Disorder- Affects solids before liquids.
 | **Neurological**     | - CVA<br>- Parkinson's disease<br>- Multiple Sclerosis<br>- Brainstem pathology<br>- Myasthenia Gravis |
 # Investigation
 Dysphagia + Initial investigation - Endoscopy
+-> Refer via suspected cancer pathway
 Dysphagia + Diffuse Oesophageal spasm/achalasia stem + Most appropriate investigation - Barium swallow or manometry
