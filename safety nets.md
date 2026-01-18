@@ -2,6 +2,8 @@
 tags:
   - gp_training
 ---
+See: https://abhinavkr.com/projects/gpleaflets/ 
+
 # Chest Pain
 Please seek urgent medical attention (e.g., A&E or call 999) if you experience any of the following:
 - Sudden, severe chest pain that does not ease – especially a crushing/pressure‑type sensation.

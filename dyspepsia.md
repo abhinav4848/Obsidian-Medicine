@@ -1,6 +1,9 @@
 ---
 tags:
   - gastro
+urls:
+  - https://www.nice.org.uk/guidance/ng12/chapter/Recommendations-organised-by-site-of-cancer#upper-gastrointestinal-tract-cancers
+  - https://www.nice.org.uk/guidance/cg184/chapter/1-Recommendations
 ---
 Indigestion- general discomfort in upper abdomen, bloating, early satiety, N&V, belching, burning
 # Who to refer 
