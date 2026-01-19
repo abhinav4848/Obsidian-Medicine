@@ -141,6 +141,6 @@ Now NG
 ## 6. CKD + SGLT2i example (pulling it together)
 - NG203 → says SGLT2i are part of CKD management    
 - TA775 / TA942 → legally approve use in **non-diabetic CKD**
-- IND322 → tells services **exactly which patients** should be on them
+- [IND322](https://www.nice.org.uk/indicators/ind322-kidney-conditions-ckd-and-sglt-2-inhibitors) → tells services **exactly which patients** should be on them
 
 That’s why **the detail lives outside the NG**.

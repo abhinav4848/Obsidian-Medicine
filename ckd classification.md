@@ -7,8 +7,7 @@ aliases:
 urls:
   - https://www.nice.org.uk/guidance/ng203/chapter/Recommendations#classification-of-ckd-in-adults
 ---
-### Links
-[[chronic kidney disease|CKD]], [[ckd pharmacology|Pharmacology in CKD]] 
+*See: [[chronic kidney disease|CKD]], and [[ckd pharmacology|Pharmacology in CKD]]* 
 # Classification of CKD
 [NICE CKS](https://www.nice.org.uk/guidance/ng203/chapter/Recommendations#classification-of-ckd-in-adults)
 Use a combination of GFR & ACR categories & make a KDIGO grid: 

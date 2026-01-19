@@ -38,18 +38,33 @@
             }
           },
           {
-            "id": "05d12e8b16160211",
+            "id": "3989e507be750852",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fever.md",
+                "file": "ckd classification.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "fever"
+              "title": "ckd classification"
+            }
+          },
+          {
+            "id": "05d12e8b16160211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bronchiolitis (lrti).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "bronchiolitis (lrti)"
             }
           },
           {
@@ -83,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fever",
+                "query": "bronchiol",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -147,7 +162,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -160,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "nomenclatures in nice.md",
+                "file": "bronchiolitis (lrti).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +204,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of nomenclatures in nice"
+              "title": "Graph of bronchiolitis (lrti)"
             }
           }
         ]
@@ -300,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nomenclatures in nice.md",
+                "file": "bronchiolitis (lrti).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,7 +326,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for nomenclatures in nice"
+              "title": "Backlinks for bronchiolitis (lrti)"
             }
           }
         ]
@@ -330,12 +346,18 @@
       "graph:Open graph view": false
     }
   },
-  "active": "31b273765e96faa2",
+  "active": "05d12e8b16160211",
   "lastOpenFiles": [
-    "housekeeping/gp guidelines- psych.md",
-    "nomenclatures in nice.md",
-    "gord in children.md",
+    "abnormal airway sounds.md",
+    "bronchiolitis (lrti).md",
+    "pneumonia.md",
     "fever.md",
+    "ckd classification.md",
+    "chronic kidney disease.md",
+    "ckd pharmacology.md",
+    "nomenclatures in nice.md",
+    "housekeeping/gp guidelines- psych.md",
+    "gord in children.md",
     "resp & heart rate in children.md",
     "dysphagia.md",
     "attachments/ng254- suspected-sepsis-managing-and-evaluating-risk-all-settings-pdf-15494830813.pdf",
@@ -357,13 +379,7 @@
     "housekeeping/revise recent changes.base",
     "housekeeping/rules.md",
     "housekeeping/memorise.base",
-    "housekeeping/gp guidelines- infectious diseases.md",
-    "cancer & associations.md",
     "attachments/universal-pain-assessment-tool-with-wong-baker-facesc2ae-pain-rating-scale.jpg",
-    "genetic anticipation.md",
-    "spots.md",
-    "legg-calve-perthe's disease.md",
-    "hypertension in pregnancy.md",
     "attachments/anticholinergic burden.png",
     "Untitled",
     "flow charts/hypertension management.canvas",

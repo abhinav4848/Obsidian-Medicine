@@ -6,10 +6,13 @@ tags:
   - nephrology
 ---
 # Pharmacology in CKD
-## Managing Proteinuria
-1. [NICE: Manage CKD at different stages- Visual summary](https://www.nice.org.uk/guidance/ng203),
-2. [NICE: CKD management in diabetes](https://www.nice.org.uk/guidance/ng28/chapter/Recommendations#chronic-kidney-disease)
-3. [NICE: SGLT2](https://cks.nice.org.uk/topics/diabetes-type-2/prescribing-information/sglt-2-inhibitors/) 
+See: [[chronic kidney disease|CKD]].
+## Managing proteinuric CKD 
+>[!links]-
+> 1. [NICE: Manage CKD at different stages- Visual summary](https://www.nice.org.uk/guidance/ng203),
+> 2. [NICE: CKD management in diabetes](https://www.nice.org.uk/guidance/ng28/chapter/Recommendations#chronic-kidney-disease)
+> 3. [NICE: SGLT2](https://cks.nice.org.uk/topics/diabetes-type-2/prescribing-information/sglt-2-inhibitors/) 
+> 4. UKKA recommend use of SGLT2i in non-diabetic CKD ([UKKA](https://guidelines.ukkidney.org/sodium-glucose-co-transporter-2/summary-of-recommendations/) & [PDF](https://www.ukkidney.org/health-professionals/guidelines/ukka-clinical-practice-guideline-sodium-glucose-co-transporter-2))
 ##### Adult with Diabetes: 
 - ACR < 3: monitor ACR, Creatinine & BP annually
 - ACR >= 3

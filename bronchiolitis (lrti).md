@@ -7,7 +7,7 @@ Respiratory Syncytial virus (RSV).
 
 Seen in < 1yo.
 Difficulty feeding and breathing
-	expiratory wheeze ([[Abnormal airway sounds]])
+	Expiratory wheeze ([[Abnormal airway sounds]])
 	crackles on auscultation
 	If Grunting heard -> admit
 Persistent cough, tachypnoea, chest recession
