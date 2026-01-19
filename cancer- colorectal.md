@@ -4,6 +4,8 @@ aliases:
 tags:
   - cancer
   - gastro
+urls:
+  - https://cks.nice.org.uk/topics/gastrointestinal-tract-lower-cancers-recognition-referral/
 ---
 *See [[cancer- screening programs]].* 
 

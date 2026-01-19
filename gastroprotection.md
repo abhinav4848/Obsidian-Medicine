@@ -2,11 +2,15 @@
 tags:
   - gastro
   - pharmacology
+urls:
+  - https://www.nice.org.uk/guidance/qs112/chapter/Quality-statement-4-Alginate-therapy
+  - https://www.nice.org.uk/guidance/ng1/chapter/Recommendations
 ---
+See: [[gord in children]], [[gord]]. 
 ## 1. Antacids – _chemical neutralisers_
 **What they do**
 - Directly **neutralise gastric acid** already present in the stomach.
-- Raise intragastric pH temporarily.
+- Raise intragastric pH temporarily. 
 
 **Examples**
 - Calcium carbonate

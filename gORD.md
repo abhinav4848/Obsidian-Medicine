@@ -17,4 +17,6 @@ Proton pump inhibitors should be stopped 2 weeks before an upper GI endoscopy.
 
 No need to stop Aspirin
 
+---
+See: [[gastroprotection]]
 See: [[gord in children]]. 
