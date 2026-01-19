@@ -8,7 +8,8 @@ urls:
   - https://www.nice.org.uk/guidance/qs122/chapter/Quality-statement-2-Bronchiolitis-management
 ---
 Respiratory Syncytial virus (RSV) mostly. 
-It is an LRTI. 
+It is an [[infection in children|LRTI]]. 
+
 
 >[!Video]-
 >![Severe RSV](https://www.youtube.com/watch?v=oOrty5PfhTY)

@@ -27,7 +27,7 @@ Can cause bronchiectasis due to recurrent infections.
 3. Enteric coated pancreatic replacement therapy. 
 4. Piperacillin + tazobactam or [[ciprofloxacin]] should be used as part of empirical treatment for sepsis in cystic fibrosis patients. #abx 
 ## DDx
-[[Bronchiolitis]] is acute condition. CF is chronic
+[[bronchiolitis (lrti)]] is acute condition. CF is chronic
 
 `Brain + Kidney: ADPKD
 `Brain + Liver: Wilson`

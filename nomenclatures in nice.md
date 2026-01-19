@@ -62,7 +62,7 @@ That’s why you keep seeing **NG**, **TA**, **QS**, **Indicators**, etc.
 📌 **If NG says “consider” but TA says “recommended” → TA wins for access**
 
 ---
-### 🟢 3. NICE Quality Standards (**QS**)
+### 🟢 3. NICE Quality Standards (QS)
 **Example:** QS5 – CKD quality standard
 **What they are**
 - Short statements of **what high-quality care looks like**

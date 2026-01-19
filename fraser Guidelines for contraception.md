@@ -4,7 +4,7 @@ tags:
   - gynae
   - legal
 ---
-The Fraser guidelines are used to assess if patient who has not yet reached 16 years of age is competent to consent to treatment, for example with respect to contraception  
+The Fraser guidelines are used to assess if patient who has not yet reached 16 years of age is competent to consent to treatment, for example with respect to contraception. 
   
 # The following points should be fulfilled:
 - the young person understands the professional's advice

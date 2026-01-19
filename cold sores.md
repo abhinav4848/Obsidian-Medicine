@@ -9,12 +9,19 @@ aliases:
 urls:
   - https://dermnetnz.org/topics/herpes-simplex
   - https://www.nhs.uk/conditions/cold-sores/
+  - https://cks.nice.org.uk/topics/herpes-simplex-oral/management/herpes-labialis-gingivostomatitis/
 ---
 Primary attacks of Type 1 [[human herpes viruses|HSV]] infections occur mainly in infants and young children. In crowded, underdeveloped areas of the world, nearly all children have been infected by the age of 5. 
+
+Oral Herpes simplex could be of two types:
+1. Herpes simplex labialis (cold sores)
+2. Herpes Gingivostomatitis
+
 
 Cold sores should start to heal within 10 days, but are contagious and may be irritating or painful while they heal. 
 
 No restriction for [[school in children with rash|school]]. 
+
 *Compare with [[Impetigo]]: Red sores or blisters on the face that become crusty, golden-brown patches*
 
 ![NHS Cold sore 1|300](https://assets.nhs.uk/nhsuk-cms/images/M1700345-Herpes_Cold_Sore-SPL.original_d25jfC.width-1534.jpg)

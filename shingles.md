@@ -12,9 +12,10 @@ tags:
   - infection
 urls:
   - https://www.nhs.uk/conditions/shingles/
+  - https://dermnetnz.org/topics/ramsay-hunt-syndrome
 ---
 acute, unilateral, painful, blistering rash caused by the reactivation of the varicella-zoster virus, after primary infection with VZV ([[chicken pox]]). 
-Virus lies dormant in dorsal root/cranial nerve ganglia. 
+Virus lies dormant in dorsal root/cranial nerve (facial) ganglia. 
 
 # Risk factor
 - increasing age
