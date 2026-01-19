@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "infection in children.md",
+                "file": "2025-12-31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "infection in children"
+              "title": "2025-12-31"
             }
           },
           {
@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kawasaki disease.md",
+                "file": "scarlet fever.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "kawasaki disease"
+              "title": "scarlet fever"
             }
           },
           {
@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kawas",
+                "query": "vasculitis",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -162,8 +162,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -176,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "kawasaki disease.md",
+                "file": "2025-12-31.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of kawasaki disease"
+              "title": "Graph of 2025-12-31"
             }
           }
         ]
@@ -316,7 +315,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kawasaki disease.md",
+                "file": "2025-12-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +325,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for kawasaki disease"
+              "title": "Backlinks for 2025-12-31"
             }
           }
         ]
@@ -346,45 +345,45 @@
       "graph:Open graph view": false
     }
   },
-  "active": "67ff8593c52c0cd3",
+  "active": "a708e8d53962263f",
   "lastOpenFiles": [
-    "fever & sepsis.md",
-    "kawasaki disease.md",
-    "scarlet Fever.md",
-    "infection in children.md",
     "ckd classification.md",
+    "2025-12-31.md",
+    "prostate.md",
+    "flow charts/hypertension management.canvas",
+    "housekeeping/memorise.base",
+    "housekeeping/gp guidelines- resp.md",
+    "loss of vision.md",
+    "behcet's disease.md",
+    "antibodies.md",
+    "eosinophilic granulomatosis with polyangiitis.md",
+    "kawasaki disease.md",
+    "granulomatosis with polyangiitis.md",
+    "fever & sepsis.md",
+    "erythema infectiosum.md",
+    "day named diseases.md",
+    "sickle cell.md",
+    "rubella.md",
+    "scarlet fever.md",
+    "measles.md",
+    "infection in children.md",
     "nomenclatures in nice.md",
     "cold sores.md",
-    "measles.md",
     "bronchiolitis (lrti).md",
     "human herpes viruses.md",
     "shingles.md",
     "ciprofloxacin.md",
     "school in children with rash.md",
     "housekeeping/study tips.md",
-    "liver toxicity.md",
-    "croup.md",
-    "cystic fibrosis.md",
     "housekeeping/revise recent changes.base",
-    "housekeeping/memorise.base",
     "flow charts/prostaglandins and leukotrienes.canvas",
-    "fraser guidelines for contraception.md",
-    "dysphagia.md",
-    "statistics- risk reduction, nnt, odds ratio.md",
-    "statistics- risk reduction.md",
-    "housekeeping/gp guideliens- infectious diseases.md",
     "Clippings",
-    "thrombocytopenia.md",
-    "hirschprung disease.md",
-    "heart rate in children.md",
-    "resp rate in children.md",
     "attachments/ng254- suspected-sepsis-managing-and-evaluating-risk-all-settings-pdf-15494830813.pdf",
     "attachments/ng254- evaluating-risk-of-severe-illness-or-death-in-all-settings-children-under-5-pdf-15494513294.pdf",
     "flow charts/h. pylori treatment flowchart.canvas",
     "attachments/universal-pain-assessment-tool-with-wong-baker-facesc2ae-pain-rating-scale.jpg",
     "attachments/anticholinergic burden.png",
     "Untitled",
-    "flow charts/hypertension management.canvas",
     "desktop.ini",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "attachments/bronchovesicular-2.mp3",

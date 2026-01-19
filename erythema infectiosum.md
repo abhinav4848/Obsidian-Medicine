@@ -5,13 +5,16 @@ aliases:
 tags:
   - dermat
 ---
+*See [[day named diseases]]* 
 # Erythema Infectiosum
-Fever, runny nose and headache, followed slapped cheek appearance rash, spreads to body. Itchy if soles of feet involved.  Spares nasolabial folds & eyes. 
+- Fever, runny nose and headache, followed by slapped cheek appearance rash, spreads to body. 
+- Itchy if soles of feet involved.  
+- Spares nasolabial folds & eyes. 
 ## Treatment
 Rest and analgesia
 Once rash appears, child becomes non infectious so can return to [[School in children with rash|school]].
 
->[!info]
+>[!warning]
 >Aplastic crisis if h/o Sickle cell
 
 ## Complications

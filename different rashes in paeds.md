@@ -19,7 +19,7 @@ Similar spots occur on soft palate & uvula called Nagayama spots.
 ## [[Rubella]]
 Maculopapular rash initially on face, starts behind ear, before spreading to whole body. Forchheimer spots on soft palate + LNE (in measles no LNE)
 3Cs: Coryza, conjunctivitis, cough
-## [[Scarlet Fever]]
+## [[scarlet fever]]
 Rash- pink, sandpaper like, fine punctate erythema (pinhead). Doesn’t involve palm and soles, Strawberry tongue (white coated tongue with red papillae), Cervical LN, Tonsils covered in pale exudates)
 
 

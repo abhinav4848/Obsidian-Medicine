@@ -6,5 +6,7 @@ aliases:
   - Churg Staruss
   - EGPA
 ---
-Asthma, Eosinophilia  
+Vasculitis
+
+Asthma, Eosinophilia
 p-[[antibodies|ANCA]]

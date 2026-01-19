@@ -3,6 +3,7 @@ tags:
   - infection
 aliases:
   - sepsis
+  - fever
 ---
 Fever in children under 5: [NG143](https://www.nice.org.uk/guidance/ng143/chapter/Recommendations#clinical-assessment-of-children-with-fever)
 # Sepsis

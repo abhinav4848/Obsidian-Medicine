@@ -6,6 +6,7 @@ Acute vasculitis that affects children under 5 years old.
 
 Fever lasting > 5 days.
 
+# Clinica Features
 Crash and burn on a Kawasaki ( #mnemonic)
 - Conjunctival injection
 - Rash (polymorphous -> Desquamating)
@@ -15,7 +16,7 @@ Crash and burn on a Kawasaki ( #mnemonic)
 - [[fever & sepsis|fever]]. (high grade. No response to antipyretics)
 
 May develop Coronary artery aneurysm, rupture, death. Do ECHO for screening
-
 # Treatment
 Aspirin high dose, 
+- aspirin to children <16yo can cause risk of Reye syndrome. 
 IVIG (if low dose Aspirin given in option, it's wrong. Pick IVIG  instead)

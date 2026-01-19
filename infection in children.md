@@ -20,5 +20,5 @@ tags:
 Not infectious once rash appears. 
 ### [[Pertussis]] 
 48 hrs. after Ab started (or 21 days from onset of symptoms if no Abx given)
-### [[Scarlet Fever]]
+### [[scarlet fever]]
 24 hrs. after Ab started

@@ -5,8 +5,8 @@ tags:
 
 | Day    | Disease                                          | Agent                               |
 | ------ | ------------------------------------------------ | ----------------------------------- |
-| First  | [[Measles]], Rubeola                             |                                     |
-| Second | [[scarlet Fever]]                                | Streptococcus pyogenes              |
+| First  | [[Measles]] (aka Rubeola)                        |                                     |
+| Second | [[scarlet fever]]                                | Streptococcus pyogenes              |
 | Third  | [[Rubella]] (German measles)                     |                                     |
 | Fourth | -                                                |                                     |
 | Fifth  | [[erythema infectiosum]]                         | Parvovirus B19                      |
