@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "housekeeping/gp guidelines- psych.md",
+                "file": "nomenclatures in nice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "gp guidelines- psych"
+              "title": "nomenclatures in nice"
             }
           },
           {
@@ -131,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bronchiol",
+                "query": "nice",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -348,15 +348,15 @@
   },
   "active": "05d12e8b16160211",
   "lastOpenFiles": [
-    "abnormal airway sounds.md",
+    "fever & sepsis.md",
     "bronchiolitis (lrti).md",
+    "nomenclatures in nice.md",
+    "housekeeping/gp guidelines- psych.md",
+    "abnormal airway sounds.md",
     "pneumonia.md",
-    "fever.md",
     "ckd classification.md",
     "chronic kidney disease.md",
     "ckd pharmacology.md",
-    "nomenclatures in nice.md",
-    "housekeeping/gp guidelines- psych.md",
     "gord in children.md",
     "resp & heart rate in children.md",
     "dysphagia.md",

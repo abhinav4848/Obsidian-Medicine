@@ -1,6 +1,8 @@
 ---
 tags:
   - gp_training
+urls:
+  - https://www.youtube.com/watch?v=Nus61dUCJ7E
 ---
 ## 1. Big picture: what NICE actually produces
 NICE doesn’t make “one type” of guidance. It produces **different products for different jobs**:
@@ -120,14 +122,27 @@ Now NG
 ---
 ## 4. One-table summary (bookmark this mentally)
 
-|Type|Code|Purpose|Binding?|Example|
-|---|---|---|---|---|
-|Guideline|NG|Clinical practice|Advisory (strong)|NG203 CKD|
-|Technology Appraisal|TA|Drug funding|**Legally binding**|TA775 dapagliflozin|
-|Quality Standard|QS|Defines good care|Advisory|QS5 CKD|
-|Indicator|IND|Measures care delivery|Monitoring|IND322 SGLT2i in CKD|
-|Public Health|PH|Prevention|Advisory|PH smoking|
-|Interventional|IPG|Procedures safety|Advisory|IPG surgery|
+| Type                         | Code | Purpose                                                                                          | Binding?                                                  | Example              |
+| ---------------------------- | ---- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------- | -------------------- |
+| Guideline                    | NG   | Clinical practice                                                                                | Advisory (strong)                                         | NG203 CKD            |
+| Technology Appraisal         | TA   | Drug funding                                                                                     | **Legally binding**                                       | TA775 dapagliflozin  |
+| Quality Standard             | QS   | Defines good care                                                                                | Advisory                                                  | QS5 CKD              |
+| Indicator                    | IND  | Measures care delivery                                                                           | Monitoring                                                | IND322 SGLT2i in CKD |
+| Public Health                | PH   | Prevention                                                                                       | Advisory                                                  | PH smoking           |
+| Interventional               | IPG  | Procedures safety                                                                                | Advisory                                                  | IPG surgery          |
+| Clinical Knowledge Summaries | CKS  | Practical, point-of-care clinical advice for frontline clinicians (especially GP / primary care) | “What do I do right now with the patient in front of me?” |                      |
+
+---
+# How CKS differs from NICE
+| Feature                  | NICE Guidance (NG, TA, etc) | NICE CKS                    |
+| ------------------------ | --------------------------- | --------------------------- |
+| Level                    | High-level recommendations  | Practical step-by-step care |
+| Focus                    | What _should_ be done       | How to _actually do it_     |
+| Includes dosing?         | Often no                    | **Yes**                     |
+| Includes safety-netting? | Sometimes                   | **Always**                  |
+| Primary care-specific    | Mixed                       | **Yes**                     |
+| Medicolegal weight       | High                        | Supportive, not binding     |
+CKS interprets and operationalises NICE guidance (plus other evidence like SIGN, RCGP, BNF).
 
 ---
 ## 5. How _you_ should use these in practice (GP lens)
@@ -140,7 +155,12 @@ Now NG
 ---
 ## 6. CKD + SGLT2i example (pulling it together)
 - NG203 → says SGLT2i are part of CKD management    
-- TA775 / TA942 → legally approve use in **non-diabetic CKD**
+- TA775 / TA942 → legally approve use in **non-diabetic CKD** & say the NHS must fund them
 - [IND322](https://www.nice.org.uk/indicators/ind322-kidney-conditions-ckd-and-sglt-2-inhibitors) → tells services **exactly which patients** should be on them
+- **CKS CKD** → tells you:
+    - when to consider them
+    - how to start
+    - what to monitor
+    - what to warn patients about
 
-That’s why **the detail lives outside the NG**.
+CKS is where the **“how”** lives. That’s why **the detail lives outside the NG**.

@@ -9,7 +9,8 @@ aliases:
 # Wheezing
 Whistling Sound -> Narrow Airways -> Heard in Expiration
 # Grunting
-Exhaling With Glottis Partially Closed -> Done because the body wants to Increase Positive End-expiratory pressure in order to maintain airways that want to collapse. Admit to hospital. E.g: [[bronchiolitis (lrti)]] (LRTI)
+Exhaling With Glottis Partially Closed -> Done because the body wants to Increase Positive End-expiratory pressure in order to maintain airways that want to collapse. 
+Admit to hospital. E.g: [[bronchiolitis (lrti)]] (LRTI)
 # Stridor
 High Pitched Inspiratory noise (like whistling). 
 Obstruction of Upper Airway -> E.g. [[Croup]], [[acute epiglottitis]], [[pertussis]]. 

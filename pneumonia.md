@@ -5,25 +5,25 @@ aliases:
   - LRTI
 ---
 # Clinical features 
-Cough, Sputum production, fever, old age
-Atypical pneumonia has dry cough.
-Typical Pneumonia has productive cough, more rapid onset, high fever, and is usually caused by Strep -> MCC of CAP. 
+- Cough, Sputum production, fever, old age
+- Atypical pneumonia has dry cough.
+- Typical Pneumonia has productive cough, more rapid onset, high fever, and is usually caused by Strep -> MCC of CAP. 
 # Types
-## [[Haemophilus influenzae]]
+## 1. [[Haemophilus influenzae]]
 Especially common in patients with [[COPD]] -> Presents as acute exacerbation of COPD. 
 Reduced occurrence in children due to Hib vaccine but can cause [[acute epiglottitis]] in them. 
 
 ---
-## Hospital acquired pneumonia
+## 2. Hospital acquired pneumonia
 [[Co-trimoxazole]] #abx 
 
 ---
-## Klebsiella pneumoniae
+## 3. Klebsiella pneumoniae
 Generally seen in malnourished alcoholics, diabetics, elderly.
 CXR: Cavitating pneumonia of upper lobes. 
 
 ---
-## Legionella pneumophilia
+## 4. Legionella pneumophilia
 Seen in hotel, tours. Foreign holidays. Exposure to common source of water or air conditioning. 
 Another one of the atypical pneumonias.
 ### Clinical Features
@@ -39,7 +39,7 @@ Urinary antigen
 Macrolides (Clarithromycin > Azithromycin) or tetracycline #abx 
 
 ---
-## Mycoplasma pneumoniae	
+## 5. Mycoplasma pneumoniae
 Common in young adult, 
 Prolonged and gradual onset
 Worsening flu like symptoms precede a dry cough
@@ -62,7 +62,7 @@ Worsening flu like symptoms precede a dry cough
 Doxycycline or a macrolide (e.g. erythro/clarithromycin preferred in atypicals in general) #abx
 
 ---
-## Pneumocystis jirovecii (carinii) (PCP)	
+## 6. Pneumocystis jirovecii (carinii) (PCP)
 Yeast like fungus.  
 Generally seen in patients with **[[HIV]] (CD4 < 200)**.
 Presents with a dry cough, exercise-induced desaturations and the absence of chest signs
@@ -73,11 +73,11 @@ If CD < 200: Co-trimoxazole as prophylaxis. #abx
 If CD < 50: Azithromycin (prophylaxis against M. avium)
 
 ---
-## [[Pseudomonas]]	
+## 7. [[Pseudomonas]]	
 Causes LRTI in Cystic fibrosis, 2nd decade onwards. 
 
 ---
-## Staphylococcus aureus
+## 8. Staphylococcus aureus
 Often occurs following influenza infection. (Use [[Amantadine]] to treat influenza virus)
 Also in iv drug abusers, elderly.
 Blood streaked sputum, pleuritic chest pain.
@@ -85,7 +85,7 @@ Blood streaked sputum, pleuritic chest pain.
 CXR: b/l lower lobe cavitation.
 
 ---
-## Streptococcus pneumoniae (pneumococcus)
+## 9. Streptococcus pneumoniae (pneumococcus)
 Herpes `L`abialis-> Streptococca`L`
 Commonest cause of pneumonia: Accounts for 80% of cases. 
 u/l basal crackles, u/l lobar consolidation -> Lobar pneumonia.
