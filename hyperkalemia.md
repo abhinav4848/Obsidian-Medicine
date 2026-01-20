@@ -1,9 +1,11 @@
 ---
 tags:
   - endocrine
+aliases:
+  - Hyperkalaemia
 ---
 # Causes
-Drugs like ACE-, ARB, & Spironolactone can cause. Also, NSAID can cause hyperkalemia.
+Drugs like ACE-, ARB, Spironolactone, NSAID can cause hyperkalemia.
 	[[side effects of cvs drugs|Thiazides]] cause hyponatremia, hypokalemia, hyperuricemia ([[Gout]]), metabolic alkalosis
 
 Can occur due to AKI/ARF (low eGFR) which can itself be due to HF.

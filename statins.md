@@ -18,12 +18,14 @@ OHGp 5th Ed:
 - QRISK 3 score
 	- Determines the CVA risk in next 10 years
 	- If risk >10% & age <=84yo, start statins
+	- Difference between 2 & 3 is the added mental health component in QRISK 3
 
 # Test before & after starting
 - Recheck lipid profile in 3 months. If target not met, promote lifestyle, check concordance, increase dose if tolerated/not on max dose. 
 - Check LFT in 3m & 1y after initiating, increasing dose. Don't check again unless clinically indicated. 
 - Do not routinely check CK levels- only if muscle pain. 
 # Interactions
+#interaction 
 - They increase effect of Warfarin. 
 - Increased risk of myositis when taken with other lipid lowering drugs, 
 	- macrolides (erythromycin), 
@@ -33,6 +35,8 @@ OHGp 5th Ed:
 	- [[HIV]] protease inhibitors (nelfinavir), 
 	- danazol, 
 	- ciclosporin. 
-- Diet restrictions- avoid grapefruit if taking atorva, simva, lovastatin. Avoid cranberry juice if Fluvastatin. 
+- atorvastatin, simvastatin, Lovastatin: Avoid grapefruit if taking 
+- Avoid [[p450|cranberry juice]] if Fluvastatin. 
+- Simvastatin ([BNF](https://bnf.nice.org.uk/drugs/simvastatin/)): Many interactions. If patient on Amlodipine, amiodarone, Ranolazine, Bempedoic acid (as part of Nustendi for cholesterol), Verapamil, diltiazem, some antivirals- limit Simvastatin to max 20mg. 
 
 Ask patient to stop taking statins if giving [[colchicine]] ([[gout]]) cuz risk of rhabdomyolysis. #important 
