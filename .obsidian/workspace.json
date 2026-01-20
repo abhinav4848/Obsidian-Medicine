@@ -58,15 +58,17 @@
             "id": "67ff8593c52c0cd3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "nsaid.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "flow charts/paeds examination.canvas",
+                "viewState": {
+                  "x": -390,
+                  "y": 100,
+                  "zoom": -0.7360550892190463
+                }
               },
-              "icon": "lucide-file",
-              "title": "nsaid"
+              "icon": "lucide-layout-dashboard",
+              "title": "paeds examination"
             }
           },
           {
@@ -178,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "nsaid.md",
+                "file": "flow charts/paeds examination.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,7 +208,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of nsaid"
+              "title": "Graph of paeds examination"
             }
           }
         ]
@@ -318,7 +320,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nsaid.md",
+                "file": "flow charts/paeds examination.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +330,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for nsaid"
+              "title": "Backlinks for paeds examination"
             }
           }
         ]
@@ -350,13 +352,15 @@
   },
   "active": "67ff8593c52c0cd3",
   "lastOpenFiles": [
-    "flow charts/prostaglandins and leukotrienes.canvas",
-    "nsaid.md",
-    "p450.md",
-    "hyperkalemia.md",
     "statins.md",
     "flow charts/paeds examination.canvas",
     "scarlet fever.md",
+    "p450.md",
+    "allopurinol.md",
+    "azathioprine.md",
+    "nsaid.md",
+    "flow charts/prostaglandins and leukotrienes.canvas",
+    "hyperkalemia.md",
     "Untitled.md",
     "housekeeping/gp guidelines- paeds.md",
     "cold sores.md",
@@ -377,8 +381,6 @@
     "day named diseases.md",
     "sickle cell.md",
     "rubella.md",
-    "measles.md",
-    "infection in children.md",
     "housekeeping/revise recent changes.base",
     "Clippings",
     "attachments/ng254- suspected-sepsis-managing-and-evaluating-risk-all-settings-pdf-15494830813.pdf",

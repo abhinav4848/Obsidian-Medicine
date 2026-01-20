@@ -1,1 +1,11 @@
-{}
+{
+	"nodes":[
+		{"id":"5e4d9ea91ed7f416","x":-340,"y":-120,"width":320,"height":300,"type":"text","text":"- Eyes- pallor on lower eyelid\n- Ears- Tympanic membrane, hearing aid, pressure in the ears, hearing changes, dizziness/tinnitus\n- Nose- Deviated nasal septum, nasal polyps\n- Mouth & throat- pharyngitis, tonsillitis, exudate on tonsils, dysphagia (but can swallow), hoarse voice"},
+		{"id":"d5ae41d8a47d0d88","x":-760,"y":-620,"width":320,"height":240,"type":"file","file":"housekeeping/gp guidelines- paeds.md"},
+		{"id":"743280e226c7b5fe","x":-690,"y":-275,"width":250,"height":265,"type":"text","text":"Do the three ‘quiet things’ first: \n1. auscultation of heart sounds, \n2. auscultation of breath sounds and \n3. palpation of femoral pulses."},
+		{"id":"1dd205630f58466d","type":"text","text":"Appearance & Behaviour: \n- Activity/alertness\n- Cyanosis\n- short of breath\n- pallor\n- weight","x":-380,"y":-485,"width":280,"height":210},
+		{"id":"125eb5c518a9e427","x":-305,"y":760,"width":250,"height":60,"type":"text","text":"BO, PU okay\nno diarrhoea"},
+		{"id":"f2814466f1fbc682","type":"text","text":"Resp examination: \n- throat inflammed\n- sounds: \n\t- wheeze\n\t- barking cough\n\t- dry/productive cough\n\t- hoarse voice\n\t- hot potato voice\n\t- stridor\n- work of breathing\n\t- Accessory muscle: nasal flaring, abdominal breathing, head bobbing due to SCM use\n\t- grunting\n\t- tracheal tug, supraclavicular recession, intercostal/subcostal recession","x":-707,"y":140,"width":285,"height":560}
+	],
+	"edges":[]
+}

@@ -18,7 +18,7 @@ Safe in pregnancy (see [[drugs contraindicated in pregnancy]]).
 2. Bone marrow suppression.
 # Drug interaction
 [[Gout|Allopurinol]] can cause its toxicity by blocking Xanthine oxidase from metabolizing it.
-
+Leads to bone marrow suppression & neutropenic sepsis. 
 # Labs
 Assess thiopurine methyltransferase (TPMT) activity before offering azathioprine or mercaptopurine
 
