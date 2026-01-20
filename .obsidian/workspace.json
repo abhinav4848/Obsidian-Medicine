@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-31.md",
+                "file": "housekeeping/gp guidelines- paeds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-31"
+              "title": "gp guidelines- paeds"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2025-12-31.md",
+                "file": "housekeeping/gp guidelines- paeds.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,12 +198,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7514342019604865,
+                  "scale": 1.476986011380277,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-12-31"
+              "title": "Graph of gp guidelines- paeds"
             }
           }
         ]
@@ -315,7 +315,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-12-31.md",
+                "file": "housekeeping/gp guidelines- paeds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-12-31"
+              "title": "Backlinks for gp guidelines- paeds"
             }
           }
         ]
@@ -347,8 +347,10 @@
   },
   "active": "a708e8d53962263f",
   "lastOpenFiles": [
-    "ckd classification.md",
+    "cold sores.md",
+    "housekeeping/gp guidelines- paeds.md",
     "2025-12-31.md",
+    "ckd classification.md",
     "prostate.md",
     "flow charts/hypertension management.canvas",
     "housekeeping/memorise.base",
@@ -368,13 +370,11 @@
     "measles.md",
     "infection in children.md",
     "nomenclatures in nice.md",
-    "cold sores.md",
     "bronchiolitis (lrti).md",
     "human herpes viruses.md",
     "shingles.md",
     "ciprofloxacin.md",
     "school in children with rash.md",
-    "housekeeping/study tips.md",
     "housekeeping/revise recent changes.base",
     "flow charts/prostaglandins and leukotrienes.canvas",
     "Clippings",
