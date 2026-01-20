@@ -33,7 +33,7 @@ Seen in < 1yo.
 > - severe respiratory distress, for example 
 > 	- Grunting, 
 > 	- marked chest recession, or 
-> 	- RR > 70 breaths/minute ([[resp & heart rate in children|tachypnoea]])
+> 	- RR > 70 breaths/minute ([[vitals in children|tachypnoea]])
 > - central cyanosis
 > - persistent oxygen saturation of less than 92% when breathing air.
 

@@ -58,17 +58,15 @@
             "id": "67ff8593c52c0cd3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "flow charts/paeds examination.canvas",
-                "viewState": {
-                  "x": -390,
-                  "y": 100,
-                  "zoom": -0.7360550892190463
-                }
+                "file": "newborn Infant physical examination.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "paeds examination"
+              "icon": "lucide-file",
+              "title": "newborn Infant physical examination"
             }
           },
           {
@@ -135,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Triple whammy",
+                "query": "heart rate",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -180,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "flow charts/paeds examination.canvas",
+                "file": "newborn Infant physical examination.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +206,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of paeds examination"
+              "title": "Graph of newborn Infant physical examination"
             }
           }
         ]
@@ -224,7 +222,7 @@
       {
         "id": "c32654b7ac1c916a",
         "type": "tabs",
-        "dimension": 63.91959798994975,
+        "dimension": 38.095238095238095,
         "children": [
           {
             "id": "76e084a2bc339e0c",
@@ -312,7 +310,7 @@
       {
         "id": "c9a800b7c85d029b",
         "type": "tabs",
-        "dimension": 36.08040201005025,
+        "dimension": 61.904761904761905,
         "children": [
           {
             "id": "639b2a927a3a9294",
@@ -320,7 +318,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flow charts/paeds examination.canvas",
+                "file": "newborn Infant physical examination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -330,7 +328,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for paeds examination"
+              "title": "Backlinks for newborn Infant physical examination"
             }
           }
         ]
@@ -352,8 +350,12 @@
   },
   "active": "67ff8593c52c0cd3",
   "lastOpenFiles": [
-    "statins.md",
+    "examination of children.md",
     "flow charts/paeds examination.canvas",
+    "guthrie test.md",
+    "vitals in children.md",
+    "meningitis.md",
+    "statins.md",
     "scarlet fever.md",
     "p450.md",
     "allopurinol.md",
@@ -377,10 +379,6 @@
     "kawasaki disease.md",
     "granulomatosis with polyangiitis.md",
     "fever & sepsis.md",
-    "erythema infectiosum.md",
-    "day named diseases.md",
-    "sickle cell.md",
-    "rubella.md",
     "housekeeping/revise recent changes.base",
     "Clippings",
     "attachments/ng254- suspected-sepsis-managing-and-evaluating-risk-all-settings-pdf-15494830813.pdf",

@@ -18,6 +18,6 @@ Sepsis in under 16s: [NG254](https://www.nice.org.uk/guidance/ng254)
 	- Over 16 (no pregnancy)
 
 # Summary PDF
-*See [[resp & heart rate in children]].* 
+*See [[vitals in children]].* 
 
 Single combined PDF for quick reference. (*Always use latest pdf on the link in clinic*) ![[ng254- suspected-sepsis-managing-and-evaluating-risk-all-settings-pdf-15494830813.pdf]]

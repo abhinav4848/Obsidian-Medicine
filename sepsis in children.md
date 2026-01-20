@@ -8,9 +8,9 @@ tags:
 2. under 3 months: temp > 38C
 3. under 5 years: temp <36C
 4. no evidence of urine for 12 hrs. (no wet nappies.)
-5. [[Abnormal airway sounds|Grunting]], [[resp & heart rate in children|high RR]] > 60/min, mod to severe chest indrawing. (all young kids have subcostal indrawing)
+5. [[Abnormal airway sounds|Grunting]], [[vitals in children|high RR]] > 60/min, mod to severe chest indrawing. (all young kids have subcostal indrawing)
 6. high HR
-7. if under 12, [[resp & heart rate in children|HR<60]]. 
+7. if under 12, [[vitals in children|HR<60]]. 
 8. non-blanching purpuric rash
 9. skin mottled or cyanotic, reduced skin turgor. 
 10. known severe immune disorder/chemo in last 6 months. 

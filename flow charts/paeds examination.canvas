@@ -1,11 +1,20 @@
 {
 	"nodes":[
-		{"id":"5e4d9ea91ed7f416","x":-340,"y":-120,"width":320,"height":300,"type":"text","text":"- Eyes- pallor on lower eyelid\n- Ears- Tympanic membrane, hearing aid, pressure in the ears, hearing changes, dizziness/tinnitus\n- Nose- Deviated nasal septum, nasal polyps\n- Mouth & throat- pharyngitis, tonsillitis, exudate on tonsils, dysphagia (but can swallow), hoarse voice"},
-		{"id":"d5ae41d8a47d0d88","x":-760,"y":-620,"width":320,"height":240,"type":"file","file":"housekeeping/gp guidelines- paeds.md"},
-		{"id":"743280e226c7b5fe","x":-690,"y":-275,"width":250,"height":265,"type":"text","text":"Do the three ‘quiet things’ first: \n1. auscultation of heart sounds, \n2. auscultation of breath sounds and \n3. palpation of femoral pulses."},
-		{"id":"1dd205630f58466d","type":"text","text":"Appearance & Behaviour: \n- Activity/alertness\n- Cyanosis\n- short of breath\n- pallor\n- weight","x":-380,"y":-485,"width":280,"height":210},
-		{"id":"125eb5c518a9e427","x":-305,"y":760,"width":250,"height":60,"type":"text","text":"BO, PU okay\nno diarrhoea"},
-		{"id":"f2814466f1fbc682","type":"text","text":"Resp examination: \n- throat inflammed\n- sounds: \n\t- wheeze\n\t- barking cough\n\t- dry/productive cough\n\t- hoarse voice\n\t- hot potato voice\n\t- stridor\n- work of breathing\n\t- Accessory muscle: nasal flaring, abdominal breathing, head bobbing due to SCM use\n\t- grunting\n\t- tracheal tug, supraclavicular recession, intercostal/subcostal recession","x":-707,"y":140,"width":285,"height":560}
+		{"id":"d5ae41d8a47d0d88","type":"file","file":"housekeeping/gp guidelines- paeds.md","x":-760,"y":-620,"width":320,"height":240},
+		{"id":"743280e226c7b5fe","type":"text","text":"Do the three ‘quiet things’ first: \n1. auscultation of heart sounds, \n2. auscultation of breath sounds and \n3. palpation of femoral pulses.","x":-690,"y":-275,"width":250,"height":265},
+		{"id":"1dd205630f58466d","type":"text","text":"Appearance & Behaviour: \n- Activity/alertness\n- Cyanosis\n- short of breath\n- pallor\n- rashes (petechiae for clotting disorder, non-blanching rash think [[meningitis]])\n- weight","x":-380,"y":-485,"width":280,"height":285},
+		{"id":"71931e92453bcda7","type":"text","text":"Pulse/bp/rr/temp/sats\nSee: [[vitals in children]]","x":-380,"y":-100,"width":250,"height":60},
+		{"id":"05aeb53a3b022dcd","type":"text","text":"alert, engaging, smiling, walking and playing in the room, normal E+D, wetting nappies normally, pink skin.","x":-10,"y":-230,"width":250,"height":130},
+		{"id":"f2814466f1fbc682","type":"text","text":"Resp examination: \n- throat inflamed, mucosa moist\n- sounds: \n\t- wheeze\n\t- barking cough\n\t- dry/productive cough\n\t- hoarse voice\n\t- hot potato voice\n\t- stridor\n- work of breathing\n\t- Accessory muscle: nasal flaring, abdominal breathing, head bobbing due to SCM use\n\t- grunting\n\t- tracheal tug, supraclavicular recession, intercostal/subcostal recession","x":-707,"y":100,"width":285,"height":560},
+		{"id":"5e4d9ea91ed7f416","type":"text","text":"- Eyes- pallor on lower eyelid\n- Ears- Tympanic membrane, hearing aid, pressure in the ears, hearing changes, dizziness/tinnitus\n- Nose- Deviated nasal septum, nasal polyps\n- Mouth & throat- moist mucosa, pharyngitis, tonsillitis, exudate on tonsils, dysphagia (but can swallow), hoarse voice\n- Hands- CRT, splinter haemorrhages, janeway lesions, osler nodes","x":-350,"y":20,"width":340,"height":360},
+		{"id":"125eb5c518a9e427","type":"text","text":"E+D normal\nBO, PU okay\nno diarrhoea","x":-305,"y":620,"width":250,"height":80}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"d23a58d07eb1caa6","fromNode":"1dd205630f58466d","fromSide":"left","toNode":"743280e226c7b5fe","toSide":"top"},
+		{"id":"9f76de01d048215c","fromNode":"743280e226c7b5fe","fromSide":"right","toNode":"71931e92453bcda7","toSide":"left"},
+		{"id":"b1a13fffac476a72","fromNode":"1dd205630f58466d","fromSide":"bottom","toNode":"05aeb53a3b022dcd","toSide":"left"},
+		{"id":"6cd239c13b48da6c","fromNode":"71931e92453bcda7","fromSide":"bottom","toNode":"5e4d9ea91ed7f416","toSide":"top"},
+		{"id":"4e842bafb52768f3","fromNode":"5e4d9ea91ed7f416","fromSide":"left","toNode":"f2814466f1fbc682","toSide":"right"},
+		{"id":"a483520f36d65b35","fromNode":"f2814466f1fbc682","fromSide":"bottom","toNode":"125eb5c518a9e427","toSide":"left"}
+	]
 }

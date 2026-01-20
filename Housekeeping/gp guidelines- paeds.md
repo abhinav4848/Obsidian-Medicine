@@ -16,7 +16,7 @@ Examine the whole body. Include the oral (note moist mucosa), ear exam (use tong
 - Note the degree of agitation and consciousness. 
 	- Agitation and behavioural changes in a child may be a sign of hypoxia. 
 - Look for signs of exhaustion, cyanosis (bluish lips or extremities), and involvement of accessory muscles of respiration while the child is at rest.
-- Examine the child's chest, and record their respiratory rate, pulse, and blood pressure. [[resp & heart rate in children]]
+- Examine the child's chest, and record their respiratory rate, pulse, and blood pressure. [[vitals in children]]
 - Measure the child's oxygen saturation in room air using pulse oximetry (if available).
 	- Persistent oxygen saturation of less than 92% when breathing air.
 - Hydration status by measuring capillary refill time, examining skin turgor and dryness of mucous membranes, and ascertaining urine output.
