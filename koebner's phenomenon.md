@@ -5,4 +5,4 @@ tags:
 [[lichen planus]], 
 [[Psoriasis]], 
 [[Molluscum contagiosum]], 
-[[Vitiligo]] 
+[[vitiligo]] 

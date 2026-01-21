@@ -20,7 +20,7 @@ Macrocytosis, Proximal myopathy
 
 ## Associated conditions
 - Autoimmune disease
-	- Vitiligo, ADDISON'S disease, Pernicious Anaemia, DM type 1.
+	- [[vitiligo]], ADDISON'S disease, Pernicious Anaemia, [[diabetes mellitus 1|T1DM]], Thyroid disease ([[hypothyroidism|Hashimoto's thyroiditis]])
 - Hyperprolactinemia
 - [[Pseudogout]]. 
 	- Knee > wrist ankle, shoulder

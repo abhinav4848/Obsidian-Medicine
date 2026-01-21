@@ -75,13 +75,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retinopathy.md",
+                "file": "vitiligo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "retinopathy"
+              "title": "vitiligo"
+            }
+          },
+          {
+            "id": "30064edbdbbf7fcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "emollients.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "emollients"
             }
           },
           {
@@ -129,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -162,7 +177,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vitreous haemorrhage",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -193,8 +208,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -207,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "retinopathy.md",
+                "file": "emollients.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -235,7 +249,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of retinopathy"
+              "title": "Graph of emollients"
             }
           }
         ]
@@ -347,7 +361,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retinopathy.md",
+                "file": "emollients.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -357,7 +371,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for retinopathy"
+              "title": "Backlinks for emollients"
             }
           }
         ]
@@ -377,18 +391,21 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5235a8de58214c88",
+  "active": "30064edbdbbf7fcf",
   "lastOpenFiles": [
+    "vitiligo.md",
+    "emollients.md",
+    "hypothyroidism.md",
+    "retinopathy.md",
+    "actinic keratosis.md",
     "loss of vision.md",
     "Vitreous haemorrhage.md",
-    "retinopathy.md",
     "crao.md",
     "ophthalmoscopy.md",
     "cancer- skin.md",
     "platelets.md",
     "cold sores.md",
     "school in children with rash.md",
-    "actinic keratosis.md",
     "chondrodermatitis nodularis helicis.md",
     "confusion in skin lesions.md",
     "newborn Infant physical examination.md",
@@ -404,9 +421,6 @@
     "azathioprine.md",
     "nsaid.md",
     "flow charts/prostaglandins and leukotrienes.canvas",
-    "hyperkalemia.md",
-    "housekeeping/gp guidelines- paeds.md",
-    "2025-12-31.md",
     "flow charts/hypertension management.canvas",
     "housekeeping/memorise.base",
     "housekeeping/revise recent changes.base",
