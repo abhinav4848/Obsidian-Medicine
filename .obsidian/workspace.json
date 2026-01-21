@@ -60,13 +60,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "newborn Infant physical examination.md",
+                "file": "cancer- skin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "newborn Infant physical examination"
+              "title": "cancer- skin"
+            }
+          },
+          {
+            "id": "5235a8de58214c88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retinopathy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "retinopathy"
+            }
+          },
+          {
+            "id": "d0dcebbdcc52b4d3",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://geekymedics.com/fundoscopy-ophthalmoscopy-osce-guide/#Assess_the_fundus",
+                "title": "Fundoscopy (Ophthalmoscopy) - OSCE Guide | Geeky Medics",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Fundoscopy (Ophthalmoscopy) - OSCE Guide | Geeky Medics"
             }
           },
           {
@@ -100,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heart rate",
+                "query": "vitreous haemorrhage",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -178,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "newborn Infant physical examination.md",
+                "file": "retinopathy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,12 +230,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.476986011380277,
+                  "scale": 0.27268598828401586,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of newborn Infant physical examination"
+              "title": "Graph of retinopathy"
             }
           }
         ]
@@ -318,7 +347,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "newborn Infant physical examination.md",
+                "file": "retinopathy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +357,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for newborn Infant physical examination"
+              "title": "Backlinks for retinopathy"
             }
           }
         ]
@@ -348,8 +377,21 @@
       "graph:Open graph view": false
     }
   },
-  "active": "67ff8593c52c0cd3",
+  "active": "5235a8de58214c88",
   "lastOpenFiles": [
+    "loss of vision.md",
+    "Vitreous haemorrhage.md",
+    "retinopathy.md",
+    "crao.md",
+    "ophthalmoscopy.md",
+    "cancer- skin.md",
+    "platelets.md",
+    "cold sores.md",
+    "school in children with rash.md",
+    "actinic keratosis.md",
+    "chondrodermatitis nodularis helicis.md",
+    "confusion in skin lesions.md",
+    "newborn Infant physical examination.md",
     "examination of children.md",
     "flow charts/paeds examination.canvas",
     "guthrie test.md",
@@ -363,22 +405,10 @@
     "nsaid.md",
     "flow charts/prostaglandins and leukotrienes.canvas",
     "hyperkalemia.md",
-    "Untitled.md",
     "housekeeping/gp guidelines- paeds.md",
-    "cold sores.md",
     "2025-12-31.md",
-    "ckd classification.md",
-    "prostate.md",
     "flow charts/hypertension management.canvas",
     "housekeeping/memorise.base",
-    "housekeeping/gp guidelines- resp.md",
-    "loss of vision.md",
-    "behcet's disease.md",
-    "antibodies.md",
-    "eosinophilic granulomatosis with polyangiitis.md",
-    "kawasaki disease.md",
-    "granulomatosis with polyangiitis.md",
-    "fever & sepsis.md",
     "housekeeping/revise recent changes.base",
     "Clippings",
     "attachments/ng254- suspected-sepsis-managing-and-evaluating-risk-all-settings-pdf-15494830813.pdf",

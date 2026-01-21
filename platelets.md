@@ -23,6 +23,8 @@ Thrombocytosis + low ferritin or microcytosis is concerning for GI malignancy.
 - **Antibiotics**: Penicillins, Sulphonamides, rifampicin #abx 
 - **Anticonvulsants**: Carbamazepine, Valproate
 - Heparin
-
 ### Other causes
 [[pre-eclampsia]] 
+
+## Can lead to
+- **Flame shaped haemorrhage**: Larger haemorrhages with a flame-like appearance caused by rupture of pre-capillary arterioles or small veins in the retinal nerve fibre layer. See [[ophthalmoscopy]]. 

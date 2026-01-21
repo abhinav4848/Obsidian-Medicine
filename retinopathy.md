@@ -34,7 +34,11 @@ Floaters in vision
 progress rapidly to blindness.
 
 Rx: 
-- Laser photocoagulation
+- Pan-retinal Laser photocoagulation. S/e: 
+	- Can ==reduce the peripheral field of vision== (meaning the patient may not meet the visual legal requirement for holding a driving licence, particularly if both eyes need treatment). 
+	- ==Night vision== may be reduced and colour vision altered. 
+	- Rarely, vision can be significantly affected due to complications of treatment. 
+	- Acute complications: macular oedema, vitreous haemorrhage, or an unintended burn to the retina's centre. This deterioration of vision may be permanent.
 - Intravitreal VEGF inhibitors.
 
 ---

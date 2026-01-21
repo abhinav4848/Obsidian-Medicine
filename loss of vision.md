@@ -13,7 +13,7 @@ Ischemic/vascular (Thrombosis/embolism)
 	- Optic disc pale. Macula cherry red cuz diff artery supply.
 	- CRAO TIA: [[Amaurosis fugax]].
 	- Can happen due to embolus/giant cell arteritis.
-- Vitreous haemorrhage
+- [[Vitreous haemorrhage]]
 - [[retinal detachment]]
 	- Curtain falling. Optic disc normal.
 
