@@ -144,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -221,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "emollients.md",
+                "file": "vitiligo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -249,7 +249,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of emollients"
+              "title": "Graph of vitiligo"
             }
           }
         ]
@@ -361,7 +361,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "emollients.md",
+                "file": "vitiligo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -371,7 +371,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for emollients"
+              "title": "Backlinks for vitiligo"
             }
           }
         ]
@@ -391,8 +391,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "30064edbdbbf7fcf",
+  "active": "5235a8de58214c88",
   "lastOpenFiles": [
+    "koebner's phenomenon.md",
     "vitiligo.md",
     "emollients.md",
     "hypothyroidism.md",
@@ -419,7 +420,6 @@
     "p450.md",
     "allopurinol.md",
     "azathioprine.md",
-    "nsaid.md",
     "flow charts/prostaglandins and leukotrienes.canvas",
     "flow charts/hypertension management.canvas",
     "housekeeping/memorise.base",

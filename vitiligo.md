@@ -7,12 +7,11 @@ urls:
 Common in someone with other autoimmune disease like
 - T1DM,
 - Addison's,
-- Pernicious anaemia,
+- Pernicious anaemia (megaloblastic anaemia),
 - Thyroid disease (Hashimoto),
 - alopecia areata
 
-Koebner phenomenon
-
+[[koebner's phenomenon]] 
 
 Prevent: Daily sunscreen to affected areas.  
-OD potent topical steroid application for an initial period of upto 2 months.
+OD potent topical steroid application for an initial period of up to 2 months.
