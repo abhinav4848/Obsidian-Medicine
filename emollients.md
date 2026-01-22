@@ -32,15 +32,15 @@ For your leave-on moisturiser, switch to a bland, simple emollient that does not
 Some emollients contain potential skin sensitisers such as lanolin, preservatives fragrances and sodium lauryl sulphate (SLS). Ointments contain fewer potential irritants than creams and lotions. 
 
 # Leaflet & Links
-PCDS information for healthcare professionals: [PCDS](https://www.pcds.org.uk/clinical-guidance/atopic-eczema)
-PCDS Eczema Information leaflet: [PCDS](https://www.pcds.org.uk/files/pils/Atopic-eczema-PIL-Jan-24-for-PDF_2025-01-31-122617_gsrr.pdf)
+PCDS information for healthcare professionals: [PCDS Website](https://www.pcds.org.uk/clinical-guidance/atopic-eczema)
+PCDS Eczema Information leaflet for patients: [PCDS](https://www.pcds.org.uk/files/pils/Atopic-eczema-PIL-Jan-24-for-PDF_2025-01-31-122617_gsrr.pdf)
 
 Eczema Written Action Plan (EWAP)
-- By University of Bristol: [Website](https://www.bristol.ac.uk/primaryhealthcare/researchthemes/apache/ewap/), [PDF](https://www.bristol.ac.uk/media-library/sites/primaryhealthcare/documents/eWAP%20v1_0.pdf)
+- By University of Bristol: [Uni Bristol Website](https://www.bristol.ac.uk/primaryhealthcare/researchthemes/apache/ewap/), [EWAP PDF](https://www.bristol.ac.uk/media-library/sites/primaryhealthcare/documents/eWAP%20v1_0.pdf)
 - PCDS: [Word document](https://www.pcds.org.uk/files/gallery/Eczema_management_sheet-2022.docx)
 
 How to apply emollients
 - Video - [how to apply moisturisers in young children](https://www.youtube.com/watch?v=Kp4wnfIsots)
 - Video - [how to apply moisturisers in children or adults](https://www.youtube.com/watch?v=nj4JSWGL5KQ)
 
-Choice of emollients pathway: [PDF](https://www.pcds.org.uk/files/general/Emollient-Treatment-web.pdf)
+Choice of emollients pathway: [PCDS pathway](https://www.pcds.org.uk/files/general/Emollient-Treatment-web.pdf), [LMSG list of emollients](https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2016/04/Leicestershire-Emollient-Formulary-2016.pdf)

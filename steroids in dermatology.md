@@ -24,6 +24,7 @@ Topical corticosteroid preparation potencies
 	- Comes as Eurax cream with/without steroid. 
 	- Used for: Generalised pruritus (helps break itch-scratch cycle), Eczema-related itch, Scabies (second-line or alternative if permethrin unsuitable). 
 3. **Trimovate**: It's a brand name for clobetasone (a topical corticosteroid) with nystatin (an antifungal) and oxytetracycline (a tetracycline antibiotic). Can be used for someone with skin infection suspected post course of abx. 
+	1. Topical steroids must not be used on infected skin unless combined with an antibiotic or antifungal medicine.  
 4. **Dovobet**: Calcipotriol + Betamethasone 
 ## Notes on topical steroids %%(is transcluded)%%
 Using topical steroids in [[plaque psoriasis]].  
@@ -39,3 +40,6 @@ Should be used on red or itchy areas of skin
 - Please watch a video on how to apply steroids using the fingertip method (refer to section at bottom)
 - You may be provided with two steroid creams – a milder one that can be used more often if needed, and a stronger one that can be used for a few days if the eczema flares (gets worse)
 - In general, less steroid cream should be used on areas of thinner skin, e.g., the face, the body folds, genitalia and in older patients the lower legs
+
+### Topical Steroid withdrawal
+If you have been using higher strength TS for some weeks, you should wean yourself off slowly (reducing the TS strength and/or frequency of application) and not stop suddenly. If you stop topical steroids and develop a skin rash different from what you had before, this may be TSW.

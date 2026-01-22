@@ -38,6 +38,7 @@ Eczema is an Itchy rash on flexures & skin creases. (wrist, palms, elbow folds, 
 - **Moderate**: Dry skin, frequent itching, redness, +/- excoriation
 - **Severe**: Dry skin, Very frequent itching, redness, excoriation, extensive skin thickening, bleeding, interfere with eating & sleep
 
+---
 # Treatment
 Avoid triggers- soaps, or anything that bubbles/lathers, cigarette smoke, irritant clothing. 
 ## Emollients
@@ -60,3 +61,12 @@ See: [[steroids in dermatology]].
 Topical calcineurin inhibitors (e.g. tacrolimus, brand Protopic) can be used as steroid-sparing agents and are typically second-line treatment for eczema.
 
 Useful on delicate/steroid-sensitive areas, such as the face, eyelids, and flexures, where prolonged topical steroid use risks skin atrophy. 
+
+
+# Safety net
+- Recognise a flare: A ‘flare’ is a worsening of the eczema. Skin may become red, sore, (more) itchy, crack or bleed. 
+- Recognise infected eczema: it could be infected and your child may need antibiotics
+	- If skin suddenly worsens, 
+	- weeps (fluid oozing from skin) or crusts (yellow)
+	- swollen & painful skin
+	- Feeling hot, shivery, unwell
