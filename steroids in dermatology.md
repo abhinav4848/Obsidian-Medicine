@@ -32,3 +32,10 @@ Using topical steroids in [[plaque psoriasis]].
 - systemic side-effects may be seen when potent corticosteroids are used on large areas e.g. > 10% of the body surface area 
 - NICE recommend that we aim for a 4-week break before starting another course of topical corticosteroids
 - they also recommend using potent corticosteroids for no longer than 8 weeks at a time and very potent corticosteroids for no longer than 4 weeks at a time
+
+For [[eczema]]
+Should be used on red or itchy areas of skin
+- They should be applied at least 15 minutes after the moisturiser has been applied (some patients put their moisturiser on early evening and steroid on at bedtime)
+- Please watch a video on how to apply steroids using the fingertip method (refer to section at bottom)
+- You may be provided with two steroid creams – a milder one that can be used more often if needed, and a stronger one that can be used for a few days if the eczema flares (gets worse)
+- In general, less steroid cream should be used on areas of thinner skin, e.g., the face, the body folds, genitalia and in older patients the lower legs

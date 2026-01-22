@@ -104,13 +104,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "steroids in dermatology.md",
+                "file": "emollients.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "steroids in dermatology"
+              "title": "emollients"
             }
           },
           {
@@ -222,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "steroids in dermatology.md",
+                "file": "emollients.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,7 +250,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of steroids in dermatology"
+              "title": "Graph of emollients"
             }
           }
         ]
@@ -362,7 +362,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "steroids in dermatology.md",
+                "file": "emollients.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -372,7 +372,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for steroids in dermatology"
+              "title": "Backlinks for emollients"
             }
           }
         ]
@@ -394,15 +394,15 @@
   },
   "active": "30064edbdbbf7fcf",
   "lastOpenFiles": [
-    "eczema.md",
+    "cold sores.md",
     "emollients.md",
     "steroids in dermatology.md",
+    "eczema.md",
     "urea.md",
     "nappy rash.md",
     "corticosteroid.md",
     "croup.md",
     "plaque psoriasis.md",
-    "cold sores.md",
     "psoriasis.md",
     "seborrhoeic dermatitis.md",
     "seborrhoeic keratosis.md",
