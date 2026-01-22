@@ -21,10 +21,10 @@ Topical corticosteroid preparation potencies
 ## What is the role of 
 1. [[Urea]] 
 2. **Crotamiton**: Antipruritic, Mild scabicidal activity.
-	Comes as Eurax cream with/without steroid. 
-	Used for: Generalised pruritus (helps break itch-scratch cycle), Eczema-related itch, Scabies (second-line or alternative if permethrin unsuitable). 
+	- Comes as Eurax cream with/without steroid. 
+	- Used for: Generalised pruritus (helps break itch-scratch cycle), Eczema-related itch, Scabies (second-line or alternative if permethrin unsuitable). 
 3. **Trimovate**: It's a brand name for clobetasone (a topical corticosteroid) with nystatin (an antifungal) and oxytetracycline (a tetracycline antibiotic). Can be used for someone with skin infection suspected post course of abx. 
-4. **Dovobet**: Calcipotriol + Betamethasone
+4. **Dovobet**: Calcipotriol + Betamethasone 
 ## Notes on topical steroids %%(is transcluded)%%
 Using topical steroids in [[plaque psoriasis]].  
 - as we know topical corticosteroid therapy may lead to skin atrophy, striae and rebound symptoms 

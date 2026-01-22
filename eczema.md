@@ -4,6 +4,7 @@ tags:
 urls:
   - https://www.pcds.org.uk/files/general/Paediatric-Eczema-Pathway-update-web.pdf
   - https://www.bristol.ac.uk/primaryhealthcare/researchthemes/apache/ewap/
+  - https://www.pcds.org.uk/clinical-guidance/atopic-eczema
 aliases:
   - atopic eczema
   - atopic dermatitis
@@ -45,7 +46,7 @@ Avoid triggers- soaps, or anything that bubbles/lathers, cigarette smoke, irrita
 See: [[steroids in dermatology]]. 
 > [!Topical Steroids] 
 > Apply thinly for short duration. Mostly rely on
-> - **Mild strength**: Hydrocortisone acetate 0.5, 1, or 2.5% ([Daktacort](https://bnf.nice.org.uk/drugs/hydrocortisone-with-miconazole/medicinal-forms/))
+> - **Mild strength**: Hydrocortisone acetate 0.5, 1, or 2.5% 
 > - **Moderate strength**: Betamethasone valerate (0.025%), Clobetasone (Eumovate)
 > - **Potent strength**:
 > 	- Betamethasone valerate (0.1%) (Betnovate),
@@ -55,7 +56,7 @@ See: [[steroids in dermatology]].
 > - #Mnemonic: HEBDO -> Hydrocortisone > Eumovate > Betnovate > Dermovate > Oral
 - If eczema awakens the patient at night, consider sedative anti-histamines (Chlorpheniramine)
 - Treat bacterial infection with oral antibiotic. 
-## Topical Calcineurin inhibitor
+## Topical Calcineurin inhibitor 
 Topical calcineurin inhibitors (e.g. tacrolimus, brand Protopic) can be used as steroid-sparing agents and are typically second-line treatment for eczema.
 
 Useful on delicate/steroid-sensitive areas, such as the face, eyelids, and flexures, where prolonged topical steroid use risks skin atrophy. 
