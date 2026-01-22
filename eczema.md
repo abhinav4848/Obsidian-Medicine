@@ -41,8 +41,8 @@ Eczema is an Itchy rash on flexures & skin creases. (wrist, palms, elbow folds, 
 Avoid triggers- soaps, or anything that bubbles/lathers, cigarette smoke, irritant clothing. 
 ## Emollients
 [[emollients]]
-
 ## Steroids 
+See: [[steroids in dermatology]]. 
 > [!Topical Steroids] 
 > Apply thinly for short duration. Mostly rely on
 > - **Mild strength**: Hydrocortisone acetate 0.5, 1, or 2.5% ([Daktacort](https://bnf.nice.org.uk/drugs/hydrocortisone-with-miconazole/medicinal-forms/))
@@ -55,9 +55,6 @@ Avoid triggers- soaps, or anything that bubbles/lathers, cigarette smoke, irrita
 > - #Mnemonic: HEBDO -> Hydrocortisone > Eumovate > Betnovate > Dermovate > Oral
 - If eczema awakens the patient at night, consider sedative anti-histamines (Chlorpheniramine)
 - Treat bacterial infection with oral antibiotic. 
-
-![[corticosteroid#Topical steroid preparations|steroid]] 
-
 ## Topical Calcineurin inhibitor
 Topical calcineurin inhibitors (e.g. tacrolimus, brand Protopic) can be used as steroid-sparing agents and are typically second-line treatment for eczema.
 

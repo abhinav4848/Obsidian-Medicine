@@ -28,13 +28,14 @@ ACE inhibitor, Alcohol, Anti-malarial (HCQ), [[beta adrenergic receptors|beta bl
 
 Based on shape: Plaque, [[Guttate psoriasis]] (oil drop)
 # Treatment 
-Regular emollients may help reduce scale loss & reduce itching
+Regular [[emollients]] may help reduce scale loss & reduce itching
 ### Initial 
 Combination of both
 - Topical [[corticosteroid|corticosteroids]] (Betamethasone) OD, and
 - Vit D analogues (**calcipotriol**) OD
 Should be applied separately, not at the same time. 
 Continue for 8 weeks. 
+
 ### 2nd line after 8 weeks
 if no improvement after 8 weeks
 - Vit D analogue BD -> unlike steroid, this can be used long term, but avoid in pregnancy. 
@@ -52,7 +53,7 @@ if no improvement:
 
 ---
 ## Scalp Psoriasis
-- potent topical steroid OD ([Betacap](https://www.medicines.org.uk/emc/product/3750/pil) 0.1%- Betametasone valerate)
+- potent topical steroid OD ([Betacap](https://www.medicines.org.uk/emc/product/3750/pil) 0.1%- Betametasone valerate, or better: Dovobet)
 - If no improvement after 4 weeks then either use a different formulation of the potent corticosteroid (for example, a shampoo or mousse) and/or a topical agents to remove adherent scale (e.g. agents containing salicylic acid, emollients and oils) before application of the potent corticosteroid
 
 ## Face, flexural and genital psoriasis management
@@ -60,7 +61,7 @@ if no improvement:
 
 ---
 # Notes on Medications
-![[corticosteroid#Notes on topical steroids (is transcluded)|steroid]]
+![[steroids in dermatology#Notes on topical steroids (is transcluded)]]
 
 ## Vitamin D analogues  
 - examples of vitamin D analogues include calcipotriol (Dovonex), calcitriol and tacalcitol
