@@ -9,6 +9,7 @@ urls:
   - https://www.pcds.org.uk/clinical-guidance/seborrhoeic-eczema
 ---
 *different from [[seborrhoeic keratosis]].* 
+*See [[eczema]]*
 
 ---
 Due to yeast *Malassezia furfur* (it also causes [[pityriasis versicolor]]).

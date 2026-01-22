@@ -27,9 +27,9 @@ Eczema is an Itchy rash on flexures & skin creases. (wrist, palms, elbow folds, 
 - **In younger children**: extensor surfaces.
 
 ### Difference with psoriasis
-[[Psoriasis]] is on extensor, Eczema in adults is flexor.
-Psoriasis has well defined borders but not Eczema.
-Eczema & Psoriasis are relapsing in nature. 
+- [[Psoriasis]] is on extensor, Eczema in adults is flexor.
+- Psoriasis has well defined borders but not Eczema.
+- Eczema & Psoriasis are relapsing in nature. 
 
 # Clinical Features
 - **Mild**: Dry skin, infrequent itching, small areas of redness
@@ -38,16 +38,8 @@ Eczema & Psoriasis are relapsing in nature.
 
 # Treatment
 Avoid triggers- soaps, or anything that bubbles/lathers, cigarette smoke, irritant clothing. 
-
 ## Emollients
-- Emollients are 1st line for eczema. 
-	- #Mnemonic: Apply emollients before steroids (E comes before S). 
-- From least (absorbs better) to most greasy: Lotion > Cream > Ointment 
-- Emollients are the 1st line management for flare ups as well.
-
-Dermol is good for soap substitution but prefer not to use it as a leave-on moisturiser, as it has antibiotics in it, that can lead to irritant contact dermatitis (Benzalkonium chloride, Chlorhexidine dihydrochloride)
-
-For your leave-on moisturiser, switch to a bland, simple emollient that does not contain any antimicrobial agents or other potential irritants like fragrances. Good alternatives for a leave-on moisturiser include Cetraben Cream, Doublebase gel, or Epaderm Ointment.
+[[emollients]]
 
 ## Steroids 
 > [!Topical Steroids] 
