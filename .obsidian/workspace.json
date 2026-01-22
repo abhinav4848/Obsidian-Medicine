@@ -38,23 +38,6 @@
             }
           },
           {
-            "id": "a708e8d53962263f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "flow charts/prostaglandins and leukotrienes.canvas",
-                "viewState": {
-                  "x": -92.5,
-                  "y": 409,
-                  "zoom": -0.26317650827575956
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "prostaglandins and leukotrienes"
-            }
-          },
-          {
             "id": "67ff8593c52c0cd3",
             "type": "leaf",
             "state": {
@@ -99,6 +82,23 @@
             }
           },
           {
+            "id": "a708e8d53962263f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "flow charts/prostaglandins and leukotrienes.canvas",
+                "viewState": {
+                  "x": -92.5,
+                  "y": 409,
+                  "zoom": -0.26317650827575956
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "prostaglandins and leukotrienes"
+            }
+          },
+          {
             "id": "30064edbdbbf7fcf",
             "type": "leaf",
             "state": {
@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "cdfe4e4241b28ae3",
+            "id": "47cc74fad89fd596",
             "type": "leaf",
             "state": {
               "type": "webviewer",
@@ -148,17 +148,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "otitis.md",
+                "file": "school in children with rash.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "otitis"
+              "title": "school in children with rash"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -236,7 +236,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "otitis.md",
+                "file": "steroids in dermatology.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,7 +264,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of otitis"
+              "title": "Graph of steroids in dermatology"
             }
           }
         ]
@@ -376,7 +376,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "otitis.md",
+                "file": "steroids in dermatology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -386,7 +386,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for otitis"
+              "title": "Backlinks for steroids in dermatology"
             }
           }
         ]
@@ -406,17 +406,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b0244e90ff75bd73",
+  "active": "30064edbdbbf7fcf",
   "lastOpenFiles": [
-    "human herpes viruses.md",
-    "cold sores.md",
-    "school in children with rash.md",
+    "otitis.md",
+    "steroids in dermatology.md",
+    "urea.md",
     "emollients.md",
+    "flow charts/prostaglandins and leukotrienes.canvas",
+    "school in children with rash.md",
+    "cold sores.md",
+    "human herpes viruses.md",
     "desktop.ini",
     "cancer- skin.md",
-    "urea.md",
     "eczema.md",
-    "steroids in dermatology.md",
     "nappy rash.md",
     "corticosteroid.md",
     "croup.md",
@@ -433,10 +435,7 @@
     "loss of vision.md",
     "Vitreous haemorrhage.md",
     "crao.md",
-    "ophthalmoscopy.md",
-    "platelets.md",
     "flow charts/paeds examination.canvas",
-    "flow charts/prostaglandins and leukotrienes.canvas",
     "flow charts/hypertension management.canvas",
     "housekeeping/memorise.base",
     "housekeeping/revise recent changes.base",

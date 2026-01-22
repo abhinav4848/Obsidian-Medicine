@@ -37,10 +37,10 @@ Examples of Prescribable Emollients
 Examples of Non-Prescribable Emollients
 - Lotions: Eucerin, Cetaphil
 - Creams: CeraVe, Lipikar
-- Ointments: Vaselin
+- Ointments: Vaseline
 ## Emollients with Additional Properties
 - **Anti-bacterial**: Dermol, Eczmol
-	- Dermol: 
+	- *Dermol*: 
 		Dermol 500: Good for soap substitution but prefer not to use it as a leave-on moisturiser, as it has antibiotics in it, that can lead to irritant contact dermatitis.
 		1. Antimicrobials: Benzalkonium chloride, Chlorhexidine dihydrochloride
 		2. Emollients: Liquid paraffin, Isopropyl myristate
