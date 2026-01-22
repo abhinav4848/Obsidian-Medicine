@@ -104,13 +104,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "steroids in dermatology.md",
+                "file": "osgood-schlatter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "steroids in dermatology"
+              "title": "osgood-schlatter"
             }
           },
           {
@@ -191,7 +191,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "otitis ex",
+                "query": "chondroma",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -236,7 +236,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "steroids in dermatology.md",
+                "file": "osgood-schlatter.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,7 +264,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of steroids in dermatology"
+              "title": "Graph of osgood-schlatter"
             }
           }
         ]
@@ -376,7 +376,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "steroids in dermatology.md",
+                "file": "osgood-schlatter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -386,7 +386,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for steroids in dermatology"
+              "title": "Backlinks for osgood-schlatter"
             }
           }
         ]
@@ -408,8 +408,9 @@
   },
   "active": "30064edbdbbf7fcf",
   "lastOpenFiles": [
-    "otitis.md",
+    "chondromalacia patellae.md",
     "steroids in dermatology.md",
+    "otitis.md",
     "urea.md",
     "emollients.md",
     "flow charts/prostaglandins and leukotrienes.canvas",

@@ -14,7 +14,7 @@ Aka tibial apophysitis.
 # Epidemiology
 Common in sporty male teens (10-15 years) during pubertal growth spurt. 
 # Pathogenesis
-Stress from extensor mechanism -> Inflammation of tibial tubercle where patellar tendon attaches -> visible swelling & pain on tibial tubercle.
+Stress from extensor mechanism -> Inflammation of tibial tubercle where patellar tendon attaches -> visible swelling & pain on tibial tubercle. 
 *See [[limping child]].* 
 # Clinical Features
 Discomfort on activity but no pain on rest. 
