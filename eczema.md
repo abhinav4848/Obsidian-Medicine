@@ -3,6 +3,7 @@ tags:
   - dermat
 urls:
   - https://www.pcds.org.uk/files/general/Paediatric-Eczema-Pathway-update-web.pdf
+  - https://www.bristol.ac.uk/primaryhealthcare/researchthemes/apache/ewap/
 aliases:
   - atopic eczema
   - atopic dermatitis

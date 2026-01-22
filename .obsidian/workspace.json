@@ -75,13 +75,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "emollients.md",
+                "file": "eczema.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "emollients"
+              "title": "eczema"
             }
           },
           {
@@ -90,13 +90,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "emollients.md",
+                "file": "corticosteroid.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "emollients"
+              "title": "corticosteroid"
+            }
+          },
+          {
+            "id": "705e2a65287440ed",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2016/04/Leicestershire-Emollient-Formulary-2016.pdf",
+                "title": "Leicestershire-Emollient-Formulary-2016.pdf",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Leicestershire-Emollient-Formulary-2016.pdf"
             }
           },
           {
@@ -222,7 +236,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "emollients.md",
+                "file": "eczema.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,7 +264,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of emollients"
+              "title": "Graph of eczema"
             }
           }
         ]
@@ -362,7 +376,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "emollients.md",
+                "file": "eczema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -372,7 +386,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for emollients"
+              "title": "Backlinks for eczema"
             }
           }
         ]
@@ -394,12 +408,12 @@
   },
   "active": "5235a8de58214c88",
   "lastOpenFiles": [
-    "eczema.md",
     "emollients.md",
+    "corticosteroid.md",
+    "eczema.md",
     "seborrhoeic dermatitis.md",
     "seborrhoeic keratosis.md",
     "atopic diseases.md",
-    "corticosteroid.md",
     "vitiligo.md",
     "koebner's phenomenon.md",
     "hypothyroidism.md",
