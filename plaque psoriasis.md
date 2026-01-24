@@ -11,8 +11,8 @@ Not to be confused with [[Actinic keratosis]].
 # Aetiology 
 - Has family history. 
 - Can be triggered by stress/throat infections and can go away on its own. 
-- Relapsing nature. 
-- [[hla-b27|HLA-B27]], [[Ankylosing spondylitis]]
+- Relapsing nature 
+- [[hla-b27|HLA-B27]], [[Ankylosing spondylitis]]  
 - Improves in sunny countries -> like Morocco (Sunlight has UVB)
 - Starts as papules which later merge to form plaque. 
 
@@ -46,7 +46,7 @@ if no improvement:
 - Tar preparations OD or BD
 - Short acting Dithranol can also be used. 
 ## Secondary care
-**Phototherapy**: UVB or (UVA + [[psoralen]])
+**Phototherapy**: UVB or (UVA + [[psoralen]]) 3x a week, s/e SCC (not melanoma)
 **Systemic**: Oral Methotrexate, Ciclosporin, oral retinoids, 
 **Biologics**: infliximab, etanercept and adalimumab
 

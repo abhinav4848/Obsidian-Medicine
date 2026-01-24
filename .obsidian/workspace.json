@@ -104,13 +104,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "osgood-schlatter.md",
+                "file": "plaque psoriasis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "osgood-schlatter"
+              "title": "plaque psoriasis"
             }
           },
           {
@@ -191,7 +191,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chondroma",
+                "query": "psoriasis",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -236,7 +236,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "osgood-schlatter.md",
+                "file": "plaque psoriasis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,7 +264,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of osgood-schlatter"
+              "title": "Graph of plaque psoriasis"
             }
           }
         ]
@@ -376,7 +376,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "osgood-schlatter.md",
+                "file": "plaque psoriasis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -386,7 +386,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for osgood-schlatter"
+              "title": "Backlinks for plaque psoriasis"
             }
           }
         ]
@@ -408,7 +408,12 @@
   },
   "active": "30064edbdbbf7fcf",
   "lastOpenFiles": [
+    "beta adrenergic receptors.md",
+    "plaque psoriasis.md",
+    "psoriasis.md",
+    "psoralen.md",
     "chondromalacia patellae.md",
+    "osgood-schlatter.md",
     "steroids in dermatology.md",
     "otitis.md",
     "urea.md",
@@ -423,8 +428,6 @@
     "nappy rash.md",
     "corticosteroid.md",
     "croup.md",
-    "plaque psoriasis.md",
-    "psoriasis.md",
     "seborrhoeic dermatitis.md",
     "seborrhoeic keratosis.md",
     "atopic diseases.md",
@@ -433,9 +436,6 @@
     "hypothyroidism.md",
     "retinopathy.md",
     "actinic keratosis.md",
-    "loss of vision.md",
-    "Vitreous haemorrhage.md",
-    "crao.md",
     "flow charts/paeds examination.canvas",
     "flow charts/hypertension management.canvas",
     "housekeeping/memorise.base",

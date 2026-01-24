@@ -10,12 +10,12 @@ aliases:
 ---
 For [[polymyalgia rheumatica|PMR]], the weaning regiment is very long. Up to 2 years. 
 # Efficacy of steroids
-| Steroids                          | Glucocorticoid | Mineralocorticoid |
-| --------------------------------- | -------------- | ----------------- |
-| Fludrocortisone                   | -              | +++               |
-| Hydrocortisone                    | +              | ++                |
-| Prednisolone                      | ++             | +                 |
-| Dexamethasone,  <br>Betamethasone | +++            | -                 |
+| Steroids                         | Glucocorticoid | Mineralocorticoid |
+| -------------------------------- | -------------- | ----------------- |
+| Fludrocortisone                  | -              | +++               |
+| Hydrocortisone                   | +              | ++                |
+| Prednisolone                     | ++             | +                 |
+| Dexamethasone, <br>Betamethasone | +++            | -                 |
 # Side effect of steroids
 - [[osteoporosis]]: No pain. Directly bone # ([[osteomalacia]] is painful)
 - Avascular necrosis of hip
