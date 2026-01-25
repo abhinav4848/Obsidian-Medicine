@@ -50,7 +50,6 @@ if no improvement:
 **Systemic**: Oral Methotrexate, Ciclosporin, oral retinoids, 
 **Biologics**: infliximab, etanercept and adalimumab
 
-
 ---
 ## Scalp Psoriasis
 - potent topical steroid OD ([Betacap](https://www.medicines.org.uk/emc/product/3750/pil) 0.1%- Betametasone valerate, or better: Dovobet)
