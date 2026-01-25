@@ -11,10 +11,15 @@
             "id": "0526c746cba1bdd8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "housekeeping/goal in managing a patient in GP setting..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "goal in managing a patient in GP setting."
             }
           }
         ]
@@ -50,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "psoriasis",
+                "query": "\"rule out\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -81,8 +86,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -95,6 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "housekeeping/goal in managing a patient in GP setting..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,7 +127,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of goal in managing a patient in GP setting."
             }
           }
         ]
@@ -234,6 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "housekeeping/goal in managing a patient in GP setting..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +249,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for goal in managing a patient in GP setting."
             }
           }
         ]
@@ -265,6 +271,15 @@
   },
   "active": "0526c746cba1bdd8",
   "lastOpenFiles": [
+    "housekeeping/goal in managing a patient in GP setting..md",
+    "housekeeping/gp guidelines- resp.md",
+    "housekeeping/memorise.base",
+    "housekeeping/revise recent changes.base",
+    "housekeeping/rules.md",
+    "housekeeping/study tips.md",
+    "scoring system.md",
+    "safety nets.md",
+    "gord in children.md",
     "nomenclatures in nice.md",
     "ckd classification.md",
     "emollients.md",
@@ -286,17 +301,8 @@
     "eczema.md",
     "nappy rash.md",
     "corticosteroid.md",
-    "croup.md",
-    "seborrhoeic dermatitis.md",
-    "seborrhoeic keratosis.md",
-    "atopic diseases.md",
-    "vitiligo.md",
-    "koebner's phenomenon.md",
-    "hypothyroidism.md",
     "flow charts/paeds examination.canvas",
     "flow charts/hypertension management.canvas",
-    "housekeeping/memorise.base",
-    "housekeeping/revise recent changes.base",
     "Clippings",
     "attachments/ng254- suspected-sepsis-managing-and-evaluating-risk-all-settings-pdf-15494830813.pdf",
     "attachments/ng254- evaluating-risk-of-severe-illness-or-death-in-all-settings-children-under-5-pdf-15494513294.pdf",
