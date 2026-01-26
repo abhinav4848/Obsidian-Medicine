@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "housekeeping/goal in managing a patient in GP setting..md",
+                "file": "plaque psoriasis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "goal in managing a patient in GP setting."
+              "title": "plaque psoriasis"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"rule out\"",
+                "query": "psoriasis",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,7 +86,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -99,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "housekeeping/goal in managing a patient in GP setting..md",
+                "file": "plaque psoriasis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,7 +128,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of goal in managing a patient in GP setting."
+              "title": "Graph of plaque psoriasis"
             }
           }
         ]
@@ -239,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "housekeeping/goal in managing a patient in GP setting..md",
+                "file": "plaque psoriasis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +250,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for goal in managing a patient in GP setting."
+              "title": "Backlinks for plaque psoriasis"
             }
           }
         ]
@@ -271,6 +272,8 @@
   },
   "active": "0526c746cba1bdd8",
   "lastOpenFiles": [
+    "plaque psoriasis.md",
+    "psoriasis.md",
     "housekeeping/goal in managing a patient in GP setting..md",
     "housekeeping/gp guidelines- resp.md",
     "housekeeping/memorise.base",
@@ -283,11 +286,9 @@
     "nomenclatures in nice.md",
     "ckd classification.md",
     "emollients.md",
-    "plaque psoriasis.md",
     "flow charts/prostaglandins and leukotrienes.canvas",
     "school in children with rash.md",
     "beta adrenergic receptors.md",
-    "psoriasis.md",
     "psoralen.md",
     "chondromalacia patellae.md",
     "osgood-schlatter.md",

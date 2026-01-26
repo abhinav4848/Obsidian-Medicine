@@ -33,21 +33,33 @@ Regular [[emollients]] may help reduce scale loss & reduce itching
 Combination of both
 - Topical [[corticosteroid|corticosteroids]] (Betamethasone) OD, and
 - Vit D analogues (**calcipotriol**) OD
-Should be applied separately, not at the same time. 
+Should be applied separately- one at AM & one at PM, not at the same time. 
 Continue for 8 weeks. 
 
+>[!practical advice]-
+>PCDS says to use both together. 
+>- Use Enstilar foam on body and scalp as first line. 
+>- If they want less greasy, can use Wynzora cream, Dovobel gel, Dovobet ointment
+>- Discontinue this therapy once skin feels smooth even though it may be red. Can use Enstilar twice weekly for maintenance, and go back to OD during flare-up. 
+>- Dovobet gel can also be used for scalp and body. 
+>- If very thick scale, use de-scaling agents first. e.g. Salicylic acid in yellow soft paraffin applied BD till scale thins. Very expensive. 
+>- If moderate thick, use potent steroid + Salicylic acid (Diporsalic ointment)
+>- For scalp, can use sebco or cocois ointment for descaling.
 ### 2nd line after 8 weeks
 if no improvement after 8 weeks
 - Vit D analogue BD -> unlike steroid, this can be used long term, but avoid in pregnancy. 
 no use of steroid here as we need 4 week break between steroids. 
+
 ### 3rd line after 8-12 weeks
 if no improvement:
 - Potent topical Steroid BD for 4 weeks, or
 - Tar preparations OD or BD
 - Short acting Dithranol can also be used. 
+	- Dithranol stains clothes & can be messy. 
 ## Secondary care
 **Phototherapy**: UVB or (UVA + [[psoralen]]) 3x a week, s/e SCC (not melanoma)
-**Systemic**: Oral Methotrexate, Ciclosporin, oral retinoids, 
+**Systemic**: Oral Methotrexate, Cyclosporin, oral retinoids, 
+	Examples of calcineurin inhibitors include cyclosporine, tacrolimus. These medications are used to suppress the immune system in various conditions, such as organ transplants and inflammatory diseases.
 **Biologics**: infliximab, etanercept and adalimumab
 
 ---
