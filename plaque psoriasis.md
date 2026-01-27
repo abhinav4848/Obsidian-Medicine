@@ -48,7 +48,8 @@ Continue for 8 weeks.
 ### 2nd line after 8 weeks
 if no improvement after 8 weeks
 - Vit D analogue BD -> unlike steroid, this can be used long term, but avoid in pregnancy. 
-no use of steroid here as we need 4 week break between steroids. 
+- [Calcitriol](https://bnf.nice.org.uk/drugs/calcitriol/) 
+No use of steroid here as we need 4 week break between steroids. 
 
 ### 3rd line after 8-12 weeks
 if no improvement:
@@ -58,13 +59,13 @@ if no improvement:
 	- Dithranol stains clothes & can be messy. 
 ## Secondary care
 **Phototherapy**: UVB or (UVA + [[psoralen]]) 3x a week, s/e SCC (not melanoma)
-**Systemic**: Oral Methotrexate, Cyclosporin, oral retinoids, 
-	Examples of calcineurin inhibitors include cyclosporine, tacrolimus. These medications are used to suppress the immune system in various conditions, such as organ transplants and inflammatory diseases.
+**Systemic**: Oral Methotrexate, Oral retinoids, Calcineurin inhibitors (Cyclosporine, tacrolimus). 
+	Calcineurin inhibitors- Cyclosporine, tacrolimus. These medications are used to suppress the immune system in various conditions, such as organ transplants and inflammatory diseases.
 **Biologics**: infliximab, etanercept and adalimumab
 
 ---
 ## Scalp Psoriasis
-- potent topical steroid OD ([Betacap](https://www.medicines.org.uk/emc/product/3750/pil) 0.1%- Betametasone valerate, or better: Dovobet)
+- potent topical steroid OD ([Betacap](https://www.medicines.org.uk/emc/product/3750/pil) 0.1%- Betametasone valerate, or better: [Dovobet](https://www.pcds.org.uk/clinical-guidance/psoriasis-scalp-psoriasis))
 - If no improvement after 4 weeks then either use a different formulation of the potent corticosteroid (for example, a shampoo or mousse) and/or a topical agents to remove adherent scale (e.g. agents containing salicylic acid, emollients and oils) before application of the potent corticosteroid
 
 ## Face, flexural and genital psoriasis management
