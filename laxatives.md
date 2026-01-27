@@ -25,7 +25,7 @@ In the management of short-duration constipation (where dietary measures are ine
 First line in pregnancy. 
 ## Emollient stool softeners 
 aka stool wetting / surface wetting agent.
-- Sodium Docusate- acts both as a stimulant & as a softening agent. 
+- Sodium Docusate- It's a [[surfactant]] acts both as a stimulant & as a softening agent. 
 - Decrease the surface tension of faecal mass, and increases intestinal fluid in the stool, lubricating it, thus making it easier to pass.
 - It's only approved for bowel obstruction. 
 - Also has stimulant action at higher doses. 

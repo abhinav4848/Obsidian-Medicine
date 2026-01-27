@@ -48,7 +48,7 @@ Continue for 8 weeks.
 ### 2nd line after 8 weeks
 if no improvement after 8 weeks
 - Vit D analogue BD -> unlike steroid, this can be used long term, but avoid in pregnancy. 
-- [Calcitriol](https://bnf.nice.org.uk/drugs/calcitriol/) 
+- [Calcitriol BNF](https://bnf.nice.org.uk/drugs/calcitriol/) 
 No use of steroid here as we need 4 week break between steroids. 
 
 ### 3rd line after 8-12 weeks
