@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "upper limb ortho problems.md",
+                "file": "vasculitis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "upper limb ortho problems"
+              "title": "vasculitis"
             }
           },
           {
@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docusate",
+                "query": "vasculitis",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "plaque psoriasis.md",
+                "file": "vasculitis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of plaque psoriasis"
+              "title": "Graph of vasculitis"
             }
           }
         ]
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plaque psoriasis.md",
+                "file": "vasculitis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for plaque psoriasis"
+              "title": "Backlinks for vasculitis"
             }
           }
         ]
@@ -301,14 +301,25 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3416c51f05e79e69",
+  "active": "a8cfbb960ad5aa70",
   "lastOpenFiles": [
+    "behcet's disease.md",
+    "vasculitis.md",
+    "red flags of sepsis in children.md",
+    "meningitis.md",
+    "vitals in children.md",
+    "abnormal airway sounds.md",
+    "fever & sepsis.md",
+    "pneumonia.md",
+    "curb-65.md",
+    "upper limb ortho problems.md",
+    "hiv.md",
+    "scoring system.md",
+    "plaque psoriasis.md",
     "surfactant.md",
     "laxatives.md",
-    "upper limb ortho problems.md",
     "rheumatoid arthritis.md",
     "ra vs osteoarthritis.md",
-    "plaque psoriasis.md",
     "psoriasis.md",
     "housekeeping/goal in managing a patient in GP setting..md",
     "housekeeping/gp guidelines- resp.md",
@@ -316,22 +327,11 @@
     "housekeeping/revise recent changes.base",
     "housekeeping/rules.md",
     "housekeeping/study tips.md",
-    "scoring system.md",
     "safety nets.md",
     "gord in children.md",
     "nomenclatures in nice.md",
     "ckd classification.md",
-    "emollients.md",
     "flow charts/prostaglandins and leukotrienes.canvas",
-    "school in children with rash.md",
-    "beta adrenergic receptors.md",
-    "psoralen.md",
-    "chondromalacia patellae.md",
-    "osgood-schlatter.md",
-    "steroids in dermatology.md",
-    "otitis.md",
-    "urea.md",
-    "cold sores.md",
     "desktop.ini",
     "flow charts/paeds examination.canvas",
     "flow charts/hypertension management.canvas",

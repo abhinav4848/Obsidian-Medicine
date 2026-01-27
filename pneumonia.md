@@ -3,11 +3,20 @@ tags:
   - infection
 aliases:
   - LRTI
+urls:
+  - https://www.nice.org.uk/guidance/ng250
 ---
 # Clinical features 
 - Cough, Sputum production, fever, old age
 - Atypical pneumonia has dry cough.
 - Typical Pneumonia has productive cough, more rapid onset, high fever, and is usually caused by Strep -> MCC of CAP. 
+
+## Investigations  
+- chest x-ray
+- in intermediate or high-risk patients NICE recommend blood and sputum cultures, pneumococcal and legionella urinary antigen tests
+- CRP monitoring is recommend for admitted patients to help determine response to treatment.
+
+---
 # Types
 ## 1. [[Haemophilus influenzae]]
 Especially common in patients with [[COPD]] -> Presents as acute exacerbation of COPD. 
@@ -32,7 +41,7 @@ Another one of the atypical pneumonias.
 - Hypoalbuminemia
 - Deranged LFT
 - Flu-like symptoms, dry cough, relative bradycardia, confusion
-### Inv
+### Investigation
 Urinary antigen
 **CXR**: patchy Bi-basal consolidation
 ### Treatment
@@ -48,7 +57,7 @@ Worsening flu like symptoms precede a dry cough
 - [[erythema multiforme]], Erythema nodosum
 	Erythe`ma` multiforme: Mycoplas`ma`
 - **Bullous myringitis**: painful vesicles on the tympanic membrane
-### Less imp points
+##### Less imp points
 • Meningoencephalitis, Guillain-Barre syndrome and other immune-mediated neurological diseases
 • Patients aren't as septic. 
 • Hyponatremia common in any pneumonia (but more in Legionella)
@@ -88,14 +97,30 @@ CXR: b/l lower lobe cavitation.
 ## 9. Streptococcus pneumoniae (pneumococcus)
 Herpes `L`abialis-> Streptococca`L`
 Commonest cause of pneumonia: Accounts for 80% of cases. 
-u/l basal crackles, u/l lobar consolidation -> Lobar pneumonia.
-
+u/l basal crackles, u/l lobar consolidation -> Lobar pneumonia. 
 ### CXR
 lobar consolidation
 
 Productive cough, fever, chest tightness.
 Especially associated with high fever, rapid onset and herpes labialis
 A vaccine to pneumococcal is available. 
-
 ### Vaccination
 The pneumococcal vaccine is routinely offered to infants, those aged > 65, and patients with other health conditions that put them at high risk. #vaccine 
+
+---
+# 10. Community Acquired Pneumonia
+Pneumonia that is acquired outside hospital, or within 48 hours of admission. Pneumonia that develops in a nursing home resident is included in this definition.
+
+From [NICE](https://www.nice.org.uk/guidance/qs110/chapter/Quality-statement-3-Duration-of-initial-antibiotic-treatment): Prescribe 5 day abx for adults with CAP or HAP, or 3 days for children 3 months to 11 years, if non-severe symptoms. 
+
+### Recovery course
+In Pneumonia, how quickly should symptoms resolve: 
+
+|Time|Progress|
+|---|---|
+|1 week|Fever should have resolved|
+|4 weeks|Chest pain and sputum production should have substantially reduced|
+|6 weeks|Cough and breathlessness should have substantially reduced|
+|3 months|Most symptoms should have resolved but fatigue may still be present|
+|6 months|Most people will feel back to normal.|
+All cases of pneumonia should have a repeat chest X-ray at 6 weeks after clinical resolution to ensure that the consolidation has resolved and there is no underlying secondary abnormalities (e.g. a lung tumour). It's often arranged by the X-Ray department itself. 

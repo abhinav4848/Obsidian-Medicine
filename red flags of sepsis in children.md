@@ -3,6 +3,7 @@ tags:
   - infection
   - paeds
 ---
+*See [[vitals in children]].* 
 # Red flag sepsis
 1. difficult to rouse
 2. under 3 months: temp > 38C
@@ -12,6 +13,7 @@ tags:
 6. high HR
 7. if under 12, [[vitals in children|HR<60]]. 
 8. non-blanching purpuric rash
+	1. 
 9. skin mottled or cyanotic, reduced skin turgor. 
 10. known severe immune disorder/chemo in last 6 months. 
 11. bulging fontanelle, neck stiffness, focal seizures
