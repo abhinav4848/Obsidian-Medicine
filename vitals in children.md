@@ -21,6 +21,8 @@ Count RR for a full minute, particularly in infants, as breathing can be irregul
 - >150 beats/minute, age 12-24 months
 - >140 beats/minute, age 2-5 years
 Early sign of distress- tachycardia compensates for a fixed stroke volume
+
+For <12yo HR <60
 # Temperature
 - Neonates and young infants may not mount a febrile response to infection. They may present with low temperature or poor feeding rather than pyrexia.
 - Red flag sepsis:
