@@ -7,11 +7,11 @@ tags:
 urls:
   - https://www.britishinfection.org/application/files/5414/5674/3289/algorithm.pdf
 ---
-Links: 
-1. [PDF: Early Management of Suspected Meningitis and Meningococcal Sepsis in Immunocompetent Adults](https://www.britishinfection.org/application/files/5414/5674/3289/algorithm.pdf)
-2. [PDF: Guidance for public health management of meningococcal disease in the UK](https://assets.publishing.service.gov.uk/media/694a83a9033693d5d50eb8f7/Meningo-disease-guidelines-2025.pdf)
-3. [NICE: Medical emergencies in the community](https://bnf.nice.org.uk/treatment-summaries/medical-emergencies-in-the-community/)
-4. [NICE: Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management](https://www.nice.org.uk/guidance/ng240/chapter/Recommendations)
+>[!Reference Links]-
+> 1. [PDF: Early Management of Suspected Meningitis and Meningococcal Sepsis in Immunocompetent Adults](https://www.britishinfection.org/application/files/5414/5674/3289/algorithm.pdf)
+> 2. [PDF: Guidance for public health management of meningococcal disease in the UK](https://assets.publishing.service.gov.uk/media/694a83a9033693d5d50eb8f7/Meningo-disease-guidelines-2025.pdf)
+> 3. [NICE: Medical emergencies in the community](https://bnf.nice.org.uk/treatment-summaries/medical-emergencies-in-the-community/)
+> 4. [NICE: Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management](https://www.nice.org.uk/guidance/ng240/chapter/Recommendations)
 
 After treating meningitis, arrange hearing test cuz it's the most likely complication. But most likely outcome is complete recovery.
 # Causes

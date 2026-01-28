@@ -1,6 +1,8 @@
 ---
 tags:
   - pathology
+aliases:
+  - helmet cells
 ---
 # RBC Morphology
 

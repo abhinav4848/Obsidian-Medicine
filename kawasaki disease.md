@@ -2,11 +2,11 @@
 tags:
   - infection
 ---
-Acute vasculitis that affects children under 5 years old.
+Acute [[vasculitis]] that affects children under 5 years old.
 
 Fever lasting > 5 days.
 
-# Clinica Features
+# Clinical Features
 Crash and burn on a Kawasaki ( #mnemonic)
 - Conjunctival injection
 - Rash (polymorphous -> Desquamating)

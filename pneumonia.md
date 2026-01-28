@@ -83,7 +83,7 @@ If CD < 50: Azithromycin (prophylaxis against M. avium)
 
 ---
 ## 7. [[Pseudomonas]]	
-Causes LRTI in Cystic fibrosis, 2nd decade onwards. 
+Causes LRTI in [[Cystic fibrosis]], 2nd decade onwards. 
 
 ---
 ## 8. Staphylococcus aureus
@@ -108,7 +108,7 @@ A vaccine to pneumococcal is available.
 The pneumococcal vaccine is routinely offered to infants, those aged > 65, and patients with other health conditions that put them at high risk. #vaccine 
 
 ---
-# 10. Community Acquired Pneumonia
+# 10. Community Acquired Pneumonia %%is linked%%
 Pneumonia that is acquired outside hospital, or within 48 hours of admission. Pneumonia that develops in a nursing home resident is included in this definition.
 
 From [NICE](https://www.nice.org.uk/guidance/qs110/chapter/Quality-statement-3-Duration-of-initial-antibiotic-treatment): Prescribe 5 day abx for adults with CAP or HAP, or 3 days for children 3 months to 11 years, if non-severe symptoms. 

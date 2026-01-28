@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vasculitis.md",
+                "file": "pneumonia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "vasculitis"
+              "title": "pneumonia"
             }
           },
           {
@@ -54,6 +54,27 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "87f46965f1cf9ad9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f08dbbe5ab7cfd9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hsp vs itp.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "hsp vs itp"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vasculitis",
+                "query": "helmet cells",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -131,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "vasculitis.md",
+                "file": "pneumonia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +180,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of vasculitis"
+              "title": "Graph of pneumonia"
             }
           }
         ]
@@ -271,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vasculitis.md",
+                "file": "pneumonia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +302,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for vasculitis"
+              "title": "Backlinks for pneumonia"
             }
           }
         ]
@@ -303,14 +324,25 @@
   },
   "active": "a8cfbb960ad5aa70",
   "lastOpenFiles": [
-    "behcet's disease.md",
-    "vasculitis.md",
     "red flags of sepsis in children.md",
-    "meningitis.md",
-    "vitals in children.md",
-    "abnormal airway sounds.md",
-    "fever & sepsis.md",
     "pneumonia.md",
+    "vitals in children.md",
+    "fever & sepsis.md",
+    "rash.md",
+    "hus vs ttp.md",
+    "hsp vs itp.md",
+    "glomerulonephritis.md",
+    "haematuria.md",
+    "cell histology.md",
+    "vasculitis.md",
+    "nappy rash.md",
+    "different rashes in paeds.md",
+    "loss of vision.md",
+    "meningitis.md",
+    "behcet's disease.md",
+    "kawasaki disease.md",
+    "granulomatosis with polyangiitis.md",
+    "abnormal airway sounds.md",
     "curb-65.md",
     "upper limb ortho problems.md",
     "hiv.md",
@@ -318,19 +350,8 @@
     "plaque psoriasis.md",
     "surfactant.md",
     "laxatives.md",
-    "rheumatoid arthritis.md",
-    "ra vs osteoarthritis.md",
-    "psoriasis.md",
-    "housekeeping/goal in managing a patient in GP setting..md",
-    "housekeeping/gp guidelines- resp.md",
     "housekeeping/memorise.base",
     "housekeeping/revise recent changes.base",
-    "housekeeping/rules.md",
-    "housekeeping/study tips.md",
-    "safety nets.md",
-    "gord in children.md",
-    "nomenclatures in nice.md",
-    "ckd classification.md",
     "flow charts/prostaglandins and leukotrienes.canvas",
     "desktop.ini",
     "flow charts/paeds examination.canvas",

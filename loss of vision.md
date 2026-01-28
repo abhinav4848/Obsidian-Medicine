@@ -18,7 +18,7 @@ Ischemic/vascular (Thrombosis/embolism)
 	- Curtain falling. Optic disc normal.
 
 - [[anterior ischaemic optic neuropathy]]. Normally seen in people > 50yo.
-- Vasculitis: Temporal arteritis
+- Vasculitis: [[polymyalgia rheumatica|temporal arteritis]]
 - Retinal migraine
 - Cerebrovascular accident
 # Gradual painless

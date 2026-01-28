@@ -4,4 +4,7 @@ tags:
 ---
 [[granulomatosis with polyangiitis|Wegener's]]
 [[eosinophilic granulomatosis with polyangiitis|Churg Staruss]]
-[[Henoch-Schönlein purpura (HSP)]]
+[[behcet's disease]]
+[[kawasaki disease]]
+[[polymyalgia rheumatica|temporal arteritis]]
+[[hsp vs itp]] 
