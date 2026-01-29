@@ -43,17 +43,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plaque psoriasis.md",
+                "file": "aphthous ulcer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "plaque psoriasis"
+              "title": "aphthous ulcer"
+            }
+          },
+          {
+            "id": "548e89a950271ce2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paediatric milestones.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "paediatric milestones"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "helmet cells",
+                "query": "development",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -117,8 +132,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -131,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "plaque psoriasis.md",
+                "file": "paediatric milestones.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +173,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of plaque psoriasis"
+              "title": "Graph of paediatric milestones"
             }
           }
         ]
@@ -271,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plaque psoriasis.md",
+                "file": "paediatric milestones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +295,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for plaque psoriasis"
+              "title": "Backlinks for paediatric milestones"
             }
           }
         ]
@@ -301,8 +315,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3416c51f05e79e69",
+  "active": "548e89a950271ce2",
   "lastOpenFiles": [
+    "aphthous ulcer.md",
+    "paediatric milestones.md",
+    "haematuria.md",
+    "cancer- urology.md",
+    "smoking.md",
+    "flow charts/haematuria.canvas",
+    "plaque psoriasis.md",
     "desktop.ini",
     "vitals in children.md",
     "red flags of sepsis in children.md",
@@ -312,7 +333,6 @@
     "rash.md",
     "hus vs ttp.md",
     "glomerulonephritis.md",
-    "haematuria.md",
     "cell histology.md",
     "vasculitis.md",
     "nappy rash.md",
@@ -325,10 +345,6 @@
     "abnormal airway sounds.md",
     "curb-65.md",
     "upper limb ortho problems.md",
-    "hiv.md",
-    "scoring system.md",
-    "plaque psoriasis.md",
-    "surfactant.md",
     "housekeeping/memorise.base",
     "housekeeping/revise recent changes.base",
     "flow charts/prostaglandins and leukotrienes.canvas",
@@ -347,7 +363,6 @@
     "attachments/bronchial-sound-2.mp3",
     "attachments/breath sounds.jpg",
     "flow charts/contraception after delivery.canvas",
-    "flow charts/haematuria.canvas",
     "flow charts/deep vein thrombosis.canvas",
     "attachments/erythema nodosum.jpg",
     "attachments/erythema multiforme.jpg",
