@@ -25,7 +25,7 @@ See: [[paeds examination.canvas]]
 [NHS](https://www.nhs.uk/baby/babys-development/height-weight-and-reviews/baby-reviews/): It's personal child health record (PCHR). 
 Ask if red book is up to date. Good idea to bring it with baby to the clinic. 
 Records child's height & weight, vaccinations. Patient can record illness/accidents/medicines baby has had. 
-Also record developmental milestones. 
+Also record [[paediatric milestones|developmental milestones]]. 
 See if [[guthrie test|Heel prick test]] showed anything. 
 Any documentation from [[newborn Infant physical examination|NIPE]]. 
 ### premature babies

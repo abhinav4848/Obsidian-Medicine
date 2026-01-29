@@ -168,7 +168,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7514341907183559,
+                  "scale": 0.5359795749495623,
                   "close": true
                 }
               },
@@ -317,8 +317,11 @@
   },
   "active": "548e89a950271ce2",
   "lastOpenFiles": [
-    "aphthous ulcer.md",
+    "housekeeping/gp guidelines- psych.md",
+    "housekeeping/gp guidelines- paeds.md",
     "paediatric milestones.md",
+    "examination of children.md",
+    "aphthous ulcer.md",
     "haematuria.md",
     "cancer- urology.md",
     "smoking.md",
@@ -342,9 +345,6 @@
     "behcet's disease.md",
     "kawasaki disease.md",
     "granulomatosis with polyangiitis.md",
-    "abnormal airway sounds.md",
-    "curb-65.md",
-    "upper limb ortho problems.md",
     "housekeeping/memorise.base",
     "housekeeping/revise recent changes.base",
     "flow charts/prostaglandins and leukotrienes.canvas",

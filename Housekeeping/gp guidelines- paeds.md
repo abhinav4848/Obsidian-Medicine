@@ -10,7 +10,11 @@ https://geekymedics.com/category/osce/clinical-examination/paediatrics/
 if the child has scratches or lumps or nose bleed and parents don't know how that happened, ask if there are siblings or are they alone at home or not, any other children at home the child may have been rough housing. 
 
 
-Do the three ‘quiet things’ first: auscultation of heart sounds, auscultation of breath sounds and palpation of femoral pulses.
+Do the three ‘quiet things’ first: 
+- auscultation of heart sounds, 
+- auscultation of breath sounds and 
+- palpation of femoral pulses.
+
 Examine the whole body. Include the oral (note moist mucosa), ear exam (use tongue depressor for back of throat), use otoscope to look into the ear and nostril if needed. 
 - Difficulty with breastfeeding or inadequate oral fluid intake (50–75% of usual volume).
 - Note the degree of agitation and consciousness. 
