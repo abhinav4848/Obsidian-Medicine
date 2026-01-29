@@ -10,6 +10,7 @@ views:
       and:
         - file.mtime > today()
         - file.ext == "md"
+        - '!file.inFolder("housekeeping")'
     order:
       - file.name
       - file.mtime

@@ -40,5 +40,5 @@ Useful as [[antiemetics]].
 | **Skin**               | Reduced sweating<br>Flushing                                                                                                      |
 
 # Anticholinergic burden
-![[anticholinergic burden.png]]
+![[anticholinergic burden table.png]]
 

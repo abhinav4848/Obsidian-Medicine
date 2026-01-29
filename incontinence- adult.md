@@ -7,6 +7,7 @@ aliases:
   - Detrusor instability.
   - Storage symptoms
   - Voiding symptoms
+  - urinary incontinence
 urls:
   - https://www.nice.org.uk/guidance/cg97/chapter/Recommendations
 revision notes: difference between storage and voiding symptoms

@@ -14,15 +14,15 @@ Amitriptyline
 - Less commonly used because of risk of toxicity on overdose.
 ## SSRI 
 Sertraline, Fluoxetine (both s/e: Anorgasmia/delayed ejaculation, SIADH),
-	- Takes 1-2 week (even 2-4 weeks) for effect to be seen
-	- Give for 6-9 months. 
-	- Fluoxetine doesn’t require gradual dose reduction
-	- Fluoxetine not given for [[panic attacks]]. Give sertraline if at all. 
+- Takes 1-2 week (even 2-4 weeks) for effect to be seen
+- Give for 6-9 months. 
+- Fluoxetine doesn’t require gradual dose reduction
+- Fluoxetine not given for [[panic attacks]]. Give sertraline if at all. 
 
 [[Citalopram]] (s/e [[glaucoma- acute angle closure|Acute angle closure glaucoma]], [[qt prolongation]]),
 Paroxetine.
-
-![[ssri#Side Effects of SSRIs]]
+#### Side effects of SSRIs
+- See [[ssri#Side Effects of SSRIs]] #important 
 ## MAOi 
 They are also antidepressants that are almost entirely not used, even in comparison to TCAs (dosulepin, etc.)
 
@@ -48,7 +48,7 @@ If SSRI not working,
 
 Severe Depression: 
 - when suicidal/harm self or others
-- Admit to psych ward. ECT is last to last resort.
+- Admit to psych ward. ECT is last to last resort. 
 # Follow up
 Following the initiation of antidepressant therapy patients should normally be reviewed by a doctor after 2 weeks. 
 
@@ -73,3 +73,12 @@ When stopping a SSRI the dose should be gradually reduced over a 4 week period (
 | Pregnant                                                | - BNF says to weigh up benefits and risk when deciding whether to use in pregnancy.<br>- Use during the T1 gives a small increased risk of congenital heart defects<br>- Use during T3 can result in persistent pulmonary hypertension of the newborn<br>- Paroxetine has an increased risk of congenital malformations, particularly in the first trimester |
 | Psychotic Depression                                    | TCA                                                                                                                                                                                                                                                                                                                                                          |
 | Under 18                                                | Fluoxetine only                                                                                                                                                                                                                                                                                                                                              |
+# Questionnaire to assess mental health
+PHQ-9 (see [[scoring system|PHQ-9]]).
+
+From [MDCalc](https://www.mdcalc.com/calc/1725/phq9-patient-health-questionnaire9): 
+Scores 20 and greater suggest severe depression; patients typically should have immediate initiation of pharmacotherapy and expedited referral to mental health specialist.  
+  
+Functionally, the patient finds it is “extremely difficult” to perform life tasks due to their symptoms.
+  
+WARNING: This patient is having thoughts concerning for suicidal ideation or self-harm, and should be probed further, referred, or transferred for emergency psychiatric evaluation as clinically appropriate and depending on clinician overall risk assessment.
