@@ -23,6 +23,7 @@ The meds are used as monotherapy & not combined.
 - Tramadol only if acute rescue therapy is needed. (not for long term- that's specialist recommendation only.)
 	- Tramadol is dual action- weak opioid agonist, and an SNRI. 
 	- Consider when other treatments have failed. 
+	- From comments: *Tramadol is a horrible drug, addictive++ and multiple side effects, so people try to go for alternatives wherever they can.* 
 - Consider Capsaicin cream for people with localised neuropathic pain (post-herpetic neuralgia) who wish to avoid/can't tolerate oral treatments. 
 ##### Licensed use
 - Duloxetine is licensed for diabetic peripheral neuropathic pain only. 

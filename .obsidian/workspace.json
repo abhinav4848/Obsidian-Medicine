@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sciatica.md",
+                "file": "pain ladder- neuropathic.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "sciatica"
+              "title": "pain ladder- neuropathic"
             }
           }
         ]
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sciatica.md",
+                "file": "pain ladder- neuropathic.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of sciatica"
+              "title": "Graph of pain ladder- neuropathic"
             }
           }
         ]
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sciatica.md",
+                "file": "pain ladder- neuropathic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for sciatica"
+              "title": "Backlinks for pain ladder- neuropathic"
             }
           }
         ]
@@ -272,8 +272,8 @@
   },
   "active": "0526c746cba1bdd8",
   "lastOpenFiles": [
-    "pain ladder- neuropathic.md",
     "sciatica.md",
+    "pain ladder- neuropathic.md",
     "morphine breakthrough dose.md",
     "upper limb ortho problems.md",
     "vitals in children.md",
