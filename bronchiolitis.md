@@ -14,7 +14,7 @@ It is an [[infection in children|LRTI]].
 >![Severe RSV](https://www.youtube.com/watch?v=oOrty5PfhTY)
 >-  Nasal flaring mostly occurs in infants and young children; the nostrils widen while breathing in.
 >- When your child is pulling the chest in at the ribs, below the breastbone, or above the collarbones, this is called retracting.
->- Grunting is a sound made by a baby or young child who is having trouble breathing. By grunting, a child tries to keep air in the lungs to help build up the oxygen level.
+>- [[abnormal airway sounds|grunting]] is a sound made by a baby or young child who is having trouble breathing. By grunting, a child tries to keep air in the lungs to help build up the oxygen level.
 >- Normally, a newborn breathes 30-60 times per minute. When your baby breathes faster, which is called tachypnea, this is another sign for respiratory distress.
 # Clinical Features
 Seen in < 1yo.
