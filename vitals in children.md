@@ -29,9 +29,14 @@ For <12yo HR <60
 	- Under 3 months: temp > 38C
 	- Under 5 years: temp <36C
 - Always investigate fever in infants <3 months thoroughly (e.g. sepsis, UTI, meningitis)
-
 # Passing urine
 - Important for sepsis
 All ages: Not passed urine in the past 12 (infants) to 18 hours, OR for catheterised patients passed 0.5 to 1 ml/kg of urine per hour
+
+# BP
+##### How low is too low a BP?
+- 1 month to 1 year: SBP <70
+- 1y to 10 years: SBP < (70+ (2 x age))
+- 11y to 17y: SBP <90
 
 See ![[ng254- suspected-sepsis-managing-and-evaluating-risk-all-settings-pdf-15494830813.pdf]]

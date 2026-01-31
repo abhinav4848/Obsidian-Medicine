@@ -17,6 +17,7 @@ Parainfluenza Virus #virus
 - Following coryzal prodrome, WBC infiltrate larynx, trachea- cause inflammation, oedema, partial airway obstruction. 
 
 # Clinical Features 
+Tracheal tugging
 Barking cough **worse at night**. 
 - Reduced sympathetic activity at night will cause reduced bronchodilation of the inflamed airways. 
 Stridor ([[Abnormal airway sounds]])

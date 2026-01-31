@@ -10,7 +10,6 @@ urls:
 Respiratory Syncytial virus (RSV) mostly. 
 It is an [[infection in children|LRTI]]. 
 
-
 >[!Video]-
 >![Severe RSV](https://www.youtube.com/watch?v=oOrty5PfhTY)
 >-  Nasal flaring mostly occurs in infants and young children; the nostrils widen while breathing in.
@@ -31,9 +30,12 @@ Seen in < 1yo.
 > - apnoea (observed or reported)
 > - child seriously unwell
 > - severe respiratory distress, for example 
-> 	- Grunting, 
-> 	- marked chest recession, or 
+> 	- [[abnormal airway sounds|grunting]], 
+> 	- marked chest recession (look at the side of the chest, not the front), or 
 > 	- RR > 70 breaths/minute ([[vitals in children|tachypnoea]])
+> 	- Head bobbing
+> 	- Nasal flaring
+> 	- tracheal tug (more in upper airway obstruction, like [[croup]])
 > - central cyanosis
 > - persistent oxygen saturation of less than 92% when breathing air.
 

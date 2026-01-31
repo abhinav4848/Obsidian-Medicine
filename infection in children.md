@@ -4,7 +4,7 @@ tags:
 ---
 # Respiratory
 [[acute epiglottitis]]
-[[bronchiolitis (lrti)]]
+[[bronchiolitis]]
 [[croup]] 
 [[pertussis]]
 

@@ -35,9 +35,39 @@
               "icon": "globe-2",
               "title": "Wayback Machine"
             }
+          },
+          {
+            "id": "911234976ed86f62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bronchiolitis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "bronchiolitis"
+            }
+          },
+          {
+            "id": "47f78657ce27622f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bronchiolitis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "bronchiolitis"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -70,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "antibiotic",
+                "query": "vitals",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -115,6 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "bronchiolitis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +173,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of bronchiolitis"
             }
           }
         ]
@@ -254,6 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "bronchiolitis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +295,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for bronchiolitis"
             }
           }
         ]
@@ -283,14 +315,21 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e935616d01d022b1",
+  "active": "47f78657ce27622f",
   "lastOpenFiles": [
+    "abnormal airway sounds.md",
+    "acute epiglottitis.md",
+    "vitals in children.md",
+    "bronchiolitis.md",
+    "croup.md",
+    "housekeeping/gp guidelines- paeds.md",
+    "red flags of sepsis in children.md",
+    "fever & sepsis.md",
     "uti.md",
     "sciatica.md",
     "pain ladder- neuropathic.md",
     "morphine breakthrough dose.md",
     "upper limb ortho problems.md",
-    "vitals in children.md",
     "aphthous ulcer.md",
     "housekeeping/rules for this vault.md",
     "incontinence- adult.md",
@@ -306,15 +345,8 @@
     "housekeeping/study tips.md",
     "housekeeping/gp guidelines- infectious diseases.md",
     "housekeeping/gp guidelines- dermat.md",
-    "housekeeping/gp guidelines- psych.md",
-    "psychiatric disorders.md",
-    "housekeeping/goal in managing a patient in GP setting..md",
     "attachments/breast cancer referral (summary image).png",
     "attachments/anticholinergic burden table.png",
-    "tricyclic antidepressants.md",
-    "paediatric milestones.md",
-    "housekeeping/gp guidelines- paeds.md",
-    "examination of children.md",
     "flow charts/haematuria.canvas",
     "desktop.ini",
     "flow charts/prostaglandins and leukotrienes.canvas",
