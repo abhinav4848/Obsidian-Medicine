@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pain ladder- neuropathic.md",
+                "file": "uti.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "pain ladder- neuropathic"
+              "title": "uti"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tramadol",
+                "query": "antibiotic",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pain ladder- neuropathic.md",
+                "file": "uti.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of pain ladder- neuropathic"
+              "title": "Graph of uti"
             }
           }
         ]
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pain ladder- neuropathic.md",
+                "file": "uti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pain ladder- neuropathic"
+              "title": "Backlinks for uti"
             }
           }
         ]

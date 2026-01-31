@@ -7,6 +7,9 @@ aliases:
   - cystitis
   - UTI
   - catheter-associated UTI
+urls:
+  - https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2015/05/LLR-Antimicrobial-Policy-and-Guidance-for-Primary-care.pdf
+  - https://web.archive.org/web/20230806064153/https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2015/05/LLR-Antimicrobial-Policy-and-Guidance-for-Primary-care.pdf
 ---
 # Investigation
 NICE: All women with macroscopic or microscopic haematuria with a suspected UTI, send MSU to confirm infection. This differs from guidance where haematuria is not present. 
