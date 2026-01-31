@@ -11,11 +11,8 @@ urls:
   - "[Leicester Antimicrobial guideline for Primary Care](https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2015/05/LLR-Antimicrobial-Policy-and-Guidance-for-Primary-care.pdf)"
   - "[Webarchive 2023 with clear flowcharts](https://web.archive.org/web/20230806064153/https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2015/05/LLR-Antimicrobial-Policy-and-Guidance-for-Primary-care.pdf)"
   - "[RCGP Learning on UTI + Patient Leaflet](https://elearning.rcgp.org.uk/mod/book/view.php?id=12652)"
+  - "[Gov.uk Diagnosis of urinary tract infections: quick reference tools for primary care](https://www.gov.uk/government/publications/urinary-tract-infection-diagnosis/diagnosis-of-urinary-tract-infections-quick-reference-tools-for-primary-care)"
 ---
-Recurrent UTI:
-- 2 episodes in last 6 months
-- 3 episodes in last 12 months
-
 # Investigation
 In women under <65yo, rule out vaginal & urethral causes of urinary symptoms:
 - vaginal discharge: 80% do not have UTI
@@ -27,13 +24,19 @@ Then think [[fever & sepsis|sepsis]] & [[pyelonephritis]].
 
 NICE: All women with macroscopic or microscopic haematuria with a suspected UTI, send MSU to confirm infection. This differs from guidance where haematuria is not present. 
 
-send a urine culture if: 
-- aged > 65 years  
+### Send a urine culture if: 
+[Gov.uk](https://www.gov.uk/government/publications/urinary-tract-infection-diagnosis/diagnosis-of-urinary-tract-infections-quick-reference-tools-for-primary-care#sending-urine-for-culture-and-interpreting-results-in-all-adults)
+- aged > 65 years 
+- pregnant
+- suspected pyelonephritis/sepsis
+- suspected UTI in men
+- Failed abx or persistent symptoms
+- recurrent UTI
+	- 2 episodes in last 6 months
+	- 3 episodes in last 12 months
 - visible or non-visible [[haematuria]]
-
-If infection was confirmed; Re-test the urine for blood with a dipstick after completing treatment to ensure that the haematuria resolves. 
-
-See [[cancer- urology|urological cancer]]. 
+	- If infection was confirmed; Re-test the urine for blood with a dipstick after completing treatment to ensure that the haematuria resolves. 
+	- See [[cancer- urology|urological cancer]]. 
 # Treatment
 Treat with Nitro/[[Trimethoprim]]. #abx
 

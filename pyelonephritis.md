@@ -5,11 +5,12 @@ aliases:
 tags:
   - nephrology
 ---
-# Causes of small kidney
-- Chronic pyelonephritis- history of repeated [[UTI]]s, stone, VUR -> renal scarring and [[hypertension]]. No proteinuria or [[haematuria]]. 
-- Chronic glomerulonephritis- third leading cause of [[chronic kidney disease|CKD]]. 
-- Bilateral renal artery stenosis
-- Hypertensive nephropathy
+# Clinical Features
+Suspect Pyelonephritis if:
+- kidney pain/tenderness in the back/under ribs
+- flu-like illness
+- nausea/vomiting
+- shaking chills (rigors), OR [[fever & sepsis|temp]] > 37.9C, or <36C
 # Investigation
 Imaging not needed normally.
 -> It's requested only in complicated cases: fever > 48 hrs. despite antibiotics, Recurrent episodes, Suspect stone, DM, Immunocompromised -> Do USS (it can't diagnose pyelonephritis, but can exclude Hydronephrosis, stones). 
@@ -31,3 +32,10 @@ if loin pain, etc. (upper UTI):
 	Broad spectrum Cephalosporin or quinolone (for [[drugs contraindicated in pregnancy|non pregnant women]]) for 10-14 days. Ciprofloxacin, Co-Amoxiclav  
  
 Start empirical therapy as soon as urine for C&S is sent.
+
+---
+# Causes of small kidney
+- Chronic pyelonephritis- history of repeated [[UTI]]s, stone, VUR -> renal scarring and [[hypertension]]. No proteinuria or [[haematuria]]. 
+- Chronic glomerulonephritis- third leading cause of [[chronic kidney disease|CKD]]. 
+- Bilateral renal artery stenosis
+- Hypertensive nephropathy

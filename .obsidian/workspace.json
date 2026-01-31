@@ -164,6 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "uti.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +192,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of uti"
             }
           }
         ]
@@ -303,6 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "uti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +314,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for uti"
             }
           }
         ]
@@ -332,8 +334,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "50e26ef315fb2716",
+  "active": "0526c746cba1bdd8",
   "lastOpenFiles": [
+    "pyelonephritis.md",
+    "fever & sepsis.md",
     "uti.md",
     "bronchiolitis.md",
     "cancer- urology.md",
@@ -343,7 +347,6 @@
     "croup.md",
     "housekeeping/gp guidelines- paeds.md",
     "red flags of sepsis in children.md",
-    "fever & sepsis.md",
     "sciatica.md",
     "pain ladder- neuropathic.md",
     "morphine breakthrough dose.md",
@@ -361,7 +364,6 @@
     "housekeeping/memorise.base",
     "housekeeping/important contact numbers for leicester.md",
     "housekeeping/study tips.md",
-    "housekeeping/gp guidelines- infectious diseases.md",
     "attachments/breast cancer referral (summary image).png",
     "attachments/anticholinergic burden table.png",
     "flow charts/haematuria.canvas",
