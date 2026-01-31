@@ -23,20 +23,6 @@
             }
           },
           {
-            "id": "e935616d01d022b1",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://web.archive.org/web/20230806064153/https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2015/05/LLR-Antimicrobial-Policy-and-Guidance-for-Primary-care.pdf",
-                "title": "Wayback Machine",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Wayback Machine"
-            }
-          },
-          {
             "id": "911234976ed86f62",
             "type": "leaf",
             "state": {
@@ -84,6 +70,20 @@
               },
               "icon": "globe-2",
               "title": "LLR-Antimicrobial-Policy-and-Guidance-for-Primary-care.pdf"
+            }
+          },
+          {
+            "id": "e935616d01d022b1",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://web.archive.org/web/20230806064153/https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2015/05/LLR-Antimicrobial-Policy-and-Guidance-for-Primary-care.pdf",
+                "title": "Wayback Machine",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Wayback Machine"
             }
           }
         ]
@@ -164,7 +164,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "uti.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of uti"
+              "title": "Graph view"
             }
           }
         ]
@@ -304,7 +303,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +312,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for uti"
+              "title": "Backlinks"
             }
           }
         ]
@@ -334,12 +332,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "0526c746cba1bdd8",
+  "active": "50e26ef315fb2716",
   "lastOpenFiles": [
-    "cancer- urology.md",
     "uti.md",
-    "abnormal airway sounds.md",
     "bronchiolitis.md",
+    "cancer- urology.md",
+    "abnormal airway sounds.md",
     "acute epiglottitis.md",
     "vitals in children.md",
     "croup.md",
