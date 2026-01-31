@@ -21,8 +21,23 @@
               "icon": "lucide-file",
               "title": "uti"
             }
+          },
+          {
+            "id": "e935616d01d022b1",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://web.archive.org/web/20230806064153/https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2015/05/LLR-Antimicrobial-Policy-and-Guidance-for-Primary-care.pdf",
+                "title": "Wayback Machine",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Wayback Machine"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +115,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "uti.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +142,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of uti"
+              "title": "Graph view"
             }
           }
         ]
@@ -240,7 +254,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +263,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for uti"
+              "title": "Backlinks"
             }
           }
         ]
@@ -270,8 +283,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "0526c746cba1bdd8",
+  "active": "e935616d01d022b1",
   "lastOpenFiles": [
+    "uti.md",
     "sciatica.md",
     "pain ladder- neuropathic.md",
     "morphine breakthrough dose.md",
@@ -301,7 +315,6 @@
     "paediatric milestones.md",
     "housekeeping/gp guidelines- paeds.md",
     "examination of children.md",
-    "haematuria.md",
     "flow charts/haematuria.canvas",
     "desktop.ini",
     "flow charts/prostaglandins and leukotrienes.canvas",
