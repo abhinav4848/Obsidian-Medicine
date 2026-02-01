@@ -70,18 +70,19 @@
             "id": "e935616d01d022b1",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://web.archive.org/web/20230806064153/https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2015/05/LLR-Antimicrobial-Policy-and-Guidance-for-Primary-care.pdf",
-                "title": "Wayback Machine",
-                "mode": "webview"
+                "file": "cancer- testes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "globe-2",
-              "title": "Wayback Machine"
+              "icon": "lucide-file",
+              "title": "cancer- testes"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cancer testicular",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -145,8 +146,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -159,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "newborn Infant physical examination.md",
+                "file": "cancer- testes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +187,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of newborn Infant physical examination"
+              "title": "Graph of cancer- testes"
             }
           }
         ]
@@ -299,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "newborn Infant physical examination.md",
+                "file": "cancer- testes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +309,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for newborn Infant physical examination"
+              "title": "Backlinks for cancer- testes"
             }
           }
         ]
@@ -329,17 +329,23 @@
       "graph:Open graph view": false
     }
   },
-  "active": "911234976ed86f62",
+  "active": "e935616d01d022b1",
   "lastOpenFiles": [
-    "abnormal airway sounds.md",
+    "gynaecomastia.md",
+    "cancer- testes.md",
+    "housekeeping/revise recent changes.base",
+    "uti.md",
     "newborn Infant physical examination.md",
-    "undescended testes.md",
+    "housekeeping/gp guidelines- infectious diseases.md",
+    "gp guideline- renal and urology.md",
+    "cancer- risk factors.md",
     "tumour marker.md",
+    "undescended testes.md",
+    "abnormal airway sounds.md",
     "diabetes- gestational.md",
     "afro-caribbean.md",
     "diabetes mellitus- diagnosis.md",
     "bronchiolitis.md",
-    "uti.md",
     "pyelonephritis.md",
     "fever & sepsis.md",
     "cancer- urology.md",
@@ -352,12 +358,6 @@
     "pain ladder- neuropathic.md",
     "morphine breakthrough dose.md",
     "upper limb ortho problems.md",
-    "aphthous ulcer.md",
-    "housekeeping/rules for this vault.md",
-    "incontinence- adult.md",
-    "panic attacks.md",
-    "duloxetine.md",
-    "housekeeping/revise recent changes.base",
     "housekeeping/memorise.base",
     "attachments/breast cancer referral (summary image).png",
     "attachments/anticholinergic burden table.png",

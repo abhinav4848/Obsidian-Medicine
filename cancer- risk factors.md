@@ -4,15 +4,18 @@ tags:
 aliases:
   - family history
 ---
-# [[cancer- ovarian|Ovarian cancer]], [[cancer- breast (treatment)|Breast Cancer]] 
-- Family history
-- [[COCP]] effect: [[cancer- drugs involved in gynae cancers#COCP & Cancer risk|COCP & cancer Risk]] 
+1. [[cancer- ovarian|Ovarian cancer]], [[cancer- breast (treatment)|Breast Cancer]] 
+	- Family history
+	- [[COCP]] effect: [[cancer- drugs involved in gynae cancers#COCP & Cancer risk|COCP & cancer Risk]] 
 
-# [[cancer- colorectal|Colorectal cancer]], [[cancer- prostate|Prostate Cancer]]
-- Age > Family history 
+2. [[cancer- colorectal|Colorectal cancer]], [[cancer- prostate|Prostate Cancer]]
+	- Age > Family history 
 
-# [[cancer- urology|bladder]], Laryngeal
-- [[Smoking]]. 
+3. [[cancer- urology|bladder]], Laryngeal
+	- [[Smoking]]. 
+
+4. [[cancer- testes|Testicular Cancer]]
+	- Family History
 
 ---
 *See [[afro-caribbean]]* 
