@@ -13,8 +13,8 @@ urls:
   - "[RCGP Learning on UTI + Patient Leaflet](https://elearning.rcgp.org.uk/mod/book/view.php?id=12652)"
   - "[Gov.uk Diagnosis of urinary tract infections: quick reference tools for primary care](https://www.gov.uk/government/publications/urinary-tract-infection-diagnosis/diagnosis-of-urinary-tract-infections-quick-reference-tools-for-primary-care)"
 ---
-# Investigation
-In women under <65yo, rule out vaginal & urethral causes of urinary symptoms:
+# Investigation 
+In women under <65yo, rule out vaginal & urethral causes of urinary symptoms: 
 - vaginal discharge: 80% do not have UTI
 - urethritis: Caused by irritation or inflammation
 - check sexual history and rule out UTI
