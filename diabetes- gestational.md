@@ -33,8 +33,10 @@ Give 75gm OGTT.
 | Fasting     | >= 5.6 mmol/L |
 | ----------- | ------------- |
 | 2 hour OGTT | >= 7.8        |
+These targets are lower than for DM because this is where the risk to fetus meaningfully increases. 
 
-![[diabetes mellitus- diagnosis#Diagnostic cutoff for DM (is transcluded)]]
+>[!tip]- Diagnostic cutoff for DM
+>![[diabetes mellitus- diagnosis#Diagnostic cutoff for DM (is transcluded)]]
 # Management of GDM
 once a woman has been diagnosed with gestational diabetes, she remains 'high risk for diabetes mellitus' for life and should receive a yearly HbA1c. 
 
@@ -58,5 +60,53 @@ For both pre-existing & GDM
 | Time               | Target      |
 | ------------------ | ----------- |
 | Fasting            | 5.3 mmol/l  |
-| 2 hour after meals | 6.4 mmol/l  |
-| 1 hour after meals | 7.8 mmol/l, |
+| 2 hours after meal | 6.4 mmol/l  |
+| 1 hour after meal  | 7.8 mmol/l, |
+
+---
+> [!quote]- Why is threshold for diagnosing GDM lower than diagnosing DM?
+> Short answer: **because pregnancy changes the risk–benefit maths**.
+> ### 1. Pregnancy is a “stress test” for glucose metabolism
+> - Placental hormones (hPL, progesterone, cortisol, growth hormone) → **physiological insulin resistance**
+> - Even **mild hyperglycaemia** can exceed what the placenta–fetus unit can safely buffer
+> 
+> So glucose levels that would be “acceptable” outside pregnancy can be **pathological in pregnancy**.
+> 
+> ---
+> ### 2. Fetal risk rises _continuously_ — not at diabetic cut-offs
+> Key concept (from **HAPO study**):
+> - There is **no clear glucose threshold** where risk suddenly appears
+> - Risks (macrosomia, shoulder dystocia, neonatal hypoglycaemia, C-section) **increase progressively** with maternal glucose
+> 
+> 👉 Therefore, diagnostic cut-offs for GDM are set **where fetal risk meaningfully increases**, not where maternal diabetes complications start.
+> 
+> ---
+> ### 3. Fetus is exposed to maternal glucose all the time
+> - Glucose crosses placenta freely
+> - Insulin does **not** cross placenta
+> - Fetal pancreas responds → **hyperinsulinaemia**
+> 
+> Even small maternal glucose rises →  
+> ➡️ ↑ fetal insulin →  
+> ➡️ ↑ fat deposition, organomegaly, post-birth hypoglycaemia
+> 
+> ---
+> ### 4. Maternal benefit of early diagnosis is high, harm is low
+> - Treatment = diet, exercise ± metformin/insulin
+> - Low risk interventions
+> - Big payoff: ↓ macrosomia, ↓ operative delivery, ↓ neonatal morbidity
+> 
+> So we accept **higher sensitivity** (lower threshold) in pregnancy.
+> 
+> ---
+> ### 5. Different purpose of thresholds
+> 
+> |Condition|Threshold designed to predict|
+> |---|---|
+> |**Diabetes mellitus**|Maternal microvascular & macrovascular complications|
+> |**Gestational diabetes**|Fetal & perinatal complications|
+> Hence **different cut-offs**.
+> 
+> ---
+> ### One-liner you can use in exams / teaching
+> _“GDM thresholds are lower because even mild hyperglycaemia in pregnancy increases fetal risk, whereas DM thresholds are based on maternal complications.”_
