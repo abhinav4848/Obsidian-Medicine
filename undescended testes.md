@@ -1,6 +1,10 @@
 ---
 tags:
   - paeds
+urls:
+  - https://cks.nice.org.uk/topics/undescended-testes/
+aliases:
+  - Cryptorchidism
 ---
 Occurs in around 2-3% of term male infants, but is much more common if the baby is preterm. Around 25% of cases are bilateral.
 
@@ -8,7 +12,7 @@ Occurs in around 2-3% of term male infants, but is much more common if the baby
 ## Complications of undescended testis 
 - infertility
 - torsion
-- testicular cancer (seminoma, germ cell tumor)
+- testicular cancer (seminoma, germ cell tumour)
 - psychological
 
 ## Management 

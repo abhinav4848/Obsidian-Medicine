@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diabetes- gestational.md",
+                "file": "newborn Infant physical examination.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "diabetes- gestational"
+              "title": "newborn Infant physical examination"
             }
           },
           {
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gestati",
+                "query": "cancer testicular",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -159,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "diabetes- gestational.md",
+                "file": "newborn Infant physical examination.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +187,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of diabetes- gestational"
+              "title": "Graph of newborn Infant physical examination"
             }
           }
         ]
@@ -299,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diabetes- gestational.md",
+                "file": "newborn Infant physical examination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +309,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for diabetes- gestational"
+              "title": "Backlinks for newborn Infant physical examination"
             }
           }
         ]
@@ -331,11 +331,14 @@
   },
   "active": "911234976ed86f62",
   "lastOpenFiles": [
-    "afro-caribbean.md",
+    "abnormal airway sounds.md",
+    "newborn Infant physical examination.md",
+    "undescended testes.md",
+    "tumour marker.md",
     "diabetes- gestational.md",
+    "afro-caribbean.md",
     "diabetes mellitus- diagnosis.md",
     "bronchiolitis.md",
-    "abnormal airway sounds.md",
     "uti.md",
     "pyelonephritis.md",
     "fever & sepsis.md",
@@ -354,9 +357,6 @@
     "incontinence- adult.md",
     "panic attacks.md",
     "duloxetine.md",
-    "depression.md",
-    "anticholinergics.md",
-    "ssri.md",
     "housekeeping/revise recent changes.base",
     "housekeeping/memorise.base",
     "attachments/breast cancer referral (summary image).png",
