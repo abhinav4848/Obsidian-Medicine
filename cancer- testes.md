@@ -30,7 +30,8 @@ Most Testicular cancers are:
 # Clinical Features
 - Painless lump, hard, irregular, not fluctuant, can't transilluminate
 - Pain in minority
-- Hydrocele- can be the first sign of cancer
+- Hydrocele- can be the first sign of cancer.
+	- new hydroceles in males aged 20-40 years old must be investigated by way of urgent scrotal ultrasound.
 - [[gynaecomastia]]
 	- This is due to high E:A ration
 	- germ-cell tumours → hCG → Leydig cell dysfunction → increases in both oestradiol and testosterone production, but rise in oestradiol is relatively greater than testosterone
