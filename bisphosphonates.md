@@ -7,10 +7,10 @@ aliases:
   - bisphosphonate
 ---
 ![[calcium metabolism related topics]]
-# Indication
+# Indication 
 - prevention and treatment of [[osteoporosis]]
 - [[hypercalcemia|hypercalcaemia]]
-- [[paget's disease of bone]] 
+- [[Paget's disease of bone]] 
 - pain from bone metastases
 # Treatment
 ![[osteoporosis#Treatment of Osteoporosis (is linked)]]
