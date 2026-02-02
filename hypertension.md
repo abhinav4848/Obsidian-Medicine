@@ -10,7 +10,7 @@ See [NICE CKS Chart](https://www.nice.org.uk/guidance/ng136/resources/visual-sum
 See Canvas: [[hypertension management.canvas|hypertension management]]
 For Pre-eclampsia, see: [[hypertension in pregnancy]]
 
-# AcceleratedHTN
+# Accelerated HTN
 Accelerated (or malignant) hypertension is a severe increase in blood pressure to 180/120 mmHg or higher (and often over 220/120 mmHg) with signs of retinal haemorrhage and/or [[papilledema]] (swelling of the optic nerve). 
 
 ## End organ damage
@@ -30,9 +30,11 @@ We investigate with
 # How to manage a patient in GP with hypertension
 - Do 3 readings in the surgery, if coding just one, code the highest reading. 
 - if BP is up to stage 2, ask to do a 7-day home BP reading. 
+	- if BP stage 3 with no previous noted high BP, go to A&E and optician. 
 - Check eGFR, if only an old reading is available, which is not reliable anymore do new set of bloods including Renal function. 
 - Also do ECG, [[chronic kidney disease|urine ACR]], [[retinopathy|ophthalmoscopy]]. 
 	- Can do urine dipstick for RBC & protein
+	- ECG for LVH. 
 - If starting Ramipril, ask to come back in 3 weeks for a blood test to check eGFR & then do a home BP reading for a week and drop it off prior to the consultation.
 - If bloodwork fine, continue with Ramipril. 
 - If before starting treatment, you note the most recent eGFR low, start with Amlodipine. 

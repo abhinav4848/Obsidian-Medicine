@@ -72,13 +72,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bisphosphonates.md",
+                "file": "spironolactone.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "bisphosphonates"
+              "title": "spironolactone"
             }
           },
           {
@@ -130,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bisphos",
+                "query": "spironolact",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -161,7 +161,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -174,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "bisphosphonates.md",
+                "file": "spironolactone.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of bisphosphonates"
+              "title": "Graph of spironolactone"
             }
           }
         ]
@@ -314,7 +315,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bisphosphonates.md",
+                "file": "spironolactone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,7 +325,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bisphosphonates"
+              "title": "Backlinks for spironolactone"
             }
           }
         ]
@@ -346,15 +347,19 @@
   },
   "active": "e935616d01d022b1",
   "lastOpenFiles": [
+    "flow charts/hypertension management.canvas",
+    "hypertension.md",
+    "spironolactone.md",
+    "motor neurone disease.md",
+    "calcium metabolism related topics.md",
+    "bisphosphonates.md",
     "hyperparathyroidism.md",
     "osteomalacia.md",
     "vitamin-d.md",
-    "calcium metabolism related topics.md",
     "biochemical differences in different ortho conditions.md",
     "paget's disease of bone.md",
     "osteoporosis.md",
     "calcium.md",
-    "bisphosphonates.md",
     "plaque psoriasis.md",
     "hypocalcemia.md",
     "psoriasis.md",
@@ -368,10 +373,6 @@
     "gonorrhoea.md",
     "chlamydia.md",
     "hrt.md",
-    "contraceptives in emergency.md",
-    "contraceptives for bleeding reduction.md",
-    "statistics- parametric tests.md",
-    "scoring system.md",
     "housekeeping/revise recent changes.base",
     "housekeeping/memorise.base",
     "attachments/breast cancer referral (summary image).png",
@@ -380,7 +381,6 @@
     "desktop.ini",
     "flow charts/prostaglandins and leukotrienes.canvas",
     "flow charts/paeds examination.canvas",
-    "flow charts/hypertension management.canvas",
     "Clippings",
     "attachments/ng254- suspected-sepsis-managing-and-evaluating-risk-all-settings-pdf-15494830813.pdf",
     "attachments/ng254- evaluating-risk-of-severe-illness-or-death-in-all-settings-children-under-5-pdf-15494513294.pdf",
