@@ -29,6 +29,7 @@ ACE inhibitor, Alcohol, Anti-malarial (HCQ), [[beta adrenergic receptors|beta bl
 Based on shape: Plaque, [[Guttate psoriasis]] (oil drop)
 # Treatment 
 Regular [[emollients]] may help reduce scale loss & reduce itching
+## Primary Care
 ### Initial 
 Combination of both
 - Topical [[corticosteroid|corticosteroids]] (Betamethasone) OD, and
@@ -58,7 +59,8 @@ if no improvement:
 - Short acting Dithranol can also be used. 
 	- Dithranol stains clothes & can be messy. 
 ## Secondary care
-**Phototherapy**: UVB or (UVA + [[psoralen]]) 3x a week, s/e SCC (not melanoma)
+**Phototherapy**: UVB or (UVA + [[psoralen]]) 3x a week, s/e SCC (not melanoma). 
+	First line for mod-severe plaque psoriasis. 
 **Systemic**: Oral Methotrexate, Oral retinoids, Calcineurin inhibitors (Cyclosporine, tacrolimus). 
 	Calcineurin inhibitors- Cyclosporine, tacrolimus. These medications are used to suppress the immune system in various conditions, such as organ transplants and inflammatory diseases.
 **Biologics**: infliximab, etanercept and adalimumab

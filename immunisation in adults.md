@@ -20,8 +20,8 @@ Usually a one-off but every 5 years if spleen/CKD.
 
 ### Conditions to give the vaccine
 
-| Condition                                      | Details / Notes                                                                                                            | Vaccine Frequency / Special Considerations                             |
-| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Condition                                          | Details / Notes                                                                                                            | Vaccine Frequency / Special Considerations                             |
+| -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | **Spleen**                                         | Splenectomy / Asplenia / Splenic dysfunction                                                                               | Every 5 years                                                          |
 | **Chronic respiratory disease**                    | [[COPD]], [[bronchiectasis]], [[cystic fibrosis]], [[interstitial lung disease vs pneumonitis\|interstitial lung disease]] | –                                                                      |
 | **– Asthma**                                       | Only if oral steroids at immunosuppressive dose                                                                            | Influenza vaccine if using inhaled steroids                            |
