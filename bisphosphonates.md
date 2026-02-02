@@ -7,20 +7,13 @@ aliases:
   - bisphosphonate
 ---
 # Indication
-- prevention and treatment of osteoporosis
-- hypercalcaemia
-- Paget's disease
+- prevention and treatment of [[osteoporosis]]
+- [[hypercalcemia|hypercalcaemia]]
+- [[paget's disease of bone]] 
 - pain from bone metastases
+# Treatment
+![[osteoporosis#Treatment of Osteoporosis (is linked)]]
 
-# Things to consider %%is embedded%%
-- Hypocalcaemia/vitamin D deficiency should be corrected before giving bisphosphonates. 
-	- Zoledronate and denosumab both suppress osteoclast activity. If calcium intake/absorption is already low due to vitamin D deficiency, serum calcium can drop dangerously once bone resorption is blocked. 
-- When starting bisphosphonate treatment for [[osteoporosis]], [[vitamin-d]] supplements are normally given when starting bisphosphonates
-	-  [[osteoporosis#Calcium Supplementation (is linked)|Calcium]] should only be prescribed if dietary intake is inadequate. 
-	- Hypocalcemia/vitamin D deficiency should be corrected before giving bisphosphonates
-
-# Calcium supplementation
-![[osteoporosis#Things to consider (is linked)]]
 # Alendronate dosage
 10mg OD, or 70mg once weekly. 
 No monthly regimen. 
@@ -34,9 +27,7 @@ Don’t take calcium & vit D for 4 hrs after Alendronic acid.
 
 If esophagitis, review -> Risk of oropharyngeal ulcers.
 Dyspepsia common in first month. 
-
-### Review of alendronate usage
-- See [[osteoporosis]]
+## Review of alendronate usage
 ##### Duration of usage
 The duration of bisphosphonate treatment varies according to the level of risk. 
 - Low risk of #: review after 3-5 years
@@ -44,7 +35,7 @@ The duration of bisphosphonate treatment varies according to the level of risk.
 
 Some authorities recommend stopping bisphosphonates at 5 years if the following apply:  
 - patient is < 75-years-old
-- femoral neck T-score of > -2.5
+- femoral neck T-score of > -2.5  (see [[osteoporosis]])
 - low risk according to FRAX/NOGG
 # Adverse effects
 - Oesophageal reactions: advise patients to sit/stand upright when taking it. For 30 mins before food.

@@ -80,6 +80,20 @@
               "icon": "lucide-file",
               "title": "osteoporosis"
             }
+          },
+          {
+            "id": "e83bbff02f8d3023",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2015/05/Final-Osteoporosis-guidelines.pdf",
+                "title": "Leicestershire Guidelines for Osteoporosis",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Leicestershire Guidelines for Osteoporosis"
+            }
           }
         ],
         "currentTab": 4
@@ -183,7 +197,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.27268598420438855,
+                  "scale": 0.7514341907183558,
                   "close": true
                 }
               },
@@ -332,9 +346,11 @@
   },
   "active": "e935616d01d022b1",
   "lastOpenFiles": [
-    "bisphosphonates.md",
     "osteoporosis.md",
+    "bisphosphonates.md",
+    "paget's disease of bone.md",
     "plaque psoriasis.md",
+    "vitamin-d.md",
     "hypocalcemia.md",
     "psoriasis.md",
     "immunisation in adults.md",
@@ -357,8 +373,6 @@
     "housekeeping/revise recent changes.base",
     "uti.md",
     "newborn Infant physical examination.md",
-    "housekeeping/gp guidelines- infectious diseases.md",
-    "gp guideline- renal and urology.md",
     "housekeeping/memorise.base",
     "attachments/breast cancer referral (summary image).png",
     "attachments/anticholinergic burden table.png",

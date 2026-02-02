@@ -13,7 +13,7 @@ Group of people with higher risk of vitamin D deficiency:
 - all pregnant and breastfeeding women should take a daily supplement containing 10µg of vitamin D
 - all children aged 6 months - 5 years. Babies fed with formula milk do not need to take a supplement if they are taking more than 500ml of milk a day, as formula milk is fortified with vitamin D
 - adults > 65 years
-- 'people who are not exposed to much sun should also take a daily supplement' e.g. housebound patients
+- 'people who are not exposed to much sun should also take a daily supplement' e.g. housebound patients, nursing home patients. 
 # Testing
 Not many people warrant a vitamin D test. Testing may be appropriate in the following situations: 
 - patients with bone diseases that may be improved with vitamin D treatment e.g. known osteomalacia or [[Paget's disease of bone]]
