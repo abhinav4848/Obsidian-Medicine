@@ -2,7 +2,7 @@
 tags:
   - stats
 urls:
-  - https://chatgpt.com/share/6934f4bf-00b0-8012-86e9-bac790ddff7d
+  - https://chatgpt.com/share/697feb75-5aec-8012-9b56-8446cce9d893
 ---
 # Parametric tests
 Normally distributed (the classic bell curve). 
@@ -28,6 +28,24 @@ Might be skewed, have outliers, or be based on ranks/ categories. e.g. Pain scor
 | Wilcoxon signed-rank test                                                         | compares two sets of observations on a single sample (paired), e.g. a 'before' and 'after' test on the same population following an intervention.                                                    |
 | chi-squared test                                                                  | used to compare proportions or percentages e.g. compares the percentage of patients who improved following two different interventions                                                               |
 | Spearman rank, <br>Kendall rank correlation coefficient, aka<br>Kendall's τ (tau) | correlation (Correlation = seeing if two numbers move together)                                                                                                                                      |
+| McNemar's test                                                                    | used to analyse paired nominal data that is non-parametric                                                                                                                                           |
+
+---
+# Correlation Coefficient
+A **single number** that tells you:
+- **Direction** (positive or negative)
+- **Strength** (how tightly related)
+### Range
+`-1 to +1`
+
+| Value | Meaning                       |
+| ----- | ----------------------------- |
+| +1    | Perfect positive relationship |
+| 0     | No relationship               |
+| -1    | Perfect negative relationship |
+### Examples
+- Height vs weight → positive correlation
+- Exercise vs resting heart rate → negative correlation
 
 ---
 # Correlation (relationship between two variables)
