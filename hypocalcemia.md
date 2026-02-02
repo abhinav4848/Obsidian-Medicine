@@ -1,6 +1,8 @@
 ---
 tags:
   - endocrine
+aliases:
+  - hypocalcaemia
 ---
 *See [[hypercalcemia]].*
 causes- Tingling, numbness, paresthesia, involuntary spasm.
