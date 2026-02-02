@@ -30,15 +30,20 @@ Mirena (LNG-IUS)
 - It contains levonorgestrel (progesterone)
 - It prevents endometrial proliferation (reducing blood loss by >90%) & thickens cervical mucus.
 - IUS alleviates symptoms of Endometriosis, Adenomyosis, Fibroids.
-- IUS is a major risk factor for PID (Chlamydia, Gonorrhoea).
+- IUS is a major risk factor for PID ([[chlamydia|Chlamydia]], [[Gonorrhoea]]).
 - Has lowest failure rate (even less than lap tubal sterilization). 
 - Can have initial irregular bleed but should settle by 3-6 months. 
 - The proportion of pregnancies that are ectopic is increased but the absolute number of ectopic pregnancies is reduced, compared to a woman not using contraception. 
 	- If a woman is using contraception, she has fewer pregnancies overall.  
 	- Among those pregnancies that _do_ happen, a slightly higher fraction might be ectopic.
+- Expulsion risk: 1 in 20
 ##### Validity
-- Mirena is licensed for 8 years (or until age 55 if fitted after age 45)
-- if used as endometrial protection for women taking oestrogen-only [[hrt|Hormone Replacement Therapy]] they are only licensed for 5 years
+
+| IUS Type    | Licensed Duration                            | LNG Content | Size / Inserter                       | Notes                                                                                 |
+| ----------- | -------------------------------------------- | ----------- | ------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Mirena**  | 8 years (or until age 55 if fitted after 45) | 52 mg       | Standard                              | If used for endometrial protection with oestrogen-only [[HRT]] → licensed for 5 years |
+| **Jaydess** | 3 years                                      | 13.5 mg     | Smaller frame, narrower inserter tube | Lower serum LNG levels than Mirena                                                    |
+| **Kyleena** | 5 years                                      | 19.5 mg     | Smaller than Mirena                   | Lower serum LNG levels than Mirena; rate of amenorrhoea is less than Mirena           |
 ### IUD (Copper-T)
 - Cu-T decreases sperm motility and survival.
 - Copper IUDs typically make periods heavier, longer and more painful

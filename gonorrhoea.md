@@ -3,6 +3,7 @@ tags:
   - gynae
 aliases:
   - Neisseria gonorrhoea
+  - Gonorrhoea
 ---
 *See [[gynaecological infections#Neisseria gonorrhoea (C for C) mnemonic|Gynaecological infections]].* 
 # Treatment

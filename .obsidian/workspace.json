@@ -72,13 +72,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contraceptives.md",
+                "file": "vaccine types.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "contraceptives"
+              "title": "vaccine types"
             }
           }
         ],
@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mirena",
+                "query": "vaccine",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,8 +146,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -160,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "contraceptives.md",
+                "file": "vaccine types.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +187,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of contraceptives"
+              "title": "Graph of vaccine types"
             }
           }
         ]
@@ -300,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contraceptives.md",
+                "file": "vaccine types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,7 +309,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for contraceptives"
+              "title": "Backlinks for vaccine types"
             }
           }
         ]
@@ -332,8 +331,16 @@
   },
   "active": "e935616d01d022b1",
   "lastOpenFiles": [
-    "hrt.md",
+    "immunisation in adults.md",
+    "vaccine types.md",
+    "diabetes treatment.md",
+    "diabetes mellitus- diagnosis.md",
+    "cirrhosis.md",
+    "pneumonia.md",
     "contraceptives.md",
+    "gonorrhoea.md",
+    "chlamydia.md",
+    "hrt.md",
     "contraceptives in emergency.md",
     "osteoporosis.md",
     "contraceptives for bleeding reduction.md",
@@ -351,14 +358,6 @@
     "tumour marker.md",
     "undescended testes.md",
     "abnormal airway sounds.md",
-    "diabetes- gestational.md",
-    "afro-caribbean.md",
-    "diabetes mellitus- diagnosis.md",
-    "bronchiolitis.md",
-    "pyelonephritis.md",
-    "fever & sepsis.md",
-    "cancer- urology.md",
-    "acute epiglottitis.md",
     "housekeeping/memorise.base",
     "attachments/breast cancer referral (summary image).png",
     "attachments/anticholinergic burden table.png",

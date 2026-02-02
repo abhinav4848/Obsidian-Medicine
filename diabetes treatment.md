@@ -4,11 +4,15 @@ tags:
   - endocrine
 aliases:
   - Diabetes Mellitus
+  - DM-2
+  - DM
 urls:
   - https://www.nice.org.uk/guidance/ng28
 ---
 HbA1c target < 48 (i.e. Pre-diabetic levels are acceptable)
 	*See [[diabetes mellitus- diagnosis]]*
+
+---
 # Treatment based on target levels
 If new diagnosis: Lifestyle advice
 	**Exercise**: 30 mins moderate intensity physical activity 5 times/week.

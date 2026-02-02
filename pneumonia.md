@@ -105,7 +105,8 @@ Productive cough, fever, chest tightness.
 Especially associated with high fever, rapid onset and herpes labialis
 A vaccine to pneumococcal is available. 
 ### Vaccination
-The pneumococcal vaccine is routinely offered to infants, those aged > 65, and patients with other health conditions that put them at high risk. #vaccine 
+[UK.gov Green Book](https://www.gov.uk/government/publications/pneumococcal-the-green-book-chapter-25), [[immunisation in adults|adult vaccination]] 
+The pneumococcal vaccine is routinely offered to infants, those aged > 65, and patients with other health conditions that put them at high risk. e.g. Asthmatic requiring steroids at doses high enough to cause immunosuppression. #vaccine 
 
 ---
 # 10. Community Acquired Pneumonia %%is linked%%
