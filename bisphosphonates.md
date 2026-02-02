@@ -6,6 +6,7 @@ aliases:
   - alendronic acid
   - bisphosphonate
 ---
+![[calcium metabolism related topics]]
 # Indication
 - prevention and treatment of [[osteoporosis]]
 - [[hypercalcemia|hypercalcaemia]]

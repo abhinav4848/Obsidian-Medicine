@@ -3,11 +3,14 @@ tags:
   - pharmacology
 aliases:
   - vit D
-  - vitamin-D
   - vit-D
   - Vitamin D
+urls:
+  - "[Leicester Vit D guidance](https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2019/05/Vitamin-d-guide-1.pdf)"
 ---
 Vit D helps absorb [[calcium]] from the gut. 
+
+![[calcium metabolism related topics]]
 # Who needs supplementation?
 Group of people with higher risk of vitamin D deficiency: 
 - all pregnant and breastfeeding women should take a daily supplement containing 10µg of vitamin D

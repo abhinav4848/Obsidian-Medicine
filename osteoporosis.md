@@ -5,6 +5,7 @@ urls:
   - "[LMSG guidance on Osteoporosis](https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/search/?_search_terms=osteoporosis)"
   - https://bnf.nice.org.uk/treatment-summaries/osteoporosis/
 ---
+![[calcium metabolism related topics]]
 # What can cause low calcium
 1. Long term use of [[corticosteroid|steroids]] can cause osteoporosis and make teeth lose. So do DEXA for them.
 2. **Other drugs**: PPIs, Glitazones, SSRIs, Antiepileptics, Long term Heparin, aromatase inhibitors: Anastrozole (prevents formation of Oestrogen).
@@ -29,6 +30,6 @@ If h/o # or risk assessment > 10%, use DEXA (to obtain the T-score).
 
 ---
 # Vit D
-When starting Vit D, The National Osteoporosis Society suggests checking serum calcium at one month (can unmask [[hyperparathyroidism]]). Vitamin D levels do not need routinely checked after commencing replacement. 
+When starting [[vitamin-d|Vitamin D]], The National Osteoporosis Society suggests checking serum calcium at one month (can unmask [[hyperparathyroidism]]). Vitamin D levels do not need routinely checked after commencing replacement. 
 
 ![[hyperparathyroidism#Vit D can unmask hyperparathyroidism (is transcluded)]]

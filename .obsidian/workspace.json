@@ -72,27 +72,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "osteoporosis.md",
+                "file": "bisphosphonates.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "osteoporosis"
+              "title": "bisphosphonates"
             }
           },
           {
-            "id": "e83bbff02f8d3023",
+            "id": "36e66c1e3bda316f",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2015/05/Final-Osteoporosis-guidelines.pdf",
-                "title": "Leicestershire Guidelines for Osteoporosis",
-                "mode": "webview"
+                "file": "calcium metabolism related topics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "globe-2",
-              "title": "Leicestershire Guidelines for Osteoporosis"
+              "icon": "lucide-file",
+              "title": "calcium metabolism related topics"
             }
           }
         ],
@@ -160,8 +161,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -174,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "osteoporosis.md",
+                "file": "bisphosphonates.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +202,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of osteoporosis"
+              "title": "Graph of bisphosphonates"
             }
           }
         ]
@@ -314,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "osteoporosis.md",
+                "file": "bisphosphonates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,7 +324,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for osteoporosis"
+              "title": "Backlinks for bisphosphonates"
             }
           }
         ]
@@ -346,11 +346,16 @@
   },
   "active": "e935616d01d022b1",
   "lastOpenFiles": [
-    "osteoporosis.md",
-    "bisphosphonates.md",
-    "paget's disease of bone.md",
-    "plaque psoriasis.md",
+    "hyperparathyroidism.md",
+    "osteomalacia.md",
     "vitamin-d.md",
+    "calcium metabolism related topics.md",
+    "biochemical differences in different ortho conditions.md",
+    "paget's disease of bone.md",
+    "osteoporosis.md",
+    "calcium.md",
+    "bisphosphonates.md",
+    "plaque psoriasis.md",
     "hypocalcemia.md",
     "psoriasis.md",
     "immunisation in adults.md",
@@ -367,12 +372,7 @@
     "contraceptives for bleeding reduction.md",
     "statistics- parametric tests.md",
     "scoring system.md",
-    "statistics- risk reduction, nnt, odds ratio.md",
-    "cancer- testes.md",
-    "gynaecomastia.md",
     "housekeeping/revise recent changes.base",
-    "uti.md",
-    "newborn Infant physical examination.md",
     "housekeeping/memorise.base",
     "attachments/breast cancer referral (summary image).png",
     "attachments/anticholinergic burden table.png",

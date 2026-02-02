@@ -5,6 +5,8 @@ aliases:
   - rickets
   - vit D deficiency
 ---
+![[calcium metabolism related topics]]
+
 Literally means "soft bones".
 Called rickets in children, osteomalacia in adults. 
 # Pathophysiology

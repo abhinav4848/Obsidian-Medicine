@@ -2,6 +2,7 @@
 tags:
   - endocrine
 ---
+![[calcium metabolism related topics]]
 # CKD & PO4
 PTH is phosphaturic -> prevents resorption, but kidneys must excrete PO4 first for PTH to even prevent resorption-> CKD kidneys can't excrete PO4 so all calcium gets used up in Ca3(PO4)2.
 
