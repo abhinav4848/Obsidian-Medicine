@@ -6,7 +6,7 @@ tags:
   - gynae
   - hormone
 urls:
-  - https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2022/06/Menopause-and-HRT-guideline.pdf
+  - "[LMSG- Menopause & HRT Guideline](https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2022/06/Menopause-and-HRT-guideline.pdf)"
 ---
 *See: [[hrt- negatives|negatives & cautions with HRT]]* 
 
@@ -48,7 +48,7 @@ Doesn't need it:
 	- Oestrogen-only pill, patch or spray + Mirena (other IUSs not licensed for endometrial protection).
 	- Combined hormonal contraception (if eligible).
 	- Sequential combined HRT (pill or patch or spray) + progestogen-only contraception (tablet, implant, injection)- because the dose of progesterone needed for ovulation suppression is a lot more than the dose available in HRT. i.e. HRT doses are not contraceptive. 
-	- If amenorrhoeic with progestogenic contraception: consider Mirena
+	- If amenorrhoeic with progestogenic contraception: consider [[contraceptives|Mirena]]
 		- If Mirena is not suitable, refer to the complex menopause clinic. 
 	- If hormonal contraception declined: advise barrier methods with sequential combined HRT.
 

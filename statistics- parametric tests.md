@@ -22,13 +22,23 @@ Because it's well-behaved mathematically, we can use more powerful statistical t
 Does not follow a normal distribution. 
 Might be skewed, have outliers, or be based on ranks/ categories. e.g. Pain score (0-10), Likert scales, time to recovery. 
 
-|                                                                                   |                                                                                                                                                                                                      |
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mann–Whitney U test                                                               | comparing ranked scores. This is for non-parametric data and compares ordinal, interval, or ratio scales of unpaired data. <br>	- e.g. Scale like 'Never', 'Rarely', 'Sometimes', 'Often', 'Always'. |
-| Wilcoxon signed-rank test                                                         | compares two sets of observations on a single sample (paired), e.g. a 'before' and 'after' test on the same population following an intervention.                                                    |
-| chi-squared test                                                                  | used to compare proportions or percentages e.g. compares the percentage of patients who improved following two different interventions                                                               |
-| Spearman rank, <br>Kendall rank correlation coefficient, aka<br>Kendall's τ (tau) | correlation (Correlation = seeing if two numbers move together)                                                                                                                                      |
-| McNemar's test                                                                    | used to analyse paired nominal data that is non-parametric                                                                                                                                           |
+|                                                                                   |                                                                                                                                                                                                        |
+| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Mann–Whitney U test                                                               | comparing ranked scores. This is for non-parametric data and compares `ordinal, interval, or ratio scales` of unpaired data. <br>	- e.g. Scale like 'Never', 'Rarely', 'Sometimes', 'Often', 'Always'. |
+| Wilcoxon signed-rank test                                                         | compares two sets of observations on a single sample (paired), e.g. a 'before' and 'after' test on the same population following an intervention. `Ordinal Paired`                                     |
+| chi-squared test                                                                  | used to compare proportions or percentages in `nominal unpaired` e.g. compares the percentage of patients who improved following two different interventions                                           |
+| Spearman rank, <br>Kendall rank correlation coefficient, aka<br>Kendall's τ (tau) | correlation (Correlation = seeing if two numbers move together)                                                                                                                                        |
+| McNemar's test                                                                    | used to analyse nominal paired data that is non-parametric.                                                                                                                                            |
+### Nominal Data
+**Categories with NO natural order** (Nominal = _name only_)
+e.g. Blood group, eye colour, diagnosis type.
+### Ordinal data
+Categories with order
+e.g. Mild, moderate, severe
+
+### Paired Nominal data
+e.g. Smoking status before and after an intervention
+Data is nominal (smoker/non-smoker), Observation is paired (before and after on the same person)
 
 ---
 # Correlation Coefficient

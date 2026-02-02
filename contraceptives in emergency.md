@@ -6,6 +6,7 @@ aliases:
   - Emergency contraception
   - Levonorgestrel as emergency contraceptive
 ---
+# Emergency Contraceptives
 - Levonorgestrel (Levonelle 1500mcg) and Ulipristal acetate (EllaOne) are progesterone-only emergency contraceptives that can be used after [[time for action of contraceptives|day 21 postpartum]].
 - Both can be used more than once during a menstrual cycle. Don’t combine them (no concomitant use).
 - After ovulation, only IUD is reliable.

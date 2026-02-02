@@ -4,9 +4,9 @@ tags:
   - hormone
 ---
 # Sickle cell disease + Menorrhagia
-[[contraceptives|Depo Provera]] (DMPA)
-POP & IUS are next choice for SCD.
-Don't give COCP/IUD in SCD.
+- [[contraceptives|Depo Provera]] (DMPA)
+- POP & IUS are next choice for SCD.
+- Don't give COCP/IUD in SCD.
 
 # Migraine with Aura
 - IUCD & barrier methods (UKMEC 1)
@@ -24,3 +24,7 @@ Don't give COCP/IUD in SCD.
 - Fibroid distorting Uterine cavity:
 	- COCP/POP/Implants (< 20, no long contraception needed, no c/I to COCP)
 	- Implant e.g. Nexplanon (Fibroid distorting uterine cavity)
+
+
+# COCP c/i +/- Menstrual problems (e.g. Menorrhagia)
+- 
