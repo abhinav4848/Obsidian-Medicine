@@ -11,7 +11,7 @@ aliases:
 
 ***[[Polymyositis]]**: Raised CK & ALP -> Could walk before, can't walk now.*
 
-![[polymyositis#Differences in conditions affecting muscles]]
+![[polymyositis#Differences in conditions affecting muscles is linked]]
 
 ---
 PMR is an inflammatory condition causing pain and stiffness to shoulder/neck & pelvic girdle. 

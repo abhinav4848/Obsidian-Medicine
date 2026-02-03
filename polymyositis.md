@@ -9,7 +9,7 @@ has weakness. Could walk before, can't walk now.
 #mnemonic: jo goes to gym to build (muscles), and takes creatine supplements. (Has high CK)
 Myositis can be caused by [[statins]]. 
 
-### Differences in conditions affecting muscles
+### Differences in conditions affecting muscles %%is linked%%
 
 | **Name**                                     | Proximal muscle weakness seen? | ESR | CK  |
 | ---------------------------------------- | ------------------------------ | --- | --- |

@@ -29,8 +29,8 @@ Calcium levels should be monitored after commencing [[vitamin-d]] because it can
 | Malignant | Parathyroid-related protein (PTHrP) is produced by some [[cancer- lung#Paraneoplastic syndrome from Squamous cell carcinoma\|squamous cell lung cancers]] & breast and renal cell carcinomas. <br><br>This mimics PTH resulting in inc Ca2+ (PTH is low, as PTHrP is not detected in the assay) | low         | High                                                                                                       |                                  |          |
 
 
-*See: [[paget's disease of bone]].*
-*See: [[biochemical differences in different ortho conditions|this for more comparison]]*
+*See: [[paget's disease of bone]].* 
+*See: [[biochemical differences in different ortho conditions|this for more comparison]]* 
 
 # Treatment
 if mild primary hyperparathyroidism -> advise to increase fluid to prevent stones. Avoid Thiazides/high calcium intake. 
