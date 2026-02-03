@@ -87,17 +87,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calcium metabolism related topics.md",
+                "file": "hyperparathyroidism.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "calcium metabolism related topics"
+              "title": "hyperparathyroidism"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "upper limb ortho problems.md",
+                "file": "hyperparathyroidism.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of upper limb ortho problems"
+              "title": "Graph of hyperparathyroidism"
             }
           }
         ]
@@ -315,7 +315,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "upper limb ortho problems.md",
+                "file": "hyperparathyroidism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for upper limb ortho problems"
+              "title": "Backlinks for hyperparathyroidism"
             }
           }
         ]
@@ -345,8 +345,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e935616d01d022b1",
+  "active": "36e66c1e3bda316f",
   "lastOpenFiles": [
+    "calcium metabolism related topics.md",
+    "vitamin-d.md",
+    "upper limb ortho problems.md",
     "vertigo- test & causes.md",
     "hearing loss.md",
     "audiograms.md",
@@ -354,11 +357,9 @@
     "flow charts/hypertension management.canvas",
     "hypertension.md",
     "motor neurone disease.md",
-    "calcium metabolism related topics.md",
     "bisphosphonates.md",
     "hyperparathyroidism.md",
     "osteomalacia.md",
-    "vitamin-d.md",
     "biochemical differences in different ortho conditions.md",
     "paget's disease of bone.md",
     "osteoporosis.md",
@@ -373,7 +374,6 @@
     "cirrhosis.md",
     "pneumonia.md",
     "contraceptives.md",
-    "gonorrhoea.md",
     "housekeeping/revise recent changes.base",
     "housekeeping/memorise.base",
     "attachments/breast cancer referral (summary image).png",
