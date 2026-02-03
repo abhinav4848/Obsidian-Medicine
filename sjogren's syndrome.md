@@ -12,7 +12,7 @@ Autoimmune destruction of exocrine glands, causing dryness of salivary and lacri
 - dry mouth
 - dry skin, nose, dyspareunia, fatigue
 - Others: arthralgia, Raynaud, Peripheral neuropathy, [[interstitial lung disease vs pneumonitis|ILD]], Renal tubular acidosis
-# Investigation
+# Investigation 
 Schirmer test, Rose Bengal stain for corneal ulcer, Rheumatoid factor +ve.
 Anti Ro (SSA), Anti La (SSB) [[antibodies]]. 
 # Complication
