@@ -20,6 +20,8 @@ ALT > AST
 - [[abdominal pain|RUQ pain]] 
 Questions may point to risk-factors such as foreign travel or intravenous drug use. 
 
+*See [[post exposure prophylaxis]]*. 
+
 ---
 # Drug-induced hepatitis
 Co-amoxiclav (Amoxicillin + clavulanic acid) can cause hepatitis especially in people with deteriorated liver functions such as in chronic alcoholics
