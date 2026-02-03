@@ -8,6 +8,10 @@ aliases:
   - Cholesteatoma
   - Presbycusis
 ---
+*See [[vertigo- test & causes|Vertigo]].* 
+
+---
+can do [[audiograms]] to confirm.
 
 | Conductive hearing loss                                                                                          | SNHL                                                                                                                                          |
 | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,6 +35,8 @@ CHL, ear discomfort, [[meningitis]], intracerebral abscess, facial nerve palsy.
 D(fluctuant), [[vertigo- test & causes|Vertigo]], T. Aural fullness. 
 Control acute attacks with Labyrinthine sedatives: [[cyclizine]], prochlorperazine. 
 Long term prevention with beta-histine, thiazide, low salt diet.
+
+Confirm diagnosis with MRI of internal auditory meatus & audiogram: low frequency SNHL. 
 ### Presbycusis
 Age related hearing loss, affects sounds at high frequency - Downward-sloping pure tone thresholds. Difficulty differentiating 's' and 'th', and finding women's voices more difficult to hear than men's. Word recognition is relatively preserved, but many eventually develop poor word distinction (particularly in crowded, noisy settings).
 ### Osteoma

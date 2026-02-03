@@ -15,13 +15,18 @@ aliases:
 urls:
   - https://geekymedics.com/the-head-impulse-nystagmus-test-of-skew-hints-examination/
 ---
+*See [[hearing loss]].* 
+
+---
 - **vertigo**: sensation of room spinning. 
 - **disequilibrium**: feeling of imbalance.
 - **light-headedness**: a sensation of giddiness. 
 - **pre-syncope**: sense of feeling faint.
 
 Full assessment is called head impulse, nystagmus and test of skew (HINTS) examination
-![HINTS examination (YouTube)](https://www.youtube.com/watch?v=1q-VTKPweuk)
+
+>[!info]- HINTS Exam
+>![HINTS examination (YouTube)](https://www.youtube.com/watch?v=1q-VTKPweuk)
 # Head impulse test 
 It's performed on symptomatic patients (i.e. vertigo, nausea, vomiting) to differentiate between peripheral and central causes of their vertigo. 
 
