@@ -87,13 +87,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biochemical differences in different ortho conditions.md",
+                "file": "post exposure prophylaxis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "biochemical differences in different ortho conditions"
+              "title": "post exposure prophylaxis"
             }
           }
         ],
@@ -130,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "polymyal",
+                "query": "hiv",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "biochemical differences in different ortho conditions.md",
+                "file": "post exposure prophylaxis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of biochemical differences in different ortho conditions"
+              "title": "Graph of post exposure prophylaxis"
             }
           }
         ]
@@ -315,7 +315,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biochemical differences in different ortho conditions.md",
+                "file": "post exposure prophylaxis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for biochemical differences in different ortho conditions"
+              "title": "Backlinks for post exposure prophylaxis"
             }
           }
         ]
@@ -347,8 +347,20 @@
   },
   "active": "36e66c1e3bda316f",
   "lastOpenFiles": [
-    "polymyositis.md",
+    "hiv.md",
+    "post exposure prophylaxis.md",
+    "nsaid.md",
+    "erythema nodosum.md",
+    "chlamydia.md",
+    "fitz-hugh-curtis syndrome.md",
+    "behcet's disease.md",
+    "vasculitis.md",
+    "attachments/erythema nodosum 2.png",
+    "erythemas.md",
+    "sarcoidosis.md",
+    "lung fibrosis.md",
     "biochemical differences in different ortho conditions.md",
+    "polymyositis.md",
     "calcium metabolism related topics.md",
     "polymyalgia rheumatica.md",
     "cancer & associations.md",
@@ -363,17 +375,6 @@
     "hypertension.md",
     "motor neurone disease.md",
     "bisphosphonates.md",
-    "osteomalacia.md",
-    "paget's disease of bone.md",
-    "osteoporosis.md",
-    "calcium.md",
-    "plaque psoriasis.md",
-    "hypocalcemia.md",
-    "psoriasis.md",
-    "immunisation in adults.md",
-    "vaccine types.md",
-    "diabetes treatment.md",
-    "diabetes mellitus- diagnosis.md",
     "housekeeping/revise recent changes.base",
     "housekeeping/memorise.base",
     "attachments/breast cancer referral (summary image).png",
@@ -399,7 +400,6 @@
     "attachments/erythema multiforme.jpg",
     "attachments/erythema marginatum.jpg",
     "attachments/erythema infectiosum.jpg",
-    "attachments/coeliac disease- dermatitis herpetiformis 2.jpg",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "_chicken Pox treatment flowchart (Work in progress).canvas",
     "Chicken Pox treatment flowchart (Work in progress).canvas"

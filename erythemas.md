@@ -6,6 +6,7 @@ aliases:
   - Erythema gyratum repens
   - Erythema ab igne
 ---
+
 ![[erythemas.png|400]]
 
 |                                                     |                                                                                                                                                                                                                                                                                                                                                       |                                                      |
