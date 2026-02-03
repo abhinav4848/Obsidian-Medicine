@@ -20,6 +20,8 @@ Depo-Provera (POI -> injection. Aka DMPA): IM medroxyprogesterone acetate.
 - Intermenstrual spotting in first year of starting. If bothersome bleed -> add COCP 3 months/Mefenamic acid TDS 5 days (while still on Depo-Provera).
 - Give once every 3 months.
 - Completely stops the period in some women but can cause unpredictable bleeding in others. 
+#### Provera 
+This is a progestogen tablet that you take every day but it is not a contraceptive. It is usually given for a short period of time or cyclically
 # Intrauterine devices
 - *See [[contraceptives in emergency|Emergency contraception]].* 
 c/I in < 20 yo

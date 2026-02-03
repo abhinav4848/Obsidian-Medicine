@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "menorrhagia",
+                "query": "estrogen",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -176,7 +176,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -361,8 +362,10 @@
   },
   "active": "e6b247750e7e55e0",
   "lastOpenFiles": [
-    "amenorrhoea.md",
+    "contraceptives.md",
     "period problems in gynaecology.md",
+    "hrt.md",
+    "amenorrhoea.md",
     "contraceptives for bleeding reduction.md",
     "sjogren's syndrome.md",
     "primary biliary cirrhosis.md",
@@ -386,8 +389,6 @@
     "polymyalgia rheumatica.md",
     "cancer & associations.md",
     "hyperparathyroidism.md",
-    "vitamin-d.md",
-    "upper limb ortho problems.md",
     "flow charts/hypertension management.canvas",
     "housekeeping/revise recent changes.base",
     "housekeeping/memorise.base",
