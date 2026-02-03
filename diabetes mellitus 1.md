@@ -10,8 +10,8 @@ aliases:
 ---
 Patients present with recent weight loss.
 
-See GP teaching by S. Seidu on Notion. 
-& video 2 from 2nd Oct, 2025 at 30 mins mark
+%%See GP teaching by S. Seidu on Notion. 
+& video 2 from 2nd Oct, 2025 at 30 mins mark%%
 
 **LADA**: Late autoimmune diabetes of adults
 Can be associated with other autoimmune conditions like [[hyperthyroidism|Grave's disease]] and vitiligo.

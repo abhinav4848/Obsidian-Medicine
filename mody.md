@@ -17,7 +17,7 @@ Refer to **secondary care** (else, start sulfonylureas) as treatment of MODY dif
 **GCK-MODY**
 	Managed with Diet alone
 
-# Real life
+# Real life patient
 22F had raised HbA1c: 6.9% & Serum TG: 1.88 (0-1.7)
 Looked like MODY. Sought advice from specialists: 
 
