@@ -102,17 +102,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "period problems in gynaecology.md",
+                "file": "mody.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "period problems in gynaecology"
+              "title": "mody"
+            }
+          },
+          {
+            "id": "f310e2e885d8e342",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "diabetes mellitus 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "diabetes mellitus 1"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -145,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "estrogen",
+                "query": "type 1 diabetes",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -190,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "period problems in gynaecology.md",
+                "file": "diabetes mellitus 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,7 +233,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of period problems in gynaecology"
+              "title": "Graph of diabetes mellitus 1"
             }
           }
         ]
@@ -330,7 +345,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "period problems in gynaecology.md",
+                "file": "diabetes mellitus 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +355,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for period problems in gynaecology"
+              "title": "Backlinks for diabetes mellitus 1"
             }
           }
         ]
@@ -360,10 +375,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e6b247750e7e55e0",
+  "active": "f310e2e885d8e342",
   "lastOpenFiles": [
-    "contraceptives.md",
+    "mody.md",
+    "diabetes mellitus 1.md",
+    "diabetes mellitus- diagnosis.md",
+    "diabetes treatment.md",
     "period problems in gynaecology.md",
+    "contraceptives.md",
     "hrt.md",
     "amenorrhoea.md",
     "contraceptives for bleeding reduction.md",
@@ -385,10 +404,6 @@
     "lung fibrosis.md",
     "biochemical differences in different ortho conditions.md",
     "polymyositis.md",
-    "calcium metabolism related topics.md",
-    "polymyalgia rheumatica.md",
-    "cancer & associations.md",
-    "hyperparathyroidism.md",
     "flow charts/hypertension management.canvas",
     "housekeeping/revise recent changes.base",
     "housekeeping/memorise.base",
