@@ -72,13 +72,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vertigo- test & causes.md",
+                "file": "upper limb ortho problems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "vertigo- test & causes"
+              "title": "upper limb ortho problems"
             }
           },
           {
@@ -130,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hearing",
+                "query": "trigger finger",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "vertigo- test & causes.md",
+                "file": "upper limb ortho problems.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of vertigo- test & causes"
+              "title": "Graph of upper limb ortho problems"
             }
           }
         ]
@@ -315,7 +315,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vertigo- test & causes.md",
+                "file": "upper limb ortho problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for vertigo- test & causes"
+              "title": "Backlinks for upper limb ortho problems"
             }
           }
         ]
@@ -347,8 +347,8 @@
   },
   "active": "e935616d01d022b1",
   "lastOpenFiles": [
-    "hearing loss.md",
     "vertigo- test & causes.md",
+    "hearing loss.md",
     "audiograms.md",
     "spironolactone.md",
     "flow charts/hypertension management.canvas",
