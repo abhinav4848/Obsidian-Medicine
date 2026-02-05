@@ -4,6 +4,7 @@ tags:
   - cancer
 aliases:
   - Endometrial Cancer
+  - Endometrial carcinoma
 ---
 Postmenopausal vaginal bleed.
 	But most common causes for postmenopausal bleeds: Atrophic vaginitis (seen post-coitally)

@@ -9,7 +9,7 @@ NICE CKS Links
 		- Offer outpatient hysteroscopy (in preference to Pelvic USS) if heavy bleed & suspected submucosal fibroids/polyps/endometrial pathology
 	- Guidance: [NG88](https://www.nice.org.uk/guidance/ng88)
 - [Endometriosis | NICE CKS](https://cks.nice.org.uk/topics/endometriosis/)
-	- Covers adenomyosis
+	- Topic above covers adenomyosis
 - [Dysmenorrhoea | NICE CKS](https://cks.nice.org.uk/topics/dysmenorrhoea/)
 - [PID | NICE CKS](https://cks.nice.org.uk/topics/pelvic-inflammatory-disease/diagnosis/assessment/) 
 - [Ectopic Pregnancy | NICE CKS](https://cks.nice.org.uk/topics/ectopic-pregnancy/diagnosis/when-to-suspect-an-ectopic-pregnancy/)
