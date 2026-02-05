@@ -11,7 +11,7 @@ urls:
 ---
 ![[diabetes articles]]
 
-[[hba1c readings|HbA1c]] target < 48 (i.e. Pre-diabetic levels are acceptable)
+[[hba1c|HbA1c]] target < 48 (i.e. Pre-diabetic levels are acceptable)
 	*See [[diabetes mellitus- diagnosis]]* 
 
 ---
@@ -19,14 +19,14 @@ urls:
 If new diagnosis: Lifestyle advice
 	**Exercise**: 30 mins moderate intensity physical activity 5 times/week.
 	
-If Lifestyle modification but still HbA1c > 48 (HbA1c > 6.5%): 
+If Lifestyle modification but still HbA1c > 48 ([[hba1c|HbA1c]] >= 6.5%): 
 	Start Metformin. Target for adding another drug is 58 (7.5%)
 	If Metformin *not* tolerated, try one of these: 
 		- DPP-4 inhibitor (gliptin), or 
 		- Pioglitazone, or 
 		- Sulfonylurea, or 
 			- If instead of Metformin, sulphonylurea is started as 1st drug, target for another drug will be 53 instead of 58.
-		- SGLT-2 inhibitor (if [[diabetes drugs#NICE criteria for SGLT-2|NICE criteria]] met)
+		- SGLT-2 inhibitor (if [[diabetes drugs#NICE criteria for SGLT-2|NICE criteria]] met). 
 
 If already on one drug, but
 	HbA1c 48 - 58: Reinforce advice about Lifestyle modification.

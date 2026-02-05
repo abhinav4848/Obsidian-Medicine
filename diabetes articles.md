@@ -9,7 +9,7 @@ tags:
 > - [[diabetes mellitus- diagnosis]] 
 > - [[diabetes drugs]] 
 > - [[diabetes treatment]] 
-> - [[hba1c readings|HbA1c readings]] 
+> - [[hba1c|HbA1c readings]] 
 > - [[diabetes- pre-op control]]
 > - [[diabetes in palliative care]]
 > - [[glycosuria]]

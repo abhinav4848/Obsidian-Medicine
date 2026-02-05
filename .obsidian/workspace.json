@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diabetes treatment.md",
+                "file": "diabetes mellitus- diagnosis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "diabetes treatment"
+              "title": "diabetes mellitus- diagnosis"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "diabetes treatment.md",
+                "file": "diabetes mellitus- diagnosis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of diabetes treatment"
+              "title": "Graph of diabetes mellitus- diagnosis"
             }
           }
         ]
@@ -315,7 +315,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diabetes treatment.md",
+                "file": "diabetes mellitus- diagnosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for diabetes treatment"
+              "title": "Backlinks for diabetes mellitus- diagnosis"
             }
           }
         ]
@@ -345,19 +345,58 @@
       "graph:Open graph view": false
     }
   },
+  "floating": {
+    "id": "47f468c8b1244ee1",
+    "type": "floating",
+    "children": [
+      {
+        "id": "da1459ba781258ea",
+        "type": "window",
+        "children": [
+          {
+            "id": "1b1c9650eed10c64",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bf6e45492e1be333",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://www.ipag.co.uk/hba1c-conversion-chart/",
+                    "title": "HbA1c Conversion Chart | iPAG Scotland",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "HbA1c Conversion Chart | iPAG Scotland"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1449,
+        "y": 67,
+        "width": 939,
+        "height": 953,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "20b8d3513bfd9ace",
   "lastOpenFiles": [
-    "hba1c readings.md",
+    "hba1c.md",
+    "diabetes mellitus- diagnosis.md",
     "hypoglycemia.md",
+    "diabetes in palliative care.md",
+    "diabetes treatment.md",
+    "diabetes articles.md",
     "glycosuria.md",
     "diabetic ketoacidosis.md",
     "hhs.md",
-    "diabetes in palliative care.md",
-    "diabetes treatment.md",
     "diabetes- pre-op control.md",
-    "diabetes articles.md",
     "diabetes drugs.md",
-    "diabetes mellitus- diagnosis.md",
     "diabetes- gestational.md",
     "diabetes mellitus 1.md",
     "diabetes insipidus.md",
