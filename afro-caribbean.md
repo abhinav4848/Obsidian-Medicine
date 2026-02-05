@@ -5,6 +5,7 @@ tags:
 aliases:
   - African American
   - Afro Caribbean
+  - Afro-Caribbean
 ---
 1. Fibroids common
 2. [[diabetes- gestational|gestational diabetes mellitus]]

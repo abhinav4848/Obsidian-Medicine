@@ -13,7 +13,7 @@ Lower abdominal pain, u/l is first symptom.
 Missed period, vaginal bleed, shoulder tip pain due to peritoneal bleed, peritonism
 Cervical motion tenderness (cervical excitation)
 
-# Risk factors: 
+# Risk factors 
 - PID has highest risk of Ectopic.
 
 Others: (anything that slows the passage of ovum)
@@ -24,7 +24,7 @@ Others: (anything that slows the passage of ovum)
 - POP
 - Assisted pregnancy (IVF has 3% ectopics)
 - Smoking
-## Rupture features:
+## Rupture features 
 - Peritonism, shoulder tip pain, pv bleed, observations abnormal.
 - Symptoms generally appear 6–8 weeks after the last normal menstrual period (or much later for a non-tubal ectopic pregnancy).
 # Treatment

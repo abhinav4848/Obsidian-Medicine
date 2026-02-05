@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gynae drugs (hormonal).md",
+                "file": "menorrhagia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "gynae drugs (hormonal)"
+              "title": "menorrhagia"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gynae drugs (hormonal).md",
+                "file": "gynaecological infections.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "gynae drugs (hormonal)"
+              "title": "gynaecological infections"
             }
           },
           {
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "endometriosis",
+                "query": "swab",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "gynae drugs (hormonal).md",
+                "file": "gynaecological infections.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +173,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of gynae drugs (hormonal)"
+              "title": "Graph of gynaecological infections"
             }
           }
         ]
@@ -285,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gynae drugs (hormonal).md",
+                "file": "gynaecological infections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for gynae drugs (hormonal)"
+              "title": "Backlinks for gynaecological infections"
             }
           }
         ]
@@ -317,12 +317,22 @@
   },
   "active": "6ed27c0d23221517",
   "lastOpenFiles": [
+    "gynaecological discharges.md",
+    "impetigo.md",
+    "meningitis.md",
+    "glomerulonephritis.md",
+    "drugs contraindicated in pregnancy.md",
+    "cancer- screening programs.md",
     "gynae bleeding conditions.md",
-    "cancer- endometrial.md",
     "ectopic pregnancy.md",
-    "contraceptives.md",
+    "dysmenorrhoea.md",
     "period problems in gynaecology.md",
+    "menorrhagia.md",
     "gynae drugs (hormonal).md",
+    "afro-caribbean.md",
+    "contraceptives for bleeding reduction.md",
+    "contraceptives.md",
+    "cancer- endometrial.md",
     "gynaecological infections.md",
     "chlamydia.md",
     "housekeeping/revise recent changes.base",
@@ -334,16 +344,6 @@
     "diabetes treatment.md",
     "diabetes mellitus- diagnosis.md",
     "mody.md",
-    "diabetes mellitus 1.md",
-    "hrt.md",
-    "contraceptives for bleeding reduction.md",
-    "sjogren's syndrome.md",
-    "primary biliary cirrhosis.md",
-    "hepatitis viruses.md",
-    "post exposure prophylaxis.md",
-    "hiv.md",
-    "hepatitis.md",
-    "nsaid.md",
     "attachments/erythema nodosum 2.png",
     "flow charts/hypertension management.canvas",
     "housekeeping/memorise.base",
