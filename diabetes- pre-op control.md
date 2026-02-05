@@ -4,6 +4,8 @@ tags:
   - surgery
   - diabetes
 ---
+![[diabetes articles]]
+
 All Oral anti-DM to be taken as normal day before surgery. 
 
 | Medication                                   | What to do pre-surgery                                                   |

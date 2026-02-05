@@ -5,6 +5,8 @@ tags:
 aliases:
   - diagnosing diabetes mellitus
 ---
+![[diabetes articles]]
+
 DM symptoms + one abnormal value (7/11)
 	Polyuria, polydipsia, unexplained weight loss for type [[diabetes mellitus 1|DM-1]].
 Or
@@ -15,8 +17,8 @@ Or
 
 | Test                     | Prediabetic          | Diabetic         | [[diabetes- gestational\|GDM]] |
 | ------------------------ | -------------------- | ---------------- | ------------------------------ |
-| FBG                      | 6.1 - 6.9 (IFG)      | >=7              | >= 5.6 mmol/L                  |
-| 2 hr. with OGTT          | 7.8 - 11 (IGT)       | >=11.1           | >= 7.8                         |
+| FBG                      | 6.1 - 6.9 (IFG)      | >=7 mmol/L       | >= 5.6 mmol/L                  |
+| 2 hr. with OGTT          | 7.8 - 11 (IGT)       | >=11.1 mmol/L    | >= 7.8                         |
 | HbA1c<br>(% is mmol/mol) | 42 - 47<br>6% - 6.4% | >=48  <br>>=6.5% |                                |
 
 #Mnemonic: 

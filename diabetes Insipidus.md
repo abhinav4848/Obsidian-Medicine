@@ -3,6 +3,8 @@ tags:
   - endocrine
   - osmolality
 ---
+![[diabetes articles]]
+
 ADH dysfunction -> excess water loss in urine and Hypernatremia 145mEq/L.
 Normal Urine osmolality < 800 mOsm/L
 

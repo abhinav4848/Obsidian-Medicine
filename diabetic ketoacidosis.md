@@ -3,6 +3,8 @@ tags:
   - endocrine
   - diabetes
 ---
+![[diabetes articles]]
+
 Common in [[diabetes mellitus 1|T1DM]]. Rare in type 2 diabetics. 
 # Clinical Features
 Abdominal pain, vomit, Kussmaul breathing (deep hyperventilation), dehydration.

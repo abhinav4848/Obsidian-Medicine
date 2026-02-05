@@ -5,6 +5,8 @@ tags:
 aliases:
   - Hyperosmolar hyperglycemic state
 ---
+![[diabetes articles]]
+
 Commonly seen in elderly with new diagnosis of T2DM.
 patients are at risk of thrombosis due to hyper-viscosity.
 

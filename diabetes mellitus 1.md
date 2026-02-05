@@ -8,6 +8,8 @@ aliases:
   - type 1 diabetes
   - type 1 diabetes mellitus
 ---
+![[diabetes articles]]
+
 Patients present with recent weight loss.
 
 %%See GP teaching by S. Seidu on Notion. 

@@ -9,16 +9,18 @@ aliases:
 urls:
   - https://www.nice.org.uk/guidance/ng28
 ---
-HbA1c target < 48 (i.e. Pre-diabetic levels are acceptable)
-	*See [[diabetes mellitus- diagnosis]]*
+![[diabetes articles]]
+
+[[hba1c readings|HbA1c]] target < 48 (i.e. Pre-diabetic levels are acceptable)
+	*See [[diabetes mellitus- diagnosis]]* 
 
 ---
 # Treatment based on target levels
 If new diagnosis: Lifestyle advice
 	**Exercise**: 30 mins moderate intensity physical activity 5 times/week.
 	
-If Lifestyle modification but still HbA1c > 48: 
-	Start Metformin. Target for adding another drug is 58. 
+If Lifestyle modification but still HbA1c > 48 (HbA1c > 6.5%): 
+	Start Metformin. Target for adding another drug is 58 (7.5%)
 	If Metformin *not* tolerated, try one of these: 
 		- DPP-4 inhibitor (gliptin), or 
 		- Pioglitazone, or 

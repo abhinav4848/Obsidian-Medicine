@@ -4,14 +4,9 @@ tags:
 ---
 This bug has quietly gone from trivia to exam + real-world headache.
 
-Out of 16 species of Mycoplasma and Ureaplasma infecting humans, five are established pathogens, rest are normal flora of oral and urogenital tract. The human pathogenic species are:
-• Mycoplasma pneumoniae causing [[pneumonia]]
-• Others cause genital tract infections, such as:
-	• Mycoplasma hominis
-	• Mycoplasma genitalium
-	• Ureaplasma urealyticum
-	• Ureaplasma parvum
-
+Out of 16 species of Mycoplasma and Ureaplasma infecting humans, five are established pathogens, rest are normal flora of oral and urogenital tract. The human pathogenic Mycoplasma species are:
+- pneumoniae causing [[pneumonia]]
+- hominis & genitalium: genital tract infections	
 ---
 ## 🦠 Mycoplasma genitalium — why everyone suddenly cares
 ### Big picture
@@ -61,7 +56,6 @@ But:
 - Not covered well by standard PID regimens
 
 ---
-
 ## 4️⃣ Why standard antibiotics fail
 ### ❌ Doxycycline
 - Only ~30% effective

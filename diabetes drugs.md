@@ -9,6 +9,7 @@ tags:
 urls:
   - https://youtu.be/4Y7wdX7iEAY
 ---
+![[diabetes articles]]
 # Mechanism of action
 >[!Video on Mechanism Of Action]-
 >![MoA](https://youtu.be/4Y7wdX7iEAY)

@@ -3,6 +3,8 @@ tags:
   - diabetes
   - endocrine
 ---
+![[diabetes articles]]
+
 Blood glucose < 4.
 Can occur during sports when player collapses with features of hypoglycemia.
 # Due to:

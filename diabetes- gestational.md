@@ -10,6 +10,7 @@ aliases:
   - gestational diabetes
 ---
 *See [[diabetes mellitus- diagnosis]].* 
+![[diabetes articles]]
 # Risk factors for gestational diabetes
 - BMI of > 30 kg/m²
 - previous macrosomic baby weighing >= 4.5kg
