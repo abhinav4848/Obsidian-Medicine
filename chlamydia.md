@@ -5,26 +5,21 @@ aliases:
   - Chlamydia
 ---
 Most prevalent sexually transmitted infection in the UK.
-1. [[gynaecological infections|cervicitis]], Salpingitis: Painless ulcer, vaginal discharge, post-coital bleed, red & inflamed vulva, cervix, tender pelvis but non-tender abdomen.
+1. [[Cervicitis]], [[pelvic inflammatory disease|Salpingitis]]: Painless ulcer, vaginal discharge, post-coital bleed, red & inflamed vulva, cervix, tender pelvis but non-tender abdomen.
 2. Epididymitis (in both)
-## 3 stages.
+## 3 stages
 1. Small painless pustule which later turns to an ulcer
 2. Painful inguinal LNE
 3. Procto-Colitis
 # Potential complications
-- epididymitis
-- [[gynaecological infections#Pelvic Inflammatory disease|pelvic inflammatory disease]]
-- [[gynaecological discharges|Endometritis]]
+- Chlamydia/[[gonorrhoea]] if untreated will ascend
+	- Males: Epididymo-orchitis/Epididymitis -> U/l testicular pain
+	- Females: Salpingitis, [[pelvic inflammatory disease|PID]], [[gynaecological infections|Endometritis]] 
 - increased incidence of ectopic pregnancies
 - infertility
 - [[reactive arthritis]]
 - perihepatitis ([[fitz-hugh-curtis syndrome]])
 - [[Erythema nodosum]]
-
-# Chlamydia/[[gonorrhoea]] if untreated
-Males: Epididymo-orchitis/Epididymitis -> U/l testicular pain
-Females: Salpingitis
-
 # Management (y for y)
 - doxycycline (7 day course) if first-line (also 1st line in [[lyme disease]])
 	- this is now preferred to azithromycin due to concerns about Mycoplasma genitalium. This infection is often co-existent in patients with Chlamydia and there is evidence of rising levels of macrolide resistance, hence why doxycycline is preferred. #abx 

@@ -2,16 +2,17 @@
 tags:
   - gynae
 aliases:
-  - PID
   - vaginosis
   - bacterial vaginosis
   - trichomoniasis
   - vulvovaginal candidiasis
-  - cervicitis
   - genital herpes
+  - Chorioamnionitis
+  - Endometritis
+  - salpingitis
+  - Tubo-ovarian abscess
 ---
 Normal vaginal pH: 3.8 - 4.5.
-*See [[gynaecological discharges]].* 
 # Vaginosis
 Do high vaginal swab from posterior fornix for them -> it can also detect all possible organisms: Chlamydia, gonorrhoea, trichomonas. 
 *(Use charcoal swab for all cultures. If patient does it themselves, it's LVS: low vaginal swab, if clinicians do it with speculum, HVS).* 
@@ -23,8 +24,9 @@ Do high vaginal swab from posterior fornix for them -> it can also detect all po
 | **Vulvovaginal candidiasis  <br>(Candida)**   | Thick white cheese-like<br><br>Odourless, non-offensive.                                                                                                                                                                                                                                                                                                        | Local clotrimazole  <br>(anti-fungal)-> OTC medication.  <br>  <br>Recurrent candidiasis (>=4 in a year): Induction-maintenance regime of oral fluconazole. Make sure patient is not on SSRIs as fluconazole is an [[p450\|inhibitor]] -> [[fever caused by drugs\|Serotonin syndrome]]. If [[drugs contraindicated in pregnancy\|pregnant]], then only local treatment. Oral is c/i. |
 
 ---
-[[pelvic inflammatory disease]] 
-
+# PID & Cervicitis
+- [[pelvic inflammatory disease]] 
+- [[cervicitis]] 
 ---
 # Endometritis:
 Initial investigation is a high vaginal swab. 
@@ -33,6 +35,7 @@ Co-Amoxiclav-> It's safe in [[drugs contraindicated in pregnancy|pregnancy & bre
 
 ---
 # Genital herpes
+See [[human herpes viruses|herpes]]. 
 ### First episode of genital herpes 
 - T1 & T2: Oral Acyclovir for 5 days. NVD (Normal Vaginal delivery). 
 - T3 (>28 weeks): Oral Acyclovir for 5 days and C-section at 39 weeks.
@@ -46,3 +49,11 @@ Iv Acyclovir only for herpes [[encephalitis]].
 # Beta strep
 If isolated from vaginal swab, then treat as indicated. 
 But most imp: Set an alert on the patient's profile that if she was to get pregnant, the midwives & antenatal team need to be informed because of the risk of beta strep sepsis during delivery. 
+
+---
+
+|                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Chorioamnionitis     | Pregnant, PROM (i.e. <37 weeks PoG), maternal & fetal tachycardia, then fever (so presentation can be only tachycardia w/o fever), suprapubic tenderness due to uterine contractions, vaginal discharge (offensive and yellow)                                                                                                                                                                                                                                                                                                                                                                                           |
+| Endometritis         | Bleeding starts b/w 24 hrs. to 12 weeks of delivery (secondary PPH)-><br>- Endometritis<br>- Retained products of conception (RPOC has shorter time to bleed. So < 24 hrs. -> 1ry pph.) and seen in Vaginal delivery.<br><br>Fever, foul smelling discharge, bleeding up-to 12 weeks post delivery. Bulky and tender uterus on exam.<br><br>**Risk factor**: Emergency C section, prolonged labour, PRoM.<br><br>**Investigation**: High vaginal swab.<br><br>**Treatment**<br>- Co-Amoxiclav-> It's safe in breastfeeding.<br>- Gentamicin + Clindamycin (by WHO)<br>- Gentamicin + Cefotaxime, Metronidazole (by RCOG) |
+| Tubo-ovarian abscess | Due to untreated/ineffective treated Salpingitis (PID). <br><br>Lower abdomen pain, Tenderness, High fever, NO DISCHARGE, sexually active, not using barrier.<br><br>**Investigation**<br>- Do Pelvic USG to find a mass. If found, do laparoscopy.                                                                                                                                                                                                                                                                                                                                                                      |

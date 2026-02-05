@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pelvic inflammatory disease.md",
+                "file": "chlamydia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "pelvic inflammatory disease"
+              "title": "chlamydia"
             }
           },
           {
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pelvic inflammatory disease.md",
+                "file": "chlamydia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +173,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of pelvic inflammatory disease"
+              "title": "Graph of chlamydia"
             }
           }
         ]
@@ -285,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pelvic inflammatory disease.md",
+                "file": "chlamydia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pelvic inflammatory disease"
+              "title": "Backlinks for chlamydia"
             }
           }
         ]
@@ -317,9 +317,13 @@
   },
   "active": "6ed27c0d23221517",
   "lastOpenFiles": [
+    "cervicitis.md",
     "gynaecological infections.md",
-    "pelvic inflammatory disease.md",
+    "human herpes viruses.md",
     "gynaecological discharges.md",
+    "chlamydia.md",
+    "pelvic inflammatory disease.md",
+    "encephalitis.md",
     "impetigo.md",
     "meningitis.md",
     "glomerulonephritis.md",
@@ -335,15 +339,11 @@
     "contraceptives for bleeding reduction.md",
     "contraceptives.md",
     "cancer- endometrial.md",
-    "chlamydia.md",
     "housekeeping/revise recent changes.base",
     "uti.md",
     "newborn Infant physical examination.md",
     "abnormal airway sounds.md",
     "upper limb ortho problems.md",
-    "amenorrhoea.md",
-    "diabetes treatment.md",
-    "diabetes mellitus- diagnosis.md",
     "attachments/erythema nodosum 2.png",
     "flow charts/hypertension management.canvas",
     "housekeeping/memorise.base",
