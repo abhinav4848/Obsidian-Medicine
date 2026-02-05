@@ -8,7 +8,7 @@ urls:
 ---
 # Clinical features 
 - Cough, Sputum production, fever, old age
-- Atypical pneumonia has dry cough.
+- Atypical pneumonia infects interstitial space instead of alveoli, hence has dry cough.
 - Typical Pneumonia has productive cough, more rapid onset, high fever, and is usually caused by Strep -> MCC of CAP. 
 
 ## Investigations  

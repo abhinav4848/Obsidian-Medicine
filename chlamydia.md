@@ -22,7 +22,7 @@ Most prevalent sexually transmitted infection in the UK.
 - [[Erythema nodosum]]
 # Management (y for y)
 - doxycycline (7 day course) if first-line (also 1st line in [[lyme disease]])
-	- this is now preferred to azithromycin due to concerns about Mycoplasma genitalium. This infection is often co-existent in patients with Chlamydia and there is evidence of rising levels of macrolide resistance, hence why doxycycline is preferred. #abx 
+	- this is now preferred to azithromycin due to concerns about [[Mycoplasma genitalium]]. This infection is often co-existent in patients with Chlamydia and there is evidence of rising levels of macrolide resistance, hence why doxycycline is preferred. #abx 
 	- if doxycycline is contraindicated / not tolerated then azithromycin (1g OD for one day, then 500mg OD for two days) should be used
 - if pregnant then azithromycin, erythromycin or amoxicillin may be used. The SIGN guidelines suggest azithromycin 1g stat is the drug of choice 'following discussion of the balance of benefits and risks with the patient'
 

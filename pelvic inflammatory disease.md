@@ -9,15 +9,12 @@ aliases:
 ---
 See [[gynaecological infections]]
 
+---
 # Pelvic Inflammatory disease
 ## Aetiology
-BV & Trichomonas are related to PID but don't cause PID themselves. 
-
 Due to ascending [[Chlamydia]] > [[Gonorrhoea]] from [[cervicitis|Cervicitis]]
-- Pelvic USS if abscess suspected.
-
-Chlamydia trachomatis > Nisseria gonorrhoea. 
 Their vaginal discharge is not foul smelling. Presents mostly asymptomatically.
+BV & Trichomonas are related to PID but don't cause PID themselves. 
 ## Clinical Features
 Pelvic exam findings:
 1. Cervical motion tenderness (cervical excitation), 
@@ -29,7 +26,7 @@ Elevated temperature (mild/chronic infection) #fever
 - Do NAAT with vulvovaginal swab > endocervical swab.
 - High vaginal swab is helpful in recurrent symptoms, treatment failure, pregnancy, post-partum, post-abortion, post-instrumentation.
 - If a woman is asymptomatic, she can do a self administered VV swab.
-- If abscess suspected, do Pelvic USG.
+- If abscess suspected, do Pelvic USS.
 # Treatment
 Treat with abx based on history & exam alone. 
 Do swabs but don't wait for results.
