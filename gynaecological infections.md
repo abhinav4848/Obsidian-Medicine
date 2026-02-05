@@ -14,6 +14,7 @@ Normal vaginal pH: 3.8 - 4.5.
 *See [[gynaecological discharges]].* 
 # Vaginosis
 Do high vaginal swab from posterior fornix for them -> it can also detect all possible organisms: Chlamydia, gonorrhoea, trichomonas. 
+*(Use charcoal swab for all cultures. If patient does it themselves, it's LVS: low vaginal swab, if clinicians do it with speculum, HVS).* 
 
 | Condition                                     | Notes                                                                                                                                                                                                                                                                                                                                                           | Treatment                                                                                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -22,32 +23,7 @@ Do high vaginal swab from posterior fornix for them -> it can also detect all po
 | **Vulvovaginal candidiasis  <br>(Candida)**   | Thick white cheese-like<br><br>Odourless, non-offensive.                                                                                                                                                                                                                                                                                                        | Local clotrimazole  <br>(anti-fungal)-> OTC medication.  <br>  <br>Recurrent candidiasis (>=4 in a year): Induction-maintenance regime of oral fluconazole. Make sure patient is not on SSRIs as fluconazole is an [[p450\|inhibitor]] -> [[fever caused by drugs\|Serotonin syndrome]]. If [[drugs contraindicated in pregnancy\|pregnant]], then only local treatment. Oral is c/i. |
 
 ---
-# Pelvic Inflammatory disease
-[NICE CKS PID](https://cks.nice.org.uk/topics/pelvic-inflammatory-disease/)
-Chlamydia trachomatis > Nisseria gonorrhoea. 
-Their vaginal discharge is not foul smelling. Presents mostly asymptomatically.
-
-Treat with abx based on history & exam alone. Do swabs but don't wait for results.
-Do a pregnancy test.
-## Cervicitis
-Most sensitive screening test for C & G is self-collected vulvovaginal swab for NAAT -> especially for h/o intermenstrual bleeding & post-coital bleeding. 
-
-### [[Chlamydia]] trachomatis (y for y) #mnemonic 
-Doxycycline, or
-(if pregnant, give Amoxicillin, Azithromycin, clarithromycin, or Erythromycin instead)
-
-### Neisseria [[gonorrhoea]] (C for C) #mnemonic 
-Ceftriaxone 1 gm IM (Single dose), or #abx 
-[[Ciprofloxacin]] 500mg PO (single dose)
-
-### PID 
-(metronidazole is essential in all cases) *MO* or *CMD* for *PID*
-- Outpatient -> MO: *Oral Metronidazole + Oral Ofloxacin, or CMD*
-- Inpatient -> CMD: *IM Ceftriaxone + Metronidazole + Doxycycline*  
-  
-Doxycycline is 1st line in [[lyme disease|Lyme disease]] (but if pregnant, use amoxicillin) & Chlamydia cervicitis.
-## Complication
-- Perihepatitis ([[fitz-hugh-curtis syndrome|Fitz-Hugh-Curtis syndrome]])
+[[pelvic inflammatory disease]] 
 
 ---
 # Endometritis:
@@ -65,3 +41,8 @@ Co-Amoxiclav-> It's safe in [[drugs contraindicated in pregnancy|pregnancy & bre
 - Risk of neonatal herpes is low. So NVD.
 
 Iv Acyclovir only for herpes [[encephalitis]]. 
+
+---
+# Beta strep
+If isolated from vaginal swab, then treat as indicated. 
+But most imp: Set an alert on the patient's profile that if she was to get pregnant, the midwives & antenatal team need to be informed because of the risk of beta strep sepsis during delivery. 

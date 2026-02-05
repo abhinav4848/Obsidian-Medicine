@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gynaecological infections.md",
+                "file": "pelvic inflammatory disease.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "gynaecological infections"
+              "title": "pelvic inflammatory disease"
             }
           },
           {
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "gynaecological infections.md",
+                "file": "pelvic inflammatory disease.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +173,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of gynaecological infections"
+              "title": "Graph of pelvic inflammatory disease"
             }
           }
         ]
@@ -285,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gynaecological infections.md",
+                "file": "pelvic inflammatory disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for gynaecological infections"
+              "title": "Backlinks for pelvic inflammatory disease"
             }
           }
         ]
@@ -317,6 +317,8 @@
   },
   "active": "6ed27c0d23221517",
   "lastOpenFiles": [
+    "gynaecological infections.md",
+    "pelvic inflammatory disease.md",
     "gynaecological discharges.md",
     "impetigo.md",
     "meningitis.md",
@@ -333,7 +335,6 @@
     "contraceptives for bleeding reduction.md",
     "contraceptives.md",
     "cancer- endometrial.md",
-    "gynaecological infections.md",
     "chlamydia.md",
     "housekeeping/revise recent changes.base",
     "uti.md",
@@ -343,7 +344,6 @@
     "amenorrhoea.md",
     "diabetes treatment.md",
     "diabetes mellitus- diagnosis.md",
-    "mody.md",
     "attachments/erythema nodosum 2.png",
     "flow charts/hypertension management.canvas",
     "housekeeping/memorise.base",
