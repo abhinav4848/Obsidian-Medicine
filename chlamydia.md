@@ -17,7 +17,7 @@ Most prevalent sexually transmitted infection in the UK.
 	- Females: Salpingitis, [[pelvic inflammatory disease|PID]], [[gynaecological infections|Endometritis]] 
 - increased incidence of ectopic pregnancies
 - infertility
-- [[reactive arthritis]]
+- [[reactive arthritis]] 
 - perihepatitis ([[fitz-hugh-curtis syndrome]])
 - [[Erythema nodosum]]
 # Management (y for y)

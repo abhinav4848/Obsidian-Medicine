@@ -11,6 +11,8 @@ See [[gynaecological infections]]
 
 # Pelvic Inflammatory disease
 ## Aetiology
+BV & Trichomonas are related to PID but don't cause PID themselves. 
+
 Due to ascending [[Chlamydia]] > [[Gonorrhoea]] from [[cervicitis|Cervicitis]]
 - Pelvic USS if abscess suspected.
 

@@ -8,7 +8,7 @@ aliases:
 # Cervicitis
 Due to [[chlamydia]] > [[gonorrhoea]] 
 ## Clinical Features
-- Like [[pelvic inflammatory disease|PID]] but doesn’t ascend up, so no pelvic pain.
+- Like [[pelvic inflammatory disease|PID]] but hasn’t yet ascend up, so no pelvic pain.
 - Has non offensive Vaginal discharge. 
 - Post-coital bleed, intermenstrual bleed, dysuria, dyspareunia
 - Red inflamed vulva and cervix, tender pelvis (non tender abdomen)
