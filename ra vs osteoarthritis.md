@@ -4,8 +4,9 @@ tags:
   - ortho
 aliases:
   - Osteoarthritis
+urls:
+  - "[NICE CKS OA](https://cks.nice.org.uk/topics/osteoarthritis/)"
 ---
-
 **[[rheumatoid arthritis|RA]]**: Anti-CCP (highly specific 98%) & RF. (see [[antibodies]]). 
 [[Felty's syndrome]] has 100% relationship to Rheumatoid arthritis
 
