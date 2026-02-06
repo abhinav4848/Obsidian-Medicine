@@ -2,6 +2,7 @@
 tags:
   - infection
 ---
+It's a [[seronegative spondyloarthropathy]]. 
 # Clinical Features:
 - Malabsorption: [[diarrhoea]], weight loss
 - large-joint arthralgia

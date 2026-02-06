@@ -2,7 +2,10 @@
 tags:
   - rheumat
   - ortho
+aliases:
+  - Osteoarthritis
 ---
+
 **[[rheumatoid arthritis|RA]]**: Anti-CCP (highly specific 98%) & RF. (see [[antibodies]]). 
 [[Felty's syndrome]] has 100% relationship to Rheumatoid arthritis
 

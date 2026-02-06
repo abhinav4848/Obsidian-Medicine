@@ -8,4 +8,4 @@ a severe subtype of [[rheumatoid arthritis]] characterized by
 2. Neutropenia and
 3. Splenomegaly.
 
-Associated with increased risk of [[non-hodgkin's lymphoma]]. #associated 
+Associated with increased risk of [[cancer- lymphoma|Non-Hodgkin's lymphoma]] #associated 

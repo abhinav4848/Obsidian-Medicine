@@ -10,5 +10,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "mobilePullAction": "markdown:add-metadata-property"
+  "mobilePullAction": "markdown:add-metadata-property",
+  "showLineNumber": false,
+  "readableLineLength": true
 }

@@ -4,6 +4,8 @@ tags:
 aliases:
   - HLA-B27
 ---
+[[seronegative spondyloarthropathy]] associated
+
 [[Ankylosing spondylitis]]
 [[reactive arthritis]]
 Psoriatic arthritis
