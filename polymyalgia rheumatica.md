@@ -5,9 +5,12 @@ aliases:
   - PMR
   - temporal arteritis
   - giant cell arteritis
+urls:
+  - "[GP Notebook](https://gpnotebook.com/en-GB/pages/haematology/polymyalgia-rheumatica)"
+  - "[NICE CKS PMR](https://cks.nice.org.uk/topics/polymyalgia-rheumatica/)"
 ---
 # PMR
-**PMR**: CK Normal, ESR > 30, CRP > 6
+**PMR**: CK Normal, ESR > 30, CRP > 6 
 
 ***[[Polymyositis]]**: Raised CK & ALP -> Could walk before, can't walk now.*
 

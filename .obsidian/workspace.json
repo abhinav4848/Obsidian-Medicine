@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "systemic sclerosis.md",
+                "file": "polymyalgia rheumatica.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "systemic sclerosis"
+              "title": "polymyalgia rheumatica"
             }
           },
           {
@@ -130,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "osteoarth",
+                "query": "polymyalgia",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "systemic sclerosis.md",
+                "file": "polymyalgia rheumatica.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of systemic sclerosis"
+              "title": "Graph of polymyalgia rheumatica"
             }
           }
         ]
@@ -315,7 +315,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "systemic sclerosis.md",
+                "file": "polymyalgia rheumatica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for systemic sclerosis"
+              "title": "Backlinks for polymyalgia rheumatica"
             }
           }
         ]
@@ -386,8 +386,11 @@
   },
   "active": "20b8d3513bfd9ace",
   "lastOpenFiles": [
-    "antibodies.md",
+    "dermatomyositis.md",
+    "polymyalgia rheumatica.md",
+    "polymyositis.md",
     "systemic sclerosis.md",
+    "antibodies.md",
     "seronegative spondyloarthropathy.md",
     "sjogren's syndrome.md",
     "systemic lupus erythematosis.md",
@@ -409,9 +412,6 @@
     "diabetic ketoacidosis.md",
     "hhs.md",
     "diabetes- pre-op control.md",
-    "diabetes drugs.md",
-    "diabetes- gestational.md",
-    "diabetes mellitus 1.md",
     "housekeeping/revise recent changes.base",
     "attachments/erythema nodosum 2.png",
     "flow charts/hypertension management.canvas",

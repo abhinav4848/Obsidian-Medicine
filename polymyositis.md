@@ -19,7 +19,6 @@ Myositis can be caused by [[statins]].
 | **Hypothyroid**                              | +                              |     | +   |
 | **Fibromyalgia**                             | Muscle pain (not weak)         |     | -   |
 | **Duchenne (4-8 yo)**                        | +                              |     | +   |
-
 # Differentials
 polymyositis
 dermatomyositis
