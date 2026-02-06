@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "polymyalgia rheumatica.md",
+                "file": "rheumatoid arthritis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "polymyalgia rheumatica"
+              "title": "rheumatoid arthritis"
             }
           },
           {
@@ -130,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "polymyalgia",
+                "query": "rheumatoid arth",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "polymyalgia rheumatica.md",
+                "file": "rheumatoid arthritis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,8 +188,8 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
+                  "collapse-display": false,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -198,12 +198,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7514341907183558,
+                  "scale": 0.7514341907183564,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of polymyalgia rheumatica"
+              "title": "Graph of rheumatoid arthritis"
             }
           }
         ]
@@ -315,7 +315,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "polymyalgia rheumatica.md",
+                "file": "rheumatoid arthritis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for polymyalgia rheumatica"
+              "title": "Backlinks for rheumatoid arthritis"
             }
           }
         ]
@@ -384,17 +384,20 @@
       }
     ]
   },
-  "active": "20b8d3513bfd9ace",
+  "active": "66b70f772136150d",
   "lastOpenFiles": [
-    "dermatomyositis.md",
+    "sjogren's syndrome.md",
+    "rheumatoid arthritis.md",
     "polymyalgia rheumatica.md",
+    "plasma viscosity.md",
+    "diabetes articles.md",
+    "attachments/guidance on plasma viscosity.pdf",
+    "dermatomyositis.md",
     "polymyositis.md",
     "systemic sclerosis.md",
     "antibodies.md",
     "seronegative spondyloarthropathy.md",
-    "sjogren's syndrome.md",
     "systemic lupus erythematosis.md",
-    "rheumatoid arthritis.md",
     "ra vs osteoarthritis.md",
     "hla-b27.md",
     "behcet's disease.md",
@@ -407,11 +410,8 @@
     "hypoglycemia.md",
     "diabetes in palliative care.md",
     "diabetes treatment.md",
-    "diabetes articles.md",
     "glycosuria.md",
     "diabetic ketoacidosis.md",
-    "hhs.md",
-    "diabetes- pre-op control.md",
     "housekeeping/revise recent changes.base",
     "attachments/erythema nodosum 2.png",
     "flow charts/hypertension management.canvas",
@@ -431,7 +431,6 @@
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "attachments/bronchovesicular-2.mp3",
     "attachments/carhart's notch (otosclerosis).png",
-    "attachments/bronchial-sound-2.mp3",
     "attachments/breath sounds.jpg",
     "flow charts/contraception after delivery.canvas",
     "flow charts/deep vein thrombosis.canvas",

@@ -6,13 +6,16 @@ tags:
   - rheumat
 ---
 Most of the information is at [[RA vs osteoarthritis]]. 
+# When to suspect RA
+- Symmetrical, 
+- small joint (MCP, PIP, wrist), 
+- inflammatory stiffness (>1 hour)
 
-# Hand 
-see [[upper limb ortho problems#Hand]] 
-1. Ulnar deviation, 
-2. swan-neck deformity and
-3. Boutonniere deformity.
-![[rheumatoid arthritis hand changes.png|300]]
+# Hand features
+
+| [[upper limb ortho problems#Hand\|Hand features]]                               | Image                                           |
+| ------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 1. Ulnar deviation, <br>2. swan-neck deformity and<br>3. Boutonniere deformity. | ![[rheumatoid arthritis hand changes.png\|300]] |
 # Resp problems
 A variety of respiratory problems may be seen in patients with rheumatoid arthritis:  
 - [[lung fibrosis|pulmonary fibrosis]]

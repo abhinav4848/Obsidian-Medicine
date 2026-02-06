@@ -15,6 +15,7 @@ Autoimmune destruction of exocrine glands, causing dryness of salivary and lacri
 # Investigation 
 Schirmer test, Rose Bengal stain for corneal ulcer, Rheumatoid factor +ve.
 Anti Ro (SSA), Anti La (SSB) [[antibodies]]. 
+[[plasma viscosity]] will be raised.
 # Complication
 Can become malignant: [[cancer- lymphoma|Lymphoma]] (B-cell lymphoma- esp. MALT) #associated 
 Often associated with [[primary biliary cirrhosis|Primary Biliary Cholangitis]] (which has Anti-Mitochondrial antibodies).

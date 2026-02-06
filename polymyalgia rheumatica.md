@@ -32,10 +32,10 @@ Muscles are tender, not weak.
 - Pain improves on passive motion of joint. 
 
 ## Investigation
-ESR, plasma viscosity, CRP
+**ESR, [[plasma viscosity]], CRP**
 - Normal inflammatory markers don't rule out PMR. 
 **Baseline**: 
-	FBC, U&e, LFT, [[Calcium]], serum protein electrophoresis ([[multiple myeloma|myeloma]]), TSH, CK (myositis), Rheumatoid factor, Urine dip stick. 
+	FBC, U&e, LFT, [[Calcium]], serum protein electrophoresis ([[multiple myeloma|myeloma]]), TSH, CK (myositis), Rheumatoid factor, Urine dip stick
 **Additional**: 
 	ANA (SLE), Anti-CCP (RA), Urine Bence Jones proteins (myeloma), CXR (lung pathologies which may be associated with [[dermatomyositis]], mediastinal abnormalities)
 ## Treatment
