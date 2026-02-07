@@ -58,13 +58,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rheumatoid arthritis.md",
+                "file": "Fibromyalgia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "rheumatoid arthritis"
+              "title": "Fibromyalgia"
+            }
+          },
+          {
+            "id": "fb3540db377982d7",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://cks.nice.org.uk/topics/rheumatoid-arthritis/diagnosis/differential-diagnosis/",
+                "title": "Differential diagnosis | Diagnosis | Rheumatoid arthritis | CKS | NICE",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Differential diagnosis | Diagnosis | Rheumatoid arthritis | CKS | NICE"
             }
           },
           {
@@ -130,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dyspha",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -175,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "rheumatoid arthritis.md",
+                "file": "Fibromyalgia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of rheumatoid arthritis"
+              "title": "Graph of Fibromyalgia"
             }
           }
         ]
@@ -315,7 +329,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rheumatoid arthritis.md",
+                "file": "Fibromyalgia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +339,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for rheumatoid arthritis"
+              "title": "Backlinks for Fibromyalgia"
             }
           }
         ]
@@ -386,10 +400,13 @@
   },
   "active": "20b8d3513bfd9ace",
   "lastOpenFiles": [
-    "seronegative spondyloarthropathy.md",
     "rheumatoid arthritis.md",
-    "ra vs osteoarthritis.md",
+    "Fibromyalgia.md",
+    "scoring system.md",
+    "dysphagia.md",
     "systemic lupus erythematosis.md",
+    "seronegative spondyloarthropathy.md",
+    "ra vs osteoarthritis.md",
     "attachments/MCP & MTP squeeze test for rheumatoid arthritis.jpg",
     "nsaid.md",
     "diabetes articles.md",
@@ -411,8 +428,6 @@
     "diabetes mellitus- diagnosis.md",
     "hypoglycemia.md",
     "diabetes in palliative care.md",
-    "diabetes treatment.md",
-    "glycosuria.md",
     "housekeeping/revise recent changes.base",
     "attachments/erythema nodosum 2.png",
     "flow charts/hypertension management.canvas",

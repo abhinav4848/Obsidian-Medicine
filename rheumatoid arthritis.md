@@ -17,7 +17,7 @@ Do an MCP or MTP squeeze test:
 ![[MCP & MTP squeeze test for rheumatoid arthritis.jpg|200]]
 
 ## Other conditions causing synovitis: 
-- CTD ([[systemic lupus erythematosis|SLE]]), Fibromyalgia, Infectious arthritis (Viral/bacterial), Osteoarthritis ([[RA vs osteoarthritis]]), Polyarticular [[gout]], [[polymyalgia rheumatica|PMR]], Psoriatic arthritis, [[reactive arthritis]], [[sarcoidosis]], [[septic arthritis]], [[seronegative spondyloarthropathy|seronegative arthritis]]. 
+- CTD ([[systemic lupus erythematosis|SLE]]), [[Fibromyalgia]], Infectious arthritis (Viral/bacterial), Osteoarthritis ([[RA vs osteoarthritis]]), Polyarticular [[gout]], [[polymyalgia rheumatica|PMR]], Psoriatic arthritis, [[reactive arthritis]], [[sarcoidosis]], [[septic arthritis]], [[seronegative spondyloarthropathy|seronegative arthritis]]. 
 ##### Involvement of DIP
 - RA spares DIP (RA is synovitis driven and DIP has little synovium)
 - OA loves DIP & PIP

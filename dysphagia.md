@@ -27,4 +27,6 @@ Mechanical Disorder- Affects solids before liquids.
 Dysphagia + Initial investigation - Endoscopy
 -> Refer via suspected cancer pathway. See [[dyspepsia]]. 
 
+*Also do Bloods & Edinburgh dysphagia [[scoring system|score]] ([GP Notebook](https://gpnotebook.com/en-GB/pages/uncategorised/edinburgh-dysphagia-score-eds)) as part of 2ww referral: Age, Gender, Current acid reflux, localised to neck, weight loss > 3kg in the last 3 months, duration of symptoms > 6months, progressive dysphagia.* 
+
 Dysphagia + Diffuse Oesophageal spasm/achalasia stem + Most appropriate investigation - Barium swallow or manometry

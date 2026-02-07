@@ -16,7 +16,6 @@ Specific: Anti ds-DNA (most discriminative test), Smith
 - Complements (C3 & C4), 
 - ESR (ESR is raised but CRP is normal)
 *negative ANCA*. 
-
 # When to suspect
 There may be polyarthritis in the small joints of the hands and feet, but SLE arthritis is usually non-deforming. (compare [[rheumatoid arthritis]]). 
 
