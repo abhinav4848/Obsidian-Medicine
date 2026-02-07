@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fibromyalgia.md",
+                "file": "scoring system.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Fibromyalgia"
+              "title": "scoring system"
             }
           },
           {
@@ -144,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dyspha",
+                "query": "gpcog",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Fibromyalgia.md",
+                "file": "scoring system.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Fibromyalgia"
+              "title": "Graph of scoring system"
             }
           }
         ]
@@ -329,7 +329,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fibromyalgia.md",
+                "file": "scoring system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +339,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fibromyalgia"
+              "title": "Backlinks for scoring system"
             }
           }
         ]
@@ -400,8 +400,12 @@
   },
   "active": "20b8d3513bfd9ace",
   "lastOpenFiles": [
-    "rheumatoid arthritis.md",
+    "fever & sepsis.md",
+    "bronchiolitis.md",
+    "asthma- diagnosis (algorithm).md",
+    "asthma- investigations.md",
     "Fibromyalgia.md",
+    "rheumatoid arthritis.md",
     "scoring system.md",
     "dysphagia.md",
     "systemic lupus erythematosis.md",
@@ -424,10 +428,6 @@
     "whipple disease.md",
     "gout.md",
     "felty's syndrome.md",
-    "hba1c.md",
-    "diabetes mellitus- diagnosis.md",
-    "hypoglycemia.md",
-    "diabetes in palliative care.md",
     "housekeeping/revise recent changes.base",
     "attachments/erythema nodosum 2.png",
     "flow charts/hypertension management.canvas",

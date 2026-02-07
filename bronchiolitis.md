@@ -24,7 +24,9 @@ Seen in < 1yo.
 	- tachypnoea ([[fever & sepsis|sepsis]])/chest recession, 
 		- fever in some cases (but less than 39C)
 	- Expiratory [[Abnormal airway sounds|wheeze]] ([YouTube](https://www.youtube.com/watch?v=4RU_bysa5Lc)) / fine crackles on auscultation 
-- Difficulty feeding and breathing
+- Difficulty feeding (typically 3-5 days after illness starts) and breathing
+	- Apnoea without other clinical signs in young infants (in particular those under 6 weeks of age)
+- Can have fever (<39C). Higher temp is for pneumonia. 
 ### When to Admit
 >[!danger] Admit a child with: 
 > - apnoea (observed or reported)
@@ -38,6 +40,7 @@ Seen in < 1yo.
 > 	- tracheal tug (more in upper airway obstruction, like [[croup]])
 > - central cyanosis
 > - persistent oxygen saturation of less than 92% when breathing air.
+> - signs of [[fever & sepsis|sepsis]]
 
 >[!warning] Consider referral if:
 >- RR > 60
