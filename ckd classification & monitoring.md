@@ -5,11 +5,11 @@ aliases:
   - Classification of CKD
   - Referral criteria in CKD
 urls:
-  - https://www.nice.org.uk/guidance/ng203/chapter/Recommendations#classification-of-ckd-in-adults
+  - "[NICE CKS CKD Classification](https://www.nice.org.uk/guidance/ng203/chapter/Recommendations#classification-of-ckd-in-adults)"
+  - "[Leicester CKD](https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2022/06/CKD-Medicines-Optimisation.-SGLT2i.pdf)"
 ---
 *See: [[chronic kidney disease|CKD]], and [[ckd pharmacology|Pharmacology in CKD]]* 
 # Classification of CKD
-[NICE CKS](https://www.nice.org.uk/guidance/ng203/chapter/Recommendations#classification-of-ckd-in-adults)
 Use a combination of GFR & ACR categories & make a KDIGO grid: 
 
 | GFR                                                                      | ACR                                                    |
@@ -27,3 +27,5 @@ Refer if ([NICE](https://www.nice.org.uk/guidance/ng203/chapter/Recommendations#
 - [[Hypertension]] that remains poorly controlled (above the person's individual target) despite the use of at least 4 antihypertensive medicines at therapeutic doses (see also [NICE's guideline on hypertension in adults](https://www.nice.org.uk/guidance/ng136))
 - known or suspected rare / genetic causes of CKD 
 - suspected renal artery stenosis. 
+# Monitoring
+See **[NICE CKS CKD Monitoring](https://www.nice.org.uk/guidance/ng203/chapter/Recommendations#frequency-of-monitoring)**, or **[Leicester CKD](https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2022/06/CKD-Medicines-Optimisation.-SGLT2i.pdf)** 

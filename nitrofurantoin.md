@@ -6,7 +6,7 @@ aliases:
 ---
 Used in [[UTI]]. 
 
-Avoid in patients with >=[[ckd classification|CKD]] 3. 
+Avoid in patients with >=[[ckd classification & monitoring|CKD]] 3. 
 Can give amoxicillin & ciprofloxacin but at reduced dose. 
 # Side effect of toxicity 
 - (free radical generation): Peripheral neuropathy, Hepatotoxicity, Pulmonary fibrosis. 

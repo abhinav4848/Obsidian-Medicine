@@ -7,7 +7,7 @@ tags:
 ---
 # Pharmacology in CKD
 See: [[chronic kidney disease|CKD]].
-## Managing proteinuric CKD 
+## Managing CKD with Proteinuria
 >[!links]-
 > 1. [NICE: Manage CKD at different stages- Visual summary](https://www.nice.org.uk/guidance/ng203),
 > 2. [NICE: CKD management in diabetes](https://www.nice.org.uk/guidance/ng28/chapter/Recommendations#chronic-kidney-disease)

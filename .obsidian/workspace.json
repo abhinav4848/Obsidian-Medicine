@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scoring system.md",
+                "file": "chronic kidney disease.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "scoring system"
+              "title": "chronic kidney disease"
             }
           },
           {
@@ -144,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gpcog",
+                "query": "ckd ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "scoring system.md",
+                "file": "chronic kidney disease.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of scoring system"
+              "title": "Graph of chronic kidney disease"
             }
           }
         ]
@@ -329,7 +329,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scoring system.md",
+                "file": "chronic kidney disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +339,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for scoring system"
+              "title": "Backlinks for chronic kidney disease"
             }
           }
         ]
@@ -359,54 +359,18 @@
       "graph:Open graph view": false
     }
   },
-  "floating": {
-    "id": "47f468c8b1244ee1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "da1459ba781258ea",
-        "type": "window",
-        "children": [
-          {
-            "id": "1b1c9650eed10c64",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bf6e45492e1be333",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://www.ipag.co.uk/hba1c-conversion-chart/",
-                    "title": "HbA1c Conversion Chart | iPAG Scotland",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "HbA1c Conversion Chart | iPAG Scotland"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1449,
-        "y": 67,
-        "width": 939,
-        "height": 953,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "20b8d3513bfd9ace",
   "lastOpenFiles": [
+    "ckd classification & monitoring.md",
+    "chronic kidney disease.md",
+    "ckd pharmacology.md",
+    "scoring system.md",
     "fever & sepsis.md",
     "bronchiolitis.md",
     "asthma- diagnosis (algorithm).md",
     "asthma- investigations.md",
     "Fibromyalgia.md",
     "rheumatoid arthritis.md",
-    "scoring system.md",
     "dysphagia.md",
     "systemic lupus erythematosis.md",
     "seronegative spondyloarthropathy.md",
@@ -425,9 +389,6 @@
     "hla-b27.md",
     "behcet's disease.md",
     "inflammatory bowel disease.md",
-    "whipple disease.md",
-    "gout.md",
-    "felty's syndrome.md",
     "housekeeping/revise recent changes.base",
     "attachments/erythema nodosum 2.png",
     "flow charts/hypertension management.canvas",

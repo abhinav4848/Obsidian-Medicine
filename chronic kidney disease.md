@@ -9,7 +9,7 @@ OHGp 5th Ed:
 urls:
   - https://www.nice.org.uk/guidance/ng203
 ---
-*Classification: [[ckd classification]]*
+*Classification: [[ckd classification & monitoring]]*
 *Pharmacology: [[ckd pharmacology]]* 
 # Causes of CKD 
 - Diabetic nephropathy 
