@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asthma- diagnosis (algorithm).md",
+                "file": "hypertension.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "asthma- diagnosis (algorithm)"
+              "title": "hypertension"
             }
           }
         ],
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "asthma",
+                "query": "hypertension",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "asthma- diagnosis (algorithm).md",
+                "file": "hypertension.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of asthma- diagnosis (algorithm)"
+              "title": "Graph of hypertension"
             }
           }
         ]
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asthma- diagnosis (algorithm).md",
+                "file": "hypertension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for asthma- diagnosis (algorithm)"
+              "title": "Backlinks for hypertension"
             }
           }
         ]
@@ -303,8 +303,11 @@
   },
   "active": "6ed27c0d23221517",
   "lastOpenFiles": [
-    "menorrhagia.md",
+    "ckd classification & monitoring.md",
+    "hypertension.md",
+    "chronic kidney disease.md",
     "asthma- diagnosis (algorithm).md",
+    "menorrhagia.md",
     "nsaid.md",
     "flow charts/prostaglandins and leukotrienes.canvas",
     "asthma.md",
@@ -331,9 +334,6 @@
     "angina.md",
     "hypotension & hypertension drugs.md",
     "corticosteroid.md",
-    "gingival hyperplasia.md",
-    "leukaemia.md",
-    "chronic kidney disease.md",
     "attachments/MCP & MTP squeeze test for rheumatoid arthritis.jpg",
     "attachments/guidance on plasma viscosity.pdf",
     "housekeeping/revise recent changes.base",
