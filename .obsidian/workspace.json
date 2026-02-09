@@ -58,13 +58,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "heart failure.md",
+                "file": "housekeeping/goal in managing a patient in GP setting..md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "heart failure"
+              "title": "goal in managing a patient in GP setting."
+            }
+          },
+          {
+            "id": "32ad7cd4c4b68686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gp patients are getting more complex.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "gp patients are getting more complex"
             }
           },
           {
@@ -111,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -175,8 +190,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -189,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "heart failure.md",
+                "file": "gp patients are getting more complex.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +231,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of heart failure"
+              "title": "Graph of gp patients are getting more complex"
             }
           }
         ]
@@ -329,7 +343,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "heart failure.md",
+                "file": "gp patients are getting more complex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +353,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for heart failure"
+              "title": "Backlinks for gp patients are getting more complex"
             }
           }
         ]
@@ -359,11 +373,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "20b8d3513bfd9ace",
+  "active": "32ad7cd4c4b68686",
   "lastOpenFiles": [
-    "afro-caribbean.md",
-    "heart failure.md",
+    "housekeeping/goal in managing a patient in GP setting..md",
+    "gp patients are getting more complex.md",
     "calcium channel blockers.md",
+    "dysphagia.md",
+    "heart failure.md",
+    "afro-caribbean.md",
     "atrial fibrillation.md",
     "scoring system.md",
     "angina.md",
@@ -381,13 +398,10 @@
     "asthma- investigations.md",
     "Fibromyalgia.md",
     "rheumatoid arthritis.md",
-    "dysphagia.md",
     "systemic lupus erythematosis.md",
     "seronegative spondyloarthropathy.md",
     "ra vs osteoarthritis.md",
     "attachments/MCP & MTP squeeze test for rheumatoid arthritis.jpg",
-    "nsaid.md",
-    "diabetes articles.md",
     "attachments/guidance on plasma viscosity.pdf",
     "housekeeping/revise recent changes.base",
     "attachments/erythema nodosum 2.png",
