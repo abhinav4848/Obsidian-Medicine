@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hypertension",
+                "query": "calcium",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -303,8 +303,9 @@
   },
   "active": "6ed27c0d23221517",
   "lastOpenFiles": [
-    "ckd classification & monitoring.md",
+    "calcium channel blockers.md",
     "hypertension.md",
+    "ckd classification & monitoring.md",
     "chronic kidney disease.md",
     "asthma- diagnosis (algorithm).md",
     "menorrhagia.md",
@@ -325,7 +326,6 @@
     "pelvic inflammatory disease.md",
     "housekeeping/goal in managing a patient in GP setting..md",
     "gp patients are getting more complex.md",
-    "calcium channel blockers.md",
     "dysphagia.md",
     "heart failure.md",
     "afro-caribbean.md",
