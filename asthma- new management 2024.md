@@ -38,7 +38,7 @@ see [[asthma|asthma- treatment (old)]]
 | **❌if not,**          | use [[asthma- old management#Child stable asthma management]]                                                                                                                                                                                                                                                  |
 
 # Asthma Management < 5yo %%linked%% 
-See [[asthma- diagnosis (algorithm)]]
+See [[asthma- diagnosis (algorithm)]] 
 See: [NICE pharmacological management guidelines in <5yo](https://www.nice.org.uk/guidance/ng245/chapter/recommendations#pharmacological-management-in-children-under-5)
 See [Leicester Asthma guideline](https://www.lmsg.nhs.uk/guidelines/category/respiratory/) 
 - Trial 8-12 weeks SABA + BD Paeds low dose  ICS 

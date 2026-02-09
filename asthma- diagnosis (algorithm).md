@@ -6,10 +6,10 @@ tags:
   - respiratory
 revision counter: 1
 ---
-#Triad: Chest tightness, Sob, Wheezing.
-Others: Nocturnal cough, Exercise induced wheeze, family history of asthma. 
+#Triad: Chest tightness, SoB, Wheezing.
+**Others**: Nocturnal cough, Exercise induced wheeze, family history of asthma.  
 
-# Suspecting asthma
+# When to suspect asthma
 [NICE topics asthma](https://cks.nice.org.uk/topics/asthma/diagnosis/diagnosis/)
 **Suspect a diagnosis of asthma if a person presents with:**
 - **Variable symptoms of wheeze, noisy breathing, cough, breathlessness, and/or chest tightness.**
