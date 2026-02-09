@@ -20,8 +20,8 @@ tags:
 * MART: Maintenance & Reliever therapy (has fast acting LABA- Formoterol)
 
 # Child stable asthma management
-5-16yo: In Step 4, if LTRA hasn't helped, NICE says to stop it in children. 
-<5yo: If child < 5yo, don’t give LABA 
+**5-16yo**: In Step 4, if LTRA hasn't helped, NICE says to stop it in children. 
+**<5yo**: If child < 5yo, don’t give LABA ([NICE CKS under 5 Asthma management](https://www.nice.org.uk/guidance/ng245/chapter/recommendations#pharmacological-management-in-children-under-5))
 
 1. **Newly-diagnosed asthma**- Short-acting beta agonist (SABA)
 2. **Not controlled on previous step** OR **Newly-diagnosed asthma with symptoms >= 3/week**, OR **night-time waking** 

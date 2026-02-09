@@ -43,43 +43,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pelvic inflammatory disease.md",
+                "file": "asthma- new management 2024.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "pelvic inflammatory disease"
+              "title": "asthma- new management 2024"
             }
           },
           {
-            "id": "20b8d3513bfd9ace",
+            "id": "cebd663d4932196e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "housekeeping/goal in managing a patient in GP setting..md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "attachments/asthma management in adults 2024 guidelines.png"
               },
-              "icon": "lucide-file",
-              "title": "goal in managing a patient in GP setting."
-            }
-          },
-          {
-            "id": "32ad7cd4c4b68686",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gp patients are getting more complex.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "gp patients are getting more complex"
+              "icon": "lucide-image",
+              "title": "asthma management in adults 2024 guidelines"
             }
           },
           {
@@ -126,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heart failure",
+                "query": "asthma",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -190,7 +172,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -203,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "gp patients are getting more complex.md",
+                "file": "attachments/asthma management in adults 2024 guidelines.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,7 +214,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of gp patients are getting more complex"
+              "title": "Graph of asthma management in adults 2024 guidelines"
             }
           }
         ]
@@ -343,7 +326,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gp patients are getting more complex.md",
+                "file": "attachments/asthma management in adults 2024 guidelines.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,7 +336,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for gp patients are getting more complex"
+              "title": "Backlinks for asthma management in adults 2024 guidelines"
             }
           }
         ]
@@ -373,8 +356,18 @@
       "graph:Open graph view": false
     }
   },
-  "active": "32ad7cd4c4b68686",
+  "active": "cebd663d4932196e",
   "lastOpenFiles": [
+    "asthma- new management 2024.md",
+    "asthma.md",
+    "asthma- old management.md",
+    "asthma- diagnosis (algorithm).md",
+    "asthma- acute attack.md",
+    "diabetes articles.md",
+    "asthma- investigations.md",
+    "attachments/diagnose asthma in ages 5-16yo.jpg",
+    "attachments/diagnose asthma in people over 16yo.jpg",
+    "pelvic inflammatory disease.md",
     "housekeeping/goal in managing a patient in GP setting..md",
     "gp patients are getting more complex.md",
     "calcium channel blockers.md",
@@ -393,14 +386,6 @@
     "ckd classification & monitoring.md",
     "ckd pharmacology.md",
     "fever & sepsis.md",
-    "bronchiolitis.md",
-    "asthma- diagnosis (algorithm).md",
-    "asthma- investigations.md",
-    "Fibromyalgia.md",
-    "rheumatoid arthritis.md",
-    "systemic lupus erythematosis.md",
-    "seronegative spondyloarthropathy.md",
-    "ra vs osteoarthritis.md",
     "attachments/MCP & MTP squeeze test for rheumatoid arthritis.jpg",
     "attachments/guidance on plasma viscosity.pdf",
     "housekeeping/revise recent changes.base",
@@ -425,9 +410,6 @@
     "attachments/breath sounds.jpg",
     "flow charts/contraception after delivery.canvas",
     "flow charts/deep vein thrombosis.canvas",
-    "attachments/erythema nodosum.jpg",
-    "attachments/erythema multiforme.jpg",
-    "attachments/erythema marginatum.jpg",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "_chicken Pox treatment flowchart (Work in progress).canvas",
     "Chicken Pox treatment flowchart (Work in progress).canvas"
