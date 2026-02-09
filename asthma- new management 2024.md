@@ -8,30 +8,17 @@ aliases:
 urls:
 ---
 See [[asthma]]. 
-# For a new diagnosis of Asthma in patients aged >= 12 years
+# New diagnosis of Asthma in patients aged >=12yo
 AIR & MART contain the same ICS/Formoterol combo. So the name is only to emphasize the use case of the inhaler. Only to relive vs Relieve + Maintain. The key innovation isn’t the drugs, it’s the strategy. 
-## Step 1 
-[NICE](https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#pharmacological-management-in-people-aged-12-and-over:~:text=and%20over.-,Initial%20management%20of%20newly%20diagnosed%20asthma%20in%20people%20aged%2012%20and%20over,-1.7.1 "NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)") 
-- a low-dose ICS/formoterol combination inhaler to be taken **as needed** (prn) for symptom relief
-    - this is termed anti-inflammatory reliever (AIR) therapy #mnemonic AIR-prn
-- if the patient presents **highly symptomatic** (for example, regular nocturnal waking) or with a [[asthma- severity assessment|severe exacerbation]]: 
-    - start treatment with low-dose MART- Maintenance & Reliever therapy (see step 2)
-    - treat the acute symptoms as appropriate (e.g. a course of oral [[corticosteroid|steroids]] may be indicated) 
-## Step 2
-[NICE](https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#pharmacological-management-in-people-aged-12-and-over:~:text=asthma%20management.-,Medicine%20combination%20and%20sequencing%20in%20people%20aged%2012%20and%20over,-For%20guidance%20on "NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)") 
-- a low-dose MART for daily maintenance + PRN 
-## Step 3
-- a moderate-dose MART 
-## Step 4 
-[NICE](https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#pharmacological-management-in-people-aged-12-and-over:~:text=Check%20the%20fractional%20exhaled%20nitric%20oxide%20\(FeNO\)%20level%20if%20available "NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)") 
-- If Asthma not controlled despite med MART, check for type 2 inflammation with [[asthma- investigations|FeNO]] & blood eosinophil count 
-    - if either is raised, refer to a specialist in asthma care
-    - if neither is raised, add on LTRA/LAMA to mod MART
-	    - if control has not improved, stop the LTRA or LAMA and start a trial of the alternative medicine (LTRA or LAMA)
-## Step 5
-- If still not controlled after moderate-dose MART + trials of an LTRA and a LAMA ->refer people to a specialist in asthma care. 
 
-![[asthma management in adults 2024 guidelines.png]]
+|            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Step 1** | [NICE](https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#pharmacological-management-in-people-aged-12-and-over:~:text=and%20over.-,Initial%20management%20of%20newly%20diagnosed%20asthma%20in%20people%20aged%2012%20and%20over,-1.7.1 "NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)") <br>- a low-dose ICS/formoterol combination inhaler to be taken PRN for symptom relief<br>    - this is anti-inflammatory reliever (AIR) therapy #mnemonic AIR-PRN<br>- if the patient presents **highly symptomatic** (e.g. regular nocturnal waking) or with a [[asthma- severity assessment\|severe exacerbation]]: <br>    - start treatment with low-dose MART- Maintenance & Reliever therapy (see step 2)<br>    - treat the acute symptoms as appropriate (e.g. a course of oral [[corticosteroid\|steroids]] may be indicated) |
+| **Step 2** | [NICE](https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#pharmacological-management-in-people-aged-12-and-over:~:text=asthma%20management.-,Medicine%20combination%20and%20sequencing%20in%20people%20aged%2012%20and%20over,-For%20guidance%20on "NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)") <br>- a low-dose MART for daily maintenance + PRN                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Step 3** | a moderate-dose MART                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Step 4** | [NICE](https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#pharmacological-management-in-people-aged-12-and-over:~:text=Check%20the%20fractional%20exhaled%20nitric%20oxide%20\(FeNO\)%20level%20if%20available "NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)") <br>- If Asthma not controlled despite med MART, check for type 2 inflammation with [[asthma- investigations\|FeNO]] & blood eosinophil count <br>    - if either is raised, refer to a specialist in asthma care<br>    - if neither is raised, add on LTRA/LAMA to mod MART<br>	    - if control has not improved, stop the LTRA or LAMA and start a trial of the alternative medicine (LTRA or LAMA)                                                                                                                                                           |
+| **Step 5** | - If still not controlled after moderate-dose MART + trials of an LTRA and a LAMA ->refer people to a specialist in asthma care.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+![[asthma management in adults 2024 guidelines.jpg]]
 
 ## Old vs new guideline for Adults
 see [[asthma|asthma- treatment (old)]]
@@ -42,20 +29,27 @@ see [[asthma|asthma- treatment (old)]]
 | SABA + low-dose ICS  <br>SABA + low-dose ICS/LABA  <br>SABA + low-dose ICS + LTRA  <br>SABA + low-dose ICS/LABA + LTRA                                     | Regular low MART (ICS + formoterol)                                                                    |
 | SABA + moderate-dose ICS  <br>SABA + moderate-dose ICS/LABA  <br>SABA + moderate-dose ICS + LTRA or LAMA  <br>SABA + moderate-dose ICS/LABA + LTRA or LAMA | Regular moderate-dose MART therapy                                                                     |
 | Treatment regime containing a high-dose ICS                                                                                                                | test FeNO/Eosinophil & treat as per result (See step 4 above)<br><br>Refer to a respiratory specialist |
-# Asthma Management 5-11yo
-**Step 1**: Start with Paediatric low dose ICS + SABA inhaler
+# Asthma Management 5-11yo 
 
-If need to step up to MART, assess if able to use device & okay with use of unlicensed product for those <6yo ([[asthma- drugs#Drugs Licensed for Asthma]])
+|                       |                                                                                                                                                                                                                                                                                                                |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Step 1**            | Start with Paediatric low dose ICS + SABA inhaler<br><br>If need to step up to MART, assess if able to use device & okay with use of unlicensed product for those <6yo ([[asthma- drugs#Drugs Licensed for Asthma]])                                                                                           |
+| **✅if yes for MART:** | **Step 2**: Switch to paediatric low-dose MART<br>- ICS-Formoterol 100/6 + PRN of the same inhaler<br>- *low dose: Budesonide 100-200mcg/day*<br><br>**Step 3**: Increase to paediatric moderate-dose MART<br>- ICS-Formoterol 100/6 + PRN of the same inhaler<br>- *moderate dose: Budesonide 300-400mcg/day* |
+| **❌if not,**          | use [[asthma- old management#Child stable asthma management]]                                                                                                                                                                                                                                                  |
 
-✅if yes for MART:
+# Asthma Management < 5yo %%linked%% 
+See [[asthma- diagnosis (algorithm)]]
+See: [NICE pharmacological management guidelines in <5yo](https://www.nice.org.uk/guidance/ng245/chapter/recommendations#pharmacological-management-in-children-under-5)
+See [Leicester Asthma guideline](https://www.lmsg.nhs.uk/guidelines/category/respiratory/) 
+- Trial 8-12 weeks SABA + BD Paeds low dose  ICS 
+	- This is if it looks like they'll need maintenance therapy (h/o atopy), severe acute episodes of DiB/wheeze shown by hospital admission or needing >=2 courses of Oral Steroids. 
+- If symptoms don't resolve during trial period, check triggers/technique/adherence/other diagnosis likely. If still no, refer to specialist. 
+- Stop ICS and SABA after 8–12 weeks if symptoms resolve, with a 3-month follow-up review.
+	- If symptoms recur or a severe episode occurs, restart ICS at low dose, and titrate up to a moderate dose as needed. Consider further trial without treatment in 12 months
+- If suspected asthma is uncontrolled in children < 5 on a paediatric moderate dose of ICS as maintenance therapy (with SABA as needed), consider ICS + LTRA for a trial period of 8 to 12 weeks (unless there are side effects), then stop it if it is ineffective.
+ 
+If suspected asthma is uncontrolled in children < 5 on a paediatric moderate dose ICS as maintenance therapy and a trial of an LTRA has been unsuccessful or not tolerated, stop the LTRA and refer the child to a specialist in asthma care for further investigation and management.
 
-**Step 2**: Switch to paediatric low-dose MART
-- ICS-Formoterol 100/6 + PRN of the same inhaler
-- *low dose: Budesonide 100-200mcg/day*
 
-**Step 3**: Increase to paediatric moderate-dose MART
-- ICS-Formoterol 100/6 + PRN of the same inhaler
-- *moderate dose: Budesonide 300-400mcg/day*
 
-❌if not, use [[asthma- old management#Child stable asthma management]]
 

@@ -18,7 +18,8 @@ See [[asthma- drugs]].
 ⭐see [[asthma- new management 2024|New Management 2024]]. 
 ❌[[asthma- old management|Old management]] 
 ### Child treatment
-❌ [[asthma- old management#Child stable asthma management]]
+❌ [[asthma- old management#Child stable asthma management]] 
+See [[asthma- new management 2024#Asthma Management < 5yo linked|asthma- treatment under 5yo]] 
 
 ---
 # Step down treatment of Asthma

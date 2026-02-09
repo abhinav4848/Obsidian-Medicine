@@ -14,7 +14,7 @@ Others: Nocturnal cough, Exercise induced wheeze, family history of asthma.
 **Suspect a diagnosis of asthma if a person presents with:**
 - **Variable symptoms of wheeze, noisy breathing, cough, breathlessness, and/or chest tightness.**
 	- Symptoms are commonly episodic and variable over time and in intensity (may be worse at night, on waking, or seasonal).
-	- Symptoms may be [triggered](https://cks.nice.org.uk/topics/asthma/background-information/risk-factors-triggers/) or exacerbated by exercise, laughter, crying, viral respiratory tract infection, environmental source of their symptoms (e.g. mould in the home, changes in temperature or humidity, cold housing, smokers or indoor air pollution, pet hair), or use of NSAIDs or beta-blockers, pet hair.
+	- Symptoms may be [triggered](https://cks.nice.org.uk/topics/asthma/background-information/risk-factors-triggers/) or exacerbated by exercise, laughter, crying, viral respiratory tract infection, environmental source of their symptoms (e.g. mould in the home, changes in temperature or humidity i.e. cold/damp air, smokers or indoor air pollution, pet hair), or use of NSAIDs or beta-blockers, pet hair.
 - **Expiratory polyphonic wheeze on examination** (may be absent or only heard on forced expiration).
 	- Be aware that even if examination is normal, a person may still have asthma.
 **Suspect a diagnosis of occupational asthma if a person of working age has:**
@@ -42,6 +42,7 @@ If asthma not confirmed by above tests,
 If asthma still not confirmed with Eosinophil count, FeNO, BDR, PEF variability but still suspected on clinical grounds:
 - Refer for consideration of [[asthma- investigations#Bronchial challenge test|Bronchial challenge test]] - Diagnose asthma if bronchial hyper-responsiveness is present.
 
+---
 # Diagnose asthma in children aged 5-16yo
 >[!Notice]- Algorithm
 >![[diagnose asthma in ages 5-16yo.jpg]]
@@ -61,10 +62,11 @@ Diagnose asthma if evidence of sensitisation OR a raised IgE & eosinophil count 
 
 If still doubt, [[asthma- investigations#Bronchial challenge test|Bronchial challenge test]].
 
-# Investigating suspected asthma in children under 5
+---
+# Suspected asthma in children under 5
 The guidelines acknowledge the difficulty of performing tests in such young children. They suggest: [NICE](https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#objective-tests-for-diagnosing-asthma-in-adults-young-people-and-children-aged-5-to-16-with-a:~:text=Diagnosis%20is%20hard%20in%20this%20age%20group%20because%20it%20is%20difficult%20to%20do%20the%20tests "NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)") *(completely transcribed below)*
-- treating with inhaled corticosteroids as per the [management guidelines](https://www.nice.org.uk/guidance/ng245/chapter/recommendations#pharmacological-management-in-children-under-5) with regular review
-	- See [[asthma]]
+- treating with inhaled corticosteroids as per the pharmacological management guidelines with regular review
+	- See [[asthma- new management 2024#Asthma Management < 5yo linked|management]]
 - if they still have symptoms at age 5 then attempt objective tests
 	- If not able to do test at age 5, try again in 6-12 months
 - refer to a specialist respiratory paediatrician:
