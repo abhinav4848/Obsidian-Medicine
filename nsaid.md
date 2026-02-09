@@ -38,7 +38,7 @@ tags:
 - Leads to AKI, Progressive CKD, [[hyperkalemia]], Na & water retention
 ### NSAID & Asthma
 Whether NSAID can be given in [[asthma]] depends on the type of asthma and the patient’s history with NSAIDs.
-- NSAIDs (like ibuprofen, naproxen, diclofenac) can trigger bronchospasm in a subset of asthmatics- this is known as NSAID-exacerbated respiratory disease (NERD) or aspirin-sensitive asthma.
+- NSAIDs (like ibuprofen, naproxen, diclofenac) can trigger bronchospasm in a subset of asthmatics- this is known as NSAID-exacerbated respiratory disease (NERD) or aspirin-sensitive asthma. 
 	- This occurs in roughly 10-20% of adults with asthma, especially those who also have nasal polyps or chronic rhinosinusitis. See [[Samter's triad]]. 
 - The mechanism involves inhibition of COX-1 → decreased prostaglandin E₂ → arachidonic acid shunted to leukotriene pathway → increased leukotrienes → bronchoconstriction (see: [[asthma- drugs#Why no NSAIDs?|Asthma & NSAIDs]]). 
 - If anti-inflammatory action is essential (e.g., for arthritis), consider selective COX-2 inhibitors (e.g., celecoxib (it's enteral only) & Parecoxib (parenteral only)- Both are often used in palliative setting). These are less likely to provoke bronchospasm. 

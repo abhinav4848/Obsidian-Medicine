@@ -7,14 +7,14 @@ tags:
 revision counter: 1
 ---
 #Triad: Chest tightness, SoB, Wheezing.
-**Others**: Nocturnal cough, Exercise induced wheeze, family history of asthma.  
+**Others**: Nocturnal cough (wakes up from sleep), Exercise induced wheeze, family history of asthma.  
 
 # When to suspect asthma
-[NICE topics asthma](https://cks.nice.org.uk/topics/asthma/diagnosis/diagnosis/)
+[NICE topics asthma](https://cks.nice.org.uk/topics/asthma/diagnosis/diagnosis/), [Asthma UK triggers](https://www.asthmaandlung.org.uk/conditions/asthma/asthma-triggers)
 **Suspect a diagnosis of asthma if a person presents with:**
 - **Variable symptoms of wheeze, noisy breathing, cough, breathlessness, and/or chest tightness.**
 	- Symptoms are commonly episodic and variable over time and in intensity (may be worse at night, on waking, or seasonal).
-	- Symptoms may be [triggered](https://cks.nice.org.uk/topics/asthma/background-information/risk-factors-triggers/) or exacerbated by exercise, laughter, crying, viral respiratory tract infection, environmental source of their symptoms (e.g. mould in the home, changes in temperature or humidity i.e. cold/damp air, smokers or indoor air pollution, pet hair), or use of NSAIDs or beta-blockers, pet hair.
+	- Symptoms may be [triggered (NICE)](https://cks.nice.org.uk/topics/asthma/background-information/risk-factors-triggers/) or exacerbated by exercise, laughter, crying, viral respiratory tract infection, environmental source of their symptoms (e.g. mould in the home, changes in temperature or humidity i.e. cold/damp air, smokers or indoor air pollution, pet hair), or use of [[NSAID]]s or beta-blockers, pet hair.
 - **Expiratory polyphonic wheeze on examination** (may be absent or only heard on forced expiration).
 	- Be aware that even if examination is normal, a person may still have asthma.
 **Suspect a diagnosis of occupational asthma if a person of working age has:**
