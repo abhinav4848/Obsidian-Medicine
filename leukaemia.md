@@ -32,19 +32,19 @@ Bone marrow biopsy: Numerous blasts.
 [[Aplastic anaemia]] won't have splenomegaly #confusion 
 # AML
 Adults (20 - 30 yo)  
-Gingivitis, Gum swelling, Gum bleed (but can also happen in ALL).
+Gingivitis, [[gingival hyperplasia|Gum swelling]], Gum bleed (but can also happen in ALL).
 
 [[cell histology|Auer rods]] on blood film.
 Bone marrow biopsy: Numerous blasts
 
 [[myelodysplastic, myeloproliferative syndrome#Myelodysplastic syndrome|Myelodysplastic syndrome]] can progress to AML. 
-# CLL
+# CLL 
 Older (> 65 yo)  
-Asymptomatic/Anemia/Recurrent infection (due to hypo-gamma-globulinaemia)/LNE.  
+Asymptomatic/Anaemia/Recurrent infection (due to hypo-gamma-globulinaemia)/LNE.  
 B-lymphocyte predominant. Cervical LNE.
 
 Increased WBC, but non functioning  
-Smear: [[cell histology|Smudge cells]], Mature lymphocytes.
+**Smear**: [[cell histology|Smudge cells]], Mature lymphocytes.
 Associated: transformation to high-grade lymphoma ([[cancer- lymphoma|Richter's transformation]]) . 
 
 # CML

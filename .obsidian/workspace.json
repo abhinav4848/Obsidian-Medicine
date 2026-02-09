@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chronic kidney disease.md",
+                "file": "heart failure.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "chronic kidney disease"
+              "title": "heart failure"
             }
           },
           {
@@ -144,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ckd ",
+                "query": "heart failure",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "chronic kidney disease.md",
+                "file": "heart failure.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of chronic kidney disease"
+              "title": "Graph of heart failure"
             }
           }
         ]
@@ -329,7 +329,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chronic kidney disease.md",
+                "file": "heart failure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +339,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for chronic kidney disease"
+              "title": "Backlinks for heart failure"
             }
           }
         ]
@@ -361,10 +361,20 @@
   },
   "active": "20b8d3513bfd9ace",
   "lastOpenFiles": [
-    "ckd classification & monitoring.md",
-    "chronic kidney disease.md",
-    "ckd pharmacology.md",
+    "afro-caribbean.md",
+    "heart failure.md",
+    "calcium channel blockers.md",
+    "atrial fibrillation.md",
     "scoring system.md",
+    "angina.md",
+    "asthma- drugs.md",
+    "hypotension & hypertension drugs.md",
+    "corticosteroid.md",
+    "gingival hyperplasia.md",
+    "leukaemia.md",
+    "chronic kidney disease.md",
+    "ckd classification & monitoring.md",
+    "ckd pharmacology.md",
     "fever & sepsis.md",
     "bronchiolitis.md",
     "asthma- diagnosis (algorithm).md",
@@ -378,17 +388,7 @@
     "attachments/MCP & MTP squeeze test for rheumatoid arthritis.jpg",
     "nsaid.md",
     "diabetes articles.md",
-    "sjogren's syndrome.md",
-    "polymyalgia rheumatica.md",
-    "plasma viscosity.md",
     "attachments/guidance on plasma viscosity.pdf",
-    "dermatomyositis.md",
-    "polymyositis.md",
-    "systemic sclerosis.md",
-    "antibodies.md",
-    "hla-b27.md",
-    "behcet's disease.md",
-    "inflammatory bowel disease.md",
     "housekeeping/revise recent changes.base",
     "attachments/erythema nodosum 2.png",
     "flow charts/hypertension management.canvas",

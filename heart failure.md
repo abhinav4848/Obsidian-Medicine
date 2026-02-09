@@ -18,18 +18,22 @@ If suspected Heart Failure, Check NT-pro BNP level
 - **Other**: Age > 70, PE, hypoxia, sepsis, CKD, Liver cirrhosis
 Low EF: Treatment with [[ace inhibitors|ACE inhibitor]], ARB, Beta blockers, as well as obesity can falsely lower BNP
 
+---
 # Classification
 ## Reduced EF: (aka Systolic heart failure)
+HFrEF
 Problems with LV & pressures go backwards -> Lung features, Pulmonary edema & Breathlessness
 if severe, then RV features as well -> Fluid overload + Peripheral edema
 
 ## Preserved EF: (aka diastolic heart failure)
+HFpEF
 Problems with RV due to non-compliance -> Dyspnoea w/o signs of fluid overload
 
+---
 # Management
 ## Primary care
-**Reduced ejection fraction**: ACE-i and beta-blocker (start one at time)
-Preserved ejection fraction: Evidence not specific on NICE CKS - specialist advice
+**Reduced EF**: ACE-i and beta-blocker (start one at time)
+**Preserved EF**: Evidence not specific on NICE CKS - specialist advice
 ## Secondary care
 **Medical**: aldosterone, digoxin, hydralazine, ivabradine (selectively inhibits funny current in the sinus node to slow sinus rhythm)
 
@@ -39,6 +43,7 @@ Preserved ejection fraction: Evidence not specific on NICE CKS - specialist advi
 - Potentially increased symptoms, poorer response to treatment
 - Multiple inputs eg cardiology, heart failure nurses, community nurses, palliative care nurses, physiotherapy, dietician etc
 
+---
 # DRUGS
 NICE: https://www.nice.org.uk/guidance/ng106
 ## 1st line
@@ -56,7 +61,7 @@ Dapagliflozin (SGLT-2 inhibitor)
 ## 3rd Line:
 - Replace ACEi (or ARB) with Sacubitril/Valsartan if EF < 35%
 - Add Ivabradine for Sinus rhythm with HR > 75 & EF <35%
-- Add Hydralazine & Nitrate esp if [[afro-caribbean]].
+- Add Hydralazine & Nitrate esp. if [[afro-caribbean|Afro-Caribbean]].
 - [[Digoxin]] can be given for HF + AF, or worsening HF due to LVSD despite using 1st & 2nd line. It increases mortality in cardiac patients.
 
 Loop diuretic have symptomatic benefit (congestive symptoms and fluid retention) but **don’t change mortality**.

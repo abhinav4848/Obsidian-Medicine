@@ -1,6 +1,8 @@
 ---
 tags:
   - pharmacology
+aliases:
+  - Gum swelling
 ---
 # Caused by
 [[Phenytoin]]

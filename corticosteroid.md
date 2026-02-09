@@ -27,6 +27,8 @@ For [[polymyalgia rheumatica|PMR]], the weaning regiment is very long. Up to 2 y
 - Insomnia
 
 - Neutrophilia -> initial rise of neutrophils due to de-margination as L-selectin is down regulated. However, this is transient and after a few weeks the levels will begin to drop and return to normal
+- [[hypotension & hypertension drugs|Drugs causing hypertension]]
+- If given later in the day, it will prevent people from getting sleep. 
 # Long term steroids- Extra steps for patients on them
 More than 3 weeks of usage
 
