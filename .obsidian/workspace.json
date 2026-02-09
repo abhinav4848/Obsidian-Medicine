@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "haematospermia.md",
+                "file": "bisphosphonates.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "haematospermia"
+              "title": "bisphosphonates"
             }
           }
         ],
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "calcium",
+                "query": "cow milk",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -145,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "haematospermia.md",
+                "file": "bisphosphonates.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of haematospermia"
+              "title": "Graph of bisphosphonates"
             }
           }
         ]
@@ -285,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "haematospermia.md",
+                "file": "bisphosphonates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for haematospermia"
+              "title": "Backlinks for bisphosphonates"
             }
           }
         ]
@@ -317,8 +318,13 @@
   },
   "active": "3aa9a04a2399ccce",
   "lastOpenFiles": [
-    "hypertension.md",
+    "gastroprotection.md",
+    "git problems in paeds.md",
+    "vomiting in paeds.md",
+    "bisphosphonates.md",
+    "calcium metabolism related topics.md",
     "haematospermia.md",
+    "hypertension.md",
     "calcium channel blockers.md",
     "ckd classification & monitoring.md",
     "chronic kidney disease.md",
@@ -343,11 +349,6 @@
     "gp patients are getting more complex.md",
     "dysphagia.md",
     "heart failure.md",
-    "afro-caribbean.md",
-    "atrial fibrillation.md",
-    "scoring system.md",
-    "angina.md",
-    "hypotension & hypertension drugs.md",
     "attachments/MCP & MTP squeeze test for rheumatoid arthritis.jpg",
     "attachments/guidance on plasma viscosity.pdf",
     "housekeeping/revise recent changes.base",

@@ -5,6 +5,8 @@ tags:
 urls:
   - https://www.nice.org.uk/guidance/qs112/chapter/Quality-statement-4-Alginate-therapy
   - https://www.nice.org.uk/guidance/ng1/chapter/Recommendations
+aliases:
+  - Gaviscon
 ---
 See: [[gord in children]], [[gord]]. 
 ## 1. Antacids – _chemical neutralisers_
@@ -74,6 +76,8 @@ See: [[gord in children]], [[gord]].
 - Barrett’s oesophagus
 - NSAID protection
 
+**Side effects of PPI**
+- Long term use can cause increased risk of fractures. 
 ---
 ## Common UK prescribing logic
 - **Mild, intermittent symptoms** → antacid or alginate PRN

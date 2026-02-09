@@ -27,7 +27,10 @@ How to take:
 Don’t take calcium & vit D for 4 hrs after Alendronic acid. 
 
 If esophagitis, review -> Risk of oropharyngeal ulcers.
-Dyspepsia common in first month. 
+[[Dyspepsia]] common in first month. 
+**If can't tolerate regardless of proper technique & gets heartburn, try Risedronate.** 
+- PPI, Alginates provide symptom relief but don't protect from oesophageal irritation. 
+---
 ## Review of alendronate usage
 ##### Duration of usage
 The duration of bisphosphonate treatment varies according to the level of risk. 
@@ -38,6 +41,7 @@ Some authorities recommend stopping bisphosphonates at 5 years if the following 
 - patient is < 75-years-old
 - femoral neck T-score of > -2.5  (see [[osteoporosis]])
 - low risk according to FRAX/NOGG
+---
 # Adverse effects
 - Oesophageal reactions: advise patients to sit/stand upright when taking it. For 30 mins before food.
 - **Osteonecrosis of jaw**: More common in patients receiving iv bisphosphonates for cancer treatment than patients receiving oral for [[osteoporosis]]/[[paget's disease of bone|Paget's]]. Patients should have dental checkup before bisphosphonate treatment. 
@@ -46,6 +50,7 @@ Some authorities recommend stopping bisphosphonates at 5 years if the following 
 - [[hypocalcemia]]: due to reduced calcium efflux from bone. Usually clinically unimportant.
 	- So Hypocalcemia/Vit D deficiency should be corrected before bisphosphonates started.
 
+---
 # Why stand/sit up?
 Q: How does an empty stomach help prevent heartburn with bisphosphonates, but this is opposite advice to NSAIDs?
 
