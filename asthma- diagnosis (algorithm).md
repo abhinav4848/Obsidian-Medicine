@@ -29,7 +29,7 @@ NICE has adopted a stepwise approach to diagnostic testing: you do a test; if it
 ## First line investigation
 Measure eosinophil count OR Fractional Nitric Oxide ([[asthma- investigations#Fractional exhaled nitric oxide (FeNO)|FeNO]])
 Can diagnose asthma without further investigations if:
-- Eosinophil above reference range
+- Eosinophil above reference range 
 - FeNO >= 50ppb. 
 ## Second line investigation
 If asthma not confirmed by above tests, 
