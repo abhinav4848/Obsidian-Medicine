@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contraceptives.md",
+                "file": "osteoporosis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "contraceptives"
+              "title": "osteoporosis"
             }
           },
           {
@@ -58,17 +58,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bisphosphonates.md",
+                "file": "fever & sepsis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "bisphosphonates"
+              "title": "fever & sepsis"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cow milk",
+                "query": "osteoporos",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "bisphosphonates.md",
+                "file": "osteoporosis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +173,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of bisphosphonates"
+              "title": "Graph of osteoporosis"
             }
           }
         ]
@@ -286,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bisphosphonates.md",
+                "file": "osteoporosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +295,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bisphosphonates"
+              "title": "Backlinks for osteoporosis"
             }
           }
         ]
@@ -316,12 +315,22 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3aa9a04a2399ccce",
+  "active": "707718cf7f7a0c08",
   "lastOpenFiles": [
+    "bisphosphonates.md",
+    "osteoporosis.md",
+    "menorrhagia.md",
+    "vitals in children.md",
+    "fever & sepsis.md",
+    "kawasaki disease.md",
+    "contraceptives.md",
+    "red flags of sepsis in children.md",
+    "attachments/traffic light system for identifying risk of serious illness in under 5s.pdf",
+    "housekeeping/study tips.md",
+    "housekeeping/important contact numbers for leicester.md",
     "gastroprotection.md",
     "git problems in paeds.md",
     "vomiting in paeds.md",
-    "bisphosphonates.md",
     "calcium metabolism related topics.md",
     "haematospermia.md",
     "hypertension.md",
@@ -329,7 +338,6 @@
     "ckd classification & monitoring.md",
     "chronic kidney disease.md",
     "asthma- diagnosis (algorithm).md",
-    "menorrhagia.md",
     "nsaid.md",
     "flow charts/prostaglandins and leukotrienes.canvas",
     "asthma.md",
@@ -337,18 +345,10 @@
     "samter's triad.md",
     "asthma- new management 2024.md",
     "asthma- drugs.md",
-    "diabetes articles.md",
-    "asthma- old management.md",
     "attachments/asthma management in adults 2024 guidelines.jpg",
     "attachments/asthma management in adults 2024 guidelines.png",
-    "asthma- investigations.md",
     "attachments/diagnose asthma in ages 5-16yo.jpg",
     "attachments/diagnose asthma in people over 16yo.jpg",
-    "pelvic inflammatory disease.md",
-    "housekeeping/goal in managing a patient in GP setting..md",
-    "gp patients are getting more complex.md",
-    "dysphagia.md",
-    "heart failure.md",
     "attachments/MCP & MTP squeeze test for rheumatoid arthritis.jpg",
     "attachments/guidance on plasma viscosity.pdf",
     "housekeeping/revise recent changes.base",
@@ -367,7 +367,6 @@
     "attachments/universal-pain-assessment-tool-with-wong-baker-facesc2ae-pain-rating-scale.jpg",
     "Untitled",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
-    "attachments/bronchovesicular-2.mp3",
     "attachments/carhart's notch (otosclerosis).png",
     "flow charts/contraception after delivery.canvas",
     "flow charts/deep vein thrombosis.canvas",

@@ -25,3 +25,5 @@ Send to hospital in above scenarios.
 - This is why it's so important they have anti-pyretics pre-and post immunizations, otherwise they end up on the paeds ward having an LP
 - Oral antibiotics should not be prescribed to children with fever without apparent source. 
 - if a [[pneumonia#10. Community Acquired Pneumonia is linked|pneumonia]] is suspected but the child is not going to be referred to hospital then a chest x-ray does not need to be routinely performed. 
+
+![[fever & sepsis#Summary PDFs is embedded]]

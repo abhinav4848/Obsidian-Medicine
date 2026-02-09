@@ -25,6 +25,7 @@ https://bjgp.org/content/75/757?current-issue=y
 ## RCGP library
 https://research.ebsco.com/c/u3lu7a/search (need openathens login)
 UHL Guidelines: https://www.publication.uhleicester.nhs.uk/publication-scheme/pagl-document-library/
+Haemat guidelines by UHL: https://www.uhleicester.nhs.uk/services/haematology/haematology-referral-guidelines/
 ## Exam Booking Page
 https://www.rcgp.org.uk/mrcgp-exams/mrcgp-exam-applications 
 

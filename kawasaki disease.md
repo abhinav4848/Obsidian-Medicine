@@ -8,12 +8,17 @@ Fever lasting > 5 days.
 
 # Clinical Features
 Crash and burn on a Kawasaki ( #mnemonic)
-- Conjunctival injection
+- B/L conjunctival injection without exudate
 - Rash (polymorphous -> Desquamating)
-- Adenopathy (Cervical)
-- 🍓Strawberry tongue (also seen in strep sore throat/[[scarlet fever]]. Diff is that it starts white then becomes red whereas in kawasaki it stays red)- mucus membrane changes like bright red, cracked lips. 
-- Hand foot changes (edema, erythema) which later desquamates.
-- [[fever & sepsis|fever]]. (high grade. No response to antipyretics)
+- Cervical lymphadenopathy
+- 🍓Strawberry tongue (also seen in strep sore throat/[[scarlet fever]]. Diff is that it starts white then becomes red whereas in Kawasaki it stays red)
+	- mucus membrane changes like bright red (erythema) oral & pharyngeal mucosa, red, cracked lips. 
+- Oedema and erythema in the hands and feet which later desquamates.
+- [[fever & sepsis|Fever]] for 5 days or longer (high grade. No response to antipyretics)
+
+|                                                                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| and may have some of the following:<br><br>- <br>    <br>- erythema and cracking of lips; strawberry tongue; or erythema of oral and pharyngeal mucosa<br>    <br>- <br>   <br>    <br>- |
 
 May develop Coronary artery aneurysm, rupture, death. Do ECHO for screening
 # Treatment

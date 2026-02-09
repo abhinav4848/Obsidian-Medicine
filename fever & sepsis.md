@@ -7,7 +7,6 @@ aliases:
   - temp
   - temperature
 ---
-Fever in children under 5: [NG143](https://www.nice.org.uk/guidance/ng143/chapter/Recommendations#clinical-assessment-of-children-with-fever)
 # Sepsis
 Sepsis in under 16s: [NG254](https://www.nice.org.uk/guidance/ng254)
 - There are many different reference charts [here](https://www.nice.org.uk/guidance/ng254/resources/visual-summaries-15494513293): 
@@ -19,7 +18,12 @@ Sepsis in under 16s: [NG254](https://www.nice.org.uk/guidance/ng254)
 	- Pregnancy
 	- Over 16 (no pregnancy)
 
-# Summary PDF
+# Summary PDFs %%is embedded%%
 *See [[vitals in children]].* 
+Fever in children under 5: [NG143](https://www.nice.org.uk/guidance/ng143/chapter/Recommendations#clinical-assessment-of-children-with-fever)
+> [!NOTE]- Single combined PDF for quick reference. (*Always use latest pdf on the link in clinic*) 
+> ![[ng254- suspected-sepsis-managing-and-evaluating-risk-all-settings-pdf-15494830813.pdf]]
 
-Single combined PDF for quick reference. (*Always use latest pdf on the link in clinic*) ![[ng254- suspected-sepsis-managing-and-evaluating-risk-all-settings-pdf-15494830813.pdf]]
+Assessment of risk of serious illness (NG143)
+> [!NOTE]- Traffic light system for identifying risk of serious illness in under 5s
+> ![[traffic light system for identifying risk of serious illness in under 5s.pdf]]

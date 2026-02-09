@@ -4,7 +4,7 @@ tags:
 urls:
   - https://geekymedics.com/paediatric-vital-signs/
 ---
-*See [[fever & sepsis]] & [[red flags of sepsis in children]]*
+*See [[fever & sepsis]] & [[red flags of sepsis in children]]* 
 
 ---
 # Tachypnoea
@@ -12,7 +12,7 @@ respiratory rate
 - >50 breaths/minute, age 6-12 months;
 - >40 breaths/minute, age >12 months
 
-For [[scoring system|CURB-65]]: RR > 30
+*For [[scoring system|CURB-65]]: RR > 30*
 
 Increased RR often precedes desaturation in respiratory illness
 Count RR for a full minute, particularly in infants, as breathing can be irregular
@@ -29,14 +29,19 @@ For <12yo HR <60
 	- Under 3 months: temp > 38C
 	- Under 5 years: temp <36C
 - Always investigate fever in infants <3 months thoroughly (e.g. sepsis, UTI, meningitis)
+- Fever lasting more than 5 days should be assessed for [[kawasaki disease]]. 
 # Passing urine
 - Important for sepsis
 All ages: Not passed urine in the past 12 (infants) to 18 hours, OR for catheterised patients passed 0.5 to 1 ml/kg of urine per hour
 
+> For any child with fever, note oral mucosa and capillary refill time, weak pulse, cool extremities
 # BP
 ##### How low is too low a BP?
 - 1 month to 1 year: SBP <70
 - 1y to 10 years: SBP < (70+ (2 x age))
 - 11y to 17y: SBP <90
 
-See ![[ng254- suspected-sepsis-managing-and-evaluating-risk-all-settings-pdf-15494830813.pdf]]
+---
+
+![[fever & sepsis#Summary PDFs is embedded]]
+
