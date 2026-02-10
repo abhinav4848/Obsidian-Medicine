@@ -9,7 +9,7 @@ urls:
   - https://dermnetnz.org/topics/necrobiosis-lipoidica
 ---
 1. [[Erythema nodosum]]
-2. Pyoderma gangrenosum ([[inflammatory bowel disease|IBD]], [[systemic lupus erythematosis|SLE]]) -> Neutrophils attack shin. Cause deep, red, necrotic ulcers with a violaceous border. 
+2. Pyoderma gangrenosum ([[inflammatory bowel disease|IBD]], [[systemic lupus erythematosis|SLE]], Myeloid leukaemia, [[rheumatoid arthritis|RA]]) -> Neutrophils attack shin (neutrophilic dermatoses). Cause deep, red, necrotic ulcers with a violaceous border. [PCDS](https://www.pcds.org.uk/clinical-guidance/pyoderma-gangrenosum). Refer to Derm & give potent steroids
 	1. ![Pyoderma gangrenosum|300](https://assets.nhs.uk/nhsuk-cms/images/pyoderma-gangrenosum-0015_copy_2.width-1534.jpg)
 3. Pretibial myxedema ([[hyperthyroidism]]/ Thyrotoxicosis)- orange peel appearance of skin
 	1. ![Pretibial myxedema|300](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/w/pretibial-myxoedema-01.jpg)

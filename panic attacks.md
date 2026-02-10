@@ -50,4 +50,6 @@ See [[ssri#Side Effects of SSRIs|Side effects of SSRIs]].
 # Acute Treatment 
 **Before attack trigger is anticipated**: Propranolol
 - can use propranolol for Anxiety with symptoms such as palpitation, sweating and tremor. 
+- If prescribing, make sure you have up to date BP & HR noted. 
+- Advise propranolol can make a bit dizzy & light headed. 
 **During attack**: Rebreathe into a paper bag > BZD
