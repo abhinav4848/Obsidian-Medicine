@@ -20,8 +20,14 @@ urls:
 
 IUD (copper) is a cause. 
 IUS ([[contraceptives|Mirena]]) is a treatment.
+Rule out [[cancer- endometrial|Endometrial hyperplasia]]
+Rule out Fibroids (leiomyoma) as a cause. 
+- if main symptom about fibroids is pressure- TVS. 
+- If main symptom is IMG/HMB- hysteroscopy so that size/position can be checked & possible one stop treatment procedure performed. 
+- Treat: <3cm submucosal- LNG-IUD, larger ones- hysteroscopic resection/uterine artery embolization/Ulipristal acetate (reduces size- Specialist initiated)
 
 ---
+
 Once all [[contraceptives for bleeding reduction|underlying pathologies]] ruled out, management depends on need for contraception.
 ##### If yes: 
 - 1st line: LNG IUS (Mirena)
@@ -36,6 +42,10 @@ Both can be started on first day of periods.
 
 Norethisterone 5 mg TDS can be used as a short-term option to rapidly stop heavy menstrual bleeding. 
 
+---
+People with HMB & suspected endometrial pathology (submucosal fibroid/polyp/endometrial pathology) are offered OP hysteroscopy. 
+
+TVS if h.o fibroids/adenomyosis. It is second line in women who don't want hysteroscopy once they've been advised of the improved accuracy of the investigation for assessing endometrial pathology. 
 
 ---
 RCGP eLEARNING: https://elearning.rcgp.org.uk/course/view.php?id=351

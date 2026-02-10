@@ -30,7 +30,8 @@ Haemat guidelines by UHL: https://www.uhleicester.nhs.uk/services/haematology/ha
 https://www.rcgp.org.uk/mrcgp-exams/mrcgp-exam-applications 
 
 ## GP self test
-https://elearning.rcgp.org.uk/course/index.php?categoryid=56#features
+GP Self Test: https://elearning.rcgp.org.uk/course/index.php?categoryid=56#features
+Actual courses list for CPD: https://elearning.rcgp.org.uk/local/rcgp_coursedisplay/ 
 
 CPD catalogue by RCGP: https://elearning.rcgp.org.uk/local/rcgp_coursedisplay/index.php 
 
