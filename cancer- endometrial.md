@@ -12,7 +12,7 @@ Postmenopausal vaginal bleed.
 All women >55 with post menopausal bleed: 2 ww pathway.
 	Do initial TVS for thickness > If thick (>4mm), do diagnostic Hysteroscopy + Endometrial Biopsy
 
-**Progesterone, [[cancer- drugs involved in gynae cancers#COCP & Cancer risk|COCP]] reduces risk.**
+**Progesterone, [[cancer- drugs involved in gynae cancers#COCP & Cancer risk embedded|COCP]] reduces risk.**
 
 # Risk Factors
 Oestrogen increases risk.

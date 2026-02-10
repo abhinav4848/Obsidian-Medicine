@@ -35,3 +35,7 @@ Once all [[contraceptives for bleeding reduction|underlying pathologies]] ruled 
 Both can be started on first day of periods.
 
 Norethisterone 5 mg TDS can be used as a short-term option to rapidly stop heavy menstrual bleeding. 
+
+
+---
+RCGP eLEARNING: https://elearning.rcgp.org.uk/course/view.php?id=351

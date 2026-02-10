@@ -7,7 +7,7 @@ aliases:
   - Raloxifene
 ---
 
-#### COCP & Cancer risk
+#### COCP & Cancer risk %%embedded%%
 COCP ==increases== risk for [[cancer- breast (treatment)|Breast Cancer]] & [[cancer- cervical|Cervical Cancer]], Fibroid, Cervical ectropion.
 - E promotes cervical epithelial proliferation -> Facilitates persistent HPV infection
 - E&P causes breast cell proliferation. 
@@ -17,7 +17,7 @@ COCP ==decreases== risk for [[cancer- endometrial|Endometrial Cancer]] & [[cance
 - E&P suppresses ovulation
 
 OCP: *[[cancer- ovarian|Ovarian cancer]] protection*. #mnemonic 
-- Because OCP  suppresses ovulations. As well as pregnancy does same.
+- Because OCP suppresses ovulations. As well as pregnancy does same.
 
 ---
 # Drugs used to treat Gynae cancers

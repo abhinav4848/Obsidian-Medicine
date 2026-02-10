@@ -8,7 +8,7 @@ aliases:
 ---
 Premenopausal, post coital bleed.
 # Risk factor
-[[human papilloma virus]], Smoking, [[cancer- drugs involved in gynae cancers#COCP & Cancer risk|COCP]], Immunosuppression ([[HIV]], Post-organ transplant)
+[[human papilloma virus]], Smoking, [[cancer- drugs involved in gynae cancers#COCP & Cancer risk embedded|COCP]], Immunosuppression ([[HIV]], Post-organ transplant)
 
 Early first intercourse, many sexual partners, high parity, lower socioeconomic status
 # Old Screening

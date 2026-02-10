@@ -6,7 +6,7 @@ aliases:
 ---
 1. [[cancer- ovarian|Ovarian cancer]], [[cancer- breast (treatment)|Breast Cancer]] 
 	- Family history
-	- [[COCP]] effect: [[cancer- drugs involved in gynae cancers#COCP & Cancer risk|COCP & cancer Risk]] 
+	- [[COCP]] effect: [[cancer- drugs involved in gynae cancers#COCP & Cancer risk embedded|COCP & cancer Risk]] 
 
 2. [[cancer- colorectal|Colorectal cancer]], [[cancer- prostate|Prostate Cancer]]
 	- Age > Family history 
