@@ -30,7 +30,7 @@ They are also antidepressants that are almost entirely not used, even in compari
 # Atypical Antidepressants
 1. SNRI: Venlafaxine, Duloxetine (also used in [[incontinence- adult|Stress incontinence]])
 2. Atypical tetracyclic antidepressant: Mirtazapine
-	1. NaSSA: Noradrenergic & specific serotonergic antidepressant
+	1. NaSSA: Noradrenergic & specific serotonergic antidepressant (5HT3)
 3. Trazodone 
 4. Bupropion, and [[smoking|nicotinic]] acetylcholine antagonist. 
 	1. NDRI: NA and DA reuptake inhibitor

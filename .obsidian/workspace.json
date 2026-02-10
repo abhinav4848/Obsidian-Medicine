@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "osteoporosis.md",
+                "file": "cancer- drugs involved in gynae cancers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "osteoporosis"
+              "title": "cancer- drugs involved in gynae cancers"
             }
           },
           {
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "osteoporos",
+                "query": "osteoporosis",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "osteoporosis.md",
+                "file": "cancer- drugs involved in gynae cancers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +173,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of osteoporosis"
+              "title": "Graph of cancer- drugs involved in gynae cancers"
             }
           }
         ]
@@ -285,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "osteoporosis.md",
+                "file": "cancer- drugs involved in gynae cancers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for osteoporosis"
+              "title": "Backlinks for cancer- drugs involved in gynae cancers"
             }
           }
         ]
@@ -317,8 +317,14 @@
   },
   "active": "707718cf7f7a0c08",
   "lastOpenFiles": [
-    "bisphosphonates.md",
+    "cancer- breast (treatment).md",
+    "cancer- drugs involved in gynae cancers.md",
+    "ssri.md",
+    "depression.md",
+    "ondansetron.md",
     "osteoporosis.md",
+    "gynae drugs (hormonal).md",
+    "bisphosphonates.md",
     "menorrhagia.md",
     "vitals in children.md",
     "fever & sepsis.md",
@@ -338,13 +344,7 @@
     "ckd classification & monitoring.md",
     "chronic kidney disease.md",
     "asthma- diagnosis (algorithm).md",
-    "nsaid.md",
     "flow charts/prostaglandins and leukotrienes.canvas",
-    "asthma.md",
-    "asthma- acute attack.md",
-    "samter's triad.md",
-    "asthma- new management 2024.md",
-    "asthma- drugs.md",
     "attachments/asthma management in adults 2024 guidelines.jpg",
     "attachments/asthma management in adults 2024 guidelines.png",
     "attachments/diagnose asthma in ages 5-16yo.jpg",
