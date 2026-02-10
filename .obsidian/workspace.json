@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "menorrhagia.md",
+                "file": "cocp.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "menorrhagia"
+              "title": "cocp"
             }
           },
           {
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "osteoporosis",
+                "query": "cocp",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "menorrhagia.md",
+                "file": "cocp.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of menorrhagia"
+              "title": "Graph of cocp"
             }
           }
         ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "menorrhagia.md",
+                "file": "cocp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for menorrhagia"
+              "title": "Backlinks for cocp"
             }
           }
         ]
@@ -318,16 +318,20 @@
   },
   "active": "f9cfa1ea6292783d",
   "lastOpenFiles": [
+    "cancer- breast (treatment).md",
+    "cancer- breast (referral criteria).md",
+    "cocp.md",
+    "attachments/bpj12_ukmec_pages_28-29 (COCP only).pdf",
+    "cocp- pill ladder.md",
+    "menorrhagia.md",
     "cancer- drugs involved in gynae cancers.md",
     "cancer & associations.md",
-    "cancer- breast (treatment).md",
     "ssri.md",
     "depression.md",
     "ondansetron.md",
     "osteoporosis.md",
     "gynae drugs (hormonal).md",
     "bisphosphonates.md",
-    "menorrhagia.md",
     "vitals in children.md",
     "fever & sepsis.md",
     "kawasaki disease.md",
@@ -342,9 +346,6 @@
     "calcium metabolism related topics.md",
     "haematospermia.md",
     "hypertension.md",
-    "calcium channel blockers.md",
-    "ckd classification & monitoring.md",
-    "chronic kidney disease.md",
     "flow charts/prostaglandins and leukotrienes.canvas",
     "attachments/asthma management in adults 2024 guidelines.jpg",
     "attachments/asthma management in adults 2024 guidelines.png",
@@ -367,7 +368,6 @@
     "flow charts/h. pylori treatment flowchart.canvas",
     "attachments/universal-pain-assessment-tool-with-wong-baker-facesc2ae-pain-rating-scale.jpg",
     "Untitled",
-    "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "attachments/carhart's notch (otosclerosis).png",
     "flow charts/contraception after delivery.canvas",
     "flow charts/deep vein thrombosis.canvas",

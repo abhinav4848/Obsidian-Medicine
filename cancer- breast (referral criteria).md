@@ -13,7 +13,6 @@ Fixed, irregular, hard, painless lump ± nipple retraction ± fixed to skin (Pea
 ---
 # When to refer
 If the person concerned only has one first-degree or second-degree relative diagnosed with breast cancer they do NOT need to be referred unless any of the following are present in the family history:
-
 - age of diagnosis < 40 years (BRCA 1 or 2)
 - bilateral breast cancer
 - male breast cancer
@@ -25,7 +24,6 @@ If the person concerned only has one first-degree or second-degree relative diag
 - paternal history of breast cancer (two or more relatives on the father's side of the family)
 
 Women who are at an increased risk of breast cancer due to their family history may be offered screening from a younger age. The following patients should be referred to the breast clinic for further assessment:
-
 - one 1* (first-degree) female relative diagnosed with BC < 40 years, or
 - one 1* male relative diagnosed with BC at any age, or
 - one 1* relative with b/l BC where the first primary was diagnosed <50 years, or

@@ -35,6 +35,8 @@ Avoid in first 21 days (UKMEC-4: VTE Risk). After this,
 - Moderate [[pre-menstrual syndrome]] (severe PMS needs SSRI)
 - Endometriosis (also IUS can be used) 
 # Contraindications 
+UKMEC: [College of sexual & reproductive health](https://www.cosrh.org/Public/Public/Standards-and-Guidance/uk-medical-eligibility-criteria-for-contraceptive-use-ukmec.aspx)
+
 "*MBBS is very hard*" #mnemonic 
 (COCP has the most contraindications). 
 - [[Migraine]] with aura 
