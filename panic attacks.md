@@ -13,7 +13,7 @@ urls:
   - https://www.nice.org.uk/guidance/cg113/chapter/Recommendations#stepped-care-for-people-with-panic-disorder
 ---
 # Generalised anxiety disorder
-- having a number of different worries that are excessive and out of proportion to a particular situation    
+- having a number of different worries that are excessive and out of proportion to a particular situation 
 - having difficulty controlling one's worries.
 
 Always look for a potential physical cause when considering a psychiatric diagnosis. In anxiety disorders, important alternative causes include [[hyperthyroidism]], cardiac disease and medication-induced anxiety (NICE). Medications that may trigger anxiety include salbutamol, theophylline, [[corticosteroid|corticosteroids]], [[depression|antidepressants]] and caffeine. 

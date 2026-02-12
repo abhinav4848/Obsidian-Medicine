@@ -41,7 +41,7 @@ Examples of Non-Prescribable Emollients
 ## Emollients with Additional Properties
 - **Anti-bacterial**: Dermol, Eczmol
 	- *Dermol*: 
-		Dermol 500: Good for soap substitution but prefer not to use it as a leave-on moisturiser, as it has antibiotics in it, that can lead to irritant contact dermatitis.
+		Dermol 500: **Good for soap substitution** but prefer not to use it as a leave-on moisturiser, as it has antibiotics in it, that can lead to irritant contact dermatitis.
 		1. Antimicrobials: Benzalkonium chloride, Chlorhexidine dihydrochloride
 		2. Emollients: Liquid paraffin, Isopropyl myristate
 		For the occasional patient, who gets frequent skin infections, the use of a specific anti-septic emollient may be beneficial e.g. Dermol 600 Bath Emollient or Dermol 200 Shower Emollient, and Emulsiderm Liquid Emulsion. Dermol can occasionally irritate the skin if used too often, in which case it can be used once or twice a week

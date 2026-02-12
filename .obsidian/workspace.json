@@ -28,13 +28,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "panic attacks.md",
+                "file": "5-ht receptors (serotonin receptors).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "panic attacks"
+              "title": "5-ht receptors (serotonin receptors)"
+            }
+          },
+          {
+            "id": "4c959bf9aa4a5478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "abdominal stomas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "abdominal stomas"
             }
           },
           {
@@ -43,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hypertension.md",
+                "file": "emollients.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hypertension"
+              "title": "emollients"
             }
           },
           {
@@ -68,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anxiety",
+                "query": "stoma",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -132,8 +147,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -146,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "panic attacks.md",
+                "file": "abdominal stomas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +188,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of panic attacks"
+              "title": "Graph of abdominal stomas"
             }
           }
         ]
@@ -286,7 +300,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "panic attacks.md",
+                "file": "abdominal stomas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +310,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for panic attacks"
+              "title": "Backlinks for abdominal stomas"
             }
           }
         ]
@@ -316,18 +330,28 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f9cfa1ea6292783d",
+  "active": "4c959bf9aa4a5478",
   "lastOpenFiles": [
+    "5-ht receptors (serotonin receptors).md",
+    "abdominal stomas.md",
+    "antiemetics.md",
+    "cold sores.md",
+    "dyspepsia.md",
+    "gastroprotection.md",
+    "h. pylori.md",
+    "platelets.md",
+    "cocp.md",
+    "emollients.md",
+    "hypertension.md",
+    "panic attacks.md",
     "ssri.md",
     "shin lesions.md",
     "inflammatory bowel disease.md",
     "housekeeping/study tips.md",
-    "hypertension.md",
     "menorrhagia.md",
     "contraceptives for bleeding reduction.md",
     "gynae bleeding conditions.md",
     "cancer- endometrial.md",
-    "cocp.md",
     "cancer- breast (treatment).md",
     "cancer- breast (referral criteria).md",
     "attachments/bpj12_ukmec_pages_28-29 (COCP only).pdf",
@@ -335,17 +359,7 @@
     "cancer- drugs involved in gynae cancers.md",
     "cancer & associations.md",
     "depression.md",
-    "ondansetron.md",
-    "osteoporosis.md",
-    "gynae drugs (hormonal).md",
-    "bisphosphonates.md",
-    "vitals in children.md",
-    "fever & sepsis.md",
-    "kawasaki disease.md",
-    "contraceptives.md",
-    "red flags of sepsis in children.md",
     "attachments/traffic light system for identifying risk of serious illness in under 5s.pdf",
-    "housekeeping/important contact numbers for leicester.md",
     "flow charts/prostaglandins and leukotrienes.canvas",
     "attachments/asthma management in adults 2024 guidelines.jpg",
     "attachments/asthma management in adults 2024 guidelines.png",
