@@ -26,6 +26,7 @@ However, the term [[fungal infections of skin|tinea]] should strictly be used fo
 ## Treatment
 [[Ketoconazole]] (also works in [[seborrhoeic dermatitis]] as also *malassezia*, and in [[tinea capitis]]). 
 
+
 ---
 # Pityriasis alba
 Pityriasis alba is a type of low-grade eczema that mainly affects children. It consists of characteristic white lesions with a fine-scale, that commonly occur on the face, neck and upper arms, which subside to leave a hypopigmented area. 

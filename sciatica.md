@@ -27,3 +27,4 @@ See this NICE CKS [Link](https://cks.nice.org.uk/topics/sciatica-lumbar-radiculo
 4. CKS sciatica https://cks.nice.org.uk/topics/sciatica-lumbar-radiculopathy/ 
 5. The British Pain Society https://www.britishpainsociety.org/  
 6. Faculty of Pain Medicine of the Royal College of Anaesthetists https://fpm.ac.uk/ 
+7. Arthritis UK back pain booklet: https://authoring.arthritis-uk.org/media/ueydp3gz/arthritis-uk-back-pain-booklet.pdf 
