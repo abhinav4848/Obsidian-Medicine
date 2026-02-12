@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "abdominal stomas.md",
+                "file": "down's syndrome.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "abdominal stomas"
+              "title": "down's syndrome"
             }
           },
           {
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stoma",
+                "query": "down syn",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -147,7 +147,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -160,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "abdominal stomas.md",
+                "file": "down's syndrome.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of abdominal stomas"
+              "title": "Graph of down's syndrome"
             }
           }
         ]
@@ -300,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "abdominal stomas.md",
+                "file": "down's syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,7 +311,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for abdominal stomas"
+              "title": "Backlinks for down's syndrome"
             }
           }
         ]
@@ -332,8 +333,10 @@
   },
   "active": "4c959bf9aa4a5478",
   "lastOpenFiles": [
-    "5-ht receptors (serotonin receptors).md",
+    "down's syndrome statistics.md",
+    "down's syndrome.md",
     "abdominal stomas.md",
+    "5-ht receptors (serotonin receptors).md",
     "antiemetics.md",
     "cold sores.md",
     "dyspepsia.md",
@@ -357,8 +360,6 @@
     "attachments/bpj12_ukmec_pages_28-29 (COCP only).pdf",
     "cocp- pill ladder.md",
     "cancer- drugs involved in gynae cancers.md",
-    "cancer & associations.md",
-    "depression.md",
     "attachments/traffic light system for identifying risk of serious illness in under 5s.pdf",
     "flow charts/prostaglandins and leukotrienes.canvas",
     "attachments/asthma management in adults 2024 guidelines.jpg",

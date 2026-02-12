@@ -9,24 +9,25 @@ In the ideal situation, the site of the stoma should be marked with the patient 
 # Types of stomas
 Rule of thumb:  
 
-|                | Ileostomy         | Colostomy                                           |
-| -------------- | ----------------- | --------------------------------------------------- |
-| **Location**   | Right iliac fossa | Varies, more likely on the left side of the abdomen |
-| **Appearance** | Spouted           | Flushed                                             |
-| **Output**     | Liquid            | Solid                                               |
-# More detail:  
+|                | Ileostomy         | Colostomy                                           | Urostomy |
+| -------------- | ----------------- | --------------------------------------------------- | -------- |
+| **Location**   | Right iliac fossa | Varies, more likely on the left side of the abdomen | RIF      |
+| **Appearance** | Spouted           | Flushed                                             | Spouted  |
+| **Output**     | Liquid            | Solid                                               | Urine    |
+# More detail 
+[YouTube](https://www.youtube.com/watch?v=xjcKoHsH_1w)
 
-|**Name of stoma**|**Use**|**Common sites**|
-|---|---|---|
-|Gastrostomy|- Gastric decompression or fixation<br>- Feeding|Epigastrium|
-|Loop jejunostomy|- Seldom used as very high output<br>- May be used following emergency laparotomy with planned early closure|Any location according to need|
-|Percutaneous jejunostomy|- Usually performed for feeding purposes and site in the proximal bowel|Usually left upper quadrant|
-|Loop ileostomy|- Defunctioning of colon e.g. following rectal cancer surgery<br>- Does not decompress colon (if ileocaecal valve competent)|Usually right iliac fossa|
-|End ilestomy|- Usually following complete excision of colon or where ileocolic anastomosis is not planned<br>- May be used to defunction colon, but reversal is more difficult|Usually right iliac fossa|
-|End colostomy|Where a colon is diverted or resected and anastomosis is not primarily achievable or desirable|Either left or right iliac fossa|
-|Loop colostomy|- To defunction a distal segment of colon<br>- Since both lumens are present the distal lumen acts as a vent|May be located in any region of the abdomen, depending upon colonic segment used|
-|Caecostomy|Stoma of last resort where loop colostomy is not possible|Right iliac fossa|
-|Mucous fistula|- To decompress a distal segment of bowel following colonic division or resection<br>- Where closure of a distal resection margin is not safe or achievable|May be located in any region of the abdomen according to clinical need|
+| **Name of stoma**        | **Use**                                                                                                                                                                                              | **Common sites**                                                                 |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Gastrostomy              | - Gastric decompression or fixation<br>- Feeding                                                                                                                                                     | Epigastrium                                                                      |
+| Loop jejunostomy         | - Seldom used as very high output<br>- May be used following emergency laparotomy with planned early closure                                                                                         | Any location according to need                                                   |
+| Percutaneous jejunostomy | - Usually performed for feeding purposes and site in the proximal bowel                                                                                                                              | Usually left upper quadrant                                                      |
+| Loop ileostomy           | - Defunctioning of colon e.g. following rectal cancer surgery<br>- Does not decompress colon (if ileocaecal valve competent)                                                                         | Usually right iliac fossa                                                        |
+| End ilestomy             | End: **Distal part is removed**<br>- Usually following complete excision of colon or where ileocolic anastomosis is not planned<br>- May be used to defunction colon, but reversal is more difficult | Usually right iliac fossa                                                        |
+| End colostomy            | Where a colon is diverted or resected and anastomosis is not primarily achievable or desirable                                                                                                       | Either left or right iliac fossa                                                 |
+| Loop colostomy           | - To defunction a distal segment of colon<br>- Since both lumens are present the distal lumen acts as a vent                                                                                         | May be located in any region of the abdomen, depending upon colonic segment used |
+| Caecostomy               | Stoma of last resort where loop colostomy is not possible                                                                                                                                            | Right iliac fossa                                                                |
+| Mucous fistula           | - To decompress a distal segment of bowel following colonic division or resection<br>- Where closure of a distal resection margin is not safe or achievable                                          | May be located in any region of the abdomen according to clinical need           |
 # Complications
 Early complications (days post-op)  
 - Bleeding
