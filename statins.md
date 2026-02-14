@@ -24,6 +24,7 @@ OHGp 5th Ed:
 - Recheck lipid profile in 3 months. If target not met, promote lifestyle, check concordance, increase dose if tolerated/not on max dose. 
 - Check LFT in 3m & 1y after initiating, increasing dose. Don't check again unless clinically indicated. 
 - Do not routinely check CK levels- only if muscle pain. 
+- If CKD (eGFR <60): Give lower dose ([BNF](https://bnf.nice.org.uk/drugs/atorvastatin/#renal-impairment))
 # Interactions
 #interaction 
 - They increase effect of Warfarin. 
