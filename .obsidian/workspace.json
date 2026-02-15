@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hrt.md",
+                "file": "erythema multiforme.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hrt"
+              "title": "erythema multiforme"
             }
           },
           {
@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cocp",
+                "query": "erythema",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hrt.md",
+                "file": "erythema multiforme.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,7 +234,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of hrt"
+              "title": "Graph of erythema multiforme"
             }
           }
         ]
@@ -346,7 +346,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hrt.md",
+                "file": "erythema multiforme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +356,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hrt"
+              "title": "Backlinks for erythema multiforme"
             }
           }
         ]
@@ -378,10 +378,10 @@
   },
   "active": "6453e9aab3635304",
   "lastOpenFiles": [
+    "hrt.md",
     "cocp- pill ladder.md",
     "retinoids.md",
     "acne vulgaris.md",
-    "hrt.md",
     "trimethoprim.md",
     "diabetes treatment.md",
     "hba1c.md",

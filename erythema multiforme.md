@@ -1,12 +1,15 @@
 ---
 tags:
   - dermat
+urls:
+  - https://dermnetnz.org/topics/erythema-multiforme
 ---
 *See other [[erythemas]].*
 
 ![[erythema multiforme.jpg|300]]
 **Multiforme**: Having more than one shape or appearance. ( #mnemonic: Multi causes)
 Lesion is due to immune complex deposition. 
+Typically self limiting. 
 H/o sore throat followed by fever, myalgia, lethargy.
 
 Target lesions. Vesicle surrounded by hemorrhagic maculo-papule. 
