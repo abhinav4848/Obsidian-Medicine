@@ -24,7 +24,7 @@ As part of managing [[menopause]].
 NET (Most Androgenic) ≈ LNG < GSD ≈ DSG ≈ NGT < DRSP < Cyproterone acetate (Strongly anti-Androgenic)
 - **Second generation (LNG, NET)** → more androgenic
 - **Third generation (DSG, GSD, NGT)** → less androgenic
-- **Drospirenone** → anti-androgenic
+- **Drospirenone, Cyproterone acetate** → anti-androgenic
 
 ---
 # Methods of HRT
