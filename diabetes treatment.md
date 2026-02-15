@@ -59,7 +59,7 @@ If Metformin C/I
 - If risk of CVD -> SGLT-2 monotherapy
 - If not high risk CVD/no HF -> DPP4 inhibitor/Pioglitazone/Sulfonylurea.
 
-|                                                                                                   |                                                                                                                                                                                 |
+| Clinical Picture                                                                                  | Management                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Uncontrolled DM 2 despite lifestyle changes + eGFR <30 + h/o of Heart Failure + BMI >= 30 (obese) | Give Insulin                                                                                                                                                                    |
 | DM2 in obese with impaired RFT                                                                    | Give insulin or gliptins (DDP4 inhibitors. Avoid this if HF)                                                                                                                    |
