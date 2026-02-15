@@ -5,6 +5,7 @@ urls:
   - https://dermnetnz.org/topics/acne-vulgaris
   - https://www.pcds.org.uk/files/general/Acne-Pathway-2024-final-proof.pdf
   - https://www.pcds.org.uk/clinical-guidance/acne-vulgaris
+  - https://cks.nice.org.uk/topics/acne-vulgaris/management/primary-care-management/
 ---
 Occurs in adolescence
 - Androgen levels are normal however. 
@@ -12,15 +13,15 @@ Occurs in adolescence
 - Severity of acne is directly related to the degree of secretion of sebum -> sebaceous gland becomes blocked.
 - Anaerobic bacterium Propionibacterium acnes.
 # Treatment
+Benzoyl peroxide used especially if papules and pustules are present. 
 ### Mild-Mod
-12 weeks of FDC topical
-- adapalene (retinoid) with benzoyl peroxide, (brand: Epiduo 0.1%/2.5% gel. Apply OD in evening)
-- Add either oral lymecycline or oral doxycycline IF Moderate
-- [[retinoids|tretinoin]] with clindamycin, or
-- benzoyl peroxide with clindamycin (Brand: Duac. Use OD)
+12 weeks of topical FDC (fixed dose combination) 
+- adapalene (retinoid) + benzoyl peroxide (brand: Epiduo 0.1% or 0.3% + 2.5% gel. Apply OD in evening), or
+	- Add tetracycline (either oral lymecycline or oral doxycycline) IF Moderate
+- [[retinoids|tretinoin]] + clindamycin (brand: Treclin gel), or
+- benzoyl peroxide + clindamycin (brand: Duac. Use OD)
 
-Topical benzoyl peroxide can be used alone if contraindications exist or if the patient prefers to avoid retinoids or antibiotics.
-Benzoyl peroxide used especially if papules and pustules are present.
+Any topical retinoid or BPO can be used on its own if combination products are not tolerated, or patient prefers to avoid retinoids/abx
 ### Mod-Severe
 12 weeks FDC of topicals as above, or
 - Topical azelaic acid + either oral lymecycline or oral doxycycline
