@@ -15,7 +15,7 @@ Patients with CVD risk <10% will benefit from lipid lowering therapy if LDL >2.6
 #### Secondary prevention
 - LDL < 1.4
 
-## TG
+## Triglycerides
 Management of hypertriglyceridemia aims to reduce the risk of pancreatitis.
 If TG > 10, check for symptoms of pancreatitis. 
 

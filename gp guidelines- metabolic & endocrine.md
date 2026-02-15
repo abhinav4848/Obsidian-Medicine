@@ -1,0 +1,1 @@
+[Condensed guideline](https://www.rcgp.org.uk/getmedia/ff4cdd2d-7b67-4a9a-a004-aff01365c268/Metabolic-problems-endocrinology-SCCG-2025.pdf) 

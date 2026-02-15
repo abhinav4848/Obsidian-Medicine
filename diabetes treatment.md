@@ -6,6 +6,7 @@ aliases:
   - Diabetes Mellitus
   - DM-2
   - DM
+  - type 2 diabetes
 urls:
   - https://www.nice.org.uk/guidance/ng28
 ---
