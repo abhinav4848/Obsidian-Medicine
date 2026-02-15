@@ -21,7 +21,10 @@ As part of managing [[menopause]].
 	- If they have Mirena (It is IUS LNG), then can give oestrogen via another route. 
 	- It's the only IUS licensed for endometrial protection. 
 #### Androgenicity of progesterone 
-NET (least) < LNG < GSD < DSG < DRSP < Cyproterone acetate (most androgenic)
+NET (Most Androgenic) ≈ LNG < GSD ≈ DSG ≈ NGT < DRSP < Cyproterone acetate (Strongly anti-Androgenic)
+- **Second generation (LNG, NET)** → more androgenic
+- **Third generation (DSG, GSD, NGT)** → less androgenic
+- **Drospirenone** → anti-androgenic
 
 ---
 # Methods of HRT

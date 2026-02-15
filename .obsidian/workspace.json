@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "acne vulgaris.md",
+                "file": "hrt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "acne vulgaris"
+              "title": "hrt"
             }
           },
           {
@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "acne",
+                "query": "cocp",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "acne vulgaris.md",
+                "file": "hrt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,7 +234,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of acne vulgaris"
+              "title": "Graph of hrt"
             }
           }
         ]
@@ -346,7 +346,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "acne vulgaris.md",
+                "file": "hrt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +356,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for acne vulgaris"
+              "title": "Backlinks for hrt"
             }
           }
         ]
@@ -378,9 +378,13 @@
   },
   "active": "6453e9aab3635304",
   "lastOpenFiles": [
+    "cocp- pill ladder.md",
+    "retinoids.md",
+    "acne vulgaris.md",
+    "hrt.md",
+    "trimethoprim.md",
     "diabetes treatment.md",
     "hba1c.md",
-    "acne vulgaris.md",
     "acne.md",
     "diabetes drugs.md",
     "weight.md",
@@ -401,10 +405,6 @@
     "dyspepsia.md",
     "gastroprotection.md",
     "h. pylori.md",
-    "platelets.md",
-    "cocp.md",
-    "emollients.md",
-    "hypertension.md",
     "attachments/bpj12_ukmec_pages_28-29 (COCP only).pdf",
     "attachments/traffic light system for identifying risk of serious illness in under 5s.pdf",
     "flow charts/prostaglandins and leukotrienes.canvas",

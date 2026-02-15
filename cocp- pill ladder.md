@@ -31,6 +31,8 @@ Ethinyloestradiol (EE), Mestranol (M), Levonorgestrel (LNG), Norethisterone (NET
 \*\*30 - 40 indicates a variable dose of oestrogen.
 \*\*35 indicates a constant dose of oestrogen, but variable dose of progestogen
 
+**Co-Cyprindiol**: EE + cyproterone acetate, but high VTE risk. Used in [[acne vulgaris]] as 2nd line COCP. 
+
 ![[hrt#Androgenicity of progesterone]]
 
 # Examples: 
