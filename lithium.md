@@ -5,7 +5,7 @@ tags:
 aliases:
   - Lithium toxicity
 urls:
-  - "[BNF Lithium](https://bnf.nice.org.uk/drug/lithium-carbonate.html)"
+  - "[BNF Lithium](https://bnf.nice.org.uk/drugs/lithium-carbonate/#monitoring-requirements)"
 ---
 It's a mood stabiliser used in [[bipolar disorder]]. 
 
@@ -17,7 +17,8 @@ Lithium level, TFT, U&E (excreted by Kidneys).
 Bloods taken 12 hours post dose. 
 - TFT, U&E prior to treatment
 - Following change of dose, Lithium levels checked weekly until stabilized, then every 3 months
-- TFT, U&E every 6 months
+- TFT, U&E, Calcium, Body weight every 6 months
+	- *hypothyroidism, nephrogenic DI, weight gain are s/e.*
 
 TFT is monitored because Lithium inhibits iodine uptake & Thyroid hormone release, leading to [[hypothyroidism]]. Hypothyroidism can worsen depressive symptoms, or complicate bipolar management. 
 

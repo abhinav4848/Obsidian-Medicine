@@ -7,12 +7,12 @@ aliases:
   - vaccines
   - adult vaccination
 ---
-*See [[vaccine types]].* 
+*See [[vaccine types]] & [[immunisation schedule (paeds)|immunisation schedule]]*. 
 # Pneumococcal Vaccine
 Usually a one-off but every 5 years if spleen/CKD.
 ### Two types
 **1. Pneumococcal conjugate vaccine (PCV)**: 
-- children age 3 & 12-13 months
+- children age 16 weeks, then 12-13 months
 
 **2. Pneumococcal polysaccharide vaccine (PPV)**
 - adults > 65yo,

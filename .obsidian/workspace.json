@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "immunisation schedule (paeds).md",
+                "file": "dental antibiotics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "immunisation schedule (paeds)"
+              "title": "dental antibiotics"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vaccination",
+                "query": "dental ab",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "immunisation schedule (paeds).md",
+                "file": "dental antibiotics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of immunisation schedule (paeds)"
+              "title": "Graph of dental antibiotics"
             }
           }
         ]
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "immunisation schedule (paeds).md",
+                "file": "dental antibiotics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for immunisation schedule (paeds)"
+              "title": "Backlinks for dental antibiotics"
             }
           }
         ]
@@ -272,6 +272,17 @@
   },
   "active": "6453e9aab3635304",
   "lastOpenFiles": [
+    "dental antibiotics.md",
+    "lithium.md",
+    "monitoring bloods with drugs.md",
+    "c. difficile.md",
+    "housekeeping/revise recent changes.base",
+    "ace inhibitors.md",
+    "diabetes drugs.md",
+    "hrt.md",
+    "erythema multiforme.md",
+    "retinoids.md",
+    "immunisation schedule (paeds).md",
     "immunisation in adults.md",
     "vaccine types.md",
     "statistics- risk reduction, nnt, odds ratio.md",
@@ -279,7 +290,6 @@
     "statins.md",
     "5-ht receptors (serotonin receptors).md",
     "housekeeping/gp guidelines- resp.md",
-    "lithium.md",
     "vascular ulcers.md",
     "fever & sepsis.md",
     "emollients.md",
@@ -289,15 +299,6 @@
     "cardiac murmurs.md",
     "takayasu arteritis.md",
     "vasculitis.md",
-    "weight.md",
-    "rhinophyma.md",
-    "acne rosacea.md",
-    "ivermectin.md",
-    "erythemas.md",
-    "diabetes insipidus.md",
-    "cancer & associations.md",
-    "pregnancy skin disorders.md",
-    "statistics- study types.md",
     "desktop.ini",
     "attachments/bpj12_ukmec_pages_28-29 (COCP only).pdf",
     "attachments/traffic light system for identifying risk of serious illness in under 5s.pdf",
@@ -308,7 +309,6 @@
     "attachments/diagnose asthma in people over 16yo.jpg",
     "attachments/MCP & MTP squeeze test for rheumatoid arthritis.jpg",
     "attachments/guidance on plasma viscosity.pdf",
-    "housekeeping/revise recent changes.base",
     "attachments/erythema nodosum 2.png",
     "flow charts/hypertension management.canvas",
     "housekeeping/memorise.base",

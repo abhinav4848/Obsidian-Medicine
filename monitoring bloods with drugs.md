@@ -7,11 +7,11 @@ urls:
 Watch out for monitoring vs pre-treatment in the question. 
 ### Cardiovascular drugs
 
-| Drug           | Main monitoring parameters | Details of monitoring                                                                                                   |
-| -------------- | -------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Statins        | LFT                        | LFTs at baseline, 3 months and 12 months                                                                                |
-| ACE inhibitors | U&E                        | U&E prior to treatment, then after 3 weeks of starting it<br><br>U&E after increasing dose<br><br>U&E at least annually |
-| [[Amiodarone]] | TFT, LFT                   | TFT, LFT, U&E, CXR prior to treatment<br><br>TFT, LFT every 6 months                                                    |
+| Drug                              | Main monitoring parameters | Details of monitoring                                                                                                   |
+| --------------------------------- | -------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Statins                           | LFT                        | LFTs at baseline, 3 months and 12 months                                                                                |
+| [[ace inhibitors\|ACE inhibitor]] | U&E                        | U&E prior to treatment, then after 3 weeks of starting it<br><br>U&E after increasing dose<br><br>U&E at least annually |
+| [[Amiodarone]]                    | TFT, LFT                   | TFT, LFT, U&E, CXR prior to treatment<br><br>TFT, LFT every 6 months                                                    |
 
 ### Rheumatology drugs
 [NICE: Monitoring of DMARDs](https://cks.nice.org.uk/topics/dmards/management/monitoring-of-dmards/#azathioprine) 
@@ -24,7 +24,7 @@ Watch out for monitoring vs pre-treatment in the question.
 
 | Drug             | Main monitoring parameters | Details of monitoring                                                                                                                                                                                                                                                                                                                        |
 | ---------------- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Lithium]]      | Lithium level, TFT, U&E    | - Lithium level, TFT, U&e (liTHium-> THyroid function test) #mnemonic <br><br>- TFT, U&e prior to treatment<br>- Lithium levels weekly until stabilized, then every 3 months<br>- TFT, U&E every 6 months<br>                                                                                                                                |
+| [[Lithium]]      | Lithium level, TFT, U&E    | - Lithium level, TFT, U&e (liTHium-> THyroid function test) #mnemonic <br><br>- TFT, U&e prior to treatment<br>- Lithium levels weekly until stabilized, then every 3 months<br>- TFT, U&E, Calcium, body weight every 6 months<br>                                                                                                          |
 | Sodium valproate | LFT                        | LFT, FBC & body mass index before treatment<br><br>LFT 'periodically' during first 6 months<br><br>Valproate levels are not routinely measured unless there is evidence of ineffectiveness, poor compliance, or toxicity is suspected. [CKS](https://cks.nice.org.uk/topics/bipolar-disorder/prescribing-information/valproate/#monitoring). |
 ### Endocrine drugs
 

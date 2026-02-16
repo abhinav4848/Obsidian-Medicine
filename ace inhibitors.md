@@ -22,6 +22,9 @@ First line if HTN + diabetes
 - Normal BP diabetic patient with 2 episodes of microalbuminuria -> Start on ACE inhibitors as it's Reno-protective. 
 
 
+---
+See [[monitoring bloods with drugs]]
+
 
 
 
