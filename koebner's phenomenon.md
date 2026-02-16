@@ -6,3 +6,4 @@ tags:
 [[Psoriasis]], 
 [[Molluscum contagiosum]], 
 [[vitiligo]] 
+[[erythema multiforme]] 
