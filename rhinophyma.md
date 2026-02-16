@@ -2,6 +2,8 @@
 tags:
   - dermat
   - ent
+urls:
+  - https://www.dermnetnz.org/topics/rhinophyma/
 ---
 Nose disfigurement due to [[acne rosacea]].
-Refer to dermatology. 
+Rhinophyma secondary to rosacea-> Refer to dermatology. 

@@ -8,4 +8,5 @@ tags:
 [[behcet's disease]]
 [[kawasaki disease]]
 [[polymyalgia rheumatica|temporal arteritis]]
+[[takayasu arteritis]]
 [[hsp vs itp]] 

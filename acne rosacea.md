@@ -8,7 +8,7 @@ aliases:
   - rosacea
 OHGp 5th Ed: 570
 ---
-Relapsing–remitting chronic inflammatory facial dermatosis characterized by erythema and pustules.
+Relapsing–remitting chronic inflammatory facial dermatosis characterized by [[erythemas]] and pustules.
 - Presents in later life/middle age. 
 - Can affect anyone but more common in whites. 
 - Demodex mites don't cause rosacea, but they exacerbate the inflammatory reaction. 
@@ -19,7 +19,7 @@ Consumption of [[alcohol]], sunlight exposure, hot spicy food worsens symptoms.
 
 # Clinical Features
 - Affects nose, cheeks, forehead. 
-- flushing, telangiectasia -> persistent erythema + papules/pustules. 
+- initial flushing, telangiectasia -> later, persistent erythema + papules/pustules. 
 - [[rhinophyma]].
 - ocular involvement: [[blepharitis]], FB sensation, photophobia, [[conjunctivitis]], keratitis (can happen without skin involvement)
 
@@ -28,8 +28,8 @@ Apply high SPF cream daily.
 Camouflage creams help hide redness
 
 1. Erythematous macules & **Flushing**, limited telangiectasia.
-	- Topical brimonidine gel: topical alpha agonist that temporarily reduces redness. Use PRN. Peak action at 3-6 hrs. 
-2. Mild/moderate: Persistent erythema, Red papules and pustules like acne but without comedones.
+	- Topical brimonidine gel: topical alpha-agonist that temporarily reduces redness & flushing. Use PRN. Peak action at 3-6 hrs. 
+2. Mild/moderate: Persistent erythema, Red papules and pustules (papulopustular rosacea) like acne but without comedones.
 	- **Mild symptoms**: Topical [[ivermectin]]-> it's an anti-parasitic drug 
 		- (alternatives: Topical [[metronidazole]], or topical azelaic acid in [[drugs contraindicated in pregnancy|pregnant]]) #abx 
 			- Ivermectin works better than Metronidazole for papulopustular disease. 
