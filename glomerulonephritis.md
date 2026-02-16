@@ -8,7 +8,7 @@ aliases:
   - Syn-pharyngitic glomerulonephritis
 ---
 # IgA Glomerulonephritis
-aka Berger's disease (Not Buerger's disease which is thromboangiitis obliterans), Syn-pharyngitic glomerulonephritis
+aka Berger's disease (Not [[vascular ulcers|Buerger's disease]] which is thromboangiitis obliterans), Syn-pharyngitic glomerulonephritis
 
 1-2 days after URTI (or along with URTI)
 [[haematuria]], Young males. (HSP affects children more)

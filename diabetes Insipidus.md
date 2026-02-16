@@ -15,10 +15,10 @@ Dilute urine = Low Osmolality Urine.
 Low ADH Production. Responds to Desmopressin (e.g. [[Sarcoidosis]] -> involvement of hypothalamus)
 ## Nephrogenic
 Kidney resistant to ADH. (e.g. [[Lithium]], Hypercalcemia, Hypokalemia)
-### Hypokalemia
+#### Hypokalemia
 Low K+ can cause Na+/2Cl/K+ pump to fail so Na+ not reabsorbed -> Urine Na loss & polyuria.
 
-# C/F
+# Clinical Features
 Polyuria, extreme thirst & polydipsia, dehydration
 Symptoms of [[Hypernatremia]].
 High serum osmolality, Low urine osmolality,
