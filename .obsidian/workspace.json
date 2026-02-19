@@ -11,15 +11,17 @@
             "id": "6453e9aab3635304",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "dental antibiotics.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "flow charts/haematuria.canvas",
+                "viewState": {
+                  "x": 344,
+                  "y": -50,
+                  "zoom": -0.44016704414862484
+                }
               },
-              "icon": "lucide-file",
-              "title": "dental antibiotics"
+              "icon": "lucide-layout-dashboard",
+              "title": "haematuria"
             }
           }
         ]
@@ -55,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dental ab",
+                "query": "haematuria",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -100,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dental antibiotics.md",
+                "file": "flow charts/haematuria.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +130,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of dental antibiotics"
+              "title": "Graph of haematuria"
             }
           }
         ]
@@ -240,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dental antibiotics.md",
+                "file": "flow charts/haematuria.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +252,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for dental antibiotics"
+              "title": "Backlinks for haematuria"
             }
           }
         ]
@@ -272,6 +274,8 @@
   },
   "active": "6453e9aab3635304",
   "lastOpenFiles": [
+    "haematuria.md",
+    "flow charts/haematuria.canvas",
     "dental antibiotics.md",
     "lithium.md",
     "monitoring bloods with drugs.md",
@@ -298,7 +302,6 @@
     "coarctation of aorta.md",
     "cardiac murmurs.md",
     "takayasu arteritis.md",
-    "vasculitis.md",
     "desktop.ini",
     "attachments/bpj12_ukmec_pages_28-29 (COCP only).pdf",
     "attachments/traffic light system for identifying risk of serious illness in under 5s.pdf",
@@ -314,7 +317,6 @@
     "housekeeping/memorise.base",
     "attachments/breast cancer referral (summary image).png",
     "attachments/anticholinergic burden table.png",
-    "flow charts/haematuria.canvas",
     "flow charts/paeds examination.canvas",
     "Clippings",
     "attachments/ng254- suspected-sepsis-managing-and-evaluating-risk-all-settings-pdf-15494830813.pdf",
