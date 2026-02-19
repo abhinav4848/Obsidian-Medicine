@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "head lice.md",
+                "file": "pre-eclampsia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "head lice"
+              "title": "pre-eclampsia"
             }
           },
           {
@@ -100,10 +100,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "protein creat",
                 "matchingCase": false,
                 "explainSearch": true,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
               },
@@ -131,7 +131,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -144,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "head lice.md",
+                "file": "pre-eclampsia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +173,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of head lice"
+              "title": "Graph of pre-eclampsia"
             }
           }
         ]
@@ -284,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "head lice.md",
+                "file": "pre-eclampsia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +295,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for head lice"
+              "title": "Backlinks for pre-eclampsia"
             }
           }
         ]
@@ -316,9 +317,15 @@
   },
   "active": "800ac12872ca68bf",
   "lastOpenFiles": [
-    "lichens.md",
-    "head lice.md",
+    "hus vs ttp.md",
+    "ckd pharmacology.md",
+    "cancer- urology.md",
+    "migraine.md",
+    "headache.md",
+    "raynaud.md",
     "systemic sclerosis.md",
+    "head lice.md",
+    "lichens.md",
     "steroids in dermatology.md",
     "eczema.md",
     "heart failure.md",
@@ -340,12 +347,6 @@
     "housekeeping/revise recent changes.base",
     "ace inhibitors.md",
     "diabetes drugs.md",
-    "hrt.md",
-    "erythema multiforme.md",
-    "retinoids.md",
-    "immunisation schedule (paeds).md",
-    "immunisation in adults.md",
-    "vaccine types.md",
     "desktop.ini",
     "attachments/bpj12_ukmec_pages_28-29 (COCP only).pdf",
     "attachments/traffic light system for identifying risk of serious illness in under 5s.pdf",
