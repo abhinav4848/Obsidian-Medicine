@@ -26,15 +26,17 @@
             "id": "79af39943de0e724",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "shoulder examination.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "flow charts/shoulder exam.canvas",
+                "viewState": {
+                  "x": -55,
+                  "y": 393.5,
+                  "zoom": -0.3009460664730757
+                }
               },
-              "icon": "lucide-file",
-              "title": "shoulder examination"
+              "icon": "lucide-layout-dashboard",
+              "title": "shoulder exam"
             }
           }
         ],
@@ -115,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "shoulder examination.md",
+                "file": "flow charts/shoulder exam.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +145,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of shoulder examination"
+              "title": "Graph of shoulder exam"
             }
           }
         ]
@@ -255,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shoulder examination.md",
+                "file": "flow charts/shoulder exam.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +267,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for shoulder examination"
+              "title": "Backlinks for shoulder exam"
             }
           }
         ]
@@ -287,8 +289,9 @@
   },
   "active": "79af39943de0e724",
   "lastOpenFiles": [
-    "housekeeping/gp guidelines- msk.md",
     "shoulder examination.md",
+    "flow charts/shoulder exam.canvas",
+    "housekeeping/gp guidelines- msk.md",
     "flow charts/haematuria.canvas",
     "haematuria.md",
     "dental antibiotics.md",
@@ -314,7 +317,6 @@
     "emollients.md",
     "diabetes treatment.md",
     "glomerulonephritis.md",
-    "coarctation of aorta.md",
     "desktop.ini",
     "attachments/bpj12_ukmec_pages_28-29 (COCP only).pdf",
     "attachments/traffic light system for identifying risk of serious illness in under 5s.pdf",
@@ -341,7 +343,6 @@
     "flow charts/contraception after delivery.canvas",
     "flow charts/deep vein thrombosis.canvas",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
-    "_chicken Pox treatment flowchart (Work in progress).canvas",
-    "Chicken Pox treatment flowchart (Work in progress).canvas"
+    "_chicken Pox treatment flowchart (Work in progress).canvas"
   ]
 }

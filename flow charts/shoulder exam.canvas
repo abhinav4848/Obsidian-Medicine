@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"793e2950a122447c","x":-240,"y":-140,"width":250,"height":100,"type":"text","text":"Ask to move neck first, then shoulder. Which produces pain?"},
+		{"id":"5117ec676110dfc8","x":-600,"y":89,"width":250,"height":108,"type":"text","text":"Neck\n- Follow spinal guidelines"},
+		{"id":"56456591b117c77d","x":-188,"y":71,"width":250,"height":144,"type":"text","text":"[[shoulder examination]]\n- History of instability? Joint coming out/worry about dislocation"},
+		{"id":"7d549db6d3c21e93","x":240,"y":65,"width":250,"height":157,"type":"text","text":"Instability: common in age 10-35yo. Refer physio if atraumatic\nT&O if Instability/failed physio"},
+		{"id":"a489ac298cc078df","x":240,"y":263,"width":250,"height":237,"type":"text","text":"**ACJ disease**\ncommon age > 30yo. \n- rest/NSAID/physio/xray if no improvement\nRefer if transient or no response to injection and physio"},
+		{"id":"e9fc0d591980f338","x":-188,"y":512,"width":250,"height":60,"type":"text","text":"Is there reduced **passive** external rotation?"},
+		{"id":"976049ce4da2d47b","x":240,"y":572,"width":250,"height":335,"type":"text","text":"Rotator cuff tendinopathy\n(35 - 75yo)\n- Rest / NSAIDs / analgesics\n- Subacromial injection\n- Physiotherapy\n\nN.B. Although an ultrasound or MRI scan can be of value, some people over 65 years have asymptomatic cuff tears"},
+		{"id":"76b10ba1b510021c","x":-188,"y":640,"width":250,"height":220,"type":"text","text":"Painful arc of abduction?\nPain on Empty can test, worse on resistance.\n\nh/o trauma with loss of abduction in younger patients: Red Flag (acute cuff tear)"},
+		{"id":"2e1b663e3d9e0f5b","x":-600,"y":319,"width":250,"height":446,"type":"text","text":"**GH joint**\nFrozen shoulder (age 35 - 65yo), Arthritis (age >60yo)\n- X-ray- to differentiate\n- Rest\n- NSAIDs/analgesics\n- Patient information\n- Cortisone injection\n\nRefer if: frozen shoulder with normal x-ray / severe functional limitation\n\nRefer if arthritis on x-ray and poor response to analgesics and injection"},
+		{"id":"f69829a10ec92926","x":-188,"y":339,"width":250,"height":85,"type":"text","text":"Palpate ACJ- tender?\nHigh arc pain?\n+ve cross arm test?"}
+	],
+	"edges":[
+		{"id":"e4e15fde85886066","fromNode":"793e2950a122447c","fromSide":"bottom","toNode":"5117ec676110dfc8","toSide":"top"},
+		{"id":"bd623508edd099a6","fromNode":"793e2950a122447c","fromSide":"bottom","toNode":"56456591b117c77d","toSide":"top"},
+		{"id":"fd63b7511b586bcb","fromNode":"56456591b117c77d","fromSide":"right","toNode":"7d549db6d3c21e93","toSide":"left","label":"Yes"},
+		{"id":"a5c40661dbb822ec","fromNode":"56456591b117c77d","fromSide":"bottom","toNode":"f69829a10ec92926","toSide":"top"},
+		{"id":"cc4971511faffe76","fromNode":"f69829a10ec92926","fromSide":"right","toNode":"a489ac298cc078df","toSide":"left","label":"Yes"},
+		{"id":"4dd9d9b7779ec68c","fromNode":"f69829a10ec92926","fromSide":"bottom","toNode":"e9fc0d591980f338","toSide":"top"},
+		{"id":"ee0d926ed6fd3a14","fromNode":"e9fc0d591980f338","fromSide":"left","toNode":"2e1b663e3d9e0f5b","toSide":"right","label":"Yes"},
+		{"id":"92905e633062907f","fromNode":"e9fc0d591980f338","fromSide":"bottom","toNode":"76b10ba1b510021c","toSide":"top"},
+		{"id":"c4e9c764b33b8948","fromNode":"76b10ba1b510021c","fromSide":"right","toNode":"976049ce4da2d47b","toSide":"left","label":"Yes"}
+	]
+}
