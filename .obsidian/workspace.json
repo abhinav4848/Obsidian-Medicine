@@ -11,20 +11,34 @@
             "id": "6453e9aab3635304",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "flow charts/haematuria.canvas",
-                "viewState": {
-                  "x": 344,
-                  "y": -50,
-                  "zoom": -0.44016704414862484
-                }
+                "file": "housekeeping/gp guidelines- msk.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "haematuria"
+              "icon": "lucide-file",
+              "title": "gp guidelines- msk"
+            }
+          },
+          {
+            "id": "79af39943de0e724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shoulder examination.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "shoulder examination"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "haematuria",
+                "query": "MSK",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -88,8 +102,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -102,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "flow charts/haematuria.canvas",
+                "file": "shoulder examination.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +143,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of haematuria"
+              "title": "Graph of shoulder examination"
             }
           }
         ]
@@ -242,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flow charts/haematuria.canvas",
+                "file": "shoulder examination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +265,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for haematuria"
+              "title": "Backlinks for shoulder examination"
             }
           }
         ]
@@ -272,10 +285,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6453e9aab3635304",
+  "active": "79af39943de0e724",
   "lastOpenFiles": [
-    "haematuria.md",
+    "housekeeping/gp guidelines- msk.md",
+    "shoulder examination.md",
     "flow charts/haematuria.canvas",
+    "haematuria.md",
     "dental antibiotics.md",
     "lithium.md",
     "monitoring bloods with drugs.md",
@@ -300,8 +315,6 @@
     "diabetes treatment.md",
     "glomerulonephritis.md",
     "coarctation of aorta.md",
-    "cardiac murmurs.md",
-    "takayasu arteritis.md",
     "desktop.ini",
     "attachments/bpj12_ukmec_pages_28-29 (COCP only).pdf",
     "attachments/traffic light system for identifying risk of serious illness in under 5s.pdf",
