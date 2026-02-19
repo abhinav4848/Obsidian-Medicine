@@ -45,24 +45,13 @@ Avoid triggers- soaps, or anything that bubbles/lathers, cigarette smoke, irrita
 [[emollients]]
 ## Steroids 
 See: [[steroids in dermatology]]. 
-> [!Topical Steroids] 
-> Apply thinly for short duration. Mostly rely on
-> - **Mild strength**: Hydrocortisone acetate 0.5, 1, or 2.5% 
-> - **Moderate strength**: Betamethasone valerate (0.025%), Clobetasone (Eumovate)
-> - **Potent strength**:
-> 	- Betamethasone valerate (0.1%) (Betnovate),
-> 	- Mometasone (0.1%)-> For severe eczema not responding to emollients and hydrocortisone.
-> 	- Hydrocortisone Butyrate
-> - Very potent: Clobetasol propionate (0.5%) aka Dermovate
-> - #Mnemonic: HEBDO -> Hydrocortisone > Eumovate > Betnovate > Dermovate > Oral
+![[steroids in dermatology#Easy memorisation of topical steroids linked]]
 - If eczema awakens the patient at night, consider sedative anti-histamines (Chlorpheniramine)
 - Treat bacterial infection with oral antibiotic. 
 ## Topical Calcineurin inhibitor 
 Topical calcineurin inhibitors (e.g. tacrolimus, brand Protopic) can be used as steroid-sparing agents and are typically second-line treatment for eczema.
 
 Useful on delicate/steroid-sensitive areas, such as the face, eyelids, and flexures, where prolonged topical steroid use risks skin atrophy. 
-
-
 # Safety net
 - Recognise a flare: A ‘flare’ is a worsening of the eczema. Skin may become red, sore, (more) itchy, crack or bleed. 
 - Recognise infected eczema: it could be infected and your child may need antibiotics

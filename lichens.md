@@ -10,11 +10,24 @@ aliases:
 # [[Lichen planus]]
 
 ---
-# Lichen Sclerosis
+# Lichen Sclerosus
+- [Dermnetz](https://www.dermnetnz.org/topics/lichen-sclerosus/) 
+- British Association for Sexual Health and HIV- [Management of Vulval Conditions (2014)](https://bssvd.org/wp-content/uploads/2018/06/BASH-UK-national-guideline-for-the-management-of-vulval-conditions-2014.pdf) 
+- [PCDS](https://www.pcds.org.uk/clinical-guidance/lichen-sclerosis)
+
 Affects genitalia only -> seen mostly on vulva of elderly women  
-White plaques on anogenital skin + itching at night
+Chronic, pale, atrophic, crinkled, white plaques on anogenital skin + itching at night
 ## Treatment
-Topical steroids, Follow up 3-6 months because risk of SCC vulva seen in old age. 
+Very potent [[steroids in dermatology|Topical Steroids]] (Clobetasol propionate 0.05%), 
+Follow up 3-6 months because 5% risk of SCC vulva seen in old age. #associated 
+- SCC: A persistent area of hyperkeratosis, erosion or erythema, or new warty or papular lesions;
+Emollients to continue
+
+---
+
+Balanitis xerotica obliterans- Male equivalent. Affects foreskin, glans, urethral meatus. 
+Age: Prepubertal boys, Middle aged men
+Also needs potent topical steroids, circumcision. 
 
 ---
 # Lichen Simplex Chronicus

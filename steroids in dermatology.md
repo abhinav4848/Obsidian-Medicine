@@ -12,12 +12,24 @@ aliases:
 Topical corticosteroid preparation potencies 
 (*Oxford handbook GP 5th ed Page 563*) 
 
-| Potency     | Examples                                                                                                                                                                                                                                                                 |
+| Potency     | Brand Examples                                                                                                                                                                                                                                                           |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Mild        | Hydrocortisone 0.1–2.5%, Dioderm®, Mildison®, Synalar® 1 in 10<br>• *With antimicrobials* Canesten® HC, Fucidin® H, Timodine®, [Daktacort](https://bnf.nice.org.uk/drugs/hydrocortisone-with-miconazole/medicinal-forms/) ®<br>• *With crotamiton* Eurax-Hydrocortisone® |
 | Moderate    | Betamethasone valerate 0.025% (Betnovate®-​RD), Eumovate® <br>• *With antimicrobials* Trimovate® (clobetasone, nystatin, oxytetracycline)<br>• *With [[urea]]* Alphaderm                                                                                                 |
 | Potent      | Betamethasone valerate 0.1% (Betnovate®), Betacap®, Elocon®, Locoid®, Synalar® <br>• *With antimicrobials* Aureocort®, Betnovate®-C or -N, Fucibet® <br>• *With salicylic acid* Diprosalic®                                                                              |
 | Very Potent | Dermovate®, Nerisone® Forte<br>• *With antimicrobials* Dermovate®-N                                                                                                                                                                                                      |
+### Easy memorisation of topical steroids %%linked%%
+> [!Topical Steroids] 
+> Apply thinly for short duration. Mostly rely on
+> - **Mild strength**: Hydrocortisone acetate 0.5, 1, or 2.5% 
+> - **Moderate strength**: Betamethasone valerate (0.025%), Clobetasone (Eumovate)
+> - **Potent strength**:
+> 	- Betamethasone valerate (0.1%) (Betnovate),
+> 	- Mometasone (0.1%)-> For severe eczema not responding to emollients and hydrocortisone.
+> 	- Hydrocortisone Butyrate
+> - Very potent: Clobetasol propionate (0.5%) aka Dermovate
+> - #Mnemonic: HEBDO -> Hydrocortisone > Eumovate > Betnovate > Dermovate > Oral
+
 ## What is the role of 
 1. Urea: See [[Urea]] 
 2. **Crotamiton**: Antipruritic, Mild scabicidal activity.
