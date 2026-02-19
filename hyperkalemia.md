@@ -17,9 +17,12 @@ Acidosis
 Rhabdomyolysis
 Massive blood transfusion
 # Severity
-Mild (5.5-5.9)
-Moderate: (6-6.4)
-Severe (>= 6.5)
+- Mild (5.5-5.9)
+- Moderate: (6-6.4)
+- Severe (>= 6.5)
+### Action if found in primary care
+<=6.0 urgent repeat in a week
+\>6.0 immediate repeat same day (whether DHU or hospital) 
 # Treatment
 If mild or moderate with no ECG changes
 Stop the offending drug.

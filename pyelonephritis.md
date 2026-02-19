@@ -5,10 +5,11 @@ aliases:
 tags:
   - nephrology
 ---
+B/l pyelonephritis is very rare. 
 # Clinical Features
 Suspect Pyelonephritis if:
 - kidney pain/tenderness in the back/under ribs
-- flu-like illness
+- flu-like illness 
 - nausea/vomiting
 - shaking chills (rigors), OR [[fever & sepsis|temp]] > 37.9C, or <36C
 # Investigation

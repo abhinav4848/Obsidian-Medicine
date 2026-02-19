@@ -28,17 +28,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shoulder examination.md",
+                "file": "heart failure.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "shoulder examination"
+              "title": "heart failure"
+            }
+          },
+          {
+            "id": "eb8afdf12f772189",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.nice.org.uk/guidance/ng106/chapter/Recommendations#diagnosing-heart-failure",
+                "title": "Recommendations | Chronic heart failure in adults: diagnosis and management | Guidance | NICE",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Recommendations | Chronic heart failure in adults: diagnosis and management | Guidance | NICE"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -71,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MSK",
+                "query": "heart failure",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -102,7 +116,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -115,7 +130,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "shoulder examination.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +157,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of shoulder examination"
+              "title": "Graph view"
             }
           }
         ]
@@ -255,7 +269,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shoulder examination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +278,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for shoulder examination"
+              "title": "Backlinks"
             }
           }
         ]
@@ -285,10 +298,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "79af39943de0e724",
+  "active": "eb8afdf12f772189",
   "lastOpenFiles": [
-    "flow charts/shoulder exam.canvas",
+    "heart failure.md",
+    "hypertension.md",
+    "hyperkalemia.md",
+    "pyelonephritis.md",
     "shoulder examination.md",
+    "flow charts/shoulder exam.canvas",
     "housekeeping/gp guidelines- msk.md",
     "flow charts/haematuria.canvas",
     "haematuria.md",
@@ -312,9 +329,6 @@
     "housekeeping/gp guidelines- resp.md",
     "vascular ulcers.md",
     "fever & sepsis.md",
-    "emollients.md",
-    "diabetes treatment.md",
-    "glomerulonephritis.md",
     "desktop.ini",
     "attachments/bpj12_ukmec_pages_28-29 (COCP only).pdf",
     "attachments/traffic light system for identifying risk of serious illness in under 5s.pdf",
