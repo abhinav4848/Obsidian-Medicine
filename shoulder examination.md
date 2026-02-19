@@ -8,10 +8,9 @@ Shoulder is not one joint but four:
 In assessing a patient with a shoulder disorder, the history and examination need to separate out these four joints.
 
 People coming with shoulder pain can have many different problems. 
-- ACJ osteoarthritis if tender on the front- palpate it. 
+- ACJ osteoarthritis if tender on the front- palpate it. Arthritis common over age 60yo. & creaks. 
 - GH joint if tender on the outside of shoulder
 - subacromial problem if pain on abduction
-- Frozen shoulder is more likely in elderly > 50yo
 - Impingement: Have normal movement but painful. If halfway up or from halfway, possible impingement. If at the top (ACJ arthritis) 
 
 # Test approach
@@ -28,4 +27,5 @@ Examination: Do active and passive combined.
 
 # Findings
 Bilateral morning stiffness: [[polymyalgia rheumatica]]
+Frozen shoulder is more likely in 35-65 & doesn't creak. It's rare after 70yo. Has 3 stages- Freezing, frozen, thawing. Each stage lasts 4-8 months and may not fully recover. Freezing stage can be very painful (night and day). 
 

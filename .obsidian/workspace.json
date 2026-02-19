@@ -26,17 +26,15 @@
             "id": "79af39943de0e724",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "flow charts/shoulder exam.canvas",
-                "viewState": {
-                  "x": -55,
-                  "y": 393.5,
-                  "zoom": -0.3009460664730757
-                }
+                "file": "shoulder examination.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "shoulder exam"
+              "icon": "lucide-file",
+              "title": "shoulder examination"
             }
           }
         ],
@@ -117,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "flow charts/shoulder exam.canvas",
+                "file": "shoulder examination.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +143,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of shoulder exam"
+              "title": "Graph of shoulder examination"
             }
           }
         ]
@@ -257,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flow charts/shoulder exam.canvas",
+                "file": "shoulder examination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +265,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for shoulder exam"
+              "title": "Backlinks for shoulder examination"
             }
           }
         ]
@@ -289,8 +287,8 @@
   },
   "active": "79af39943de0e724",
   "lastOpenFiles": [
-    "shoulder examination.md",
     "flow charts/shoulder exam.canvas",
+    "shoulder examination.md",
     "housekeeping/gp guidelines- msk.md",
     "flow charts/haematuria.canvas",
     "haematuria.md",
