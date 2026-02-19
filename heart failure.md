@@ -46,20 +46,20 @@ Problems with RV due to non-compliance -> Dyspnoea w/o signs of fluid overload
 ---
 # DRUGS
 NICE: https://www.nice.org.uk/guidance/ng106
+Monitor U&E with these drugs
 ## 1st line
-Both ACEi & BB (Metoprolol, Bisoprolol, Carvedilol) are first line & reduce mortality by reducing afterload.
+Both ACEi & [[beta adrenergic receptors|BB]] (Metoprolol, Bisoprolol, Carvedilol) are first line & reduce mortality by reducing afterload.
 - if intolerant of ACEi -> Give ARB instead.
 ## 2nd Line
 If still no control, add MRA.
-- Spironolactone. Monitor K+ & renal function (eGFR) as both ACEi & MRA (mineralocorticoid receptor antagonist) cause [[hyperkalemia]]. Spironolactone reduces the instance of sudden cardiac death and should be offered to any patient who has LV systolic dysfunction following MI.
-
-if intolerant to ACEi & ARB -> Hydralazine & Nitrate
+- Spironolactone. Monitor K+ & renal function (eGFR) as both ACEi & MRA (mineralocorticoid receptor antagonist) cause [[hyperkalemia]]. Spironolactone reduces the instance of sudden cardiac death and should be offered to any atient who has LV systolic dysfunction following MI.
 
 Dapagliflozin (SGLT-2 inhibitor)
 - reduces hospitalization secondary to heart failure & Cardiovascular death. (not yet in the NICE pathway).
 
+if intolerant to ACEi & ARB -> Hydralazine & Nitrate (Specialist assessment)
 ## 3rd Line:
-- Replace ACEi (or ARB) with Sacubitril/Valsartan if EF < 35%
+- Replace ACEi (or ARB) with Sacubitril/Valsartan (ARNI: Angiotensin receptor-neprilysin inhibitor) if EF < 35% (Specialist assessment) 
 - Add Ivabradine for Sinus rhythm with HR > 75 & EF <35%
 - Add Hydralazine & Nitrate esp. if [[afro-caribbean|Afro-Caribbean]].
 - [[Digoxin]] can be given for HF + AF, or worsening HF due to LVSD despite using 1st & 2nd line. It increases mortality in cardiac patients.
@@ -68,9 +68,17 @@ Loop diuretic have symptomatic benefit (congestive symptoms and fluid retention)
 Amiloride (Direct inhibitor of Na+ channel, K+ sparing) is also **symptomatic benefit only**.
 
 Avoid verapamil, diltiazem and short-acting dihydropyridine agents in people who have heart failure with reduced ejection fraction.
-![[chronic heart failure- management.png]]
+[Chronic Heart failure 2025 Flowchart](https://www.nice.org.uk/guidance/ng106/resources/chronic-heart-failure-core-treatments-for-heart-failure-pdf-6663137725) 
 
+# HFpEF
+MRA & SGLT2 inhibitors
 ## Other treatments
 - offer annual influenza vaccine (same as [[copd- treatment]]). 
 - offer one-off pneumococcal vaccine 
 	- Adults usually require just one dose but those with asplenia, splenic dysfunction or chronic kidney disease need a booster every 5 years
+- Assess for iron deficiency  
+	- check transferrin saturation (TSAT), ferritin, haemoglobin
+	- consider IV iron therapy if haemoglobin < 150 g/L and
+	    - TSAT of less than 20% or
+	    - serum ferritin of less than 100 ng/mL
+	- if iron-deficiency is found, other causes should of course be excluded first (e.g. colonoscopy etc)

@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,6 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "heart failure.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,12 +153,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7514341907183564,
+                  "scale": 0.09895430218637197,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of heart failure"
             }
           }
         ]
@@ -269,6 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "heart failure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +280,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for heart failure"
             }
           }
         ]
@@ -298,9 +300,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "eb8afdf12f772189",
+  "active": "79af39943de0e724",
   "lastOpenFiles": [
+    "attachments/chronic heart failure- management.png",
     "heart failure.md",
+    "beta adrenergic receptors.md",
     "hypertension.md",
     "hyperkalemia.md",
     "pyelonephritis.md",
@@ -327,8 +331,6 @@
     "statins.md",
     "5-ht receptors (serotonin receptors).md",
     "housekeeping/gp guidelines- resp.md",
-    "vascular ulcers.md",
-    "fever & sepsis.md",
     "desktop.ini",
     "attachments/bpj12_ukmec_pages_28-29 (COCP only).pdf",
     "attachments/traffic light system for identifying risk of serious illness in under 5s.pdf",
