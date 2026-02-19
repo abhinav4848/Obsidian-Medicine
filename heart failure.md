@@ -46,31 +46,40 @@ Problems with RV due to non-compliance -> Dyspnoea w/o signs of fluid overload
 ---
 # DRUGS
 NICE: https://www.nice.org.uk/guidance/ng106
+[Chronic Heart failure 2025 Flowchart](https://www.nice.org.uk/guidance/ng106/resources/chronic-heart-failure-core-treatments-for-heart-failure-pdf-6663137725) 
 Monitor U&E with these drugs
-## 1st line
-Both ACEi & [[beta adrenergic receptors|BB]] (Metoprolol, Bisoprolol, Carvedilol) are first line & reduce mortality by reducing afterload.
-- if intolerant of ACEi -> Give ARB instead.
-## 2nd Line
-If still no control, add MRA.
-- Spironolactone. Monitor K+ & renal function (eGFR) as both ACEi & MRA (mineralocorticoid receptor antagonist) cause [[hyperkalemia]]. Spironolactone reduces the instance of sudden cardiac death and should be offered to any atient who has LV systolic dysfunction following MI.
 
-Dapagliflozin (SGLT-2 inhibitor)
-- reduces hospitalization secondary to heart failure & Cardiovascular death. (not yet in the NICE pathway).
-
-if intolerant to ACEi & ARB -> Hydralazine & Nitrate (Specialist assessment)
-## 3rd Line:
-- Replace ACEi (or ARB) with Sacubitril/Valsartan (ARNI: Angiotensin receptor-neprilysin inhibitor) if EF < 35% (Specialist assessment) 
-- Add Ivabradine for Sinus rhythm with HR > 75 & EF <35%
-- Add Hydralazine & Nitrate esp. if [[afro-caribbean|Afro-Caribbean]].
-- [[Digoxin]] can be given for HF + AF, or worsening HF due to LVSD despite using 1st & 2nd line. It increases mortality in cardiac patients.
+## HFrEF
+### 1st line
+- ACE inhibitor
+	- if ACEi note tolerated (cough) -> Give ARNI (Angiotensin receptor-neprilysin inhibitor) Sacubitril/Valsartan -> if EF < 35% (Specialist assessment) 
+	- If angioedema develops with ACE or ARNI -> Switch to ARB
+- Beta Blocker
+	- Both ACEi & [[beta adrenergic receptors|BB]] (Metoprolol, Bisoprolol, Carvedilol) reduce mortality by reducing afterload.
+- MRA
+	- Spironolactone. Monitor K+ & renal function (eGFR) as both ACEi & MRA (mineralocorticoid receptor antagonist) cause [[hyperkalemia]]. Spironolactone reduces the instance of sudden cardiac death and should be offered to any patient who has LV systolic dysfunction following MI.
+- SGLT2 inhibitor
+	- Dapagliflozin: Reduces hospitalization secondary to heart failure & Cardiovascular death.
+### 2nd Line
+Second-line treatment should be initiated by a specialist. Options include ivabradine, hydralazine in combination with nitrate, digoxin and cardiac resynchronisation therapy  
+- Ivabradine
+    - criteria: sinus rhythm > 75/min and a left ventricular fraction < 35%
+- [[Digoxin]]
+    - digoxin has also not been proven to reduce mortality in patients with heart failure. It may however improve symptoms due to its inotropic properties
+    - it is strongly indicated if there is coexistent [[atrial fibrillation]] or worsening HF due to LVSD
+- Hydralazine + nitrate
+	- Used if intolerance to ACE/ARNI/ARB
+    - this may be particularly indicated in [[afro-caribbean|Afro-Caribbean]] patients
+- Cardiac resynchronisation therapy
+    - indications include a widened QRS (e.g. left bundle branch block) complex on ECG
 
 Loop diuretic have symptomatic benefit (congestive symptoms and fluid retention) but **don’t change mortality**.
 Amiloride (Direct inhibitor of Na+ channel, K+ sparing) is also **symptomatic benefit only**.
+Digoxin doesn't affect mortality. 
 
 Avoid verapamil, diltiazem and short-acting dihydropyridine agents in people who have heart failure with reduced ejection fraction.
-[Chronic Heart failure 2025 Flowchart](https://www.nice.org.uk/guidance/ng106/resources/chronic-heart-failure-core-treatments-for-heart-failure-pdf-6663137725) 
 
-# HFpEF
+## HFpEF
 MRA & SGLT2 inhibitors
 ## Other treatments
 - offer annual influenza vaccine (same as [[copd- treatment]]). 
