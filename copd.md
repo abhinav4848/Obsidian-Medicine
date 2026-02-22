@@ -6,6 +6,16 @@ aliases:
 tags:
   - respiratory
 ---
+
+> [!Notice]- COPD TOC
+> [[copd|COPD]]
+> [[copd|COPD- diagnosis]]
+> [[copd- treatment|COPD- Treatment]]
+> [[copd- acute exacerbation|COPD- acute exacerbation]]
+> [[asthma- drugs|drugs used in asthma/copd]]
+> [[mrc dyspnoea scale|MRC scale]]
+
+Definition: Chronic Obstructive Pulmonary Disease (COPD) is a heterogeneous lung condition characterized by chronic respiratory symptoms (dyspnea, cough, sputum production and/or exacerbations) due to abnormalities of the airways (bronchitis, bronchiolitis) and/or alveoli (emphysema) that cause persistent, often progressive, airflow obstruction. 
 # Diagnosis of COPD
  A diagnosis of COPD should be considered in patients over the age of 35 who have a risk factor (generally a [[smoking]] history of greater than 20 pack years) and who present with one or more of the following symptoms:
  
