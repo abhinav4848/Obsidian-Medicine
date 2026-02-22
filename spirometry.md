@@ -28,7 +28,7 @@ revision counter: 1
 ![[asthma- severity assessment#Severity grading of Asthma]]
 
 ---
-## COPD
+## COPD %%linked%%
 [[copd|COPD]]: FEV1/FVC remains <0.7 even after bronchodilator. This can also be expressed in percentage, so FEV1/FVC <70%. 
 
 | Post-bronchodilator FEV1/FVC | FEV1 (of predicted) | COPD Severity                                                                  |

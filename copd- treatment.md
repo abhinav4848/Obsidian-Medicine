@@ -21,7 +21,7 @@ One off pneumococcal vaccine + annual influenza vaccine #vaccine Same as [[heart
 - If ✅ \*[[spirometry|asthmatic]] features (see [[copd- treatment#Asthmatic Features linked|below]]) suggesting steroid responsiveness -> Add on LABA + ICS
 	- If still breathless/having exacerbations:
 		- Triple therapy: LAMA + LABA + ICS
-	- Discontinue SAMA if taking LAMA. Switch to SABA prn. 
+	- Discontinue SAMA if taking LAMA. Use SABA prn. 
 - If ❌ No \*asthmatic features -> +LABA + LAMA
 	- If already taking SAMA, switch to SABA
 	- if severe, can add ICS 3 month trial -> no relief then stop
@@ -45,12 +45,13 @@ Pulmonary rehabilitation to all people who view themselves as functionally disa
 - CT thorax excluded [[Bronchiectasis]] 
 - Sputum culture excluded Atypical infections & [[tuberculosis|TB]] 
 - LFT, ECG to exclude [[qt prolongation]] as Azithromycin #abx can cause. 
-
+# Mucolytics 
+- should be 'considered' in patients with a chronic productive cough and continued if symptoms improve
 # PDE-4 inhibitor (e.g.: roflumilast) 
-- *Started by respiratory clinic*. Patients benefit most when they have a chronic productive cough which is consistent with a chronic bronchitic phenotype. This type particularly benefits from PDE-4 inhibitors. ([NICE](https://www.nice.org.uk/guidance/TA461/chapter/1-Recommendations))
+- *Started by respiratory clinic*. Patients benefit most when they have a chronic productive cough which is consistent with a chronic bronchitic phenotype. This type particularly benefits from PDE-4 inhibitors. ([NICE](https://www.nice.org.uk/guidance/TA461/chapter/1-Recommendations)) 
 - PDE-4 inhibitor reduces COPD exacerbation in severe cases having frequent exacerbations 
 - Given if **severe COPD**: 
-	- FEV1 < 50% of predicted after bronchodilator  ([[spirometry#COPD|Spirometry]]). 
+	- FEV1 < 50% of predicted after bronchodilator  ([[spirometry#COPD linked|Spirometry]]). 
 	- **Frequent Exacerbation**: Defined as >=2 exacerbations in the last 12 months despite being on triple inhaled therapy (LAMA + LABA + ICS). 
 # Rescue Pack
 aka Standby medication: NICE recommend offering a short course of oral [[corticosteroid]] and oral antibiotics to keep at home if: 

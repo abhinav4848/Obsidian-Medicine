@@ -13,7 +13,7 @@ urls:
 ---
 # Causes of Exacerbation
 ## Aetiology
--  [[spirometry#COPD|Mod or Severe COPD]] 
+-  [[spirometry#COPD linked|Mod or Severe COPD]] 
 - > 65 years of age or patients with significant comorbidities
 -  Viral infections or other factors like environmental irritants or poor adherence to medication.
 ## Infective Exacerbation

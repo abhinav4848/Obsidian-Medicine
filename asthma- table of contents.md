@@ -13,13 +13,14 @@ tags:
 > 	- *[Asthma UK triggers](https://www.asthmaandlung.org.uk/conditions/asthma/asthma-triggers) [triggers (NICE)](https://cks.nice.org.uk/topics/asthma/background-information/risk-factors-triggers/)* 
 > - [[asthma- drugs|drugs used in asthma/copd]] 
 > - Acute Management
-> 	- *[UHL guidelines](https://www.publication.uhleicester.nhs.uk/publication-scheme/pagl-document-library/)*
+> 	- *[UHL, Leicester guidelines](https://www.publication.uhleicester.nhs.uk/publication-scheme/pagl-document-library/)*
 > 	- [[asthma- acute attack|Acute attack of Asthma]] (adult & paeds) 
 > - Chronic Adult
-> 	- *[Leicester Guidance](https://www.publication.uhleicester.nhs.uk/publication-scheme/pagl-document-library/)* 
-> 	- ⭐see [[asthma- new management 2024|New Management 2024]]
+> 	- *[Leicester LMSG Guidance]([https://www.publication.uhleicester.nhs.uk/publication-scheme/pagl-document-library/](https://www.lmsg.nhs.uk/guidelines/category/respiratory/))* 
+> 	- ⭐[[asthma- new management 2024|New Management 2024]] 
 > 	- ❌[[asthma- old management|Old management]] 
 > - Chronic Child
 > 	- ❌ [[asthma- old management#Child stable asthma management linked]] 
 > 	- [[asthma- new management 2024#Asthma Management < 5yo linked|asthma- treatment under 5yo]] 
 > - **Unique case**: Stable asthma, with just exercise induced SoB: LTRA > Sodium cromoglicate.
+>See also: [[copd|COPD]] 

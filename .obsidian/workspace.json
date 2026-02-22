@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asthma- new management 2024.md",
+                "file": "copd- treatment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "asthma- new management 2024"
+              "title": "copd- treatment"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "table of content",
+                "query": "cor pulm",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "asthma- new management 2024.md",
+                "file": "copd- treatment.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +144,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of asthma- new management 2024"
+              "title": "Graph of copd- treatment"
             }
           }
         ]
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asthma- new management 2024.md",
+                "file": "copd- treatment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +266,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for asthma- new management 2024"
+              "title": "Backlinks for copd- treatment"
             }
           }
         ]
@@ -288,19 +288,22 @@
   },
   "active": "79af39943de0e724",
   "lastOpenFiles": [
-    "asthma- old management.md",
-    "asthma- new management 2024.md",
-    "asthma- table of contents.md",
-    "asthma- diagnosis (algorithm).md",
-    "asthma.md",
-    "asthma- investigations.md",
+    "copd- treatment.md",
+    "copd.md",
     "asthma- acute attack.md",
+    "spirometry.md",
+    "asthma- table of contents.md",
+    "asthma.md",
+    "asthma- new management 2024.md",
+    "asthma- old management.md",
+    "cor pulmonale.md",
+    "hypoxic pulmonary vasoconstriction.md",
+    "asthma- diagnosis (algorithm).md",
+    "asthma- investigations.md",
     "asthma- drugs.md",
     "asthma- severity assessment.md",
-    "spirometry.md",
     "vitamin-d.md",
     "calcium metabolism- table of contents.md",
-    "copd- treatment.md",
     "long term oxygen therapy.md",
     "lichens.md",
     "heart failure.md",
@@ -311,9 +314,6 @@
     "cancer- urology.md",
     "migraine.md",
     "headache.md",
-    "raynaud.md",
-    "systemic sclerosis.md",
-    "head lice.md",
     "attachments/chronic heart failure- management.png",
     "flow charts/shoulder exam.canvas",
     "flow charts/haematuria.canvas",

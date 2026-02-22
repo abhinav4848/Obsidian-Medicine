@@ -12,7 +12,7 @@ tags:
 1. Exertional breathlessness ([[mrc dyspnoea scale|MRC scale]])
 2. Chronic cough
 3. Regular sputum production >3 months.
-4. Frequent winter 'bronchitis' wheeze
+4. Frequent winter 'bronchitis' wheeze 
 ## vs Asthma
 Night time waking with breathlessness and/or wheeze is more [[asthma]].
 Significant diurnal or day-to-day variability of symptoms is more asthma.
@@ -26,9 +26,10 @@ Symptoms in age <35 are more common in asthma.
 - Small heart
 - May see bullae
 ## Spirometry Criteria
-You must confirm COPD by [[spirometry#COPD|spirometry]]. 
+You must confirm COPD by [[spirometry#COPD linked|spirometry]]. 
+![[spirometry#COPD linked]]
 
-If couldn't diagnose, do treat to diagnose method with 6 week course of ICS (or few days of Oral steroid)-> If symptoms (Wheeze, SOB, cough) improve-> Asthma. 
+If couldn't diagnose, do 'treat to diagnose' method with 6 week course of ICS (or few days of Oral steroid)-> If symptoms (Wheeze, SOB, cough) improve-> Asthma. 
 
 ---
 # Complication: Cor Pulmonale
