@@ -6,6 +6,8 @@ aliases:
   - varenicline
   - bupropion
   - nicotine replacement therapy
+urls:
+  - https://cks.nice.org.uk/topics/smoking-cessation/
 ---
 Smoking increases risk for [[cancer- urology|bladder cancer]] & laryngeal cancer. 
 # NICE guidelines
