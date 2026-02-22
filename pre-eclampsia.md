@@ -45,7 +45,7 @@ If not effective or woman has good control with [[calcium channel blockers|Nifed
 ## Proteinuria
 Proteinuria ( >0.3g/24 hr. 1+) 
 *\>3g/24hr. is [[nephrotic syndrome]]*
-- Albumin-Creatinine ratio (ACR) > 8mg/mmol
+- Albumin-Creatinine ratio (ACR) > 8mg/mmol (also see [[ckd classification & monitoring]])
 - Protein-Creatinine ratio (PCR) > 30mg/mmol
 A comes before P. #mnemonic 
 8 comes before 30. 
