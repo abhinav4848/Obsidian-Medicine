@@ -3,7 +3,7 @@ tags:
   - ortho
 ---
 
-> [!NOTE]- Calcium articles
+> [!NOTE]- Calcium table of contents
 > - [[vitamin-d|Vitamin D]]
 > - [[calcium]]
 > - [[cancers metastasizing to the bone]]

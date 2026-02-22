@@ -7,7 +7,7 @@ aliases:
   - management of stable asthma in adults
 urls:
 ---
-See [[asthma]]. 
+![[asthma- table of contents]]
 # New diagnosis of Asthma in patients aged >=12yo
 AIR & MART contain the same ICS/Formoterol combo. So the name is only to emphasize the use case of the inhaler. Only to relive vs Relieve + Maintain. The key innovation isn’t the drugs, it’s the strategy. 
 
@@ -21,7 +21,7 @@ AIR & MART contain the same ICS/Formoterol combo. So the name is only to emphasi
 ![[asthma management in adults 2024 guidelines.jpg]]
 
 ## Old vs new guideline for Adults
-see [[asthma|asthma- treatment (old)]]
+see [[asthma- old management]] 
 
 | Existing asthma treatment                                                                                                                                  | New asthma treatment                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
@@ -31,15 +31,15 @@ see [[asthma|asthma- treatment (old)]]
 | Treatment regime containing a high-dose ICS                                                                                                                | test FeNO/Eosinophil & treat as per result (See step 4 above)<br><br>Refer to a respiratory specialist |
 # Asthma Management 5-11yo 
 
-|                       |                                                                                                                                                                                                                                                                                                                |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Step 1**            | Start with Paediatric low dose ICS + SABA inhaler<br><br>If need to step up to MART, assess if able to use device & okay with use of unlicensed product for those <6yo ([[asthma- drugs#Drugs Licensed for Asthma]])                                                                                           |
-| **✅if yes for MART:** | **Step 2**: Switch to paediatric low-dose MART<br>- ICS-Formoterol 100/6 + PRN of the same inhaler<br>- *low dose: Budesonide 100-200mcg/day*<br><br>**Step 3**: Increase to paediatric moderate-dose MART<br>- ICS-Formoterol 100/6 + PRN of the same inhaler<br>- *moderate dose: Budesonide 300-400mcg/day* |
-| **❌if not,**          | use [[asthma- old management#Child stable asthma management]]                                                                                                                                                                                                                                                  |
+|                         |                                                                                                                                                                                                                                                                                                                 |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Step 1**              | Start with Paediatric low dose ICS + SABA inhaler<br><br>If need to step up to MART, assess if able to use device & okay with use of unlicensed product for those <6yo ([[asthma- drugs#Drugs Licensed for Asthma]])                                                                                            |
+| **✅if yes for MART:**   | **Step 2**: Switch to paediatric low-dose MART<br>- ICS-Formoterol 100/6 + PRN of the same inhaler<br>- *low dose: Budesonide 100-200mcg/day* <br><br>**Step 3**: Increase to paediatric moderate-dose MART<br>- ICS-Formoterol 100/6 + PRN of the same inhaler<br>- *moderate dose: Budesonide 300-400mcg/day* |
+| **❌if not MART suited** | use [[asthma- old management#Child stable asthma management linked\|Old Asthma management for children]] or [Leicester Guidance](https://www.nice.org.uk/guidance/ng245/chapter/recommendations#pharmacological-management-in-children-under-5)                                                                 |
 
 # Asthma Management < 5yo %%linked%% 
 See [[asthma- diagnosis (algorithm)]] 
-See: [NICE pharmacological management guidelines in <5yo](https://www.nice.org.uk/guidance/ng245/chapter/recommendations#pharmacological-management-in-children-under-5)
+See [NICE pharmacological management guidelines in <5yo](https://www.nice.org.uk/guidance/ng245/chapter/recommendations#pharmacological-management-in-children-under-5)
 See [Leicester Asthma guideline](https://www.lmsg.nhs.uk/guidelines/category/respiratory/) 
 - Trial 8-12 weeks SABA + BD Paeds low dose  ICS 
 	- This is if it looks like they'll need maintenance therapy (h/o atopy), severe acute episodes of DiB/wheeze shown by hospital admission or needing >=2 courses of Oral Steroids. 

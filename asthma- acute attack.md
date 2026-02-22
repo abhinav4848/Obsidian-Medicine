@@ -7,9 +7,9 @@ tags:
   - respiratory
   - emergency
 ---
+![[asthma- table of contents]]
 # Acute Asthma attack in Adults
 Clinical Features: [[asthma- severity assessment]] (Emergency)
-See: [UHL guidelines](https://www.publication.uhleicester.nhs.uk/publication-scheme/pagl-document-library/) 
 ## Treatment
 Moderate Asthma: 
 - Salbutamol 5mg (or terbutaline 10mg) via spacer, or Oxygen driven nebuliser

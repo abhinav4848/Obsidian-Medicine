@@ -10,7 +10,7 @@ urls:
 ---
 Vit D helps absorb [[calcium]] from the gut. 
 
-![[calcium metabolism related topics]]
+![[calcium metabolism- table of contents]]
 # Who needs supplementation?
 Group of people with higher risk of vitamin D deficiency: 
 - all pregnant and breastfeeding women should take a daily supplement containing 10µg of vitamin D
@@ -28,3 +28,8 @@ Patients with [[osteoporosis]] should always be given calcium/vitamin D suppleme
 
 # Hyperparathyroidism
 ![[hyperparathyroidism#Vit D can unmask hyperparathyroidism (is transcluded)]]
+
+If low Vit D, in a patient: 
+- Give loading: 25,000 unit capsules x 12 - one tablet twice weekly. 
+- advise sunlight exposure and diet (BDA: Vit D source). 
+- After loading is done, advise take OTC Vit D 800-2000 units for 3-6 months after. 

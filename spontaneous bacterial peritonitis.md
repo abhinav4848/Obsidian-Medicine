@@ -39,6 +39,6 @@ pO2 of 7.3 - 8 kPa & any of:
 - Peripheral edema
 - Pulmonary HTN
 
-If already on LTOT but still breathless -> Prednisolone/nebulized NS to loosen secretions. Can also give carbocisteine for secretions although excess drug can cause excessive loose secretions. LVR (lung volume recruitment) bags help get enough air in to generate a cough. 
+If already on [[long term oxygen therapy|LTOT]] but still breathless -> Prednisolone/nebulized NS to loosen secretions. Can also give carbocisteine for secretions although excess drug can cause excessive loose secretions. LVR (lung volume recruitment) bags help get enough air in to generate a cough. 
 
 ---

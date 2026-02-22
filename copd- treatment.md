@@ -10,18 +10,18 @@ urls:
 ---
 
 >[!info]
->COPD- need annual influenza vaccine + one-off pneumococcal vaccine. 
+>COPD- need annual influenza vaccine + one-off pneumococcal [[immunisation in adults|vaccine]]. 
 >MRC score > 3, needs pulmonary rehab. 
 >There's risk of pneumonia in COPD patients using ICS + [Psychological](https://www.gov.uk/drug-safety-update/inhaled-and-intranasal-corticosteroids) side effects. 
 # From NICE CKS 
 Stop [[smoking]] (including nicotine replacement, varenicline or bupropion)
-One off pneumococcal vaccine + annual influenza vaccine #vaccine Same as [[heart failure#Other treatments|HF]]. 
+One off pneumococcal vaccine + annual influenza vaccine #vaccine Same as [[heart failure#Other treatments linked|HF]]. 
 
 - Start with Bronchodilator therapy: [[asthma- drugs|SABA/SAMA]] (first line)
-- If ✅ \*[[asthma|asthmatic]] features suggesting steroid responsiveness -> Add on LABA + ICS
+- If ✅ \*[[spirometry|asthmatic]] features (see [[copd- treatment#Asthmatic Features linked|below]]) suggesting steroid responsiveness -> Add on LABA + ICS
 	- If still breathless/having exacerbations:
 		- Triple therapy: LAMA + LABA + ICS
-	- Continue SABA/SAMA prn. Discontinue SAMA if taking LAMA. 
+	- Discontinue SAMA if taking LAMA. Switch to SABA prn. 
 - If ❌ No \*asthmatic features -> +LABA + LAMA
 	- If already taking SAMA, switch to SABA
 	- if severe, can add ICS 3 month trial -> no relief then stop
@@ -32,15 +32,15 @@ Pulmonary rehabilitation to all people who view themselves as functionally disa
 
 **Frequent Exacerbation**: Defined as >=2 exacerbations in the last 12 months despite being on triple inhaled therapy (LAMA + LABA + ICS). 
 
-# \*Asthmatic Features 
+# \*Asthmatic Features %%linked%% 
 - any previous, secure [[asthma- diagnosis (algorithm)|diagnosis of Asthma]] or of atopy
-- Raised eosinophil count.
+- Raised [[asthma- investigations#Eosinophils linked|eosinophil count]] (Do FBC in all COPD cases as part of workup). 
 - substantial variation in [[spirometry|FEV1]] over time (at least 400 ml). 
 - substantial **diurnal** variation in PEF ([[asthma- diagnosis (algorithm)#Second line investigation|at least 20%]]). 
 - Don't do BDR now as it can be misleading as per NICE. 
 
 # Room for prophylactic Azithromycin 
-- No smoking, optimised treatment but still exacerbations
+- No [[smoking]], optimised treatment but still exacerbations
 	- Not recommended for people who still smoke. 
 - CT thorax excluded [[Bronchiectasis]] 
 - Sputum culture excluded Atypical infections & [[tuberculosis|TB]] 
@@ -50,7 +50,7 @@ Pulmonary rehabilitation to all people who view themselves as functionally disa
 - *Started by respiratory clinic*. Patients benefit most when they have a chronic productive cough which is consistent with a chronic bronchitic phenotype. This type particularly benefits from PDE-4 inhibitors. ([NICE](https://www.nice.org.uk/guidance/TA461/chapter/1-Recommendations))
 - PDE-4 inhibitor reduces COPD exacerbation in severe cases having frequent exacerbations 
 - Given if **severe COPD**: 
-	- FEV1 < 50% predicted after bronchodilator  ([[spirometry#COPD|Spirometry]]). 
+	- FEV1 < 50% of predicted after bronchodilator  ([[spirometry#COPD|Spirometry]]). 
 	- **Frequent Exacerbation**: Defined as >=2 exacerbations in the last 12 months despite being on triple inhaled therapy (LAMA + LABA + ICS). 
 # Rescue Pack
 aka Standby medication: NICE recommend offering a short course of oral [[corticosteroid]] and oral antibiotics to keep at home if: 

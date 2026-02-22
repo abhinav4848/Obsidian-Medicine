@@ -2,7 +2,7 @@
 tags:
   - endocrine
 ---
-![[calcium metabolism related topics]]
+![[calcium metabolism- table of contents]]
 # CKD & PO4
 PTH is phosphaturic -> prevents resorption, but kidneys must excrete PO4 first for PTH to even prevent resorption-> CKD kidneys can't excrete PO4 so all calcium gets used up in Ca3(PO4)2.
 
@@ -14,7 +14,7 @@ Remember that 10% of Primary Hyperparathyroidism have normal PTH but low PO4.
 If patient can't tolerate surgery, Cinacalcet
 
 # Vit D can unmask hyperparathyroidism %%(is transcluded)%%
-Calcium levels should be monitored after commencing [[vitamin-d]] because it can unmask underlying hyperparathyroidism- [[hypercalcemia|hypercalcaemia]] can occur. 
+Calcium levels should be monitored (check in a month) after commencing [[vitamin-d]] because it can unmask underlying hyperparathyroidism- [[hypercalcemia|hypercalcaemia]] can occur. 
 - If someone is primary hyper-parathyroid and profoundly low Vit D, they won't manifest a rise in calcium because of this massively low Vit D. 
 	- Low Vit D can also cause compensatory secondary Hyperparathyroidism. 
 - When you supplement Vit D, secondary hyperparathyroidism should normalise. 

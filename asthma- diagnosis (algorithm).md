@@ -6,6 +6,8 @@ tags:
   - respiratory
 revision counter: 1
 ---
+![[asthma- table of contents]]
+
 #Triad: Chest tightness, SoB, Wheezing.
 **Others**: Nocturnal cough (wakes up from sleep), Exercise induced wheeze, family history of asthma.  
 

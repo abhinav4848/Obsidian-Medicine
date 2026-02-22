@@ -7,19 +7,7 @@ aliases:
 urls:
   - https://www.brit-thoracic.org.uk/document-library/guidelines/asthma/btssign-asthma-guideline-quick-reference-guide-2019/
 ---
-# Asthma
-- [[asthma- diagnosis (algorithm)|Diagnosis of Asthma]] 
-- [[asthma- severity assessment|Assess severity of asthma]] 
-- [[asthma- acute attack|Acute attack of Asthma]] (adult & paeds) 
-- **Unique case**: Stable asthma, with just exercise induced SoB: LTRA > Sodium cromoglicate.
-## Stable asthma management
-See [[asthma- drugs]]. 
-### Adult treatment
-⭐see [[asthma- new management 2024|New Management 2024]]. 
-❌[[asthma- old management|Old management]] 
-### Child treatment
-❌ [[asthma- old management#Child stable asthma management]] 
-See [[asthma- new management 2024#Asthma Management < 5yo linked|asthma- treatment under 5yo]] 
+![[asthma- table of contents]]
 
 ---
 # Step down treatment of Asthma

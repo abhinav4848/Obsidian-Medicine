@@ -5,6 +5,7 @@ aliases:
 tags:
   - pharmacology
 ---
+![[asthma- table of contents]]
 # Drugs used in [[Asthma]]/COPD
 Bronchodilators
 - Sympathomimetics

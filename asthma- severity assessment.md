@@ -8,6 +8,7 @@ tags:
 revision counter: 2
 revision notes: different grades of severity like Pulse rate, RR, PEFR
 ---
+![[asthma- table of contents]]
 # Determine the severity of asthma exacerbation by
 - [[asthma- investigations#Peak expiratory flow (PEF) variability|Peak expiratory flow rate]] (PEFR) using [[spirometry#Asthma|Peak flow meter (Spirometry)]]: 
 	- Moderate: 50-75% 

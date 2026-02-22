@@ -81,7 +81,7 @@ Avoid verapamil, diltiazem and short-acting dihydropyridine agents in people who
 
 ## HFpEF
 MRA & SGLT2 inhibitors
-## Other treatments
+## Other treatments %%linked%%
 - offer annual influenza vaccine (same as [[copd- treatment]]). 
 - offer one-off pneumococcal vaccine 
 	- Adults usually require just one dose but those with asplenia, splenic dysfunction or chronic kidney disease need a booster every 5 years

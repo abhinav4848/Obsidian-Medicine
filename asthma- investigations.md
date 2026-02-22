@@ -6,8 +6,8 @@ aliases:
 tags:
   - respiratory
 ---
-See [[asthma]] & [[asthma- diagnosis (algorithm)]]. 
-# Eosinophils 
+![[asthma- table of contents]]
+# Eosinophils  %%linked%%
 Eosinophils are specifically involved in type 2 inflammation, a key immunological pathway in many asthma phenotypes, making them a targeted marker for disease activity. Unlike other white blood cells, eosinophils play a direct role in airway inflammation by releasing granules containing cytotoxic proteins like eosinophil peroxidase and major basic protein, which damage epithelial cells and perpetuate inflammation. Additionally, eosinophils are activated by interleukin-5 (IL-5) and other cytokines in the type 2 pathway, distinguishing them from neutrophils or lymphocytes, which are more associated with other immune responses. IL-5 is an important target new monoclonal antibody treatments such as mepolizumab.  
   
 # Fractional exhaled nitric oxide (FeNO)

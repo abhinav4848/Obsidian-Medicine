@@ -7,6 +7,7 @@ tags:
 revision notes: Keep forgetting the mild/mod/severe classification of COPD
 revision counter: 1
 ---
+![[asthma- table of contents]]
 # Differences
 
 | Pattern         | FEV₁   | FVC         | FEV₁/FVC ratio     | Key Point                        |

@@ -5,7 +5,7 @@ urls:
   - "[LMSG guidance on Osteoporosis](https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/search/?_search_terms=osteoporosis)"
   - https://bnf.nice.org.uk/treatment-summaries/osteoporosis/
 ---
-![[calcium metabolism related topics]]
+![[calcium metabolism- table of contents]]
 # Clinical Scenarios
 1. Long term use of [[corticosteroid|steroids]] can cause osteoporosis and make teeth lose. So do DEXA for them.
 2. For postmenopausal women, or men >=50yo -> 
