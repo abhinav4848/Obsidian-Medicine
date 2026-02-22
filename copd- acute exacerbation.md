@@ -11,6 +11,7 @@ urls:
   - https://abcmedicalnotes.com/topics/2218.php
   - https://www.nice.org.uk/guidance/ng115/chapter/Recommendations#managing-exacerbations-of-copd
 ---
+![[copd- table of contents]]
 # Causes of Exacerbation
 ## Aetiology
 -  [[spirometry#COPD linked|Mod or Severe COPD]] 

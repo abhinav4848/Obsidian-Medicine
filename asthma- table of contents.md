@@ -2,9 +2,8 @@
 tags:
   - respiratory
 ---
-> [!TOC]- Asthma Pages 
-> # Asthma
-> - [[asthma]]
+> [!TOC]- Asthma TOC 
+> - [[Asthma]]
 > - [[asthma- diagnosis (algorithm)|Algorithm for Asthma Diagnosis]]
 > 	- [[spirometry]]
 > 	- [[asthma- investigations|investigations in asthma]]
@@ -23,4 +22,4 @@ tags:
 > 	- ❌ [[asthma- old management#Child stable asthma management linked]] 
 > 	- [[asthma- new management 2024#Asthma Management < 5yo linked|asthma- treatment under 5yo]] 
 > - **Unique case**: Stable asthma, with just exercise induced SoB: LTRA > Sodium cromoglicate.
->See also: [[copd|COPD]] 
+>See also: [[copd- table of contents|COPD]] 

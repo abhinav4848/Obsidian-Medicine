@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "copd.md",
+                "file": "asthma- drugs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "copd"
+              "title": "asthma- drugs"
             }
           }
         ],
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "copd.md",
+                "file": "asthma- drugs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,12 +139,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.09895430218637197,
+                  "scale": 0.07058167632029017,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of copd"
+              "title": "Graph of asthma- drugs"
             }
           }
         ]
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "copd.md",
+                "file": "asthma- drugs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +266,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for copd"
+              "title": "Backlinks for asthma- drugs"
             }
           }
         ]
@@ -288,22 +288,25 @@
   },
   "active": "79af39943de0e724",
   "lastOpenFiles": [
-    "shortness of breath.md",
+    "copd- treatment.md",
+    "copd- table of contents.md",
+    "asthma- drugs.md",
     "copd.md",
     "spirometry.md",
-    "mrc dyspnoea scale.md",
-    "copd- treatment.md",
-    "smoking.md",
-    "asthma- acute attack.md",
+    "attachments/Red Whale _ COPD_ management Feb 2026.pdf",
+    "shortness of breath.md",
     "asthma- table of contents.md",
     "asthma.md",
+    "copd- acute exacerbation.md",
+    "mrc dyspnoea scale.md",
+    "smoking.md",
+    "asthma- acute attack.md",
     "asthma- new management 2024.md",
     "asthma- old management.md",
     "cor pulmonale.md",
     "hypoxic pulmonary vasoconstriction.md",
     "asthma- diagnosis (algorithm).md",
     "asthma- investigations.md",
-    "asthma- drugs.md",
     "asthma- severity assessment.md",
     "vitamin-d.md",
     "calcium metabolism- table of contents.md",
@@ -311,9 +314,6 @@
     "lichens.md",
     "heart failure.md",
     "hus vs ttp.md",
-    "pre-eclampsia.md",
-    "ckd classification & monitoring.md",
-    "ckd pharmacology.md",
     "attachments/chronic heart failure- management.png",
     "flow charts/shoulder exam.canvas",
     "flow charts/haematuria.canvas",
@@ -339,7 +339,6 @@
     "attachments/ng254- evaluating-risk-of-severe-illness-or-death-in-all-settings-children-under-5-pdf-15494513294.pdf",
     "flow charts/h. pylori treatment flowchart.canvas",
     "attachments/universal-pain-assessment-tool-with-wong-baker-facesc2ae-pain-rating-scale.jpg",
-    "Untitled",
     "flow charts/contraception after delivery.canvas",
     "flow charts/deep vein thrombosis.canvas",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",

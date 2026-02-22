@@ -8,16 +8,19 @@ urls:
   - https://www.nice.org.uk/guidance/ng115/resources/visual-summary-treatment-algorithm-pdf-6604261741
   - https://www.nice.org.uk/guidance/ng115/chapter/Recommendations
 ---
+![[copd- table of contents]]
 
->[!info]
+>[!tip]
 >COPD- need annual influenza vaccine + one-off pneumococcal [[immunisation in adults|vaccine]]. 
 >MRC score > 3, needs pulmonary rehab. 
 >There's risk of pneumonia in COPD patients using ICS + [Psychological](https://www.gov.uk/drug-safety-update/inhaled-and-intranasal-corticosteroids) side effects. 
 # From NICE CKS 
+- *See [[asthma- drugs|drugs used in asthma/copd]]* 
+
 Stop [[smoking]] (including nicotine replacement, varenicline or bupropion)
 One off pneumococcal vaccine + annual influenza vaccine #vaccine Same as [[heart failure#Other treatments linked|HF]]. 
 
-- Start with Bronchodilator therapy: [[asthma- drugs|SABA/SAMA]] (first line)
+- Start with Bronchodilator therapy: [[asthma- drugs|SABA/SAMA]]. First line. (Prefer SABA cuz SAMA can't be used with LAMA once step-up therapy is needed)
 - If ✅ \*[[spirometry|asthmatic]] features (see [[copd- treatment#Asthmatic Features linked|below]]) suggesting steroid responsiveness -> Add on LABA + ICS
 	- If still breathless/having exacerbations:
 		- Triple therapy: LAMA + LABA + ICS
@@ -28,7 +31,7 @@ One off pneumococcal vaccine + annual influenza vaccine #vaccine Same as [[heart
 - Oral theophylline after all else fails (done by specialist)
 	- dose should be reduced if macrolide or fluoroquinolone antibiotics are co-prescribed ([[p450|p450 inhibitors]]). 
 
-Pulmonary rehabilitation to all people who view themselves as functionally disabled by COPD (usually [[mrc dyspnoea scale|Medical Research Council dyspnoea scale]] >= grade 3)
+Pulmonary rehabilitation to all people who view themselves as functionally disabled by COPD (usually [[mrc dyspnoea scale|Medical Research Council dyspnoea scale]] >= grade 3) 
 
 **Frequent Exacerbation**: Defined as >=2 exacerbations in the last 12 months despite being on triple inhaled therapy (LAMA + LABA + ICS). 
 
@@ -39,12 +42,18 @@ Pulmonary rehabilitation to all people who view themselves as functionally disa
 - substantial **diurnal** variation in PEF ([[asthma- diagnosis (algorithm)#Second line investigation|at least 20%]]). 
 - Don't do BDR now as it can be misleading as per NICE. 
 
+Eosinophil counts predict the effectiveness of inhaled corticosteroids. However, don't decide to stop/continue ICS based on eosinophils, rather focus on benefit & past history of exacerbations. 
+- Eosinophil < 0.1: Unlikely to benefit from ICS. These patients would have bacteria in lungs, notably haemophilus. With this comes increased risk of bacterial infection and pneumonia. If all criteria met, can benefit from abx prophylaxis. 
+- Eosinophil >= 0.3, These patients have higher markers of type-2 inflammation in the airways & will benefit from ICS. 
+
 # Room for prophylactic Azithromycin 
-- No [[smoking]], optimised treatment but still exacerbations
+Azithromycin needs [[asthma- drugs|significant workup]] before starting so specialist only. 
+- No [[smoking]], eosinophil < 0.1, optimised treatment but still frequent exacerbations
 	- Not recommended for people who still smoke. 
 - CT thorax excluded [[Bronchiectasis]] 
 - Sputum culture excluded Atypical infections & [[tuberculosis|TB]] 
 - LFT, ECG to exclude [[qt prolongation]] as Azithromycin #abx can cause. 
+- 5 day course, whether it's Azithromycin, or oral Steroid
 # Mucolytics 
 - should be 'considered' in patients with a chronic productive cough and continued if symptoms improve
 # PDE-4 inhibitor (e.g.: roflumilast) 
