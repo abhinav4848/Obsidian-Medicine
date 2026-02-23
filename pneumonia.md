@@ -125,3 +125,8 @@ In Pneumonia, how quickly should symptoms resolve:
 |3 months|Most symptoms should have resolved but fatigue may still be present|
 |6 months|Most people will feel back to normal.|
 All cases of pneumonia should have a repeat chest X-ray at 6 weeks after clinical resolution to ensure that the consolidation has resolved and there is no underlying secondary abnormalities (e.g. a lung tumour). It's often arranged by the X-Ray department itself. 
+
+---
+# 11. Measles-associated viral pneumonia %%linked%%
+Pneumonia is the most common cause of death in [[measles]], often occurring during or shortly after the acute illness. 
+After Measles rash, there can be new respiratory compromise with focal signs on examination (basal crackles). In children with measles, viral pneumonitis can develop due to direct infection of the respiratory tract by the measles virus itself.
