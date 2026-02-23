@@ -26,8 +26,6 @@ urls:
 | Oral theophylline after all else fails (done by specialist)                                                                                                                                                                                                   | dose should be reduced if macrolide or fluoroquinolone antibiotics are co-prescribed ([[p450\|p450 inhibitors]]).                                                                                      |
 Pulmonary rehabilitation to all people who view themselves as functionally disabled by COPD (usually [[mrc dyspnoea scale|Medical Research Council dyspnoea scale]] >= grade 3) 
 
-**Frequent Exacerbation**: Defined as >=2 exacerbations in the last 12 months despite being on triple inhaled therapy (LAMA + LABA + ICS). 
-
 # \*Asthmatic Features %%linked%% 
 - any previous, secure [[asthma- diagnosis (algorithm)|diagnosis of Asthma]] or of atopy
 - Raised [[asthma- investigations#Eosinophils linked|eosinophil count]] (Do FBC in all COPD cases as part of workup). 
@@ -55,7 +53,7 @@ Azithromycin needs [[asthma- drugs|significant workup]] before starting so speci
 - Given if **severe COPD**: 
 	- FEV1 < 50% of predicted after bronchodilator ([[spirometry#COPD linked|Spirometry]]). 
 	- **Frequent Exacerbation**: Defined as >=2 exacerbations in the last 12 months despite being on triple inhaled therapy (LAMA + LABA + ICS). 
-	- An exacerbation is defined as either/ or: Change in sputum colour, Increased quantity of sputum  Increased breathlessness (Persistent symptoms for more than 48 hours)
+	- An **exacerbation** is defined as either/or: Change in sputum colour, Increased quantity of sputum, Increased breathlessness (Persistent symptoms for more than 48 hours)
 # Rescue Pack
 aka Standby medication: NICE recommend offering a short course of oral [[corticosteroid]] and oral antibiotics to keep at home if: 
 - have had an exacerbation within the last year
