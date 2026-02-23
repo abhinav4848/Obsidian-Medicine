@@ -15,10 +15,10 @@ Crash and burn on a Kawasaki ( #mnemonic)
 	- mucus membrane changes like bright red (erythema) oral & pharyngeal mucosa, red, cracked lips. 
 - Oedema and erythema in the hands and feet which later desquamates.
 - [[fever & sepsis|Fever]] for 5 days or longer (high grade. No response to antipyretics)
-
-|                                                                                                                                                                                          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| and may have some of the following:<br><br>- <br>    <br>- erythema and cracking of lips; strawberry tongue; or erythema of oral and pharyngeal mucosa<br>    <br>- <br>   <br>    <br>- |
+- and may have some of the following:
+	- erythema and cracking of lips;  
+	- strawberry tongue;   
+	- or erythema of oral and pharyngeal mucosa
 
 May develop Coronary artery aneurysm, rupture, death. Do ECHO for screening
 # Treatment

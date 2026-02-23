@@ -45,8 +45,8 @@ Influenza
 
 ---
 # Time Order
-- 24 hours after commencing antibiotics: Scarlet fever
-- 48 hours after commencing antibiotics (or 21 days from onset of symptoms if no antibiotics): [[Pertussis|Whooping Cough]]
+- 24 hours after commencing antibiotics: [[scarlet fever]]
+- 48 hours after commencing antibiotics (or 21 days from onset of symptoms if no antibiotics): [[Pertussis|Whooping Cough]] 
 - 4 days from onset of rash: [[Measles]]
 - 5 days from onset of swollen glands: [[Mumps]]
 - 5 days from onset of rash: [[Rubella]]

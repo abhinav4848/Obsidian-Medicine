@@ -1,6 +1,8 @@
 ---
 tags:
   - paeds
+aliases:
+  - Hand, foot and mouth disease
 ---
 Coxsackie, Enterovirus.
 

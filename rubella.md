@@ -10,7 +10,7 @@ Initial prodrome: Fever, conjunctivitis, URTi, Tender post-auricular LNE.
 [[Rash]]
 - Transient pink/light red maculopapular rash 
 - Initially on face, starts behind ear, before spreading to whole body  
-- Forchheimer spots on soft palate + LNE #named 
+- Forchheimer [[spots]] on soft palate + LNE #named 
 # Treatment
 Immunisation is essential as there's no treatment. 
 Support + PCT

@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rubella.md",
+                "file": "roseola infantum.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "rubella"
+              "title": "roseola infantum"
             }
           }
         ],
@@ -50,7 +50,7 @@
       {
         "id": "dd6b9f486e1006c5",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 66.5314401622718,
         "children": [
           {
             "id": "676efa40181a3294",
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rash",
+                "query": "vitre",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -102,13 +102,12 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 33.46855983772819,
         "children": [
           {
             "id": "66b70f772136150d",
@@ -116,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "rubella.md",
+                "file": "roseola infantum.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +143,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of rubella"
+              "title": "Graph of roseola infantum"
             }
           }
         ]
@@ -256,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rubella.md",
+                "file": "roseola infantum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +265,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for rubella"
+              "title": "Backlinks for roseola infantum"
             }
           }
         ]
@@ -288,9 +287,26 @@
   },
   "active": "79af39943de0e724",
   "lastOpenFiles": [
-    "rash.md",
+    "different rashes in paeds.md",
+    "scarlet fever.md",
     "measles.md",
+    "school in children with rash.md",
+    "immunisation schedule (paeds).md",
+    "attachments/Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf",
+    "kawasaki disease.md",
+    "-amiodarone.md",
+    "-fibromyalgia.md",
+    "-vitreous haemorrhage.md",
     "terms to describe skin lesions.md",
+    "erythema infectiosum.md",
+    "hand foot mouth.md",
+    "rash.md",
+    "rubella.md",
+    "spots.md",
+    "pityriasis rosea.md",
+    "roseola infantum.md",
+    "day named diseases.md",
+    "human herpes viruses.md",
     "pneumonia.md",
     "copd- treatment.md",
     "spirometry.md",
@@ -299,22 +315,6 @@
     "copd.md",
     "attachments/Red Whale _ COPD_ management Feb 2026.pdf",
     "shortness of breath.md",
-    "asthma- table of contents.md",
-    "asthma.md",
-    "copd- acute exacerbation.md",
-    "mrc dyspnoea scale.md",
-    "smoking.md",
-    "asthma- acute attack.md",
-    "asthma- new management 2024.md",
-    "asthma- old management.md",
-    "cor pulmonale.md",
-    "hypoxic pulmonary vasoconstriction.md",
-    "asthma- diagnosis (algorithm).md",
-    "asthma- investigations.md",
-    "asthma- severity assessment.md",
-    "vitamin-d.md",
-    "calcium metabolism- table of contents.md",
-    "long term oxygen therapy.md",
     "attachments/chronic heart failure- management.png",
     "flow charts/shoulder exam.canvas",
     "flow charts/haematuria.canvas",
@@ -337,7 +337,6 @@
     "flow charts/paeds examination.canvas",
     "Clippings",
     "attachments/ng254- suspected-sepsis-managing-and-evaluating-risk-all-settings-pdf-15494830813.pdf",
-    "attachments/ng254- evaluating-risk-of-severe-illness-or-death-in-all-settings-children-under-5-pdf-15494513294.pdf",
     "flow charts/h. pylori treatment flowchart.canvas",
     "attachments/universal-pain-assessment-tool-with-wong-baker-facesc2ae-pain-rating-scale.jpg",
     "flow charts/contraception after delivery.canvas",

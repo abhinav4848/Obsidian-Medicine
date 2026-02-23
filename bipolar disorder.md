@@ -13,7 +13,7 @@ Addition of [[depression|antidepressants]] (sertraline, etc.) can worsen [[Mania
 
 ACEi, ARB, Diuretics and NSAIDs can lead to [[lithium|Lithium toxicity]].
 - Acetazolamide increases Lithium excretion.
-- Lithium + [[Amiodarone]] worsens ventricular arrhythmia.
+- Lithium + [[-amiodarone]] worsens ventricular arrhythmia.
 
 # Monitoring
 - Before starting [[lithium]], measure TFT, U&e (liTHium-> THyroid function test #mnemonic )

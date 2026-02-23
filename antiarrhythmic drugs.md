@@ -19,7 +19,7 @@ Beta blockers
 
 # Class 3
 Drugs that prolong duration of action potential
-- [[Amiodarone]], Sotalol, Dofetilide, Ibutilide, Bretylium
+- [[-amiodarone]], Sotalol, Dofetilide, Ibutilide, Bretylium
 
 # Class 4
 [[calcium channel blockers|CCBs]] 
