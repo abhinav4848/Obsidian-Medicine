@@ -6,15 +6,20 @@ aliases:
 urls:
   - https://www.pcds.org.uk/clinical-guidance/measles-2
 ---
-Starts with prodromal symptoms (fever, conjunctivitis), followed by a characteristic rash. 
-- Itchy, red-brown rash starting behind ear then spread to body
+Prodromal symptoms (fever, cough, conjunctivitis). 
+Followed by a characteristic erythematous, maculopapular [[rash]].  
+- Itchy, red-brown rash
+- **Spread**: face (behind the ear) -> chest and abdomen -> arms and legs
 
-Koplik Spots on buccal mucosa
-K: Koplik, Cough, Coryza, Conjunctivitis #mnemonic 
+K: *Koplik, Cough, Coryza, Conjunctivitis* #mnemonic 
+- Koplik's spots (small red spots with bluish-white centres) may appear on the mucous membranes of the mouth 1-2 days before the rash appears and may be seen for a further 1-2 days afterwards
 
 ## Complication
 - MCC of death: [[pneumonia#11. Measles-associated viral pneumonia linked|Measles-associated viral pneumonia]] 
-- Bacterial superinfection (pneumonia): is also a recognised complication of measles but typically presents later in the illness or in those who appear initially to recover then deteriorate again. Check for h/o purulent sputum or sudden clinical worsening following initial improvement,
+- Bacterial superinfection (pneumonia): is also a recognised complication of measles but typically presents later in the illness or in those who appear initially to recover then deteriorate again. Check for h/o purulent sputum or sudden clinical worsening following initial improvement.
+- Otitis media
+- Diarrhoea
+- Convulsions, Encephalitis. 
 
 ---
 It's a [[Notifiable disease]].

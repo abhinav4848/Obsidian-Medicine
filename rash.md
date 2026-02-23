@@ -30,15 +30,15 @@ See [[terms to describe skin lesions]]
 ---
 # History of progression of a rash
 **Erythematous exanthems that tend to start on the face**
-- Measles
-- Rubella
-- Erythema infectiosum
+- [[Measles]]
+- [[Rubella]]
+- [[erythema infectiosum]]
 **Erythematous exanthems that tend to start on the trunk**
-- Roseola
-- Scarlet fever
+- [[roseola infantum|roseola]]
+- [[scarlet fever]]
 - Unilateral laterothoracic exanthem
 **Papulo-vesicular exanthems** 
-- Chickenpox (syn. varicella) 
+- [[chicken pox|Chicken Pox]] (syn. varicella) 
 - Gianotti-Crosti syndrome (infantile papular acrodermatitis, due to Hep B, EBV, others)
 **Exanthems of the extremities**
 - Hand, foot and mouth disease
