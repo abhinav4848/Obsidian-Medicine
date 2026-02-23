@@ -36,3 +36,13 @@ A fib possible due to thyrotoxicosis.
 Radioiodine c/I in pregnancy & grave ophthalmopathy. 
 Partial thyroidectomy can be done in T2.
 Both drugs cross placenta. So lowest dose preferred.
+
+
+---
+
+# Hyperthyroidism and Bone
+Hyperthyroidism
+- Untreated hyperthyroidism (not hypothyroidism) is associated with increased bone turnover and [[osteoporosis]]. 
+Hypothyroidism
+- Hypothyroidism may temporarily reduce bone turnover, which could theoretically be protective against bone loss. 
+- However, severe untreated hypothyroidism might indirectly increase fracture risk through other mechanisms such as impaired neuromuscular function leading to falls, but this is not a direct effect on bone metabolism. With appropriate thyroid hormone replacement therapy, patients with hypothyroidism should not have an increased risk of osteoporotic fractures.

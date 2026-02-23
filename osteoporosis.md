@@ -6,6 +6,8 @@ urls:
   - https://bnf.nice.org.uk/treatment-summaries/osteoporosis/
 ---
 ![[calcium metabolism- table of contents]]
+
+Osteoporosis occurs in up to 30% of men and women with [[inflammatory bowel disease]]- Reduced [[vitamin-d|vit D]] and [[calcium]] absorption from small intestine. They are also on long term steroids. Chronic inflammatory state also activates osteoclasts. 
 # Clinical Scenarios
 1. Long term use of [[corticosteroid|steroids]] can cause osteoporosis and make teeth lose. So do DEXA for them.
 2. For postmenopausal women, or men >=50yo -> 

@@ -27,6 +27,10 @@ K: *Koplik, Cough, Coryza, Conjunctivitis* #mnemonic
 - Diarrhoea
 - Convulsions, Encephalitis. 
 
+# Management of contacts
+- if a child not immunized against measles comes into contact with measles then MMR should be offered (vaccine-induced measles antibody develops more rapidly than that following natural infection)
+- this should be given within 72 hours
+
 ---
 It's a [[Notifiable disease]].
 *See [[school in children with rash|school exclusion]]*

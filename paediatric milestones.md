@@ -6,6 +6,7 @@ tags:
 urls:
   - https://ctsmed.blogspot.com/2012/09/how-to-learn-understand-and-memorize.html
   - https://mrcpch.paediatrics.co.uk/wp-content/uploads/2014/06/Development-Assessment-MRCPCH-Website.pdf
+  - https://youtu.be/kVUyStz9Ifk?si=8WPBm4NLCCR0ENGS
 ---
 # Goals
 #### 1 year
@@ -16,10 +17,23 @@ urls:
 ---
 # Gross Motor
 - Sit unsupported: 6 months (no worries about standing unsupported)
+- Pull to standing: 9 months
 - 12m: Walks up & cuts his first birthday cake on his feet. 
 - Walk: 18 months
-- Run: 30 months (2.5 years)
+- Run: 24 months (2 years)
 
+| Age          | Milestone                                                                                                                                                    |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 3 months     | Little or no head lag on being pulled to sit  <br>Lying on abdomen, good head control  <br>Held sitting, lumbar curve                                        |
+| 6 months     | Lying on abdomen, arms extended  <br>Lying on back, lifts and grasps feet  <br>Pulls self to sitting<br>Held sitting, back straight  <br>Rolls tummy to back |
+| 7-8 months   | Sits without support (Refer at 12 months)                                                                                                                    |
+| 9 months     | Pulls to standing  <br>Crawls                                                                                                                                |
+| 12 months    | Cruises  <br>Walks alone (9-18 months, 18m is threshold for worry)                                                                                           |
+| 13-15 months | Walks unsupported (Refer at 18 months)                                                                                                                       |
+| 18 months    | Squats to pick up a toy                                                                                                                                      |
+| 2 years      | Runs  <br>Walks upstairs and downstairs holding on to rail                                                                                                   |
+| 3 years      | Rides a tricycle using pedals  <br>Walks up stairs without holding on to rail                                                                                |
+| 4 years      | Hops on one leg                                                                                                                                              |
 # Fine motor
 aka hand eye coordination. 
 #mnemonic Learn it as a movement 
