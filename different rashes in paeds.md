@@ -5,7 +5,8 @@ tags:
 aliases:
   - Rashes differences
 urls:
-  - https://www.pcds.org.uk/clinical-guidance/viral-exanthems
+  - https://www.ozemedicine.com/wiki/doku.php?id=exanthems
+  - "[PCDS Viral exanthems](https://www.pcds.org.uk/clinical-guidance/viral-exanthems)"
 ---
 See [[day named diseases]]
 See [[school in children with rash|School exclusion]] 
@@ -29,11 +30,11 @@ See [[Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf]]
 | Unilateral laterothoracic exanthem | Self limiting                                                                                                                                                                                                                                         |
 ## Papulovesicular exanthems 
 
-|                                               |                                                                                                                                                                            |
-| --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[chicken pox\|Chicken Pox]] (syn. varicella) | - Pruritic Rash. <br>- Start as red, flat Macules, papules, vesicles, dry crust. <br>- Spread from face to chest & back. Mostly seen on trunk but any body part affected.  |
-| Gianotti-Crosti syndrome                      | (infantile papular acrodermatitis, due to Hep B, EBV, others)                                                                                                              |
+|                                               |                                                                                                                                                                           |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[chicken pox\|Chicken Pox]] (syn. varicella) | - Pruritic Rash. <br>- Start as red, flat Macules, papules, vesicles, dry crust. <br>- Spread from face to chest & back. Mostly seen on trunk but any body part affected. |
+| Gianotti-Crosti syndrome                      | (infantile papular acrodermatitis, due to Hep B, EBV, others)<br>See [images](https://dftbskindeep.com/all-diagnoses/gianotti-crosti-syndrome/)                           |
 ## Exanthems of the extremities
-- [[hand foot mouth|Hand, foot and mouth disease]]
+- [[hand foot mouth|Hand, foot and mouth disease]]- Rare complication is viral meningitis & encephalitis
 - Covid-19
 - Papular-purpuric gloves and socks syndrome
