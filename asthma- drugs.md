@@ -29,6 +29,12 @@ Anti IgE: Omalizumab
 
 ## COPD
 **LAMA** may be better than LABA at reducing exacerbations
+- Increased cardiovascular risk: risk greatest if drug overused. The MHRA advises: 
+	- Warn patients never to overuse.
+	- Cautious use if:
+		- MI in past 6m.
+		- Arrhythmias: arrhythmias requiring change in medication/intervention in past 12m, or unstable or life-threatening.
+		- Hospitalised with heart failure in past 12m.
 **ICS** carry risk of Pneumonia, especially in severe disease. 
 - The association between ICS and risk of pneumonia means that ICS should only be used where the benefits are likely to outweigh the harms.
 - Don't use ICS if: 

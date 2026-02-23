@@ -17,20 +17,13 @@ urls:
 # From NICE CKS 
 - *See [[asthma- drugs|drugs used in asthma/copd]]* 
 
-Stop [[smoking]] (including nicotine replacement, varenicline or bupropion)
-One off pneumococcal vaccine + annual influenza vaccine #vaccine Same as [[heart failure#Other treatments linked|HF]]. 
-
-- Start with Bronchodilator therapy: [[asthma- drugs|SABA/SAMA]]. First line. (Prefer SABA cuz SAMA can't be used with LAMA once step-up therapy is needed)
-- If ✅ \*[[spirometry|asthmatic]] features (see [[copd- treatment#Asthmatic Features linked|below]]) suggesting steroid responsiveness -> Add on LABA + ICS
-	- If still breathless/having exacerbations:
-		- Triple therapy: LAMA + LABA + ICS
-	- Discontinue SAMA if taking LAMA. Use SABA prn. 
-- If ❌ No \*asthmatic features -> +LABA + LAMA
-	- If already taking SAMA, switch to SABA
-	- if severe, can add ICS 3 month trial -> no relief then stop
-- Oral theophylline after all else fails (done by specialist)
-	- dose should be reduced if macrolide or fluoroquinolone antibiotics are co-prescribed ([[p450|p450 inhibitors]]). 
-
+|                                                                                                                                                                                                                                                               |                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| First Step                                                                                                                                                                                                                                                    | Stop [[smoking]] (including nicotine replacement, varenicline or bupropion)<br>One off pneumococcal vaccine + annual influenza vaccine #vaccine Same as [[heart failure#Other treatments linked\|HF]]. |
+| All breathless patients                                                                                                                                                                                                                                       | Start with Bronchodilator therapy: [[asthma- drugs\|SABA/SAMA]]. First line. (Prefer SABA cuz SAMA can't be used with LAMA once step-up therapy is needed)                                             |
+| If ✅ \*[[spirometry\|asthmatic]] features (see [[copd- treatment#Asthmatic Features linked\|below]]) suggesting steroid responsiveness, OR, ≥2 exacerbations in last 12 months AND EITHER <br>- FEV1<50%; and/or <br>- Eosinophil >0.3 (irrespective of FEV1) | Add on LABA + ICS<br><br>If still breathless/having exacerbations -> Triple therapy: LAMA + LABA + ICS<br><br>Discontinue SAMA if taking LAMA. Use SABA prn.                                           |
+| If ❌ No \*asthmatic features                                                                                                                                                                                                                                  | +LABA + LAMA<br><br>- If already taking SAMA, switch to SABA<br>- if severe, can add ICS 3 month trial -> no relief then stop                                                                          |
+| Oral theophylline after all else fails (done by specialist)                                                                                                                                                                                                   | dose should be reduced if macrolide or fluoroquinolone antibiotics are co-prescribed ([[p450\|p450 inhibitors]]).                                                                                      |
 Pulmonary rehabilitation to all people who view themselves as functionally disabled by COPD (usually [[mrc dyspnoea scale|Medical Research Council dyspnoea scale]] >= grade 3) 
 
 **Frequent Exacerbation**: Defined as >=2 exacerbations in the last 12 months despite being on triple inhaled therapy (LAMA + LABA + ICS). 
@@ -60,8 +53,9 @@ Azithromycin needs [[asthma- drugs|significant workup]] before starting so speci
 - *Started by respiratory clinic*. Patients benefit most when they have a chronic productive cough which is consistent with a chronic bronchitic phenotype. This type particularly benefits from PDE-4 inhibitors. ([NICE](https://www.nice.org.uk/guidance/TA461/chapter/1-Recommendations)) 
 - PDE-4 inhibitor reduces COPD exacerbation in severe cases having frequent exacerbations 
 - Given if **severe COPD**: 
-	- FEV1 < 50% of predicted after bronchodilator  ([[spirometry#COPD linked|Spirometry]]). 
+	- FEV1 < 50% of predicted after bronchodilator ([[spirometry#COPD linked|Spirometry]]). 
 	- **Frequent Exacerbation**: Defined as >=2 exacerbations in the last 12 months despite being on triple inhaled therapy (LAMA + LABA + ICS). 
+	- An exacerbation is defined as either/ or: Change in sputum colour, Increased quantity of sputum  Increased breathlessness (Persistent symptoms for more than 48 hours)
 # Rescue Pack
 aka Standby medication: NICE recommend offering a short course of oral [[corticosteroid]] and oral antibiotics to keep at home if: 
 - have had an exacerbation within the last year
