@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "osteoporosis.md",
+                "file": "diabetes articles.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "osteoporosis"
+              "title": "diabetes articles"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hyperthyr",
+                "query": "diabetes",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "osteoporosis.md",
+                "file": "diabetes articles.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +144,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of osteoporosis"
+              "title": "Graph of diabetes articles"
             }
           }
         ]
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "osteoporosis.md",
+                "file": "diabetes articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +266,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for osteoporosis"
+              "title": "Backlinks for diabetes articles"
             }
           }
         ]
@@ -288,8 +288,10 @@
   },
   "active": "79af39943de0e724",
   "lastOpenFiles": [
-    "hyperthyroidism.md",
+    "hba1c.md",
+    "diabetes articles.md",
     "osteoporosis.md",
+    "hyperthyroidism.md",
     "inflammatory bowel disease.md",
     "paediatric milestones.md",
     "measles.md",
@@ -313,8 +315,6 @@
     "pityriasis rosea.md",
     "day named diseases.md",
     "human herpes viruses.md",
-    "pneumonia.md",
-    "copd- treatment.md",
     "attachments/Red Whale _ COPD_ management Feb 2026.pdf",
     "attachments/chronic heart failure- management.png",
     "flow charts/shoulder exam.canvas",

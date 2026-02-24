@@ -2,7 +2,7 @@
 tags:
   - endocrine
 ---
->[!info]- TOC
+>[!info]- Diabetes TOC
 > - [[diabetes insipidus]] 
 > - [[diabetes mellitus 1]] 
 > - [[diabetes- gestational]] 
