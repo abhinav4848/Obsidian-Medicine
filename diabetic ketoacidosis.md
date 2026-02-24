@@ -6,8 +6,9 @@ tags:
 ![[diabetes articles]]
 
 Common in [[diabetes mellitus 1|T1DM]]. Rare in type 2 diabetics. 
+Rare problem in [[diabetes drugs|SGLT2]] use. 
 # Clinical Features
-Abdominal pain, vomit, Kussmaul breathing (deep hyperventilation), dehydration.
+Rapid weight loss, nausea/vomit, abdominal pain, Kussmaul breathing (fast & deep hyperventilation), sleepiness, sweet smell to breath, sweet/metallic taste in mouth, different odour to urine/sweat dehydration.
 
 pH < 7.3, ketonemia > 3/Ketonuria++, Glucose > 11, HCO3- < 15mmol/L  
   

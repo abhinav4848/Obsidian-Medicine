@@ -16,8 +16,21 @@ urls:
 	*See [[diabetes mellitus- diagnosis]]* 
 
 ---
-# Treatment based on target levels
-See: [NICE Initial medicines](https://www.nice.org.uk/guidance/ng28/chapter/Initial-medicines), [visual summary](https://www.nice.org.uk/guidance/ng28/resources/visual-summary-choosing-medicines-for-further-treatment-pdf-10956472093)
+# Treatment based on appropriate drug to use
+*See [[diabetes drugs]].* 
+
+| Condition                    | Management ([NICE Initial medicines](https://www.nice.org.uk/guidance/ng28/chapter/Initial-medicines), [visual summary](https://www.nice.org.uk/guidance/ng28/resources/visual-summary-choosing-medicines-for-further-treatment-pdf-10956472093))                                                                                                   |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| If no relevant comorbidities | Metformin and once established, add SGLT-2 inhibitor<br>- If metformin c/i or not tolerated -> SGLT2 only (for all conditions)<br>- Further treatment needed to reach individualised glycaemic target -> DPP-4 inhibitor<br>- If DPP not tolerated-> Sulfonylurea / Pioglitazone / Insulin                                                          |
+| Obesity                      | Metformin & SGLT2 <br>- Further treatment needed to reach individualised glycaemic target -> GLP-1 or Tirzepatide if initial therapy started >=3 months ago. <br>	- If if not suited, add DPP-4 inhibitor<br>- If still more needed for target after GLP/GIP or DPP-4 inhibitor not suited-> Sulfonylurea / Pioglitazone / Insulin                  |
+| CKD                          | eGFR > 30 -> Metformin & SGLT2<br>eGFR 20-30 -> DPP-4 + SGLT2 (Only Dapa or Empa)<br>eGFR < 20 -> Consider DPP-4, if not suited -> Pioglitazone or Insulin<br><br>if further treatment needed, consider DPP-4 if not already -> DPP4 not suited -> Sulfonylurea / Pioglitazone / Insulin                                                            |
+| Early onset (<40yo) DM-2     | Metformin & SGLT2 + Consider GLP1 or Tirzepatide<br>If further treatment needed to reach target: <br>- If already on GLP/GIP -> add Sulfonylurea / Pioglitazone / Insulin<br>- IF GLP/GIP not tolerated -> DPP4 -> if DPP4 not suited -> Sulfonylurea / Pioglitazone / Insulin                                                                      |
+| HF (any EF)                  | Metformin & SGLT2 <br>if further treatment needed to reach target: DPP-4<br>if DPP4 not suited -> Sulfonylurea / Insulin (Pioglitazone is c/i in HF)                                                                                                                                                                                                |
+| Atherosclerotic CVD          | Metformin & SGLT2 + GLP1 (s.c. Semaglutide/Ozempic) upto 1mg/week<br>if further treatment needed to reach target: Sulfonylurea / Pioglitazone / Insulin                                                                                                                                                                                             |
+| Frailty                      | Metformin<br>- SGLT2 only if low risk of adverse event (e.g. Hypotension) <br>- If metformin c/i -> Consider SGLT2 monotherapy -> if high risk of adverse events -> DPP-4<br>Further control: DPP4 if not already<br>Further control/DPP4 not tolerated ->Sulfonylurea / Pioglitazone / Insulin (Risk of hypos & fall with sulfonylureas & insulin) |
+
+---
+# Treatment based on target levels (Old management)
 If new diagnosis: Lifestyle advice
 	**Exercise**: 30 mins moderate intensity physical activity 5 times/week.
 	
@@ -49,12 +62,8 @@ If still HbA1c > 58, add another drug from above list (2nd intensification).
 	 - BMI < 35 kg/m2 but:
 		 - insulin therapy would have significant occupational implications, or 
 		 - weight loss would benefit other significant obesity related comorbidities. 
+	
 ---
-# Treatment based on appropriate drug to use
-*See [[diabetes drugs]].* 
-If high risk of CVD/established CVD/HF -> Metformin and once established, add SGLT-2 inhibitor  
-
-If no risk of HF: Metformin 
 ## Scenario:  
 If Metformin not tolerated -> Modified release Metformin.  
 If Metformin C/I
