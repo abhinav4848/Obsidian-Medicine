@@ -3,6 +3,7 @@ tags:
   - gp_training
 urls:
   - https://www.nhs.uk/nhs-services/gps/getting-a-fit-note/
+  - https://www.gov.uk/taking-sick-leave
 aliases:
   - sick note
 ---

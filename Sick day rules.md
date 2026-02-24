@@ -35,7 +35,7 @@ _NICE defines this as sudden, intense psychological and emotional stress, e.g. b
 | General points                               | - Try to reduce/manage stress by:<br>    - Using condition-specific support groups that offer peer support/other support groups.<br>    - Exploring with employer/education provider what reasonable adjustments can be made.<br>    - Exploring self-management (activities the patient can do to reduce their stress).<br>    - Considering using IAPT services.                                 |
 | Management of psychological stress           | - Consider sick day rules for 1–2 days during psychological stress, namely:<br>    - **If on hydrocortisone:** take at least 40mg oral hydrocortisone/d (in 2–4 divided doses).<br>    - **If on prednisolone:** take at least 10mg oral prednisolone in 1–2 daily doses. (If already taking ≥10mg prednisolone, additional sick day dosing not needed, but dose can be split into 2 equal doses.) |
 | Severe mental health crisis (e.g. psychosis) | - Oral hydrocortisone or oral prednisolone (see row above for doses; duration likely to depend on speed of recovery/resolution of crisis phase; seek advice so as to treat adequately but not for unnecessary duration).<br>- Consider using 100mg im hydrocortisone if unable to take oral glucocorticoids.                                                                                       |
-# AKI
+# Acute Kidney Injury
 [RCGP toolkit for AKI](https://elearning.rcgp.org.uk/course/view.php?id=537), [UK Kidney Association](https://www.ukkidney.org/) (Old: [Think Kidney](https://www.thinkkidneys.nhs.uk/aki/news/acute-kidney-injury-toolkit-for-gps-and-healthcare-professionals/), For patients: [Kidney Care UK](https://www.kidneycareuk.org/).) 
 ## Sick day ‘guidance’
 This is the concept that patients on potentially nephron-harmful drugs stop them at times of intercurrent illness where fluid balance may be disturbed (e.g. gastroenteritis). The key thing here is that the patient is the one who decides when to stop them and when to restart them, which is a whole different thing from us seeing someone and telling them to stop a drug for a few days (e.g. statins with erythromycin). 
@@ -68,6 +68,7 @@ The NHS ‘Think Kidneys’ campaign definition of ‘acute illness’:
 - _Fevers, sweats and shaking._
 
 ## Which drugs are included in sick day guidance? %%linked%%
+[London Kidney Network NHS](https://londonkidneynetwork.nhs.uk/wp-content/uploads/2024/04/Sick-Day-Rules.pdf)
 - [[nsaid|Non-steroidal anti-inflammatory drugs]] (because they impair renal autoregulation).
 - Drugs that lower BP or cause volume depletion (increased risk of AKI by reducing glomerular perfusion):
     - [[ace inhibitors|ACE inhibitors]] and ARBs.
@@ -77,7 +78,7 @@ The NHS ‘Think Kidneys’ campaign definition of ‘acute illness’:
     - Metformin (increased risk of lactic acidosis).
     - [[diabetes drugs|Sulfonylureas]] (increased risk of hypoglycaemia, because drug cleared through kidneys).
     - [[Trimethoprim]] (increased risk of [[hyperkalemia|Hyperkalaemia]], and may also cause a ‘false’ rise in creatinine by interfering with tubular creatinine secretion, resulting in a ‘false positive’ diagnosis of AKI).
-    - SGLT2 inhibitors
+    - SGLT2 inhibitors, Direct renin inhibitors (aliskiren)
 
 ## So, what does this mean in practice?
 The following may be a reasonable approach:

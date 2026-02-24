@@ -28,32 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diabetes drugs.md",
+                "file": "weight.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "diabetes drugs"
-            }
-          },
-          {
-            "id": "ab81d5a2824186a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sick day rules.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Sick day rules"
+              "title": "weight"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,10 +71,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sick day",
+                "query": "semaglu",
                 "matchingCase": false,
                 "explainSearch": true,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -131,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sick day rules.md",
+                "file": "weight.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +144,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Sick day rules"
+              "title": "Graph of weight"
             }
           }
         ]
@@ -271,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sick day rules.md",
+                "file": "weight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +266,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sick day rules"
+              "title": "Backlinks for weight"
             }
           }
         ]
@@ -301,11 +286,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ab81d5a2824186a6",
+  "active": "79af39943de0e724",
   "lastOpenFiles": [
-    "Sick day rules.md",
-    "trimethoprim.md",
     "diabetes drugs.md",
+    "weight.md",
+    "Sick day rules.md",
+    "fit note.md",
+    "trimethoprim.md",
     "ace inhibitors.md",
     "corticosteroid.md",
     "glycosuria.md",
@@ -328,8 +315,6 @@
     "-amiodarone.md",
     "-fibromyalgia.md",
     "-vitreous haemorrhage.md",
-    "terms to describe skin lesions.md",
-    "erythema infectiosum.md",
     "attachments/Red Whale _ COPD_ management Feb 2026.pdf",
     "attachments/chronic heart failure- management.png",
     "flow charts/shoulder exam.canvas",
