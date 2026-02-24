@@ -13,13 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "housekeeping/gp guidelines- msk.md",
+                "file": "emollients.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "gp guidelines- msk"
+              "title": "emollients"
+            }
+          },
+          {
+            "id": "3cc7d32edcb69f92",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2016/04/Leicestershire-Emollient-Formulary-2016.pdf",
+                "title": "Leicestershire-Emollient-Formulary-2016.pdf",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Leicestershire-Emollient-Formulary-2016.pdf"
             }
           },
           {
@@ -28,13 +42,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diabetes drugs.md",
+                "file": "diabetes- gestational.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "diabetes drugs"
+              "title": "diabetes- gestational"
             }
           }
         ],
@@ -71,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "semaglu",
+                "query": "aproderm",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -102,7 +116,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -115,7 +130,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "diabetes drugs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +157,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of diabetes drugs"
+              "title": "Graph view"
             }
           }
         ]
@@ -255,7 +269,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diabetes drugs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +278,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for diabetes drugs"
+              "title": "Backlinks"
             }
           }
         ]
@@ -285,9 +298,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "79af39943de0e724",
+  "active": "3cc7d32edcb69f92",
   "lastOpenFiles": [
+    "emollients.md",
+    "eczema.md",
+    "housekeeping/gp guidelines- msk.md",
+    "diabetes- gestational.md",
+    "diabetes mellitus- diagnosis.md",
     "diabetes treatment.md",
+    "hypertension.md",
+    "papilloedema.md",
+    "calcium channel blockers.md",
+    "flow charts/hypertension management.canvas",
+    "upper limb ortho problems.md",
     "diabetes drugs.md",
     "diabetic ketoacidosis.md",
     "Sick day rules.md",
@@ -304,15 +327,7 @@
     "inflammatory bowel disease.md",
     "paediatric milestones.md",
     "measles.md",
-    "different rashes in paeds.md",
-    "hand foot mouth.md",
-    "roseola infantum.md",
-    "lichen planus.md",
-    "scarlet fever.md",
-    "school in children with rash.md",
-    "immunisation schedule (paeds).md",
     "attachments/Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf",
-    "kawasaki disease.md",
     "attachments/Red Whale _ COPD_ management Feb 2026.pdf",
     "attachments/chronic heart failure- management.png",
     "flow charts/shoulder exam.canvas",
@@ -329,7 +344,6 @@
     "attachments/MCP & MTP squeeze test for rheumatoid arthritis.jpg",
     "attachments/guidance on plasma viscosity.pdf",
     "attachments/erythema nodosum 2.png",
-    "flow charts/hypertension management.canvas",
     "housekeeping/memorise.base",
     "attachments/breast cancer referral (summary image).png",
     "attachments/anticholinergic burden table.png",

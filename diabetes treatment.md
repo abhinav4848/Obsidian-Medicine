@@ -15,6 +15,14 @@ urls:
 [[hba1c|HbA1c]] target < 48 (i.e. Pre-diabetic levels are acceptable)
 	*See [[diabetes mellitus- diagnosis]]* 
 
+# Diet advice
+- encourage high fibre, low glycaemic index sources of carbohydrates
+- include low-fat dairy products and oily fish
+- control the intake of foods containing saturated fats and trans fatty acids
+- limited substitution of sucrose-containing foods for other carbohydrates is allowable, but care should be taken to avoid excess energy intake
+- discourage the use of foods marketed specifically at people with diabetes
+- initial target weight loss in an overweight person is 5-10%
+
 ---
 # Treatment based on appropriate drug to use
 *See [[diabetes drugs]].* 

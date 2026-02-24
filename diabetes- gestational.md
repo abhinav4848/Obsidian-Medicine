@@ -18,26 +18,46 @@ aliases:
 - first-degree relative with DM
 - family origin with a high prevalence of DM (South Asian, [[afro-caribbean|black Caribbean]] and Middle Eastern)
 - Unexplained stillbirth in previous pregnancy. 
+# Complications
+Maternal:
+- **Polyhydramnios** due to increased urination by fetus. This excess fluid can cause preterm labour, PROM, Abruptio, PPH. 
+- Preterm labour
+- pre-eclampsia
+Neonatal: 
+- **Neonatal hypoglycaemia**: Maternal hyperglycaemia leads to increased insulin production in the foetus (beta cell hyperplasia) and hence neonates are more likely to have hypoglycaemia after birth when they lose their maternal glucose supply abruptly.
+- macrosomia (but GDM can also cause SGA- small for gestational age)
+- RDS: surfactant production delayed
+- Polycythaemia, so more chance of Neonatal jaundice
+- Malformation risk increased 3-4x (incl HOCM)
+- Stillbirth, Hypomagnesemia, [[hypocalcemia|hypocalcaemia]], Shoulder dystocia (causing Erb's palsy). 
 
+---
 # Screening for GDM
 - OGTT is test of choice
 - H/o prev. GDM: OGTT soon after booking & at 24-28 weeks if the first test is normal.
 - Early self-monitoring of blood glucose is an alternative to the OGTTs. 
-
 - Any of the other risk factors should get OGTT at 24-28 weeks.
-
-# Diagnostic thresholds for GDM
-GDM is diagnosed if either:
-#mnemonic 5-6-7-8
+## Diagnostic thresholds for GDM
+GDM is diagnosed if either is seen.
 Give 75gm OGTT. 
 
-| Fasting     | >= 5.6 mmol/L |
-| ----------- | ------------- |
-| 2 hour OGTT | >= 7.8        |
+| Fasting     | >= 5.6 mmol/L, or |
+| ----------- | ----------------- |
+| 2 hour OGTT | >= 7.8            |
+#mnemonic 5-6-7-8
 These targets are lower than for DM because this is where the risk to fetus meaningfully increases. 
 
 >[!tip]- Diagnostic cutoff for DM
 >![[diabetes mellitus- diagnosis#Diagnostic cutoff for DM (is transcluded)]]
+### Targets for self monitoring of pregnant women (For both pre-existing & GDM)
+
+| Time               | Target      |
+| ------------------ | ----------- |
+| Fasting            | 5.3 mmol/l  |
+| 2 hours after meal | 6.4 mmol/l  |
+| 1 hour after meal  | 7.8 mmol/l, |
+
+---
 # Management of GDM
 once a woman has been diagnosed with gestational diabetes, she remains 'high risk for diabetes mellitus' for life and should receive a yearly HbA1c. 
 
@@ -55,14 +75,6 @@ once a woman has been diagnosed with gestational diabetes, she remains 'high ris
 - tight glycaemic control reduces complication rates
 - treat retinopathy as can worsen during pregnancy
 
-# Targets for self monitoring of pregnant women 
-For both pre-existing & GDM
-
-| Time               | Target      |
-| ------------------ | ----------- |
-| Fasting            | 5.3 mmol/l  |
-| 2 hours after meal | 6.4 mmol/l  |
-| 1 hour after meal  | 7.8 mmol/l, |
 
 ---
 > [!quote]- Why is threshold for diagnosing GDM lower than diagnosing DM?

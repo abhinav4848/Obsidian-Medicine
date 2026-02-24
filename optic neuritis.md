@@ -3,7 +3,7 @@ tags:
   - ophthal
 ---
 Inflammation of optic nerve.
-Swollen optic disc (like [[papilledema]]). 
+Swollen optic disc (like [[papilloedema]]). 
 
 # Clinical Features
 Reduced colour vision (initially of red colour -> i.e. Red desaturation). #named 

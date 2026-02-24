@@ -43,7 +43,7 @@ Bacterial CSF look same (turbid, purulent), but if
 - Ongoing [[seizure]]
 - GCS < 9 or a drop of >=3
 - Unequal, dilated, unresponsive pupils
-- [[papilledema]] 
+- [[papilloedema]] 
 - If there's Meningococcal septicaemia -> cuz then you risk introducing it to brain.
 
 ---

@@ -6,7 +6,7 @@ urls:
   - https://www.visioncenter.org/conditions/papilledema/
 aliases:
   - papilloedema
-  - papillodema
+  - papilldema
 ---
 It is swollen optic nerve. 
 
