@@ -6,6 +6,7 @@ aliases:
   - ACE inhibitor
   - Ramipril
   - ACE
+  - ACE inhibitors
 ---
 # Role in [[Hypertension]]
 First line if HTN + diabetes

@@ -3,16 +3,16 @@ tags:
   - endocrine
 ---
 >[!info]- Diabetes TOC
-> - [[diabetes insipidus]] 
-> - [[diabetes mellitus 1]] 
-> - [[diabetes- gestational]] 
-> - [[diabetes mellitus- diagnosis]] 
-> - [[diabetes drugs]] 
-> - [[diabetes treatment]] 
-> - [[hba1c|HbA1c readings]] 
-> - [[diabetes- pre-op control]]
-> - [[diabetes in palliative care]]
+> - [[diabetes mellitus- diagnosis|Diagnosis]] 
+> - [[diabetes treatment|Treatment]] 
+> 	- [[diabetes drugs|Drugs]] 
+> 	- [[hba1c|HbA1c]] 
 > - [[glycosuria]]
-> - [[hypoglycemia]]
-> - [[hhs|Hyperosmolar hyperglycemic state]]
-> - [[diabetic ketoacidosis]]
+> - [[diabetes mellitus 1|T1DM]] 
+> - [[diabetes- gestational|GDM]] 
+> Acute: 
+> 	[[hypoglycemia]], [[hhs|HHS]], [[diabetic ketoacidosis|DKA]]
+> Misc: 
+> 	[[diabetes in palliative care|Palliative]], [[diabetes- pre-op control|Pre-Op control]]
+> See Also:
+> 	[[diabetes insipidus]] 

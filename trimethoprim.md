@@ -22,3 +22,4 @@ Very small risk of
 	- agranulocytosis 
 	- thrombocytopenia
 	- patients and their carers should be told to seek immediate medical attention if symptoms such as fever, sore throat, rash, mouth ulcers, purpura, bruising or bleeding develop. The BNF also recommends regular FBC. 
+[[Sick day rules]]: There's increased risk of [[hyperkalemia|Hyperkalaemia]], and may also cause a ‘false’ rise in creatinine by interfering with tubular creatinine secretion, resulting in a ‘false positive’ diagnosis of AKI. 

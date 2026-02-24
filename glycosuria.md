@@ -10,3 +10,4 @@ It's normal to happen after surgery (stress hyperglycemia: stress increases cort
 Resolves few days post-op.
 
 Do FBG when glycosuria subsides as a follow up investigation.
+It's expected in [[diabetes drugs|SGLT2]]. 

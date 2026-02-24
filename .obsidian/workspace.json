@@ -28,17 +28,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diabetes articles.md",
+                "file": "diabetes drugs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "diabetes articles"
+              "title": "diabetes drugs"
+            }
+          },
+          {
+            "id": "ab81d5a2824186a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sick day rules.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Sick day rules"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -71,10 +86,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diabetes",
+                "query": "sick day",
                 "matchingCase": false,
                 "explainSearch": true,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -116,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "diabetes articles.md",
+                "file": "Sick day rules.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of diabetes articles"
+              "title": "Graph of Sick day rules"
             }
           }
         ]
@@ -256,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diabetes articles.md",
+                "file": "Sick day rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for diabetes articles"
+              "title": "Backlinks for Sick day rules"
             }
           }
         ]
@@ -286,10 +301,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "79af39943de0e724",
+  "active": "ab81d5a2824186a6",
   "lastOpenFiles": [
-    "hba1c.md",
+    "Sick day rules.md",
+    "trimethoprim.md",
+    "diabetes drugs.md",
+    "ace inhibitors.md",
+    "corticosteroid.md",
+    "glycosuria.md",
     "diabetes articles.md",
+    "hba1c.md",
     "osteoporosis.md",
     "hyperthyroidism.md",
     "inflammatory bowel disease.md",
@@ -309,12 +330,6 @@
     "-vitreous haemorrhage.md",
     "terms to describe skin lesions.md",
     "erythema infectiosum.md",
-    "rash.md",
-    "rubella.md",
-    "spots.md",
-    "pityriasis rosea.md",
-    "day named diseases.md",
-    "human herpes viruses.md",
     "attachments/Red Whale _ COPD_ management Feb 2026.pdf",
     "attachments/chronic heart failure- management.png",
     "flow charts/shoulder exam.canvas",
