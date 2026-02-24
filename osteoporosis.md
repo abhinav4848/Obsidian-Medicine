@@ -18,7 +18,7 @@ Osteoporosis occurs in up to 30% of men and women with [[inflammatory bowel dise
 3. In older adults a hip fracture is a manifestation of osteoporosis
 	1. following a fragility fracture in women ≥ 75 years, a DEXA scan is not necessary to diagnose osteoporosis and hence commence a bisphosphonate
 	2. BMD should be measured, but this acts as a baseline rather than determining whether treatment should be given
-4. **Other drugs**: PPIs, Glitazones, SSRIs, Antiepileptics, Long term Heparin, [[cancer- breast (treatment)|aromatase inhibitors]]: Anastrozole (prevents formation of Oestrogen). 
+4. **Other drugs**: PPIs, [[diabetes drugs|Glitazones]], SSRIs, Antiepileptics, Long term Heparin, [[cancer- breast (treatment)|aromatase inhibitors]]: Anastrozole (prevents formation of Oestrogen). 
 # How to calculate Osteoporosis
 If no h/o #, use Fracture risk assessment tool. #named 
 If h/o # or risk assessment (Q-fracture/FRAX) > 10%, use DEXA (to obtain the T-score).
