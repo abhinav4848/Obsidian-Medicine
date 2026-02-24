@@ -52,9 +52,19 @@ If still HbA1c > 58, add another drug from above list (2nd intensification).
 ---
 # Treatment based on appropriate drug to use
 *See [[diabetes drugs]].* 
-If high risk of CVD/established CVD/HF -> Metformin and once established, add SGLT-2 inhibitor  
+If no relevant comorbidities-> Metformin and once established, add SGLT-2 inhibitor
+- If metformin c/i or not tolerated -> SGLT2 only (for all conditions)
+- Further treatment needed to reach individualised glycaemic target -> DPP-4 inhibitor
+- If DPP not tolerated-> Sulfonylurea / Pioglitazone / Insulin
 
-If no risk of HF: Metformin 
+Obesity-> Metformin & SGLT2 
+- Further treatment needed to reach individualised glycaemic target -> GLP-1 or Tirzepatide if initial therapy started >=3 months ago. 
+	- If if not suited, add DPP-4 inhibitor
+- If still more needed for target after GLP/GIP or DPP-4 inhibitor not suited-> Sulfonylurea / Pioglitazone / Insulin
+
+CKD
+eGFR > 30 -> Metformin & SGLT2
+eGFR > 20 -> 
 ## Scenario:  
 If Metformin not tolerated -> Modified release Metformin.  
 If Metformin C/I
