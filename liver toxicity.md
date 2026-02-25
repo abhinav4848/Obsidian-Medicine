@@ -7,7 +7,7 @@ tags:
 | ------------------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------- |
 | paracetamol                                                                     | [[cocp\|combined oral contraceptive pill]]                     | [[methotrexate]] |
 | sodium valproate, phenytoin                                                     | antibiotics: flucloxacillin, co-amoxiclav, erythromycin        | methyldopa       |
-| MAOIs                                                                           | anabolic steroids, testosterones                               | [[-amiodarone]]   |
+| MAOIs                                                                           | anabolic steroids, testosterones                               | [[amiodarone]]   |
 | halothane                                                                       | phenothiazines: chlorpromazine, prochlorperazine               |                  |
 | [[tuberculosis\|side effects of TB drugs]]: isoniazid, rifampicin, pyrazinamide | sulphonylureas                                                 |                  |
 | statins                                                                         | fibrates                                                       |                  |

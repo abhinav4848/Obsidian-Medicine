@@ -9,15 +9,15 @@ urls:
 ---
 # When to suspect RA
 RA typically causes symmetrical synovitis of small joints (MCP, PIP, wrist) of hands and feet, although any synovial joint may be affected. 
-- Pain — usually, this is worse at rest or during periods of inactivity.
-- Swelling — around the joint (not bone swelling), giving a '==boggy==' feel on palpation. 
-- Stiffness — early morning stiffness usually lasts over 1 hour (a history of prolonged morning stiffness is more helpful when forming a diagnosis than currently having morning stiffness for early RA). 
+- Pain: Usually, this is worse at rest or during periods of inactivity.
+- Swelling: Around the joint (not bone swelling), giving a '==boggy==' feel on palpation. 
+- Stiffness: Early morning stiffness usually lasts over 1 hour (a history of prolonged morning stiffness is more helpful when forming a diagnosis than currently having morning stiffness for early RA). 
 
 Do an MCP or MTP squeeze test:
 ![[MCP & MTP squeeze test for rheumatoid arthritis.jpg|200]]
 
 ## Other conditions causing synovitis: 
-- CTD ([[systemic lupus erythematosis|SLE]]), [[-fibromyalgia]], Infectious arthritis (Viral/bacterial), Osteoarthritis ([[RA vs osteoarthritis]]), Polyarticular [[gout]], [[polymyalgia rheumatica|PMR]], Psoriatic arthritis, [[reactive arthritis]], [[sarcoidosis]], [[septic arthritis]], [[seronegative spondyloarthropathy|seronegative arthritis]]. 
+- CTD ([[systemic lupus erythematosis|SLE]]), [[fibromyalgia]], Infectious arthritis (Viral/bacterial), Osteoarthritis ([[RA vs osteoarthritis]]), Polyarticular [[gout]], [[polymyalgia rheumatica|PMR]], Psoriatic arthritis, [[reactive arthritis]], [[sarcoidosis]], [[septic arthritis]], [[seronegative spondyloarthropathy|seronegative arthritis]]. 
 ##### Involvement of DIP
 - RA spares DIP (RA is synovitis driven and DIP has little synovium)
 - OA loves DIP & PIP
@@ -43,3 +43,7 @@ A variety of respiratory problems may be seen in patients with rheumatoid arthri
     - massive fibrotic nodules with occupational coal dust exposure
 - infection (possibly atypical) secondary to immunosuppression
 
+# Drug side effects
+[[Methotrexate]]: Myelosuppression, Liver cirrhosis, [[interstitial lung disease vs pneumonitis|pneumonitis]]  
+Sulfasalazine: Rashes, Oligospermia, Heinz body anaemia, [[interstitial lung disease vs pneumonitis|interstitial lung disease]] 
+[[Leflunomide]]: Liver impairment, Interstitial lung disease (interstitial pnuemonitis), Hypertension 

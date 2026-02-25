@@ -15,6 +15,7 @@ urls:
 | *due to reduced red blood cell lifespan*                                                    | *due to increased red blood cell lifespan*                                                                                                               |
 | - Sickle-cell anaemia<br>- GP6D deficiency<br>- Hereditary spherocytosis<br>- Haemodialysis | - Vitamin B12/[[folic acid]] deficiency<br>--> cells live longer as they are premature<br>- Iron-deficiency anaemia<br>- Splenectomy -> cells die later. |
 HbA1c is unreliable for patients with possible suspected diagnosis of T1DM as it may not accurately reflect a recent rapid rise in serum glucose.
+See: [NICE HbA1c interpretation](https://cks.nice.org.uk/topics/diabetes-type-2/diagnosis/diagnosis-in-adults/#interpreting-hba1c-results) 
 # Conversion chart
 Old way to measure was %
 New way to measure is with mmol/mol

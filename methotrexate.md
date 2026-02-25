@@ -1,12 +1,15 @@
 ---
 tags:
   - pharmacology
+aliases:
+  - MTX
 ---
 It's a [[rheumatoid arthritis|DMARD]]. 
+Can cause dry cough (like ACE inhibitor) because it can lead to [[interstitial lung disease vs pneumonitis|pneumonitis]]. 
 
-Can cause dry cough (also ACE inhibitor) because it can lead to [[lung fibrosis]]. 
-
->*New answer is Pneumonitis, but if not in option, choose pulmonary fibrosis. Leflunomide and Sulfasalazine cause [[interstitial lung disease vs pneumonitis|ILD]] while MTX is more associated with pneumonitis.
+>*New answer is Pneumonitis, but if not in option, choose [[lung fibrosis|pulmonary fibrosis]].
+>- [[Leflunomide]] and Sulfasalazine cause [[interstitial lung disease vs pneumonitis|ILD]]. 
+>- MTX is more associated with pneumonitis.
 
 # Methotrexate toxicity 
 - Treatment of choice is Folinic acid

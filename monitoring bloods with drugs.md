@@ -11,7 +11,7 @@ Watch out for monitoring vs pre-treatment in the question.
 | --------------------------------- | -------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | Statins                           | LFT                        | LFTs at baseline, 3 months and 12 months                                                                                |
 | [[ace inhibitors\|ACE inhibitor]] | U&E                        | U&E prior to treatment, then after 3 weeks of starting it<br><br>U&E after increasing dose<br><br>U&E at least annually |
-| [[-amiodarone]]                    | TFT, LFT                   | TFT, LFT, U&E, CXR prior to treatment<br><br>TFT, LFT every 6 months                                                    |
+| [[amiodarone]]                    | TFT, LFT                   | TFT, LFT, U&E, CXR prior to treatment<br><br>TFT, LFT every 6 months                                                    |
 
 ### Rheumatology drugs
 [NICE: Monitoring of DMARDs](https://cks.nice.org.uk/topics/dmards/management/monitoring-of-dmards/#azathioprine) 
@@ -32,12 +32,13 @@ Watch out for monitoring vs pre-treatment in the question.
 | ------------------------------ | -------------------------- | ------------------------------------------------------------ |
 | [[diabetes drugs\|Glitazones]] | LFT                        | LFT before treatment<br><br>LFT 'regularly' during treatment |
 
-# Mnemonic:
+# Mnemonic
+#mnemonic 
 1. Statins --> liver problems so just LFTs
 2. ACEi --> well we all know it is bad for kidneys so U&Es
-3. MTX --> horrible drug that effects Liver + Kidney + Blood so FBC, U&Es and LFTs. Besides MTX almost has a THREE in it. hmmmm interesting
+3. [[methotrexate|MTX]] --> horrible drug that effects Liver + Kidney + Blood so FBC, U&Es and LFTs. Besides MTX almost has a THREE in it. hmmmm interesting
 4. Azathioprine --> wants to be like MTX but lacks the kidneys. So it can only to get a deal for FBC and LFTs
-5. LiThiUm --> meany of a drug. We need to keep an eye on it. Also TFTs and U&Es (can not think of a way to remember this. damnnnn)
+5. [[lithium|LiThiUm]] --> meany of a drug. We need to keep an eye on it. Also TFTs and U&Es (can not think of a way to remember this. damnnnn)
 6. Sodium valproate --> fat people love salt, which is basically Sodium. And fat people have fatty livers so better keep an eye on LFTs
 7. Glitazones --> Diabetic drugs, which is usually given to fat people (cause you know every fat person is a diabetic (its a joke calm down before being pissed)). And as above, fat people have fatty livers so better keep an eye on it
 

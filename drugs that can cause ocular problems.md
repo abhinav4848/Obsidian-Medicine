@@ -7,7 +7,7 @@ tags:
 - steroids 
 
 **Corneal opacities** 
-- [[-amiodarone]] 
+- [[amiodarone]] 
 - indomethacin 
 
 **[[Optic neuritis]]** 
