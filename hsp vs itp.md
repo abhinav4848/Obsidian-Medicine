@@ -9,6 +9,9 @@ aliases:
   - Henoch-Schönlein purpura (HSP) vs. Immune thrombocytopaenic purpura (ITP)
   - ITP
 ---
+*See also: [[hus vs ttp]]* 
+
+---
 # Henoch-Schönlein purpura
 Precipitated by URTI - Sore throat. 
 Platelet normal.

@@ -6,15 +6,19 @@ aliases:
   - TTP
   - Thrombotic thrombocytopenic purpura
 ---
+*See also: [[hsp vs itp]]. 
+
+---
 # Haemolytic uraemic syndrome
 Haematuria after bloody diarrhoea: Diarrhoea that turns bloody 2-3 days later. (E. Coli O157 contaminated food -> Shiga toxin)
 
 Age < 5 yo.
 ### Clinical Features
 #triad 
-- Microangiopathic Haemolytic Anaemia*- MAHA- ([[cell histology|helmet cells]]) - Normocytic anaemia & -ve Coomb's test
-	- Uraemia (Acute Renal Failure/AKI- [[haematuria]], Proteinuria, Urea, Creatinine, Electrolytes),
-- Commonest cause of AKI in children - features are oliguria, peripheral edema.
+- Microangiopathic Haemolytic Anaemia- MAHA- ([[cell histology|helmet cells]]) - Normocytic anaemia & -ve Coomb's test
+	- *\*MAHA: RBC damage due to platelet microthrombi*
+- Uraemia (Acute Renal Failure/AKI- [[haematuria]], Proteinuria, Urea, Creatinine, Electrolytes),
+	- Commonest cause of AKI in children - features are oliguria, peripheral edema.
 - [[platelets|thrombocytopenia]] 
 
 (In Renal tubular acidosis, kidney can't absorb HCO3-. Raised creatinine is seen in AKI.)
@@ -22,7 +26,6 @@ Age < 5 yo.
 IV fluids, Blood, Dialysis.
 
 Never give Antibiotics cuz more toxins are released as E coli die. #important 
-\*Microangiopathic haemolytic anaemia (RBC damage due to platelet microthrombi)
 
 ----
 # TTP
