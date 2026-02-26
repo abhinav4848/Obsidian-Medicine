@@ -2,6 +2,8 @@
 tags:
   - ortho
 ---
+*See: [[lower limb ortho problems]].*
+
 **Anterior hip dislocation**
 - Short, ER, Abduct, Femoral VAN.
 - Lesser trochanter more prominent on X-Ray.
