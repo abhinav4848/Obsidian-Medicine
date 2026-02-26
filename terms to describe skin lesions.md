@@ -35,7 +35,7 @@ tags:
 
 ---
 # 🔹 Vascular Lesions
-- [[petechiae]] – Non-blanching red/purple macules <5mm
+- [[petechiae & purpura|Petechiae]] – Non-blanching red/purple macules <5mm
 - Purpura – Non-blanching lesions 5-10 mm due to bleeding into the skin. 
 - Ecchymosis – Large purpuric patch (bruise) > 1cm
 - Telangiectasia – Dilated superficial vessels

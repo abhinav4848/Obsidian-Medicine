@@ -8,6 +8,7 @@ aliases:
   - Immune thrombocytopaenic purpura
   - Henoch-Schönlein purpura (HSP) vs. Immune thrombocytopaenic purpura (ITP)
   - ITP
+  - Henoch-Schonlein purpura
 ---
 *See also: [[hus vs ttp]]* 
 
@@ -18,12 +19,12 @@ Platelet normal.
 Age 2- 11 yo. 
 # Clinical Features
 PAAN: #mnemonic 
-- non-blanching [[rash|Purpura]] on buttocks and legs
+- non-blanching [[petechiae & purpura|Purpura]] on buttocks and legs
 - Arthralgia (especially knee) & peri-articular edema
 - Abdominal Pain
 - [[glomerulonephritis|IgA Nephropathy]] -> [[haematuria]], renal failure
 ### Rx
-Supportive until there's renal involvement. Eg: Aspirin for arthralgia. Don’t give NSAID if renal impairment
+Supportive until there's renal involvement. E.g: Aspirin for arthralgia. Don’t give NSAID if renal impairment
 
 ----
 # ITP

@@ -16,7 +16,7 @@ Age < 5 yo.
 ### Clinical Features
 #triad 
 - Microangiopathic Haemolytic Anaemia- MAHA- ([[cell histology|helmet cells]]) - Normocytic anaemia & -ve Coomb's test
-	- *\*MAHA: RBC damage due to platelet microthrombi*
+	- *MAHA: RBC damage due to platelet microthrombi*
 - Uraemia (Acute Renal Failure/AKI- [[haematuria]], Proteinuria, Urea, Creatinine, Electrolytes),
 	- Commonest cause of AKI in children - features are oliguria, peripheral edema.
 - [[platelets|thrombocytopenia]] 
