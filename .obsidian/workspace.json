@@ -57,13 +57,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hsp vs itp.md",
+                "file": "petechiae & purpura.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hsp vs itp"
+              "title": "petechiae & purpura"
             }
           },
           {
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hsp vs itp.md",
+                "file": "petechiae & purpura.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +188,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of hsp vs itp"
+              "title": "Graph of petechiae & purpura"
             }
           }
         ]
@@ -300,7 +300,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hsp vs itp.md",
+                "file": "petechiae & purpura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,7 +310,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hsp vs itp"
+              "title": "Backlinks for petechiae & purpura"
             }
           }
         ]
@@ -332,12 +332,13 @@
   },
   "active": "8c4b4ad3c2b76e14",
   "lastOpenFiles": [
+    "platelets.md",
     "petechiae & purpura.md",
-    "hsp vs itp.md",
     "hus vs ttp.md",
+    "hsp vs itp.md",
+    "glomerulonephritis.md",
     "terms to describe skin lesions.md",
     "rash.md",
-    "platelets.md",
     "statistics- biases.md",
     "leflunomide.md",
     "methotrexate.md",
@@ -357,7 +358,6 @@
     "diabetes mellitus- diagnosis.md",
     "hypertension.md",
     "papilloedema.md",
-    "calcium channel blockers.md",
     "flow charts/hypertension management.canvas",
     "attachments/Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf",
     "attachments/Red Whale _ COPD_ management Feb 2026.pdf",

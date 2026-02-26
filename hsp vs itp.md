@@ -9,6 +9,8 @@ aliases:
   - Henoch-Schönlein purpura (HSP) vs. Immune thrombocytopaenic purpura (ITP)
   - ITP
   - Henoch-Schonlein purpura
+urls:
+  - "[NHS patients HSP](https://www.nhs.uk/conditions/henoch-schonlein-purpura-hsp/)"
 ---
 *See also: [[hus vs ttp]]* 
 

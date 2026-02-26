@@ -27,4 +27,12 @@ Thrombocytosis + low ferritin or microcytosis is concerning for GI malignancy.
 [[pre-eclampsia]] 
 
 ## Can lead to
-- **Flame shaped haemorrhage**: Larger haemorrhages with a flame-like appearance caused by rupture of pre-capillary arterioles or small veins in the retinal nerve fibre layer. See [[ophthalmoscopy]]. 
+- spontaneous cutaneous [[petechiae & purpura|purpura]] or ecchymoses
+- mucous membrane bleeding
+- nose bleeds, especially in children
+- [[menorrhagia]]
+- post-partum haemorrhage
+- Rare: 
+	- **Flame shaped haemorrhage**: Larger haemorrhages with a flame-like appearance caused by rupture of pre-capillary arterioles or small veins in the retinal nerve fibre layer. See [[ophthalmoscopy]]. 
+	- GI bleed
+	- Intracranial bleed
