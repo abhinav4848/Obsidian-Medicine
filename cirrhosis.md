@@ -9,7 +9,7 @@ aliases:
 [[hepatitis viruses|hepatitis B & C]], 
 alcohol, 
 [[haemochromatosis]] and 
-[[primary biliary cirrhosis]]
+[[primary biliary cholangitis & primary sclerosing cholangitis|Primary Biliary Cholangitis]]
 [[nash]]
 
 # Clinical Features

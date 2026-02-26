@@ -16,7 +16,7 @@ It may be caused by:
 Can also be seen with increased SVC pressure (e.g. following a cough), or viral illness. 
 # Referral
 [NICE: Bruising](https://cks.nice.org.uk/topics/bruising/) 
-Children with new-onset purpura should be referred immediately for investigations to exclude [[leukaemia|ALL]] and meningococcal disease (if suspecting meningococcal septicaemia- parenteral antibiotics should be given, as long as this doesn't delay transfer.)
+==Children with new-onset purpura should be referred immediately for investigations to exclude [[leukaemia|ALL]] and meningococcal disease== (if suspecting meningococcal septicaemia- parenteral antibiotics should be given, as long as this doesn't delay transfer.)
 
 Referral for immediate specialist assessment of leukaemia should be arranged for a child or young person if they have:
 - Unexplained petechiae, _or_

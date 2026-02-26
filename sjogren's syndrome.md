@@ -18,7 +18,7 @@ Anti Ro (SSA), Anti La (SSB) [[antibodies]].
 [[plasma viscosity]] will be raised.
 # Complication
 Can become malignant: [[cancer- lymphoma|Lymphoma]] (B-cell lymphoma- esp. MALT) #associated 
-Often associated with [[primary biliary cirrhosis|Primary Biliary Cholangitis]] (which has Anti-Mitochondrial antibodies).
+Often associated with [[primary biliary cholangitis & primary sclerosing cholangitis|Primary Biliary Cholangitis]] (which has Anti-Mitochondrial antibodies).
 
 *differentiate with [[sarcoidosis]]*. #confusion 
 # Treatment

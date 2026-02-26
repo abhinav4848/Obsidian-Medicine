@@ -12,7 +12,7 @@ tags:
 ## Develops due to liver cirrhosis: 
 - alcohol
 - [[haemochromatosis]]
-- [[primary biliary cirrhosis]]
+- [[primary biliary cholangitis & primary sclerosing cholangitis|Primary Biliary Cholangitis]]
 - Chronic [[hepatitis viruses|hepatitis B & C]] -> patients present with signs of liver [[cirrhosis]]. *B worldwide and C Europe*
 ## Other risk factors:
 - alpha-1 antitrypsin deficiency
