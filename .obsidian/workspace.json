@@ -67,22 +67,37 @@
             }
           },
           {
-            "id": "d293c7470c87503d",
+            "id": "443947ce286fc485",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interstitial lung disease vs pneumonitis.md",
+                "file": "earwax.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "interstitial lung disease vs pneumonitis"
+              "title": "earwax"
+            }
+          },
+          {
+            "id": "52ab3b4156d09535",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cirrhosis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "cirrhosis"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -115,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hip",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,8 +161,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -160,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "lower limb ortho problems.md",
+                "file": "cirrhosis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +202,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of lower limb ortho problems"
+              "title": "Graph of cirrhosis"
             }
           }
         ]
@@ -300,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lower limb ortho problems.md",
+                "file": "cirrhosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,7 +324,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lower limb ortho problems"
+              "title": "Backlinks for cirrhosis"
             }
           }
         ]
@@ -330,10 +344,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8c4b4ad3c2b76e14",
+  "active": "52ab3b4156d09535",
   "lastOpenFiles": [
-    "slipped upper femoral epiphysis.md",
+    "housekeeping/revise recent changes.base",
+    "statistics- biases.md",
+    "housekeeping/memorise.base",
+    "stats- screening tests.md",
+    "interstitial lung disease vs pneumonitis.md",
+    "earwax.md",
     "lower limb ortho problems.md",
+    "legg-calve-perthe's disease.md",
+    "slipped upper femoral epiphysis.md",
     "hip dislocation.md",
     "transient synovitis.md",
     "meralgia paresthetica.md",
@@ -352,19 +373,12 @@
     "platelets.md",
     "petechiae & purpura.md",
     "hus vs ttp.md",
-    "hsp vs itp.md",
-    "glomerulonephritis.md",
-    "terms to describe skin lesions.md",
-    "rash.md",
-    "statistics- biases.md",
-    "leflunomide.md",
     "flow charts/hypertension management.canvas",
     "attachments/Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf",
     "attachments/Red Whale _ COPD_ management Feb 2026.pdf",
     "attachments/chronic heart failure- management.png",
     "flow charts/shoulder exam.canvas",
     "flow charts/haematuria.canvas",
-    "housekeeping/revise recent changes.base",
     "desktop.ini",
     "attachments/bpj12_ukmec_pages_28-29 (COCP only).pdf",
     "attachments/traffic light system for identifying risk of serious illness in under 5s.pdf",
@@ -376,7 +390,6 @@
     "attachments/MCP & MTP squeeze test for rheumatoid arthritis.jpg",
     "attachments/guidance on plasma viscosity.pdf",
     "attachments/erythema nodosum 2.png",
-    "housekeeping/memorise.base",
     "attachments/breast cancer referral (summary image).png",
     "attachments/anticholinergic burden table.png",
     "flow charts/paeds examination.canvas",
