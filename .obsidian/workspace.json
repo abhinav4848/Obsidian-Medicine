@@ -87,13 +87,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cirrhosis.md",
+                "file": "audiograms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cirrhosis"
+              "title": "audiograms"
             }
           }
         ],
@@ -174,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cirrhosis.md",
+                "file": "audiograms.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +202,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cirrhosis"
+              "title": "Graph of audiograms"
             }
           }
         ]
@@ -314,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cirrhosis.md",
+                "file": "audiograms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,7 +324,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cirrhosis"
+              "title": "Backlinks for audiograms"
             }
           }
         ]
@@ -346,6 +346,11 @@
   },
   "active": "52ab3b4156d09535",
   "lastOpenFiles": [
+    "attachments/aviator's notch.png",
+    "audiograms.md",
+    "atropa belladona.md",
+    "attachments/atropa belladona.pdf",
+    "cirrhosis.md",
     "housekeeping/revise recent changes.base",
     "statistics- biases.md",
     "housekeeping/memorise.base",
@@ -368,11 +373,8 @@
     "cancer & associations.md",
     "hepatitis viruses.md",
     "cancer- liver.md",
-    "cirrhosis.md",
     "hyperpigmentation.md",
     "platelets.md",
-    "petechiae & purpura.md",
-    "hus vs ttp.md",
     "flow charts/hypertension management.canvas",
     "attachments/Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf",
     "attachments/Red Whale _ COPD_ management Feb 2026.pdf",
@@ -394,9 +396,7 @@
     "attachments/anticholinergic burden table.png",
     "flow charts/paeds examination.canvas",
     "Clippings",
-    "attachments/ng254- suspected-sepsis-managing-and-evaluating-risk-all-settings-pdf-15494830813.pdf",
     "flow charts/h. pylori treatment flowchart.canvas",
-    "attachments/universal-pain-assessment-tool-with-wong-baker-facesc2ae-pain-rating-scale.jpg",
     "flow charts/contraception after delivery.canvas",
     "flow charts/deep vein thrombosis.canvas",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
