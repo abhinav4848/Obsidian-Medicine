@@ -4,6 +4,7 @@ tags:
 ---
 > [!Notice]- COPD TOC
 > - [[copd|COPD- diagnosis]]
+> 	- [[spirometry#COPD linked|Spirometry]]
 > - [[copd- treatment|COPD- Treatment]]
 > 	- [[asthma- drugs|drugs used in asthma/copd]] 
 > 	- [Leicester LMSG guidance](https://www.lmsg.nhs.uk/guidelines/category/respiratory/)

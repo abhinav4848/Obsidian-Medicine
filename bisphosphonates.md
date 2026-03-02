@@ -30,6 +30,7 @@ Don’t take calcium & vit D for 4 hrs after Alendronic acid.
 
 If esophagitis, review -> Risk of oropharyngeal ulcers.
 [[Dyspepsia]] common in first month. 
+
 **If can't tolerate regardless of proper technique & gets heartburn, try Risedronate.** 
 - PPI, Alginates provide symptom relief but don't protect from oesophageal irritation. 
 ---

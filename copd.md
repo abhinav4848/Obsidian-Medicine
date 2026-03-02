@@ -5,6 +5,8 @@ aliases:
   - COPD- Diagnosis
 tags:
   - respiratory
+urls:
+  - "[NICE COPD in >16yo](https://www.nice.org.uk/guidance/ng115)"
 ---
 
 ![[copd- table of contents]]

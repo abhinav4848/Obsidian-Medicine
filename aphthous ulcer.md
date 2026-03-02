@@ -4,6 +4,7 @@ tags:
 urls:
   - https://dermnetnz.org/topics/aphthous-ulcer
   - https://www.pcds.org.uk/clinical-guidance/aphthous-ulcers1
+  - "[PCDS aphthous ulcer](https://www.pcds.org.uk/clinical-guidance/oral-lesions#:~:text=recurrent%20aphthous%20stomatitis)"
 ---
 *aphthous is Greek derived meaning mouth ulcer.* 
 
@@ -31,6 +32,11 @@ Precipitating factors include:
 Investigations are generally unnecessary. 
 Investigations should be considered (e.g. FBC, ESR, ferritin, folate and vitamin B12) if an underlying systemic disease is suspected based on history and examination findings. 
 # Management
-- Avoidance of precipitating factors, and
-- Symptomatic treatment for pain, discomfort, and swelling e.g. a short course of a low potency topical corticosteroid (hydrocortisone lozenges), an antimicrobial mouthwash, or a topical analgesic.
-- ==People with a mouth ulcer that persists for more than 3 weeks should be referred urgently to a specialist.== #important 
+Avoidance of precipitating factors. 
+Symptomatic treatment for pain, discomfort, and swelling
+- Baseline treatment - Simple mouthwashes and antiseptic mouthwashes
+- First-line treatment - short course of a low potency topical corticosteroid (hydrocortisone lozenges)
+- Second-line treatment - Topical anaesthetics, topical analgesics/anti-inflammatory agents, antibiotic rinses and oral vitamin B12
+- Further treatment - Systemic steroids and low threshold for referral for specialist input (Unlike recurrent aphthous stomatitis, Behçet syndrome is **not self‐limiting**.)
+
+==People with a mouth ulcer that persists for more than 3 weeks should be referred urgently to a specialist.== #important 

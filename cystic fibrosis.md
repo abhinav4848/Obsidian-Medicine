@@ -4,6 +4,7 @@ tags:
   - respiratory
 ---
 Autosomal Recessive, causes increased viscosity of secretions. 
+1 in 2500 newborns
 ## Definition & Summary
 Steatorrhea (Malabsorption), foul smelling, Respiratory infections, cough, delayed growth-> Failure to thrive, abdominal distension.
 ## Test

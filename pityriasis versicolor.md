@@ -12,7 +12,7 @@ The term pityriasis is used to describe skin conditions in which the scales appe
 	*See also [[pityriasis rosea]].* 
 Called *versicolor* because it's multicoloured. 
 
-Aka tinea versicolor - caused by *Malassezia furfur*, a yeast.
+Aka tinea versicolor - caused by *Malassezia furfur*, a yeast. 
 However, the term [[fungal infections of skin|tinea]] should strictly be used for dermatophyte (ringworm) fungus infections. 
 
 ## Clinical features
@@ -29,5 +29,8 @@ However, the term [[fungal infections of skin|tinea]] should strictly be used fo
 
 ---
 # Pityriasis alba
-[Pcds p. Alba](https://www.pcds.org.uk/clinical-guidance/pityriasis-alba)
-Pityriasis alba is a type of low-grade eczema that mainly affects children. It consists of characteristic white lesions with a fine-scale, that commonly occur on the face, neck and upper arms, which subside to leave a hypopigmented area. 
+[Pcds P. Alba](https://www.pcds.org.uk/clinical-guidance/pityriasis-alba)
+- Pityriasis alba is a post inflammatory skin change. 
+- Characteristic white lesions with a fine-scale, that commonly occur on the face, neck and upper arms, which subside to leave a hypopigmented area. 
+- Doesn't tan well so becomes obvious in summer. 
+- Self limiting 

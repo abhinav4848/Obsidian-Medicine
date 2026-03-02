@@ -4,15 +4,21 @@ tags:
 aliases:
   - NASH
   - Non-Alcoholic Steatohepatosis
+  - nafld
+urls:
+  - "[NICE NAFLD](https://cks.nice.org.uk/topics/non-alcoholic-fatty-liver-disease-nafld/background-information/risk-factors/)"
 ---
 - steatosis - fat in the liver
 - steatohepatitis - fat with inflammation, non-alcoholic steatohepatitis (NASH)
-- progressive disease may cause fibrosis and liver cirrhosis
-
+- progressive disease may cause fibrosis and liver cirrhosis 
 # Risk factors
-Obesity, T2DM, hyperlipidemia, Jejuno-ileal bypass, Sudden weight loss/starvation
-Insulin resistance is thought to be the key mechanism leading to steatosis.
-
+Independent risk factors for progression of NAFLD to advanced liver disease include:
+- Impaired glucose regulation or type 2 diabetes mellitus
+	- Insulin resistance is thought to be the key mechanism leading to steatosis. 
+- Central obesity — body mass index greater than 30 kg/m2  or increased waist circumference,
+- Hypertension.
+- Hyperlipidemia
+- Jejuno-ileal bypass, Sudden weight loss/starvation, Patient is over 45yo.  
 ## Diabetes & NASH
 By far the most likely diagnosis in an obese type 2 diabetic is non-alcoholic fatty liver disease. This patient will require a liver screen, ultrasound and liver biopsy to confirm the diagnosis.  
   
