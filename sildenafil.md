@@ -5,12 +5,19 @@ tags:
 aliases:
   - Erectile dysfunction
 ---
-**MoA**: PDE-5 inhibitor: Works by releasing Nitric oxide and causing vasodilation. Can also be used to treat [[prostate|BPH]].
+First-line pharmacological treatment of erectile dysfunction is with phosphodiesterase-5 inhibitors. 
+PDE-5 inhibitor MoA:
+- Works by releasing Nitric oxide and causing vasodilation. Can also be used to treat [[prostate|BPH]].
+- e.g. Sildenafil, Tadalafil
 # Contraindication
-Not to be given together with Nitrates & [[nicorandil]].
-Wait 6 months before prescribing in stroke/MI.
-Hypotension
-
+- Not to be given together with Nitrates & [[nicorandil]].
+- Hypotension, as PDE-5 inhibitors release Nitric oxide -> lower BP
+- Wait 6 months before prescribing in stroke/MI.
+- patients for whom sexual activity is not advisable; 
+- history of non-arteritic optic neuropathy; 
+- retinal degeneration; 
+- use of indinavir/ketoconazole/itraconazole in patients over age 75 years (vardenafil only); 
+- heart failure and uncontrolled arrhythmia/hypertension (tadalafil only).
 # Side effects
 [[drugs that can cause ocular problems|Blue vision]],
 Nasal congestion,

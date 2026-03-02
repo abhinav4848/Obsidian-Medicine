@@ -29,7 +29,7 @@ Hyperuricemia is not diagnostic of gout & 30-50% of patients don't have elevated
 Synovial fluid- needle shaped negatively birefringent monosodium urate crystals under polarised light
 # Treatment
 ## Acute management
-Give Naproxen, Ibuprofen at max dose in acute mx > [[Colchicine]] is 2nd line cuz of s/e (GIT, Renal).
+Give Naproxen, Ibuprofen at max dose in acute mx > low dose [[Colchicine]] is 2nd line cuz of s/e (GIT, Renal).
 - Aspirin is not indicated for gout. 
 - Don't give [[NSAID]] if already on blood thinner. 
 - Ask patient to stop taking [[statins]] if giving colchicine, cuz risk of rhabdomyolysis. #important 

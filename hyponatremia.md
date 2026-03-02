@@ -2,10 +2,14 @@
 tags:
   - endocrine
 ---
-[[ace inhibitors|ACE]]
-SSRIs (e.g. [[depression|Fluoxetine]]) can cause it due to SIADH.
-Elderly commonly have SIADH.
+Causes: 
+- [[ace inhibitors|ACE]]
+- SSRIs (e.g. [[depression|Fluoxetine]]) can cause it due to SIADH.
+- Elderly commonly have SIADH.
+- Diuretics,
+- Antipsychotics (such as [[haloperidol]] and phenothiazines)
 
+---
 # Hypovolemic hyponatremia
 Sodium + Water loss through body fluids but only water replaced.
 GIT loss, Skin loss,
@@ -13,18 +17,19 @@ Diuretics (Na + H2O lost, but only H2O taken orally)
 Addison (both Na & H2O lost cuz no aldosterone)
 
 **Treatment**: IV NS
+
+---
 # Euvolemic hyponatremia
 ### [[siadh|SIADH]]
 High urinary sodium (thus high urine osmolality) seen here.
-
 **Treatment**: Fluid restriction > Demeclocycline/Tolvaptan
 - Demeclocycline is used for chronic management to artificially induce [[diabetes insipidus#Nephrogenic|nephrogenic DI]]. It's rarely used.
 - Tolvaptan (ADH antagonist) is used for resistant hyponatremia in acute cases. Even more rarely used.
-
 ### Psychogenic polydipsia, Diuretics 
 (Can cause Eu- or Hypo-)
-
 **Treatment**: Slow iv NS (1 L over 8 hrs.)
+
+---
 # Hypervolemia hyponatremia
 Excess water, Cirrhosis, Nephrotic syndrome, CHF, Renal failure (free water not excreted)
 

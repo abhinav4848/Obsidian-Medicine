@@ -33,6 +33,7 @@ Problems with RV due to non-compliance -> Dyspnoea w/o signs of fluid overload
 # Management
 ## Primary care
 **Reduced EF**: ACE-i and beta-blocker (start one at time)
+- Candesartan, losartan and valsartan are all licensed for the first-line treatment of heart failure if an ACE inhibitor is unsuitable or not tolerated.
 **Preserved EF**: Evidence not specific on NICE CKS - specialist advice
 ## Secondary care
 **Medical**: aldosterone, digoxin, hydralazine, ivabradine (selectively inhibits funny current in the sinus node to slow sinus rhythm)
