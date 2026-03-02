@@ -87,13 +87,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "audiograms.md",
+                "file": "upper limb ortho problems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "audiograms"
+              "title": "upper limb ortho problems"
             }
           }
         ],
@@ -130,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tennis elb",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -161,7 +161,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -174,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "audiograms.md",
+                "file": "upper limb ortho problems.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of audiograms"
+              "title": "Graph of upper limb ortho problems"
             }
           }
         ]
@@ -314,7 +315,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "audiograms.md",
+                "file": "upper limb ortho problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,7 +325,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for audiograms"
+              "title": "Backlinks for upper limb ortho problems"
             }
           }
         ]
@@ -346,8 +347,12 @@
   },
   "active": "52ab3b4156d09535",
   "lastOpenFiles": [
-    "attachments/aviator's notch.png",
+    "abdominal pain.md",
+    "pancreatitis.md",
+    "2025-12-31.md",
+    "housekeeping/gp guidelines- dermat.md",
     "audiograms.md",
+    "attachments/aviator's notch.png",
     "atropa belladona.md",
     "attachments/atropa belladona.pdf",
     "cirrhosis.md",
@@ -372,9 +377,6 @@
     "inflammatory bowel disease.md",
     "cancer & associations.md",
     "hepatitis viruses.md",
-    "cancer- liver.md",
-    "hyperpigmentation.md",
-    "platelets.md",
     "flow charts/hypertension management.canvas",
     "attachments/Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf",
     "attachments/Red Whale _ COPD_ management Feb 2026.pdf",
