@@ -19,10 +19,11 @@ OHGp 5th Ed:
 	- Determines the CVA risk in next 10 years
 	- If risk >10% & age <=84yo, start statins
 	- Difference between 2 & 3 is the added mental health component in QRISK 3
-
 # Test before & after starting
-- Recheck lipid profile in 3 months. If target not met, promote lifestyle, check concordance, increase dose if tolerated/not on max dose. 
-- Check LFT in 3m & 1y after initiating, increasing dose. Don't check again unless clinically indicated. 
+- Recheck lipid profile in 3 months -> If target not met, promote lifestyle, check concordance, increase dose if tolerated/not on max dose. 
+- Check LFT in 3m & 1y after initiating OR increasing dose. Don't check again unless clinically indicated. 
+	- If [[nash|nafld]] is diagnosed, patients should still continue statin. 
+	- Only consider ==stopping statin if live enzyme doubles within 3 months of starting statin==, including in people with abnormal baseline LFTs.
 - Do not routinely check CK levels- only if muscle pain. 
 - If CKD (eGFR <60): Give lower dose ([BNF](https://bnf.nice.org.uk/drugs/atorvastatin/#renal-impairment))
 # Interactions

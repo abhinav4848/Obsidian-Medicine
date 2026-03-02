@@ -34,7 +34,7 @@ More than 3 weeks of usage
 
 #mnemonic Don't stop M
 - Don't -> stop suddenly -> risk of adrenal insufficiency/crisis
-- [[Sick day rules]] -> increase dose if unwell 
+- [[sick day rule]] -> increase dose if unwell 
 - Treatment card/Steroid card 
 - [[Osteoporosis]] prevention -> [[Bisphosphonates]], [[calcium]], [[vitamin-d|vit D]] supplements
 - Proton pump inhibitor 

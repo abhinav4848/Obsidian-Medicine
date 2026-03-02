@@ -36,7 +36,9 @@ _NICE defines this as sudden, intense psychological and emotional stress, e.g. b
 | Management of psychological stress           | - Consider sick day rules for 1–2 days during psychological stress, namely:<br>    - **If on hydrocortisone:** take at least 40mg oral hydrocortisone/d (in 2–4 divided doses).<br>    - **If on prednisolone:** take at least 10mg oral prednisolone in 1–2 daily doses. (If already taking ≥10mg prednisolone, additional sick day dosing not needed, but dose can be split into 2 equal doses.) |
 | Severe mental health crisis (e.g. psychosis) | - Oral hydrocortisone or oral prednisolone (see row above for doses; duration likely to depend on speed of recovery/resolution of crisis phase; seek advice so as to treat adequately but not for unnecessary duration).<br>- Consider using 100mg im hydrocortisone if unable to take oral glucocorticoids.                                                                                       |
 # Acute Kidney Injury
-[RCGP toolkit for AKI](https://elearning.rcgp.org.uk/course/view.php?id=537), [UK Kidney Association](https://www.ukkidney.org/) (Old: [Think Kidney](https://www.thinkkidneys.nhs.uk/aki/news/acute-kidney-injury-toolkit-for-gps-and-healthcare-professionals/), For patients: [Kidney Care UK](https://www.kidneycareuk.org/).) 
+- *[RCGP toolkit for AKI](https://elearning.rcgp.org.uk/course/view.php?id=537),* 
+- *[UK Kidney Association](https://www.ukkidney.org/)* 
+- *(Old: [Think Kidney](https://www.thinkkidneys.nhs.uk/aki/news/acute-kidney-injury-toolkit-for-gps-and-healthcare-professionals/), For patients: [Kidney Care UK](https://www.kidneycareuk.org/).)* 
 ## Sick day ‘guidance’
 This is the concept that patients on potentially nephron-harmful drugs stop them at times of intercurrent illness where fluid balance may be disturbed (e.g. gastroenteritis). The key thing here is that the patient is the one who decides when to stop them and when to restart them, which is a whole different thing from us seeing someone and telling them to stop a drug for a few days (e.g. statins with erythromycin). 
 

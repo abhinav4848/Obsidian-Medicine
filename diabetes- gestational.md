@@ -29,7 +29,7 @@ Neonatal:
 - RDS: surfactant production delayed
 - Polycythaemia, so more chance of Neonatal jaundice
 - Malformation risk increased 3-4x (incl HOCM)
-- Stillbirth, Hypomagnesemia, [[hypocalcemia|hypocalcaemia]], Shoulder dystocia (causing Erb's palsy). 
+- Stillbirth, [[magnesium|Hypomagnesemia]], [[hypocalcemia|hypocalcaemia]], Shoulder dystocia (causing Erb's palsy). 
 
 ---
 # Screening for GDM
@@ -59,7 +59,7 @@ These targets are lower than for DM because this is where the risk to fetus mean
 
 ---
 # Management of GDM
-once a woman has been diagnosed with gestational diabetes, she remains 'high risk for diabetes mellitus' for life and should receive a yearly HbA1c. 
+Once a woman has been diagnosed with gestational diabetes, she remains 'high risk for diabetes mellitus' for life and should receive a yearly HbA1c. 
 
 | Fasting glucose          | Treatment                                                                                                                                                                                                                                      |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

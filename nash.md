@@ -8,6 +8,7 @@ aliases:
 urls:
   - "[NICE NAFLD](https://cks.nice.org.uk/topics/non-alcoholic-fatty-liver-disease-nafld/background-information/risk-factors/)"
 ---
+Definitions: 
 - steatosis - fat in the liver
 - steatohepatitis - fat with inflammation, non-alcoholic steatohepatitis (NASH)
 - progressive disease may cause fibrosis and liver cirrhosis 
@@ -25,7 +26,7 @@ By far the most likely diagnosis in an obese type 2 diabetic is non-alcoholic fa
 A normal ferritin makes a diagnosis of [[haemochromatosis]] unlikely, although it should always be considered in patients with both abnormal LFTs and diabetes.
 # Investigation
 Don't screen for NASH, even in 'at risk' population. If incidentally seen on USG to have fatty liver, do ELF.
-- **Investigation of choice**: Enhanced Liver Fibrosis (ELF) Blood test (like a triple test of Down's syndrome). 
+- **Investigation of choice**: Enhanced Liver Fibrosis (ELF) Blood test (like a triple test of [[down's syndrome]]). 
 - Assess severity of fibrosis with FIB4 & NALFD fibrosis score + Fibroscan elastography
 BMI > 30 increases Hepatic echogenicity on liver USG.
 ALT:AST > 2

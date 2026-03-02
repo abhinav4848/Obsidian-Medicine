@@ -1,6 +1,7 @@
 ---
 aliases:
   - MgSO4
+  - Hypomagnesemia
 tags:
   - pharmacology
 ---
@@ -14,7 +15,7 @@ Given in [[pre-eclampsia#Eclampsia|eclampsia]] as it reduces neuromuscular excit
 (NMDA receptor blockade + vasodilation → reduced cerebral irritation.)
 ### Asthma
 [[asthma- acute attack]] 
-### Hypokalemia
+### [[Hypokalemia]]
 Potassium won't correct till Mg is normal. 
 
 Magnesium inhibits the ROMK channel in the tubule (I think DCT). Lack of inhibition of this channel causes massive potassium losses in the urine in hypomagnesaemia. So in [[hypokalemia]], check magnesium levels. 
