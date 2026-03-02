@@ -21,6 +21,20 @@
               "icon": "lucide-file",
               "title": "heart failure"
             }
+          },
+          {
+            "id": "d0d7b63a56bed99e",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.nice.org.uk/guidance/ng106/resources/chronic-heart-failure-core-treatments-for-heart-failure-pdf-6663137725",
+                "title": "NG106 Chronic heart failure in adults: diagnosis and management: Visual summary on core treatments for heart failure 03/09/2025",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "NG106 Chronic heart failure in adults: diagnosis and management: Visual summary on core treatments for heart failure 03/09/2025"
+            }
           }
         ]
       }
@@ -272,6 +286,7 @@
   },
   "active": "97545d5ef17a2d64",
   "lastOpenFiles": [
+    "heart failure.md",
     "gout.md",
     "sildenafil.md",
     "nicorandil.md",
@@ -298,7 +313,6 @@
     "atopic diseases.md",
     "pityriasis versicolor.md",
     "behcet's disease.md",
-    "earwax.md",
     "attachments/aviator's notch.png",
     "attachments/atropa belladona.pdf",
     "housekeeping/revise recent changes.base",

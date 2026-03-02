@@ -5,7 +5,7 @@ aliases:
 tags:
   - cardio
 urls:
-  - https://www.nice.org.uk/guidance/ng106
+  - "[NICE - Chronic heart failure in adults: diagnosis and management](https://www.nice.org.uk/guidance/ng106)"
 ---
 # Investigation
 If suspected Heart Failure, Check NT-pro BNP level
@@ -24,10 +24,11 @@ Low EF: Treatment with [[ace inhibitors|ACE inhibitor]], ARB, Beta blockers, as 
 HFrEF
 Problems with LV & pressures go backwards -> Lung features, Pulmonary edema & Breathlessness
 if severe, then RV features as well -> Fluid overload + Peripheral edema
-
+**Rx**: ACE inhibitor / a beta-blocker / MRA / SGLT2 inhibitor
 ## Preserved EF: (aka diastolic heart failure)
 HFpEF
 Problems with RV due to non-compliance -> Dyspnoea w/o signs of fluid overload
+**Rx:** MRA / SGLT2 inhibitor
 
 ---
 # Management
@@ -42,7 +43,7 @@ Problems with RV due to non-compliance -> Dyspnoea w/o signs of fluid overload
 ### End-stage heart failure:
 - i.e. at high risk of dying within next 6-12 months
 - Potentially increased symptoms, poorer response to treatment
-- Multiple inputs eg cardiology, heart failure nurses, community nurses, palliative care nurses, physiotherapy, dietician etc
+- Multiple inputs e.g. cardiology, heart failure nurses, community nurses, palliative care nurses, physiotherapy, dietician etc
 
 ---
 # DRUGS
