@@ -5,7 +5,7 @@ aliases:
   - MS
 ---
 # Clinical Features
-Lethargy, [[Optic neuritis]], optic atrophy, [[confusion in ophthalmology|Internuclear ophthalmoplegia]].
+Lethargy, [[Optic neuritis]], optic atrophy, [[confusion in ophthalmology|Internuclear ophthalmoplegia]], central [[pain ladder- neuropathic|neuropathic pain]] . 
 
 - **Uhthoff's phenomenon** #named: worsening of vision following rise in body temperature.
 - **Lhermitte's syndrome** #named : paraesthesia in limbs on neck flexion

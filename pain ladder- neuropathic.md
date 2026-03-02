@@ -13,6 +13,7 @@ urls:
 - Trigeminal neuralgia
 - Prolapsed intervertebral disc
 - [[sciatica]]- not recommended. 
+- [[multiple sclerosis]] 
 # Neuropathic pain
 (except trigeminal neuralgia)
 The meds are used as monotherapy & not combined. 
@@ -28,7 +29,7 @@ The meds are used as monotherapy & not combined.
 ##### Licensed use
 - Duloxetine is licensed for diabetic peripheral neuropathic pain only. 
 - Gabapentin is for peripheral neuropathic pain only.
-- Don't offer morphine or long term tramadol unless specialist advice. 
+- Not used for neuropathic pain without specialist advice: cannabis sativa extract, capsaicin patch, lacosamide, lamotrigine, levetiracetam, morphine, oxycarbazepine, topiramate, long term tramadol, venlafaxine or sodium valproate.
 ## Trigeminal Neuralgia
 Carbamazepine as initial treatment. 
 If not tolerated, consider expert advice & early referral to pain service. 

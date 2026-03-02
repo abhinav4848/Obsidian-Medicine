@@ -11,25 +11,17 @@ aliases:
 ---
 6, 11: Genital warts, Anal warts (Anogenital warts-> Condyloma acuminata)
 16, 18: Cervical cancer  
-
-# Can lead to: 
+# Can lead to
 #associated 
-**Condyloma acuminatum** (HPV)
-	*condyloma: wart, acuminatum: pointed*
-Painless, cauliflower-like or polypoid, skin-coloured papules of varying sizes on genitals. 
 
-**Condyloma latum** (Secondary [[Syphilis]]) #confusion 
-	*latum: wide/broad*
-Wart like lesions on genitals. 
-Painless, hypopigmented, firm, moist, flat-topped, smooth, pink-to-reddish papules containing numerous spirochetes.
-
-**[[viral wart|verruca vulgaris]]**: Non-genital warts caused by HPV. Affects hands.
-
-**Verruca plana**: Caused by HPV
-
+|                                                                     |                                                                                                                                                                               |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Condyloma acuminatum (HPV)                                          | *condyloma: wart, acuminatum: pointed*<br>Painless, cauliflower-like or polypoid, skin-coloured papules of varying sizes on genitals.                                         |
+| Condyloma latum (Secondary [[genital ulcers\|Syphilis]]) #confusion | *latum: wide/broad*<br>Wart like lesions on genitals. <br>Painless, hypopigmented, firm, moist, flat-topped, smooth, pink-to-reddish papules containing numerous spirochetes. |
+| [[viral wart\|verruca vulgaris]]                                    | Non-genital warts caused by HPV. Affects hands.                                                                                                                               |
+| Verruca plana                                                       | Caused by HPV                                                                                                                                                                 |
 *Can cause: [[cancer- cervical|Cervical Cancer]].* 
 *See: [[cancer- screening programs]].* 
-
 # Prevention:
 - Gardasil. Protects against HPV 6,11,16,18. doesn’t treat established warts.
 - Given to boys & girls aged 12-13 (year 8).

@@ -42,7 +42,7 @@ Do high vaginal swab from posterior fornix for them -> it can also detect all po
 
 ---
 # Genital herpes
-See [[human herpes viruses|herpes]]. 
+See [[human herpes viruses|herpes]] 
 ### First episode of genital herpes 
 - T1 & T2: Oral Acyclovir for 5 days. NVD (Normal Vaginal delivery). 
 - T3 (>28 weeks): Oral Acyclovir for 5 days and C-section at 39 weeks.

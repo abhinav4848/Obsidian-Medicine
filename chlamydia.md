@@ -13,13 +13,16 @@ Most prevalent sexually transmitted infection in the UK.
 3. Procto-Colitis
 # Potential complications
 - Chlamydia/[[gonorrhoea]] if untreated will ascend
-	- Males: Epididymo-orchitis/Epididymitis -> U/l testicular pain
+	- Males: Epididymo-orchitis/Epididymitis -> U/L testicular pain
 	- Females: Salpingitis, [[pelvic inflammatory disease|PID]], [[gynaecological infections|Endometritis]] 
 - increased incidence of ectopic pregnancies
 - infertility
 - [[reactive arthritis]] 
 - perihepatitis ([[fitz-hugh-curtis syndrome]])
 - [[Erythema nodosum]]
+- [[ophthalmia neonatorum]] 
+- Lymphogranuloma venereum ([PCDS](https://www.pcds.org.uk/clinical-guidance/travel-acquired-cutaneous-infections#:~:text=Lymphogranuloma%20venerum%20(LGV)))
+- Important to check for HIV in STIs. 
 # Management (y for y)
 - doxycycline (7 day course) if first-line (also 1st line in [[lyme disease]])
 	- this is now preferred to azithromycin due to concerns about [[Mycoplasma genitalium]]. This infection is often co-existent in patients with Chlamydia and there is evidence of rising levels of macrolide resistance, hence why doxycycline is preferred. #abx 
