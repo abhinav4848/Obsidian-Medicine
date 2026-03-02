@@ -11,5 +11,4 @@ tags:
 - [PID | NICE CKS](https://cks.nice.org.uk/topics/pelvic-inflammatory-disease/diagnosis/assessment/) 
 - [Ectopic Pregnancy | NICE CKS](https://cks.nice.org.uk/topics/ectopic-pregnancy/diagnosis/when-to-suspect-an-ectopic-pregnancy/)
 	- Symptoms generally appear 6–8 weeks after the last normal menstrual period (or much later for a non-tubal ectopic pregnancy). 
- 
-[Geeky Medics: Pelvic Examination](https://geekymedics.com/bimanual-vaginal-examination/)
+- [[pelvic exam|pelvic examination]] 

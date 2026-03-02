@@ -16,7 +16,7 @@ Due to ascending [[Chlamydia]] > [[Gonorrhoea]] from [[cervicitis|Cervicitis]]
 Their vaginal discharge is not foul smelling. Presents mostly asymptomatically.
 BV & Trichomonas are related to PID but don't cause PID themselves. 
 ## Clinical Features
-Pelvic exam findings:
+[[pelvic exam]] findings:
 1. Cervical motion tenderness (cervical excitation), 
 2. Adnexal tenderness (b/l usually), 
 Elevated temperature (mild/chronic infection) #fever 

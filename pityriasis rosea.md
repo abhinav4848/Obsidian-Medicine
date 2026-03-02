@@ -5,6 +5,8 @@ urls:
   - https://dermnetnz.org/topics/pityriasis-rosea
   - https://dermnetnz.org/images/pityriasis-rosea-images
   - https://dermnetnz.org/images/pityriasis-rosea-imageshttps://dermnetnz.org/images/pityriasis-rosea-images
+  - "[GP Notebook](https://gpnotebook.com/en-GB/pages/haematology/polymyalgia-rheumatica)"
+  - https://www.pcds.org.uk/clinical-guidance/pityriasis-rosea
 ---
 *See also [[pityriasis versicolor]].*
 

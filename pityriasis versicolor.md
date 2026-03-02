@@ -29,4 +29,5 @@ However, the term [[fungal infections of skin|tinea]] should strictly be used fo
 
 ---
 # Pityriasis alba
+[Pcds p. Alba](https://www.pcds.org.uk/clinical-guidance/pityriasis-alba)
 Pityriasis alba is a type of low-grade eczema that mainly affects children. It consists of characteristic white lesions with a fine-scale, that commonly occur on the face, neck and upper arms, which subside to leave a hypopigmented area. 
