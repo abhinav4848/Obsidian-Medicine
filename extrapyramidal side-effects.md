@@ -34,6 +34,7 @@ Occasional s/e of prolonged use of Antipsychotic (can be atypical also) & Anti-d
 Due to long term (months to years) use of typical [[antipsychotic drugs]] mostly in younger women. 
 Often due to Depot injection of **Atypical antipsychotics** (Not Oral)- Risperidone, Olanzapine. 
 Causes late onset of choreoathetoid movements, abnormal, involuntary, may be irreversible. Most common is chewing and pouting of jaw. 
+Can also be caused by [[metoclopramide]] 
 
 ---
 # NMS
@@ -44,4 +45,3 @@ Causes late onset of choreoathetoid movements, abnormal, involuntary, may be irr
 Benztropine, Biperiden (anticholinergic) #antidote
 
 ---
-*See [[metoclopramide]]*

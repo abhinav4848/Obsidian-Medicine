@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "acute epiglottitis.md",
+                "file": "bronchiolitis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "acute epiglottitis"
+              "title": "bronchiolitis"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:infection",
+                "query": "bronchio",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -114,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "acute epiglottitis.md",
+                "file": "bronchiolitis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +142,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of acute epiglottitis"
+              "title": "Graph of bronchiolitis"
             }
           }
         ]
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "acute epiglottitis.md",
+                "file": "bronchiolitis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +264,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for acute epiglottitis"
+              "title": "Backlinks for bronchiolitis"
             }
           }
         ]
@@ -286,8 +286,10 @@
   },
   "active": "97545d5ef17a2d64",
   "lastOpenFiles": [
-    "scarlet fever.md",
     "acute epiglottitis.md",
+    "metoclopramide.md",
+    "extrapyramidal side-effects.md",
+    "scarlet fever.md",
     "patellar tendonitis.md",
     "lower limb ortho problems.md",
     "osgood-schlatter.md",
@@ -310,8 +312,6 @@
     "nicorandil.md",
     "emollients.md",
     "pain ladder- neuropathic.md",
-    "cystic fibrosis.md",
-    "upper limb ortho problems.md",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "attachments/aviator's notch.png",
     "attachments/atropa belladona.pdf",
