@@ -20,4 +20,4 @@ Although varicoceles may be associated with fertility problems, nearly two-third
 - An epididymal cyst will usually be a firm lump adjacent to the testicle. 
 - A hydrocele is a collection of fluid and transilluminates. 
 - An inguinal hernia is usually found superior and medial to the pubic tubercle and has a cough impulse. 
-- A testicular tumour would present as a testicular lump.
+- A [[cancer- testes|Testicular tumour]] would present as a testicular lump. Check for gynaecomastia
