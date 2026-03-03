@@ -41,18 +41,19 @@
             "id": "d0d7b63a56bed99e",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://www.nice.org.uk/guidance/ng106/resources/chronic-heart-failure-core-treatments-for-heart-failure-pdf-6663137725",
-                "title": "NG106 Chronic heart failure in adults: diagnosis and management: Visual summary on core treatments for heart failure 03/09/2025",
-                "mode": "webview"
+                "file": "shoulder examination.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "globe-2",
-              "title": "NG106 Chronic heart failure in adults: diagnosis and management: Visual summary on core treatments for heart failure 03/09/2025"
+              "icon": "lucide-file",
+              "title": "shoulder examination"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fall",
+                "query": "shoulder ex",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -116,7 +117,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -129,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "falls.md",
+                "file": "shoulder examination.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of falls"
+              "title": "Graph of shoulder examination"
             }
           }
         ]
@@ -269,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "falls.md",
+                "file": "shoulder examination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for falls"
+              "title": "Backlinks for shoulder examination"
             }
           }
         ]
@@ -299,8 +301,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "da0daf5d1fa384e2",
+  "active": "d0d7b63a56bed99e",
   "lastOpenFiles": [
+    "flow charts/shoulder exam.canvas",
+    "shoulder examination.md",
     "bronchiolitis.md",
     "falls.md",
     "acute epiglottitis.md",
@@ -325,8 +329,6 @@
     "heart failure.md",
     "gout.md",
     "sildenafil.md",
-    "nicorandil.md",
-    "emollients.md",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "attachments/aviator's notch.png",
     "attachments/atropa belladona.pdf",
@@ -336,7 +338,6 @@
     "attachments/Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf",
     "attachments/Red Whale _ COPD_ management Feb 2026.pdf",
     "attachments/chronic heart failure- management.png",
-    "flow charts/shoulder exam.canvas",
     "flow charts/haematuria.canvas",
     "desktop.ini",
     "attachments/bpj12_ukmec_pages_28-29 (COCP only).pdf",
