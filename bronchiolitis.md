@@ -20,7 +20,7 @@ It is an [[infection in children|LRTI]].
 Seen in < 1yo.
 - coryzal prodrome over 1-3 days 
 - then 
-	- persistent cough, 
+	- persistent dry cough, 
 	- tachypnoea ([[fever & sepsis|sepsis]])/chest recession, 
 		- fever in some cases (but less than 39C)
 	- Expiratory [[Abnormal airway sounds|wheeze]] ([YouTube](https://www.youtube.com/watch?v=4RU_bysa5Lc)) / fine crackles on auscultation 

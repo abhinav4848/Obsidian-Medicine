@@ -6,6 +6,8 @@ tags:
   - pharmacology
 OHGp 5th Ed:
   - "224"
+urls:
+  - "[Leicester lipid pathway](https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2022/10/Lipid-Management-for-Primary-and-Secondary-Prevention-of-Cardiovascular-Disease.pdf)"
 ---
 # Who to give statins
 - everyone with cardiovascular disease ([[stroke]], [[tia|TIA]], IHD, PVD)

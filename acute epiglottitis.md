@@ -26,6 +26,6 @@ Risk of airway obstruction hence life threatening.
 - Oxygen
 - intravenous antibiotics #abx
 ## Vaccination
-Widespread vaccination available. 
-Unvaccinated or immigrant children remain at risk. 
-Can happen to adults as well due to child immunization program.  
+- Widespread vaccination available. 
+- Unvaccinated or immigrant children remain at risk. 
+- Can happen to adults as well due to child immunization program.  

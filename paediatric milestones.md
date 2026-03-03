@@ -34,9 +34,19 @@ urls:
 | 2 years      | Runs  <br>Walks upstairs and downstairs holding on to rail                                                                                                   |
 | 3 years      | Rides a tricycle using pedals  <br>Walks up stairs without holding on to rail                                                                                |
 | 4 years      | Hops on one leg                                                                                                                                              |
+
+---
 # Fine motor
+
+>[!warning]
+>Hand dominance prior to 18 months of age is seen to be a red flag sign within development. It can indicate a hemiparesis or be an early sign of cerebral palsy.
+>## Other Red Flags:
+>- Persistent fisting beyond 3 months
+>- Early rolling over, early pulling to a stand instead of sitting, and persistent toe walking may all indicate spasticity.
+>- Spontaneous postures, such as scissoring in a child with spasticity or a frog-level position in a hypotonic infant, are important visual clues to motor abnormalities
+
 aka hand eye coordination. 
-#mnemonic Learn it as a movement 
+#mnemonic Learn it as a movement
 
 | Fine motor / hand skill                                           | Age                     |
 | ----------------------------------------------------------------- | ----------------------- |
@@ -56,12 +66,22 @@ aka hand eye coordination.
 | 3 years   | Copies circle              |
 | 4 years   | Copies cross               |
 | 5 years   | Copies square and triangle |
+##### Bricks
+
+| **Age**   | **Milestone** |
+| --------- | ------------- |
+| 15 months | Tower of 2    |
+| 18 months | Tower of 3    |
+| 2 years   | Tower of 6    |
+| 3 years   | Tower of 9    |
 #### Book
-|**Age**|**Milestone**|
-|---|---|
-|15 months|Looks at book, pats page|
-|18 months|Turns pages, several at time|
-|2 years|Turns pages, one at time|
+| **Age**   | **Milestone**                |
+| --------- | ---------------------------- |
+| 15 months | Looks at book, pats page     |
+| 18 months | Turns pages, several at time |
+| 2 years   | Turns pages, one at time     |
+
+---
 # Language
 Includes hearing and speaking. 
 - At least single meaningful word: 18 months (else refer for hearing assessment)
@@ -78,6 +98,8 @@ Includes hearing and speaking.
 | 2½ years     | Vocabulary of 200 words                                                                                                                                    |
 | 3 years      | Talks in short sentences (e.g. 3-5 words)<br>Asks 'what' and 'who' questions<br>Identifies colours<br>Counts to 10 (little appreciation of numbers though) |
 | 4 years      | Asks 'why', 'when' and 'how' questions                                                                                                                     |
+
+---
 # Social
 - smile: 2 months
 - eye contact 3 months

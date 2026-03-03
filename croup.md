@@ -5,6 +5,7 @@ tags:
 aliases:
   - Laryngotracheal Bronchitis
   - Barking Cough
+  - Viral laryngotracheobronchitis
 urls:
   - https://cks.nice.org.uk/topics/croup/management/management/
 ---
