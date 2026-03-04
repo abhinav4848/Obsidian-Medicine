@@ -4,11 +4,12 @@ tags:
   - cancer
 aliases:
   - Testicular Cancer
+urls:
+  - "[NICE CKS Scrotal swelling/Pain differentiating features](https://cks.nice.org.uk/topics/scrotal-pain-swelling/diagnosis/assessment/#differentiating-clinical-features)"
 ---
 Age: 20-30yo. 
 - Peak for Teratoma: 25yo
 - Peak for Seminoma: 35yo
-
 # Types
 Most Testicular cancers are: 
 - Germ Cell tumours, which can be

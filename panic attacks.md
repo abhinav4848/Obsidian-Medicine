@@ -8,18 +8,26 @@ aliases:
   - Panic disorder
   - Panic Attack
 urls:
-  - https://www.nice.org.uk/guidance/cg113/chapter/Recommendations
-  - https://www.nice.org.uk/guidance/cg113/ifp/chapter/Your-care
-  - https://www.nice.org.uk/guidance/cg113/chapter/Recommendations#stepped-care-for-people-with-panic-disorder
+  - "[NICE- What care should patient expect](https://www.nice.org.uk/guidance/cg113/ifp/chapter/Your-care)"
+  - "[NICE- Generalised anxiety disorder and panic disorder in adults: management](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations)"
+  - [NICE- Stepped care for people with GAD](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations#stepped-care-for-people-with-gad)
+  - "[NICE- Stepped care for people with panic disorder](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations#stepped-care-for-people-with-panic-disorder)"
 ---
+
+| Feature                   | Panic Disorder                                                                | GAD                                                             |
+| ------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| Core symptoms             | Recurrent unexpected panic attacks, anticipatory anxiety, avoidance behaviour | Excessive, persistent worry about multiple everyday life events |
+| Physiological involvement | Intense autonomic arousal (palpitations, sweating, trembling) during attacks  | More subtle autonomic symptoms (muscle tension, restlessness)   |
+| Course                    | Episodic attacks with intervening periods of relative normality               | Chronic, fluctuating anxiety that is persistent over months     |
+| Functional impact         | Often leads to avoidance behaviours, agoraphobia                              | Leads to pervasive worry and tension, impaired concentration    |
+Why this matters for different stepped care approaches: The episodic, acute nature of panic attacks means early interventions often target attack control and behavioural exposure, whereas GAD interventions focus on managing chronic worry and emotion regulation.
 # Generalised anxiety disorder
 - having a number of different worries that are excessive and out of proportion to a particular situation 
 - having difficulty controlling one's worries.
-
 Always look for a potential physical cause when considering a psychiatric diagnosis. In anxiety disorders, important alternative causes include [[hyperthyroidism]], cardiac disease and medication-induced anxiety (NICE). Medications that may trigger anxiety include salbutamol, theophylline, [[corticosteroid|corticosteroids]], [[depression|antidepressants]] and caffeine. 
 # Treatment for GAD
 ## Stepped care model
-[NICE](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations#stepped-care-for-people-with-gad) 
+[NICE- Stepped care for people with GAD](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations#stepped-care-for-people-with-gad) 
 - **step 1**: education about GAD + active monitoring
 - **step 2**: low-intensity psychological interventions (individual non-facilitated self-help or individual guided self-help or psychoeducational groups)
 - **step 3**: high-intensity psychological interventions (cognitive behavioural therapy or applied relaxation) or drug treatment, or both. See drug treatment. 
@@ -38,7 +46,7 @@ See [[ssri#Side Effects of SSRIs|Side effects of SSRIs]].
 
 ---
 # Panic Disorder
-[NICE CKS](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations#stepped-care-for-people-with-panic-disorder) 
+[NICE- Stepped care for people with panic disorder](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations#stepped-care-for-people-with-panic-disorder) 
 1. CBT 
 2. SSRIs, SNRIs. Drugs licensed for the treatment of panic disorder:
 	1. Escitalopram, Sertraline, citalopram, paroxetine
