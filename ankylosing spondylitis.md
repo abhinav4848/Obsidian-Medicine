@@ -16,7 +16,7 @@ Associated with [[inflammatory bowel disease|crohn's disease]], Leukocytosis, Ca
 - Apical fibrosis
 - Anterior [[uveitis]]
 - Aortic regurgitation,
-- Achilles tendonitis
+- [[foot problems|Achilles tendonitis]]
 - AV node block (heart block)
 - Amyloidosis
 # Diagnosis:
