@@ -39,7 +39,7 @@ From [South West Yorkshire partnership](https://www.choiceandmedication.org/swyp
 
 Always look for a potential physical cause when considering a psychiatric diagnosis. In anxiety disorders, important alternative causes include [[hyperthyroidism]], cardiac disease and medication-induced anxiety (NICE). Medications that may trigger anxiety include salbutamol, theophylline, [[corticosteroid|corticosteroids]], [[depression|antidepressants]] and caffeine. 
 ## Treatment for GAD- Stepped care model
-Links: [NICE CG- Stepped care for people with GAD](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations#stepped-care-for-people-with-gad), [NICE CKS- GAD](https://cks.nice.org.uk/topics/generalized-anxiety-disorder/). 
+*Links: [NICE CG- Stepped care for people with GAD](https://www.nice.org.uk/guidance/cg113/chapter/Recommendations#stepped-care-for-people-with-gad), [NICE CKS- GAD](https://cks.nice.org.uk/topics/generalized-anxiety-disorder/).* 
 Score: Use [GAD-2](https://anxietychecklist.com/document/GAD-2-Anxiety-Test.pdf) in primary care and if score > 2, use [GAD-7](https://www.mdcalc.com/calc/1727/gad7-general-anxiety-disorder7) to get full picture. 
 
 - **step 1**: education about GAD + active monitoring

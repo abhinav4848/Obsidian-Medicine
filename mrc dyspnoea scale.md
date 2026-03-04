@@ -6,11 +6,12 @@ tags:
   - respiratory
 urls:
   - https://www.nice.org.uk/guidance/ng115/chapter/Recommendations#diagnosing-copd
+  - "[Primary care respiratory society](https://www.pcrs-uk.org/mrc-dyspnoea-scale#)"
 ---
 
 Used in [[copd|COPD]]. 
 
-| MRC scale <br>(used by NICE) | mMRC scale<br>(used by GOLD) | Degree of breathlessness related to activities                                                                                 |
+| MRC scale <br>(used by NICE) | mMRC scale<br>(used by GOLD) | Degree of  breathlessness related to activities                                                                                |
 | ---------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | 1                            | 0                            | Not troubled by breathlessness except on strenuous exercise                                                                    |
 | 2                            | 1                            | Short of breath when hurrying or walking up a slight hill                                                                      |
