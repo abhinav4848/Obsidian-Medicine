@@ -96,9 +96,24 @@
               "icon": "lucide-file",
               "title": "blepharitis"
             }
+          },
+          {
+            "id": "7839c63bf36929cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "foot problems.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "foot problems"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -131,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "morton ",
+                "query": "foot problems",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -162,8 +177,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -176,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "blepharitis.md",
+                "file": "foot problems.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +218,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of blepharitis"
+              "title": "Graph of foot problems"
             }
           }
         ]
@@ -316,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blepharitis.md",
+                "file": "foot problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +340,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for blepharitis"
+              "title": "Backlinks for foot problems"
             }
           }
         ]
@@ -346,10 +360,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e8655fe722644f1f",
+  "active": "7839c63bf36929cc",
   "lastOpenFiles": [
-    "chalazion.md",
     "blepharitis.md",
+    "foot problems.md",
+    "chalazion.md",
     "als- anaphylaxis.md",
     "eating disorder.md",
     "mrc dyspnoea scale.md",
@@ -374,7 +389,6 @@
     "osgood-schlatter.md",
     "croup.md",
     "pertussis.md",
-    "neurodevelopmental disorders.md",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "attachments/aviator's notch.png",
     "attachments/atropa belladona.pdf",
