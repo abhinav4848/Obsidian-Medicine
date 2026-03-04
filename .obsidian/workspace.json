@@ -43,34 +43,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "panic attacks.md",
+                "file": "uti.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "panic attacks"
+              "title": "uti"
             }
           },
           {
             "id": "d0d7b63a56bed99e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "flow charts/shoulder exam.canvas",
-                "viewState": {
-                  "x": -175,
-                  "y": 266.30878872292305,
-                  "zoom": -0.33356179727292057
-                }
+                "file": "pyelonephritis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "shoulder exam"
+              "icon": "lucide-file",
+              "title": "pyelonephritis"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "generalis",
+                "query": "uti",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -148,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "panic attacks.md",
+                "file": "pyelonephritis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of panic attacks"
+              "title": "Graph of pyelonephritis"
             }
           }
         ]
@@ -288,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "panic attacks.md",
+                "file": "pyelonephritis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -298,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for panic attacks"
+              "title": "Backlinks for pyelonephritis"
             }
           }
         ]
@@ -318,8 +316,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "1454e3055dd24208",
+  "active": "d0d7b63a56bed99e",
   "lastOpenFiles": [
+    "uti.md",
     "flow charts/shoulder exam.canvas",
     "panic attacks.md",
     "ssri.md",
@@ -345,7 +344,6 @@
     "diabetes- gestational.md",
     "drugs contraindicated in pregnancy.md",
     "hypertension in pregnancy.md",
-    "magnesium.md",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "attachments/aviator's notch.png",
     "attachments/atropa belladona.pdf",

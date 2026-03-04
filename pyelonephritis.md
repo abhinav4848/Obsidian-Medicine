@@ -4,24 +4,31 @@ aliases:
   - small kidney
 tags:
   - nephrology
+urls:
+  - "[NICE CKS Pyelonephritis](https://cks.nice.org.uk/topics/pyelonephritis-acute/diagnosis/signs-symptoms/)"
+  - "[Leicester guidance](https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2026/02/Acute-pyelonephritis.pdf)"
 ---
 B/l pyelonephritis is very rare. 
 # Clinical Features
 Suspect Pyelonephritis if:
-- kidney pain/tenderness in the back/under ribs
+- typically u/l flank pain
 - flu-like illness 
 - nausea/vomiting
 - shaking chills (rigors), OR [[fever & sepsis|temp]] > 37.9C, or <36C
+there are signs/symptoms of both systemic & bladder inflammation
 # Investigation
 Imaging not needed normally.
 -> It's requested only in complicated cases: fever > 48 hrs. despite antibiotics, Recurrent episodes, Suspect stone, DM, Immunocompromised -> Do USS (it can't diagnose pyelonephritis, but can exclude Hydronephrosis, stones). 
 
 Acute pyelonephritis: Do urinalysis -> Urine culture.
 # Treatment
+Link: [Leicester guidance](https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2026/02/Acute-pyelonephritis.pdf) 
 If admitted, give i.v. abx
+
 Women (not pregnant)/Men/Indwelling catheter:
-	Ciprofloxacin 500mg , or
-	Co-Amoxiclav 625mg TID
+	1st line: Co-Amoxiclav 625mg TID 10 days + Oral Amoxicillin 500mg TDS 10 days
+	2nd line: 	Ciprofloxacin 500mg
+	3rd line: Trimethoprim 200mg BD 14 days
 Children:
 	Co-Amoxiclav > Cefalexin
 Pregnant w/o need for admission: 
