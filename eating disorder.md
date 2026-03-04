@@ -12,7 +12,7 @@ Compensatory behaviours such as excess exercise, vomiting, laxative misuse.
 - **G's and C's raised**: growth hormone, glucose, salivary glands, cortisol, cholesterol, carotinaemia
 [[parkinson's disease|Levodopa]] & [[digoxin]] can cause anorexia.
 # Bulimia nervosa
-Binge eating +/. doing inappropriate compensatory behaviours to prevent weight gain (such as purging/self-induced vomiting, laxative use, or excessive exercise).
+Binge eating + doing inappropriate compensatory behaviours to prevent weight gain (such as purging/self-induced vomiting, laxative use, or excessive exercise).
 
 Weight does not change. 
 Happening at least once a week for at least a month. 

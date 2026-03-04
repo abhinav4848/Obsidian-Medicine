@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eating disorder.md",
+                "file": "blepharitis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "eating disorder"
+              "title": "blepharitis"
             }
           }
         ],
@@ -131,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bulimia",
+                "query": "morton ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "eating disorder.md",
+                "file": "blepharitis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +204,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of eating disorder"
+              "title": "Graph of blepharitis"
             }
           }
         ]
@@ -316,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eating disorder.md",
+                "file": "blepharitis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +326,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for eating disorder"
+              "title": "Backlinks for blepharitis"
             }
           }
         ]
@@ -346,8 +346,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "0383e9357da65b9e",
+  "active": "e8655fe722644f1f",
   "lastOpenFiles": [
+    "chalazion.md",
+    "blepharitis.md",
+    "als- anaphylaxis.md",
+    "eating disorder.md",
     "mrc dyspnoea scale.md",
     "illicit drugs.md",
     "panic attacks.md",
@@ -371,10 +375,6 @@
     "croup.md",
     "pertussis.md",
     "neurodevelopmental disorders.md",
-    "paediatric milestones.md",
-    "statins.md",
-    "nash.md",
-    "down's syndrome.md",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "attachments/aviator's notch.png",
     "attachments/atropa belladona.pdf",
