@@ -22,13 +22,13 @@ Low EF: Treatment with [[ace inhibitors|ACE inhibitor]], ARB, Beta blockers, as 
 # Classification
 ## Reduced EF (aka Systolic heart failure)
 HFrEF
-Problems with LV & pressures go backwards -> Lung features, Pulmonary edema & Breathlessness
-if severe, then RV features as well -> Fluid overload + Peripheral edema
-**Rx**: ACE inhibitor + beta-blocker + MRA + SGLT2 inhibitor
+- Problems with LV & pressures go backwards -> Lung features, Pulmonary edema & Breathlessness
+- if severe, then RV features as well -> Fluid overload + Peripheral edema
+- **Rx**: ACE inhibitor + beta-blocker + MRA + SGLT2 inhibitor
 ## Preserved EF (aka diastolic heart failure)
 HFpEF
-Problems with RV due to non-compliance -> Dyspnoea w/o signs of fluid overload
-**Rx:** MRA + SGLT2 inhibitor
+- Problems with RV due to non-compliance -> Dyspnoea w/o signs of fluid overload
+- **Rx:** MRA + SGLT2 inhibitor
 
 ---
 # Management
