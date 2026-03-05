@@ -19,6 +19,8 @@ Associated with [[inflammatory bowel disease|crohn's disease]], Leukocytosis, Ca
 - [[foot problems|Achilles tendonitis]]
 - AV node block (heart block)
 - Amyloidosis
+
+![[spondyloarthritis#Missed picture linked]]
 # Diagnosis:
 Schober's test #named to assess lumbar spine mobility. <5cm is problem.
 ## X-ray:
