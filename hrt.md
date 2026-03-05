@@ -13,7 +13,7 @@ urls:
 ---
 As part of managing [[menopause]]. 
 # Hormone choice rationale
-- Oestrogen → treats menopausal symptoms. 
+- Oestrogen → treats menopausal symptoms: Hot flushes, Night sweats, Vaginal dryness, Sleep disturbance
 	- HRT uses Oestradiol (E2) which is normal human oestrogen
 	- [[COCP]] uses EE which is a very potent synthetic oestrogen. 
 - Progestogen → protects the endometrium from oestrogen-induced hyperplasia/[[cancer- endometrial|Endometrial Cancer]]. 
@@ -42,7 +42,7 @@ Used for Postmenopausal women
 
 ---
 # When does menopausal/pre-menopausal woman need contraception?
-Needs it: <55y +  sexually active + menstruating
+Needs it: <55y + sexually active + menstruating
 Doesn't need it: 
 - ≤50y + amenorrhoeic ≥2y 
 - \>50y and has been amenorrhoeic for ≥1y. (*natural menopause not on the progesterone pill*).
