@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hrt.md",
+                "file": "lipids.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hrt"
+              "title": "lipids"
             }
           }
         ],
@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tibolone",
+                "query": "lipids",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hrt.md",
+                "file": "lipids.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,7 +234,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of hrt"
+              "title": "Graph of lipids"
             }
           }
         ]
@@ -346,7 +346,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hrt.md",
+                "file": "lipids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +356,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hrt"
+              "title": "Backlinks for lipids"
             }
           }
         ]
@@ -418,8 +418,8 @@
   },
   "active": "3de349501b57cd1b",
   "lastOpenFiles": [
-    "contraceptives.md",
     "hrt.md",
+    "contraceptives.md",
     "comprehensive geriatric assessment.md",
     "attachments/Pasted image 20260305124244.png",
     "heart failure.md",

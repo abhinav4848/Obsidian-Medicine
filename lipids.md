@@ -29,4 +29,8 @@ Fasting: >5 to <20
 Non Fasting >20 -> check eGFR > 60 & choose treatment accordingly. 
 
 # Treatment
-First line: [[statins|Statin]] 
+First line: [[statins|Statin]]
+
+For people with diabetes, the most effective method of reducing mixed hyperlipidaemia is good glycaemic control.
+
+Hypertriglyceridaemia secondary to poor diabetic control does not respond well to lipid lowering agents. Treating the diabetes is the first priority, although many patients will also have an underlying dyslipidaemia and need a statin for reduction of long-term cardiovascular risk.
