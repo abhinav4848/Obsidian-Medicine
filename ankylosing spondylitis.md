@@ -13,7 +13,7 @@ It's a [[seronegative spondyloarthropathy]].
 
 Associated with [[inflammatory bowel disease|crohn's disease]], Leukocytosis, Cauda equina, Peripheral arthritis.
 ## 'A' problems
-- Apical fibrosis
+- Apical fibrosis- a rare extra-articular pulmonary complication
 - Anterior [[uveitis]]
 - Aortic regurgitation,
 - [[foot problems|Achilles tendonitis]]

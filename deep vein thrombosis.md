@@ -38,3 +38,12 @@ DOAC ([[drugs contraindicated in pregnancy|Avoid in pregnancy]]/breastfeeding/Cr
 - Superficial thrombophlebitis: no pain on movement
 - DVT: Homan's sign; pain on dorsiflexion of ankle
 - Elevated post surgery.
+
+---
+# Prevention of travel related DVT
+Aspirin-> Good for preventing arterial thrombosis but not for travel related deep venous thrombosis.
+1. Regular exercise or mobility-> Regularly flexing and extending ankles thus encouraging blood flow from the lower legs. 
+2. Loose-fitting clothing-> around the waist and lower legs is recommended.
+3. Prophylactic use of graduated compression stockings during air travel reduces the rate of flight-related DVT in the general population. Travellers with an increased risk of DVT can consider wearing compression stockings. Stockings must be correctly measured and properly fitted as badly-fitting stockings can actually increase the risk of DVT.
+4. In those travellers with a high risk of DVT for whom their travel is deemed essential -> LMWH can be offered, usually after discussion with a specialist. This is in addition to graduation compression stockings.
+5. Good hydration is maintained at all times, and excessive alcohol consumption should be avoided.

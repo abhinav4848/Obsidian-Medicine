@@ -3,6 +3,8 @@ tags:
   - stats
 aliases:
   - study
+urls:
+  - "[Centre for Evidence Based Medicine- Study designs](https://www.cebm.ox.ac.uk/resources/ebm-tools/study-designs)"
 ---
 # Cohort
 Observational & Prospective. 
@@ -10,7 +12,6 @@ Observational & Prospective.
 - Cohort studies are also expensive to conduct and are reliant on the right exposures being measured and ability to follow-up a large proportion of the cohort.
 Relative risk calculated in Cohort [[statistics- study types|study]]. 
 e.g. Farmingham Heart study
-
 # Case Control
 Observational and retrospective. 
 Patients with a particular condition (cases) are identified and matched with controls. Data is then collected on past exposure to a possible causal agent for the condition.
@@ -19,3 +20,5 @@ Odd's ratio is calculated in case control study
 [[statistics- risk reduction, nnt, odds ratio|EER, CER]] is calculated in randomised control trial
 # Cross sectional
 aka Prevalence study. 
+# Meta-analysis 
+The systematic review of randomised controlled trials. This is the highest level of evidence.

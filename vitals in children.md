@@ -5,6 +5,7 @@ urls:
   - https://geekymedics.com/paediatric-vital-signs/
 ---
 *See [[fever & sepsis]] & [[red flags of sepsis in children]]* 
+[NHS England: PEWS (paediatric early warning score)](https://www.england.nhs.uk/publication/national-pews-observation-and-escalation-charts/) 
 
 ---
 # Tachypnoea
@@ -27,8 +28,9 @@ For <12yo HR <60
 - Neonates and young infants may not mount a febrile response to infection. They may present with low temperature or poor feeding rather than pyrexia.
 - Red flag sepsis:
 	- Under 3 months: temp > 38C
+		- Always investigate fever in infants <3 months thoroughly
+		- Urgent same day referral to paeds (they need full septic screen e.g. sepsis, UTI, meningitis + empirical abx regardless of how they look)
 	- Under 5 years: temp <36C
-- Always investigate fever in infants <3 months thoroughly (e.g. sepsis, UTI, meningitis)
 - Fever lasting more than 5 days should be assessed for [[kawasaki disease]]. 
 # Passing urine
 - Important for sepsis

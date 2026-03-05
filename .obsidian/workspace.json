@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arthritis.md",
+                "file": "deep vein thrombosis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "arthritis"
+              "title": "deep vein thrombosis"
             }
           }
         ],
@@ -146,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arthritis",
+                "query": "dvt",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "spondyloarthritis.md",
+                "file": "deep vein thrombosis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of spondyloarthritis"
+              "title": "Graph of deep vein thrombosis"
             }
           }
         ]
@@ -331,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spondyloarthritis.md",
+                "file": "deep vein thrombosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +341,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for spondyloarthritis"
+              "title": "Backlinks for deep vein thrombosis"
             }
           }
         ]
@@ -379,13 +379,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "spondyloarthritis.md",
+                    "file": "ankylosing spondylitis.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "spondyloarthritis"
+                  "title": "ankylosing spondylitis"
                 }
               }
             ]
@@ -396,19 +396,31 @@
         "y": 6,
         "width": 1167,
         "height": 994,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e31d99cf32d2532e",
+  "active": "7839c63bf36929cc",
   "lastOpenFiles": [
+    "flow charts/deep vein thrombosis.canvas",
+    "deep vein thrombosis.md",
+    "statistics- study types.md",
+    "statistics- screening tests.md",
+    "statistics- risk reduction, nnt, odds ratio.md",
+    "statistics- parametric tests.md",
+    "statistics- errors, confidence intervals.md",
+    "vitals in children.md",
+    "kawasaki disease.md",
+    "fever & sepsis.md",
     "arthritis.md",
+    "ankylosing spondylitis.md",
+    "eosinophilic granulomatosis with polyangiitis.md",
     "spondyloarthritis.md",
+    "desktop.ini",
     "seronegative spondyloarthropathy.md",
     "behcet's disease.md",
     "felty's syndrome.md",
-    "ankylosing spondylitis.md",
     "rheumatoid arthritis.md",
     "blepharitis.md",
     "als- anaphylaxis.md",
@@ -418,18 +430,7 @@
     "eating disorder.md",
     "mrc dyspnoea scale.md",
     "illicit drugs.md",
-    "panic attacks.md",
-    "ptsd.md",
-    "pyelonephritis.md",
-    "uti.md",
     "flow charts/shoulder exam.canvas",
-    "ssri.md",
-    "cancer- testes.md",
-    "testicular problems.md",
-    "falls.md",
-    "shoulder examination.md",
-    "bronchiolitis.md",
-    "acute epiglottitis.md",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "attachments/aviator's notch.png",
     "attachments/atropa belladona.pdf",
@@ -440,7 +441,6 @@
     "attachments/Red Whale _ COPD_ management Feb 2026.pdf",
     "attachments/chronic heart failure- management.png",
     "flow charts/haematuria.canvas",
-    "desktop.ini",
     "attachments/bpj12_ukmec_pages_28-29 (COCP only).pdf",
     "attachments/traffic light system for identifying risk of serious illness in under 5s.pdf",
     "flow charts/prostaglandins and leukotrienes.canvas",
@@ -456,7 +456,6 @@
     "flow charts/paeds examination.canvas",
     "flow charts/h. pylori treatment flowchart.canvas",
     "flow charts/contraception after delivery.canvas",
-    "flow charts/deep vein thrombosis.canvas",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "_chicken Pox treatment flowchart (Work in progress).canvas"
   ]
