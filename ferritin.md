@@ -1,6 +1,9 @@
 ---
 tags:
   - haemat
+aliases:
+  - low iron
+  - anaemia
 ---
 If a child has low ferritin, prefer liquid formulation of 
 - Ferrous fumarate [BNFc](https://bnfc.nice.org.uk/drugs/ferrous-fumarate/#indications-and-dose)
