@@ -39,7 +39,7 @@ All ages: Not passed urine in the past 12 (infants) to 18 hours, OR for catheter
 
 > For any child with fever, note oral mucosa and capillary refill time, weak pulse, cool extremities
 
-Teach parents about [looking for dehydration](https://www.nice.org.uk/guidance/ng143/chapter/Recommendations#advice-for-home-care) (sunken fontanelle/soft spots on the skull- takes 1 to 2 years to close, dry mouth, sunken eyes, absence of tears, poor overall appearance), non blanching rash
+Teach parents about [looking for dehydration](https://www.nice.org.uk/guidance/ng143/chapter/Recommendations#advice-for-home-care) (sunken fontanelle/soft spots on the skull- takes 1 to 2 years to close, dry mouth, sunken eyes, CRT >3s, absence of tears, poor overall appearance), non blanching rash
 # Blood pressure
 ##### How low is too low a BP?
 - 1 month to 1 year: SBP <70
