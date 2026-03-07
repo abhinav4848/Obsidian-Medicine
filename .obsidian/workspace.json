@@ -148,21 +148,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tonsillitis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "tonsillitis"
-            }
-          },
-          {
-            "id": "90d460e06f90929c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "sore throat.md",
                 "mode": "source",
                 "source": false,
@@ -173,31 +158,18 @@
             }
           },
           {
-            "id": "f882e911be2d9911",
+            "id": "90d460e06f90929c",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://www.nice.org.uk/guidance/ng143/chapter/Recommendations#advice-for-home-care",
-                "title": "Recommendations | Fever in under 5s: assessment and initial management | Guidance | NICE",
-                "mode": "webview"
+                "file": "ophthalmia neonatorum.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "globe-2",
-              "title": "Recommendations | Fever in under 5s: assessment and initial management | Guidance | NICE"
-            }
-          },
-          {
-            "id": "d0e97c9d6fe44a24",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.nice.org.uk/guidance/ng143/chapter/Recommendations#advice-for-home-care",
-                "title": "Recommendations | Fever in under 5s: assessment and initial management | Guidance | NICE",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Recommendations | Fever in under 5s: assessment and initial management | Guidance | NICE"
+              "icon": "lucide-file",
+              "title": "ophthalmia neonatorum"
             }
           }
         ],
@@ -234,7 +206,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"https://cks.nice.org.uk/topics/sore-throat-acute/diagnosis/diagnosing-the-cause/\"",
+                "query": "ophthalmia neo",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -279,7 +251,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sore throat.md",
+                "file": "ophthalmia neonatorum.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -307,7 +279,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of sore throat"
+              "title": "Graph of ophthalmia neonatorum"
             }
           }
         ]
@@ -419,7 +391,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sore throat.md",
+                "file": "ophthalmia neonatorum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -429,7 +401,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for sore throat"
+              "title": "Backlinks for ophthalmia neonatorum"
             }
           }
         ]
@@ -451,8 +423,15 @@
   },
   "active": "90d460e06f90929c",
   "lastOpenFiles": [
-    "tonsillitis.md",
+    "gonorrhoea.md",
+    "ophthalmia neonatorum.md",
+    "conjunctivitis.md",
+    "red eye.md",
     "sore throat.md",
+    "aphthous ulcer.md",
+    "cold sores.md",
+    "hand foot mouth.md",
+    "tonsillitis.md",
     "fever & sepsis.md",
     "vitals in children.md",
     "cancer- prostate.md",
@@ -470,14 +449,7 @@
     "pyelonephritis.md",
     "ferritin.md",
     "ankylosing spondylitis.md",
-    "ovarian hyperstimulation syndrome.md",
-    "lipids.md",
-    "hrt.md",
-    "contraceptives.md",
-    "comprehensive geriatric assessment.md",
     "attachments/Pasted image 20260305124244.png",
-    "heart failure.md",
-    "falls.md",
     "flow charts/deep vein thrombosis.canvas",
     "desktop.ini",
     "flow charts/shoulder exam.canvas",

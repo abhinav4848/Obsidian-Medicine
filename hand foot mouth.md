@@ -3,6 +3,7 @@ tags:
   - paeds
 aliases:
   - Hand, foot and mouth disease
+  - Hand-foot-mouth disease
 urls:
   - "[PCDS Viral exanthems](https://www.pcds.org.uk/clinical-guidance/viral-exanthems)"
 ---

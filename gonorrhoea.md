@@ -4,8 +4,9 @@ tags:
 aliases:
   - Neisseria gonorrhoea
   - Gonorrhoea
+  - Neisseria gonorrhoeae
 ---
-*See [[gynaecological infections#Neisseria gonorrhoea (C for C) mnemonic|Gynaecological infections]].* 
+*See [[gynaecological infections#Neisseria gonorrhoea (C for C) mnemonic|Gynaecological infections]]. & [[ophthalmia neonatorum]].*
 # Treatment
 (C or C) -> Even [[meningitis|Neisseria meningitidis]] has same treatment
 - Ceftriaxone 1gm IM single dose stat, or #abx 

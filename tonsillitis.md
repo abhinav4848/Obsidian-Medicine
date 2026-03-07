@@ -7,7 +7,7 @@ urls:
 ---
 Viral tonsillitis disappears in 10 days
 # When to give antibiotics
-1. Systemic upset due to sore throat
+1. Systemic upset due to [[sore throat]]. 
 2. u/l peri-tonsillitis
 3. h/o Rheumatic fever
 4. Increased risk from acute infection (DM/immunodeficiency)
