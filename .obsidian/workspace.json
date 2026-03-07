@@ -148,27 +148,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pyelonephritis.md",
+                "file": "pelvic inflammatory disease.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "pyelonephritis"
+              "title": "pelvic inflammatory disease"
             }
           },
           {
-            "id": "049fa56c1848d7e3",
+            "id": "f882e911be2d9911",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://cks.nice.org.uk/topics/pyelonephritis-acute/diagnosis/signs-symptoms/",
-                "title": "Signs and symptoms | Diagnosis | Pyelonephritis - acute | CKS | NICE",
+                "url": "https://www.nice.org.uk/guidance/ng143/chapter/Recommendations#advice-for-home-care",
+                "title": "Recommendations | Fever in under 5s: assessment and initial management | Guidance | NICE",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Signs and symptoms | Diagnosis | Pyelonephritis - acute | CKS | NICE"
+              "title": "Recommendations | Fever in under 5s: assessment and initial management | Guidance | NICE"
+            }
+          },
+          {
+            "id": "d0e97c9d6fe44a24",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.nice.org.uk/guidance/ng143/chapter/Recommendations#advice-for-home-care",
+                "title": "Recommendations | Fever in under 5s: assessment and initial management | Guidance | NICE",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Recommendations | Fever in under 5s: assessment and initial management | Guidance | NICE"
             }
           }
         ],
@@ -205,7 +219,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pyelone",
+                "query": "pelvic infla",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -250,7 +264,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pyelonephritis.md",
+                "file": "pelvic inflammatory disease.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,7 +292,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of pyelonephritis"
+              "title": "Graph of pelvic inflammatory disease"
             }
           }
         ]
@@ -390,7 +404,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pyelonephritis.md",
+                "file": "pelvic inflammatory disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +414,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pyelonephritis"
+              "title": "Backlinks for pelvic inflammatory disease"
             }
           }
         ]
@@ -422,6 +436,14 @@
   },
   "active": "1c99bd5b494011b0",
   "lastOpenFiles": [
+    "pelvic exam.md",
+    "pelvic inflammatory disease.md",
+    "vitals in children.md",
+    "kawasaki disease.md",
+    "rash.md",
+    "scoring system.md",
+    "curb-65.md",
+    "fever & sepsis.md",
     "pyelonephritis.md",
     "ferritin.md",
     "ankylosing spondylitis.md",
@@ -440,17 +462,9 @@
     "statistics- risk reduction, nnt, odds ratio.md",
     "statistics- parametric tests.md",
     "statistics- errors, confidence intervals.md",
-    "vitals in children.md",
-    "kawasaki disease.md",
-    "fever & sepsis.md",
     "arthritis.md",
     "eosinophilic granulomatosis with polyangiitis.md",
-    "spondyloarthritis.md",
     "desktop.ini",
-    "seronegative spondyloarthropathy.md",
-    "behcet's disease.md",
-    "felty's syndrome.md",
-    "rheumatoid arthritis.md",
     "flow charts/shoulder exam.canvas",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "attachments/aviator's notch.png",

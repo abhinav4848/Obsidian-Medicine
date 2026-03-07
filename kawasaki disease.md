@@ -9,7 +9,7 @@ Fever lasting > 5 days.
 # Clinical Features
 Crash and burn on a Kawasaki ( #mnemonic)
 - B/L conjunctival injection without exudate
-- Rash (polymorphous -> Desquamating)
+- [[rash]] (polymorphous -> Desquamating)
 - Cervical lymphadenopathy
 - 🍓Strawberry tongue (also seen in strep sore throat/[[scarlet fever]]. Diff is that it starts white then becomes red whereas in Kawasaki it stays red)
 	- mucus membrane changes like bright red (erythema) oral & pharyngeal mucosa, red, cracked lips. 

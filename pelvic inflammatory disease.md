@@ -16,12 +16,15 @@ Due to ascending [[Chlamydia]] > [[Gonorrhoea]] from [[cervicitis|Cervicitis]]
 Their vaginal discharge is not foul smelling. Presents mostly asymptomatically.
 BV & Trichomonas are related to PID but don't cause PID themselves. 
 ## Clinical Features
-[[pelvic exam]] findings:
+**Symptoms**: 
+- Lower abdominal pain (often b/l), deep dyspareunia, abnormal vaginal bleeding (including post-coital, intermenstrual, or heavy menstrual bleeding), vaginal/cervical discharge.
+- A systemic symptom such as fever, nausea/vomiting, malaise, may be present, especially in severe infections or with complications
+
+[[Pelvic exam]] findings:
 1. Cervical motion tenderness (cervical excitation), 
 2. Adnexal tenderness (b/l usually), 
 Elevated temperature (mild/chronic infection) #fever 
 
-**Others**: Lower abdominal pain, menstrual irregularity, vaginal/cervical discharge.
 ## Investigation
 - Do NAAT with vulvovaginal swab > endocervical swab.
 - High vaginal swab is helpful in recurrent symptoms, treatment failure, pregnancy, post-partum, post-abortion, post-instrumentation.

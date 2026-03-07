@@ -25,19 +25,22 @@ Early sign of distress- tachycardia compensates for a fixed stroke volume
 
 For <12yo HR <60
 # Temperature
-- Neonates and young infants may not mount a febrile response to infection. They may present with low temperature or poor feeding rather than pyrexia.
+- Neonates and young infants may not mount a febrile response to infection. They may present with low temperature or poor feeding rather than pyrexia. In infants < 4 weeks, measure body temperature with an electronic thermometer in the axilla ([NG143](https://www.nice.org.uk/guidance/ng143/chapter/recommendations#one21))
 - Red flag sepsis:
 	- Under 3 months: temp > 38C
 		- Always investigate fever in infants <3 months thoroughly
 		- Urgent same day referral to paeds (they need full septic screen e.g. sepsis, UTI, meningitis + empirical abx regardless of how they look)
 	- Under 5 years: temp <36C
 - Fever lasting more than 5 days should be assessed for [[kawasaki disease]]. 
+- Fever: Elevation of body temperature above the normal daily variation. hence, reported parental perception of a fever should be considered valid and taken seriously by healthcare professionals. 
 # Passing urine
 - Important for sepsis
 All ages: Not passed urine in the past 12 (infants) to 18 hours, OR for catheterised patients passed 0.5 to 1 ml/kg of urine per hour
 
 > For any child with fever, note oral mucosa and capillary refill time, weak pulse, cool extremities
-# BP
+
+Teach parents about [looking for dehydration](https://www.nice.org.uk/guidance/ng143/chapter/Recommendations#advice-for-home-care) (sunken fontanelle/soft spots on the skull- takes 1 to 2 years to close, dry mouth, sunken eyes, absence of tears, poor overall appearance), non blanching rash
+# Blood pressure
 ##### How low is too low a BP?
 - 1 month to 1 year: SBP <70
 - 1y to 10 years: SBP < (70+ (2 x age))

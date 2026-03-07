@@ -7,10 +7,11 @@ tags:
 urls:
   - "[NICE CKS Pyelonephritis](https://cks.nice.org.uk/topics/pyelonephritis-acute/diagnosis/signs-symptoms/)"
   - "[Leicester guidance](https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2026/02/Acute-pyelonephritis.pdf)"
+  - "[NICE NG: Urinary tract infection in under 16s](https://www.nice.org.uk/guidance/ng224)"
 ---
 B/l pyelonephritis is very rare. 
 # Clinical Features
-Suspect Pyelonephritis if:
+Suspect Pyelonephritis if: 
 - typically u/l flank pain
 - flu-like illness 
 - nausea/vomiting
