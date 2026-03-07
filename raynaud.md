@@ -14,7 +14,7 @@ It may be primary (Raynaud's disease) or secondary (Raynaud's phenomenon).
 - connective tissue disorders
     - [[systemic sclerosis|scleroderma]] (most common)
     - [[rheumatoid arthritis]]
-    - [[systemic lupus erythematosis|systemic lupus erythematosus]]
+    - [[systemic lupus erythematosus|systemic lupus erythematosus]]
 - leukaemia
 - type I cryoglobulinaemia, cold agglutinins
 - use of vibrating tools

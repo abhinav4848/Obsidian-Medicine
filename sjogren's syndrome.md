@@ -6,7 +6,7 @@ aliases:
 ---
 Autoimmune destruction of exocrine glands, causing dryness of salivary and lacrimal glands. 
 - Primary Sjögren: occurs alone
-- Secondary Sjögren: occurs with another autoimmune disease (classically [[rheumatoid arthritis|RA]], also [[systemic lupus erythematosis|SLE]])
+- Secondary Sjögren: occurs with another autoimmune disease (classically [[rheumatoid arthritis|RA]], also [[systemic lupus erythematosus|SLE]])
 # Clinical Features
 - dry eyes
 - dry mouth

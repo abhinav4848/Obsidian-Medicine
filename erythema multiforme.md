@@ -27,7 +27,7 @@ Initially seen on hands/feet before spreading to trunk. Spreads towards centre.
 	- NSAID/Nevirapine,
 	- Penicillin (Amoxicillin)/Allopurinol,
 	- COCP/Carbamazepine.
-- [[systemic lupus erythematosis|SLE]], [[Sarcoidosis]], Malignancy
+- [[systemic lupus erythematosus|SLE]], [[Sarcoidosis]], Malignancy
 
 Steven Johnson was considered a severe version of this. Has necrosis, sloughing, fever, bullae. Also, 2 mucus membranes (e.g. Conjunctivitis, oral ulcer) also involved in SJS.
 #### Erythema multiforme major

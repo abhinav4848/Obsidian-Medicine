@@ -17,7 +17,7 @@ Their vaginal discharge is not foul smelling. Presents mostly asymptomatically.
 BV & Trichomonas are related to PID but don't cause PID themselves. 
 ## Clinical Features
 **Symptoms**: 
-- Lower abdominal pain (often b/l), deep dyspareunia, abnormal vaginal bleeding (including post-coital, intermenstrual, or heavy menstrual bleeding), vaginal/cervical discharge.
+- Lower abdominal pain (often b/l), deep dyspareunia, abnormal vaginal bleeding (including post-coital, IMB, HMB), vaginal/cervical discharge.
 - A systemic symptom such as fever, nausea/vomiting, malaise, may be present, especially in severe infections or with complications
 
 [[Pelvic exam]] findings:

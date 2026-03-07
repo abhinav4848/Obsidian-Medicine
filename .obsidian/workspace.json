@@ -148,13 +148,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pelvic inflammatory disease.md",
+                "file": "shin lesions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "pelvic inflammatory disease"
+              "title": "shin lesions"
             }
           },
           {
@@ -219,7 +219,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pelvic infla",
+                "query": "pyoderma ga",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -264,7 +264,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pelvic inflammatory disease.md",
+                "file": "shin lesions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,7 +292,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of pelvic inflammatory disease"
+              "title": "Graph of shin lesions"
             }
           }
         ]
@@ -404,7 +404,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pelvic inflammatory disease.md",
+                "file": "shin lesions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -414,7 +414,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pelvic inflammatory disease"
+              "title": "Backlinks for shin lesions"
             }
           }
         ]
@@ -436,8 +436,13 @@
   },
   "active": "1c99bd5b494011b0",
   "lastOpenFiles": [
-    "pelvic exam.md",
+    "diabetes treatment.md",
+    "shin lesions.md",
+    "systemic lupus erythematosus.md",
+    "erythema nodosum.md",
+    "drugs contraindicated in pregnancy.md",
     "pelvic inflammatory disease.md",
+    "pelvic exam.md",
     "vitals in children.md",
     "kawasaki disease.md",
     "rash.md",
@@ -459,11 +464,6 @@
     "deep vein thrombosis.md",
     "statistics- study types.md",
     "statistics- screening tests.md",
-    "statistics- risk reduction, nnt, odds ratio.md",
-    "statistics- parametric tests.md",
-    "statistics- errors, confidence intervals.md",
-    "arthritis.md",
-    "eosinophilic granulomatosis with polyangiitis.md",
     "desktop.ini",
     "flow charts/shoulder exam.canvas",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",

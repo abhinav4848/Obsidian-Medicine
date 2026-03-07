@@ -17,7 +17,7 @@ urls:
 - Chronic Glomerulonephritis, Chronic [[pyelonephritis]]
 - ADPKD, urinary tract obstruction (structural renal disease, recurrent renal calculi, [[prostate|BPH]]) 
 - CVD (Stroke, TIA, HF, PVD) 
-- [[hypercalcemia]], Amyloid, Myeloma, PAN, AKI, Interstitial nephritis, [[systemic lupus erythematosis|SLE]], 
+- [[hypercalcemia]], Amyloid, Myeloma, PAN, AKI, Interstitial nephritis, [[systemic lupus erythematosus|SLE]], 
 
 # Haemodialysis for CKD- side effects
 most likely cause of death is IHD. 

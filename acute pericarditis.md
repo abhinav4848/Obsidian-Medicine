@@ -18,7 +18,7 @@ lasts for less than 4-6 weeks.
 	- late (2 weeks to months): autoimmune pericarditis (Dressler's syndrome- can also occur after heart surgery like CABG). 
 - post radiotherapy
 - connective tissue disease
-    - [[systemic lupus erythematosis|SLE]] 
+    - [[systemic lupus erythematosus|SLE]] 
     - [[rheumatoid arthritis]]
 - hypothyroidism
 - malignancy

@@ -10,7 +10,7 @@ aliases:
 1. Fibroids common
 2. [[diabetes- gestational|gestational diabetes mellitus]]
 3. Don't use [[ace inhibitors|ACE inhibitor]] for HTN starting  
-4. [[systemic lupus erythematosis|SLE]] common  
+4. [[systemic lupus erythematosus|SLE]] common  
 5. [[cancer- prostate|Prostate Cancer]]
 6. [[Sarcoidosis]]
 7. [[glaucoma- open angle|Open Angle glaucoma]]  

@@ -17,7 +17,7 @@ Non-infectious [[granulomatous disease]] involving abnormal collections of infla
 	- [[Uveitis]] 
 	- **Lupus Pernio**: A pathognomonic manifestation of sarcoidosis characterized by extensive indurated purple nodular lesions (i.e., epithelioid granulomas of the dermis) on the nose, cheeks, chin, and/or ears.
 	- ![[lupus pernio (classic in sarcoidosis).png]]
-	- Butterfly rash as seen in [[systemic lupus erythematosis|SLE]].
+	- Butterfly rash as seen in [[systemic lupus erythematosus|SLE]].
 	- Polyarthralgia
 # Types & features
 *Classical sarcoidosis is Lofgren syndrome.*

@@ -35,7 +35,7 @@ Mantoux used to diagnose only latent TB -> May be positive in patients with BCG 
 
 | Medication      | Side effects                                                                               |
 | --------------- | ------------------------------------------------------------------------------------------ |
-| INH (Isoniazid) | peripheral neuritis, [[hepatitis]] (hepatotoxicity), [[systemic lupus erythematosis\|SLE]] |
+| INH (Isoniazid) | peripheral neuritis, [[hepatitis]] (hepatotoxicity), [[systemic lupus erythematosus\|SLE]] |
 | Rifampicin      | Red secretion, urine discolouration, [[p450]] induction                                    |
 | Pyrazinamide    | Hepatotoxicity, hyperuricemia -> [[Gout]] (Cat C: so isn't contraindicated but avoid it)   |
 | Ethambutol      | [[optic neuritis]], decrease visual acuity                                                 |
