@@ -25,6 +25,8 @@ But if not confirmed, then they do trans-perineal biopsy
 [[cancers metastasizing to the bone|Bone mets]]. 
 # Treatment
 GnRH analogue (e.g. Leuprolide, Goserelin): Used in continuous manner to work as antagonist. 
+Radical external beam radiotherapy- *small increased risk of colorectal and bladder cancer after this.*
+- *Men who develop radiation-induced enteropathy should have a flexible sigmoidoscopy to establish the cause of their symptoms.*
 
 ## Side effect
 Can cause [[gynaecomastia]], loss of libido, erectile dysfunction. 

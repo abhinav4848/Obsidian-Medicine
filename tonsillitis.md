@@ -2,9 +2,10 @@
 tags:
   - ent
   - infection
+urls:
+  - "[NICE Topics: Sore Throat Diagnosing the cause](https://cks.nice.org.uk/topics/sore-throat-acute/diagnosis/diagnosing-the-cause/)"
 ---
 Viral tonsillitis disappears in 10 days
-
 # When to give antibiotics
 1. Systemic upset due to sore throat
 2. u/l peri-tonsillitis
@@ -20,9 +21,9 @@ Centor criteria to know if viral or bacterial
 	Pen allergic: 5 days of erythromycin or clarithromycin
 ❌Amoxicillin should never be given in suspected [[epstein barr virus|glandular fever]].
 
-| Modified Centor for deciding Antibiotics (Need 3 out of 4)                                                                                                                                                                                                          | FeverPAIN Score (Higher predictability). Abx for score 4-5.                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| It predicts likelihood of Strep Pharyngitis. Can do delayed antibiotic. i.e. to observe for 3 days and then start abx.<br><br>- C: Cervical Lymphadenopathy,<br>- E: Exudates/pus,<br>- N: No associated cough<br>- T: Temperature > 38,<br>- Age 3-4: +1, >=45: -1 | - Fever in last 24 hrs<br>- Purulent tonsils<br>- Attended rapidly (Symptoms onset <= 3 days)<br>- Inflammation (severe) of tonsils<br>- No Cough/coryza |
+| Modified Centor for deciding Antibiotics (Need 3 out of 4)                                                                                                                                                                                                          | FeverPAIN Score (Higher predictability). Abx for score 4-5.                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| It predicts likelihood of Strep Pharyngitis. Can do delayed antibiotic. i.e. to observe for 3 days and then start abx.<br><br>- C: Cervical Lymphadenopathy,<br>- E: Exudates/pus,<br>- N: No associated cough<br>- T: Temperature > 38,<br>- Age 3-4: +1, >=45: -1 | - Fever in last 24 hrs<br>- Pus on tonsils<br>- Attended rapidly (Symptoms onset <= 3 days)<br>- Inflammation (severe) of tonsils<br>- No Cough/coryza (these are present in viral, not bacterial pharyngitis) |
 
 **Tonsillectomy**: Done if SIGN criteria satisfied
 \> 7 episodes in one year

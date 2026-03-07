@@ -148,13 +148,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shin lesions.md",
+                "file": "tonsillitis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "shin lesions"
+              "title": "tonsillitis"
             }
           },
           {
@@ -219,7 +219,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pyoderma ga",
+                "query": "tonsill",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -264,7 +264,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "shin lesions.md",
+                "file": "tonsillitis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,7 +292,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of shin lesions"
+              "title": "Graph of tonsillitis"
             }
           }
         ]
@@ -404,7 +404,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shin lesions.md",
+                "file": "tonsillitis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -414,7 +414,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for shin lesions"
+              "title": "Backlinks for tonsillitis"
             }
           }
         ]
@@ -436,8 +436,9 @@
   },
   "active": "1c99bd5b494011b0",
   "lastOpenFiles": [
-    "diabetes treatment.md",
+    "cancer- prostate.md",
     "shin lesions.md",
+    "diabetes treatment.md",
     "systemic lupus erythematosus.md",
     "erythema nodosum.md",
     "drugs contraindicated in pregnancy.md",
@@ -463,7 +464,6 @@
     "flow charts/deep vein thrombosis.canvas",
     "deep vein thrombosis.md",
     "statistics- study types.md",
-    "statistics- screening tests.md",
     "desktop.ini",
     "flow charts/shoulder exam.canvas",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
