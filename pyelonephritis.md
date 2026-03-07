@@ -15,7 +15,12 @@ Suspect Pyelonephritis if:
 - flu-like illness 
 - nausea/vomiting
 - shaking chills (rigors), OR [[fever & sepsis|temp]] > 37.9C, or <36C
-there are signs/symptoms of both systemic & bladder inflammation
+there are signs/symptoms of both systemic & bladder inflammation- These occur much more often in people with pyelonephritis than in those with LUTS. 
+
+Diagnose acute pyelonephritis/upper UTI in children with:
+- A fever >= 38°C + bacteriuria.
+- A fever < 38°C + loin pain/tenderness + bacteriuria.
+- *All other infants and children who have bacteriuria but no systemic symptoms or signs should be considered to have cystitis/lower UTI.*
 # Investigation
 Imaging not needed normally.
 -> It's requested only in complicated cases: fever > 48 hrs. despite antibiotics, Recurrent episodes, Suspect stone, DM, Immunocompromised -> Do USS (it can't diagnose pyelonephritis, but can exclude Hydronephrosis, stones). 
@@ -29,7 +34,7 @@ Women (not pregnant)/Men/Indwelling catheter:
 	1st line: Co-Amoxiclav 625mg TID 10 days + Oral Amoxicillin 500mg TDS 10 days
 	2nd line: 	Ciprofloxacin 500mg
 	3rd line: Trimethoprim 200mg BD 14 days
-Children:
+Children: 
 	Co-Amoxiclav > Cefalexin
 Pregnant w/o need for admission: 
 	Cefalexin (PO) 500mg BD for 7-10days 
