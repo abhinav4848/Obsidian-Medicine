@@ -3,6 +3,7 @@ tags:
   - infection
 aliases:
   - Chlamydia
+  - Chlamydia trachomatis
 ---
 Most prevalent sexually transmitted infection in the UK.
 1. [[Cervicitis]], [[pelvic inflammatory disease|Salpingitis]]: Painless ulcer, vaginal discharge, post-coital bleed, red & inflamed vulva, cervix, tender pelvis but non-tender abdomen.

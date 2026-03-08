@@ -8,9 +8,9 @@ urls:
   - https://www.nhs.uk/conditions/constipation/
   - https://www.nhs.uk/live-well/eat-well/digestive-health/how-to-get-more-fibre-into-your-diet/
   - https://cks.nice.org.uk/topics/constipation/management/adults/
+  - "[NICE CKS: Constipation in children](https://cks.nice.org.uk/topics/constipation-in-children/)"
 ---
 Abuse may lead to [[hypokalemia|hypokalaemia]]. _Simple constipation_ is usually relieved by increasing the intake of dietary fibre and fluids.
-
 # Short duration constipation 
 In the management of short-duration constipation (where dietary measures are ineffective) treatment should be started with a bulk-forming laxative, ensuring adequate fluid intake. If stools remain hard, add or switch to an osmotic laxative. If stools are soft but difficult to pass or the person complains of inadequate emptying, a stimulant laxative should be added.
 
@@ -40,6 +40,7 @@ Lactulose (esp in [[cirrhosis]]), Macrogols (cosmocol, movicol, laxido), and Mag
 >Lactulose is used to treat **hepatic encephalopathy** as it reduces the intestinal production and absorption of ammonia.
 
 - Lactulose is sickly sweet taste and needs ++fluids. Don't give in patients with inadequate fluid intake. Many patients at the end of life are not able to drink enough, causing colicky pain and little, if any, result for all osmotic laxatives. 
+- **==Paediatric laxatives==**: Give osmotic laxative like lactulose or macrogol which can be flavoured (chocolate/lemon/lime/plain i.e. tasteless). See [NICE: Constipation in children](https://cks.nice.org.uk/topics/constipation-in-children/) If constipation persists despite optimal doses of the macrogol, add a stimulant laxative.
 - Laxido/Movicol need +fluid (125ml/sachet); and are good for faecal impaction. 
 
 Macrogol Onset: 1-2 days. 
