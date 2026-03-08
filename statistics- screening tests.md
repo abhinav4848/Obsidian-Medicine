@@ -1,6 +1,8 @@
 ---
 tags:
   - stats
+revision counter: 1
+revision notes: Sensitivity vs specificity
 ---
 Patients and doctors need to know if a disease or condition is present or absent. Tests can be used to help us decide. Tests generally guide us by indicating how likely it is that the patient has the condition.  
   

@@ -11,7 +11,7 @@ Occurs in adolescence
 - Androgen levels are normal however. 
 - Blackhead is caused by plug within the pilosebaceous duct expanding to dilate (and block) the pilosebaceous orifice and gradually becoming extruded (exposed) -> inflammation leads to papules, pustules, nodules.
 - Severity of acne is directly related to the degree of secretion of sebum -> sebaceous gland becomes blocked.
-- Anaerobic bacterium Propionibacterium acnes.
+- Anaerobic bacterium *Propionibacterium acnes*.
 # Treatment
 Benzoyl peroxide used especially if papules and pustules are present. 
 ### Mild-Mod
@@ -20,7 +20,8 @@ Benzoyl peroxide used especially if papules and pustules are present.
 - [[retinoids|tretinoin]] + clindamycin (brand: Treclin gel), or
 - benzoyl peroxide + clindamycin (brand: Duac. Use OD)
 
-Any topical retinoid or BPO can be used on its own if combination products are not tolerated, or patient prefers to avoid retinoids/abx
+Any topical retinoid or BPO can be used on its own if combination products are not tolerated, or patient prefers to avoid retinoids/abx.
+For skin of colour/darker skin, Azelaic acid is useful as it has anti-pigmentary properties. It also has greater tolerability in sensitive skin. 
 ### Mod-Severe
 12 weeks FDC of topicals as above, or
 - Topical azelaic acid + either oral lymecycline 408mg or oral doxycycline 100mg

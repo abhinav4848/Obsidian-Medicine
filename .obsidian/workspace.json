@@ -163,13 +163,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "laxatives.md",
+                "file": "anticipatory meds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "laxatives"
+              "title": "anticipatory meds"
             }
           }
         ],
@@ -206,7 +206,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "laxative",
+                "query": "glycopy",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -251,7 +251,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "laxatives.md",
+                "file": "anticipatory meds.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,7 +279,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of laxatives"
+              "title": "Graph of anticipatory meds"
             }
           }
         ]
@@ -391,7 +391,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "laxatives.md",
+                "file": "anticipatory meds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -401,7 +401,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for laxatives"
+              "title": "Backlinks for anticipatory meds"
             }
           }
         ]
@@ -423,6 +423,11 @@
   },
   "active": "90d460e06f90929c",
   "lastOpenFiles": [
+    "statistics- screening tests.md",
+    "acne vulgaris.md",
+    "statistics- biases.md",
+    "placebo effect.md",
+    "laxatives.md",
     "ophthalmia neonatorum.md",
     "chlamydia.md",
     "gonorrhoea.md",
@@ -444,11 +449,6 @@
     "pelvic inflammatory disease.md",
     "pelvic exam.md",
     "kawasaki disease.md",
-    "rash.md",
-    "scoring system.md",
-    "curb-65.md",
-    "pyelonephritis.md",
-    "ferritin.md",
     "attachments/Pasted image 20260305124244.png",
     "flow charts/deep vein thrombosis.canvas",
     "desktop.ini",
