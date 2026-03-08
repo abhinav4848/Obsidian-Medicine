@@ -163,17 +163,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pcos.md",
+                "file": "vitals in children.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "pcos"
+              "title": "vitals in children"
+            }
+          },
+          {
+            "id": "496225c39f250347",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "copd- treatment.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "copd- treatment"
+            }
+          },
+          {
+            "id": "ec3aa33f24c577b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "housekeeping/study tips.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "study tips"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -206,7 +236,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rotterdam",
+                "query": "innovait",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -251,7 +281,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pcos.md",
+                "file": "housekeeping/study tips.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,7 +309,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of pcos"
+              "title": "Graph of study tips"
             }
           }
         ]
@@ -391,7 +421,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pcos.md",
+                "file": "housekeeping/study tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -401,7 +431,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pcos"
+              "title": "Backlinks for study tips"
             }
           }
         ]
@@ -421,10 +451,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "90d460e06f90929c",
+  "active": "ec3aa33f24c577b9",
   "lastOpenFiles": [
-    "irregular period.md",
+    "housekeeping/study tips.md",
+    "copd- treatment.md",
+    "mrc dyspnoea scale.md",
+    "renal stone.md",
+    "vitals in children.md",
     "pcos.md",
+    "irregular period.md",
     "congenital adrenal hyperplasia.md",
     "anticipatory meds.md",
     "metoclopramide.md",
@@ -444,11 +479,6 @@
     "cold sores.md",
     "hand foot mouth.md",
     "tonsillitis.md",
-    "fever & sepsis.md",
-    "vitals in children.md",
-    "cancer- prostate.md",
-    "shin lesions.md",
-    "diabetes treatment.md",
     "attachments/Pasted image 20260305124244.png",
     "flow charts/deep vein thrombosis.canvas",
     "desktop.ini",

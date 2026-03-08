@@ -16,7 +16,7 @@ https://duckduckgo.com/?q=akt+summary+reports&ia=web
 See section on data interpretation: https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing 
 
 ## InnovAiT
-https://journals.sagepub.com/home/ino (need to log in)
+https://journals.sagepub.com/home/ino (need to log in- access through society)
 All issues: https://journals.sagepub.com/loi/INO
 
 ## British Journal of General Practice
