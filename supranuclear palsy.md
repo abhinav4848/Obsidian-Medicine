@@ -4,7 +4,7 @@ tags:
 aliases:
   - progressive supranuclear palsy
 ---
-It can be mistaken for Parkinson's disease, frontotemporal dementia and Alzheimer's disease.
+It can be mistaken for Parkinson's disease, [[frontotemporal dementia]] and [[dementia|Alzheimer's disease]].
 
 ---
 [[parkinson's disease|Parkinson's]] + Vertical diplopia/vertical gaze palsy = supranuclear palsy.

@@ -3,7 +3,7 @@ tags:
   - psychiatry
 ---
 [[antipsychotic drugs|antipsychotics]] reduce, and [[anticholinergics]] predispose to delirium. 
-dementia lowers delirium threshold and vice versa. 
+[[dementia]] lowers delirium threshold and vice versa. 
 
 It is important to differentiate hypoactive delirium from catatonia (Treat with loraz or midaz) as treatment differs. [[antipsychotic drugs|antipsychotics]] improve symptoms in 75% of cases of delirium regardless of its type. 
 

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anticipatory meds.md",
+                "file": "frontotemporal dementia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "anticipatory meds"
+              "title": "frontotemporal dementia"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hicc",
+                "query": "hydrocepha",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "anticipatory meds.md",
+                "file": "frontotemporal dementia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -128,7 +128,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of anticipatory meds"
+              "title": "Graph of frontotemporal dementia"
             }
           }
         ]
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anticipatory meds.md",
+                "file": "frontotemporal dementia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for anticipatory meds"
+              "title": "Backlinks for frontotemporal dementia"
             }
           }
         ]
@@ -270,8 +270,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "97545d5ef17a2d64",
+  "active": "e8655fe722644f1f",
   "lastOpenFiles": [
+    "dementia.md",
+    "frontotemporal dementia.md",
+    "ptsd.md",
+    "supranuclear palsy.md",
+    "diabetes drugs.md",
+    "scoring system.md",
+    "anticipatory meds.md",
     "bronchiectasis.md",
     "cystic fibrosis.md",
     "guthrie test.md",
@@ -291,13 +298,6 @@
     "housekeeping/goal in managing a patient in GP setting..md",
     "housekeeping/gp guidelines- dermat.md",
     "housekeeping/study tips.md",
-    "mrc dyspnoea scale.md",
-    "renal stone.md",
-    "pcos.md",
-    "irregular period.md",
-    "congenital adrenal hyperplasia.md",
-    "anticipatory meds.md",
-    "metoclopramide.md",
     "attachments/Pasted image 20260305124244.png",
     "flow charts/deep vein thrombosis.canvas",
     "desktop.ini",
