@@ -18,6 +18,7 @@ Steatorrhea (Malabsorption), foul smelling, Respiratory infections, cough, delay
 - [[Meconeum Ileus]]: Abdominal distension and bilious vomiting.
 - Baby has yet to pass any meconeum. 
 
+[[bronchiectasis]]
 ## Infection
 - **1st decade**: staph > pseudomonas
 - **2nd decade onwards**: [[pseudomonas]] > staph

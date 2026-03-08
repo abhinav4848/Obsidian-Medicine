@@ -1,21 +1,24 @@
 ---
 tags:
   - respiratory
+urls:
+  - "[NICE CG117: Bronchiectasis (non-cystic fibrosis), acute exacerbation: antimicrobial prescribing](https://www.nice.org.uk/guidance/ng117)"
+aliases:
+  - Bronchiectasis (non-cystic fibrosis)
 ---
 Permanent dilatation of airway 2* to chronic inflammation or infection
-[[haemophilus influenzae|HiB]] > Pseudomonas, Klebsiella, Strep pneumoniae
-
+[[haemophilus influenzae|HiB]] > Pseudomonas, Klebsiella, Strep pneumoniae 
 # Predisposing features
-Patients may have a history of previous infections (e.g. [[Tuberculosis]], measles), bronchial obstruction or ciliary dyskinetic syndromes e.g. Kartagener's syndrome
+Patients may have a history of previous infections (e.g. [[Tuberculosis]], [[measles]]), bronchial obstruction or ciliary dyskinetic syndromes e.g. Kartagener's syndrome
 # Clinical features 
 - Chronic cough -> Excessive sputum production
 - Fever with shivering, night sweats, patients have dental decay (alcoholics, children)
 - Cachexia (weight loss), SOB.
-- Coarse crackles, heard in early inspiration in lower zones
+- Coarse crackles, heard in early inspiration in lower zones 
 - Large airway Ronchi
 - Wheeze
 ## Examination
-- Clubbing of fingers (not specific, also seen  in [[lung fibrosis]])
+- Clubbing of fingers (not specific, also seen in [[lung fibrosis]])
 - Percussion: dullness
 - Auscultation: Coarse crepitation.
 # Investigation
@@ -23,10 +26,15 @@ Patients may have a history of previous infections (e.g. [[Tuberculosis]], measl
 
 Gold standard -> HRCT.
 1. Dilatation of the bronchial walls seen as
-	1. Tramlines in long axis -> Parallel walls
+	1. Tramlines in long axis -> Parallel walls 
 	2. Signet ring sign-> Bronchial diameter more than accompanying pulmonary artery diameter,
 2. Lack of bronchial tapering
 3. Bronchial wall thickening
 4. Patchy opacities.
 
 Industrial disease-> inform coroner as compensation is available.
+
+# Treatment
+See 3-page Visual summary at: [NICE CG117: Bronchiectasis- acute exacerbation](https://www.nice.org.uk/guidance/ng117)
+Separe
+Amox/Doxy/clarithromycin for 7-14 days
