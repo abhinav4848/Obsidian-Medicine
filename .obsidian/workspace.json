@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bronchiectasis.md",
+                "file": "anticipatory meds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "bronchiectasis"
+              "title": "anticipatory meds"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cystic fi",
+                "query": "hicc",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "bronchiectasis.md",
+                "file": "anticipatory meds.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -128,7 +128,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of bronchiectasis"
+              "title": "Graph of anticipatory meds"
             }
           }
         ]
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bronchiectasis.md",
+                "file": "anticipatory meds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bronchiectasis"
+              "title": "Backlinks for anticipatory meds"
             }
           }
         ]
@@ -270,8 +270,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "66b70f772136150d",
+  "active": "97545d5ef17a2d64",
   "lastOpenFiles": [
+    "bronchiectasis.md",
     "cystic fibrosis.md",
     "guthrie test.md",
     "bronchiolitis.md",
@@ -297,7 +298,6 @@
     "congenital adrenal hyperplasia.md",
     "anticipatory meds.md",
     "metoclopramide.md",
-    "extrapyramidal side-effects.md",
     "attachments/Pasted image 20260305124244.png",
     "flow charts/deep vein thrombosis.canvas",
     "desktop.ini",

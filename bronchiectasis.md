@@ -36,5 +36,5 @@ Industrial disease-> inform coroner as compensation is available.
 
 # Treatment
 See 3-page Visual summary at: [NICE CG117: Bronchiectasis- acute exacerbation](https://www.nice.org.uk/guidance/ng117)
-Separe
+Separate plan for adults and young people
 Amox/Doxy/clarithromycin for 7-14 days
