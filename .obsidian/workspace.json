@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frontotemporal dementia.md",
+                "file": "childhood syndromes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "frontotemporal dementia"
+              "title": "childhood syndromes"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hydrocepha",
+                "query": "prader will",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "frontotemporal dementia.md",
+                "file": "childhood syndromes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -128,7 +128,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of frontotemporal dementia"
+              "title": "Graph of childhood syndromes"
             }
           }
         ]
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frontotemporal dementia.md",
+                "file": "childhood syndromes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for frontotemporal dementia"
+              "title": "Backlinks for childhood syndromes"
             }
           }
         ]
@@ -270,10 +270,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e8655fe722644f1f",
+  "active": "97545d5ef17a2d64",
   "lastOpenFiles": [
-    "dementia.md",
+    "attachments/patau vs edward syndrome.png",
+    "childhood syndromes.md",
+    "learning difficulty.md",
+    "fragile X Syndrome.md",
     "frontotemporal dementia.md",
+    "dementia.md",
     "ptsd.md",
     "supranuclear palsy.md",
     "diabetes drugs.md",
@@ -294,10 +298,6 @@
     "vitals in children.md",
     "copd- treatment.md",
     "housekeeping/gp guidelines- ophthal.md",
-    "gp guidelines- older adults.md",
-    "housekeeping/goal in managing a patient in GP setting..md",
-    "housekeeping/gp guidelines- dermat.md",
-    "housekeeping/study tips.md",
     "attachments/Pasted image 20260305124244.png",
     "flow charts/deep vein thrombosis.canvas",
     "desktop.ini",
@@ -322,7 +322,6 @@
     "attachments/MCP & MTP squeeze test for rheumatoid arthritis.jpg",
     "attachments/guidance on plasma viscosity.pdf",
     "attachments/erythema nodosum 2.png",
-    "attachments/breast cancer referral (summary image).png",
     "flow charts/paeds examination.canvas",
     "flow charts/h. pylori treatment flowchart.canvas",
     "flow charts/contraception after delivery.canvas",
