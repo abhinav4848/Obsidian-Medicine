@@ -18,16 +18,15 @@ Use QT nomogram to check if normal.
 **Rule of thumb**: Anything less than 420ms should be okay, or QT should be less than half the preceding RR interval. 
 
 # Drugs
-- amiodarone, sotalol, class 1a [[antiarrhythmic drugs]]
-- [[tricyclic antidepressants]], SSRI (esp. [[citalopram]])
+- [[amiodarone]], sotalol, class 1a [[antiarrhythmic drugs]]
+- [[tricyclic antidepressants]], SSRI (esp. [[citalopram]] which is metabolised by CYP2D19 gene)
 - Methadone (Opioid agonist)
 - [[quinine]], Quinidine 
 - terfenadine #antifungal 
-- Macrolides (Erythromycin) #abx
+- [[macrolides]]: Erythromycin, [[copd- treatment#Room for prophylactic Azithromycin linked|Azithromycin in COPD treatment]] #abx
 - [[Haloperidol]] (anti-psychotic)
 - [[Ondansetron]]
 - Quinolones ([[ciprofloxacin]]) #abx 
-- [[copd- treatment#Room for prophylactic Azithromycin|Azithromycin in COPD treatment]] #abx
 
 # Other Causes of QT prolongation
 - **Electrolyte**: hypocalcemia, [[hypokalemia|hypokalaemia]], hypomagnesaemia

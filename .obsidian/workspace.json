@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "immunisation schedule (paeds).md",
+                "file": "h. pylori.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "immunisation schedule (paeds)"
+              "title": "h. pylori"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "immunisation",
+                "query": "long QT",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "immunisation schedule (paeds).md",
+                "file": "h. pylori.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -144,7 +144,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of immunisation schedule (paeds)"
+              "title": "Graph of h. pylori"
             }
           }
         ]
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "immunisation schedule (paeds).md",
+                "file": "h. pylori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +266,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for immunisation schedule (paeds)"
+              "title": "Backlinks for h. pylori"
             }
           }
         ]
@@ -288,11 +288,22 @@
   },
   "active": "f7de6ff211da9e28",
   "lastOpenFiles": [
-    "immunisation in adults.md",
+    "flow charts/h. pylori treatment flowchart.canvas",
+    "h. pylori.md",
+    "macrolides.md",
+    "dyspepsia.md",
+    "drugs contraindicated in pregnancy.md",
+    "qt prolongation.md",
+    "copd- treatment.md",
+    "antiarrhythmic drugs.md",
+    "ondansetron.md",
+    "pain ladder- neuropathic.md",
+    "duloxetine.md",
+    "incontinence- adult.md",
     "immunisation schedule (paeds).md",
+    "immunisation in adults.md",
     "miscarriage.md",
     "prostate.md",
-    "incontinence- adult.md",
     "haemochromatosis.md",
     "cardiomyopathy.md",
     "acromegaly.md",
@@ -303,17 +314,6 @@
     "diarrhoea.md",
     "cyclothymia.md",
     "housekeeping/gp guidelines- mental health.md",
-    "alcohol.md",
-    "disulfiram.md",
-    "otitis.md",
-    "ciprofloxacin.md",
-    "fluroquinolone.md",
-    "pharmacy first.md",
-    "housekeeping/rules for this vault.md",
-    "shingles.md",
-    "over the counter items.md",
-    "inflammatory bowel disease.md",
-    "scoring system.md",
     "attachments/patau vs edward syndrome.png",
     "attachments/Pasted image 20260305124244.png",
     "flow charts/deep vein thrombosis.canvas",
@@ -340,7 +340,6 @@
     "attachments/guidance on plasma viscosity.pdf",
     "attachments/erythema nodosum 2.png",
     "flow charts/paeds examination.canvas",
-    "flow charts/h. pylori treatment flowchart.canvas",
     "flow charts/contraception after delivery.canvas",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "_chicken Pox treatment flowchart (Work in progress).canvas"

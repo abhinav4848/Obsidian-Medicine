@@ -37,7 +37,7 @@ Eosinophil counts predict the effectiveness of inhaled corticosteroids. However,
 - Eosinophil < 0.1: Unlikely to benefit from ICS. These patients would have bacteria in lungs, notably haemophilus. With this comes increased risk of bacterial infection and pneumonia. If all criteria met, can benefit from abx prophylaxis. 
 - Eosinophil >= 0.3, These patients have higher markers of type-2 inflammation in the airways & will benefit from ICS. 
 
-# Room for prophylactic Azithromycin 
+# Room for prophylactic Azithromycin  %%linked%%
 Azithromycin needs [[asthma- drugs|significant workup]] before starting so specialist only. 
 - No [[smoking]], eosinophil < 0.1, optimised treatment but still frequent exacerbations
 	- Not recommended for people who still smoke. 
