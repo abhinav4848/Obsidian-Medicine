@@ -7,6 +7,10 @@ aliases:
   - Otosclerosis
   - Cholesteatoma
   - Presbycusis
+revision counter: 1
+revision notes: Rinne vs weber & Weber CSSO mnemonic
+urls:
+  - "[NICE CKS: Hearing loss in adults](https://cks.nice.org.uk/topics/hearing-loss-in-adults/diagnosis/clinical-features/)"
 ---
 *See [[vertigo- test & causes|Vertigo]].* 
 
@@ -53,4 +57,4 @@ Weber:
 - SNHL: Lateralize to opposite side.
 
 SNHL needs MRI
-Weber: CSSO- CHL same side, SNHL opp side. #mnemonic 
+Weber: **CSSO**- CHL same side, SNHL opp side. #mnemonic 

@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hearing loss.md",
+                "file": "malaria.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hearing loss"
+              "title": "malaria"
             }
           }
         ],
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hearing ",
+                "query": "malaria",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hearing loss.md",
+                "file": "malaria.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of hearing loss"
+              "title": "Graph of malaria"
             }
           }
         ]
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hearing loss.md",
+                "file": "malaria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hearing loss"
+              "title": "Backlinks for malaria"
             }
           }
         ]
@@ -303,6 +303,11 @@
   },
   "active": "933dbcacf735fbc6",
   "lastOpenFiles": [
+    "lichen planus.md",
+    "vertigo- test & causes.md",
+    "hearing loss.md",
+    "audiograms.md",
+    "cancer- ent.md",
     "statistics- risk reduction, nnt, odds ratio.md",
     "talking therapies.md",
     "ptsd.md",
@@ -325,11 +330,6 @@
     "haemochromatosis.md",
     "cardiomyopathy.md",
     "acromegaly.md",
-    "toxins.md",
-    "tricyclic antidepressants.md",
-    "anticholinergics.md",
-    "lithium.md",
-    "diarrhoea.md",
     "attachments/patau vs edward syndrome.png",
     "attachments/Pasted image 20260305124244.png",
     "flow charts/deep vein thrombosis.canvas",
