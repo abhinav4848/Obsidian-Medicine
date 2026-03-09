@@ -4,10 +4,13 @@ tags:
 urls:
   - "[LMSG guidance on Osteoporosis](https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/search/?_search_terms=osteoporosis)"
   - https://bnf.nice.org.uk/treatment-summaries/osteoporosis/
+  - "[NICE CG146- Osteoporosis: assessing the risk of fragility fracture](https://www.nice.org.uk/guidance/cg146)"
 ---
 ![[calcium metabolism- table of contents]]
 
-Osteoporosis occurs in up to 30% of men and women with [[inflammatory bowel disease]]- Reduced [[vitamin-d|vit D]] and [[calcium]] absorption from small intestine. They are also on long term steroids. Chronic inflammatory state also activates osteoclasts. 
+History of GI disease/malabsorption syndromes, including [[inflammatory bowel disease|IBD]], [[coeliac disease]], steatorrhoea and blind loop syndrome, are all at increased fracture risk. 
+- Reduced [[vitamin-d|vit D]] and [[calcium]] absorption from small intestine. 
+- IBD, RA: They are also on long term steroids. Chronic inflammatory state also activates osteoclasts. 
 # Clinical Scenarios
 1. Long term use of [[corticosteroid|steroids]] can cause osteoporosis and make teeth lose. So do DEXA for them.
 2. For postmenopausal women, or men >=50yo -> 
@@ -21,7 +24,7 @@ Osteoporosis occurs in up to 30% of men and women with [[inflammatory bowel dise
 4. **Other drugs**: PPIs, [[diabetes drugs|Glitazones]], SSRIs, Antiepileptics, Long term Heparin, [[cancer- breast (treatment)|aromatase inhibitors]]: Anastrozole (prevents formation of Oestrogen). 
 # How to calculate Osteoporosis
 If no h/o #, use Fracture risk assessment tool. #named 
-If h/o # or risk assessment (Q-fracture/FRAX) > 10%, use DEXA (to obtain the T-score).
+If h/o # or risk assessment (Q-fracture/[FRAX](https://www.sheffield.ac.uk/FRAX/)) > 10%, use DEXA (to obtain the T-score).
 	If patient on [[bisphosphonates|alendronate]], do DEXA 3-5 years.
 	If stopped taking, do DEXA after 2 years
 ## T-Score understand and treatment

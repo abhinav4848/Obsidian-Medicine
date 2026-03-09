@@ -11,11 +11,12 @@ Smoking, DM, Chronic pancreatitis, age, HNPCC, BRCA2, MEN, KRAS
 *(alcohol is not an independent risk factor)*
 
 # Clinical Features
-- Painless jaundice is the classical presentation (there can be epigastric pain radiating to back and worse on lying flat or after eating) #important 
+- Painless jaundice is the classical presentation #important 
 - Weight loss, 
 - anorexia, 
-- epigastric pain, 
+- epigastric pain- radiating to back and worse on lying flat or after eating 
 - back pain, 
+- nausea, vomiting, diarrhoea, constipation
 - Loss of exocrine function: steatorrhea (pale stool),
 - Loss of endocrine function: recent onset DM (paraneoplastic syndrome),
 - Cholestatic LFTs (raised ALP and γGT) -> cuz pancreatic head compressed the Bile duct. 
@@ -28,7 +29,7 @@ Smoking, DM, Chronic pancreatitis, age, HNPCC, BRCA2, MEN, KRAS
 >[!info]
 >**Courvoisier's law** states that in the presence of painless obstructive jaundice, a palpable gallbladder is unlikely to be due to gallstones.
 # Investigation 
-- Most initial/most appropriate investigation: HRCT abdomen > if no CT, then USG. If CT normal -> ERCP. 
+- Most initial/most appropriate investigation: HRCT abdomen > if no CT, then USS. If CT normal -> ERCP. 
 	- imaging may demonstrate the 'double duct' #named sign - the presence of simultaneous dilatation of the common bile and pancreatic ducts
 - CA 19-9: Non-specific but helps assess prognosis. [[tumour marker]]. 
 

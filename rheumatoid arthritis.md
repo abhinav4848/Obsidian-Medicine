@@ -45,5 +45,5 @@ A variety of respiratory problems may be seen in patients with rheumatoid arthri
 
 # Drug side effects
 [[Methotrexate]]: Myelosuppression, Liver cirrhosis, [[interstitial lung disease vs pneumonitis|pneumonitis]]  
-Sulfasalazine: Rashes, Oligospermia, Heinz body anaemia, [[interstitial lung disease vs pneumonitis|interstitial lung disease]] 
+Sulfasalazine ([BNF](https://bnf.nice.org.uk/drugs/sulfasalazine/#side-effects)): Rashes, Oligospermia, Heinz body anaemia, [[interstitial lung disease vs pneumonitis|interstitial lung disease]] 
 [[Leflunomide]]: Liver impairment, Interstitial lung disease (interstitial pnuemonitis), Hypertension 

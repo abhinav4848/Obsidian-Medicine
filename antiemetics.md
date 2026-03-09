@@ -82,7 +82,7 @@ Benzodiazepines- Loraz
 Atypical [[antipsychotic drugs|antipsychotics]]- Olanzapine
 - Central action by inhibiting dopamine, serotonin, histamine
 
-See [[anticipatory meds|drugs in palliative care]] for Haloperidol, Levomepromazine. 
+See [[anticipatory meds in palliative care|drugs in palliative care]] for Haloperidol, Levomepromazine. 
 
 # Notes
 - We can combine different classes of antiemetics for patients who are undergoing chemo & have not responded to initial treatments. 

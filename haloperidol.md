@@ -11,7 +11,7 @@ Antagonist on D2, alpha-1, sigma receptors.
 2. Management of intractable hiccups (not confirmed in Randomised control trials). 
 3. metabolic causes of [[antiemetics|nausea]] 
 4. Settles agitation and [[antipsychotic drugs|psychosis]] including hallucinations. 
-5. first-line antipsychotic medication recommended for the management of delirium in [[anticipatory meds|palliative care]] patients. 
+5. first-line antipsychotic medication recommended for the management of delirium in [[anticipatory meds in palliative care|palliative care]] patients. 
 ## Caution
 Use caution in dementia (increased mortality and stroke risk)
 Reduce starting dose in renal impairment
