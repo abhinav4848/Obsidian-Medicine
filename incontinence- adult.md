@@ -34,7 +34,7 @@ Due to bladder outlet obstruction.
 - Disopyramide
 - [[prostate|BPH]]- causes both storage, and voiding symptoms. 
 - Codeine can cause urinary retention. 
-### Rx: 
+### Treatment 
 Alpha blockers:
 - If normotensive: Tamsulosin
 - HTN: Doxazosin, Alfuzosin

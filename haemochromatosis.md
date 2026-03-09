@@ -11,9 +11,9 @@ It's most prevalent in people of European descent, making it more common than [[
 # Clinical Features
 - Early symptoms: Fatigue, erectile dysfunction, arthralgia (often of hands).
 - Bronze skin pigmentation #named 
-- Diabetes mellitus
+- [[diabetes treatment|Diabetes Mellitus]]
 - Liver: Stigmata of chronic liver disease- Hepatomegaly, [[Cirrhosis]], Hepatocellular deposition
-- Cardiac failure due to dilated cardiomyopathy. 
+- Cardiac failure due to dilated [[cardiomyopathy]]. 
 - Hypogonadism (due to cirrhosis & pituitary dysfunction- hypogonadotropic hypogonadism).
 - Arthritis
 
@@ -23,9 +23,9 @@ Consider hemochromatosis in a person with T2DM & raised Liver functions (ALT>AST
 ## Important
 #important 
 
-| **Reversible complications**            | **Irreversible complications**                                                                  |
-| --------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| - Cardiomyopathy<br>- Skin pigmentation | - Liver cirrhosis**<br>- Diabetes mellitus<br>- Hypogonadotrophic hypogonadism<br>- Arthropathy |
+| **Reversible complications**                | **Irreversible complications**                                                                  |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| - [[cardiomyopathy]]<br>- Skin pigmentation | - Liver cirrhosis**<br>- Diabetes mellitus<br>- Hypogonadotrophic hypogonadism<br>- Arthropathy |
 There are rare cases of families with classic features of genetic haemochromatosis but no mutation in the HFE gene.
 
 ** Whilst elevated liver function tests and hepatomegaly may be reversible, cirrhosis is not.

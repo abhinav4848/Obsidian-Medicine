@@ -6,17 +6,26 @@ aliases:
   - Pneumococcal polysaccharide vaccine
   - vaccines
   - adult vaccination
+urls:
+  - "[NHS immunisation schedule for doctors](https://www.gov.uk/government/publications/the-complete-routine-immunisation-schedule)"
 ---
 *See [[vaccine types]] & [[immunisation schedule (paeds)|immunisation schedule]]*. 
+
+# Adult routine vaccination
+- 65yo- Given PPV 23 or PCV20 if PPV23 stock is over
+- \>65yo- Influenza each September
+- Individuals turning 65 from 1 Sept each year (commencing 1 Sept 2023 onwards)- Shingles
+- 70 to 79 years of age (and those severely immunosuppressed over 18 years of age)- Shingles
+- 75yo- RSV
 # Pneumococcal Vaccine
-Usually a one-off but every 5 years if spleen/CKD.
+Usually a one-off but every 5 years if spleen/CKD. 
 ### Two types
 **1. Pneumococcal conjugate vaccine (PCV)**: 
 - children age 16 weeks, then 12-13 months
 
 **2. Pneumococcal polysaccharide vaccine (PPV)**
-- adults > 65yo,
-- adults with chronic conditions (COPD, bronchiectasis, CF, ILD)
+- adults > 65yo 
+- adults with chronic conditions ([[COPD]], [[bronchiectasis]], [[cystic fibrosis|CF]], [[interstitial lung disease vs pneumonitis|ILD]])
 
 ### Conditions to give the vaccine
 
@@ -35,6 +44,7 @@ Usually a one-off but every 5 years if spleen/CKD.
 ## From OBG
 Vaccination of Pregnants: Influenza + pertussis (DPT) -> b/w 20 - 32 weeks.
 	Cough and sneeze vaccine #mnemonic 
+RSV after 28 weeks PoG
 
 # Paeds vaccination
 [[immunisation schedule (paeds)|immunisation schedule]]

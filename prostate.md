@@ -59,7 +59,7 @@ Cloudy urine and foul smell, abdominal pain.
 Will be tender on DRE. 
 ## Treatment
 If patient normal: E coli
-	**Rx**: Quinolone ([[ciprofloxacin]], ofloxacin) > Co-trimoxazole #abx 
+	**Rx**: [[fluroquinolone|Quinolone]] ([[ciprofloxacin]], ofloxacin) > Co-trimoxazole #abx 
 	14 day course of Quinolone for Prostatitis: Cipro, Ofloxacin empirically
 	Quinolones penetrate the prostate better than other antibiotics. 
 If with calculus
