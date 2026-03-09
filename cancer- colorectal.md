@@ -1,6 +1,7 @@
 ---
 aliases:
   - Colorectal cancer
+  - Bowel cancer
 tags:
   - cancer
   - gastro

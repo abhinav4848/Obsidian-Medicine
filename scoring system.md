@@ -50,7 +50,7 @@ aliases:
 | FAST*                                  | Alcohol screening tool                                                                                                                                                 |
 | FRAX                                   | Risk assessment tool developed by WHO which calculates a patients 10-year risk of developing an osteoporosis related fracture                                          |
 | GAD-7, or GAD-2                        | Used as a screening tool and severity measure for [[panic attacks\|Generalised Anxiety Disorder]]                                                                      |
-| Gleason score                          | Indicates prognosis in prostate cancer                                                                                                                                 |
+| Gleason score                          | Indicates prognosis in [[cancer- prostate\|Prostate Cancer]]                                                                                                           |
 | GPCOG ([GPCOG](https://gpcog.com.au/)) | General Practitioner Assessment of Cognition: Screening tool used to assess cognitive impairment in patients suspected of having [[dementia]].                         |
 | HAD                                    | Hospital Anxiety and Depression (HAD) scale - assesses severity of anxiety and depression symptoms                                                                     |
 | IPSS                                   | International prostate symptom score                                                                                                                                   |
@@ -59,9 +59,11 @@ aliases:
 | NYHA                                   | Heart failure severity scale                                                                                                                                           |
 | Orbit Score                            | **Assess risk of bleeding:** <br>- Older >=75yo<br>- Reduced Hb (<13 men, <12 women)<br>- Bleeding history<br>- Insufficient eGFR <60<br>- Treatment with antiplatelet |
 | PHQ-9                                  | Patient Health Questionnaire - assesses severity of [[depression]] symptoms ([MD Calc](https://www.mdcalc.com/calc/1725/phq9-patient-health-questionnaire9))           |
-| Ranson criteria                        | Acute pancreatitis                                                                                                                                                     |
+| Ranson criteria                        | [[pancreatitis\|acute pancreatitis]]                                                                                                                                   |
 | SCOFF                                  | Questionnaire used to detect eating disorders and aid treatment                                                                                                        |
 | Smith scale                            | Hepatic encephalopathy                                                                                                                                                 |
 | Waterlow score                         | Assesses the risk of a patient developing a pressure sore                                                                                                              |
 | Wells score                            | Helps estimate the risk of a patient having a [[deep vein thrombosis]]<br><br>PERC: PE rule out criteria.                                                              |
+| Carr-Hill                              | Assess Practice funding                                                                                                                                                |
+| Duke's staging                         | Stage [[cancer- colorectal\|Bowel cancer]]. Not used any more                                                                                                          |
 
