@@ -41,3 +41,16 @@ Confirm diagnosis with MRI of internal auditory meatus & audiogram: low frequenc
 Age related hearing loss, affects sounds at high frequency - Downward-sloping pure tone thresholds. Difficulty differentiating 's' and 'th', and finding women's voices more difficult to hear than men's. Word recognition is relatively preserved, but many eventually develop poor word distinction (particularly in crowded, noisy settings).
 ### Osteoma
 Cold water swimmers. Ear pain. Irregularly shaped, osseous tumours in the ear canal
+
+
+# Tuning fork test
+Rinne:
+- AC > BC: Either Normal, or SNHL on that side
+- BC > AC: Either CHL, or Severe SNHL on that side.
+
+Weber:
+- CHL: Lateralize to same side.
+- SNHL: Lateralize to opposite side.
+
+SNHL needs MRI
+Weber: CSSO- CHL same side, SNHL opp side. #mnemonic 
