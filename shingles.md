@@ -1,6 +1,5 @@
 ---
 aliases:
-  - shingles
   - HSV
   - herpes zoster
   - varicella-zoster virus

@@ -6,7 +6,7 @@ tags:
 
 ---
 # Cyclothymia
-Cyclothymia (cyclothymic disorder) is a chronic mood disorder characterised by long-term mood instability with recurrent hypomanic symptoms and mild depressive symptoms that do not meet full criteria for hypomania or major depressive episodes.
+Cyclothymia (cyclothymic disorder) is a chronic mood disorder characterised by long-term mood instability with recurrent hypomanic symptoms and mild depressive symptoms that do not meet full criteria for hypomania or major depressive episodes. 
 # Key features
 - **Duration:**
     - ≥ **2 years** in adults (≥ 1 year in children/adolescents)
@@ -36,4 +36,4 @@ Cyclothymia (cyclothymic disorder) is a chronic mood disorder characterised by l
 
 ---
 # Reference
-1. Included in GP curriculum: https://www.rcgp.org.uk/getmedia/486cdb13-9e13-4160-9484-48759feadb55/Mental-Health-SCCG-2025.pdf 
+1. Included in GP curriculum: [[gp guidelines- mental health]]
