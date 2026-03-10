@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asthma- diagnosis (algorithm).md",
+                "file": "steroids in dermatology.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "asthma- diagnosis (algorithm)"
+              "title": "steroids in dermatology"
             }
           }
         ],
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "asthma",
+                "query": "clobetasone",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "asthma- diagnosis (algorithm).md",
+                "file": "steroids in dermatology.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of asthma- diagnosis (algorithm)"
+              "title": "Graph of steroids in dermatology"
             }
           }
         ]
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asthma- diagnosis (algorithm).md",
+                "file": "steroids in dermatology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for asthma- diagnosis (algorithm)"
+              "title": "Backlinks for steroids in dermatology"
             }
           }
         ]

@@ -27,6 +27,7 @@ revision counter: 1
 # Diagnose Asthma in Adults
 NICE has adopted a stepwise approach to diagnostic testing: you do a test; if it is positive, asthma is confirmed and no further testing is needed; if it is negative, you proceed to the next test, and so on.
 >[!Notice]- Algorithm
+>[NG245](https://www.nice.org.uk/guidance/ng245/resources/bts-nice-and-sign-algorithm-a-summary-of-objective-tests-for-diagnosing-asthma-pdf-13556516365)
 >![[diagnose asthma in people over 16yo.jpg]]
 ## First line investigation
 Measure eosinophil count OR Fractional Nitric Oxide ([[asthma- investigations#Fractional exhaled nitric oxide (FeNO)|FeNO]])
