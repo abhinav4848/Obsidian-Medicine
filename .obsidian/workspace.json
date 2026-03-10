@@ -51,9 +51,24 @@
               "icon": "lucide-file",
               "title": "steroids in dermatology"
             }
+          },
+          {
+            "id": "fb6d84d6cf5164b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "forms.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "forms"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,8 +132,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -131,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "steroids in dermatology.md",
+                "file": "forms.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,7 +173,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of steroids in dermatology"
+              "title": "Graph of forms"
             }
           }
         ]
@@ -271,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "steroids in dermatology.md",
+                "file": "forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +295,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for steroids in dermatology"
+              "title": "Backlinks for forms"
             }
           }
         ]
@@ -301,8 +315,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "933dbcacf735fbc6",
+  "active": "fb6d84d6cf5164b2",
   "lastOpenFiles": [
+    "steroids in dermatology.md",
+    "forms.md",
     "asthma- diagnosis (algorithm).md",
     "interstitial lung disease vs pneumonitis.md",
     "heart failure.md",
@@ -327,8 +343,6 @@
     "cancer- breast (treatment).md",
     "cancer- drugs involved in gynae cancers.md",
     "osteoporosis.md",
-    "osteomalacia.md",
-    "anticipatory meds in palliative care.md",
     "flow charts/h. pylori treatment flowchart.canvas",
     "attachments/patau vs edward syndrome.png",
     "attachments/Pasted image 20260305124244.png",
