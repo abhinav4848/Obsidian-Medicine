@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "heart failure.md",
+                "file": "asthma- diagnosis (algorithm).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "heart failure"
+              "title": "asthma- diagnosis (algorithm)"
             }
           }
         ],
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heart failure",
+                "query": "asthma",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "heart failure.md",
+                "file": "asthma- diagnosis (algorithm).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of heart failure"
+              "title": "Graph of asthma- diagnosis (algorithm)"
             }
           }
         ]
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "heart failure.md",
+                "file": "asthma- diagnosis (algorithm).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for heart failure"
+              "title": "Backlinks for asthma- diagnosis (algorithm)"
             }
           }
         ]
@@ -303,8 +303,10 @@
   },
   "active": "933dbcacf735fbc6",
   "lastOpenFiles": [
-    "calcium channel blockers.md",
+    "asthma- diagnosis (algorithm).md",
+    "interstitial lung disease vs pneumonitis.md",
     "heart failure.md",
+    "calcium channel blockers.md",
     "diabetes drugs.md",
     "cancer- lymphoma.md",
     "cancer & associations.md",
@@ -327,8 +329,6 @@
     "osteoporosis.md",
     "osteomalacia.md",
     "anticipatory meds in palliative care.md",
-    "syringe driver.md",
-    "diabetes in palliative care.md",
     "flow charts/h. pylori treatment flowchart.canvas",
     "attachments/patau vs edward syndrome.png",
     "attachments/Pasted image 20260305124244.png",
