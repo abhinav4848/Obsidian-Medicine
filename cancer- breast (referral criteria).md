@@ -17,7 +17,7 @@ If the person concerned only has one first-degree or second-degree relative diag
 - bilateral breast cancer
 - male breast cancer
 - ovarian cancer (Breast & Ovary are BRCA 1)
-- Jewish ancestry
+- Jewish ancestry (5-10x more chance of carrying BRCA1 or 2)
 - sarcoma in a relative younger than age 45 years
 - glioma or childhood adrenal cortical carcinomas
 - complicated patterns of multiple cancers at a young age

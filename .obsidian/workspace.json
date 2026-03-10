@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cancer- pancreas.md",
+                "file": "heart failure.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cancer- pancreas"
+              "title": "heart failure"
             }
           }
         ],
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pancreatic",
+                "query": "heart failure",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cancer- pancreas.md",
+                "file": "heart failure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cancer- pancreas"
+              "title": "Graph of heart failure"
             }
           }
         ]
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cancer- pancreas.md",
+                "file": "heart failure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cancer- pancreas"
+              "title": "Backlinks for heart failure"
             }
           }
         ]
@@ -301,8 +301,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e8655fe722644f1f",
+  "active": "933dbcacf735fbc6",
   "lastOpenFiles": [
+    "calcium channel blockers.md",
+    "heart failure.md",
+    "diabetes drugs.md",
+    "cancer- lymphoma.md",
+    "cancer & associations.md",
+    "sjogren's syndrome.md",
+    "hepatitis viruses.md",
+    "cancer- breast (referral criteria).md",
+    "genetic anticipation.md",
+    "fragile X Syndrome.md",
+    "cancer- pancreas.md",
     "chronic pancreatitis.md",
     "spirometry.md",
     "sarcoidosis.md",
@@ -311,7 +322,6 @@
     "methotrexate.md",
     "cancer- screening programs.md",
     "guthrie test.md",
-    "cancer- breast (referral criteria).md",
     "cancer- breast (treatment).md",
     "cancer- drugs involved in gynae cancers.md",
     "osteoporosis.md",
@@ -319,16 +329,6 @@
     "anticipatory meds in palliative care.md",
     "syringe driver.md",
     "diabetes in palliative care.md",
-    "malaria.md",
-    "lichen planus.md",
-    "vertigo- test & causes.md",
-    "hearing loss.md",
-    "audiograms.md",
-    "cancer- ent.md",
-    "statistics- risk reduction, nnt, odds ratio.md",
-    "talking therapies.md",
-    "ptsd.md",
-    "qt prolongation.md",
     "flow charts/h. pylori treatment flowchart.canvas",
     "attachments/patau vs edward syndrome.png",
     "attachments/Pasted image 20260305124244.png",

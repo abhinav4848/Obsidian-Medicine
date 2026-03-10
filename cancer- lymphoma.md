@@ -13,13 +13,12 @@ tags:
 Lymphoma → cancer of lymphocytes that (mostly) form solid tumours in lymph nodes or tissues. 
 Leukaemia → cancer of lymphocytes that circulate in blood and bone marrow. 
 # HL
-Type of cancer originating in the lymphatic system. 
-
-Reed-Sternberg cells (Multinucleated giant cells)  
-Bimodal age (<25 or >55) seen in supraclavicular/cervical LN (close proximity)
-Involves more central nodes. 
-Has [[alcohol]] induced pain. 
-(can cause [[leukaemia|ALL]], assoc with [[epstein barr virus|EBV]]. Radiation for HL can lead to NHL. )
+A type of cancer originating in the lymphatic system. 
+- Reed-Sternberg cells (Multinucleated giant cells)  
+- Bimodal age (<25 or >55) seen in supraclavicular/cervical LN (close proximity)
+- Involves more central nodes. 
+- Has [[alcohol]] induced pain. 
+- (can cause [[leukaemia|ALL]], assoc with [[epstein barr virus|EBV]]. Radiation for HL can lead to NHL. )
 
 ---
 # NHL

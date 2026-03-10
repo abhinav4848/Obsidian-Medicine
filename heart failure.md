@@ -51,10 +51,11 @@ NICE: https://www.nice.org.uk/guidance/ng106
 [Chronic Heart failure 2025 Flowchart](https://www.nice.org.uk/guidance/ng106/resources/chronic-heart-failure-core-treatments-for-heart-failure-pdf-6663137725) 
 Monitor U&E with these drugs
 
+Avoid these in HF: [[nsaid|NSAID]], [[diabetes drugs|Pioglitazone]], Doxazosin, Rate limiting [[calcium channel blockers|CCBs]], DPP-4 inhibitors
 ## HFrEF
 ### 1st line
 - ACE inhibitor
-	- if ACEi note tolerated (cough) -> Give ARNI (Angiotensin receptor-neprilysin inhibitor) Sacubitril/Valsartan -> if EF < 35% (Specialist assessment) 
+	- if ACEi not tolerated (cough) -> Give ARNI (Angiotensin receptor-neprilysin inhibitor) Sacubitril/Valsartan -> if EF < 35% (Specialist assessment) 
 	- If angioedema develops with ACE or ARNI -> Switch to ARB
 - Beta Blocker
 	- Both ACEi & [[beta adrenergic receptors|BB]] (Metoprolol, Bisoprolol, Carvedilol) reduce mortality by reducing afterload.
