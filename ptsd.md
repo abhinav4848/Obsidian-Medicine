@@ -10,6 +10,7 @@ Persistent intrusive flashbacks, vivid memories and recurring dreams + difficult
 # Treatments
 - Offer trauma-focused CBT if they have presented > 1 month after a traumatic event.
 - Offer EMDR ([[talking therapies|Eye movement desensitisation and reprocessing]]) 
+	- EMDR is only used for management of PTSD
 	- 1-3 months after non-combat-related trauma if the person has a preference for EMDR, and
 	- to all adults 3+ months after non-combat-related trauma. 
 	- *The reason is that everyone is expected to have some psychological disturbance after combat, so the waiting period before diagnosing PTSD in them is longer (3m instead of 1m)*

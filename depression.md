@@ -28,7 +28,7 @@ They are also antidepressants that are almost entirely not used, even in compari
 
 ---
 # Atypical Antidepressants
-1. SNRI: Venlafaxine, [[Duloxetine]] (also used in [[incontinence- adult|Stress incontinence]])
+1. **SNRI**: Venlafaxine, [[Duloxetine]] (also used in [[incontinence- adult|Stress incontinence]])
 2. Atypical tetracyclic antidepressant: Mirtazapine
 	1. NaSSA: Noradrenergic & specific serotonergic antidepressant (5HT3)
 3. Trazodone 
@@ -73,6 +73,7 @@ When stopping a SSRI the dose should be gradually reduced over a 4 week period (
 | Pregnant                                                | - BNF says to weigh up benefits and risk when deciding whether to use in pregnancy.<br>- Use during the T1 gives a small increased risk of congenital heart defects<br>- Use during T3 can result in persistent pulmonary hypertension of the newborn<br>- Paroxetine has an increased risk of congenital malformations, particularly in the first trimester |
 | Psychotic Depression                                    | TCA                                                                                                                                                                                                                                                                                                                                                          |
 | Under 18                                                | Fluoxetine only                                                                                                                                                                                                                                                                                                                                              |
+| elderly                                                 | Talking therapies such as CBT in older people are as effective as antidepressants in less severe depression. Antidepressant medications as carry a greater risk of side-effects in older adults, and have a lower risk–benefit ratio in less severe depression.                                                                                              |
 # Questionnaire to assess mental health
 PHQ-9 (see [[scoring system|PHQ-9]]).
 

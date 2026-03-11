@@ -24,7 +24,7 @@ Usually a one-off but every 5 years if spleen/CKD.
 - children age 16 weeks, then 12-13 months
 
 **2. Pneumococcal polysaccharide vaccine (PPV)**
-- adults > 65yo 
+- adults > 65yo who don't have a medical condition
 - adults with chronic conditions ([[COPD]], [[bronchiectasis]], [[cystic fibrosis|CF]], [[interstitial lung disease vs pneumonitis|ILD]])
 
 ### Conditions to give the vaccine

@@ -51,7 +51,7 @@ Blood in stools, abdominal distension, increased abdominal girth, poor feeding.
 ## X-Ray
 - Distended/dilated bowel loops, often asymmetrical
 - Pneumatosis intestinalis (intramural gas): Air in bowel wall.
-- Portal venous gas
+- Portal venous gas 
 - pneumoperitoneum resulting from perforation
 - air both inside and outside of the bowel wall (Rigler sign #named )
 - air outlining the falciform ligament (football sign)
