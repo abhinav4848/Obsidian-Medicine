@@ -8,156 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e1071a5f3cf0ef4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cyclothymia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "cyclothymia"
-            }
-          },
-          {
-            "id": "f7de6ff211da9e28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "qt prolongation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "qt prolongation"
-            }
-          },
-          {
-            "id": "933dbcacf735fbc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "steroids in dermatology.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "steroids in dermatology"
-            }
-          },
-          {
-            "id": "fb6d84d6cf5164b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scoring system.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "scoring system"
-            }
-          },
-          {
-            "id": "d1ac5bccee6b946a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "asthma- management 2024.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "asthma- management 2024"
-            }
-          },
-          {
-            "id": "ebe64261b4d52e83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cancer- lymphoma.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "cancer- lymphoma"
-            }
-          },
-          {
-            "id": "9aaf1ab82fe98a06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cyclizine.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "cyclizine"
-            }
-          },
-          {
-            "id": "b3a215121ab2af88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "liver toxicity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "liver toxicity"
-            }
-          },
-          {
             "id": "d1185706e5980684",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blood tests.md",
+                "file": "primary biliary cholangitis & primary sclerosing cholangitis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "blood tests"
+              "title": "primary biliary cholangitis & primary sclerosing cholangitis"
             }
           },
           {
-            "id": "33086e37dee0f6ad",
+            "id": "7a949a63f9361be7",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://www.bradfordvts.co.uk/teaching-learning/educational-theory/",
-                "title": "educational theory – Bradford VTS",
-                "mode": "webview"
+                "file": "hypothyroidism.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "globe-2",
-              "title": "educational theory – Bradford VTS"
+              "icon": "lucide-file",
+              "title": "hypothyroidism"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "liver",
+                "query": "primary biliar",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -221,7 +102,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -234,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "blood tests.md",
+                "file": "hypothyroidism.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +144,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of blood tests"
+              "title": "Graph of hypothyroidism"
             }
           }
         ]
@@ -374,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blood tests.md",
+                "file": "hypothyroidism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -384,7 +266,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for blood tests"
+              "title": "Backlinks for hypothyroidism"
             }
           }
         ]
@@ -404,10 +286,21 @@
       "graph:Open graph view": false
     }
   },
-  "active": "d1185706e5980684",
+  "active": "7a949a63f9361be7",
   "lastOpenFiles": [
+    "primary biliary cholangitis & primary sclerosing cholangitis.md",
+    "hypothyroidism.md",
+    "atrial fibrillation.md",
     "liver toxicity.md",
+    "cyclizine.md",
+    "cancer- lymphoma.md",
+    "asthma- management 2024.md",
+    "scoring system.md",
+    "steroids in dermatology.md",
+    "qt prolongation.md",
+    "cyclothymia.md",
     "blood tests.md",
+    "housekeeping/study tips.md",
     "flow charts/contraception after delivery.canvas",
     "megacolon.md",
     "git problems in paeds.md",
@@ -423,17 +316,6 @@
     "toxins.md",
     "attachments/dupuytren's contracture.png",
     "upper limb ortho problems.md",
-    "gillick competent.md",
-    "fraser guidelines for contraception.md",
-    "prostate.md",
-    "antiemetics.md",
-    "ondansetron.md",
-    "nausea in pregnancy.md",
-    "metoclopramide.md",
-    "cyclizine.md",
-    "coarctation of aorta.md",
-    "refractive error.md",
-    "cancer- lymphoma.md",
     "flow charts/h. pylori treatment flowchart.canvas",
     "attachments/patau vs edward syndrome.png",
     "attachments/Pasted image 20260305124244.png",

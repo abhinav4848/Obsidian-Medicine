@@ -4,20 +4,20 @@ tags:
 aliases:
   - Hashimoto's thyroiditis
   - drugs causing hypothyroidism
+urls:
+  - "[NICE CKS- Hypothyroidism](https://cks.nice.org.uk/topics/hypothyroidism/)"
 ---
 **UK**: Autoimmune: Hashimoto [[thyroiditis]]. 
 	Hashimoto acute phase is hyperthyroid (later becomes hypo)
 **World**: Nutritional: Iodine deficiency
 
 **Drugs**: [[Lithium]], Amiodarone, Carbimazole, Rifampicin
-
 # Clinical Features
-Goitre in both cases.
-Amenorrhea/Oligomenorrhea
-Cold peripheries, coarse hair/hair loss, dry/thick coarse skin, brittle nails, bradycardia, weight gain.
-Weight gain, myxedema (e.g. change in shoe size)
-Macrocytosis, Proximal myopathy
-
+- Goitre in both cases.
+- Amenorrhea/Oligomenorrhea
+- Cold peripheries, coarse hair/hair loss, dry/thick coarse skin, brittle nails, bradycardia, weight gain.
+- Weight gain, myxedema (e.g. change in shoe size)
+- Macrocytosis, Proximal myopathy
 ## Associated conditions
 - Autoimmune disease
 	- [[vitiligo]], ADDISON'S disease, Pernicious Anaemia, [[diabetes mellitus 1|T1DM]], Thyroid disease ([[hypothyroidism|Hashimoto's thyroiditis]])
@@ -27,12 +27,13 @@ Macrocytosis, Proximal myopathy
 	- Positive birefringent crystals
 
 # Treatment
+[British thyroid association suggestion](https://british-thyroid-association.org/professionals/#btaguidelines) 
 If a patient has Subclinical Hypothyroidism (TSH high, T4 normal)
 	Repeat TSH in 3 months.
 
 If TSH raised but below 10miU/L (on 2 tests 3 months apart)
-- Asymptomatic: No Rx needed.
-- >=65yo: No Rx needed. (risk of over-suppression of TSH causing A fib)
+- Asymptomatic: No Rx needed. Repeat test. 
+- >=65yo: No Rx needed. (risk of over-suppression of TSH leading to [[atrial fibrillation]])
 - Symptomatic + <65yo: Levothyroxine
 
 If need to start,
