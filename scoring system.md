@@ -55,7 +55,7 @@ aliases:
 | HAD                                    | Hospital Anxiety and Depression (HAD) scale - assesses severity of anxiety and depression symptoms                                                                     |
 | IPSS                                   | International prostate symptom score                                                                                                                                   |
 | MMSE                                   | Mini-mental state examination - used to assess cognitive impairment                                                                                                    |
-| MUST                                   | [[malnutrition]]                                                                                                                                                       |
+| MUST                                   | [[malnutrition]]<br>[Bapen MUST calculator](https://www.bapen.org.uk/must-and-self-screening/must-calculator/)                                                         |
 | NYHA                                   | Heart failure severity scale                                                                                                                                           |
 | Orbit Score                            | **Assess risk of bleeding:** <br>- Older >=75yo<br>- Reduced Hb (<13 men, <12 women)<br>- Bleeding history<br>- Insufficient eGFR <60<br>- Treatment with antiplatelet |
 | PHQ-9                                  | Patient Health Questionnaire - assesses severity of [[depression]] symptoms ([MD Calc](https://www.mdcalc.com/calc/1725/phq9-patient-health-questionnaire9))           |

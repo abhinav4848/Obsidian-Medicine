@@ -58,17 +58,61 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "forms.md",
+                "file": "scoring system.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "forms"
+              "title": "scoring system"
+            }
+          },
+          {
+            "id": "d1ac5bccee6b946a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asthma- management 2024.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "asthma- management 2024"
+            }
+          },
+          {
+            "id": "ebe64261b4d52e83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "acne vulgaris.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "acne vulgaris"
+            }
+          },
+          {
+            "id": "33086e37dee0f6ad",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.bradfordvts.co.uk/teaching-learning/educational-theory/",
+                "title": "educational theory – Bradford VTS",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "educational theory – Bradford VTS"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -101,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clobetasone",
+                "query": "acne",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -132,7 +176,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -145,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "forms.md",
+                "file": "acne vulgaris.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +218,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of forms"
+              "title": "Graph of acne vulgaris"
             }
           }
         ]
@@ -285,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forms.md",
+                "file": "acne vulgaris.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +340,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for forms"
+              "title": "Backlinks for acne vulgaris"
             }
           }
         ]
@@ -315,11 +360,24 @@
       "graph:Open graph view": false
     }
   },
-  "active": "fb6d84d6cf5164b2",
+  "active": "ebe64261b4d52e83",
   "lastOpenFiles": [
-    "steroids in dermatology.md",
-    "forms.md",
+    "fertility.md",
+    "asthma- management 2024.md",
+    "asthma- old management.md",
+    "asthma- drugs.md",
     "asthma- diagnosis (algorithm).md",
+    "chlamydia.md",
+    "gonorrhoea.md",
+    "cephalosporins.md",
+    "ciprofloxacin.md",
+    "macrolides.md",
+    "adult learning.md",
+    "fluroquinolone.md",
+    "scoring system.md",
+    "malnutrition.md",
+    "forms.md",
+    "steroids in dermatology.md",
     "interstitial lung disease vs pneumonitis.md",
     "heart failure.md",
     "calcium channel blockers.md",
@@ -330,19 +388,6 @@
     "hepatitis viruses.md",
     "cancer- breast (referral criteria).md",
     "genetic anticipation.md",
-    "fragile X Syndrome.md",
-    "cancer- pancreas.md",
-    "chronic pancreatitis.md",
-    "spirometry.md",
-    "sarcoidosis.md",
-    "rheumatoid arthritis.md",
-    "reactive arthritis.md",
-    "methotrexate.md",
-    "cancer- screening programs.md",
-    "guthrie test.md",
-    "cancer- breast (treatment).md",
-    "cancer- drugs involved in gynae cancers.md",
-    "osteoporosis.md",
     "flow charts/h. pylori treatment flowchart.canvas",
     "attachments/patau vs edward syndrome.png",
     "attachments/Pasted image 20260305124244.png",

@@ -6,6 +6,7 @@ aliases:
   - management of stable asthma in children
   - management of stable asthma in adults
 urls:
+  - "[NICE NG245- Asthma](https://www.nice.org.uk/guidance/ng245)"
 ---
 ![[asthma- table of contents]]
 # New diagnosis of Asthma in patients aged >=12yo

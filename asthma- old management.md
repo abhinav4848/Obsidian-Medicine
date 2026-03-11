@@ -6,7 +6,7 @@ tags:
 ---
 ![[asthma- table of contents]]
 
-MART is recommended (use [[asthma- new management 2024]])
+MART is recommended (use [[asthma- management 2024]])
 # Adult stable asthma management
 1. **Reliever**: SABA (if < 3 attacks- excessive use of SABA to relieve acute asthma symptoms may mask progression of the underlying disease and contribute to an increased risk of severe and potentially life-threatening asthma exacerbations. So [always give with ICS](https://www.sign.ac.uk/our-guidelines/british-guideline-on-the-management-of-asthma/). )
 2. Add regular preventer: SABA + Low dose ICS (beclomethasone)

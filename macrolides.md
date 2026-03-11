@@ -14,3 +14,6 @@ Clarithromycin- more active form of erythromycin. Used for [[h. pylori]] treatme
 
 # side effects
 Can cause [[qt prolongation|long QT syndrome]]
+
+---
+See [[fluroquinolone|Quinolones]] 

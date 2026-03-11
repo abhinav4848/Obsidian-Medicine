@@ -7,7 +7,8 @@ NICE defines malnutrition as the following:
 - unintentional weight loss greater than 10% within the last 3-6 months; or
 - a BMI of less than 20 and unintentional weight loss greater than 5% within the last 3-6 months
 
-Use the MUST [[scoring system]] (malnutrition universal screen tool). 
+Use the [[scoring system]]: Malnutrition Universal Screening Tool (MUST)
+- It's a five-step screening tool to identify adults who are malnourished, at risk of malnutrition, or obese. It also includes management guidelines that can be used to develop a care plan.
 
 # Management
 - dietician support if the patient is at high-risk

@@ -6,7 +6,7 @@ aliases:
   - -oxacins
   - Quinolone
 ---
-# Currently available
+# Currently available in the UK
 - [[ciprofloxacin]]
 - Ofloxacin
 - Levofloxacin

@@ -4,6 +4,8 @@ tags:
 aliases:
   - Chlamydia
   - Chlamydia trachomatis
+urls:
+  - "[BASHH- Chlamydia](https://www.bashh.org/resources/15/chlamydia_2015)"
 ---
 Most prevalent sexually transmitted infection in the UK.
 1. [[Cervicitis]], [[pelvic inflammatory disease|Salpingitis]]: Painless ulcer, vaginal discharge, post-coital bleed, red & inflamed vulva, cervix, tender pelvis but non-tender abdomen.
@@ -13,6 +15,7 @@ Most prevalent sexually transmitted infection in the UK.
 2. Painful inguinal LNE
 3. Procto-Colitis
 # Potential complications
+- Lymphogranuloma venereum ([PCDS](https://www.pcds.org.uk/clinical-guidance/travel-acquired-cutaneous-infections#:~:text=Lymphogranuloma%20venerum%20(LGV)))
 - Chlamydia/[[gonorrhoea]] if untreated will ascend
 	- Males: Epididymo-orchitis/Epididymitis -> U/L testicular pain
 	- Females: Salpingitis, [[pelvic inflammatory disease|PID]], [[gynaecological infections|Endometritis]] 
@@ -22,12 +25,11 @@ Most prevalent sexually transmitted infection in the UK.
 - perihepatitis ([[fitz-hugh-curtis syndrome]])
 - [[Erythema nodosum]]
 - [[ophthalmia neonatorum]] 
-- Lymphogranuloma venereum ([PCDS](https://www.pcds.org.uk/clinical-guidance/travel-acquired-cutaneous-infections#:~:text=Lymphogranuloma%20venerum%20(LGV)))
 - Important to check for HIV in STIs. 
 # Management (y for y)
-- doxycycline (7 day course) if first-line (also 1st line in [[lyme disease]])
+- doxycycline (100mg BD 7 days) if first-line (also 1st line in [[lyme disease]])
 	- this is now preferred to azithromycin due to concerns about [[Mycoplasma genitalium]]. This infection is often co-existent in patients with Chlamydia and there is evidence of rising levels of macrolide resistance, hence why doxycycline is preferred. #abx 
-	- if doxycycline is contraindicated / not tolerated then azithromycin (1g OD for one day, then 500mg OD for two days) should be used
+	- if doxycycline is contraindicated / not tolerated then [[macrolides|Azithromycin]] (1g OD for one day, then 500mg OD for two days) should be used
 - if pregnant then azithromycin, erythromycin or amoxicillin may be used. The SIGN guidelines suggest azithromycin 1g stat is the drug of choice 'following discussion of the balance of benefits and risks with the patient'
 
 ## Contacts

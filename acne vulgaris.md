@@ -5,7 +5,7 @@ urls:
   - https://dermnetnz.org/topics/acne-vulgaris
   - https://www.pcds.org.uk/files/general/Acne-Pathway-2024-final-proof.pdf
   - https://www.pcds.org.uk/clinical-guidance/acne-vulgaris
-  - https://cks.nice.org.uk/topics/acne-vulgaris/management/primary-care-management/
+  - "[NICE- Acne Vulgaris](https://cks.nice.org.uk/topics/acne-vulgaris/management/primary-care-management/)"
 ---
 Occurs in adolescence
 - Androgen levels are normal however. 

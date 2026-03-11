@@ -69,7 +69,7 @@ If still doubt, [[asthma- investigations#Bronchial challenge test|Bronchial chal
 # Suspected asthma in children under 5
 The guidelines acknowledge the difficulty of performing tests in such young children. They suggest: [NICE](https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#objective-tests-for-diagnosing-asthma-in-adults-young-people-and-children-aged-5-to-16-with-a:~:text=Diagnosis%20is%20hard%20in%20this%20age%20group%20because%20it%20is%20difficult%20to%20do%20the%20tests "NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)") *(completely transcribed below)*
 - treating with inhaled corticosteroids as per the pharmacological management guidelines with regular review
-	- See [[asthma- new management 2024#Asthma Management < 5yo linked|management]]
+	- See [[asthma- management 2024#Asthma Management < 5yo linked|management]]
 - if they still have symptoms at age 5 then attempt objective tests
 	- If not able to do test at age 5, try again in 6-12 months
 - refer to a specialist respiratory paediatrician:
