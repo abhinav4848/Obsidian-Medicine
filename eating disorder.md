@@ -17,6 +17,8 @@ Binge eating + doing inappropriate compensatory behaviours to prevent weight gai
 Weight does not change. 
 Happening at least once a week for at least a month. 
 Recurrent binge eating episodes associated with recurrent
+
+**Inv**: Vomiting will lead to relative [[hypokalemia]]. 
 # Binge eating disorder
 Loss of inhibition. 
 Binge eating without compensatory behaviour. 

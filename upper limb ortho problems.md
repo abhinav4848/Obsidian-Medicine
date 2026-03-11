@@ -5,6 +5,7 @@ aliases:
   - mallet finger
   - Adhesive capsulitis
   - Frozen shoulder
+  - Dupuytren's contracture
 ---
 *See [[lower limb ortho problems]].* 
 # Arm & Forearm

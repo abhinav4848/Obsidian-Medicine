@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "toxins.md",
+                "file": "alcohol.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "toxins"
+              "title": "alcohol"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flumaze",
+                "query": "bulimi",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "toxins.md",
+                "file": "alcohol.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of toxins"
+              "title": "Graph of alcohol"
             }
           }
         ]
@@ -360,7 +360,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "toxins.md",
+                "file": "alcohol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -370,7 +370,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for toxins"
+              "title": "Backlinks for alcohol"
             }
           }
         ]
@@ -392,6 +392,12 @@
   },
   "active": "b3a215121ab2af88",
   "lastOpenFiles": [
+    "eating disorder.md",
+    "alcohol.md",
+    "toxins.md",
+    "sarcoidosis.md",
+    "attachments/dupuytren's contracture.png",
+    "upper limb ortho problems.md",
     "gillick competent.md",
     "fraser guidelines for contraception.md",
     "prostate.md",
@@ -413,11 +419,6 @@
     "ophthalmoscopy.md",
     "crvo.md",
     "acne vulgaris.md",
-    "fertility.md",
-    "asthma- management 2024.md",
-    "asthma- old management.md",
-    "asthma- drugs.md",
-    "asthma- diagnosis (algorithm).md",
     "flow charts/h. pylori treatment flowchart.canvas",
     "attachments/patau vs edward syndrome.png",
     "attachments/Pasted image 20260305124244.png",
@@ -443,7 +444,6 @@
     "attachments/diagnose asthma in people over 16yo.jpg",
     "attachments/MCP & MTP squeeze test for rheumatoid arthritis.jpg",
     "attachments/guidance on plasma viscosity.pdf",
-    "attachments/erythema nodosum 2.png",
     "flow charts/paeds examination.canvas",
     "flow charts/contraception after delivery.canvas",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
