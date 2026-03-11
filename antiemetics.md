@@ -87,4 +87,10 @@ See [[anticipatory meds in palliative care|drugs in palliative care]] for Halope
 # Notes
 - We can combine different classes of antiemetics for patients who are undergoing chemo & have not responded to initial treatments. 
 - If treatment is not effective, aim to change rather than add medication. In particular, avoid prokinetics in combination with cyclizine as they have an antagonistic effect with each other. Sometimes, however, a combination is appropriate. 
-- **Remember oropharyngeal irritation**. Perhaps due to candidiasis, this is an under-recognised and reversible cause of retching and vomiting – just take a look to check for this!
+- **Remember oropharyngeal irritation**. Perhaps due to candidiasis, this is an under-recognised and reversible cause of retching and vomiting – just take a look to check for this. 
+
+### Complications of antiemetics %%linked%%
+- Oral [[metoclopramide]] should not be prescribed for longer than 5 days due to the risk of neurological extrapyramidal adverse effects.
+- Oral domperidone should not be prescribed for longer than 7 days due to the risk of cardiac adverse effects.
+- Oral ondansetron should not be prescribed for longer than 5 days.
+	- Advise that exposure to ondansetron during the first trimester has small increased risk of baby having a cleft lip and/or palate.

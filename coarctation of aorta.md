@@ -28,7 +28,7 @@ Narrowing of the descending aorta.
 	- Reduced renal perfusion: Increased RAAS activation -> retain salt & water -> [[hypertension]].
 - Rib notching due to some intercostal arteries which branch above the coarctation having more pressure in them than the anastomosing intercostal arteries which branched below the coarctation. Blood flow is thus reversed in the arteries which branched below the coarctation. 
 # Clinical Features
-- Upper limb hypertension with weak or absent femoral pulses (radio-femoral delay). 
+- Upper limb hypertension with weak or absent femoral pulses (==radio-femoral delay==). 
 - More common in males and often remains undetected until adolescence or early adulthood if the narrowing is not severe enough to cause symptoms in infancy.
 - There can be a significant difference in blood pressure between the left and right arms.
 - Mid-systolic [[cardiac murmurs|murmur]] max over the back

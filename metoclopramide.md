@@ -26,3 +26,6 @@ Useful in impaired gastric emptying (gastroparesis).
 3. Lowers [[seizure]] threshold. 
 4. Avoid in suspected small bowel obstruction
 5. Avoid combining with [[digoxin]] and [[diabetes drugs]]. 
+
+---
+![[antiemetics#Complications of antiemetics linked]]

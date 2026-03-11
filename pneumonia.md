@@ -58,7 +58,7 @@ Worsening flu like symptoms precede a dry cough
 	Erythe`ma` multiforme: Mycoplas`ma`
 - **Bullous myringitis**: painful vesicles on the tympanic membrane
 ##### Less imp points
-• Meningoencephalitis, Guillain-Barre syndrome and other immune-mediated neurological diseases
+• Meningoencephalitis, [[guillain barre syndrome|Guillain-Barre syndrome]] and other immune-mediated neurological diseases
 • Patients aren't as septic. 
 • Hyponatremia common in any pneumonia (but more in Legionella)
 • Deranged LFT, 

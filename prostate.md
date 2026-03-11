@@ -12,7 +12,7 @@ urls:
 # Manage patient coming with urinary symptoms
 1. Get bloods done- FBC, U&e, LFT, HbA1c, Bone profile, [[prostate#PSA test (is linked)|PSA]]
 	1. U&E helps see for obstructive uropathy if chronic retention suspected. 
-2. get urine dip to rule out infection. Referral for 2ww includes question on whether you tested for UTI. 
+2. get **urine dip** to rule out infection/blood. Referral for 2ww includes question on whether you tested for UTI. 
 	1. if there's haematuria, then think where it could come from- [[cancer- urology|bladder]], kidney, possibly prostate. That's where smoking becomes a risk factor for kidney/bladder cancers. It's not a risk factor towards prostate cancer itself. 
 3. DRE 
 4. Risk factors for [[cancer- prostate|Prostate Cancer]]: Age > 50, [[afro-caribbean|Afro Caribbean]], [[cancer- risk factors|family history]]. 

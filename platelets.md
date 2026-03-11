@@ -18,7 +18,7 @@ Thrombocytosis + low ferritin or microcytosis is concerning for GI malignancy.
 ### Drug-induced thrombocytopenia (probable immune-mediated)
 - [[Quinine]]
 - Abciximab
-- NSAIDs
+- [[nsaid|NSAIDs]]
 - **Diuretics**: Furosemide
 - **Antibiotics**: Penicillins, Sulphonamides, rifampicin #abx 
 - **Anticonvulsants**: Carbamazepine, Valproate
@@ -33,6 +33,6 @@ Thrombocytosis + low ferritin or microcytosis is concerning for GI malignancy.
 - [[menorrhagia]]
 - post-partum haemorrhage
 - Rare: 
-	- **Flame shaped haemorrhage**: Larger haemorrhages with a flame-like appearance caused by rupture of pre-capillary arterioles or small veins in the retinal nerve fibre layer. See [[ophthalmoscopy]]. 
+	- **Flame shaped haemorrhage** on [[ophthalmoscopy]]: Larger haemorrhages with a flame-like appearance caused by rupture of pre-capillary arterioles or small veins in the retinal nerve fibre layer. 
 	- GI bleed
 	- Intracranial bleed
