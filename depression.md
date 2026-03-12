@@ -16,7 +16,7 @@ Amitriptyline
 Sertraline, Fluoxetine (both s/e: Anorgasmia/delayed ejaculation, SIADH),
 - Takes 1-2 week (even 2-4 weeks) for effect to be seen
 - Give for 6-9 months. 
-- Fluoxetine doesn’t require gradual dose reduction
+- Fluoxetine doesn’t require gradual dose reduction as long half life. Good if poor meds compliance. But bad as s/e if any, will last longer. 
 - Fluoxetine not given for [[panic attacks]]. Give sertraline if at all. 
 
 [[Citalopram]] (s/e [[glaucoma- acute angle closure|Acute angle closure glaucoma]], [[qt prolongation]]),

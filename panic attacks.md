@@ -82,8 +82,8 @@ Link: [NICE CG- Stepped care for people with panic disorder](https://www.nice.or
 	2. Escitalopram, Sertraline, citalopram, paroxetine
 	3. Venlafaxine. 
 	4. Ask about cocaine use when prescribing SSRIs. 
-3. TCA (only if SSRI c/i or no response in 12 weeks): Imipramine, clomipramine- off label use. 
-4. offer referral
+3. [[tricyclic antidepressants|TCA]] (only if SSRI c/i or no response in 12 weeks): Imipramine, clomipramine- off label use. 
+4. offer referral to specialist MH services
 5. care in specialist MH services
 # Acute Treatment
 **Before attack trigger is anticipated**: Propranolol- if palpitations are a problem. 

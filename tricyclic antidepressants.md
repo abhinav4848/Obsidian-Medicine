@@ -2,6 +2,8 @@
 tags:
   - pharmacology
   - psychiatry
+aliases:
+  - TCA
 ---
 Used in [[depression]]
 [[panic attacks|Panic disorder]] if [[depression|SSRI]] don't work/contraindicated. Only Imipramine, clomipramine as off-label use. 

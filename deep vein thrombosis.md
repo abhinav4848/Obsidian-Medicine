@@ -5,7 +5,7 @@ aliases:
   - DVT
   - well's score (DVT)
 urls:
-  - https://www.nice.org.uk/guidance/ng158/chapter/Recommendations
+  - "[NICE NG158- Venous thromboembolic diseases: diagnosis, management and thrombophilia testing](https://www.nice.org.uk/guidance/ng158/chapter/Recommendations)"
 ---
 # Venous thromoboembolism
 Scoring: [[scoring system|Well's Score]]
@@ -27,13 +27,17 @@ If D-Dimer:
 ### Exception
 Superficial vein thrombosis (aka superficial thrombophlebitis) of the long saphenous vein has the risk of becoming DVT so whenever a patient comes with it, get an ultrasound right away cuz high risk of DVT and anyway this condition has raised D-Dimer so no need of that.
 # Treatment
-DOAC ([[drugs contraindicated in pregnancy|Avoid in pregnancy]]/breastfeeding/CrCl < 15) -> LMWH, UH, or LMWH then VKA
+DOAC- Apixaban/Rivaroxaban ([[drugs contraindicated in pregnancy|Avoid in pregnancy]]/breastfeeding/CrCl < 15) 
+if not suitable, then
+- LMWH * at least 5days followed by Dabigatran/Edoxaban OR, 
+- LMWH + Vit K antagonist concurrently * at least 5 days until INR 2.0 in 2 consecutive readings. 
+	- followed by a VKA on its own. 
 ###### Duration
 - Provoked: 3 months
 - Unprovoked: 6 months if [[scoring system|ORBIT score]] says low bleeding risk
 	- Important for the first 3 months, then next 3 months is based on balancing bleeding risk vs VTE recurrence risk
 
------------------
+---
 # D-Dimer elevation
 - Superficial thrombophlebitis: no pain on movement
 - DVT: Homan's sign; pain on dorsiflexion of ankle
