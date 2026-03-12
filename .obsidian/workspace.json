@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tricyclic antidepressants.md",
+                "file": "red eye.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "tricyclic antidepressants"
+              "title": "red eye"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fluoxetine",
+                "query": "iritis",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "tricyclic antidepressants.md",
+                "file": "red eye.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -144,7 +144,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of tricyclic antidepressants"
+              "title": "Graph of red eye"
             }
           }
         ]
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tricyclic antidepressants.md",
+                "file": "red eye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +266,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for tricyclic antidepressants"
+              "title": "Backlinks for red eye"
             }
           }
         ]
@@ -288,6 +288,10 @@
   },
   "active": "803885f451974d44",
   "lastOpenFiles": [
+    "uveitis.md",
+    "alopecia.md",
+    "phenytoin.md",
+    "tricyclic antidepressants.md",
     "panic attacks.md",
     "depression.md",
     "citalopram.md",
@@ -311,10 +315,6 @@
     "git problems in paeds.md",
     "neonatal jaundice.md",
     "ssri.md",
-    "immunisation schedule (paeds).md",
-    "ptsd.md",
-    "immunisation in adults.md",
-    "sarcoidosis.md",
     "attachments/dupuytren's contracture.png",
     "flow charts/h. pylori treatment flowchart.canvas",
     "attachments/patau vs edward syndrome.png",
