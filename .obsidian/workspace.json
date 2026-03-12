@@ -28,17 +28,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "red eye.md",
+                "file": "blood tests.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "red eye"
+              "title": "blood tests"
+            }
+          },
+          {
+            "id": "eda66f55653765f3",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.uhleicester.nhs.uk/services/haematology/haematology-referral-guidelines/",
+                "title": "Haematology referral guidelines - University Hospitals of Leicester NHS Trust",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Haematology referral guidelines - University Hospitals of Leicester NHS Trust"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -71,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iritis",
+                "query": "macrocy",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -116,7 +130,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "red eye.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -144,7 +157,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of red eye"
+              "title": "Graph view"
             }
           }
         ]
@@ -256,7 +269,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "red eye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +278,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for red eye"
+              "title": "Backlinks"
             }
           }
         ]
@@ -286,8 +298,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "803885f451974d44",
+  "active": "eda66f55653765f3",
   "lastOpenFiles": [
+    "blood tests.md",
+    "red eye.md",
     "uveitis.md",
     "alopecia.md",
     "phenytoin.md",
@@ -308,13 +322,11 @@
     "steroids in dermatology.md",
     "qt prolongation.md",
     "cyclothymia.md",
-    "blood tests.md",
     "housekeeping/study tips.md",
     "flow charts/contraception after delivery.canvas",
     "megacolon.md",
     "git problems in paeds.md",
     "neonatal jaundice.md",
-    "ssri.md",
     "attachments/dupuytren's contracture.png",
     "flow charts/h. pylori treatment flowchart.canvas",
     "attachments/patau vs edward syndrome.png",
