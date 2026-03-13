@@ -20,7 +20,7 @@ It's often associated with skin conditions like seborrheic dermatitis, [[Acne Ro
 
 # Treatment
 Emergency refer: If s/o periorbital/orbital cellulitis. 
-Same day ophthalmology assessment if: corneal disease (pain/blur vision), rapid onset [[loss of vision|vision loss]], eye becoming red (red eye)
+Same day ophthalmology assessment if: corneal disease (pain/blur vision), rapid onset [[loss of vision|vision loss]], eye becoming red ([[red eye]])
 
 Warm compress BD
 Lid massage & lid cleansing

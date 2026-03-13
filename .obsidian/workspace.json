@@ -28,17 +28,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fever caused by drugs.md",
+                "file": "statistics- screening tests.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "fever caused by drugs"
+              "title": "statistics- screening tests"
+            }
+          },
+          {
+            "id": "7b024332f6c3e5d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "statistics- confidence interval.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "statistics- confidence interval"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -71,10 +86,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#antidote",
+                "query": "tag:stats",
                 "matchingCase": false,
                 "explainSearch": true,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -102,8 +117,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -116,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "fever caused by drugs.md",
+                "file": "statistics- confidence interval.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -144,7 +158,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of fever caused by drugs"
+              "title": "Graph of statistics- confidence interval"
             }
           }
         ]
@@ -256,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fever caused by drugs.md",
+                "file": "statistics- confidence interval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +280,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for fever caused by drugs"
+              "title": "Backlinks for statistics- confidence interval"
             }
           }
         ]
@@ -286,14 +300,20 @@
       "graph:Open graph view": false
     }
   },
-  "active": "803885f451974d44",
+  "active": "7b024332f6c3e5d4",
   "lastOpenFiles": [
+    "statistics- screening tests.md",
+    "statistics- confidence interval.md",
+    "statistics- study types.md",
+    "statistics- biases.md",
+    "red eye.md",
+    "blepharitis.md",
+    "fever caused by drugs.md",
     "antipsychotic drugs.md",
     "seizure.md",
     "d2 antagonism.md",
     "extrapyramidal side-effects.md",
     "anticholinergics.md",
-    "fever caused by drugs.md",
     "hla-b27.md",
     "haloperidol.md",
     "behcet's disease.md",
@@ -306,14 +326,8 @@
     "inflammatory bowel disease.md",
     "ankylosing spondylitis.md",
     "toxoplasmosis.md",
-    "red eye.md",
     "glaucoma- acute angle closure.md",
     "cataract.md",
-    "cephalosporins.md",
-    "blood tests.md",
-    "alopecia.md",
-    "phenytoin.md",
-    "tricyclic antidepressants.md",
     "flow charts/contraception after delivery.canvas",
     "attachments/dupuytren's contracture.png",
     "flow charts/h. pylori treatment flowchart.canvas",
