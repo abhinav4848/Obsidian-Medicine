@@ -51,7 +51,8 @@ Primarily spine and sacroiliac joints. Two subtypes:
 1. **Radiographic axSpA**: Visible sacroiliitis on X-ray = classic Ankylosing spondylitis
 2. **Non-radiographic axSpA**: MRI inflammation but normal X-ray
 ##### Peripheral spondyloarthritis 
-Asymmetric oligoarthritis, Enthesitis, Dactylitis, 
+Asymmetric oligoarthritis, Enthesitis, Dactylitis.
+	**Enthesitis**: inflammation of the entheses, which are the sites where tendons and ligaments attach to bones
 Seen in: Psoriatic arthritis, Reactive arthritis, IBD-associated arthritis
 
 ---

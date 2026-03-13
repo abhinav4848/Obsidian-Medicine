@@ -6,12 +6,13 @@ aliases:
 ---
 *Compare with [[cancer- lymphoma|Lymphoma]]* #confusion 
 
+---
 Toxoplasma gondii lives & reproduces in cat's gut.
-
-**Cerebral toxoplasmosis**: ICP- seizure, FND, confusion, visual hallucination, facial weakness
-Reactivated in [[HIV]] (CD4 < 100)
+- Reactivated in [[HIV]] (CD4 < 100)
+# Complications
+- **Cerebral toxoplasmosis**: ICP- seizure, FND, confusion, visual hallucination, facial weakness
+- [[uveitis|Chorioretinitis]]
 # Investigation
 Brain MRI with contrast: Ring enhancing lesion
 # Treatment
-#abx 
-Sulfadiazine + Pyrimethamine
+Sulfadiazine + Pyrimethamine #abx 

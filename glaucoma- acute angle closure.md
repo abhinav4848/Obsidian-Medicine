@@ -17,7 +17,7 @@ aliases:
 Worsens with mydriasis-> h/o being in a dark room (movie theatre, eye clinic)
 
 # Clinical features:
-- Coloured halos (also in [[cataract]]) #confusion , [[red eye]], photophobia
+- Coloured halo (also in [[cataract]]) #confusion , [[red eye]], photophobia
 - Semi-dilated, non reacting pupils
 - Corneal edema: dull or hazy cornea.
 - Associated with: nausea, Vomit

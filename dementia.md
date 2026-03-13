@@ -12,9 +12,10 @@ urls:
 ---
 **Common**: Vascular & Alzheimer's dementia
 **Rare**: Lewy Body, [[frontotemporal dementia]]
+
 Patients with mild cognitive impairment are 15x more likely to develop Alzheimer’s disease than the general population.
 # Scoring system
-*See here: [gpcog.com.au](https://gpcog.com.au/index/patient-assessment) & [GPnotebook](https://gpnotebook.com/en-GB/pages/psychiatry/gpcog)*
+*See here: [gpcog.com.au](https://gpcog.com.au/index/patient-assessment) & [GPnotebook](https://gpnotebook.com/en-GB/pages/psychiatry/gpcog)* 
 Can use GPCOG: General Practitioner Assessment of Cognition: Screening tool used to assess cognitive impairment in patients suspected of having dementia.
 - **Score > 8**: Assumed to be cognitively intact.
 - **Score < 5**: Assumed to be cognitively impaired.

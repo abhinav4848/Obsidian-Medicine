@@ -6,8 +6,9 @@ aliases:
   - anti-psychotics
   - neuroleptic drugs
   - antipsychotics
+  - anti-schizophrenic drugs
 ---
-Antipsychotic drugs are aka neuroleptics/anti-[[schizophrenia|schizophrenic]] drugs. 
+Antipsychotic drugs, aka neuroleptics/anti-[[schizophrenia|schizophrenic]] drugs. 
 Useful in psychosis, [[mania]] & bipolar disorders, intractable hiccups, [[antiemetics|N&V]], delirium.
 
 Antipsychotics counter the effects of dopamine excess in [[delirium]], psychosis, nausea (stimulation of [[areas of brain|area postrema]]), aggression (stimulation of [[areas of brain|nucleus accumbens]]). However, unopposed D2 antagonism can cause dopamine depletion symptoms in other pathways ([[extrapyramidal side-effects|EPS]]), and worsening of negative psychotic symptoms (e.g. apathy, anhedonia). 

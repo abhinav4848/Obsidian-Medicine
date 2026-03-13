@@ -12,7 +12,7 @@ Not to be confused with [[Actinic keratosis]].
 - Has family history. 
 - Can be triggered by stress/throat infections and can go away on its own. 
 - Relapsing nature 
-- [[hla-b27|HLA-B27]], [[Ankylosing spondylitis]]  
+- [[-hla-b27|HLA-B27]], [[Ankylosing spondylitis]]  
 - Improves in sunny countries -> like Morocco (Sunlight has UVB)
 - Starts as papules which later merge to form plaque. 
 

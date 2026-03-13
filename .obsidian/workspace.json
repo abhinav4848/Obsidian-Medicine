@@ -28,31 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blood tests.md",
+                "file": "antipsychotic drugs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "blood tests"
-            }
-          },
-          {
-            "id": "eda66f55653765f3",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.uhleicester.nhs.uk/services/haematology/haematology-referral-guidelines/",
-                "title": "Haematology referral guidelines - University Hospitals of Leicester NHS Trust",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Haematology referral guidelines - University Hospitals of Leicester NHS Trust"
+              "title": "antipsychotic drugs"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,10 +71,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "macrocy",
+                "query": "hla b27",
                 "matchingCase": false,
                 "explainSearch": true,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -130,6 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "antipsychotic drugs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -157,7 +144,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of antipsychotic drugs"
             }
           }
         ]
@@ -269,6 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "antipsychotic drugs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +266,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for antipsychotic drugs"
             }
           }
         ]
@@ -298,11 +286,25 @@
       "graph:Open graph view": false
     }
   },
-  "active": "eda66f55653765f3",
+  "active": "803885f451974d44",
   "lastOpenFiles": [
-    "blood tests.md",
-    "red eye.md",
+    "haloperidol.md",
+    "behcet's disease.md",
+    "-hla-b27.md",
+    "dementia.md",
     "uveitis.md",
+    "seronegative spondyloarthropathy.md",
+    "spondyloarthritis.md",
+    "arthritis.md",
+    "reactive arthritis.md",
+    "inflammatory bowel disease.md",
+    "ankylosing spondylitis.md",
+    "toxoplasmosis.md",
+    "red eye.md",
+    "glaucoma- acute angle closure.md",
+    "cataract.md",
+    "cephalosporins.md",
+    "blood tests.md",
     "alopecia.md",
     "phenytoin.md",
     "tricyclic antidepressants.md",
@@ -312,21 +314,7 @@
     "cancer- endometrial.md",
     "primary biliary cholangitis & primary sclerosing cholangitis.md",
     "deep vein thrombosis.md",
-    "hypothyroidism.md",
-    "atrial fibrillation.md",
-    "liver toxicity.md",
-    "cyclizine.md",
-    "cancer- lymphoma.md",
-    "asthma- management 2024.md",
-    "scoring system.md",
-    "steroids in dermatology.md",
-    "qt prolongation.md",
-    "cyclothymia.md",
-    "housekeeping/study tips.md",
     "flow charts/contraception after delivery.canvas",
-    "megacolon.md",
-    "git problems in paeds.md",
-    "neonatal jaundice.md",
     "attachments/dupuytren's contracture.png",
     "flow charts/h. pylori treatment flowchart.canvas",
     "attachments/patau vs edward syndrome.png",

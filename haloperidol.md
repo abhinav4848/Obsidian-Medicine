@@ -3,6 +3,8 @@ tags:
   - psychiatry
   - pharmacology
   - palliative
+urls:
+  - "[BNF- Haloperidol](https://bnf.nice.org.uk/drugs/haloperidol/)"
 ---
 First gen [[antipsychotic drugs|antipsychotic]]. 
 Antagonist on D2, alpha-1, sigma receptors. 
@@ -19,16 +21,16 @@ Reduce starting dose in renal impairment
 
 ## Contra-indication
 - Central D2-dopamine receptor antagonist- avoid in [[Parkinson's disease]] as can cause [[extrapyramidal side-effects|EPS]]. 
-- Lewy body dementia
+- Lewy body [[dementia]]
 - Significant cardiac disorders, incl. [[qt prolongation]], recent MI, uncompensated HF
 - If other agents taken which also increase qt prolongation. 
 # Side Effect
 [[QT prolongation]]
 EPS symptoms very common 
 
-| Sexual dysfunction | #mnemonic                  |                                |
-| ------------------ | -------------------------- | ------------------------------ |
-| Haloperidol        | Doesn’t stand to say hello | Erectile dysfunction           |
-| Fluoxetine         | no flow                    | Anorgasmia/delayed ejaculation |
+| Sexual dysfunction | #mnemonic                  |                                     |
+| ------------------ | -------------------------- | ----------------------------------- |
+| Haloperidol        | Doesn’t stand to say hello | i.e. Erectile dysfunction           |
+| Fluoxetine         | no flow                    | i.e. Anorgasmia/delayed ejaculation |
 
 Haloperidol's effects are not limited to the D2 receptor, as it also exerts blocking action on noradrenergic, cholinergic, and histaminergic receptors. The blocking of these receptors is associated with various adverse drug reactions
