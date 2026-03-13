@@ -6,7 +6,7 @@ aliases:
 tags:
   - pharmacology
 ---
-D2 antagonism leads to
+D2 antagonism is due to
 - [[antipsychotic drugs|antipsychotics]]- see most of the side effects here. 
 - [[antiemetics]]- [[metoclopramide]], domperidone, prochlorperazine, 
 # Side effects

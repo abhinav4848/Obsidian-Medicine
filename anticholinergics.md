@@ -29,6 +29,8 @@ Useful as [[antiemetics]].
 
 #antidote: Physostigmine
 
+*See [[hypercalcemia]] symptoms*
+
 ## Full list
 | **System**             | **Effects**                                                                                                                       |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------- |

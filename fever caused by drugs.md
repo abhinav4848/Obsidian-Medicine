@@ -40,22 +40,25 @@ Faster reflexes,
 Dilated pupils
 Clonus
 
+Rx: Cyproheptadine/Chlorpromazine #antidote 
+
 ---
+# Serotonin syndrome vs NMS
 
-| [Link to table](https://www.medsafe.govt.nz/profs/PUArticles/Dec2012Neuroleptic.htm) | Serotonin syndrome                                            | NMS                  |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------------- | -------------------- |
-| Ppt by                                                                               | Serotonergic agents                                           | Dopamine antagonists |
-| Onset                                                                                | Variable < 12 hrs                                             | Variable 1-3 days    |
-| Reflexes                                                                             | Hyperreflexia, clonus (unless masked by incresed muscle tone) | Hyporeflexia         |
-| Pupils                                                                               | Dilated                                                       | Normal               |
-| Bowel sounds                                                                         | Hyperactive                                                   | Normal or decreased  |
+| [Link to table](https://www.medsafe.govt.nz/profs/PUArticles/Dec2012Neuroleptic.htm) | Serotonin syndrome                                            | NMS                              |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------- | -------------------------------- |
+| Precipitated by                                                                      | Serotonergic agents                                           | Dopamine antagonists             |
+| Onset                                                                                | Variable < 12 hrs                                             | Variable 1-3 days                |
+| Reflexes                                                                             | Hyperreflexia, clonus (unless masked by incresed muscle tone) | Hyporeflexia (think parkinson's) |
+| Pupils                                                                               | Dilated                                                       | Normal                           |
+| Bowel sounds                                                                         | Hyperactive                                                   | Normal or decreased              |
 
-Overlap of serotonin syndrome and neuroleptic malignant syndrome: ![[overlap of serotonin syndrome and neuroleptic malignant syndrome.png|400]]
+Overlap of serotonin syndrome and neuroleptic malignant syndrome: ![[overlap of serotonin syndrome and neuroleptic malignant syndrome.png|554]]
 
 ---
 # Malignant Hyperthermia
 Fever, muscle rigidity, sweating 
-Cause: Halothane, succinylcholine
+**Cause**: Halothane, succinylcholine
 
 Onset: Minutes to hours 
 Has a genetic component

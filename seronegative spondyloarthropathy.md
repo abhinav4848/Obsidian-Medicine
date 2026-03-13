@@ -10,7 +10,7 @@ It's a group of [[spondyloarthritis]] conditions.
 
 Features: 
 - Lack of Rheumatoid factor & Anti-CCP (seronegative)
-- [[-hla-b27|HLA-B27]] association. 
+- [[hla-b27|HLA-B27]] association. 
 
 Group includes
 1. Predominantly Axial:

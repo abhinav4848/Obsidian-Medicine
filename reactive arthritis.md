@@ -14,7 +14,7 @@ Arthritis developing after an infection elsewhere
 - **Gastroenteritis**: Salmonella, campylobacter, Dysentery  
 Organism can't be retrieved from the joint.
 
-More common in young with [[-hla-b27]]+ve.
+More common in young with [[hla-b27]]+ve.
 No fever.
 Recent h/o infection- Develops within 3 weeks of initial infection and symptoms last around 4-6 months.
 
