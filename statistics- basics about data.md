@@ -26,7 +26,7 @@ Skewed or ranked data.
 | **Paired**   | Wilcoxon signed-rank test                        | Compare paired measurements in the same individuals                                   |
 
 ---
-# Ranking data
+# Ranking data %%linked%%
 #### What is a rank, Why use it, when to use it? 
 What: 
 - Literally just ranking the data, like Rank 1, Rank 2... 

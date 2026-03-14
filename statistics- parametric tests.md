@@ -17,6 +17,7 @@ Because it's well-behaved mathematically, we can use more powerful statistical t
 | Student's paired t-test                          | is used for parametric data, and data needs to be paired.                                                                                                                                                   |
 
 # Non-Parametric tests
+Skewed or ranked data. 
 Does not follow a normal distribution. 
 Might be skewed, have outliers, or be based on ranks/ categories. e.g. Pain score (0-10), Likert scales, time to recovery. 
 
@@ -28,17 +29,16 @@ Might be skewed, have outliers, or be based on ranks/ categories. e.g. Pain scor
 | Spearman rank, <br>Kendall rank correlation coefficient, aka<br>Kendall's τ (tau) | Correlation (Correlation = seeing if two numbers move together)                                                                                                                                                            |
 | McNemar's test                                                                    | used to analyse nominal paired data that is non-parametric.                                                                                                                                                                |
 #### These two names are the same test:
+| Name (See [[statistics- basics about data#Ranking data linked\|Rank meaning]]) | Why it exists                                               |
+| ------------------------------------------------------------------------------ | ----------------------------------------------------------- |
+| **Mann–Whitney U test**                                                        | Name emphasises the **U statistic** used in the calculation |
+| **Wilcoxon rank-sum test**                                                     | Name emphasises the **sum of ranks** used in the method     |
 They both:
 - Compare **two independent (unpaired) groups**
 - Use **ranks instead of raw values**
 - Are **non-parametric alternatives to the unpaired t-test**
 
 Example : Compare **pain scores** between: patients on **drug A** & patients on **placebo**
-
-| Name                       | Why it exists                                               |
-| -------------------------- | ----------------------------------------------------------- |
-| **Mann–Whitney U test**    | Name emphasises the **U statistic** used in the calculation |
-| **Wilcoxon rank-sum test** | Name emphasises the **sum of ranks** used in the method     |
 
 ---
 # Correlation (relationship between two variables)
