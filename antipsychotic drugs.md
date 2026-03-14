@@ -25,7 +25,7 @@ Antipsychotics counter the effects of dopamine excess in [[delirium]], psychosis
 **Side Effects**: 
 - EPS less common than typicals
 - **Clozapine**: agranulocytosis 
-- **Olanazapine**: High risk of dyslipidemia and obesity.
+- **Olanazapine**: High risk of dyslipidemia and obesity -> high risk of [[deep vein thrombosis|DVT]]
 - Greater lowering of [[seizure]] thresholds than typicals. 
 
 # Other Side effects (for both)
@@ -55,6 +55,6 @@ HAM side effects: Found in [[tricyclic antidepressants]] (TCA’s) and low poten
 - reduced seizure threshold (greater with atypical antipsychotics)
 - [[qt prolongation]] (particularly haloperidol)
 
-VTE risk in elderly. i.e. Stroke. Olanzapine MCC.
+VTE risk in elderly. i.e. Stroke/DVT. Olanzapine MCC.
 
 

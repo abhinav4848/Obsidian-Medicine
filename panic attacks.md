@@ -53,7 +53,7 @@ Score: Use [GAD-2](https://anxietychecklist.com/document/GAD-2-Anxiety-Test.pdf)
     - SNRI: [[duloxetine]] and venlafaxine 
     - tendency to produce a withdrawal syndrome (especially with paroxetine and venlafaxine)
 - Pregabalin if cannot tolerate SSRIs or SNRIs. 
-	- Don't offer Benzodiazepines or anti-psychotic. 
+	- Don't offer [[Benzodiazepines]] or anti-psychotic. 
 - interestingly for patients under the age of 30 years NICE recommend you warn patients of the increased risk of suicidal thinking and self-harm. Weekly follow-up is recommended for the first month
 
 See [[ssri#Side Effects of SSRIs|Side effects of SSRIs]]. 

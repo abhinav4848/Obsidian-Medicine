@@ -109,6 +109,10 @@ A t-test compares means for normally distributed continuous data, whereas the Ma
 - Unpaired → independent groups → t-test / U-test
 - Paired → same subjects → paired t-test / signed-rank
 
+### T-test for independent samples
+- Also called **unpaired t-test**
+- **Key point:** The two groups are **independent** – nobody in one group is “paired” with anyone in the other.
+
 ---
 # Correlation Coefficient
 A **single number** that tells you:

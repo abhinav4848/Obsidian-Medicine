@@ -76,7 +76,7 @@ Glucocorticoids- Dex, Methylpred
 - central antiemetic effect by interacting with glucocorticoid receptors in solitary nucleus. 
 - Good for post op NV & CINV
 
-Benzodiazepines- Loraz
+[[Benzodiazepines]]- Loraz
 - central effect due to depression of CTZ
 
 Atypical [[antipsychotic drugs|antipsychotics]]- Olanzapine

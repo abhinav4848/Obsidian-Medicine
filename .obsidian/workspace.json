@@ -73,13 +73,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "statistics- basics about data.md",
+                "file": "antipsychotic drugs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "statistics- basics about data"
+              "title": "antipsychotic drugs"
+            }
+          },
+          {
+            "id": "8bae9e465bb7a91f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "toxins.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "toxins"
             }
           },
           {
@@ -97,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#stats  ",
+                "query": "diazepam",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -174,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "statistics- basics about data.md",
+                "file": "toxins.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of statistics- basics about data"
+              "title": "Graph of toxins"
             }
           }
         ]
@@ -314,7 +329,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "statistics- basics about data.md",
+                "file": "toxins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,7 +339,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for statistics- basics about data"
+              "title": "Backlinks for toxins"
             }
           }
         ]
@@ -344,10 +359,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6f893832a842be7b",
+  "active": "8bae9e465bb7a91f",
   "lastOpenFiles": [
-    "statistics- parametric tests.md",
+    "benzodiazepines.md",
+    "drugs contraindicated in pregnancy.md",
+    "amiodarone.md",
+    "antiemetics.md",
+    "antipsychotic drugs.md",
+    "deep vein thrombosis.md",
+    "haloperidol.md",
     "statistics- basics about data.md",
+    "statistics- parametric tests.md",
     "statistics- screening tests.md",
     "statistics- study types.md",
     "contraceptives.md",
@@ -365,13 +387,6 @@
     "metronidazole.md",
     "acne rosacea.md",
     "ivermectin.md",
-    "pneumonia.md",
-    "co-trimoxazole.md",
-    "statistics- confidence interval & standard error of mean.md",
-    "statistics- biases.md",
-    "red eye.md",
-    "blepharitis.md",
-    "fever caused by drugs.md",
     "flow charts/contraception after delivery.canvas",
     "attachments/dupuytren's contracture.png",
     "flow charts/h. pylori treatment flowchart.canvas",
