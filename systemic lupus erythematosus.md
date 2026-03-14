@@ -36,14 +36,15 @@ Suspect this if there are additional signs and symptoms (for example, rash, mou
 - Discoid rash
 - Serositis – Pleurisy, pericarditis
 - Oral ulcers
-- Arthritis
+- [[arthritis]]
 - Photosensitivity
 - Blood disorders (Pancytopenia) 
 - Renal involvement 
 - Antinuclear [[antibodies]] (ANA)
 - Immunologic phenomena
 - Neurologic disorder
-![[sle- md soap brain mnemonic.png|400]]
+>[!Mnemonic]- Image of Mnemonic 
+> ![[sle- md soap brain mnemonic.png|400]]
 
 # Drug induced Lupus erythematosis (DILE) causes:
 SHIPP ME #mnemonic 

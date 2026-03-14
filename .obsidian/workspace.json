@@ -58,13 +58,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contraceptives.md",
+                "file": "statistics- parametric tests.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "contraceptives"
+              "title": "statistics- parametric tests"
+            }
+          },
+          {
+            "id": "6f893832a842be7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "statistics- basics about data.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "statistics- basics about data"
             }
           },
           {
@@ -82,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -115,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:gynae",
+                "query": "tag:#stats  ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,8 +161,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -160,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "contraceptives.md",
+                "file": "statistics- basics about data.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,7 +202,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of contraceptives"
+              "title": "Graph of statistics- basics about data"
             }
           }
         ]
@@ -300,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contraceptives.md",
+                "file": "statistics- basics about data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,7 +324,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for contraceptives"
+              "title": "Backlinks for statistics- basics about data"
             }
           }
         ]
@@ -330,11 +344,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "591cca9ba2a900b9",
+  "active": "6f893832a842be7b",
   "lastOpenFiles": [
+    "statistics- parametric tests.md",
+    "statistics- basics about data.md",
+    "statistics- screening tests.md",
+    "statistics- study types.md",
+    "contraceptives.md",
     "contraceptives in emergency.md",
     "time for action of contraceptives.md",
-    "contraceptives.md",
     "conjunctivitis.md",
     "ophthalmia neonatorum.md",
     "antibiotic guidelines.md",
@@ -350,14 +368,10 @@
     "pneumonia.md",
     "co-trimoxazole.md",
     "statistics- confidence interval & standard error of mean.md",
-    "statistics- screening tests.md",
-    "statistics- study types.md",
     "statistics- biases.md",
     "red eye.md",
     "blepharitis.md",
     "fever caused by drugs.md",
-    "antipsychotic drugs.md",
-    "d2 antagonism.md",
     "flow charts/contraception after delivery.canvas",
     "attachments/dupuytren's contracture.png",
     "flow charts/h. pylori treatment flowchart.canvas",

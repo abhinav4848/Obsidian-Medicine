@@ -15,47 +15,29 @@ Because it's well-behaved mathematically, we can use more powerful statistical t
 | Student's unpaired t-test                        | is used for parametric data. T-tests = comparing averages                                                                                                                                                   |
 | Student's paired t-test                          | is used for parametric data, and data needs to be paired.                                                                                                                                                   |
 
-- **Paired data** refers to data obtained from a single group of patients, such as before and after an intervention. 
-- **Unpaired data** comes from two different groups of patients, such as those given the vaccine and those given the placebo in a study. 
-
 # Non-Parametric tests
 Does not follow a normal distribution. 
 Might be skewed, have outliers, or be based on ranks/ categories. e.g. Pain score (0-10), Likert scales, time to recovery. 
 
-|                                                                                   |                                                                                                                                                                                                        |
-| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Mann–Whitney U test                                                               | comparing ranked scores. This is for non-parametric data and compares `ordinal, interval, or ratio scales` of unpaired data. <br>	- e.g. Scale like 'Never', 'Rarely', 'Sometimes', 'Often', 'Always'. |
-| Wilcoxon signed-rank test                                                         | compares two sets of observations on a single sample (paired), e.g. a 'before' and 'after' test on the same population following an intervention. `Ordinal Paired`                                     |
-| chi-squared test                                                                  | used to compare proportions or percentages in `nominal unpaired` e.g. compares the percentage of patients who improved following two different interventions                                           |
-| Spearman rank, <br>Kendall rank correlation coefficient, aka<br>Kendall's τ (tau) | correlation (Correlation = seeing if two numbers move together)                                                                                                                                        |
-| McNemar's test                                                                    | used to analyse nominal paired data that is non-parametric.                                                                                                                                            |
-### Nominal Data
-**Categories with NO natural order** (Nominal = _name only_)
-e.g. Blood group, eye colour, diagnosis type.
-### Ordinal data
-Categories with order
-e.g. Mild, moderate, severe
+|                                                                                   |                                                                                                                                                                                                                            |
+| --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mann–Whitney U test aka Wilcoxon rank-sum test                                    | Comparing ranked scores on unpaired data. This is for non-parametric data and compares `ordinal, interval, or ratio scales` of unpaired data. <br>	- e.g. Scale like *'Never', 'Rarely', 'Sometimes', 'Often', 'Always'*.  |
+| Wilcoxon signed-rank test                                                         | Compares two sets of observations on a single sample (paired), e.g. a 'before' and 'after' test on the same population following an intervention. `Ordinal Paired` e.g *pain score before and after a new physio regimen.* |
+| chi-squared test                                                                  | Used to compare proportions or percentages in `nominal unpaired` e.g. *compares the percentage of patients who improved following two different interventions*                                                             |
+| Spearman rank, <br>Kendall rank correlation coefficient, aka<br>Kendall's τ (tau) | Correlation (Correlation = seeing if two numbers move together)                                                                                                                                                            |
+| McNemar's test                                                                    | used to analyse nominal paired data that is non-parametric.                                                                                                                                                                |
+#### These two names are the same test:
+They both:
+- Compare **two independent (unpaired) groups**
+- Use **ranks instead of raw values**
+- Are **non-parametric alternatives to the unpaired t-test**
 
-### Paired Nominal data
-e.g. Smoking status before and after an intervention
-Data is nominal (smoker/non-smoker), Observation is paired (before and after on the same person)
+Example : Compare **pain scores** between: patients on **drug A** & patients on **placebo**
 
----
-# Correlation Coefficient
-A **single number** that tells you:
-- **Direction** (positive or negative)
-- **Strength** (how tightly related)
-### Range
-`-1 to +1`
-
-| Value | Meaning                       |
-| ----- | ----------------------------- |
-| +1    | Perfect positive relationship |
-| 0     | No relationship               |
-| -1    | Perfect negative relationship |
-### Examples
-- Height vs weight → positive correlation
-- Exercise vs resting heart rate → negative correlation
+| Name                       | Why it exists                                               |
+| -------------------------- | ----------------------------------------------------------- |
+| **Mann–Whitney U test**    | Name emphasises the **U statistic** used in the calculation |
+| **Wilcoxon rank-sum test** | Name emphasises the **sum of ranks** used in the method     |
 
 ---
 # Correlation (relationship between two variables)
@@ -76,14 +58,3 @@ Correlation means seeing whether two variables move together (as one increases, 
 - Use when data isn’t normally distributed or is ranked/ordinal
 - Spearman and Kendall also give a value between –1 and +1 but based on RANKS, not raw numbers
 ---
-# Paired vs Unpaired
-### Parametric
-**Paired = same people measured twice**  
-(e.g. weight before vs after diet)
-
-**Unpaired = different groups of people**  
-(e.g. Group A on drug vs Group B on placebo)
-
-### Non-parametric
-Mann-Whitney U = comparing 2 unpaired non-parametric groups  
-Wilcoxon = comparing 2 paired non-parametric groups
