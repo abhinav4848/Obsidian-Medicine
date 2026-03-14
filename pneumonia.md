@@ -25,6 +25,10 @@ Reduced occurrence in children due to Hib vaccine but can cause [[acute epiglott
 ---
 ## 2. Hospital acquired pneumonia
 [[Co-trimoxazole]] #abx 
+- develops 48 hours or more after hospital admission, or 
+- is present at admission in people who have been discharged from hospital within the last 7 to 10 days
+
+Within 5 days of admission: co-amoxiclav or cefuroxime  <br>More than 5 days after admission: piperacillin with tazobactam OR a broad-spectrum cephalosporin (e.g. ceftazidime) OR a quinolone (e.g. ciprofloxacin)
 
 ---
 ## 3. Klebsiella pneumoniae
