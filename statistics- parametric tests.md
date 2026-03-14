@@ -4,6 +4,7 @@ tags:
 urls:
   - https://chatgpt.com/share/697feb75-5aec-8012-9b56-8446cce9d893
 ---
+*See also [[statistics- basics about data]]* 
 # Parametric tests
 Normally distributed (the classic bell curve). 
 Usually measured on a continuous scale (height, BP, HbA1c).

@@ -45,21 +45,69 @@ Example: BP 120 vs 140 → difference **20 mmHg** matters.
 Ranking would throw away that information.
 ## Rank-Sum
 Rank all observations across two groups.
+**Process**
+1. Combine values from both groups.
+2. Rank all values from smallest to largest.
+3. Sum the ranks for each group.
+4. Compare the rank sums to see if one group tends to have higher values.
+**Idea:**
+> Tests whether **one independent group tends to have larger values than the other**.
 ## Signed-Rank
 Rank the differences within pairs.
+**Process**
+1. Calculate the **difference** between paired measurements.
+2. Rank the **absolute differences** (ignore signs initially).
+3. Add the **sign (+/−)** back to each rank.
+4. Sum positive and negative ranks to see if changes occur consistently in one direction.
+**Idea:**
+> Tests whether **paired measurements consistently increase or decrease**.
 
 ---
 # Nominal Data vs Ordinal Data
+| Feature | Meaning                                          |
+| ------- | ------------------------------------------------ |
+| Nominal | Categories with no order                     |
+| Ordinal | Categories with order                        |
+| Paired  | Same subject measured twice or matched pairs |
 ### Nominal data
-**Categories with NO natural order** (Nominal = _name only_)
-e.g. Blood group, eye colour, diagnosis type.
-### Ordinal data
-Categories with order
-e.g. Mild, moderate, severe
+Categories with NO natural order (Nominal = _name only_)
+- e.g. Blood group, eye colour, diagnosis type.
+**Key idea**: Categories are different but not ranked.
 
+### Ordinal data
+Categorical data with a natural order. 
+e.g. 
+- Mild → Moderate → Severe
+- Pain score categories
+- Satisfaction levels (poor / fair / good)
+
+**Key idea**: Categories are ranked, but the distance between them is not necessarily equal. If we mark mild/mod/severe as 1,2,3, then the jump from 1 → 2 is not guaranteed to equal 2 → 3.
+
+**Note**: Ordinal data is not "non-normal". The idea of normality simply doesn’t apply to it. Ordinal data are categories with order, not true numbers. Because ordinal data are not true continuous numbers, we usually analyse them with non-parametric tests, such as: Mann–Whitney U test, Wilcoxon signed-rank test, Spearman's rank correlation coefficient.
+These tests work with ranks rather than numerical distances.
 ### Paired Nominal data
-e.g. Smoking status before and after an intervention
-Data is nominal (smoker/non-smoker), Observation is paired (before and after on the same person)
+Nominal categorical data where observations are paired within the same subject or matched unit.
+Example: Smoking status **before and after** an intervention.
+
+|Patient|Before|After|
+|---|---|---|
+|A|Smoker|Non-smoker|
+|B|Smoker|Smoker|
+- **Data type:** Nominal (smoker / non-smoker)
+- **Observation type:** Paired (same person measured twice)
+
+---
+# t-Test vs U-test
+A t-test compares means for normally distributed continuous data, whereas the Mann–Whitney U test compares ranks when data are non-normal or ordinal. 
+- t-test: compares averages using actual values
+- U-test: compares relative positions using ranks
+
+| Situation                                | Parametric Test               | Non-Parametric Equivalent                  | Notes                                                       |
+| ---------------------------------------- | ----------------------------- | ------------------------------------------ | ----------------------------------------------------------- |
+| Two independent groups                   | Unpaired (independent) t-test | Mann–Whitney U test aka. Wilcoxon rank-sum | Compares group averages vs ranks; data should be continuous |
+| Same individuals measured twice (paired) | Paired t-test                 | Wilcoxon signed-rank test                  | Compares before–after or matched pairs; uses differences    |
+- Unpaired → independent groups → t-test / U-test
+- Paired → same subjects → paired t-test / signed-rank
 
 ---
 # Correlation Coefficient
