@@ -29,8 +29,17 @@ aliases:
 - Ulipristal may reduce the effectiveness of hormonal contraception. Contraception with the pill, patch or ring should be started, or restarted, 5 days after having ulipristal. Barrier methods should be used during this period.
 - ==breastfeeding should be delayed== for one week after taking ulipristal. There are no such restrictions on the use of levonorgestrel.
 - Caution in ==severe [[asthma]]==.
-# IUCD
+# IUD
+*(IUS is not emergency contraception. See [[time for action of contraceptives]] & [[contraceptives]])*
 - Use within 120 hrs of UPSI.
 - if a woman presents after more than 5 days of UPSI, then an IUD may be fitted up to 5 days after the likely ovulation date
 - is 99% effective regardless of where it is used in the cycle.
 - It prevents fertilisation (prevent sperm from reaching the egg), but even if that has occurred, can prevent implantation.
+
+---
+# Question
+Q: Woman had UPSI **3 days ago** and wants **Mirena today**.
+Incorrect answer:  ❌ Insert Mirena now.
+Correct answers:  
+- Either do ✔ Copper IUD, OR
+- Give ✔ Oral Emergency contraception now + delay Mirena till Pregnancy ruled out (usually till after next period or >=21 days with negative test)

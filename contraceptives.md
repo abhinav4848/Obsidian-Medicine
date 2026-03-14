@@ -27,10 +27,11 @@ This is a progestogen tablet that you take every day but it is not a contracepti
 - c/I in < 20 yo
 - Use < 48 hrs or > 28 days after delivery. Else risk of perforation in between.
 - Has no absolute risk of ectopic pregnancy, but has relative risk. 
-- infection: there is a small increased risk of [[pelvic inflammatory disease]] in the first 20 days after insertion but after this period the risk returns to that of a standard population
+- **infection**: there is a small increased risk of [[pelvic inflammatory disease]] in the first 20 days after insertion but after this period the risk returns to that of a standard population
 - expulsion: risk is around 1 in 20, and is most likely to occur in the first 3 months
-### IUS  
-Can be relied upon ==after 7 days==. 
+### IUS 
+Immediate contraception if inserted ≤7 days from start of menstruation; otherwise use additional contraception for 7 days. 
+(see [[time for action of contraceptives]]).
 ##### Mirena (LNG-IUS)
 - It contains levonorgestrel (progesterone)
 - It prevents endometrial proliferation (reducing blood loss by >90%) & thickens cervical mucus.
