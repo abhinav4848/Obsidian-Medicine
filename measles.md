@@ -21,7 +21,7 @@ K: *Koplik, Cough, Coryza, Conjunctivitis* #mnemonic
 ![Measles Koplik|300](https://assets.nhs.uk/nhsuk-cms/images/S_1017_kopliks-spots_M2100363.original.width-1534.jpg)
 
 ## Complication
-- MCC of death: [[pneumonia#11. Measles-associated viral pneumonia linked|Measles-associated viral pneumonia]] 
+- MCC of death: [[pneumonia#10. Measles-associated viral pneumonia linked|Measles-associated viral pneumonia]] 
 - Bacterial superinfection (pneumonia): is also a recognised complication of measles but typically presents later in the illness or in those who appear initially to recover then deteriorate again. Check for h/o purulent sputum or sudden clinical worsening following initial improvement.
 - Otitis media
 - Diarrhoea

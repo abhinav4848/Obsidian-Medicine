@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pneumonia.md",
+                "file": "antibiotic guidelines.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "pneumonia"
+              "title": "antibiotic guidelines"
             }
           }
         ],
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "antibiotic summ",
+                "query": "Rhinophyma",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -145,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pneumonia.md",
+                "file": "antibiotic guidelines.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of pneumonia"
+              "title": "Graph of antibiotic guidelines"
             }
           }
         ]
@@ -285,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pneumonia.md",
+                "file": "antibiotic guidelines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pneumonia"
+              "title": "Backlinks for antibiotic guidelines"
             }
           }
         ]
@@ -317,9 +318,15 @@
   },
   "active": "591cca9ba2a900b9",
   "lastOpenFiles": [
-    "co-trimoxazole.md",
-    "pneumonia.md",
+    "ciprofloxacin.md",
+    "fluroquinolone.md",
     "antibiotic guidelines.md",
+    "seizure.md",
+    "metronidazole.md",
+    "acne rosacea.md",
+    "ivermectin.md",
+    "pneumonia.md",
+    "co-trimoxazole.md",
     "statistics- confidence interval & standard error of mean.md",
     "statistics- screening tests.md",
     "statistics- study types.md",
@@ -328,7 +335,6 @@
     "blepharitis.md",
     "fever caused by drugs.md",
     "antipsychotic drugs.md",
-    "seizure.md",
     "d2 antagonism.md",
     "extrapyramidal side-effects.md",
     "anticholinergics.md",
@@ -338,11 +344,6 @@
     "dementia.md",
     "uveitis.md",
     "seronegative spondyloarthropathy.md",
-    "spondyloarthritis.md",
-    "arthritis.md",
-    "reactive arthritis.md",
-    "inflammatory bowel disease.md",
-    "ankylosing spondylitis.md",
     "flow charts/contraception after delivery.canvas",
     "attachments/dupuytren's contracture.png",
     "flow charts/h. pylori treatment flowchart.canvas",

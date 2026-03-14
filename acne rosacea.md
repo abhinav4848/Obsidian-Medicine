@@ -4,6 +4,8 @@ tags:
 urls:
   - https://dermnetnz.org/topics/rosacea
   - https://dermnetnz.org/images/rosacea-images
+  - "[PCDS- Rosacea](https://www.pcds.org.uk/clinical-guidance/rosacea)"
+  - "[NICE CKS- Rosacea](https://cks.nice.org.uk/topics/rosacea/management/rosacea/)"
 aliases:
   - rosacea
 OHGp 5th Ed: 570
@@ -40,4 +42,4 @@ Camouflage creams help hide redness
 ## Referral
 - symptoms have not improved with optimal management in primary care
     - laser therapy may be appropriate for patients with prominent telangiectasia
-- Rhinophyma: Nose disfigurement.
+- [[Rhinophyma]]: Nose disfigurement.

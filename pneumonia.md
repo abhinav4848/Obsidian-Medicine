@@ -23,12 +23,32 @@ Especially common in patients with [[COPD]] -> Presents as acute exacerbation of
 Reduced occurrence in children due to Hib vaccine but can cause [[acute epiglottitis]] in them. 
 
 ---
-## 2. Hospital acquired pneumonia
-[[Co-trimoxazole]] #abx 
-- develops 48 hours or more after hospital admission, or 
+## 2a. Community Acquired Pneumonia %%is linked%%
+*See [NICE Visual summary for CAP on this page](https://www.nice.org.uk/guidance/ng250)*
+Pneumonia that is acquired outside hospital, or within 48 hours of admission. Pneumonia that develops in a nursing home resident is included in this definition.
+
+From [NICE- QS110](https://www.nice.org.uk/guidance/qs110/chapter/Quality-statement-3-Duration-of-initial-antibiotic-treatment): If non-severe symptoms, prescribe 
+- 5 day abx for adults with CAP or HAP, or 
+- 3 days for children 3 months to 11 years 
+### Recovery course
+In Pneumonia, how quickly should symptoms resolve: 
+
+|Time|Progress|
+|---|---|
+|1 week|Fever should have resolved|
+|4 weeks|Chest pain and sputum production should have substantially reduced|
+|6 weeks|Cough and breathlessness should have substantially reduced|
+|3 months|Most symptoms should have resolved but fatigue may still be present|
+|6 months|Most people will feel back to normal.|
+All cases of pneumonia should have a repeat chest X-ray at 6 weeks after clinical resolution to ensure that the consolidation has resolved and there is no underlying secondary abnormalities (e.g. a lung tumour). It's often arranged by the X-Ray department itself. 
+
+## 2b. Hospital acquired pneumonia
+- develops > 48hr after hospital admission, or 
 - is present at admission in people who have been discharged from hospital within the last 7 to 10 days
 
-Within 5 days of admission: co-amoxiclav or cefuroxime  <br>More than 5 days after admission: piperacillin with tazobactam OR a broad-spectrum cephalosporin (e.g. ceftazidime) OR a quinolone (e.g. ciprofloxacin)
+*See [NICE Visual summary- HAP](https://www.nice.org.uk/guidance/ng250/resources/visual-summary-hospital-acquired-pneumonia-pdf-15434376303)*
+Within 5 days of admission: co-amoxiclav
+Others: Doxy, Cefalexin, [[co-trimoxazole]]
 
 ---
 ## 3. Klebsiella pneumoniae
@@ -113,24 +133,6 @@ A vaccine to pneumococcal is available.
 The pneumococcal vaccine is routinely offered to infants, those aged > 65, and patients with other health conditions that put them at high risk. e.g. Asthmatic requiring steroids at doses high enough to cause immunosuppression. #vaccine 
 
 ---
-# 10. Community Acquired Pneumonia %%is linked%%
-Pneumonia that is acquired outside hospital, or within 48 hours of admission. Pneumonia that develops in a nursing home resident is included in this definition.
-
-From [NICE](https://www.nice.org.uk/guidance/qs110/chapter/Quality-statement-3-Duration-of-initial-antibiotic-treatment): Prescribe 5 day abx for adults with CAP or HAP, or 3 days for children 3 months to 11 years, if non-severe symptoms. 
-
-### Recovery course
-In Pneumonia, how quickly should symptoms resolve: 
-
-|Time|Progress|
-|---|---|
-|1 week|Fever should have resolved|
-|4 weeks|Chest pain and sputum production should have substantially reduced|
-|6 weeks|Cough and breathlessness should have substantially reduced|
-|3 months|Most symptoms should have resolved but fatigue may still be present|
-|6 months|Most people will feel back to normal.|
-All cases of pneumonia should have a repeat chest X-ray at 6 weeks after clinical resolution to ensure that the consolidation has resolved and there is no underlying secondary abnormalities (e.g. a lung tumour). It's often arranged by the X-Ray department itself. 
-
----
-# 11. Measles-associated viral pneumonia %%linked%%
+# 10. Measles-associated viral pneumonia %%linked%%
 Pneumonia is the most common cause of death in [[measles]], often occurring during or shortly after the acute illness. 
 After Measles rash, there can be new respiratory compromise with focal signs on examination (basal crackles). In children with measles, viral pneumonitis can develop due to direct infection of the respiratory tract by the measles virus itself.

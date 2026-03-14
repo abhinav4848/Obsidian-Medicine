@@ -2,6 +2,8 @@
 tags:
   - abx
   - pharmacology
+urls:
+  - "[LMSG antimicrobial guideline](https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2015/05/LLR-Antimicrobial-Policy-and-Guidance-for-Primary-care.pdf)"
 ---
 #### Antibiotic guidelines
 The following is based on current BNF guidelines:  
@@ -15,21 +17,21 @@ The following is based on current BNF guidelines:
 | Hospital-acquired [[pneumonia]]                 | Within 5 days of admission: co-amoxiclav or cefuroxime  <br>More than 5 days after admission: piperacillin with tazobactam OR a broad-spectrum cephalosporin (e.g. ceftazidime) OR a quinolone (e.g. ciprofloxacin) |
 ##### Urinary tract
 
-|**Condition**|**Recommended treatment**|
-|---|---|
-|Lower urinary tract infection|Trimethoprim or nitrofurantoin. Alternative: amoxicillin or cephalosporin|
-|Acute pyelonephritis|Broad-spectrum cephalosporin or quinolone|
-|Acute prostatitis|Quinolone or trimethoprim|
+| **Condition**                                                                            | **Recommended treatment**                                                      |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| Lower urinary tract infection                                                            | Trimethoprim or nitrofurantoin. Alternative: amoxicillin or cephalosporin      |
+| Acute pyelonephritis                                                                     | Broad-spectrum cephalosporin or quinolone                                      |
+| Acute prostatitis ([NICE- Prostatis](https://cks.nice.org.uk/topics/prostatitis-acute/)) | [[fluroquinolone\|Quinolone]] ([[ciprofloxacin]] or Ofloxacin) or trimethoprim |
 ##### Skin
 
-|**Condition**|**Recommended treatment**|
-|---|---|
-|Impetigo|Topical hydrogen peroxide, oral flucloxacillin or erythromycin if widespread|
-|Cellulitis|Flucloxacillin (clarithromycin, erythromycin or doxycycline if penicillin-allergic)|
-|Cellulitis (near the eyes or nose)|Co-amoxiclav (clarithromycin, + metronidazole if penicillin-allergic)|
-|Erysipelas|Flucloxacillin* (clarithromycin, erythromycin or doxycycline if penicillin-allergic)|
-|Animal or human bite|Co-amoxiclav (doxycycline + metronidazole if penicillin-allergic)|
-|Mastitis during breast-feeding|Flucloxacillin|
+| **Condition**                      | **Recommended treatment**                                                            |
+| ---------------------------------- | ------------------------------------------------------------------------------------ |
+| [[impetigo]]                       | Topical hydrogen peroxide, oral flucloxacillin or erythromycin if widespread         |
+| Cellulitis                         | Flucloxacillin (clarithromycin, erythromycin or doxycycline if penicillin-allergic)  |
+| Cellulitis (near the eyes or nose) | Co-amoxiclav (clarithromycin, + [[metronidazole]] if penicillin-allergic)            |
+| Erysipelas                         | Flucloxacillin* (clarithromycin, erythromycin or doxycycline if penicillin-allergic) |
+| Animal or human bite               | Co-amoxiclav (doxycycline + metronidazole if penicillin-allergic)                    |
+| Mastitis during breast-feeding     | Flucloxacillin                                                                       |
 ##### Ear, nose & throat
 
 |**Condition**|**Recommended treatment**|
