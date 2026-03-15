@@ -22,11 +22,11 @@ urls:
 - [[multiple myeloma|myeloma]] (total protein, serum electrophoresis, and urine bence jones protein)
 - Cancers (especially lung and GI)
 ## Classification of severity
-| Severity of Hyponatraemia | Serum Sodium (mmol/L) | Symptoms                                                                                          |
-| ------------------------- | --------------------- | ------------------------------------------------------------------------------------------------- |
-| Mild                      | 130–135               | May be asymptomatic. If any symptoms, treat as acute severe Hyponatremia                          |
-| Moderate                  | 125–129               | **Early symptoms**: Headache, lethargy, nausea, vomiting, dizziness, confusion, and muscle cramps |
-| Severe                    | <125                  | **Late symptoms**: seizures, coma, and respiratory arrest                                         |
+| Severity of Hyponatraemia | Serum Sodium (mmol/L) | Symptoms                                                                                                     |
+| ------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Mild                      | 130–135               | May be asymptomatic. If any symptoms, treat as acute severe Hyponatremia                                     |
+| Moderate                  | 125–129               | **Early symptoms**: Headache, lethargy, nausea, vomiting, dizziness, confusion, and muscle cramps.           |
+| Severe                    | <125                  | **Late symptoms**: seizures, coma, and respiratory arrest.<br><br>If Na<125 & no symptoms, repeat in 2 weeks |
 Hyponatremia is potentially life threatening when it's severe and/or acute onset (i.e. <48hr onset). This is due to cerebral edema & Raised ICP -> Brain herniation, Seizure, coma, Cardio-resp arrest. 
 
 ---

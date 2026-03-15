@@ -7,6 +7,16 @@ aliases:
   - antidepressant
   - SNRI
 ---
+# Ask these questions in consultation
+- Premorbid: what activities they enjoyed doing before but don't enjoy now. 
+- Ask both of these questions always: These are 2 separate questions: Risk of self harm or harm to others? Thoughts of suicide?
+- Give Crisis phone number. 
+- Bio-psycho-social profile: Appetite/Sleep/Food/Weight/Mood. 
+- If the patient is looking down a lot & avoiding eye contact- Looks like you're looking down, do you feel okay? Is there anything you want me to do? 
+- Follow up in 2 weeks for a stable patient. 
+- If family member got the patient to come in, but didn't come themselves, ask them to join the patient in the follow up. 
+- Ask patient to bring [[scoring system|PHQ-9]] in the follow up. 
+
 # Typical Antidepressants
 ## [[Tricyclic antidepressants]]
 Amitriptyline
@@ -18,11 +28,12 @@ Sertraline, Fluoxetine (both s/e: Anorgasmia/delayed ejaculation, SIADH),
 - Give for 6-9 months. 
 - Fluoxetine doesn’t require gradual dose reduction as long half life. Good if poor meds compliance. But bad as s/e if any, will last longer. 
 - Fluoxetine not given for [[panic attacks]]. Give sertraline if at all. 
+- Tell the patient they're at increased risk of GI bleed if they also take NSAID. Give lansoprazole then. 
 
 [[Citalopram]] (s/e [[glaucoma- acute angle closure|Acute angle closure glaucoma]], [[qt prolongation]]),
 Paroxetine.
 #### Side effects of SSRIs
-- See [[ssri#Side Effects of SSRIs]] #important 
+*See [[ssri#Side Effects of SSRIs linked|Side Effects of SSRIs]]* #important 
 ## MAOi 
 They are also antidepressants that are almost entirely not used, even in comparison to TCAs (dosulepin, etc.)
 
@@ -31,6 +42,7 @@ They are also antidepressants that are almost entirely not used, even in compari
 1. **SNRI**: Venlafaxine, [[Duloxetine]] (also used in [[incontinence- adult|Stress incontinence]])
 2. Atypical tetracyclic antidepressant: Mirtazapine
 	1. NaSSA: Noradrenergic & specific serotonergic antidepressant (5HT3)
+	2. Safer to use if risk of GI bleed risk high (warfarin/heparin)
 3. Trazodone 
 4. Bupropion, and [[smoking|nicotinic]] acetylcholine antagonist. 
 	1. NDRI: NA and DA reuptake inhibitor
@@ -53,27 +65,27 @@ Severe Depression:
 Following the initiation of antidepressant therapy patients should normally be reviewed by a doctor after 2 weeks. 
 
 >[!warning]
-Patients < 25yo, or at increased risk of suicide should be reviewed after 1 week. Ensure a risk management strategy is in place. Arrange subsequent reviews as needed and within 4 weeks of starting antidepressant treatment. 
+Patients < 25yo, or at increased risk of suicide should be reviewed after 1 week. Ensure a risk management strategy is in place. Give crisis phone number. Arrange subsequent reviews as needed and within 4 weeks of starting antidepressant treatment. 
 # Discontinuation
-Antidepressants are not addictive and should be used for 6 months at least, even if early improvement seen, as this reduces relapse.  
-
-When stopping a SSRI the dose should be gradually reduced over a 4 week period (this is not necessary with fluoxetine). Paroxetine & venlafaxine has a higher incidence of discontinuation symptoms.
-- See [[ssri#Side Effects of SSRIs]]
+*See [[ssri#Side Effects of SSRIs linked|Side Effects of SSRIs]]* 
+- Antidepressants are not addictive and should be used for 6 months at least, even if early improvement seen, as this reduces relapse.  
+- If a patient makes a good response to antidepressant therapy they should continue on treatment for at least 6 months after remission as this reduces the risk of relapse.
+- When stopping a SSRI the dose should be gradually reduced over a 4 week period (this is not necessary with fluoxetine). Paroxetine & venlafaxine has a higher incidence of discontinuation symptoms.
 
 # Drugs in specific conditions
-| Condition                                               | Drug to choose                                                                                                                                                                                                                                                                                                                                               |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Antiepileptic drug                                      | sertraline                                                                                                                                                                                                                                                                                                                                                   |
-| Atypical depression                                     | MAOi Phenelzine                                                                                                                                                                                                                                                                                                                                              |
-| MI                                                      | Sertraline > Citalopram (SSRI) (but risk of bleeding cuz patient on blood thinners already) -> if patient has IHD & is on Aspirin, add PPI.<br><br>Also, [[citalopram]] has [[qt prolongation]].                                                                                                                                                             |
-| Patient on Triptans/MAO inhibitors                      | Increased risk of [[fever caused by drugs\|Serotonin syndrome]].                                                                                                                                                                                                                                                                                             |
-| Patient on Warfarin/Heparin/Aspirin/has sexual disorder | Mirtazapine (Avoid SSRI like [[citalopram]])                                                                                                                                                                                                                                                                                                                 |
-| Post-partum depression                                  | Sertraline (best for breastfeeding mothers)                                                                                                                                                                                                                                                                                                                  |
-| Postpartum Psychosis                                    | ECT                                                                                                                                                                                                                                                                                                                                                          |
-| Pregnant                                                | - BNF says to weigh up benefits and risk when deciding whether to use in pregnancy.<br>- Use during the T1 gives a small increased risk of congenital heart defects<br>- Use during T3 can result in persistent pulmonary hypertension of the newborn<br>- Paroxetine has an increased risk of congenital malformations, particularly in the first trimester |
-| Psychotic Depression                                    | TCA                                                                                                                                                                                                                                                                                                                                                          |
-| Under 18                                                | Fluoxetine only                                                                                                                                                                                                                                                                                                                                              |
-| elderly                                                 | Talking therapies such as CBT in older people are as effective as antidepressants in less severe depression. Antidepressant medications as carry a greater risk of side-effects in older adults, and have a lower risk–benefit ratio in less severe depression.                                                                                              |
+| Condition                                                                            | Drug to choose                                                                                                                                                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Antiepileptic drug                                                                   | sertraline                                                                                                                                                                                                                                                                                                                                                   |
+| Atypical depression                                                                  | MAOi Phenelzine                                                                                                                                                                                                                                                                                                                                              |
+| MI                                                                                   | Sertraline > Citalopram (SSRI) (but risk of bleeding cuz patient on blood thinners already) -> if patient has IHD & is on Aspirin, add PPI.<br><br>Also, [[citalopram]] has [[qt prolongation]].                                                                                                                                                             |
+| Patient on Triptans/MAO inhibitors                                                   | Increased risk of [[fever caused by drugs\|Serotonin syndrome]].                                                                                                                                                                                                                                                                                             |
+| Patient on Warfarin/Heparin/Aspirin/has sexual disorder                              | Mirtazapine (Avoid SSRI like [[citalopram]])                                                                                                                                                                                                                                                                                                                 |
+| Post-partum depression                                                               | Sertraline (best for breastfeeding mothers)                                                                                                                                                                                                                                                                                                                  |
+| Postpartum Psychosis                                                                 | ECT                                                                                                                                                                                                                                                                                                                                                          |
+| Pregnant: See [NICE](https://cks.nice.org.uk/topics/depression-antenatal-postnatal/) | - BNF says to weigh up benefits and risk when deciding whether to use in pregnancy.<br>- Use during the T1 gives a small increased risk of congenital heart defects<br>- Use during T3 can result in persistent pulmonary hypertension of the newborn<br>- Paroxetine has an increased risk of congenital malformations, particularly in the first trimester |
+| Psychotic Depression                                                                 | TCA                                                                                                                                                                                                                                                                                                                                                          |
+| Under 18                                                                             | Fluoxetine only                                                                                                                                                                                                                                                                                                                                              |
+| elderly                                                                              | Talking therapies such as CBT in older people are as effective as antidepressants in less severe depression. Antidepressant medications as carry a greater risk of side-effects in older adults, and have a lower risk–benefit ratio in less severe depression.                                                                                              |
 # Questionnaire to assess mental health
 PHQ-9 (see [[scoring system|PHQ-9]]).
 
