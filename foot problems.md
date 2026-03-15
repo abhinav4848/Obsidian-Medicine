@@ -28,21 +28,22 @@ aliases:
   - Hammer toe
   - Claw toe
   - Mallet toe
+  - myxoid cyst
 ---
 # Sites of pain
-|Condition|Typical Site of Pain|
-|---|---|
-|Morton's neuroma|Plantar forefoot between 3rd/4th metatarsal heads (may radiate to toes)|
-|Metatarsal stress fracture|Dorsal forefoot over affected metatarsal shaft|
-|Sesamoiditis|Plantar surface beneath 1st metatarsal head|
-|Bursitis|Around 1st or 2nd MTP joint (dorsal or plantar depending on bursa involved)|
-|Bunion (Hallux valgus)|Medial aspect of 1st MTP joint|
-|Plantar fasciitis|Plantar heel (medial calcaneal tubercle)|
-|Achilles tendinopathy|Posterior heel along Achilles tendon|
-|Tarsal tunnel syndrome|Medial ankle radiating to sole|
-|Hallux rigidus|Dorsal 1st MTP joint|
-|Freiberg’s disease|2nd MTP joint (plantar forefoot)|
-|Hammer/claw toes|Dorsal PIP joints of toes|
+| Condition                  | Typical Site of Pain                                                        |
+| -------------------------- | --------------------------------------------------------------------------- |
+| Morton's neuroma           | Plantar forefoot between 3rd/4th metatarsal heads (may radiate to toes)     |
+| Metatarsal stress fracture | Dorsal forefoot over affected metatarsal shaft                              |
+| Sesamoiditis               | Plantar surface beneath 1st metatarsal head                                 |
+| Bursitis                   | Around 1st or 2nd MTP joint (dorsal or plantar depending on bursa involved) |
+| Bunion (Hallux valgus)     | Medial aspect of 1st MTP joint                                              |
+| Plantar fasciitis          | Plantar heel (medial calcaneal tubercle)                                    |
+| Achilles tendinopathy      | Posterior heel along Achilles tendon                                        |
+| Tarsal tunnel syndrome     | Medial ankle radiating to sole                                              |
+| Hallux rigidus             | Dorsal 1st MTP joint                                                        |
+| Freiberg’s disease         | 2nd MTP joint (plantar forefoot)                                            |
+| Hammer/claw toes           | Dorsal PIP joints of toes                                                   |
 # Morton's neuroma
 [PCDS- Peripheral neuroectodermal tumours (Morton neuroma)](https://www.pcds.org.uk/clinical-guidance/peripheral-neuroectodermal-tumours) 
 Most commonly occurs in women aged 40–50 who wear high heeled shoes. The pain is due to entrapment of the interdigital nerve between the 3rd/4th metatarsal heads. However, other interspaces can be involved.
@@ -76,6 +77,10 @@ More common in women and associated with tight or narrow footwear. There is ofte
 - May coexist with bursitis over the bunion
 
 Pain is typically mechanical and worsened by footwear.
+# Myxoid cyst
+Myxoid cysts (aka mucous cysts) are essentially benign ganglion cysts related to mild osteoarthritis. They normally have the typical appearance of a cyst and can almost look like a well-demarcated fluid filled blister. They're more common in middle aged women. 
+
+Researchers aren't exactly sure what causes myxoid cysts. They appear to form when connective tissue weakens (degenerates). Osteoarthritis and other degenerative diseases can cause the lining of your joints to grow excessively.Digital myxoid cysts are slow growing over months and usually not painful but may become tender especially when knocked.
 
 # Others
 ### Plantar fasciitis

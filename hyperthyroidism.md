@@ -21,7 +21,7 @@ She may even have amenorrhea, sweating, etc.
 Proximal myopathy
 Pretibial myxedema- orange peel [[shin lesions|shin]] lesions: non-pitting, symmetrical, erythematous
 ## Complication
-A fib possible due to thyrotoxicosis.
+[[atrial fibrillation|A fib]] possible due to thyrotoxicosis.
 
 ---
 # Hyperthyroidism in Pregnancy
@@ -32,6 +32,7 @@ A fib possible due to thyrotoxicosis.
 **Carbimazole**: T2, T3, Non-pregnant. Basically the DOC.
 	**Dose**: OD
 	**s/e**: Aplasia cutis, omphalocele in infants, agranulocytosis.
+	**Leukopaenia-induced fungal infection**: Carbimazole can cause leukopaenia, which could theoretically predispose to fungal infections, fungal infections typically present with scaling, erythema, and pruritus rather than simple depigmentation. (see [[vitiligo]])
 
 Radioiodine c/I in pregnancy & grave ophthalmopathy. 
 Partial thyroidectomy can be done in T2.

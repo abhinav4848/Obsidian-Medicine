@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vitiligo.md",
+                "file": "copd- acute exacerbation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "vitiligo"
+              "title": "copd- acute exacerbation"
             }
           }
         ],
@@ -131,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "carbimaz",
+                "query": "copd",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "vitiligo.md",
+                "file": "copd- acute exacerbation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,7 +204,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of vitiligo"
+              "title": "Graph of copd- acute exacerbation"
             }
           }
         ]
@@ -296,14 +296,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "vitiligo.md"
+                "file": "copd- acute exacerbation.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for vitiligo"
+              "title": "File properties for copd- acute exacerbation"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "c9a800b7c85d029b",
@@ -316,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vitiligo.md",
+                "file": "copd- acute exacerbation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +326,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for vitiligo"
+              "title": "Backlinks for copd- acute exacerbation"
             }
           }
         ]
@@ -348,6 +348,17 @@
   },
   "active": "8bae9e465bb7a91f",
   "lastOpenFiles": [
+    "copd- acute exacerbation.md",
+    "copd- table of contents.md",
+    "foot problems.md",
+    "pancoast tumor.md",
+    "sciatica.md",
+    "Untitled.base",
+    "fertility.md",
+    "folic acid.md",
+    "hyperthyroidism.md",
+    "atrial fibrillation.md",
+    "subacute thyroiditis.md",
     "vitiligo.md",
     "drugs contraindicated in pregnancy.md",
     "alopecia.md",
@@ -364,17 +375,7 @@
     "school in children with rash.md",
     "ssri.md",
     "venous thromoboembolism.md",
-    "deep vein thrombosis.md",
-    "antipsychotic drugs.md",
-    "benzodiazepines.md",
     "flow charts/deep vein thrombosis.canvas",
-    "toxins.md",
-    "amiodarone.md",
-    "antiemetics.md",
-    "haloperidol.md",
-    "statistics- basics about data.md",
-    "statistics- parametric tests.md",
-    "statistics- screening tests.md",
     "flow charts/contraception after delivery.canvas",
     "attachments/dupuytren's contracture.png",
     "flow charts/h. pylori treatment flowchart.canvas",
@@ -400,7 +401,6 @@
     "attachments/diagnose asthma in ages 5-16yo.jpg",
     "attachments/diagnose asthma in people over 16yo.jpg",
     "attachments/MCP & MTP squeeze test for rheumatoid arthritis.jpg",
-    "attachments/guidance on plasma viscosity.pdf",
     "flow charts/paeds examination.canvas",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "_chicken Pox treatment flowchart (Work in progress).canvas"

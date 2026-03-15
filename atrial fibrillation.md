@@ -1,6 +1,8 @@
 ---
 tags:
   - cardio
+aliases:
+  - A fib
 ---
 # Causes
 #mnemonic : PIRATES Mnemonic for new-onset atrial fibrillation
