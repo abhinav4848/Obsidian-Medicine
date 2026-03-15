@@ -4,7 +4,7 @@ tags:
 ---
 # Causes
 #mnemonic : PIRATES Mnemonic for new-onset atrial fibrillation
-- Pulmonary causes (OSA, PE, [[COPD]], pneumonia)  
+- Pulmonary causes ([[obstructive sleep apnoea|OSA]], PE, [[COPD]], pneumonia)  
 - Ischemia/Infarction/CAD  
 - Rheumatic heart disease and Mitral Regurgitation (abnormal heart valve)  
 - Alcohol / Anaemia (high output failure)  

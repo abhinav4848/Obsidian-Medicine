@@ -1,6 +1,7 @@
 ---
 aliases:
   - malignant melanoma
+  - lentigo maligna
 tags:
   - dermat
   - cancer
@@ -33,6 +34,9 @@ Also show the picture of melanoma to patient and ask her to come back if she not
 > - **E = Elevation,** AND
 > - **F = Firmness** to touch, AND
 > - **G = Growth**. Sustained growth for 3-4 weeks
+
+## Lentigo Maligna
+Lentigo maligna is a term for melanoma in-situ. It should be suspected in cases where there is a pigmented macule/patch with irregular borders, irregular pigment networks and asymmetry. These are not apparent in this case. 
 # Mole
 If mole is interfering with life, malignant, obstructing orifice, refer under plastic surgery NHS. 
 For cosmetic reason, refer to private dermatology clinic. 

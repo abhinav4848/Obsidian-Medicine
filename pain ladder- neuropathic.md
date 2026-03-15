@@ -5,7 +5,7 @@ aliases:
   - neuropathic pain
   - neuropathy
 urls:
-  - https://www.nice.org.uk/guidance/cg173/chapter/Recommendations#treatment
+  - "[NICE- Neuropathic Pain](https://www.nice.org.uk/guidance/cg173/chapter/Recommendations#treatment)"
 ---
 # Conditions
 - Diabetic Neuropathy

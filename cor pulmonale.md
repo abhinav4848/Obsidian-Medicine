@@ -17,7 +17,7 @@ Cor pulmonale is right ventricular (RV) enlargement and/or failure caused by pul
 - Chronic obstructive pulmonary disease ([[COPD]]) -> Most common cause
 - [[interstitial lung disease vs pneumonitis|interstitial lung disease]]
 - Pulmonary embolism (chronic)
-- Obstructive sleep apnoea
+- [[Obstructive sleep apnoea]]
 - Pulmonary vascular diseases
 ## Clinical Features
 - Signs of right heart failure: peripheral oedema, raised JVP, hepatomegaly, ascites, systolic parasternal heave, Loud P2

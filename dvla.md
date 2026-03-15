@@ -3,8 +3,11 @@ tags:
   - admin
 aliases:
   - fitness to drive
+urls:
+  - "[DVLA- PDF](https://www.gov.uk/government/publications/assessing-fitness-to-drive-a-guide-for-medical-professionals)"
 ---
-
+- Group 1 includes cars and motorcycles 
+- Group 2 includes large lorries (category C) and buses (category D). 
 # Brain
 ## Epilepsy
 **First unprovoked / isolated seizure**
@@ -35,8 +38,5 @@ aliases:
 
 ---
 # OSA
-DTS: Day time somnolence
-- Mild OSA - DTS - No need to inform DVLA  
-- Mild OSA + DTS - Stop driving until symptoms controlled. If not controlled within 3 months, inform DVLA  
-- Mod/severe OSA + DTS - Stop driving and inform DVLA. Can continue driving once OSA controlled, no DTS and good CPAP compliance. G1 drivers require review every 3 yrs, G2 drivers annually.  
-- Suspected OSA and DTS - Stop driving until diagnosis confirmed and symptoms controlled. No need to inform DVLA (yet)
+See [[obstructive sleep apnoea|Obstructive sleep apnoea]] 
+![[obstructive sleep apnoea#DVLA for sleep apnoea linked]]

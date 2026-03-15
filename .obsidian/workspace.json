@@ -103,41 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dvla.md",
+                "file": "pain ladder- neuropathic.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "dvla"
-            }
-          },
-          {
-            "id": "de7e3ffddc422895",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://cks.nice.org.uk/topics/threadworm/",
-                "title": "Threadworm | Health topics A to Z | CKS | NICE",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Threadworm | Health topics A to Z | CKS | NICE"
-            }
-          },
-          {
-            "id": "89754689ee50432b",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2025/05/Infectious-Diarrhoea-Gastroenteritis.pdf",
-                "title": "Infectious-Diarrhoea-Gastroenteritis.pdf",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Infectious-Diarrhoea-Gastroenteritis.pdf"
+              "title": "pain ladder- neuropathic"
             }
           }
         ],
@@ -174,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "driving",
+                "query": "neuropath",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -205,7 +177,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -218,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dvla.md",
+                "file": "pain ladder- neuropathic.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -246,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of dvla"
+              "title": "Graph of pain ladder- neuropathic"
             }
           }
         ]
@@ -338,14 +311,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "corticosteroid.md"
+                "file": "pain ladder- neuropathic.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for corticosteroid"
+              "title": "File properties for pain ladder- neuropathic"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "c9a800b7c85d029b",
@@ -358,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dvla.md",
+                "file": "pain ladder- neuropathic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -368,7 +341,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for dvla"
+              "title": "Backlinks for pain ladder- neuropathic"
             }
           }
         ]
@@ -390,8 +363,14 @@
   },
   "active": "81918a6e23ce76a1",
   "lastOpenFiles": [
-    "threadworms.md",
+    "pain ladder- neuropathic.md",
+    "seborrhoeic keratosis.md",
+    "melanoma.md",
+    "obstructive sleep apnoea.md",
+    "cor pulmonale.md",
+    "scoring system.md",
     "dvla.md",
+    "threadworms.md",
     "malaria.md",
     "ivermectin.md",
     "school in children with rash.md",
@@ -399,7 +378,6 @@
     "venous thromoboembolism.md",
     "deep vein thrombosis.md",
     "antipsychotic drugs.md",
-    "scoring system.md",
     "benzodiazepines.md",
     "flow charts/deep vein thrombosis.canvas",
     "toxins.md",
@@ -412,11 +390,6 @@
     "statistics- screening tests.md",
     "statistics- study types.md",
     "contraceptives.md",
-    "contraceptives in emergency.md",
-    "time for action of contraceptives.md",
-    "conjunctivitis.md",
-    "ophthalmia neonatorum.md",
-    "antibiotic guidelines.md",
     "flow charts/contraception after delivery.canvas",
     "attachments/dupuytren's contracture.png",
     "flow charts/h. pylori treatment flowchart.canvas",
