@@ -6,19 +6,21 @@ aliases:
 urls: https://www.youtube.com/watch?v=oSqLwPv8bb4
 ---
 # Primary Hyperaldosteronism
-Leads to **Hypokalaemia** (might be normoK)-> Cuz aldosterone causes Na absorption & H+/K+ excretion.
-**[[hypertension|Hypertension]]** (might be normal Na+ or upper normal).
-
-- **Hypokalaemia**: Muscle weakness. 
+**Pathophysiology**: Aldosterone high, Renin low (negative feedback due to sodium retention from aldosterone)
+Aldosterone causes Na absorption & H+/K+ excretion.
+## Clinical Features
+- [[hypokalemia|hypokalaemia]] (might be normoK): Muscle weakness. 
 - Refractory HTN despite >=3 drugs
 - HTN before 40yo.
+	- **[[hypertension|Hypertension]]** (might be normal Na+ or upper normal)
 - Other manifestations like: Weakness, Lethargy, Headache.
 - *Polyuria* due to aldosterone escape,
 - Metabolic alkalosis. ([[addison's disease|Addison's]] has acidosis). 
 ## Investigation
-**Check Plasma aldosterone to renin ratio.**
-	(if A > R, 1* hyperaldosteronism), else if other way around, 2* hyperaldosteronism due to Renal artery stenosis (but U&e would be abnormal).
-Then do HRCT & adrenal vein sampling to see if u/l or b/l.
+Initial test: Plasma aldosterone to renin ratio.
+	If A > R, Primary hyperaldosteronism, else
+	If other way around, Secondary hyperaldosteronism due to Renal artery stenosis (but U&e would be abnormal).
+Then do HRCT & adrenal vein sampling to see if u/l adenoma or b/l hyperplasia. 
 
 ## Treatment
 for: 

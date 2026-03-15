@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "depression.md",
+                "file": "conn's syndrome.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "depression"
+              "title": "conn's syndrome"
             }
           }
         ],
@@ -146,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "paroxeti",
+                "query": "hyperaldo",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "depression.md",
+                "file": "conn's syndrome.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of depression"
+              "title": "Graph of conn's syndrome"
             }
           }
         ]
@@ -311,10 +311,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "depression.md"
+                "file": "conn's syndrome.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for depression"
+              "title": "File properties for conn's syndrome"
             }
           }
         ],
@@ -331,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "depression.md",
+                "file": "conn's syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +341,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for depression"
+              "title": "Backlinks for conn's syndrome"
             }
           }
         ]
@@ -363,8 +363,24 @@
   },
   "active": "0d411767073e6663",
   "lastOpenFiles": [
-    "ssri.md",
+    "long term oxygen therapy.md",
+    "spirometry.md",
+    "cor pulmonale.md",
+    "polycythemia.md",
+    "copd.md",
+    "copd- treatment.md",
+    "smoking.md",
+    "5-ht receptors (serotonin receptors).md",
+    "antipsychotic drugs.md",
+    "housekeeping/revise recent changes.base",
+    "panic attacks.md",
+    "foot problems.md",
+    "pain ladder- neuropathic.md",
+    "obstructive sleep apnoea.md",
+    "melanoma.md",
+    "venous thromoboembolism.md",
     "depression.md",
+    "ssri.md",
     "menopause.md",
     "p450.md",
     "scoring system.md",
@@ -373,23 +389,8 @@
     "hyponatremia.md",
     "citalopram.md",
     "fever caused by drugs.md",
-    "5-ht receptors (serotonin receptors).md",
     "metoclopramide.md",
-    "delirium.md",
-    "antipsychotic drugs.md",
-    "extrapyramidal side-effects.md",
-    "alcohol.md",
-    "anticholinergics.md",
-    "haloperidol.md",
-    "degenerative cervical myelopathy.md",
-    "copd- acute exacerbation.md",
-    "copd- table of contents.md",
-    "foot problems.md",
-    "pancoast tumor.md",
-    "sciatica.md",
     "Untitled.base",
-    "fertility.md",
-    "folic acid.md",
     "flow charts/deep vein thrombosis.canvas",
     "flow charts/contraception after delivery.canvas",
     "attachments/dupuytren's contracture.png",
@@ -401,7 +402,6 @@
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "attachments/aviator's notch.png",
     "attachments/atropa belladona.pdf",
-    "housekeeping/revise recent changes.base",
     "housekeeping/memorise.base",
     "flow charts/hypertension management.canvas",
     "attachments/Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf",
