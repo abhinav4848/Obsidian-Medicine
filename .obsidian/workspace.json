@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "toxins.md",
+                "file": "venous thromoboembolism.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "toxins"
+              "title": "venous thromoboembolism"
             }
           },
           {
@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diazepam",
+                "query": "dvt",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -176,7 +176,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -189,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "toxins.md",
+                "file": "venous thromoboembolism.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +218,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of toxins"
+              "title": "Graph of venous thromoboembolism"
             }
           }
         ]
@@ -329,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "toxins.md",
+                "file": "venous thromoboembolism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +340,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for toxins"
+              "title": "Backlinks for venous thromoboembolism"
             }
           }
         ]
@@ -361,12 +362,16 @@
   },
   "active": "8bae9e465bb7a91f",
   "lastOpenFiles": [
+    "antipsychotic drugs.md",
+    "venous thromoboembolism.md",
+    "deep vein thrombosis.md",
+    "scoring system.md",
     "benzodiazepines.md",
+    "flow charts/deep vein thrombosis.canvas",
+    "toxins.md",
     "drugs contraindicated in pregnancy.md",
     "amiodarone.md",
     "antiemetics.md",
-    "antipsychotic drugs.md",
-    "deep vein thrombosis.md",
     "haloperidol.md",
     "statistics- basics about data.md",
     "statistics- parametric tests.md",
@@ -384,15 +389,11 @@
     "macrolides.md",
     "fluroquinolone.md",
     "seizure.md",
-    "metronidazole.md",
-    "acne rosacea.md",
-    "ivermectin.md",
     "flow charts/contraception after delivery.canvas",
     "attachments/dupuytren's contracture.png",
     "flow charts/h. pylori treatment flowchart.canvas",
     "attachments/patau vs edward syndrome.png",
     "attachments/Pasted image 20260305124244.png",
-    "flow charts/deep vein thrombosis.canvas",
     "desktop.ini",
     "flow charts/shoulder exam.canvas",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",

@@ -63,7 +63,7 @@ aliases:
 | SCOFF                                  | Questionnaire used to detect eating disorders and aid treatment                                                                                                        |
 | Smith scale                            | Hepatic encephalopathy                                                                                                                                                 |
 | Waterlow score                         | Assesses the risk of a patient developing a pressure sore                                                                                                              |
-| Wells score                            | Helps estimate the risk of a patient having a [[deep vein thrombosis]]<br><br>PERC: PE rule out criteria.                                                              |
+| Well's score                           | Helps estimate the risk of a patient having a [[deep vein thrombosis]]<br><br>PERC: PE rule out criteria.                                                              |
 | Carr-Hill                              | Assess Practice funding                                                                                                                                                |
 | Duke's staging                         | Stage [[cancer- colorectal\|Bowel cancer]]. Not used any more                                                                                                          |
 
