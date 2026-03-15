@@ -14,7 +14,13 @@ Inability to tolerate gliadin, the alcohol soluble fraction of gluten that confe
 - [[Diarrhoea]] (fatty, grey-frothy stools)
 - low B9 (B9 > B12)
 - IDA
-- tired all the time (TATT)
+- [[tired all the time]] (TATT)
+
+#### Who to screen for coeliac?
+
+| **Signs and symptoms**                                                                                                                                                                                                                                                                                                                                                                               | **Conditions**                                                                                                                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Chronic or intermittent diarrhoea<br>- Failure to thrive or faltering growth (in children)<br>- Persistent or unexplained gastrointestinal symptoms including nausea and vomiting<br>- Prolonged fatigue ('tired all the time')<br>- Recurrent abdominal pain, cramping or distension<br>- Sudden or unexpected weight loss<br>- Unexplained iron-deficiency anaemia, or other unspecified anaemia | - Autoimmune thyroid disease<br>- Dermatitis herpetiformis<br>- Irritable bowel syndrome<br>- Type 1 diabetes<br>- First-degree relatives (parents, siblings or children) with coeliac disease |
 # Associations
 #associated 
 1. Coeliac can cause: **T-cell lymphoma** (as T-cells get activated by gluten exposure).  #cancer  
@@ -24,7 +30,7 @@ Inability to tolerate gliadin, the alcohol soluble fraction of gluten that confe
 3. F/h/o Autoimmune disorders ([[diabetes mellitus 1|type 1 diabetes mellitus]], autoimmune [[hepatitis]], thyroid). 
 4. Iron deficiency anaemia due to malabsorption. 
 5. Hyposplenism
-6. [[osteoporosis]], Osteomalacia
+6. [[osteoporosis]], [[osteomalacia]]
 7. lactose intolerance
 8. subfertility, unfavourable pregnancy outcomes
 

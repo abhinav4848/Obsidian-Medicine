@@ -19,7 +19,7 @@ Aldosterone causes Na absorption & H+/K+ excretion.
 ## Investigation
 Initial test: Plasma aldosterone to renin ratio.
 	If A > R, Primary hyperaldosteronism, else
-	If other way around, Secondary hyperaldosteronism due to Renal artery stenosis (but U&e would be abnormal).
+	If other way around, Secondary hyperaldosteronism. Increased renin–angiotensin activation stimulates aldosterone.
 Then do HRCT & adrenal vein sampling to see if u/l adenoma or b/l hyperplasia. 
 
 ## Treatment
@@ -27,11 +27,12 @@ for:
 - b/l adrenal hyperplasia, give 4 weeks of aldosterone receptor antagonist ([[spironolactone]]) before considering surgery.
 - u/l adenoma: surgery (laparoscopic adrenalectomy).
 
+---
 ## Extra
 **Primary Hyperaldosteronism**: no edema due to aldosterone escape.
 	The fault is in the organ producing aldosterone itself.
 	E.g. Adenoma, b/l hyperplasia
 
-**Secondary Hyperaldosteronism**: some causes may cause edema (HF, Renal Failure)
+**Secondary Hyperaldosteronism**: some causes may cause edema (RAS, HF, Renal Failure, Cirrhosis with ascites, nephrotic syndrome, diuretic use, pregnancy, renin-secreting tumours)
 	Fault lies outside adrenals. i.e. Something that will reduce blood flow to Kidney-> Renin increases -> Aldosterone increases.
 	E.g. Blockage, compression, stenosis, CLD, HF, Diuretic medications.
