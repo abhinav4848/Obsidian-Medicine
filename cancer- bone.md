@@ -18,7 +18,7 @@ DEMO ECG #mnemonic
 ## Diaphysis 
 **Ewing**'s: Severe pain, onion skin on x-ray, systemic features (fever, weight loss, tired). 2nd MC in children. Responds to chemo. 
 ## Metaphysis 
-**Osteosarcoma**: Commonest in children. MC malignant tumour. #Associated with [[Retinoblastoma]]. Wakes patient at night with pain.
+**Osteosarcoma**: Commonest in children. MC malignant tumour. #Associated with [[retinoblastoma]]. Wakes patient at night with pain.
 ## Epiphysis 
 **Chondrosarcoma**: Pain, lump, popcorn calcification in axial skeleton of middle-aged people.
 **Giant cell tumour**: Benign tumour. Double bubble, Soap bubble. Seen in 20-40 yo.

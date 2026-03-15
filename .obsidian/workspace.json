@@ -103,17 +103,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coeliac disease.md",
+                "file": "cocp.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "coeliac disease"
+              "title": "cocp"
+            }
+          },
+          {
+            "id": "2a9260a00677007d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cocp.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "cocp"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -146,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tired all the time",
+                "query": "contracep",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -191,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "coeliac disease.md",
+                "file": "cocp.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,7 +234,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of coeliac disease"
+              "title": "Graph of cocp"
             }
           }
         ]
@@ -311,10 +326,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "coeliac disease.md"
+                "file": "cocp.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for coeliac disease"
+              "title": "File properties for cocp"
             }
           }
         ],
@@ -331,7 +346,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coeliac disease.md",
+                "file": "cocp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +356,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for coeliac disease"
+              "title": "Backlinks for cocp"
             }
           }
         ]
@@ -361,10 +376,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "0d411767073e6663",
+  "active": "2a9260a00677007d",
   "lastOpenFiles": [
-    "dapsone.md",
+    "contraception.md",
+    "flow charts/contraception after delivery.canvas",
+    "cocp.md",
+    "cocp- pill ladder.md",
+    "contraceptives.md",
+    "time for action of contraceptives.md",
+    "retinoblastoma.md",
+    "contraceptive choices for young people.md",
+    "cancer & associations.md",
     "coeliac disease.md",
+    "dapsone.md",
     "diarrhoea.md",
     "tired all the time.md",
     "conn's syndrome.md",
@@ -381,18 +405,8 @@
     "panic attacks.md",
     "foot problems.md",
     "pain ladder- neuropathic.md",
-    "obstructive sleep apnoea.md",
-    "melanoma.md",
-    "venous thromoboembolism.md",
-    "depression.md",
-    "ssri.md",
-    "menopause.md",
-    "p450.md",
-    "scoring system.md",
-    "malnutrition.md",
     "Untitled.base",
     "flow charts/deep vein thrombosis.canvas",
-    "flow charts/contraception after delivery.canvas",
     "attachments/dupuytren's contracture.png",
     "flow charts/h. pylori treatment flowchart.canvas",
     "attachments/patau vs edward syndrome.png",

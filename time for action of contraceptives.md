@@ -11,7 +11,7 @@ See: [[missed pill window]]
 ---
 *If not day 1-5 of period*
 #mnemonic 
-I for Instant: IUD 
+I for Instant: Cu-IUD 
 2 days for POP
 7 days for everything else: COC, injection, implant, IUS
 

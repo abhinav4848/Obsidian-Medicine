@@ -9,18 +9,40 @@ aliases:
 urls:
 ---
 *See [[contraceptives for bleeding reduction]].*
+See [[contraceptive choices for young people]] 
+
+---
 # COCP
 See [[cocp|COCP]]. 
-# Depo Provera 
-Depo-Provera (POI -> injection. Aka DMPA): IM medroxyprogesterone acetate.
+
+---
+# Progesterone only
+[NICE CKS- Progesterone only methods](https://cks.nice.org.uk/topics/contraception-progestogen-only-methods/)
+See [[time for action of contraceptives]] & [[contraceptive choices for young people]]
+## Pill
+POP.
+No pill free interval. 
+## Implant 
+Nexplanon (etonogestrel 68 mg) is currently the only progestogen-only implant licensed for use in the UK.
+Replaced every 3 years. 
+## Injectable
+every 13 weeks
+##### Depo Provera
+i.m.
+aka DMPA: depot medroxyprogesterone acetate.
 - c/I in <20 yo cuz risk of [[osteoporosis]].
 	- Has concerns for bone mineral density with long term use & delay in return to fertility. 
 - Unpredictable effects on bleeding patterns. 
 - Intermenstrual spotting in first year of starting. If bothersome bleed -> add COCP 3 months/Mefenamic acid TDS 5 days (while still on Depo-Provera).
 - Give once every 3 months.
-- Completely stops the period in some women but can cause unpredictable bleeding in others. 
+- Completely stops the period in some women but can cause unpredictable bleeding in others.
+##### Sayana Press
+s.c. injection. 
+Can be self administered by patient. 
 #### Provera 
-This is a progestogen tablet that you take every day but it is not a contraceptive. It is usually given for a short period of time or cyclically
+This is a progestogen tablet that you take every day but it is not a contraceptive. It is usually given for a short period of time or cyclically. 
+
+---
 # Intrauterine devices
 *See [[contraceptives in emergency|Emergency contraception]].* 
 - Both IUD & IUS are 99% effective
