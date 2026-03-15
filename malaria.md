@@ -2,6 +2,7 @@
 tags:
   - infection
   - abx
+  - parasite
 ---
 # Aetiology
 - While individuals living continuously in endemic areas can develop a certain level of immunity, this wanes quickly once they leave these areas, so UK individuals don't have better immunity to malaria. 

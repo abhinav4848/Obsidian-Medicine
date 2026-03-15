@@ -26,6 +26,7 @@ Antipsychotics counter the effects of dopamine excess in [[delirium]], psychosis
 - EPS less common than typicals
 - **Clozapine**: agranulocytosis 
 - **Olanazapine**: High risk of dyslipidemia and obesity -> high risk of [[deep vein thrombosis|DVT]]
+	- O = big belly - causes weight gain > causes VTE. #mnemonic 
 - Greater lowering of [[seizure]] thresholds than typicals. 
 
 # Other Side effects (for both)

@@ -34,7 +34,7 @@ Not infectious once rash appears.
 - [[conjunctivitis]] 
 - [[epstein barr virus|Infectious Mononucleosis]]
 - Head lice 
-- Threadworms
+- [[threadworms]]
 - [[Erythema infectiosum]] (Fifth disease)
 #### Until treated
 Scabies

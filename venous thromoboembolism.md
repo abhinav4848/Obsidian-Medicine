@@ -30,7 +30,7 @@ Underlying conditions
 - nephrotic syndrome
 - sickle cell disease
 - paroxysmal nocturnal haemoglobinuria
-- hyperviscosity syndrome
+- hyperviscosity syndrome 
 - homocystinuria
 
 Medication  
