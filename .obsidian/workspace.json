@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hyponatremia.md",
+                "file": "depression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hyponatremia"
+              "title": "depression"
             }
           }
         ],
@@ -146,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hyponatr",
+                "query": "serotonin syndrome",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hyponatremia.md",
+                "file": "depression.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of hyponatremia"
+              "title": "Graph of depression"
             }
           }
         ]
@@ -311,10 +311,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "hyponatremia.md"
+                "file": "depression.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for hyponatremia"
+              "title": "File properties for depression"
             }
           }
         ],
@@ -331,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hyponatremia.md",
+                "file": "depression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +341,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hyponatremia"
+              "title": "Backlinks for depression"
             }
           }
         ]
@@ -363,6 +363,18 @@
   },
   "active": "0d411767073e6663",
   "lastOpenFiles": [
+    "ssri.md",
+    "fever caused by drugs.md",
+    "5-ht receptors (serotonin receptors).md",
+    "metoclopramide.md",
+    "hyponatremia.md",
+    "delirium.md",
+    "antipsychotic drugs.md",
+    "extrapyramidal side-effects.md",
+    "alcohol.md",
+    "anticholinergics.md",
+    "depression.md",
+    "haloperidol.md",
     "degenerative cervical myelopathy.md",
     "copd- acute exacerbation.md",
     "copd- table of contents.md",
@@ -378,18 +390,6 @@
     "vitiligo.md",
     "drugs contraindicated in pregnancy.md",
     "alopecia.md",
-    "threadworms.md",
-    "pain ladder- neuropathic.md",
-    "seborrhoeic keratosis.md",
-    "melanoma.md",
-    "obstructive sleep apnoea.md",
-    "cor pulmonale.md",
-    "scoring system.md",
-    "dvla.md",
-    "malaria.md",
-    "ivermectin.md",
-    "school in children with rash.md",
-    "ssri.md",
     "flow charts/deep vein thrombosis.canvas",
     "flow charts/contraception after delivery.canvas",
     "attachments/dupuytren's contracture.png",

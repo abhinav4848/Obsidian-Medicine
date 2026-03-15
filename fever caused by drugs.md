@@ -31,7 +31,8 @@ raised white cell count, bradykinesia, muscle rigidity.
 
 ---
 # Serotonin syndrome
-Due to excess SSRI -> Fluoxetine, Sertraline, [[citalopram]]
+Due to excess [[ssri|SSRI]] -> Fluoxetine, Sertraline, [[citalopram]]
+Avoid Triptans & MAOi with SSRIs- both have [[5-ht receptors (serotonin receptors)|serotonergic activity]]
 
 **Onset**: Hours
 

@@ -25,7 +25,7 @@ Useful as [[antiemetics]].
 **blind** as a _bat_ - dilated pupils (mydriasis), blurred vision
 **dry** as a _bone_ - dry mouth, urinary retention, reduced bowel sounds
 **red** as a _beetroot_ - flushed skin
-**mad** as a _hatter_ - [[confusion]] 
+**mad** as a _hatter_ - [[delirium|confusion]] 
 
 #antidote: Physostigmine
 

@@ -11,7 +11,9 @@ aliases:
 Antipsychotic drugs, aka neuroleptics/anti-[[schizophrenia|schizophrenic]] drugs. 
 Useful in psychosis, [[mania]] & bipolar disorders, intractable hiccups, [[antiemetics|N&V]], delirium.
 
-Antipsychotics counter the effects of dopamine excess in [[delirium]], psychosis, nausea (stimulation of [[areas of brain|area postrema]]), aggression (stimulation of [[areas of brain|nucleus accumbens]]). However, as the drugs are D2-antagonists, their unopposed D2 antagonism can cause dopamine depletion symptoms in other pathways ([[extrapyramidal side-effects|EPS]]), and worsening of negative psychotic symptoms (e.g. apathy, anhedonia). 
+# MoA
+Antipsychotics counter the effects of dopamine excess in [[delirium]], psychosis, nausea (stimulation of [[areas of brain|area postrema]]), aggression (stimulation of [[areas of brain|nucleus accumbens]]). 
+**S/E**: However, as the drugs are D2-antagonists, their unopposed D2 antagonism can cause dopamine depletion symptoms in other pathways ([[extrapyramidal side-effects|EPS]]), and worsening of negative psychotic symptoms (e.g. apathy, anhedonia). 
 
 ---
 # Typical Antipsychotics
@@ -39,11 +41,11 @@ HAM side effects: Found in [[tricyclic antidepressants]] (TCA’s) and low poten
 - Anti-Adrenergic: 
 	- Hypotension;
 - [[anticholinergics|Anti-Muscarinic]]: 
-	- dry mouth, 
+	- hyperthermia
 	- blurred vision, 
-	- urinary retention, 
-	- constipation, 
-	- can exacerbate Alzheimer's.
+	- dry mouth, urinary retention, constipation, 
+	- can exacerbate Alzheimer's. 
+	- Antipsychotics can precipitate or worsen delirium, esp in vulnerable patients. Drugs with stronger anticholinergic effects (e.g. Chlorpromazine) have a higher risk. Despite this, antipsychotics are commonly used to manage symptoms of [[delirium]]: severe agitation, psychosis (hallucinations, delusions), risk to self or staff. e.g. Haloperidol, Olanzapine, . Quetiapine
 - Anti-Dopamine: Raised prolactin. 
     - may result in galactorrhoea
     - [[Gynaecomastia]]
