@@ -8,10 +8,14 @@ aliases:
   - Otosclerosis
   - Cholesteatoma
   - Presbycusis
+  - hearing test
+  - rinne & weber test
+  - tuning fork test
 revision counter: 1
 revision notes: Rinne vs weber & Weber CSSO mnemonic
 urls:
   - "[NICE CKS: Hearing loss in adults](https://cks.nice.org.uk/topics/hearing-loss-in-adults/diagnosis/clinical-features/)"
+  - "[ENT SHO: Ear exam](https://entsho.com/ear-examination)"
 ---
 *See [[vertigo- test & causes|Vertigo]].* 
 
@@ -55,11 +59,10 @@ Age related hearing loss, affects sounds at high frequency - Downward-sloping pu
 ### Osteoma
 Cold water swimmers. Ear pain. Irregularly shaped, osseous tumours in the ear canal
 
-
 # Tuning fork test
 Rinne:
-- AC > BC: Either Normal, or SNHL on that side
-- BC > AC: Either CHL, or Severe SNHL on that side.
+- AC > BC (positive test): Either Normal, or SNHL on that side
+- BC > AC (negative test): Either CHL, or Severe SNHL on that side.
 
 Weber:
 - CHL: Lateralize to same side.

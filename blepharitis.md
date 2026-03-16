@@ -20,6 +20,11 @@ It's often associated with skin conditions like seborrheic dermatitis, [[Acne Ro
 
 # Treatment
 Emergency refer: If s/o periorbital/orbital cellulitis. 
+
+| pre-septal cellulitis                                                                                                                                                                  | post-septal / orbital cellulitis                                                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![pre-septal cellulitis from entsho.com\|300](https://images.squarespace-cdn.com/content/v1/5681a0e2d8af1011fc075fca/1451515330490-CL28AIC0RIDBPJ97PV19/image-asset.jpeg?format=2500w) | ![post-septal cellulitis from entsho.com\|300](https://images.squarespace-cdn.com/content/v1/5681a0e2d8af1011fc075fca/1452363279413-A8AHISZDWX3GU6UQX3JW/image-asset.jpeg?format=2500w) |
+| Note how the erythema is clearly confined to the eye lid.                                                                                                                              | Note how the erythema involves the brow, orbit and maxilla.                                                                                                                             |
 Same day ophthalmology assessment if: corneal disease (pain/blur vision), rapid onset [[loss of vision|vision loss]], eye becoming red ([[red eye]])
 
 Warm compress BD
