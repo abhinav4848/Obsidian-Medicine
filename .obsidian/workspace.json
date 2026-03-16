@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cancer- drugs involved in gynae cancers.md",
+                "file": "vertigo- test & causes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cancer- drugs involved in gynae cancers"
+              "title": "vertigo- test & causes"
             }
           }
         ],
@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ovarian hyper",
+                "query": "bppv",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cancer- drugs involved in gynae cancers.md",
+                "file": "vertigo- test & causes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,12 +229,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.053497874492112,
+                  "scale": 1.9523064125418674,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cancer- drugs involved in gynae cancers"
+              "title": "Graph of vertigo- test & causes"
             }
           }
         ]
@@ -326,10 +326,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "cancer- drugs involved in gynae cancers.md"
+                "file": "vertigo- test & causes.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for cancer- drugs involved in gynae cancers"
+              "title": "File properties for vertigo- test & causes"
             }
           }
         ],
@@ -346,7 +346,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cancer- drugs involved in gynae cancers.md",
+                "file": "vertigo- test & causes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +356,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cancer- drugs involved in gynae cancers"
+              "title": "Backlinks for vertigo- test & causes"
             }
           }
         ]
@@ -378,9 +378,13 @@
   },
   "active": "2a9260a00677007d",
   "lastOpenFiles": [
+    "suicide.md",
+    "depression.md",
+    "tetanus.md",
+    "hearing loss.md",
+    "cancer- drugs involved in gynae cancers.md",
     "ovarian hyperstimulation syndrome.md",
     "cancer- breast (treatment).md",
-    "cancer- drugs involved in gynae cancers.md",
     "deep vein thrombosis.md",
     "lower limb ortho problems.md",
     "hip dislocation.md",
@@ -400,10 +404,6 @@
     "copd- table of contents.md",
     "copd- acute exacerbation.md",
     "contraception.md",
-    "cephalosporins.md",
-    "asthma- table of contents.md",
-    "beta adrenergic receptors.md",
-    "antiemetics.md",
     "flow charts/cocp after delivery- ukmec.canvas",
     "housekeeping/revise recent changes.base",
     "Untitled.base",

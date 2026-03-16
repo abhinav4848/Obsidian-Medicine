@@ -1,6 +1,7 @@
 ---
 tags:
   - ent
+  - list
 aliases:
   - deafness
   - loss of hearing
@@ -32,9 +33,17 @@ High dose steroids are often used in acute sensorineural hearing loss, even if t
 Often occurs in early adult life. 
 Tinnitus and transient vertigo may be present. 
 Schwartz sign (Pink tinge on TM) #named
+*see [[audiograms|audiometry]]*
 ### Cholesteatoma
-Recurrent/persistent ear discharge (foul smelling). 
-CHL, ear discomfort, [[meningitis]], intracerebral abscess, facial nerve palsy.
+Associated with cleft palate & common in age 10-20 years. 
+**Clinical feature**
+- Recurrent/persistent unilateral ear discharge (foul smelling). 
+- Wax on the TM or on the attic of ear canal (attic crust) can be seen -> Produced by the cholesteatoma
+
+**Complication**: CHL, ear discomfort, [[meningitis]], intracerebral abscess, facial nerve palsy, CP angle syndrome. 
+
+Refer to ENT
+- The urgency of referral is determined by the patient's symptoms. If just discharge persistent, semi-urgent referral would be appropriate, however if she were to have symptoms of more advanced disease such as vertigo or facial nerve palsy an urgent discussion with on-call ENT would be indicated. 
 ### Meniere
 D(fluctuant), [[vertigo- test & causes|Vertigo]], T. Aural fullness. 
 Control acute attacks with Labyrinthine sedatives: [[cyclizine]], prochlorperazine. 
