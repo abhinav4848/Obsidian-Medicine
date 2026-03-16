@@ -6,7 +6,7 @@ tags:
 aliases:
   - Fraser guidelines
 ---
-*See [[contraceptives]].* 
+![[contraception]]
 #### Legal & ethical issues
 - Age of consent for sexual activity in the UK is 16 years.
 - children under the age of 13 years are considered unable to consent for sexual intercourse and hence consultations regarding this age group should automatically trigger child protection measures

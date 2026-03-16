@@ -8,7 +8,7 @@ tags:
 urls:
   - "[LMSG- Menopause & HRT Guideline](https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2022/06/Menopause-and-HRT-guideline.pdf)"
 ---
-*See: [[hrt- negatives|negatives & cautions with HRT]]* 
+![[contraception]]
 
 ---
 As part of managing [[menopause]]. 

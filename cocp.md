@@ -8,12 +8,9 @@ aliases:
   - combined oral contraceptive pill
   - side effects of COCP
   - contraindication of COCP
-  - cocp pill ladder
 ---
-See [[cancer- drugs involved in gynae cancers]] 
-See [[hrt- negatives|negatives & cautions with HRT]] 
+![[contraception]]
 
----
 # When to start COCP after delivery for contraception
 Avoid in first 21 days (UKMEC-4: VTE Risk). After this,
 - If breastfeeding:
@@ -28,7 +25,7 @@ Avoid in first 21 days (UKMEC-4: VTE Risk). After this,
 - Once given, use additional contraception for first 7 days.
 - See [[time for action of contraceptives]]. 
 
-![[contraception after delivery.canvas|contraception after delivery]]
+![[cocp after delivery- ukmec.canvas|contraception after delivery]]
 # Indications
 - Metrorrhagia -> irregular cycle,
 - with/without Menorrhagia/Dysmenorrhea,

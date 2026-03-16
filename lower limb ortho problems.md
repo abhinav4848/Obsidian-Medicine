@@ -1,6 +1,7 @@
 ---
 tags:
   - ortho
+  - list
 ---
 
 *See [[upper limb ortho problems]].* 

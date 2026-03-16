@@ -3,6 +3,7 @@ tags:
   - gynae
   - hormone
 ---
+![[contraception]]
 # Sickle cell disease + Menorrhagia
 - [[contraceptives|Depo Provera]] (DMPA)
 - POP & IUS are next choice for SCD.

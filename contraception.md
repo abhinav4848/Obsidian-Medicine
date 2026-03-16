@@ -2,10 +2,19 @@
 tags:
   - list
 ---
-[[contraceptives]]
-[[contraceptive choices for young people]]
-[[contraceptives in emergency|Emergency contraception]]
-[[contraceptives for bleeding reduction]]
-[[contraception after delivery.canvas]]
-[[cocp|COCP]]
-[[cocp|cocp pill ladder]]
+> [!tip]- Contraceptives & HRT TOC
+> - [[Contraceptives]]
+> - [[contraceptive choice for young people]]
+> - [[contraceptives in emergency|Emergency contraception]]
+> - [[Contraceptives for bleeding reduction]]
+> - [[cocp|COCP]]
+> 	- [[cocp- pill ladder|COCP Pill Ladder]] 
+> 	- [[cocp after delivery- ukmec.canvas]] 
+> - [[Time for action of contraceptives]]
+> 	- [[missed pill window]] 
+> - [[hrt|HRT]] 
+> 	- [[menopause]]
+> 	- [[hrt- negatives|negatives & cautions with HRT]] 
+> 
+> Misc: [[cancer- drugs involved in gynae cancers]] 
+

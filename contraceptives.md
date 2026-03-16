@@ -8,8 +8,7 @@ aliases:
   - Copper-T
 urls:
 ---
-*See [[contraceptives for bleeding reduction]].*
-See [[contraceptive choices for young people]] 
+![[contraception]]
 
 ---
 # COCP
@@ -17,14 +16,14 @@ See [[cocp|COCP]].
 
 ---
 # Progesterone only
-[NICE CKS- Progesterone only methods](https://cks.nice.org.uk/topics/contraception-progestogen-only-methods/)
-See [[time for action of contraceptives]] & [[contraceptive choices for young people]]
+[NICE CKS- Progesterone only methods](https://cks.nice.org.uk/topics/contraception-progestogen-only-methods/). Also see [[time for action of contraceptives]]
 ## Pill
 POP.
 No pill free interval. 
 ## Implant 
 Nexplanon (etonogestrel 68 mg) is currently the only progestogen-only implant licensed for use in the UK.
 Replaced every 3 years. 
+It is the [[contraceptive choice for young people]]. 
 ## Injectable
 every 13 weeks
 ##### Depo Provera

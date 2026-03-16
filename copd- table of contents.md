@@ -1,6 +1,7 @@
 ---
 tags:
   - respiratory
+  - list
 ---
 > [!Notice]- COPD TOC
 > - [[copd|COPD- diagnosis]]

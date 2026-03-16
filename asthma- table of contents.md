@@ -1,6 +1,7 @@
 ---
 tags:
   - respiratory
+  - list
 ---
 > [!TOC]- Asthma TOC 
 > - [[Asthma]]

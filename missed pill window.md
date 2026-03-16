@@ -3,6 +3,7 @@ tags:
   - gynae
   - hormone
 ---
+![[contraception]]
 # COCP
 [NHS Link](https://www.nhs.uk/conditions/contraception/miss-combined-pill/)
 Adherence window of 24 hours. 

@@ -1,6 +1,7 @@
 ---
 tags:
   - ortho
+  - list
 aliases:
   - mallet finger
   - Adhesive capsulitis

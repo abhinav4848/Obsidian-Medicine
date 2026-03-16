@@ -1,6 +1,7 @@
 ---
 tags:
   - dermat
+  - list
 aliases:
   - Erythema marginatum
   - Erythema gyratum repens

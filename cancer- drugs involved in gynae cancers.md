@@ -6,8 +6,8 @@ aliases:
   - Tamoxifen
   - Raloxifene
 ---
-
-#### COCP & Cancer risk %%embedded%%
+![[contraception]]
+### COCP & Cancer risk %%embedded%%
 COCP ==increases== risk for [[cancer- breast (treatment)|Breast Cancer]] & [[cancer- cervical|Cervical Cancer]], Fibroid, Cervical ectropion.
 - E promotes cervical epithelial proliferation -> Facilitates persistent HPV infection
 - E&P causes breast cell proliferation. 

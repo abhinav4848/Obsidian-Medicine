@@ -1,6 +1,7 @@
 ---
 tags:
   - endocrine
+  - list
 ---
 >[!info]- Diabetes TOC
 > - [[diabetes mellitus- diagnosis|Diagnosis]] 

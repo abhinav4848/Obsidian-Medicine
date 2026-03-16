@@ -5,8 +5,7 @@ tags:
 aliases:
   - adherence window for contraceptives
 ---
-See also [[contraceptives]]. 
-See: [[missed pill window]]
+![[contraception]]
 
 ---
 *If not day 1-5 of period*
