@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coeliac disease.md",
+                "file": "primary biliary cholangitis & primary sclerosing cholangitis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "coeliac disease"
+              "title": "primary biliary cholangitis & primary sclerosing cholangitis"
             }
           },
           {
@@ -221,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "coeliac disease.md",
+                "file": "primary biliary cholangitis & primary sclerosing cholangitis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -249,7 +249,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of coeliac disease"
+              "title": "Graph of primary biliary cholangitis & primary sclerosing cholangitis"
             }
           }
         ]
@@ -341,10 +341,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "coeliac disease.md"
+                "file": "primary biliary cholangitis & primary sclerosing cholangitis.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for coeliac disease"
+              "title": "File properties for primary biliary cholangitis & primary sclerosing cholangitis"
             }
           }
         ],
@@ -361,7 +361,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coeliac disease.md",
+                "file": "primary biliary cholangitis & primary sclerosing cholangitis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -371,7 +371,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for coeliac disease"
+              "title": "Backlinks for primary biliary cholangitis & primary sclerosing cholangitis"
             }
           }
         ]
@@ -393,9 +393,12 @@
   },
   "active": "2a9260a00677007d",
   "lastOpenFiles": [
+    "cancer- cholangiocarcinoma.md",
+    "primary biliary cholangitis & primary sclerosing cholangitis.md",
+    "cirrhosis.md",
     "immunisation in adults.md",
-    "coeliac disease.md",
     "cancer suspected.md",
+    "coeliac disease.md",
     "retinoblastoma.md",
     "safety nets.md",
     "housekeeping/study tips.md",
@@ -416,9 +419,6 @@
     "syringe driver.md",
     "hiv.md",
     "gynaecomastia.md",
-    "glomerulonephritis.md",
-    "fever caused by drugs.md",
-    "extrapyramidal side-effects.md",
     "flow charts/cocp after delivery- ukmec.canvas",
     "housekeeping/revise recent changes.base",
     "Untitled.base",

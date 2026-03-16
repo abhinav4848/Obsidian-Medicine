@@ -28,6 +28,7 @@ Usually a one-off but every 5 years if spleen/CKD.
 - adults with chronic conditions ([[COPD]], [[bronchiectasis]], [[cystic fibrosis|CF]], [[interstitial lung disease vs pneumonitis|ILD]])
 
 ### Conditions to give the vaccine
+[Department of Health's Green Book- Pneumococcal](https://www.gov.uk/government/publications/pneumococcal-the-green-book-chapter-25)
 
 | Condition                                          | Details / Notes                                                                                                                               | Vaccine Frequency / Special Considerations                             |
 | -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
@@ -36,9 +37,9 @@ Usually a one-off but every 5 years if spleen/CKD.
 | **– Asthma**                                       | Only if oral steroids at immunosuppressive dose                                                                                               | Influenza vaccine if using inhaled steroids                            |
 | **Chronic heart disease**                          | IHD on medication/follow-up, HF, congenital heart disease                                                                                     | Controlled HTN alone does not require vaccination                      |
 | **CKD**                                            | Reduced immunity due to immunoglobulin loss and impaired innate/adaptive response                                                             | Every 5 years; Ig loss makes patients prone to vaccine hypo-responses. |
-| **CLD**                                            | Includes [[cirrhosis]] and chronic [[hepatitis]]                                                                                              | –                                                                      |
+| **CLD**                                            | Includes [[cirrhosis]], biliary atresia and chronic [[hepatitis]]                                                                             | –                                                                      |
 | **Diabetes mellitus ([[diabetes treatment\|DM]])** | If requiring medication                                                                                                                       | –                                                                      |
-| **Immunosuppression / HIV infection**              | Any stage of [[HIV]] or other immunosuppression                                                                                               | –                                                                      |
+| **Immunosuppression / HIV infection**              | Any stage of [[HIV]] or other immunosuppression incl prednisolone at >= 20mg/day for more than a month. See the green book.                   | –                                                                      |
 | **Cochlear implants / Skull fracture**             | Breach in the skull                                                                                                                           | PCV given acutely in skull fracture as well                            |
 | **CSF leaks**                                      | –                                                                                                                                             | –                                                                      |
 ## From OBG

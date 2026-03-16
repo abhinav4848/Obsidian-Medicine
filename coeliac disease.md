@@ -7,6 +7,8 @@ aliases:
   - gluten sensitive enteropathy
   - dermatitis herpetiformis
   - coeliac syndrome
+urls:
+  - "[NICE CKS- Coeliac](https://cks.nice.org.uk/topics/coeliac-disease/)"
 ---
 Inability to tolerate gliadin, the alcohol soluble fraction of gluten that confers viscosity. Repeated exposure leads to villous atrophy -> malabsorption. 
 # Clinical Features
@@ -23,17 +25,20 @@ Inability to tolerate gliadin, the alcohol soluble fraction of gluten that confe
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | - Chronic or intermittent diarrhoea<br>- Failure to thrive or faltering growth (in children)<br>- Persistent or unexplained gastrointestinal symptoms including nausea and vomiting<br>- Prolonged fatigue ('tired all the time')<br>- Recurrent abdominal pain, cramping or distension<br>- Sudden or unexpected weight loss<br>- Unexplained iron-deficiency anaemia, or other unspecified anaemia | - Autoimmune thyroid disease<br>- Dermatitis herpetiformis<br>- Irritable bowel syndrome<br>- Type 1 diabetes<br>- First-degree relatives (parents, siblings or children) with coeliac disease |
 # Associations
-#associated 
-1. Coeliac can cause: enteropathic **T-cell lymphoma** (as T-cells get activated by gluten exposure).  #cancer  
+#associated See [NICE CKS- coeliac complications](https://cks.nice.org.uk/topics/coeliac-disease/background-information/complications/)
+1. Coeliac can cause Cancers
+	1. EATL: enteropathy associated **T-cell lymphoma** (as T-cells get activated by gluten exposure).  #cancer  
+	2. [[cancer- lymphoma|Non-Hodgkin's lymphoma]]
+	3. Small bowel adenocarcinoma (*30x risk*)
 2. Dermatitis Herpetiformis [Dermnetz](https://dermnetnz.org/topics/dermatitis-herpetiformis)
 	1. Cutaneous manifestation of coeliac disease. Nothing to do with [[human herpes viruses|herpes]]. It's pruritic vesicles on [[confusion in skin lesions|extensors]]. 
 	2. Give [[dapsone]]. 
 3. F/h/o Autoimmune disorders ([[diabetes mellitus 1|type 1 diabetes mellitus]], autoimmune [[hepatitis]], thyroid). 
-4. Iron deficiency anaemia due to malabsorption. 
-5. Hyposplenism
-6. [[osteoporosis]], [[osteomalacia]]
-7. lactose intolerance
-8. subfertility, unfavourable pregnancy outcomes
+4. Iron deficiency anaemia, B12 deficiency due to malabsorption. 
+5. [[osteoporosis]], [[osteomalacia]]
+6. lactose intolerance
+7. subfertility, unfavourable pregnancy outcomes
+8. Hyposplenism- Pneumococcal vaccine
 
 ![[coeliac disease- dermatitis herpetiformis.png|300]]
 
@@ -61,7 +66,9 @@ Patient would need to do duodenal biopsy (as coeliac affects duodenum & proximal
 ### Vaccine
 5 yearly [[immunisation in adults|Pneumococcal polysaccharide vaccine]]
 - Patients with coeliac have a degree of functional hyposplenism. 
+- Hyposplenism is a risk factor for encapsulated bacterial infections (such as pneumococcus, _Haemophilus influenzae_, and meningococcus infections) and sepsis.
 - Explain to people with coeliac disease and their family members or carers (as appropriate) that the [Department of Health's Green Book](https://www.gov.uk/government/publications/pneumococcal-the-green-book-chapter-25) recommends immunisation against pneumococcus.
+
 Influenza vaccine is decided on an individual basis. 
 
 ---
