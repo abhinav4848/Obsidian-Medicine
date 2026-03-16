@@ -16,6 +16,8 @@ Strabismus / esotropic strabismus.
 - See [NICE- Squint in children](https://cks.nice.org.uk/topics/squint-in-children/)
 Visual problems. 
 # Management
+Refer 2ww to ophthal for absent red reflex.
+
 Enucleation isn't the only option. 
 Depending on how advanced the tumour is, other options include external beam radiation therapy, chemo, photocoagulation. 
 

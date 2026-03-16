@@ -6,6 +6,7 @@ aliases:
   - celiac disease
   - gluten sensitive enteropathy
   - dermatitis herpetiformis
+  - coeliac syndrome
 ---
 Inability to tolerate gliadin, the alcohol soluble fraction of gluten that confers viscosity. Repeated exposure leads to villous atrophy -> malabsorption. 
 # Clinical Features
@@ -23,7 +24,7 @@ Inability to tolerate gliadin, the alcohol soluble fraction of gluten that confe
 | - Chronic or intermittent diarrhoea<br>- Failure to thrive or faltering growth (in children)<br>- Persistent or unexplained gastrointestinal symptoms including nausea and vomiting<br>- Prolonged fatigue ('tired all the time')<br>- Recurrent abdominal pain, cramping or distension<br>- Sudden or unexpected weight loss<br>- Unexplained iron-deficiency anaemia, or other unspecified anaemia | - Autoimmune thyroid disease<br>- Dermatitis herpetiformis<br>- Irritable bowel syndrome<br>- Type 1 diabetes<br>- First-degree relatives (parents, siblings or children) with coeliac disease |
 # Associations
 #associated 
-1. Coeliac can cause: **T-cell lymphoma** (as T-cells get activated by gluten exposure).  #cancer  
+1. Coeliac can cause: enteropathic **T-cell lymphoma** (as T-cells get activated by gluten exposure).  #cancer  
 2. Dermatitis Herpetiformis [Dermnetz](https://dermnetnz.org/topics/dermatitis-herpetiformis)
 	1. Cutaneous manifestation of coeliac disease. Nothing to do with [[human herpes viruses|herpes]]. It's pruritic vesicles on [[confusion in skin lesions|extensors]]. 
 	2. Give [[dapsone]]. 
@@ -50,17 +51,18 @@ if there is confirmed IgA deficiency but coeliac still suspected, test for:
 - IgG transglutaminase antibodies
 
 Patient would need to do duodenal biopsy (as coeliac affects duodenum & proximal jejunum) for histological confirmation- Gold standard for diagnosis. 
-# Foods to eat/avoid
-## Eat
-Allow CRP #mnemonic 
-- corn, rice, potatoes
-quinoa
-## Avoid
-Avoid BROW #mnemonic 
-Barley, Rye, Oats, Wheat
-- Rye Bread (contains grain) 
-- Oats don't contain gluten but are contaminated by gluten
-couscous
+
+# Management
+### Foods to eat/avoid
+
+| Eat                                                      | Avoid                                                                                                                                                        |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Allow CRP #mnemonic <br>- corn, rice, potatoes<br>quinoa | Avoid BROW #mnemonic <br>Barley, Rye, Oats, Wheat<br>- Rye Bread (contains grain) <br>- Oats don't contain gluten but are contaminated by gluten<br>couscous |
+### Vaccine
+5 yearly [[immunisation in adults|Pneumococcal polysaccharide vaccine]]
+- Patients with coeliac have a degree of functional hyposplenism. 
+- Explain to people with coeliac disease and their family members or carers (as appropriate) that the [Department of Health's Green Book](https://www.gov.uk/government/publications/pneumococcal-the-green-book-chapter-25) recommends immunisation against pneumococcus.
+Influenza vaccine is decided on an individual basis. 
 
 ---
 Note: 

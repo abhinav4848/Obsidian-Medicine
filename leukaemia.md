@@ -12,9 +12,20 @@ aliases:
   - Chronic Lymphocytic Leukemia
   - Chronic Myeloid Leukemia
   - leukemia
+  - hepatosplenomegaly
 ---
 Chronic has mature cells.
 Acute has immature cells.
+# Management of suspected leukaemia in primary care
+*See [[cancer suspected]] for referral criteria based on different symptoms.* 
+#### Children and young people (0-24yrs)
+Refer for ==immediate== specialist assessment for leukaemia if: 
+- unexplained petechiae  
+- hepatosplenomegaly.
+
+Refer in 48 hrs if Palpable abdominal mass: To investigate for possible neuroblastoma or Wilm's tumour. However, specific guidance exists for hepatosplenomegaly because of the risk of underlying leukaemia and immediate assessment is indicated.
+
+---
 # ALL
 Children (<15yo), [[Down's syndrome]].
 

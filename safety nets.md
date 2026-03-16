@@ -4,6 +4,9 @@ tags:
 ---
 See: https://abhinavkr.com/projects/gpleaflets/ 
 
+#### Suspected Cancer
+See [summary of key safety netting actions](http://cruk.org/safetynetting-summary) for a quick guide to effective safety netting and tips for communicating with patients whilst managing and investigating their signs & symptoms. Visit  [safety netting web page](http://cruk.org/safetynetting) for more resources to support best practice
+
 # Chest Pain
 Please seek urgent medical attention (e.g., A&E or call 999) if you experience any of the following:
 - Sudden, severe chest pain that does not ease – especially a crushing/pressure‑type sensation.

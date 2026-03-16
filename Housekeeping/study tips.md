@@ -40,7 +40,9 @@ CPD catalogue by RCGP: https://elearning.rcgp.org.uk/local/rcgp_coursedisplay/in
 Flowcharts: https://calgaryguide.ucalgary.ca/ 
 
 # Cancer symptom & cause
-Cancer Map by Gateway C: https://www.gatewayc.org.uk/the-cancer-maps/
+Cancer Map by Gateway C: 
+- https://www.gatewayc.org.uk/the-cancer-maps/
+How soon to refer: [NICE Suspected cancer guideline- PDF](https://www.cancerresearchuk.org/sites/default/files/cruk_ng12_interactive_guide.pdf?11)
 
 NICE: Management of cancers: https://www.nice.org.uk/guidance/ng12/chapter/Recommendations-organised-by-site-of-cancer
 
