@@ -8,12 +8,12 @@ aliases:
   - systemic lupus erythematosis
 ---
 # SLE
-Screen/Sensitive: [[antibodies|ANA]]  
-Specific: Anti ds-DNA (most discriminative test), Smith  
+**Screen** (high sensitivity): [[antibodies|ANA]]  
+**Specific**: Anti-dsDNA (most discriminative test), anti-Smith (see [[antibodies]])
   
 **3 best initial tests:** 
-- dsDNA, 
-- Complements (C3 & C4), 
+- anti-dsDNA, 
+- Complements (C3 & C4)- they're low during active disease
 - ESR (ESR is raised but CRP is normal)
 *negative ANCA*. 
 # When to suspect

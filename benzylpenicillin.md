@@ -8,7 +8,7 @@ tags:
 ---
 colloquially: ben-pen. 
 
-not the same as [Benzathine benzylpenicillin](https://bnfc.nice.org.uk/drugs/benzathine-benzylpenicillin/)
+not the same as [Benzathine benzylpenicillin (BNF)](https://bnfc.nice.org.uk/drugs/benzathine-benzylpenicillin/)
 - used in prophylaxis of rheumatic fever, erysipelas, syphilis
 # Suspected [[meningitis#Suspected meningococcal disease in GP clinic|Meningitis]] in GP setting
 *[NICE: Medical emergencies in the community](https://bnf.nice.org.uk/treatment-summaries/medical-emergencies-in-the-community/#bacterial-infection)*
