@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cancer- prostate.md",
+                "file": "cancer- urology.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cancer- prostate"
+              "title": "cancer- urology"
             }
           }
         ],
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cancer- prostate.md",
+                "file": "cancer- urology.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cancer- prostate"
+              "title": "Graph of cancer- urology"
             }
           }
         ]
@@ -251,10 +251,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "cancer- prostate.md"
+                "file": "cancer- urology.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for cancer- prostate"
+              "title": "File properties for cancer- urology"
             }
           }
         ],
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cancer- prostate.md",
+                "file": "cancer- urology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cancer- prostate"
+              "title": "Backlinks for cancer- urology"
             }
           }
         ]
@@ -303,10 +303,13 @@
   },
   "active": "529ef7ac9851fedd",
   "lastOpenFiles": [
-    "haematuria.md",
+    "cancer- bladder.md",
     "cancer- urology.md",
-    "flow charts/haematuria.canvas",
     "cancer- renal.md",
+    "cancer- prostate.md",
+    "cancer- testes.md",
+    "flow charts/haematuria.canvas",
+    "haematuria.md",
     "nitrofurantoin.md",
     "ckd classification & monitoring.md",
     "chronic kidney disease.md",
@@ -328,8 +331,6 @@
     "statistics- parametric tests.md",
     "antipsychotic drugs.md",
     "copd- acute exacerbation.md",
-    "cocp- pill ladder.md",
-    "cancer suspected.md",
     "flow charts/cocp after delivery- ukmec.canvas",
     "housekeeping/revise recent changes.base",
     "Untitled.base",

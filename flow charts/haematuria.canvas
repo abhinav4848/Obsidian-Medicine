@@ -16,11 +16,12 @@
 		{"id":"ad9796fee9f82286","type":"text","text":"Haematuria + [[UTI]] (persistent or recurrent)","x":86,"y":-69,"width":215,"height":69},
 		{"id":"0457ab6db4a4e106","type":"text","text":"# Haematuria\nSee [[cancer- urology]]\nsee [[haematuria]]","x":82,"y":-400,"width":210,"height":120},
 		{"id":"2d59b234fb6b3f6d","type":"text","text":"Woman aged >=40yo","x":94,"y":73,"width":200,"height":62},
-		{"id":"d51ee6cf6f084670","type":"text","text":"Refer to exclude cancer","x":-31,"y":380,"width":250,"height":60}
+		{"id":"d51ee6cf6f084670","type":"text","text":"Refer to exclude Urological cancer","x":-31,"y":270,"width":250,"height":60},
+		{"id":"af9700d8da9f1345","type":"text","text":"- [[cancer- prostate]]\n- [[cancer- bladder]]\n- [[cancer- renal]]\n- [[cancer- testes]]\n- cancer- penile","x":-1,"y":380,"width":191,"height":160}
 	],
 	"edges":[
 		{"id":"260cb8686edb2dd8","fromNode":"0457ab6db4a4e106","fromSide":"bottom","toNode":"afdad807c617048a","toSide":"top"},
-		{"id":"2ad1146b0712a5e1","fromNode":"8dc6760ec7b48bc0","fromSide":"bottom","toNode":"d51ee6cf6f084670","toSide":"top","label":"if >45yo, urgent"},
+		{"id":"2ad1146b0712a5e1","fromNode":"8dc6760ec7b48bc0","fromSide":"bottom","toNode":"d51ee6cf6f084670","toSide":"top"},
 		{"id":"5115834a44f6a459","fromNode":"0457ab6db4a4e106","fromSide":"bottom","toNode":"afdad807c617048a","toSide":"top"},
 		{"id":"a13efa478284510d","fromNode":"c67cac20891888ab","fromSide":"bottom","toNode":"d51ee6cf6f084670","toSide":"top"},
 		{"id":"30cd6efc4721a27c","fromNode":"0457ab6db4a4e106","fromSide":"bottom","toNode":"1ed46ac646a70f14","toSide":"top"},
@@ -39,6 +40,7 @@
 		{"id":"b010e28b920efcb4","fromNode":"838404196813262c","fromSide":"bottom","toNode":"8919128ff8c8c0aa","toSide":"top"},
 		{"id":"912957f2c9d3bdc0","fromNode":"2dfd66b91dbfbe05","fromSide":"bottom","toNode":"15d9525e37efed0d","toSide":"top"},
 		{"id":"2d42dcd8c9ae1a2e","fromNode":"8919128ff8c8c0aa","fromSide":"bottom","toNode":"f2b3389d7c909239","toSide":"top"},
-		{"id":"9d87c32e1ab4ad50","fromNode":"1ed46ac646a70f14","fromSide":"right","toNode":"a37c9eb5b8a3a67d","toSide":"left"}
+		{"id":"9d87c32e1ab4ad50","fromNode":"1ed46ac646a70f14","fromSide":"right","toNode":"a37c9eb5b8a3a67d","toSide":"left"},
+		{"id":"aa8e4e1509b77781","fromNode":"d51ee6cf6f084670","fromSide":"bottom","toNode":"af9700d8da9f1345","toSide":"top"}
 	]
 }

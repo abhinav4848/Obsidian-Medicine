@@ -2,6 +2,8 @@
 tags:
   - nephrology
   - confusion
+urls:
+  - "[NICE refer for urological cancer](https://cks.nice.org.uk/topics/urological-cancers-recognition-referral/management/referral-for-suspected-urological-cancer/)"
 ---
 
 | Symptoms                                        | Diagnosis                                                                          |

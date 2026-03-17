@@ -5,14 +5,13 @@ tags:
 aliases:
   - Prostate Cancer
 urls:
-  - "[NICE refer for prostate](https://cks.nice.org.uk/topics/urological-cancers-recognition-referral/management/referral-for-suspected-urological-cancer/)"
+  - "[NICE refer for urological cancer](https://cks.nice.org.uk/topics/urological-cancers-recognition-referral/management/referral-for-suspected-urological-cancer/)"
 ---
 *See [[prostate]] for other prostate problems.* 
 ## Risk factors
-Age > 50
-Family history
-[[afro-caribbean|African American]] male. 
-
+- Age > 50
+- Family history
+- [[afro-caribbean|African American]] male. 
 # Investigation
 Initial test: Digital rectal exam, PSA
 	3/4th of raised PSAs are normal. 
@@ -22,6 +21,13 @@ Diagnostic: Multiparametric MRI has replaced TRUS Biopsy.
 	Extracapsular extension of tumour is shown accurately with MRI. 
 But if not confirmed, then they do trans-perineal biopsy
 
+# Referral criteria
+- **Refer men for 2ww if their prostate feels malignant on digital rectal examination.**
+- Consider a prostate-specific antigen (PSA) test and digital rectal examination to assess for prostate cancer in men with:
+    - Any lower urinary tract symptoms, such as nocturia, urinary frequency, hesitancy, urgency or retention, or
+    - Erectile dysfunction, or
+    - Visible haematuria.
+- **Refer men using a suspected cancer pathway referral (for an appointment within 2 weeks) for prostate cancer if their PSA levels are above the age-specific reference range.**
 # Complication
 [[cancers metastasizing to the bone|Bone mets]]. 
 # Treatment
