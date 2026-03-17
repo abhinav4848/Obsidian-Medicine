@@ -4,9 +4,10 @@ tags:
   - urology
 aliases:
   - Prostate Cancer
+urls:
+  - "[NICE refer for prostate](https://cks.nice.org.uk/topics/urological-cancers-recognition-referral/management/referral-for-suspected-urological-cancer/)"
 ---
 *See [[prostate]] for other prostate problems.* 
-
 ## Risk factors
 Age > 50
 Family history

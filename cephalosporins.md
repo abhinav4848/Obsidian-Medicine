@@ -49,6 +49,7 @@ Poor activity vs H. influenzae
 
 ---
 ## Second Generation
+*2nd and 3rd gen are high risk of [[c. difficile]].* 
 ### Cefaclor (oral)
 - Similar antimicrobial spectrum to first generation
 - Good activity against H. influenzae

@@ -2,11 +2,12 @@
 tags:
   - pharmacology
   - abx
-aliases:
+urls:
+  - "[BNF- Nitrofurantoin](https://bnf.nice.org.uk/drugs/nitrofurantoin/#renal-impairment)"
 ---
 Used in [[UTI]]. 
 
-Avoid in patients with >=[[ckd classification & monitoring|CKD]] 3. 
+Avoid in patients with [[ckd classification & monitoring|eGFR]] <45. 
 Can give amoxicillin & ciprofloxacin but at reduced dose. 
 # Side effect of toxicity 
 - (free radical generation): Peripheral neuropathy, Hepatotoxicity, Pulmonary fibrosis. 

@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "antibodies.md",
+                "file": "cancer- prostate.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "antibodies"
+              "title": "cancer- prostate"
             }
           }
         ],
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "antibodies",
+                "query": "haematu",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "antibodies.md",
+                "file": "cancer- prostate.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of antibodies"
+              "title": "Graph of cancer- prostate"
             }
           }
         ]
@@ -251,10 +251,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "antibodies.md"
+                "file": "cancer- prostate.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for antibodies"
+              "title": "File properties for cancer- prostate"
             }
           }
         ],
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "antibodies.md",
+                "file": "cancer- prostate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for antibodies"
+              "title": "Backlinks for cancer- prostate"
             }
           }
         ]
@@ -303,9 +303,18 @@
   },
   "active": "529ef7ac9851fedd",
   "lastOpenFiles": [
+    "haematuria.md",
+    "cancer- urology.md",
+    "flow charts/haematuria.canvas",
+    "cancer- renal.md",
+    "nitrofurantoin.md",
+    "ckd classification & monitoring.md",
+    "chronic kidney disease.md",
+    "c. difficile.md",
+    "cephalosporins.md",
+    "antibodies.md",
     "desktop.ini",
     "systemic lupus erythematosus.md",
-    "antibodies.md",
     "benzylpenicillin.md",
     "primary biliary cholangitis & primary sclerosing cholangitis.md",
     "antibiotic guidelines.md",
@@ -321,14 +330,6 @@
     "copd- acute exacerbation.md",
     "cocp- pill ladder.md",
     "cancer suspected.md",
-    "cancer- cholangiocarcinoma.md",
-    "cirrhosis.md",
-    "immunisation in adults.md",
-    "coeliac disease.md",
-    "retinoblastoma.md",
-    "safety nets.md",
-    "housekeeping/study tips.md",
-    "leukaemia.md",
     "flow charts/cocp after delivery- ukmec.canvas",
     "housekeeping/revise recent changes.base",
     "Untitled.base",
@@ -346,7 +347,6 @@
     "attachments/Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf",
     "attachments/Red Whale _ COPD_ management Feb 2026.pdf",
     "attachments/chronic heart failure- management.png",
-    "flow charts/haematuria.canvas",
     "attachments/bpj12_ukmec_pages_28-29 (COCP only).pdf",
     "attachments/traffic light system for identifying risk of serious illness in under 5s.pdf",
     "flow charts/prostaglandins and leukotrienes.canvas",
