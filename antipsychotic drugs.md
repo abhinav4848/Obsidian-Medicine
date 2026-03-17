@@ -56,7 +56,7 @@ HAM side effects: Found in [[tricyclic antidepressants]] (TCA’s) and low poten
 	- pyrexia, muscle stiffness (lead pipe rigidity)
 	- Rx with iv **dantrolene** #antidote 
 - reduced seizure threshold (greater with atypical antipsychotics)
-- [[qt prolongation]] (particularly haloperidol)
+- [[qt prolongation|QT prolongation]] (particularly haloperidol)
 
 VTE risk in elderly. i.e. Stroke/DVT. Olanzapine MCC.
 

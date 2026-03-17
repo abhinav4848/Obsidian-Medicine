@@ -6,6 +6,7 @@ aliases:
   - long QT syndrome
   - prolonged QT interval
   - QT prolongation
+  - shortened QT interval
 urls:
   - https://litfl.com/qt-interval-ecg-library/
 ---

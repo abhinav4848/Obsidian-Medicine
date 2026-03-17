@@ -26,7 +26,7 @@ SPASMODIC: #mnemonic
 - orientation impairment (time, place, person)/confusion, 
 - dermatitis, 
 - impetigo herpetiformis, 
-- Chvostek's sign #named, [[cardiomyopathy]] ([[qt prolongation]]), 
+- Chvostek's sign #named, [[cardiomyopathy]] ([[qt prolongation|QT prolongation]]), 
 - Trousseau's sign of latent tetany (not the [[cancer- pancreas|pancreatic cancer]] one) #named 
 
 **Chvostek**: twitch of facial muscles when tap over parotid

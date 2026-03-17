@@ -43,7 +43,7 @@ Azithromycin needs [[asthma- drugs|significant workup]] before starting so speci
 	- Not recommended for people who still smoke. 
 - CT thorax excluded [[Bronchiectasis]] 
 - Sputum culture excluded Atypical infections & [[tuberculosis|TB]] 
-- LFT, ECG to exclude [[qt prolongation]] as Azithromycin #abx can cause. 
+- LFT, ECG to exclude [[qt prolongation|QT prolongation]] as Azithromycin #abx can cause. 
 - 5 day course, whether it's Azithromycin, or oral Steroid
 # Mucolytics 
 - should be 'considered' in patients with a chronic productive cough and continued if symptoms improve

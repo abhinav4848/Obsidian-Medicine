@@ -30,7 +30,7 @@ Sertraline, Fluoxetine (both s/e: Anorgasmia/delayed ejaculation, SIADH),
 - Fluoxetine not given for [[panic attacks]]. Give sertraline if at all. 
 - Tell the patient they're at increased risk of GI bleed if they also take NSAID. Give lansoprazole then. 
 
-[[Citalopram]] (s/e [[glaucoma- acute angle closure|Acute angle closure glaucoma]], [[qt prolongation]]),
+[[Citalopram]] (s/e [[glaucoma- acute angle closure|Acute angle closure glaucoma]], [[qt prolongation|QT prolongation]] ),
 Paroxetine.
 #### Side effects of SSRIs
 *See [[ssri#Side Effects of SSRIs linked|Side Effects of SSRIs]]* #important 
