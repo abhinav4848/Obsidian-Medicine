@@ -31,12 +31,14 @@ revision counter: 1
 ## COPD %%linked%%
 [[copd|COPD]]: FEV1/FVC remains <0.7 even after bronchodilator. This can also be expressed in percentage, so FEV1/FVC <70%. 
 
-| FEV1/FVC Post-bronchodilator | FEV1 (of predicted) | COPD Severity                                                                  |
-| ---------------------------- | ------------------- | ------------------------------------------------------------------------------ |
-| < 0.7                        | > 80%               | Stage 1 - Mild - symptoms should be present to diagnose COPD in these patients |
-| < 0.7                        | 50-79%              | Stage 2 - Moderate                                                             |
-| < 0.7                        | 30-49%              | Stage 3 - Severe- Consider assessment for LTOT                                 |
-| < 0.7                        | < 30%               | Stage 4 - Very severe- consider [[long term oxygen therapy\|LTOT]].            |
+#mnemonic 80-50-30 rule
+
+| FEV1/FVC Post-bronchodilator | FEV1 % (of predicted) | COPD Severity                                                                  |
+| ---------------------------- | --------------------- | ------------------------------------------------------------------------------ |
+| < 0.7                        | > 80%                 | Stage 1 - Mild - symptoms should be present to diagnose COPD in these patients |
+| < 0.7                        | 50-79%                | Stage 2 - Moderate                                                             |
+| < 0.7                        | 30-49%                | Stage 3 - Severe- Consider assessment for LTOT                                 |
+| < 0.7                        | < 30%                 | Stage 4 - Very severe- consider [[long term oxygen therapy\|LTOT]].            |
 
 Ratio of <0.7 needed for diagnosis of COPD. 
 Severity then classified using the FEV1 % of predicted.

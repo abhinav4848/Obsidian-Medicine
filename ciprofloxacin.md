@@ -8,7 +8,7 @@ urls:
   - https://bnf.nice.org.uk/treatment-summaries/quinolones/
   - "[NICE- Ciprofloxacin](https://cks.nice.org.uk/topics/prostatitis-acute/prescribing-information/ciprofloxacin/)"
 ---
-It's a [[fluroquinolone]].
+*It's a [[fluroquinolone]].*
 
 It is active against both Gram-positive and Gram-negative bacteria. It is particularly active against Gram-negative bacteria, including Salmonella, Shigella, Campylobacter, Neisseria, and Pseudomonas. Most anaerobes are not susceptible. 
 # Use in
@@ -21,7 +21,7 @@ It is active against both Gram-positive and Gram-negative bacteria. It is partic
 - Can lower [[seizure]] threshold. 
 - Can cause oxidative stress and RBC lysis (e.g. [[G6PD deficiency]])
 - Can cause [[lower limb ortho problems#Foot|Achilles tendonitis]] & rupture -> Risk increased if patient on steroids 
-	- A guy ruptured his tendon after being treated with ciprofloxacin.
+	- Anecdote: A guy ruptured his tendon after being treated with ciprofloxacin.
 - Can cause cartilage damage so avoid in children
 - Can cause [[qt prolongation|Long QT interval]].
 

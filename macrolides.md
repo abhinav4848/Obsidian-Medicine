@@ -13,6 +13,7 @@ Erythromycin- [[drugs contraindicated in pregnancy|Safe in pregnancy]]
 Clarithromycin- more active form of erythromycin. Used for [[h. pylori]] treatment
 
 # side effects
+[[p450|Enzyme inhibitor. ]]
 Macrolides interact with [[statins]]. 
 Can cause [[qt prolongation|long QT syndrome]]
 

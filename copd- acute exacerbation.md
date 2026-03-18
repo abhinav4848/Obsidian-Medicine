@@ -73,6 +73,7 @@ Prednisolone 30 mg Prednisolone stat. (or 100 mg IV hydrocortisone)
 May be considered if no response to Nebulised Bronchodilators
 
 ## NIV/BiPAP
+Patients with COPD are prone to T2 resp failure
 After giving above medical management, if he is still dyspnoeic, with respiratory acidosis ([[respiratory failure|type 2 resp failure]]): Non-Invasive Ventilation (NIV) -> BiPAP.
 
 If NIV fails or is C/I (Respiratory arrest, high aspiration risk, impaired mental status): Invasive ventilation

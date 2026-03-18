@@ -33,7 +33,7 @@ urls:
 - They increase effect of Warfarin. 
 - Increased risk of myositis when taken with other lipid lowering drugs, 
 	- 🚩[[macrolides]] (erythromycin), 
-	- 🚩antifungals (ketoconazole, Itrazonazole, Voriconazole), 
+	- 🚩antifungals (ketoconazole, Itraconazole, Voriconazole), 
 	- 🚩[[calcium channel blockers|CCB]] (Verapamil, Diltiazem), 
 	- 🚩ciclosporin. 
 	- 🚩Fibrates, [[colchicine]], 

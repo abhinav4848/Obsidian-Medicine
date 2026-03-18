@@ -7,7 +7,8 @@ used in acute flare of [[gout]] if NSAID contraindicated.
 colchicine + NSAID for viral/idiopathic [[acute pericarditis|pericarditis]]. 
 
 ---
-# Pharmacology #notAKT 
+# Pharmacology 
+#notAKT 
 Colchicine works mainly by:
 1) Inhibiting microtubules in neutrophils
 	- Neutrophils need microtubules to move, phagocytose, and degranulate.
