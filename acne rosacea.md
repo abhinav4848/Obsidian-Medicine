@@ -8,7 +8,8 @@ urls:
   - "[NICE CKS- Rosacea](https://cks.nice.org.uk/topics/rosacea/management/rosacea/)"
 aliases:
   - rosacea
-OHGp 5th Ed: 570
+OHGp 5th Ed:
+  - "570"
 ---
 Relapsing–remitting chronic inflammatory facial dermatosis characterized by [[erythemas]] and pustules.
 - Presents in later life/middle age. 

@@ -8,13 +8,13 @@ urls:
   - https://academic.oup.com/rheumatology/article/56/7/1056/3855178?login=false
 ---
 # Cause
-## Diseases: 
+### Diseases: 
 Seen in Polycythemia, [[leukaemia|leukaemia]], [[tumour lysis syndrome]], Psoriasis, Lesch-Nyhan syndrome (self mutilating disorder due to buildup of uric acid). 
-## Drugs
+### Drugs
 #mnemonic : FACT 
 Furosemide, Alcohol excess, [[Cytotoxic drugs]] (cyclosporine), [[side effects of cvs drugs|thiazide]], Pyrazinamide
 Drugs used for CHF cause gout: Thiazide, loop diuretics (prescribed first). 
-## Foods
+### Foods
 High purine containing: Liver, Kidneys, Seafood, oily fish (mackerel, sardines), and yeast products. 
 
 # Investigations
@@ -32,8 +32,9 @@ Synovial fluid- needle shaped negatively birefringent monosodium urate crystals 
 Give Naproxen, Ibuprofen at max dose in acute mx > low dose [[Colchicine]] is 2nd line cuz of s/e (GIT, Renal).
 - Aspirin is not indicated for gout. 
 - Don't give [[NSAID]] if already on blood thinner. 
-- Ask patient to stop taking [[statins]] if giving colchicine, cuz risk of rhabdomyolysis. #important 
-- Just like we ask patients to not take [[statins]] when giving macrolide. 
+- 🚩Ask patient to stop taking [[statins]] if giving colchicine, cuz risk of rhabdomyolysis. #important 
+- Just like we ask patients to not take [[statins]] when giving [[macrolides]]. 
+
 Discuss urate lowering therapy with all patients experiencing a first flare.
 ## Long term
 Allopurinol is only started after symptoms settle > Febuxostat if not tolerated. 

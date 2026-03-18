@@ -28,6 +28,7 @@ Non-DHPs: (verapamil, Diltiazem) are more myocardial calcium receptor selective 
 	- AV nodal blockage (verapamil, beta blocker etc) of conductions originating in the ventricles is contraindicated as it can cause ventricular fibrillation.
 - Verapamil can cause constipation. 
 - Verapamil & diltiazem also cause [[hypotension & hypertension drugs|Hypotension]].
+- V&D increase exposure to [[statins|Statin]] (severe 🚩)
 ### DHPs
 - Headache, Flushing (More with DHPs)
 - Ankle Swelling: DHPs are more selective for vascular smooth muscle receptors causing vasodilation -> increased capillary pressure, leakage of fluid -> Ankle edema, Flushing, Headache. 

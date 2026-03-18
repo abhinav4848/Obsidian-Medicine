@@ -24,22 +24,23 @@ urls:
 # Test before & after starting
 - Recheck lipid profile in 3 months -> If target not met, promote lifestyle, check concordance, increase dose if tolerated/not on max dose. 
 - Check LFT in 3m & 1y after initiating OR increasing dose. Don't check again unless clinically indicated. 
-	- If [[nash|nafld]] is diagnosed, patients should still continue statin. 
+	- If [[nash|NASH]] is diagnosed, patients should still continue statin. 
 	- Only consider ==stopping statin if live enzyme doubles within 3 months of starting statin==, including in people with abnormal baseline LFTs.
 - Do not routinely check CK levels- only if muscle pain. 
 - If CKD (eGFR <60): Give lower dose ([BNF](https://bnf.nice.org.uk/drugs/atorvastatin/#renal-impairment))
 # Interactions
-#interaction 
+#interaction [BNF Interactions- Atorvastatin](https://bnf.nice.org.uk/interactions/atorvastatin/)
 - They increase effect of Warfarin. 
 - Increased risk of myositis when taken with other lipid lowering drugs, 
-	- macrolides (erythromycin), 
-	- antifungals (ketoconazole), 
-	- amiodarone, 
-	- [[calcium channel blockers|CCB]], 
-	- [[HIV]] protease inhibitors (nelfinavir), 
+	- 🚩[[macrolides]] (erythromycin), 
+	- 🚩antifungals (ketoconazole, Itrazonazole, Voriconazole), 
+	- 🚩[[calcium channel blockers|CCB]] (Verapamil, Diltiazem), 
+	- 🚩ciclosporin. 
+	- 🚩Fibrates, [[colchicine]], 
+	- 🚩[[HIV]] protease inhibitors (nelfinavir, darunavir...), 
+	- 🔶amiodarone- can increase risk of hepatotoxicity
 	- danazol, 
-	- ciclosporin. 
-- atorvastatin, simvastatin, Lovastatin: Avoid grapefruit if taking 
+- Atorvastatin, simvastatin, Lovastatin: Avoid grapefruit if taking 
 - Avoid [[p450|cranberry juice]] if Fluvastatin. 
 - Simvastatin ([BNF](https://bnf.nice.org.uk/drugs/simvastatin/)): Many interactions. If patient on Amlodipine, amiodarone, Ranolazine, Bempedoic acid (as part of Nustendi for cholesterol), Verapamil, diltiazem, some antivirals- limit Simvastatin to max 20mg. 
 

@@ -40,7 +40,7 @@ Prednisolone 30 mg stat. (or 100 mg IV hydrocortisone)
 	Prednisolone should be continued as 30 mg OD for 5 days. 
 ## Antibiotics
 If purulent sputum, fever, high CRP, signs of [[Pneumonia]] -> give Antibiotics (see Nice [NG114](https://www.nice.org.uk/guidance/ng114)).
-- Choose between: amoxicillin / clarithromycin / doxycycline. #abx
+- Choose between: amoxicillin / [[macrolides|Clarithromycin]] / doxycycline. #abx
 - Even though it's common practice to give abx in exacerbation, NICE does not support it. 
 - While those with Mod or Severe COPD have a higher risk of exacerbation, only give abx if there is symptom of infection. Exacerbation can happen without infection. 
 
@@ -56,7 +56,7 @@ Admit if:
 
 ## Oxygen therapy
 Before ABG:
-- COPD patients are at risk of hypercapnia (CO2 Narcosis- depressed consciousness)
+- COPD patients are at risk of hypercapnea (CO2 Narcosis-> depressed consciousness)
 - Aim initial sats 88-92% if no ABG. 
 - 24% - 28% Oxygen (not 100%) using "venturi face mask"
 After ABG: 

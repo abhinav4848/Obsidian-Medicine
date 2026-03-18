@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c. difficile.md",
+                "file": "gout.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "c. difficile"
+              "title": "gout"
             }
           }
         ],
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diffici",
+                "query": "ciclosporin",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -117,8 +117,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -131,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "c. difficile.md",
+                "file": "gout.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,7 +158,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of c. difficile"
+              "title": "Graph of gout"
             }
           }
         ]
@@ -251,10 +250,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "c. difficile.md"
+                "file": "gout.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for c. difficile"
+              "title": "File properties for gout"
             }
           }
         ],
@@ -271,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "c. difficile.md",
+                "file": "gout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +280,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for c. difficile"
+              "title": "Backlinks for gout"
             }
           }
         ]
@@ -303,7 +302,26 @@
   },
   "active": "529ef7ac9851fedd",
   "lastOpenFiles": [
+    "statins.md",
+    "gout.md",
+    "colchicine.md",
     "digoxin.md",
+    "liver toxicity.md",
+    "calcium channel blockers.md",
+    "nash.md",
+    "down's syndrome.md",
+    "macrolides.md",
+    "copd- acute exacerbation.md",
+    "spirometry.md",
+    "copd.md",
+    "mrc dyspnoea scale.md",
+    "c. difficile.md",
+    "h. pylori.md",
+    "flow charts/h. pylori treatment flowchart.canvas",
+    "cephalosporins.md",
+    "metronidazole.md",
+    "acne rosacea.md",
+    "desktop.ini",
     "alex/c_7a0E14gwM.md",
     "alex",
     "attachments/digoxin effect- normal use of digoxin (not toxicity).jpg",
@@ -320,30 +338,12 @@
     "attachments/digoxin toxicity-1.png",
     "attachments/digoxin effect- normal use of digoxin (not toxicity).png",
     "attachments/digoxin toxicity-2.png",
-    "cancer- urology.md",
-    "cancer- bladder.md",
-    "cancer- renal.md",
-    "cancer- prostate.md",
-    "cancer- testes.md",
     "flow charts/haematuria.canvas",
-    "haematuria.md",
-    "nitrofurantoin.md",
-    "ckd classification & monitoring.md",
-    "chronic kidney disease.md",
-    "c. difficile.md",
-    "cephalosporins.md",
-    "antibodies.md",
-    "desktop.ini",
-    "systemic lupus erythematosus.md",
-    "benzylpenicillin.md",
-    "primary biliary cholangitis & primary sclerosing cholangitis.md",
-    "antibiotic guidelines.md",
     "flow charts/cocp after delivery- ukmec.canvas",
     "housekeeping/revise recent changes.base",
     "Untitled.base",
     "flow charts/deep vein thrombosis.canvas",
     "attachments/dupuytren's contracture.png",
-    "flow charts/h. pylori treatment flowchart.canvas",
     "attachments/patau vs edward syndrome.png",
     "attachments/Pasted image 20260305124244.png",
     "flow charts/shoulder exam.canvas",

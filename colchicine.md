@@ -2,8 +2,8 @@
 tags:
   - pharmacology
 ---
-used in [[gout]] as acute if NSAID contraindicated. 
-[[statins]] + colchicine -> Increased risk of rhabdomyolysis #interaction
+used in acute flare of [[gout]] if NSAID contraindicated. 
+🚩[[statins]] + colchicine -> Increased risk of rhabdomyolysis #interaction
 colchicine + NSAID for viral/idiopathic [[acute pericarditis|pericarditis]]. 
 
 ---
