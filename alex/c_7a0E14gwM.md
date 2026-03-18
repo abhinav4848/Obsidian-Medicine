@@ -73,5 +73,18 @@ Timing your largest meal or your carb intake around this exercise takes advantag
 
 ## Sleep
 This is when body performs most of its hormonal recalibration. GH rises, Cortisol drops to its lowest levels in the early parts of the night. Insulin sensitivity improves with sleep & deteriorates with sleep deprivation. Just 4 nights of sleep restriction reduced insulin sensitivity by approx 30% in healthy adults. 
-Chronic undersleeping is an uphill battle against BP. 
+Chronic under-sleeping is an uphill battle against BP. 
+
+Sleep is not just rest. It's active metabolic repair. 
+
+---
+When patients compress their eating to 8-10 hour window, their BP drops. 
+
+Elevated BP is a direct measure of the mechanical stress your cardiovascular system is under every single day -> can lead to LVH/thickening of heart muscle -> Reduces the heart's efficiency and increases the risk of HF. 
+The blood vessels have to withstand the high pressures continuously which damages the endothelium. Increases atherosclerosis and increases the risk of a heart attack or stroke. 
+High pressure increases the risk of kidney damage and CKD. 
+
+The above conditions also caus: T2DM, Fatty liver, PCOS, Alzheimer's
+
+diabetes care: Metaanalysis: Insulin resistance is independently associated with increased risk of cardiovascular disease, even in patients without diabetes. 
 

@@ -16,7 +16,7 @@ h/o PPI, increased age, IBD,
 
 ## Treatment
 If first episode:
-- Oral vancomycin 125mg QDS 10 days (1st line)
+- Oral vancomycin -> 125mg QDS 10 days (1st line)
 - Fidaxomicin (2nd line) -> Vancomycin (500mg QDS)+/-Metronidazole
 
 If recur < 12 weeks later: Fidaxomicin
