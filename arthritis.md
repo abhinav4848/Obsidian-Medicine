@@ -32,7 +32,7 @@ Arthritis
 # Classification of arthritis
 ### Inflammatory vs Non-Inflammatory
 **Inflammatory**:
-- [[rheumatoid arthritis]], psoriatic arthritis, [[ankylosing spondylitis]], [[reactive arthritis]], [[gout]]. 
+- [[rheumatoid arthritis]], [[psoriatic arthritis]], [[ankylosing spondylitis]], [[reactive arthritis]], [[gout]]. 
 **Non-inflammatory**:
 - [[ra vs osteoarthritis|Osteoarthritis]]
 
@@ -42,7 +42,7 @@ Seropositive (RF or Anti-CCP +ve): RA
 
 ### Spondyloarthritis (SpA)
 Spondyloarthritis: This is a family of inflammatory arthritides.
-e.g. Ankylosing spondylitis, Psoriatic arthritis, Reactive arthritis, Enteropathic arthritis ([[inflammatory bowel disease|IBD]]-related)
+e.g. Ankylosing spondylitis, [[Psoriatic arthritis]], Reactive arthritis, Enteropathic arthritis ([[inflammatory bowel disease|IBD]]-related)
 
 ### Axial vs Peripheral Spondyloarthritis
 Modern classification (ASAS criteria) divides SpA into:
@@ -52,8 +52,8 @@ Primarily spine and sacroiliac joints. Two subtypes:
 2. **Non-radiographic axSpA**: MRI inflammation but normal X-ray
 ##### Peripheral spondyloarthritis 
 Asymmetric oligoarthritis, Enthesitis, Dactylitis.
-	**Enthesitis**: inflammation of the entheses, which are the sites where tendons and ligaments attach to bones
-Seen in: Psoriatic arthritis, Reactive arthritis, IBD-associated arthritis
+	**Enthesitis**: inflammation at the site of tendon and ligament insertion (e.g. Achilles tendonitis, plantar fasciitis)
+Seen in: [[Psoriatic arthritis]], Reactive arthritis, IBD-associated arthritis
 
 ---
 # Inflammatory arthritis (Not seronegative arthritis)

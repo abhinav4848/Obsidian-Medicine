@@ -8,5 +8,5 @@ aliases:
 - [[seronegative spondyloarthropathy]]
 	- [[Ankylosing spondylitis]]
 	- [[reactive arthritis]]
-	- Psoriatic arthritis
+	- [[Psoriatic arthritis]]
 	- [[plaque psoriasis]]

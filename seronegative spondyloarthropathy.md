@@ -21,7 +21,7 @@ Group includes
 	2. [[behcet's disease]] 
 	3. Enteropathic Spondyloarthritis: Arthritis that accompanies [[inflammatory bowel disease|IBD]]
 	4. [[whipple disease]] 
-	5. psoriatic arthritis
+	5. [[psoriatic arthritis]]
 
 ![[spondyloarthritis#Missed picture linked]]
 # Investigation

@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "childhood syndromes.md",
+                "file": "psoriatic arthritis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "childhood syndromes"
+              "title": "psoriatic arthritis"
             }
           }
         ],
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "syndromes",
+                "query": "enthe",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "childhood syndromes.md",
+                "file": "psoriatic arthritis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of childhood syndromes"
+              "title": "Graph of psoriatic arthritis"
             }
           }
         ]
@@ -251,10 +251,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "childhood syndromes.md"
+                "file": "psoriatic arthritis.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for childhood syndromes"
+              "title": "File properties for psoriatic arthritis"
             }
           }
         ],
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "childhood syndromes.md",
+                "file": "psoriatic arthritis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for childhood syndromes"
+              "title": "Backlinks for psoriatic arthritis"
             }
           }
         ]
@@ -303,6 +303,13 @@
   },
   "active": "529ef7ac9851fedd",
   "lastOpenFiles": [
+    "arthritis.md",
+    "psoriatic arthritis.md",
+    "rheumatoid arthritis.md",
+    "seronegative spondyloarthropathy.md",
+    "psoriasis.md",
+    "guttate psoriasis.md",
+    "childhood syndromes.md",
     "menorrhagia.md",
     "fertility.md",
     "cocp.md",
@@ -322,14 +329,7 @@
     "calcium channel blockers.md",
     "colchicine.md",
     "gout.md",
-    "digoxin.md",
-    "liver toxicity.md",
-    "nash.md",
-    "down's syndrome.md",
-    "mrc dyspnoea scale.md",
-    "c. difficile.md",
     "flow charts/h. pylori treatment flowchart.canvas",
-    "cephalosporins.md",
     "desktop.ini",
     "alex",
     "attachments/digoxin effect- normal use of digoxin (not toxicity).jpg",

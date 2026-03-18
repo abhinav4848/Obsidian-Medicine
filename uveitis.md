@@ -13,7 +13,7 @@ Common associated conditions:
 - [[Ankylosing spondylitis]]
 - [[inflammatory bowel disease]]
 - [[reactive arthritis]]
-- Psoriatic arthritis
+- [[Psoriatic arthritis]]
 ### Typical clinical pattern
 Acute HLA-B27 anterior uveitis is usually:
 - Sudden onset, Unilateral, painful eye
