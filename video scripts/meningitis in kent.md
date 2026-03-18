@@ -7,7 +7,7 @@ Meninges are the covering of the brain & spinal cord. Your brain doesn't directl
 
 Now meningitis that's hit the news is bacterial origin, particularly Meningococcus bacteria strain B, or Men B for short. But that's not the only causes of meningitis out there. Viruses can cause meningitis as well, and viral meningitis is far more common than bacterial meningitis. 
 # What symptoms do people get?
-Some non specific symptoms: 
+There are some general symptoms which are not only specific for meningitis, but some others which are highly specific. 
 - Non-specific symptoms: fever, a really bad headache different from your usual tension headache, nausea and vomiting, lethargy, irritable or unsettled mood, refusal of food and drink,  muscle ache or joint pain, and respiratory symptoms such as a cough.
 - More specific symptoms and signs: stiff neck, rigid back, altered mental state (confusion, delirium and drowsiness, impaired consciousness), non-blanching rash, photophobia, coma and seizures.
 
@@ -22,17 +22,17 @@ If you know someone who mentioned they're not feeling well in the way I explaine
 ---
 before we jump to treatments, Let's talk about the protections we already have in place in the society: vaccines. 
 # vaccinations
-Men B, the strain that's causing the outbreak was added to national vaccination program in 2015 and has been given to children under the age of 2 years. First vaccine is when they're 8 weeks old, and next when they're 1 year old. That's because it's one of the most common causes of meningitis in under fives.
+Men B, the strain that's causing the outbreak was added to national vaccination program in 2015 and has been given to children under the age of 2 years. First vaccine is when they're 8 & 12 weeks old and a booster at 1 year old. That's because it's one of the most common causes of meningitis in under five year olds. 
 
 A few other strains of this meningitis, Men ACWY are given as a single vaccine around age 14 years or school year 9.
 
-Now Men B is not offered again after the initial 2 doses. Meningitis now, a UK based organisation is calling for it to be included for teenagers and young people. Alternatively you can go private for a Men B vaccine. 
+Now Men B is not routinely offered again after the initial 3 doses. Meningitis now, a UK based organisation is calling for it to be included for teenagers and young people especially as they go to university and mix with a lot of people. So for now, the option is to go private for a Men B vaccine. 
 
 ---
 # Treatment
 When you arrive to the A&E, you are assessed by the doctor. The paramedics would've also called ahead and informed if they suspect meningitis as well. If the doctors are worried, given how severe the infection can be, they will collect throat swab samples given that's where these bacteria are present the most, they also take blood samples, including blood culture to look for any bacteria and which antibiotics work best against it. A lumbar puncture is also done, where they collect the fluid between meninges by putting a needle in the low back. The doctors won't wait for this to be done however, if symptoms are obvious or bad enough or if patient is very unwell. 
 
-The treatment is antibiotic through the veins and if there's suspicion of a virus, you could also get anti-viral medications. 
+The treatment is antibiotic through the veins and if there's suspicion of a virus, you could also get anti-viral medications. A steroid could be added to prevent further inflammation of the meninges. 
 
 ---
 # Now what led to the situation in Kent?
@@ -42,6 +42,6 @@ This outbreak didn’t start with a new bacteria — just the wrong conditions.
 
 Since Men B vaccine was introduced into national immunisation program in 2015, only 11 ago, the children who received them would be around 13-14 now so that leaves the university students in the non-immunised group.
 
-Another factor that could've contributed is that normally, these bacteria are sitting at the back of the throat, and our immunity is preventing them from getting out of hand. The bacteria are transmitted through droplets like sneezing, shouting which lead to aerosolisation of these bacteria. Now in a crowded place like a club, this can easily transmit to people around. So there was a high buildup of the bacterial load in the air, and when inhaled, they overwhelmed the immune system and became invasive, entering the blood, spreading to brain, and causing disease. 
+Another factor that could've contributed is that normally, these bacteria are sitting at the back of the throat, and our immunity is preventing them from getting out of hand. The bacteria are transmitted through droplets when sneezing, shouting, kissing. Now in a crowded place like a club, this can easily transmit to people around through droplets. The high bacterial count overwhelmed the throat's natural barriers and became invasive, entering the blood, spreading to brain, and causing disease. 
 
 Prophylactic antibiotics are being given to people who are thought to have come in contact with the disease. If you develop any symptoms like I mentioned previously, be sure to contact your GP or call 111 to have another person with some medical background go over your symptoms and help you decide on the next steps. 

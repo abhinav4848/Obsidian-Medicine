@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "primary biliary cholangitis & primary sclerosing cholangitis.md",
+                "file": "immunisation schedule (paeds).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "primary biliary cholangitis & primary sclerosing cholangitis"
+              "title": "immunisation schedule (paeds)"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "video scripts/meningitis in kent.md",
+                "file": "video scripts/meningitis final youtube.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "meningitis in kent"
+              "title": "meningitis final youtube"
             }
           }
         ],
@@ -117,8 +117,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -131,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "video scripts/meningitis in kent.md",
+                "file": "video scripts/meningitis final youtube.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,7 +158,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of meningitis in kent"
+              "title": "Graph of meningitis final youtube"
             }
           }
         ]
@@ -271,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "video scripts/meningitis in kent.md",
+                "file": "video scripts/meningitis final youtube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +280,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for meningitis in kent"
+              "title": "Backlinks for meningitis final youtube"
             }
           }
         ]
@@ -303,8 +302,10 @@
   },
   "active": "529ef7ac9851fedd",
   "lastOpenFiles": [
-    "immunisation schedule (paeds).md",
     "video scripts/meningitis in kent.md",
+    "video scripts/meningitis final youtube.md",
+    "immunisation schedule (paeds).md",
+    "primary biliary cholangitis & primary sclerosing cholangitis.md",
     "psoriatic arthritis.md",
     "video scripts",
     "arthritis.md",
@@ -328,8 +329,6 @@
     "fluroquinolone.md",
     "respiratory failure.md",
     "h. pylori.md",
-    "statins.md",
-    "calcium channel blockers.md",
     "flow charts/h. pylori treatment flowchart.canvas",
     "desktop.ini",
     "alex",
