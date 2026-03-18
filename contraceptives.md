@@ -16,10 +16,12 @@ See [[cocp|COCP]].
 
 ---
 # Progesterone only
-[NICE CKS- Progesterone only methods](https://cks.nice.org.uk/topics/contraception-progestogen-only-methods/). Also see [[time for action of contraceptives]]
+[NICE CKS- Progesterone only contraception methods](https://cks.nice.org.uk/topics/contraception-progestogen-only-methods/). Also see [[time for action of contraceptives]]
 ## Pill
-POP.
+aka POP.
 No pill free interval. 
+Can be used for endometriosis. 
+Around 50% of women on the POP have no bleeding, or very infrequent bleeding, and only 10% are reported to have more frequent bleeding or spotting, with long term POP use.
 ## Implant 
 Nexplanon (etonogestrel 68 mg) is currently the only progestogen-only implant licensed for use in the UK.
 Replaced every 3 years. 

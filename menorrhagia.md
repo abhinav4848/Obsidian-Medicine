@@ -20,6 +20,7 @@ urls:
 
 IUD (copper) is a cause. 
 IUS ([[contraceptives|Mirena]]) is a treatment.
+
 Rule out [[cancer- endometrial|Endometrial hyperplasia]]
 Rule out Fibroids (leiomyoma) as a cause. 
 - if main symptom about fibroids is pressure- TVS. 
@@ -31,13 +32,13 @@ Rule out Fibroids (leiomyoma) as a cause.
 Once all [[contraceptives for bleeding reduction|underlying pathologies]] ruled out, management depends on need for contraception.
 ##### If yes: 
 - 1st line: LNG IUS (Mirena)
-- 2nd line: COCP (can be used in dysmenorrhea as 2nd line)
+- 2nd line: [[COCP]] (can be used in dysmenorrhea as 2nd line)
 - 3rd line: Long acting progestogens ([[contraceptives|Depo Provera]])
 ##### If no:
 - Mefenamic acid: it's an NSAID (Menorrhagia + dysmenorrhea 1st line)
 - Tranexamic acid (Menorrhagia) 
 	- Don't combine tranexamic acid with COCP or Mirena.
-
+	- Don't use if h/o [[venous thromoboembolism|VTE]]. 
 Both can be started on first day of periods.
 
 Norethisterone 5 mg TDS can be used as a short-term option to rapidly stop heavy menstrual bleeding. 
