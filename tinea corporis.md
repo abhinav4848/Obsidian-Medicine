@@ -20,6 +20,7 @@ urls:
 - ringworm (tinea corporis), 
 - jock itch (tinea cruris), 
 - athlete's foot (tinea pedis). 
+Others: *Microsporum gypseum*
 # Clinical Features
 Red, circular. Ringworm.
 

@@ -5,9 +5,11 @@ aliases:
   - eclampsia
 ---
 # Pre-eclampsia
-Definition: New HTN > 140/90 after 20w+ one of these:
-Proteinuria ( > 0.3g/24 hr. 1+) after 20th week of gestation.
 **Gestational HTN**: New onset HTN after 20 weeks. 
+
+Definition: New HTN > 140/90 after 20wk PoG + one of these:
+- Proteinuria ( > 0.3g/24 hr. 1+)
+- Other organ involvement (see list below for examples): e.g. renal insufficiency (creatinine ≥ 90 umol/L), liver, neurological, haematological, uteroplacental dysfunction
 ## Symptoms
 - Frontal headache
 - Visual disturbance (flashing lights and blurring)
@@ -17,8 +19,7 @@ Proteinuria ( > 0.3g/24 hr. 1+) after 20th week of gestation.
 ## Signs
 - BP > 140/90 or > 160/110 severe
 - Proteinuria > 300mg in 24 hrs/dipstick ++ to +++
-- Facial edema
-- Papilledema 
+- Facial edema, Papilledema , Pulmonary edema
 - Epigastric/RUQ tenderness due to liver involvement and capsule distension 
 - Confusion or neurological disturbance 
 - Hyperreflexia or clonus: Signs of cerebral irritability 
@@ -27,6 +28,9 @@ Proteinuria ( > 0.3g/24 hr. 1+) after 20th week of gestation.
 - [[platelets|Low platelet count]] < 100 * 10^6/L, abnormal liver enzymes or HELLP syndrome
 	- Can lead to haemorrhage: placental abruption, intra-abdominal, intra-cerebral
 # Management
+*See [NICE NG133- HTN in Pregnancy](https://www.nice.org.uk/guidance/ng133/chapter/Recommendations#management-of-pre-eclampsia)*
+Full assessment of Gest HTN is done in secondary care setting. 
+Admit if BP > 160/110
 ## BP
 Labetalol is 1st line for pre-eclampsia and gestational HTN
 - Labetalol is 3rd-gen cardioselective with vasodilatory properties (alpha & beta blocker). 
@@ -73,6 +77,7 @@ NICE divide risk factors into high and moderate risk:
 # Eclampsia
 GTCS + pre-eclampsia
 (but GTCS can rarely occur both in postpartum period, and w/o h/o Preeclampsia). 
+Other symptoms: Altered mental status, blindness, stroke, clonus, severe headaches or persistent visual scotomata
 ## Treatment
 We can give diazepam (but don’t give diazepam before [[magnesium|MgSO4]], even if GTCS). 
 
