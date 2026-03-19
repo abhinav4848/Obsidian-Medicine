@@ -5,6 +5,7 @@ tags:
 aliases:
   - cradle cap
   - Seborrhoeic eczema
+  - dandruff
 urls:
   - https://www.pcds.org.uk/clinical-guidance/seborrhoeic-eczema
 ---

@@ -20,7 +20,7 @@ tags:
 - glycogen storage disease
 - aflatoxin
 - drugs: oral contraceptive pill, anabolic steroids
-- porphyria cutanea tarda
+- [[porphyria|porphyria cutanea tarda]]
 - male sex
 - diabetes mellitus, metabolic syndrome
 

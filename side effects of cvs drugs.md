@@ -2,6 +2,7 @@
 tags:
   - pharmacology
 ---
+
 **[[ACE inhibitors]]**: 
 Cough, Angioedema, c/i in Renal artery stenosis, [[Hyperkalemia]] (due to block of aldosterone)
 
@@ -13,8 +14,9 @@ Cough, Angioedema, c/i in Renal artery stenosis, [[Hyperkalemia]] (due to block 
 Hypo NaBpK, HyperU #mnemonic 
 
 **Thiazide:**
+#mnemonic 
 HypoNaBpK ([[Hyponatremia]], Hypotension, [[hypokalemia]])
-Hyper GLUC (glycemia, lipidemia, uricemia, [[hypercalcemia|calcemia]]) #mnemonic 
+Hyper GLUC (glycemia, lipidaemia, [[gout|uricaemia]], [[hypercalcemia|calcemia]]) #mnemonic 
 Metabolic Alkalosis
 Impotence
 

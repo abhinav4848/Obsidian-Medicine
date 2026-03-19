@@ -34,7 +34,7 @@ Synovial fluid- needle shaped negatively birefringent monosodium urate crystals 
 # Treatment
 [NICE CKS- Gout](https://cks.nice.org.uk/topics/gout/management/acute-gout/)
 ## Acute management
-Give Naproxen, Ibuprofen at max dose in acute mx > low dose [[Colchicine]] is 2nd line cuz of s/e (GIT, Renal).
+Give Naproxen, Ibuprofen at max dose in acute mx (up-to 2 days after symptoms settle) > low dose [[Colchicine]] is 2nd line cuz of s/e (GIT, Renal) > Oral steroid
 - Aspirin is not indicated for gout. 
 - Don't give [[NSAID]] if already on blood thinner. 
 - 📗Don't start **Allopurinol** in acute gout as that can worsen/prolong the flare
@@ -44,21 +44,26 @@ Give Naproxen, Ibuprofen at max dose in acute mx > low dose [[Colchicine]] is 2n
 
 Discuss urate lowering therapy with all patients experiencing a first flare.
 ## Long term
-Allopurinol is only started after symptoms settle (2-4 weeks) > Febuxostat if not tolerated. 
+Consider stopping drugs that trigger gout. Losartan = uricosuric + anti-HTN. Increasing Vit C in diet can reduce serum uric acid. 
+
+[[Allopurinol]] is only started after symptoms settle (2-4 weeks) > Febuxostat if not tolerated.
+	*See [CKS](https://cks.nice.org.uk/topics/gout/management/preventing-gout/) before starting febuxostat*
 Colchicine cover is given when starting allopurinol. 
 	NSAID used if Colchicine not tolerated. 
-	Drugs used for Gout cause worsening of renal failure, heart failure (SOB and Dyspnoea):
-Give other Gout drugs instead like Colchicine, Prednisolone.
-
+Drugs used for Gout cause worsening of renal failure, heart failure (SOB and Dyspnoea):
+	Give other Gout drugs instead like Colchicine, Prednisolone.
 Don't treat asymptomatic hyperuricemia. 
-# Contraindications
+Target 300 - 360
+## Contraindications
 1. Aspirin (low dose) **not** given in gout as it can worsen it. 
 2. [[NSAID]] not given in renal impairment/[[asthma]]/HF/IHD -> Give Steroid/Colchicine instead. 
-3. Allopurinol reduces clearance of some meds. See [[allopurinol]]. 
+3. [[Allopurinol]] reduces clearance of some meds, esp 🚩 [[ace inhibitors|ACE inhibitors]]. 
+
+---
 # Differences
 #confusion 
 
-| Gout                           | Pseudo gout                                                        |
+| Gout                           | Pseudogout                                                         |
 | ------------------------------ | ------------------------------------------------------------------ |
 | Negative birefringent crystals | Positive birefringent crystals                                     |
 | Needle shaped crystals         | Rhomboid crystals (Calcium pyrophosphate)                          |

@@ -4,22 +4,23 @@ tags:
 aliases:
   - hypokalaemia
 ---
+*see also [[hyperkalemia|Hyperkalaemia]].* 
 # Causes
 #mnemonic: BBADD VVCCR
 - B -> [[Bartter's syndrome]] (in neonates/children, AR),
 - B: Beta 2 agonist: Salbutamol.
 - A: Alkalosis
 - D: Diuretics (Thiazide, Furosemide)
-- D: Diarrhea -> loss of HCO3- in stool -> Hypokalemic (Normal anion gap) [[metabolic acidosis]]
+- D: Diarrhoea -> loss of HCO3- in stool -> Hypokalemic (Normal anion gap) [[metabolic acidosis]]
 - V: Villous adenoma
 - V: Vomiting -> loss of HCl -> Hypokalemic Hypochloremic metabolic alkalosis > low K+.
 - 2 Cs -> Cushing's (High cortisol), Conn's (High aldosterone)
 - R: Renal tubular acidosis
 
 # Clinical Features
-FAINTING, Tiredness, Weakness, Leg Cramps,
+Fainting, Tiredness, Weakness, Leg Cramps. 
 ECG: [[qt prolongation|long QT syndrome]], Depressed ST segment & T wave, U wave on ECG.
-Predisposes to Digoxin toxicity.
+Predisposes to [[Digoxin]] toxicity.
 
 # Treatment
 The normal serum potassium is 3.5-5 mmol/I.

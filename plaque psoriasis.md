@@ -27,6 +27,8 @@ ACE inhibitor, Alcohol, Anti-malarial (HCQ), [[beta adrenergic receptors|beta bl
 - Nail changes: Pitting/Onycholysis.
 
 Based on shape: Plaque, [[Guttate psoriasis]] (oil drop)
+
+---
 # Treatment 
 Regular [[emollients]] may help reduce scale loss & reduce itching
 ## Primary Care
@@ -40,7 +42,7 @@ Continue for 8 weeks.
 >[!practical advice]-
 >PCDS says to use both together. 
 >- Use Enstilar foam on body and scalp as first line. 
->- If they want less greasy, can use Wynzora cream, Dovobel gel, Dovobet ointment
+>- If they want less greasy, can use Wynzora cream, Dovobet gel, Dovobet ointment
 >- Discontinue this therapy once skin feels smooth even though it may be red. Can use Enstilar twice weekly for maintenance, and go back to OD during flare-up. 
 >- Dovobet gel can also be used for scalp and body. 
 >- If very thick scale, use de-scaling agents first. e.g. Salicylic acid in yellow soft paraffin applied BD till scale thins. Very expensive. 
@@ -48,8 +50,7 @@ Continue for 8 weeks.
 >- For scalp, can use sebco or cocois ointment for descaling.
 ### 2nd line after 8 weeks
 if no improvement after 8 weeks
-- Vit D analogue BD -> unlike steroid, this can be used long term, but avoid in pregnancy. 
-- [Calcitriol BNF](https://bnf.nice.org.uk/drugs/calcitriol/) 
+- Vit D analogue BD ([Calcitriol BNF](https://bnf.nice.org.uk/drugs/calcitriol/)) -> unlike steroid, this can be used long term, but avoid in pregnancy. 
 No use of steroid here as we need 4 week break between steroids. 
 
 ### 3rd line after 8-12 weeks
