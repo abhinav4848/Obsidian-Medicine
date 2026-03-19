@@ -2,8 +2,8 @@
 tags:
   - dermat
 ---
-[[lichen planus]], 
-[[Psoriasis]], 
-[[Molluscum contagiosum]], 
-[[vitiligo]] 
-[[erythema multiforme]] 
+1. [[lichen planus]], 
+2. [[Psoriasis]], 
+3. [[Molluscum contagiosum]], 
+4. [[vitiligo]] 
+5. [[erythema multiforme]] 

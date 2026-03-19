@@ -7,6 +7,8 @@ aliases:
   - malignant otitis externa
   - ASOM
   - CSOM
+  - glue ear
+  - Serous Otitis media
 ---
 |                                                      |                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -18,7 +20,15 @@ aliases:
 Dexamethasone, neomycin and acetic acid spray can be used in children over 2 years of age according to the British National Formulary.
 
 # Otitis Media
-[Leicester Guideline: AOM](https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2025/05/Acute-Otitis-Media.pdf) 
+OME: Otitis media with effusion aka Glue Ear, Serous Otitis media (it's transudate, not exudate)
+[Leicester Guideline: AOM](https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2025/05/Acute-Otitis-Media.pdf) & [NICE NG233 (OME in under 12s)](https://www.nice.org.uk/guidance/ng233/chapter/Recommendations#reassessment) 
+#### Features
+- peaks at 2 years of age
+- hearing loss is usually the presenting feature (glue ear is the commonest cause of conductive hearing loss and elective surgery in childhood)
+- secondary problems such as speech and language delay, behavioural or balance problems may also be seen
+#### Management
 Abx in acute otitis media doesn't affect the severity/duration of symptoms, nor prevents complications. Majority of children suffering from otitis media will be pain-free 24 hours after the start of treatment, whether or not antibiotics are included in the treatment regime. Therefore, an appropriate follow-up may be arranged as a scheduled follow-up or phone contact in 48 to 72 hours' time.
 
 Antibiotics should not be offered routinely in otitis media. Antibiotics may be useful, however, for the under-two-year-olds, and in children who are systemically unwell, or who have recurrent otitis media. In these circumstances, amoxicillin is the first-line antibiotic, given for five days.
+
+Refer a child with glue ear to ENT if they have persisting significant hearing loss (audiogram can be done at Specsavers) on two separate occasions (usually 6-12 weeks apart)

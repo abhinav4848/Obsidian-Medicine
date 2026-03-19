@@ -58,27 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "onychomycosis.md",
+                "file": "gout.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "onychomycosis"
-            }
-          },
-          {
-            "id": "8e34a346984735ce",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.sps.nhs.uk/home/tools/drug-monitoring/?section_title=Before%20starting&detailed=false&sort=name&order=asc",
-                "title": "Medicines Monitoring – NHS SPS - Specialist Pharmacy Service – The first stop for professional medicines advice",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Medicines Monitoring – NHS SPS - Specialist Pharmacy Service – The first stop for professional medicines advice"
+              "title": "gout"
             }
           }
         ],
@@ -115,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "monitoring",
+                "query": "gout",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -160,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "onychomycosis.md",
+                "file": "gout.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of onychomycosis"
+              "title": "Graph of gout"
             }
           }
         ]
@@ -300,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "onychomycosis.md",
+                "file": "gout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for onychomycosis"
+              "title": "Backlinks for gout"
             }
           }
         ]
@@ -332,33 +318,33 @@
   },
   "active": "6f42cb0e9c064b20",
   "lastOpenFiles": [
-    "fungal infections of skin.md",
+    "gout.md",
+    "colchicine.md",
+    "erythema multiforme.md",
+    "pain ladder- neuropathic.md",
+    "koebner's phenomenon.md",
+    "lichen planus.md",
+    "molluscum contagiosum.md",
+    "leflunomide.md",
+    "rheumatoid arthritis.md",
+    "otitis.md",
+    "diabetes treatment.md",
+    "diabetes drugs.md",
+    "diabetes- gestational.md",
     "onychomycosis.md",
+    "fungal infections of skin.md",
     "monitoring bloods with drugs.md",
     "tinea corporis.md",
     "tinea capitis.md",
     "kerion.md",
     "pre-eclampsia.md",
     "statistics- biases.md",
-    "diabetes- gestational.md",
     "hba1c.md",
     "diabetes mellitus- diagnosis.md",
     "immunisation in adults.md",
     "hepatitis.md",
     "undescended testes.md",
-    "newborn Infant physical examination.md",
-    "notifiable death.md",
-    "video scripts/meningitis final youtube.md",
-    "video scripts/meningitis in kent.md",
-    "immunisation schedule (paeds).md",
-    "primary biliary cholangitis & primary sclerosing cholangitis.md",
-    "psoriatic arthritis.md",
     "video scripts",
-    "arthritis.md",
-    "rheumatoid arthritis.md",
-    "seronegative spondyloarthropathy.md",
-    "psoriasis.md",
-    "guttate psoriasis.md",
     "flow charts/h. pylori treatment flowchart.canvas",
     "desktop.ini",
     "alex",

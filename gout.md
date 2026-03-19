@@ -3,9 +3,10 @@ tags:
   - rheumat
   - ortho
 urls:
-  - https://cks.nice.org.uk/topics/gout/management/acute-gout/
   - https://www.nice.org.uk/guidance/ng219/chapter/Recommendations#diagnosis-and-assessment
   - https://academic.oup.com/rheumatology/article/56/7/1056/3855178?login=false
+  - "[NICE NG219- Management of Gout](https://www.nice.org.uk/guidance/ng219/chapter/Recommendations#long-term-management-of-gout)"
+  - "[NICE CKS- Gout](https://cks.nice.org.uk/topics/gout/management/acute-gout/)"
 ---
 # Cause
 ### Diseases: 
@@ -17,6 +18,7 @@ Drugs used for CHF cause gout: Thiazide, loop diuretics (prescribed first).
 ### Foods
 High purine containing: Liver, Kidneys, Seafood, oily fish (mackerel, sardines), and yeast products. 
 
+---
 # Investigations
 Test uric acid 6 weeks after acute attack, because during attack levels are raised. (*wrong? can be normal*)
 
@@ -27,17 +29,22 @@ Measure uric acid levels in suspected gout (i.e. in the acute setting)
 Hyperuricemia is not diagnostic of gout & 30-50% of patients don't have elevated serum uric acid, and diagnosis of gout shouldn't be made on presence of hyperuricemia alone. 
 
 Synovial fluid- needle shaped negatively birefringent monosodium urate crystals under polarised light
+
+---
 # Treatment
+[NICE CKS- Gout](https://cks.nice.org.uk/topics/gout/management/acute-gout/)
 ## Acute management
 Give Naproxen, Ibuprofen at max dose in acute mx > low dose [[Colchicine]] is 2nd line cuz of s/e (GIT, Renal).
 - Aspirin is not indicated for gout. 
 - Don't give [[NSAID]] if already on blood thinner. 
+- 📗Don't start **Allopurinol** in acute gout as that can worsen/prolong the flare
+	- If already on long term Allopurinol, patient should continue it during gout attack. 
 - 🚩Ask patient to stop taking [[statins]] if giving colchicine, cuz risk of rhabdomyolysis. #important 
-- Just like we ask patients to not take [[statins]] when giving [[macrolides]]. 
+	- Just like we ask patients to not take [[statins]] when giving [[macrolides]]. 
 
 Discuss urate lowering therapy with all patients experiencing a first flare.
 ## Long term
-Allopurinol is only started after symptoms settle > Febuxostat if not tolerated. 
+Allopurinol is only started after symptoms settle (2-4 weeks) > Febuxostat if not tolerated. 
 Colchicine cover is given when starting allopurinol. 
 	NSAID used if Colchicine not tolerated. 
 	Drugs used for Gout cause worsening of renal failure, heart failure (SOB and Dyspnoea):

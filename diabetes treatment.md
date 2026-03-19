@@ -26,6 +26,8 @@ urls:
 ---
 # Treatment based on appropriate drug to use
 *See [[diabetes drugs]].* 
+Two core drugs are Metformin & SGLT-2 inhibitors
+Note: Don't offer GLP1 / Tirzepatide AND DPP-4 inhibitor together. 
 
 | Condition                    | Management ([NICE Initial medicines](https://www.nice.org.uk/guidance/ng28/chapter/Initial-medicines), [visual summary](https://www.nice.org.uk/guidance/ng28/resources/visual-summary-choosing-medicines-for-further-treatment-pdf-10956472093))                                                                                                   |
 | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
