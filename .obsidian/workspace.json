@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "undescended testes.md",
+                "file": "diabetes- gestational.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "undescended testes"
+              "title": "diabetes- gestational"
             }
           }
         ],
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "testes",
+                "query": "gestationa",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "undescended testes.md",
+                "file": "diabetes- gestational.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of undescended testes"
+              "title": "Graph of diabetes- gestational"
             }
           }
         ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "undescended testes.md",
+                "file": "diabetes- gestational.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for undescended testes"
+              "title": "Backlinks for diabetes- gestational"
             }
           }
         ]
@@ -318,6 +318,10 @@
   },
   "active": "6f42cb0e9c064b20",
   "lastOpenFiles": [
+    "diabetes mellitus- diagnosis.md",
+    "diabetes- gestational.md",
+    "immunisation in adults.md",
+    "hepatitis.md",
     "undescended testes.md",
     "newborn Infant physical examination.md",
     "notifiable death.md",
@@ -341,10 +345,6 @@
     "spirometry.md",
     "asthma- acute attack.md",
     "copd- acute exacerbation.md",
-    "macrolides.md",
-    "p450.md",
-    "ciprofloxacin.md",
-    "antibiotic guidelines.md",
     "flow charts/h. pylori treatment flowchart.canvas",
     "desktop.ini",
     "alex",
