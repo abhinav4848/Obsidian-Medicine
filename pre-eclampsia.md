@@ -5,7 +5,8 @@ aliases:
   - eclampsia
 ---
 # Pre-eclampsia
-New HTN > 140/90 + Proteinuria ( > 0.3g/24 hr. 1+) after 20th week of gestation.
+Definition: New HTN > 140/90 after 20w+ one of these:
+Proteinuria ( > 0.3g/24 hr. 1+) after 20th week of gestation.
 **Gestational HTN**: New onset HTN after 20 weeks. 
 ## Symptoms
 - Frontal headache
@@ -28,7 +29,7 @@ New HTN > 140/90 + Proteinuria ( > 0.3g/24 hr. 1+) after 20th week of gestation.
 # Management
 ## BP
 Labetalol is 1st line for pre-eclampsia and gestational HTN
-- Labetalol is 3rd-gen cardioselective with vasodilatory properties. 
+- Labetalol is 3rd-gen cardioselective with vasodilatory properties (alpha & beta blocker). 
 - Avoid if [[asthma#Drugs to avoid in Asthma|Asthma]] & use [[calcium channel blockers|Nifedipine]] instead. 
 - Methyldopa is pregnancy safe -> Women on methyldopa need an alternative drug within 2 days of delivery. Methyldopa not used cuz risk of postnatal depression. But all are safe in breastfeeding. 
 
@@ -41,7 +42,7 @@ Severe HTN: 160/110
 	MgSO4 is not used solely to lower BP.
 	Don't offer delivery if <34 weeks. 
 
-If not effective or woman has good control with [[calcium channel blockers|Nifedipine]] from before, to continue with nifedipine throughout the pregnancy. BP should be monitored regularly during pregnancy as it may reduce during pregnancy in which case the meds may be withheld until after 20 weeks or delivery, when BP starts to rise again.
+If not effective or woman has good control with [[calcium channel blockers|Nifedipine]] from before, to continue with nifedipine throughout the pregnancy. BP should be monitored regularly during pregnancy as it may reduce during pregnancy in which case the meds may be withheld until after 20 weeks or delivery, when BP starts to rise again. 
 ## Proteinuria
 Proteinuria ( >0.3g/24 hr. 1+) 
 *\>3g/24hr. is [[nephrotic syndrome]]*
@@ -54,14 +55,14 @@ Proteinuria 1+ & <140/90 (normotensive): review & assess in 1 week in GP clinic.
 Proteinuria 1+ & >140/90: urgent referral same day 24 hrs. 
 Proteinuria 2+: urgent referral same day 24 hrs. Even if normotensive. 
 
-![[urinalysis protein (urine dip stick).png]]
+![[urinalysis protein (urine dip stick).png|316]]
 
 # Prevention
 NICE divide risk factors into high and moderate risk: 
 
-| High risk factors                                                                                                                                                              | Moderate risk factors                                                                                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| - hypertensive disease in a previous pregnancy<br>- chronic kidney disease<br>- autoimmune disease, such as SLE, APLA<br>- type 1 or type 2 diabetes<br>- chronic hypertension | - first pregnancy<br>- age 40 years or older<br>- pregnancy interval of more than 10 years<br>- BMI of 35 kg/m² or more at first visit<br>- family history of pre-eclampsia<br>- multiple pregnancy |
+| High risk factors                                                                                                                                                              | Moderate risk factors                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - hypertensive disease in a previous pregnancy<br>- chronic kidney disease<br>- autoimmune disease, such as SLE, APLA<br>- type 1 or type 2 diabetes<br>- chronic hypertension | - first pregnancy<br>- age 40 years or older<br>- pregnancy interval of > 10 years<br>- BMI of 35 kg/m² or more at first visit<br>- family history of pre-eclampsia<br>- multiple pregnancy |
 ## Aspirin 
 - women with the following should take aspirin 75-150mg daily from 12 weeks gestation until the birth
 	- ≥ 1 high risk factors

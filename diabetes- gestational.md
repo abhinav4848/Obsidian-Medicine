@@ -51,22 +51,22 @@ These targets are lower than for DM because this is where the risk to fetus mean
 >![[diabetes mellitus- diagnosis#Diagnostic cutoff for DM (is transcluded)]]
 ### Targets for self monitoring of pregnant women (For both pre-existing & GDM)
 
-| Time               | Target      |     |
-| ------------------ | ----------- | --- |
-| Fasting            | 5.3 mmol/l  |     |
-| 2 hours after meal | 6.4 mmol/l  |     |
-| 1 hour after meal  | 7.8 mmol/l, |     |
+| Time               | Target      |
+| ------------------ | ----------- |
+| Fasting            | 5.3 mmol/l  |
+| 2 hours after meal | 6.4 mmol/l  |
+| 1 hour after meal  | 7.8 mmol/l, |
 
 ---
 # Management of GDM
 Once a woman has been diagnosed with gestational diabetes, she remains 'high risk for diabetes mellitus' for life and should receive a yearly HbA1c. 
 
-| Fasting glucose          | Treatment                                                                                                                                                                                                                                      |
-| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| >=7 at time of diagnosis | start Insulin                                                                                                                                                                                                                                  |
-| 6-6.9 mmol/l             | Only if there is evidence of complications such as macrosomia or hydramnios -> Offer insulin                                                                                                                                                   |
-| < 7 mmol/l               | - Trial of diet and exercise.<br>- If target not met in 1-2 weeks-> diet/exercise+ [[diabetes drugs\|metformin]]. <br>- If still not met-> diet/exercise/metformin + insulin<br>*- GDM is treated with short-acting, not long-acting, insulin* |
-|                          | Glibenclamide (sulphonylurea) only if can't tolerate metformin, or didn't meet target with metformin but declines insulin treatment                                                                                                            |
+| Fasting glucose          | Treatment                                                                                                                                                                                                                                       |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| >=7 at time of diagnosis | start Insulin                                                                                                                                                                                                                                   |
+| 6-6.9 mmol/l             | Only if there is evidence of complications such as macrosomia or hydramnios -> Offer insulin                                                                                                                                                    |
+| < 7 mmol/l               | - Trial of diet and exercise.<br>- If target not met in 1-2 weeks-> diet/exercise+ [[diabetes drugs\|metformin]]. <br>- If still not met-> diet/exercise/metformin + insulin<br>*- GDM is treated with short-acting, not long-acting, insulin*  |
+|                          | Glibenclamide (sulphonylurea) only if can't tolerate metformin, or didn't meet target with metformin but declines insulin treatment                                                                                                             |
 # Management of pre-existing DM
 - weight loss for women with BMI of > 27 kg/m^2
 - stop oral hypoglycaemic agents, apart from metformin, and commence insulin
@@ -74,7 +74,6 @@ Once a woman has been diagnosed with gestational diabetes, she remains 'high ris
 - detailed anomaly scan at 20 weeks including four-chamber view of the heart and outflow tracts
 - tight glycaemic control reduces complication rates
 - treat retinopathy as can worsen during pregnancy
-
 
 ---
 > [!quote]- Why is threshold for diagnosing GDM lower than diagnosing DM?

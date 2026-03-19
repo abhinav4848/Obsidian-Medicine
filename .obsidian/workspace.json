@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diabetes- gestational.md",
+                "file": "pre-eclampsia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "diabetes- gestational"
+              "title": "pre-eclampsia"
             }
           }
         ],
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gestationa",
+                "query": "pre eclamp",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "diabetes- gestational.md",
+                "file": "pre-eclampsia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of diabetes- gestational"
+              "title": "Graph of pre-eclampsia"
             }
           }
         ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diabetes- gestational.md",
+                "file": "pre-eclampsia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for diabetes- gestational"
+              "title": "Backlinks for pre-eclampsia"
             }
           }
         ]
@@ -318,8 +318,10 @@
   },
   "active": "6f42cb0e9c064b20",
   "lastOpenFiles": [
-    "diabetes mellitus- diagnosis.md",
+    "statistics- biases.md",
     "diabetes- gestational.md",
+    "hba1c.md",
+    "diabetes mellitus- diagnosis.md",
     "immunisation in adults.md",
     "hepatitis.md",
     "undescended testes.md",
@@ -343,8 +345,6 @@
     "contraceptives.md",
     "copd.md",
     "spirometry.md",
-    "asthma- acute attack.md",
-    "copd- acute exacerbation.md",
     "flow charts/h. pylori treatment flowchart.canvas",
     "desktop.ini",
     "alex",
