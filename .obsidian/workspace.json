@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oral allergy syndrome.md",
+                "file": "atrial fibrillation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "oral allergy syndrome"
+              "title": "atrial fibrillation"
             }
           }
         ],
@@ -131,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "likelihood ratio",
+                "query": "CHA2",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -162,7 +162,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -175,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "oral allergy syndrome.md",
+                "file": "atrial fibrillation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,12 +199,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.43413762076292,
+                  "scale": 1.4341376207629217,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of oral allergy syndrome"
+              "title": "Graph of atrial fibrillation"
             }
           }
         ]
@@ -315,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oral allergy syndrome.md",
+                "file": "atrial fibrillation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +326,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for oral allergy syndrome"
+              "title": "Backlinks for atrial fibrillation"
             }
           }
         ]
@@ -347,8 +348,11 @@
   },
   "active": "805a7f05f6fddd1b",
   "lastOpenFiles": [
-    "statistics- screening tests.md",
+    "calcium channel blockers.md",
+    "atrial fibrillation.md",
+    "scoring system.md",
     "oral allergy syndrome.md",
+    "statistics- screening tests.md",
     "malaria.md",
     "attachments/stats- se, sp, ppv, npv.jpg",
     "attachments/stats- se, sp, ppv, npv.png",
@@ -373,9 +377,6 @@
     "plaque psoriasis.md",
     "emollients.md",
     "eczema.md",
-    "seborrhoeic dermatitis.md",
-    "side effects of cvs drugs.md",
-    "hypokalemia.md",
     "attachments/Pasted image 20260319224528.png",
     "video scripts",
     "flow charts/h. pylori treatment flowchart.canvas",

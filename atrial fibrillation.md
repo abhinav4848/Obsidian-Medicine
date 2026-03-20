@@ -35,7 +35,7 @@ BB or rate limiting CCB (e.g. Diltiazem).
 If one drug doesn't control adequately, combine the following:
 - BB
 - Diltiazem
-- Digoxin
+- [[Digoxin]]
 	- Digoxin should be used with caution usually in patients with A. Fib & intolerance to beta blocker. It can be used for short term control of A Fib. It should only be used in sedentary patients with AF cuz it has no effect on heart rate in exertion.
 ### Rhythm Control
 - Drugs such as flecainide may be used for chemical cardioversion. Do not use flecainide in the presence of HF, LV impairment, IHD, or [[qt prolongation|QT prolongation]]. Cardiovert only in new AF <48 hrs or anticoagulation for > 3 weeks cuz risk of thromboembolism.
@@ -47,9 +47,31 @@ If one drug doesn't control adequately, combine the following:
 ### Stroke risk
 - Do not offer stroke prevention therapy with anticoagulation to <65 years with atrial fibrillation and no risk factors other than their sex (that is, very low risk of stroke equating to a CHA2DS2‑VASc score of 0 for men or 1 for women).
 - Aspirin is not useful to prevent primary stroke. It's used for treatment of stroke.
+
+| Letter | Condition                                         | Points |
+| ------ | ------------------------------------------------- | ------ |
+| C      | Congestive heart failure (or LV dysfunction)      | 1      |
+| H      | Hypertension (BP >140/90 or treated hypertension) | 1      |
+| A₂     | Age ≥ 75 years                                    | 2      |
+| D      | Diabetes history                                  | 1      |
+| S₂     | Prior stroke, TIA, or thromboembolism             | 2      |
+| V      | Vascular disease (e.g. MI, PVD, aortic plaque)    | 1      |
+| A      | Age 65–74 years                                   | 1      |
+| Sc     | Sex category (female)                             | 1      |
 ### [[scoring system|Orbit Score]]
-- Older >=75yo
-- Reduced Hb (<13 men, <12 women)
-- Bleeding history
-- Insufficient eGFR <60
-- Treatment with antiplatelet
+
+| Risk Factor                 | Criteria                           |
+| --------------------------- | ---------------------------------- |
+| Older age                   | ≥ 75 years                         |
+| Reduced haemoglobin         | < 13 g/dL (men), < 12 g/dL (women) |
+| Bleeding history            | Previous bleeding event            |
+| Insufficient renal function | eGFR < 60                          |
+| Treatment with antiplatelet | Current antiplatelet therapy       |
+
+### Catheter ablation
+NICE recommends the use of catheter ablation for those with AF who have not responded to or wish to avoid, antiarrhythmic medication.
+##### Anticoagulation thereafter
+- should be used 4 weeks before and during the procedure
+- it should be remember that catheter ablation controls the rhythm but does not reduce the stroke risk, even if patients remain in sinus rhythm. Therefore, patients still require anticoagulation as per their CHA2DS2-VASc score
+    - if score = 0: 2 months anticoagulation recommended
+    - if score > 1: longterm anticoagulation recommended
