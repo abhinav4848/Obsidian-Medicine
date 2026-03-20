@@ -27,7 +27,9 @@ The table below lists the main statistical terms used in relation to screening t
 | **Negative predictive value**                   | TN / (TN + FN)                  | The chance that the patient does not have the condition if the diagnostic test is negative |
 | **Likelihood ratio for a positive test result** | sensitivity / (1 - specificity) | How much the odds of the disease increase when a test is positive                          |
 | **Likelihood ratio for a negative test result** | (1 - sensitivity) / specificity | How much the odds of the disease decrease when a test is negative                          |
-Positive and negative predictive values are prevalence dependent. Likelihood ratios are not prevalence dependent.  
+Positive and negative predictive values are prevalence dependent. 
+Likelihood ratios are not prevalence dependent.  
+![[stats- se, sp, ppv, npv.jpg|385]]
 ##### Precision
 The precision quantifies a tests ability to produce the same measurements with repeated tests.
 

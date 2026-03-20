@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "malaria.md",
+                "file": "statistics- screening tests.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "malaria"
+              "title": "statistics- screening tests"
             }
           }
         ],
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "🚩",
+                "query": "likelihood ratio",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "malaria.md",
+                "file": "statistics- screening tests.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of malaria"
+              "title": "Graph of statistics- screening tests"
             }
           }
         ]
@@ -301,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "malaria.md",
+                "file": "statistics- screening tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for malaria"
+              "title": "Backlinks for statistics- screening tests"
             }
           }
         ]
@@ -333,13 +333,16 @@
   },
   "active": "c3974a77674a419b",
   "lastOpenFiles": [
+    "malaria.md",
+    "statistics- screening tests.md",
+    "attachments/stats- se, sp, ppv, npv.jpg",
+    "attachments/stats- se, sp, ppv, npv.png",
     "methotrexate.md",
     "migraine.md",
     "trimethoprim.md",
     "leflunomide.md",
     "folic acid.md",
     "video scripts/meningitis final youtube.md",
-    "malaria.md",
     "schizophrenia.md",
     "antibodies.md",
     "sjogren's syndrome.md",
@@ -358,8 +361,6 @@
     "seborrhoeic dermatitis.md",
     "side effects of cvs drugs.md",
     "hypokalemia.md",
-    "hypercalcemia.md",
-    "hyperkalemia.md",
     "attachments/Pasted image 20260319224528.png",
     "video scripts",
     "flow charts/h. pylori treatment flowchart.canvas",
@@ -377,8 +378,6 @@
     "housekeeping/revise recent changes.base",
     "Untitled.base",
     "flow charts/deep vein thrombosis.canvas",
-    "attachments/dupuytren's contracture.png",
-    "attachments/patau vs edward syndrome.png",
     "flow charts/shoulder exam.canvas",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "attachments/atropa belladona.pdf",

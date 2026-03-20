@@ -1,6 +1,7 @@
 ---
 tags:
   - psychiatry
+  - list
 aliases:
   - Bipolar Disorder
   - Conversion disorder
