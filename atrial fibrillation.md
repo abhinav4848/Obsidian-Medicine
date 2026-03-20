@@ -38,6 +38,7 @@ If one drug doesn't control adequately, combine the following:
 - [[Digoxin]]
 	- Digoxin should be used with caution usually in patients with A. Fib & intolerance to beta blocker. It can be used for short term control of A Fib. It should only be used in sedentary patients with AF cuz it has no effect on heart rate in exertion.
 ### Rhythm Control
+Preferred in symptomatic patients 
 - Drugs such as flecainide may be used for chemical cardioversion. Do not use flecainide in the presence of HF, LV impairment, IHD, or [[qt prolongation|QT prolongation]]. Cardiovert only in new AF <48 hrs or anticoagulation for > 3 weeks cuz risk of thromboembolism.
 - [[Amiodarone]] (300 mg over 20-60 min followed by 900 mg over 24 h) may be used to attempt chemical cardioversion but is less often effective than drugs like flecainide and takes longer to work.
 - Electrical cardioversion remains an option in this setting and will restore sinus rhythm in more patients than chemical cardioversion.
