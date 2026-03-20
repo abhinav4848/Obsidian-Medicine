@@ -7,6 +7,8 @@ tags:
 urls:
   - "[NICE CKS RA](https://cks.nice.org.uk/topics/rheumatoid-arthritis/diagnosis/when-to-suspect-ra/)"
 ---
+[[Antibodies]]: RF, Anti-CCP
+
 # When to suspect RA
 RA typically causes symmetrical synovitis of small joints (MCP, PIP, wrist) of hands and feet, although any synovial joint may be affected. 
 - Pain: Usually, this is worse at rest or during periods of inactivity.

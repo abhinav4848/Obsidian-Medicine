@@ -49,7 +49,7 @@ See: [[steroids in dermatology]].
 - If eczema awakens the patient at night, consider sedative anti-histamines (Chlorpheniramine)
 - Treat bacterial infection with oral antibiotic. 
 ## Topical Calcineurin inhibitor 
-Topical calcineurin inhibitors (e.g. tacrolimus, brand Protopic) can be used as steroid-sparing agents and are typically second-line treatment for eczema.
+Topical calcineurin inhibitors (e.g. tacrolimus, brand Protopic -> Inhibits T-cell activation -> Reduces inflammation) can be used as steroid-sparing agents and are typically second-line treatment for eczema.
 
 Useful on delicate/steroid-sensitive areas, such as the face, eyelids, and flexures, where prolonged topical steroid use risks skin atrophy. 
 # Safety net

@@ -2,7 +2,9 @@
 tags:
   - dermat
 urls:
-  - https://www.pcds.org.uk/clinical-guidance/psoriasis-an-overview
+  - "[PCDS Psoriasis pathway- PDF](https://www.pcds.org.uk/files/general/Psoriasis-Pathway-2025.pdf)"
+  - "[PCDS- Psoriasis](https://www.pcds.org.uk/clinical-guidance/psoriasis-an-overview)"
+  - "[NICE CKS- Psoriasis](https://cks.nice.org.uk/topics/psoriasis/management/trunk-limbs/#topical-drug-treatment)"
 ---
 *See [[Psoriasis]] for all other types*
 Not to be confused with [[Actinic keratosis]].
@@ -31,10 +33,9 @@ Based on shape: Plaque, [[Guttate psoriasis]] (oil drop)
 ---
 # Treatment 
 Regular [[emollients]] may help reduce scale loss & reduce itching
-## Primary Care
+## Chronic plaque psoriasis
 ### Initial 
-Combination of both
-- Topical [[corticosteroid|corticosteroids]] (Betamethasone) OD, and
+- Potent topical [[corticosteroid|corticosteroids]] (Betamethasone) OD, and
 - Vit D analogues (**calcipotriol**) OD
 Should be applied separately- one at AM & one at PM, not at the same time. 
 Continue for 8 weeks. 
@@ -59,15 +60,17 @@ if no improvement:
 - Tar preparations OD or BD
 - Short acting Dithranol can also be used. 
 	- Dithranol stains clothes & can be messy. 
-## Secondary care
+### Secondary care
 **Phototherapy**: UVB or (UVA + [[psoralen]]) 3x a week, s/e SCC (not melanoma). 
 	First line for mod-severe plaque psoriasis. 
 **Systemic**: Oral Methotrexate, Oral retinoids, Calcineurin inhibitors (Cyclosporine, tacrolimus). 
-	Calcineurin inhibitors- Cyclosporine, tacrolimus. These medications are used to suppress the immune system in various conditions, such as organ transplants and inflammatory diseases.
+	Calcineurin inhibitors are used to suppress the immune system in various conditions, such as organ transplants and inflammatory diseases.
 **Biologics**: infliximab, etanercept and adalimumab
 
 ---
 ## Scalp Psoriasis
+[PCDS- Scalp psoriasis](https://www.pcds.org.uk/clinical-guidance/psoriasis-scalp-psoriasis) 
+- Descale with Sebco ointment & wash with specific shampoos. 
 - potent topical steroid OD ([Betacap](https://www.medicines.org.uk/emc/product/3750/pil) 0.1%- Betametasone valerate, or better: [Dovobet](https://www.pcds.org.uk/clinical-guidance/psoriasis-scalp-psoriasis))
 - If no improvement after 4 weeks then either use a different formulation of the potent corticosteroid (for example, a shampoo or mousse) and/or a topical agents to remove adherent scale (e.g. agents containing salicylic acid, emollients and oils) before application of the potent corticosteroid
 

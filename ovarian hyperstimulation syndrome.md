@@ -29,7 +29,7 @@ Categories of Anovulation:
 2. Class 2: Normogonadotropic normoestrogenic anovulation (e.g., PCOS).  
 3. Class 3: Hypergonadotropic hypoestrogenic anovulation (e.g., premature ovarian insufficiency).
 
-### management of anovulation
+### Management of anovulation
 Ovulation induction may be performed with a number of different medications. 
 #### 1. SERMs
 Clomiphene citrate, [[cancer- drugs involved in gynae cancers|Tamoxifen]]
