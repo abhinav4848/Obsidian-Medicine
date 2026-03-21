@@ -5,8 +5,16 @@ tags:
 ---
 Fixed, irregular, hard, painless lump ± nipple retraction ± fixed to skin (Peau d’ orange) or muscle (+) Local, fixed, firm, axillary LNs.
 → Breast Cancer
-	Refer women aged >30 with an unexplained breast lump using a suspected cancer pathway referral.
-	Refer any >=50yo with nipple changes (unilateral)
+
+_Refer_ 2ww breast cancer if:  
+- >=30 + unexplained breast lump +/- pain
+- >=50 + any of these changes in one nipple only: discharge / retraction / other changes of concern
+  
+_Consider_ 2ww breast cancer if: 
+- skin changes that suggest breast cancer or
+- >=30 + unexplained lump in the axilla
+
+Consider non-urgent referral in < 30 unexplained breast lump with or without pain.
 # Screening
 *See: [[cancer- screening programs]].* 
 

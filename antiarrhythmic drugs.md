@@ -3,13 +3,14 @@ tags:
   - pharmacology
 aliases:
   - antiarrhythmic drugs
+  - antiarrhythmics
 ---
 # Class 1
 Na channel blockers (membrane stabilising agents)
-### 1A: Drugs that moderately depress phase 0 depolarisation: 
+### 1A: Moderately depress phase 0 depolarisation: 
 - Quinidine, Procainamide, Disopyramide
 - they cause [[qt prolongation|long QT syndrome]]
-### 1B: Drugs with minimal effect on phase 0 depolarisation: 
+### 1B: Minimal effect on phase 0 depolarisation: 
 - Lignocaine, Mexiletine, Phenytoin
 ### 1C: Markedly depress phase 0 depolarisation: 
 - Flecainide, Propafenone

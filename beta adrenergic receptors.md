@@ -5,6 +5,7 @@ aliases:
   - beta 2 agonist
   - beta 2 antagonist
   - beta blockers
+  - beta-blocker
 ---
 #### Beta 2 agonists:
 - SABA: salbutamol, terbutaline. 

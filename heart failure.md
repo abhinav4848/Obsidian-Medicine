@@ -20,30 +20,24 @@ Low EF: Treatment with [[ace inhibitors|ACE inhibitor]], ARB, Beta blockers, as 
 
 ---
 # Classification
-## Reduced EF (aka Systolic heart failure)
-HFrEF
-- Problems with LV & pressures go backwards -> Lung features, Pulmonary edema & Breathlessness
-- if severe, then RV features as well -> Fluid overload + Peripheral edema
-- **Rx**: ACE inhibitor + beta-blocker + MRA + SGLT2 inhibitor
-## Preserved EF (aka diastolic heart failure)
-HFpEF
-- Problems with RV due to non-compliance -> Dyspnoea w/o signs of fluid overload
-- **Rx:** MRA + SGLT2 inhibitor
+
+| Reduced EF (aka Systolic heart failure)<br>                                                                                                                                                                                                  | Preserved EF (aka diastolic heart failure)                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| HFrEF                                                                                                                                                                                                                                        | HFpEF<br>                                                                                                           |
+| Problems with LV & pressures go backwards -> Lung features, Pulmonary edema & Breathlessness<br>- if severe, then RV features as well -> Fluid overload + Peripheral edema<br>- **Rx**: ACE inhibitor + beta-blocker + MRA + SGLT2 inhibitor | - Problems with RV due to non-compliance -> Dyspnoea w/o signs of fluid overload<br>- **Rx:** MRA + SGLT2 inhibitor |
 
 ---
-# Management
-## Primary care
-**Reduced EF**: ACE-i and beta-blocker (start one at time)
-- Candesartan, losartan and valsartan are all licensed for the first-line treatment of heart failure if an ACE inhibitor is unsuitable or not tolerated.
-**Preserved EF**: Evidence not specific on NICE CKS - specialist advice
-## Secondary care
-**Medical**: aldosterone, digoxin, hydralazine, ivabradine (selectively inhibits funny current in the sinus node to slow sinus rhythm)
-
-**Interventional**: Cardiac resynchronisation therapy, implantable cardioverter defibrillator (ICD), Coronary revascularization, Cardiac transplantation.
-### End-stage heart failure:
-- i.e. at high risk of dying within next 6-12 months
-- Potentially increased symptoms, poorer response to treatment
-- Multiple inputs e.g. cardiology, heart failure nurses, community nurses, palliative care nurses, physiotherapy, dietician etc
+# Drugs that could worsen HF
+The following medications may exacerbate heart failure:  
+- thiazolidinediones
+    - [[diabetes drugs|pioglitazone]] is contraindicated as it causes fluid retention
+- verapamil
+    - negative inotropic effect
+- [[nsaid|NSAIDs]]/glucocorticoids
+    - should be used with caution as they cause fluid retention
+    - low-dose aspirin is an exception - many patients will have coexistent cardiovascular disease and the benefits of taking aspirin easily outweigh the risks
+- class I [[antiarrhythmic drugs]]
+    - flecainide (negative inotropic and proarrhythmic effect)
 
 ---
 # DRUGS
@@ -86,7 +80,7 @@ Avoid verapamil, diltiazem and short-acting dihydropyridine agents in people who
 MRA & SGLT2 inhibitors
 ## Other treatments %%linked%%
 - offer annual influenza vaccine (same as [[copd- treatment]]). 
-- offer one-off pneumococcal vaccine 
+- offer one-off [[immunisation in adults|Pneumococcal vaccine]]
 	- Adults usually require just one dose but those with asplenia, splenic dysfunction or chronic kidney disease need a booster every 5 years
 - Assess for iron deficiency  
 	- check transferrin saturation (TSAT), ferritin, haemoglobin
@@ -94,3 +88,8 @@ MRA & SGLT2 inhibitors
 	    - TSAT of less than 20% or
 	    - serum ferritin of less than 100 ng/mL
 	- if iron-deficiency is found, other causes should of course be excluded first (e.g. colonoscopy etc)
+
+# End-stage heart failure:
+- i.e. at high risk of dying within next 6-12 months
+- Potentially increased symptoms, poorer response to treatment
+- Multiple inputs e.g. cardiology, heart failure nurses, community nurses, palliative care nurses, physiotherapy, dietician etc
