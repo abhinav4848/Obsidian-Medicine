@@ -21,7 +21,7 @@ Weeping and crusting painful lesion.
 Initially seen on hands/feet before spreading to trunk. Spreads towards centre.
 [[koebner's phenomenon]]. 
 # Causes:
-- HSV > Mycoplasma, Strep sore throat.
+- HSV > [[pneumonia|Mycoplasma]], Strep sore throat.
 - Drugs: SNAC:
 	- Sulphonamides,
 	- NSAID (excluding Aspirin)/Nevirapine,

@@ -33,6 +33,9 @@ Supportive until there's renal involvement. E.g: Aspirin for arthralgia. Don’t
 
 ----
 # ITP
-Same features but just [[platelets|low platelets]] (menorrhagia, epistaxis, etc.). Also, purpura not palpable. 
+Autoantibodies to platelets. 
+
+Same features as HSP but just [[platelets|low platelets]] (menorrhagia, epistaxis, etc.). 
+Also, purpura not palpable. 
 ### Rx
 none if platelet > 50 > Prednisolone > IvIg

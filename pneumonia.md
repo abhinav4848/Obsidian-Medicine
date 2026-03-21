@@ -56,43 +56,16 @@ Generally seen in malnourished alcoholics, diabetics, elderly.
 CXR: Cavitating pneumonia of upper lobes. 
 
 ---
-## 4. Legionella pneumophilia
-Seen in hotel, tours. Foreign holidays. Exposure to common source of water or air conditioning. 
-Another one of the atypical pneumonias.
-### Clinical Features
-- **Hyponatremia** (due to SIADH)-> can cause patients presenting as confused.
-- Lymphocytopenia
-- Hypoalbuminemia
-- Deranged LFT
-- Flu-like symptoms, dry cough, relative bradycardia, confusion
-### Investigation
-Urinary antigen
-**CXR**: patchy Bi-basal consolidation
-### Treatment
-Macrolides (Clarithromycin > Azithromycin) or tetracycline #abx 
+## 4. Legionella pneumophilia vs 5. Mycoplasma pneumoniae
+Both are Atypical pneumonias. 
 
----
-## 5. Mycoplasma pneumoniae
-Common in young adult, 
-Prolonged and gradual onset
-Worsening flu like symptoms precede a dry cough
-### Complications
-- Autoimmune haemolytic anaemia, [[hsp vs itp|ITP]] due to Cold agglutinins (IgM),
-- [[erythema multiforme]], Erythema nodosum
-	Erythe`ma` multiforme: Mycoplas`ma`
-- **Bullous myringitis**: painful vesicles on the tympanic membrane
-##### Less imp points
-• Meningoencephalitis, [[guillain barre syndrome|Guillain-Barre syndrome]] and other immune-mediated neurological diseases
-• Patients aren't as septic. 
-• Hyponatremia common in any pneumonia (but more in Legionella)
-• Deranged LFT, 
-• Peri/Myocarditis
-• Acute glomerulonephritis
-### Inv
-• CXR: Atypical chest signs/x-ray findings. Reticular-nodular shadowing or patchy consolidation of 1 lower lobe
-• Serology for diagnosis. 
-### Treatment
-Doxycycline or a macrolide (e.g. erythro/clarithromycin preferred in atypicals in general) #abx
+|       | Legionella pneumophilia                                                                                                                                                                                                                                                                                                                                      | Mycoplasma pneumoniae                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Intro | Seen in hotel, tours. Foreign holidays. Exposure to common source of water or air conditioning. <br>                                                                                                                                                                                                                                                         | Common in young adults, <br><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| C/F   | Rapid onset. <br>Presenting with more severe symptoms: <br>higher fevers, confusion, and GI symptoms (diarrhoea in up to 50% of cases).<br><br>- **Hyponatremia** (due to SIADH)-> can cause patients presenting as confused.<br>- Lymphocytopenia<br>- Hypoalbuminemia<br>- Deranged LFT<br>- Flu-like symptoms, dry cough, relative bradycardia, confusion | **Prolonged and gradual onset**<br>Worsening flu-like symptoms precede a dry cough<br>Patients aren't as septic. <br><br>- Cold agglutinins (IgM) -> Autoimmune haemolytic anaemia, [[platelets\|thrombocytopenia]] ([[hsp vs itp\|ITP]]. <br>- [[erythema multiforme]], Erythema nodosum<br>	Erythe`ma` multiforme: Mycoplas`ma`<br>- **Bullous myringitis**: painful vesicles on the tympanic membrane<br><br>**Less imp points:** <br>- Meningoencephalitis, [[guillain barre syndrome\|Guillain-Barre syndrome]] and other immune-mediated neurological diseases<br>- bullous myringitis: painful vesicles on the tympanic membrane<br>- Hepatitis/pancreatitis<br>- Peri/Myocarditis<br>- Acute glomerulonephritis<br>- Hyponatremia common in any pneumonia (but more in Legionella) |
+| Inv   | Urinary antigen<br>**CXR**: patchy Bi-basal consolidation                                                                                                                                                                                                                                                                                                    | - **CXR**: Atypical chest signs/x-ray findings. b/l consolidation<br>- Serology for diagnosis. <br>- Positive cold agglutination test → peripheral blood smear may show red blood cell agglutination<br><br>Won't be picked up on standard sputum culture. Needs PCR, so just do serology instead.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Rx    | Tetracycline, or Macrolides (Clarithromycin > Azithromycin) #abx <br>                                                                                                                                                                                                                                                                                        | Doxycycline or [[macrolides]] (e.g. Erythromycin/clarithromycin preferred in atypicals in general) #abx                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+![[legionella vs mycoplasma pneumonia.jpg|391]]
 
 ---
 ## 6. Pneumocystis jirovecii (carinii) (PCP)

@@ -8,7 +8,7 @@ Out of 16 species of Mycoplasma and Ureaplasma infecting humans, five are establ
 - pneumoniae causing [[pneumonia]]
 - hominis & genitalium: genital tract infections	
 ---
-## 🦠 Mycoplasma genitalium — why everyone suddenly cares
+## 🦠 Mycoplasma genitalium — why everyone suddenly cares #notAKT 
 ### Big picture
 Mycoplasma genitalium (M. genitalium) is a sexually transmitted bacterium that:
 - Causes persistent genital tract inflammation
@@ -66,7 +66,7 @@ But:
 
 ### ✅ Fluoroquinolones
 - Moxifloxacin works best
-- But resistance is now emerging here too 😬
+- But resistance is now emerging here too 
 
 📌 This is why guidelines are tightening up.
 
@@ -100,6 +100,11 @@ But:
 - Routine discharge without risk factors
 
 📌 Over-testing → more resistance → worse outcomes.
+
+### For Mycoplasma pneumoniae:
+Mycoplasma lacks a cell wall and requires special culture media not routinely used in most laboratories. Additionally, the organism is fastidious and slow-growing, making culture impractical for routine clinical use. Standard sputum cultures are more useful for identifying typical bacterial pathogens such as Streptococcus pneumoniae.
+
+Serological testing for Mycoplasma-specific IgM and IgG antibodies is the standard diagnostic approach in primary care. A fourfold rise in antibody titre between acute and convalescent samples (taken 2-4 weeks apart) is diagnostic. Single high titres can also be suggestive in the appropriate clinical context. This test has good sensitivity and specificity for Mycoplasma pneumoniae and is widely available in the UK.
 
 ---
 ## 7️⃣ How this changes PID thinking
