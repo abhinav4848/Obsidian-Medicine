@@ -15,8 +15,9 @@ It may be caused by:
 | • Meningococcal septicaemia  <br>• [[leukaemia\|Acute Lymphoblastic Leukemia]]<br>  <br>• Congenital bleeding disorders  <br>• [[hsp vs itp\|Immune thrombocytopaenic purpura]]<br>• [[hsp vs itp\|Henoch-Schönlein purpura]]<br>• Non-accidental injury | • Immune thrombocytopenic purpura  <br>• Bone marrow failure (secondary to leukaemias, myelodysplasia or bone metastases)  <br>• Senile purpura  <br>• Drugs (*quinine, antiepileptics, antithrombotics. See: [[platelets\|thrombocytopenia]]*)  <br>• Nutritional deficiencies (vitamins B12, C and folate) |
 Can also be seen with increased SVC pressure (e.g. following a cough), or viral illness. 
 # Referral
-[NICE: Bruising](https://cks.nice.org.uk/topics/bruising/) 
-==Children with new-onset purpura should be referred immediately for investigations to exclude [[leukaemia|ALL]] and meningococcal disease== (if suspecting meningococcal septicaemia- parenteral antibiotics should be given, as long as this doesn't delay transfer.)
+[NICE: Bruising](https://cks.nice.org.uk/topics/bruising/) & How soon to refer: [NICE Suspected cancer guideline- PDF](https://www.cancerresearchuk.org/sites/default/files/cruk_ng12_interactive_guide.pdf?11)
+
+==Children with new-onset petechiae/purpura should be referred same day to paeds for investigations to exclude [[leukaemia|ALL]] and meningococcal disease== (if suspecting meningococcal septicaemia- parenteral antibiotics should be given, as long as this doesn't delay transfer.)
 
 Referral for immediate specialist assessment of leukaemia should be arranged for a child or young person if they have:
 - Unexplained petechiae, _or_

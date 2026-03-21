@@ -16,7 +16,7 @@ That’s why you keep seeing **NG**, **TA**, **QS**, **Indicators**, etc.
 
 ---
 ## 2. Core NICE products (the ones you must know)
-### 🔵 1. NICE Guidelines (**NG**)
+### 🔵 1. NICE Guidelines (NG)
 **Example:** NG203 – Chronic kidney disease
 **What they are**
 - Broad **clinical practice guidelines**
@@ -37,7 +37,7 @@ That’s why you keep seeing **NG**, **TA**, **QS**, **Indicators**, etc.
 - Structuring GP care
 
 ---
-### 🟣 2. NICE Technology Appraisals (**TA**)
+### 🟣 2. NICE Technology Appraisals (TA)
 **Examples:**
 - TA775 – Dapagliflozin for CKD
 - TA942 – Empagliflozin for CKD
@@ -105,18 +105,18 @@ That’s why you keep seeing **NG**, **TA**, **QS**, **Indicators**, etc.
 
 ---
 ## 3. Other NICE products (know them, don’t memorise)
-### 🟡 Public Health Guidelines (**PH**)
+### 🟡 Public Health Guidelines (PH)
 Now NG
 - Prevention, screening, lifestyle
 - e.g. smoking, obesity, physical activity
-### ⚫ Interventional Procedures Guidance (**IPG**)
+### ⚫ Interventional Procedures Guidance (IPG)
 - Safety/efficacy of procedures
 - Not about funding
 - e.g. new surgical techniques
-### 🔴 Medical Technologies Guidance (**MTG**)
+### 🔴 Medical Technologies Guidance (MTG)
 - Devices, diagnostics
 - e.g. monitoring tech
-### 🔵 Diagnostics Guidance (**DG**)
+### 🔵 Diagnostics Guidance (DG)
 - Cost-effectiveness of diagnostic tests
 
 ---
@@ -133,7 +133,8 @@ Now NG
 | Clinical Knowledge Summaries | CKS  | Practical, point-of-care clinical advice for frontline clinicians (especially GP / primary care) | “What do I do right now with the patient in front of me?” |                      |
 
 ---
-# How CKS differs from NICE
+# How CKS differs from NICE NG
+
 | Feature                  | NICE Guidance (NG, TA, etc) | NICE CKS                    |
 | ------------------------ | --------------------------- | --------------------------- |
 | Level                    | High-level recommendations  | Practical step-by-step care |
@@ -146,11 +147,11 @@ CKS interprets and operationalises NICE guidance (plus other evidence like SIGN,
 
 ---
 ## 5. How _you_ should use these in practice (GP lens)
-- **Exams / teaching** → **NG**
-- **Starting new expensive drugs** → **TA**
-- **Audits / QOF / ARRS logic** → **QS + Indicators**
-- **“Why is the ICB asking for this?”** → **Indicators**
-- **Disputes about funding** → **TA (always wins)**
+- Exams / teaching → NG
+- Starting new expensive drugs → TA
+- Audits / QOF / ARRS logic → QS + Indicators
+- “Why is the ICB asking for this?” → Indicators
+- Disputes about funding → TA (always wins)
 
 ---
 ## 6. CKD + SGLT2i example (pulling it together)

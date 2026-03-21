@@ -9,19 +9,22 @@ aliases:
   - Henoch-Schönlein purpura (HSP) vs. Immune thrombocytopaenic purpura (ITP)
   - ITP
   - Henoch-Schonlein purpura
+  - IgA vasculitis
 urls:
   - "[NHS patients HSP](https://www.nhs.uk/conditions/henoch-schonlein-purpura-hsp/)"
 ---
 *See also: [[hus vs ttp]]* 
 
 ---
-# Henoch-Schönlein purpura
+# Henoch-Schönlein purpura (new name: IgA vasculitis)
 Precipitated by URTI - Sore throat. 
 Platelet normal.
 Age 2- 11 yo. 
+
+IgA immune complexes deposit on small vessels-> vasculitis -> bleed into skin (purpura) & organs (pain)
 # Clinical Features
 PAAN: #mnemonic 
-- non-blanching [[petechiae & purpura|Purpura]] on buttocks and legs
+- non-blanching palpable [[petechiae & purpura|Purpura]] on buttocks and legs (but platelets normal)
 - Arthralgia (especially knee) & peri-articular edema
 - Abdominal Pain
 - [[glomerulonephritis|IgA Nephropathy]] -> [[haematuria]], renal failure

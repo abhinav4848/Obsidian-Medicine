@@ -77,7 +77,7 @@ Common in young adult,
 Prolonged and gradual onset
 Worsening flu like symptoms precede a dry cough
 ### Complications
-- [[Autoimmune hemolytic anemia]] ([[ITP]]) due to Cold agglutinins (IgM),
+- Autoimmune haemolytic anaemia, [[hsp vs itp|ITP]] due to Cold agglutinins (IgM),
 - [[erythema multiforme]], Erythema nodosum
 	Erythe`ma` multiforme: Mycoplas`ma`
 - **Bullous myringitis**: painful vesicles on the tympanic membrane

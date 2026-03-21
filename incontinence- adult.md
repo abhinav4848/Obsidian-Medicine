@@ -13,7 +13,7 @@ urls:
 revision notes: difference between storage and voiding symptoms
 revision counter: 1
 ---
-See [[incontinence- paeds]]
+See [[incontinence- paeds]] 
 See [[diabetes insipidus]]. 
 
 # Voiding (Obstructive/Overflow)

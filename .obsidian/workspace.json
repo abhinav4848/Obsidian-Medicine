@@ -103,13 +103,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "incontinence- adult.md",
+                "file": "hsp vs itp.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "incontinence- adult"
+              "title": "hsp vs itp"
+            }
+          },
+          {
+            "id": "3587db54847d931c",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://assets.ctfassets.net/u7vsjnoopqo5/1lXWSSL8n8QXkJpJG8YO0Z/3baf4602613c03450d107234a664785f/cruk_ng12_interactive_guide.pdf",
+                "title": "cruk_ng12_interactive_guide.pdf",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "cruk_ng12_interactive_guide.pdf"
             }
           }
         ],
@@ -146,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bph",
+                "query": "gatewayc",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -191,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "incontinence- adult.md",
+                "file": "hsp vs itp.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,7 +233,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of incontinence- adult"
+              "title": "Graph of hsp vs itp"
             }
           }
         ]
@@ -331,7 +345,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "incontinence- adult.md",
+                "file": "hsp vs itp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +355,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for incontinence- adult"
+              "title": "Backlinks for hsp vs itp"
             }
           }
         ]
@@ -363,6 +377,21 @@
   },
   "active": "b75ad0e44dbe502a",
   "lastOpenFiles": [
+    "petechiae & purpura.md",
+    "ophthal referral criteria.md",
+    "nomenclatures in nice.md",
+    "molluscum contagiosum.md",
+    "lower limb ortho problems.md",
+    "long term oxygen therapy.md",
+    "leukaemia.md",
+    "housekeeping/study tips.md",
+    "hsp vs itp.md",
+    "pneumonia.md",
+    "autoimmune hemolytic anemia.md",
+    "childhood syndromes.md",
+    "down's syndrome.md",
+    "gynaecomastia.md",
+    "incontinence- adult.md",
     "prostate.md",
     "hla-b27.md",
     "reactive arthritis.md",
@@ -374,23 +403,8 @@
     "foot problems.md",
     "mental health act.md",
     "housekeeping/gp guidelines- mental health.md",
-    "burns.md",
-    "atrial fibrillation.md",
-    "calcium channel blockers.md",
-    "scoring system.md",
-    "oral allergy syndrome.md",
-    "statistics- screening tests.md",
-    "malaria.md",
     "attachments/stats- se, sp, ppv, npv.jpg",
     "attachments/stats- se, sp, ppv, npv.png",
-    "methotrexate.md",
-    "migraine.md",
-    "trimethoprim.md",
-    "leflunomide.md",
-    "folic acid.md",
-    "video scripts/meningitis final youtube.md",
-    "schizophrenia.md",
-    "antibodies.md",
     "flow charts/prostaglandins and leukotrienes.canvas",
     "attachments/Pasted image 20260319224528.png",
     "video scripts",

@@ -2,6 +2,29 @@
 tags:
   - paeds
   - genetics
+aliases:
+  - Patau syndrome
+  - Trisomy 13
+  - Edward syndrome
+  - Edward's syndrome
+  - Trisomy 18
+  - Down syndrome
+  - Down's syndrome
+  - Trisomy 21
+  - Noonan syndrome
+  - Pierre Robin syndrome
+  - Pierre-Robin syndrome
+  - Fragile X syndrome
+  - Prader Willi syndrome
+  - Prader-Willi syndrome
+  - Williams syndrome
+  - William's syndrome
+  - WS syndrome
+  - Cri du chat syndrome
+  - 5p deletion syndrome
+  - Chromosome 5p deletion syndrome
+  - Klinefelter syndrome
+  - XXY syndrome
 ---
 
 | **Syndrome**                                           | **Key features**                                                                                                                                                                                            | Mnemonics #mnemonic                                                                                                                                                                                                                                                                                                                                             |
@@ -27,3 +50,14 @@ tags:
 | Microcephaly (Small Head)                         | Microcephaly (Small Head).                             |
 | Microphthalmia (Small Eyes)                       | Micrognathia (Small Jaw).                              |
 | Polydactyly (Multiple Fingers)                    | Hands are clenched into fists with Overriding Fingers. |
+# Klinefelter (47, XXY)
+Affects boys and men due to additional X chromosome. 
+#### Clinical Features 
+- low testosterone -> high FHS & LH. (FSH > LH).
+	- *Low testosterone leads to a lack of negative feedback on the hypothalamus and pituitary, resulting in high gonadotropin levels: High LH and FSH levels (FSH >LH).*
+- Taller than average
+- Primary hypogonadism, 
+- lack of secondary sexual characteristics
+- small, firm testes
+- infertile
+- [[gynaecomastia]]- higher incidence of [[cancer- breast (treatment)|Breast Cancer]]
