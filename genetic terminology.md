@@ -32,7 +32,7 @@ These phenomena are thought to be due to a number of factors, including:
 - Allelic variation
 ### Penetrance
 - describes 'how likely' it is that a condition will develop
-- examples of conditions with incomplete penetrance include retinoblastoma and Huntington's disease
+- examples of conditions with incomplete penetrance include [[retinoblastoma]] and Huntington's disease
 - in contrast, achondroplasia shows 100%, or complete, penetrance
 ### Expressivity
 - describes the 'severity' of the phenotype

@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "genetic terminology.md",
+                "file": "tuberculosis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "genetic terminology"
+              "title": "tuberculosis"
             }
           }
         ],
@@ -146,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anticipat",
+                "query": "hepatitis",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "genetic terminology.md",
+                "file": "tuberculosis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of genetic terminology"
+              "title": "Graph of tuberculosis"
             }
           }
         ]
@@ -331,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "genetic terminology.md",
+                "file": "tuberculosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +341,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for genetic terminology"
+              "title": "Backlinks for tuberculosis"
             }
           }
         ]
@@ -363,10 +363,12 @@
   },
   "active": "b75ad0e44dbe502a",
   "lastOpenFiles": [
-    "cancer- breast (treatment).md",
-    "genetic terminology.md",
-    "cancer- breast (referral criteria).md",
+    "hepatitis.md",
     "diabetes drugs.md",
+    "nitrofurantoin.md",
+    "genetic terminology.md",
+    "cancer- breast (treatment).md",
+    "cancer- breast (referral criteria).md",
     "heart failure.md",
     "antiarrhythmic drugs.md",
     "beta adrenergic receptors.md",
@@ -388,8 +390,6 @@
     "housekeeping/study tips.md",
     "autoimmune hemolytic anemia.md",
     "childhood syndromes.md",
-    "down's syndrome.md",
-    "gynaecomastia.md",
     "attachments/stats- se, sp, ppv, npv.jpg",
     "attachments/stats- se, sp, ppv, npv.png",
     "flow charts/prostaglandins and leukotrienes.canvas",
