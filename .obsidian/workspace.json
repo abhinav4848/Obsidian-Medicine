@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cancer- breast (referral criteria).md",
+                "file": "genetic terminology.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cancer- breast (referral criteria)"
+              "title": "genetic terminology"
             }
           }
         ],
@@ -146,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "breast cancer",
+                "query": "anticipat",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cancer- breast (referral criteria).md",
+                "file": "genetic terminology.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cancer- breast (referral criteria)"
+              "title": "Graph of genetic terminology"
             }
           }
         ]
@@ -331,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cancer- breast (referral criteria).md",
+                "file": "genetic terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +341,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cancer- breast (referral criteria)"
+              "title": "Backlinks for genetic terminology"
             }
           }
         ]
@@ -363,6 +363,9 @@
   },
   "active": "b75ad0e44dbe502a",
   "lastOpenFiles": [
+    "cancer- breast (treatment).md",
+    "genetic terminology.md",
+    "cancer- breast (referral criteria).md",
     "diabetes drugs.md",
     "heart failure.md",
     "antiarrhythmic drugs.md",
@@ -387,9 +390,6 @@
     "childhood syndromes.md",
     "down's syndrome.md",
     "gynaecomastia.md",
-    "incontinence- adult.md",
-    "prostate.md",
-    "hla-b27.md",
     "attachments/stats- se, sp, ppv, npv.jpg",
     "attachments/stats- se, sp, ppv, npv.png",
     "flow charts/prostaglandins and leukotrienes.canvas",
