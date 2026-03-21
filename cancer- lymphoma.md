@@ -18,7 +18,8 @@ A type of cancer originating in the lymphatic system.
 - Bimodal age (<25 or >55) seen in supraclavicular/cervical LN (close proximity)
 - Involves more central nodes. 
 - Has [[alcohol]] induced pain. 
-- (can cause [[leukaemia|ALL]], assoc with [[epstein barr virus|EBV]]. Radiation for HL can lead to NHL. )
+- (can cause [[leukaemia|ALL]], assoc with [[epstein barr virus|EBV]]. Radiation for HL can lead to NHL.)
+- Generalised [[pruritus]]. 
 
 ---
 # NHL

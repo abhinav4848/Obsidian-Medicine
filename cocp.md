@@ -38,7 +38,7 @@ UKMEC: [College of sexual & reproductive health](https://www.cosrh.org/Public/Pu
 (COCP has the most contraindications). 
 - [[Migraine]] with aura 
 - h/o, or genes for [[cancer- breast (treatment)|Breast Cancer]] (but just family history is okay) -> [[cancer- drugs involved in gynae cancers|cocp risk of cancer]]
-- Obese (BMI > 30kg/m2), 
+- Obese (BMI > 30kg/m2 is risk 2, >=35 is risk 3), 
 - Smoker/ex-smoker, 
 - h/o Venous thromboembolism, DVT
 - [[hypertension|HTN]] (even if well controlled),
@@ -47,9 +47,9 @@ UKMEC: [College of sexual & reproductive health](https://www.cosrh.org/Public/Pu
 - Age > 35yo + smokes > 15 cigs a day
 - Stop taking their COCP/HRT 4 weeks before surgery- risk of PE.
 
-| UKMEC3                                                                                                                                                                                                                                                                                                                                                             | UKMEC4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| - more than 35 years old and smoking less than 15 cigarettes/day<br>- BMI > 35 kg/m^2*<br>- family history of thromboembolic disease in first degree relatives < 45 years<br>- controlled hypertension<br>- immobility e.g. wheel chair use<br>- carrier of known gene mutations associated with breast cancer (e.g. BRCA1/BRCA2)<br>- current gallbladder disease | - more than 35 years old and smoking more than 15 cigarettes/day<br>- migraine with aura<br>- history of thromboembolic disease or thrombogenic mutation<br>- history of stroke or ischemic heart disease<br>- breast feeding < 6 weeks post-partum<br>- uncontrolled hypertension<br>- current [[cancer- breast (treatment)\|Breast Cancer]]<br>- major surgery with prolonged immobilization<br>- positive antiphospholipid antibodies (e.g. in [[systemic lupus erythematosus\|SLE]]) |
+| UKMEC3                                                                                                                                                                                                                                                                                                                                                            | UKMEC4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - more than 35 years old and smoking less than 15 cigarettes/day<br>- BMI > 35 kg/m^2<br>- family history of thromboembolic disease in first degree relatives < 45 years<br>- controlled hypertension<br>- immobility e.g. wheel chair use<br>- carrier of known gene mutations associated with breast cancer (e.g. BRCA1/BRCA2)<br>- current gallbladder disease | - more than 35 years old and smoking more than 15 cigarettes/day<br>- migraine with aura<br>- history of thromboembolic disease or thrombogenic mutation<br>- history of stroke or ischemic heart disease<br>- breast feeding < 6 weeks post-partum<br>- uncontrolled hypertension<br>- current [[cancer- breast (treatment)\|Breast Cancer]]<br>- major surgery with prolonged immobilization<br>- positive antiphospholipid antibodies (e.g. in [[systemic lupus erythematosus\|SLE]]) |
 # Use
 COCP has pill free period where you get withdrawal bleed. 
 POP has no pill-free period. 
@@ -57,10 +57,11 @@ POP has no pill-free period.
 	*See [[time for action of contraceptives]]*.
 #### Prior to first prescription, ask
 - Medical conditions (Past & Present): [[migraine]], risk factors for CVD e.g. smoking, prev VTE, hyperlipidemia 
-- Drug use: prescription, non-prescription, herbal
+- **Drug use**: prescription, non-prescription, herbal
 - Family history: VTE, stroke, arterial disease breast cancer, diabetes, other
 - BP to be documented
 - height, weight, BMI
+- weight loss surgery: Patients who have had a gastric sleeve/bypass/duodenal switch cannot have oral contraception ever again due to lack of efficacy, including emergency contraception.
 # Side Effects
 Vaginal spotting common in first 3 months. 
 	Add tranexamic acid if excess bleed. 
@@ -72,3 +73,10 @@ See: [[cancer- drugs involved in gynae cancers#COCP & Cancer risk embedded]]
 
 ---
 See: [[cocp- pill ladder]]. 
+
+---
+# Combined hormonal contraceptive patch
+e.g. Evra: ethinylestradiol and norelgestromin 
+Works similar to COCP. 
+Less effective over 90 kgs. 
+- The reduced efficacy is likely due to lower serum contraceptive hormone levels in women with higher body weight, potentially due to increased distribution volume and metabolism. While the patch is not contraindicated for he
