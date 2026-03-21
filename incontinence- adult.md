@@ -35,11 +35,12 @@ Due to bladder outlet obstruction.
 - [[prostate|BPH]]- causes both storage, and voiding symptoms. 
 - Codeine can cause urinary retention. 
 ### Treatment 
-Alpha blockers:
+Alpha-1 blockers: (Decrease smooth muscle tone of the prostate and bladder)
 - If normotensive: Tamsulosin
 - HTN: Doxazosin, Alfuzosin
+	- *Doxazosin is step 4 in [[hypertension|HTN]] management.* 
+
 5-alpha reductase inhibitor: Finasteride (reduces Prostate bulk -> takes up to 6 months to show results).
-Doxazosin is step 4 in [[hypertension|HTN]] management. 
 
 ---
 # Storage (Irritative/Urge/Overactive)

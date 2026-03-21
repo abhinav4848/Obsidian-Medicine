@@ -14,10 +14,10 @@ Features:
 
 Group includes
 1. Predominantly Axial:
-	1. [[Ankylosing spondylitis]]: Anterior [[uveitis]]
+	1. [[Ankylosing spondylitis]]: Anterior [[uveitis]], [[foot problems|Achilles tendonitis]] 
 	2. non-radiographic axial spondyloarthritis
 2. Predominantly Peripheral:
-	1. [[Reactive arthritis]]: Conjunctivitis.
+	1. [[Reactive arthritis]]: [[Conjunctivitis]], [[dactylitis]]
 	2. [[behcet's disease]] 
 	3. Enteropathic Spondyloarthritis: Arthritis that accompanies [[inflammatory bowel disease|IBD]]
 	4. [[whipple disease]] 

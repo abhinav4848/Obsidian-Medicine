@@ -31,19 +31,19 @@ aliases:
   - myxoid cyst
 ---
 # Sites of pain
-| Condition                  | Typical Site of Pain                                                        |
-| -------------------------- | --------------------------------------------------------------------------- |
-| Morton's neuroma           | Plantar forefoot between 3rd/4th metatarsal heads (may radiate to toes)     |
-| Metatarsal stress fracture | Dorsal forefoot over affected metatarsal shaft                              |
-| Sesamoiditis               | Plantar surface beneath 1st metatarsal head                                 |
-| Bursitis                   | Around 1st or 2nd MTP joint (dorsal or plantar depending on bursa involved) |
-| Bunion (Hallux valgus)     | Medial aspect of 1st MTP joint                                              |
-| Plantar fasciitis          | Plantar heel (medial calcaneal tubercle)                                    |
-| Achilles tendinopathy      | Posterior heel along Achilles tendon                                        |
-| Tarsal tunnel syndrome     | Medial ankle radiating to sole                                              |
-| Hallux rigidus             | Dorsal 1st MTP joint                                                        |
-| Freiberg’s disease         | 2nd MTP joint (plantar forefoot)                                            |
-| Hammer/claw toes           | Dorsal PIP joints of toes                                                   |
+| Condition                  | Typical Site of Pain                                                           |
+| -------------------------- | ------------------------------------------------------------------------------ |
+| Morton's neuroma           | Plantar forefoot between 3rd/4th metatarsal heads (may radiate to toes)        |
+| Metatarsal stress fracture | Dorsal forefoot over affected metatarsal shaft                                 |
+| Sesamoiditis               | Plantar surface beneath 1st metatarsal head                                    |
+| Bursitis                   | Around 1st or 2nd MTP joint (dorsal or plantar depending on bursa involved)    |
+| Bunion (Hallux valgus)     | Medial aspect of 1st MTP joint                                                 |
+| Plantar fasciitis          | Plantar heel (medial calcaneal tubercle)                                       |
+| Achilles tendinopathy      | Posterior heel along Achilles tendon. Common with [[ankylosing spondylitis]].  |
+| Tarsal tunnel syndrome     | Medial ankle radiating to sole                                                 |
+| Hallux rigidus             | Dorsal 1st MTP joint                                                           |
+| Freiberg’s disease         | 2nd MTP joint (plantar forefoot)                                               |
+| Hammer/claw toes           | Dorsal PIP joints of toes                                                      |
 # Morton's neuroma
 [PCDS- Peripheral neuroectodermal tumours (Morton neuroma)](https://www.pcds.org.uk/clinical-guidance/peripheral-neuroectodermal-tumours) 
 Most commonly occurs in women aged 40–50 who wear high heeled shoes. The pain is due to entrapment of the interdigital nerve between the 3rd/4th metatarsal heads. However, other interspaces can be involved.
