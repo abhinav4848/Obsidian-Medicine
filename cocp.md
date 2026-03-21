@@ -78,5 +78,7 @@ See: [[cocp- pill ladder]].
 # Combined hormonal contraceptive patch
 e.g. Evra: ethinylestradiol and norelgestromin 
 Works similar to COCP. 
+The patch is typically changed weekly for three weeks, followed by a patch-free week
+
 Less effective over 90 kgs. 
-- The reduced efficacy is likely due to lower serum contraceptive hormone levels in women with higher body weight, potentially due to increased distribution volume and metabolism. While the patch is not contraindicated for he
+- The reduced efficacy is likely due to lower serum contraceptive hormone levels in women with higher body weight, potentially due to increased distribution volume and metabolism. While the patch is not contraindicated for her, it is not effective for the BMI either
