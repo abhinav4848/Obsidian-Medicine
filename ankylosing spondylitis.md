@@ -5,7 +5,7 @@ tags:
 It's a [[seronegative spondyloarthropathy]]. 
 # Clinical features
 - <30yo male
-- Stiffness & low back pain
+- Stiffness & [[sciatica|low back pain]]
 	- worse at rest/night & in morning
 	- Improves with movement -> Stiffness takes at least 30 mins to get better.
 - Anemia,

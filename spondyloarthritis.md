@@ -33,4 +33,4 @@ Extra-articular manifestations:
 ---
 ### Missed picture %%linked%%
 >[!warning]
->Axial presentations of spondyloarthritis are often misdiagnosed as mechanical low back pain, leading to delays in access to effective treatments. Peripheral presentations are often seen as unrelated joint or tendon problems, and can be misdiagnosed because problems can move around between joints
+>Axial presentations of spondyloarthritis are often misdiagnosed as mechanical [[sciatica|low back pain]], leading to delays in access to effective treatments. Peripheral presentations are often seen as unrelated joint or tendon problems, and can be misdiagnosed because problems can move around between joints

@@ -5,10 +5,13 @@ urls:
   - "[Resus Anaphylaxis](https://www.resus.org.uk/library/additional-guidance/guidance-anaphylaxis/emergency-treatment)"
 ---
 Can give adrenaline 1:1000 1mg/ml in anterolateral aspect of mid-thing. 
-- < 6 months: 100-150mcg
-- 6m-6y: 150mcg
-- 6y-12y: 300mcg
-- 12 years and above: 500mcg. 
+
+| Age                        | Adrenaline dose                                 |
+| -------------------------- | ----------------------------------------------- |
+| < 6 months                 | 100 - 150 micrograms (0.1 - 0.15 ml 1 in 1,000) |
+| 6 months - 6 years         | 150 micrograms (0.15 ml 1 in 1,000)             |
+| 6-12 years                 | 300 micrograms (0.3ml 1 in 1,000)               |
+| Adult and child > 12 years | 500 micrograms (0.5ml 1 in 1,000)               |
 
 Can repeat twice at 5 mins interval. If no response -> Refractory anaphylaxis. 
 

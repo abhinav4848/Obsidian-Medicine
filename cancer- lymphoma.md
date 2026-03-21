@@ -14,7 +14,7 @@ Lymphoma → cancer of lymphocytes that (mostly) form solid tumours in lymph nod
 Leukaemia → cancer of lymphocytes that circulate in blood and bone marrow. 
 # HL
 A type of cancer originating in the lymphatic system. 
-- Reed-Sternberg cells (Multinucleated giant cells)  
+- Reed-Sternberg cells (Multinucleated giant cells) 
 - Bimodal age (<25 or >55) seen in supraclavicular/cervical LN (close proximity)
 - Involves more central nodes. 
 - Has [[alcohol]] induced pain. 
