@@ -4,8 +4,9 @@ tags:
 aliases:
   - schizophrenic
 ---
-Thought insertion is a first rank symptom of schizophrenia.
+Chronic psychiatric disorder where [[psychosis]] is its core feature. 
 
+Thought insertion is a first rank symptom of schizophrenia.
 # Risk of developing schizophrenia 
 - monozygotic twin has schizophrenia = 50%
 - parent has schizophrenia = 10-15%
@@ -16,3 +17,5 @@ Thought insertion is a first rank symptom of schizophrenia.
 - Migration - RR 2.9
 - Urban environment- RR 2.4
 - Cannabis use - RR 1.4
+
+---

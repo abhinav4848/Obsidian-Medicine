@@ -22,6 +22,9 @@ Fainting, Tiredness, Weakness, Leg Cramps.
 ECG: [[qt prolongation|long QT syndrome]], Depressed ST segment & T wave, U wave on ECG.
 Predisposes to [[Digoxin]] toxicity.
 
+| ECG changes in Hypokalemia | Hypo vs [[hyperkalemia\|Hyperkalaemia]] |
+| -------------------------- | --------------------------------------- |
+| ![[ecg- hypokalemia.jpg]]  | ![[ecg- hypo vs hyperkalemia.jpg]]      |
 # Treatment
 The normal serum potassium is 3.5-5 mmol/I.
 

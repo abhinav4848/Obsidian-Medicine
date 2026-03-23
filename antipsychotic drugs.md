@@ -8,7 +8,7 @@ aliases:
   - antipsychotics
   - anti-schizophrenic drugs
 ---
-Antipsychotic drugs, aka neuroleptics/anti-[[schizophrenia|schizophrenic]] drugs. 
+Antipsychotic drugs, aka neuroleptics/anti-[[schizophrenia|schizophrenic]] drugs. Use in [[psychosis]]. 
 Useful in psychosis, [[mania]] & bipolar disorders, intractable hiccups, [[antiemetics|N&V]], delirium.
 
 # MoA

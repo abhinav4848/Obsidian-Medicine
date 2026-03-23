@@ -19,7 +19,7 @@ aliases:
 revision counter: 1
 revision notes: differences between conversion, somatisation, munchausen, malingering
 ---
-*See also [[personality disorder]].* 
+*See also [[personality disorder]]. & [[psychosis]]* 
 
 ---
 # Differences in disorders

@@ -16,18 +16,26 @@ Can occur due to AKI/ARF (low eGFR) which can itself be due to HF.
 Acidosis
 Rhabdomyolysis
 Massive blood transfusion
-# Severity
+# Clinical Features
+| ECG changes in Hyperkalemia | [[hypokalemia]] vs Hyperkalaemia   |
+| --------------------------- | ---------------------------------- |
+| ![[ecg- hyperkalemia.jpg]]  | ![[ecg- hypo vs hyperkalemia.jpg]] |
+- peaked T waves
+- P wave widening/flattening, PR prolongation
+- **Brady-arrhythmias**: Sinus brady, high grade AV block with slow junctional & ventricular escape rhythms, slow AF 
+- conduction blocks (BBB, Fascicular blocks)
+- QRS widening with bizarre QRS morphology
+# Treatment
+##### Severity
 - Mild (5.5-5.9)
 - Moderate: (6-6.4)
 - Severe (>= 6.5)
 ### Action if found in primary care
 <=6.0 urgent repeat in a week
 \>6.0 immediate repeat same day (whether DHU or hospital) 
-# Treatment
-If mild or moderate with no ECG changes
+### If mild or moderate with no ECG changes 
 Stop the offending drug.
-
-## If (Moderate + ECG changes), or if Severe
+### If (Moderate + ECG changes), or if Severe
 1st: calcium gluconate/CaCl2 to protect cardiac membrane
 Then reduce serum K+ by insulin + dextrose/Salbutamol inhalation.
 	10 units insulin in 50ml of 50% glucose iv perfusion over 30 minutes.

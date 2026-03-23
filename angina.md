@@ -2,9 +2,7 @@
 tags:
   - cardio
 ---
-See Videos on How to interpret MI on ECG: 
-- [Intro to EKG Interpretation - Myocardial Infarctions (Part 1 of 2)](https://youtu.be/2bGs-KZbyCs), 
-- [Intro to EKG Interpretation - Myocardial Infarctions (Part 2 of 2)](https://www.youtube.com/watch?v=WaQg6bFJdYc) 
+See [[myocardial infarction]] 
 
 1st investigation is CT coronary Angiogram. 
 # Mx of Stable angina
