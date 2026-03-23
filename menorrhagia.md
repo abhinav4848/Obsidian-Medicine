@@ -5,6 +5,8 @@ aliases:
   - HMB
   - heavy menstrual bleeding
   - Menorrhagia
+  - fibroids
+  - leiomyoma
 urls:
   - "[Decision support tool for managing heavy periods](https://www.england.nhs.uk/publication/decision-support-tool-making-a-decision-about-managing-heavy-periods/)"
 ---
@@ -18,14 +20,25 @@ urls:
 >   
 >PDF: [Decision support tool for managing heavy periods](https://www.england.nhs.uk/publication/decision-support-tool-making-a-decision-about-managing-heavy-periods/) - See page 8
 
-IUD (copper) is a cause. 
-IUS ([[contraceptives|Mirena]]) is a treatment.
+# Cause
+- IUD (copper) is a cause. 
+- IUS ([[contraceptives|Mirena]]) is a treatment.
 
-Rule out [[cancer- endometrial|Endometrial hyperplasia]]
+**Dysfunctional uterine bleeding**: this describes menorrhagia in the absence of underlying pathology. This accounts for approx 50% of patients
+
+**Anovulatory cycles** are the most common cause, esp in post-menopausal women & adolescents who just began menstruating. 
+- Without the regular release of progesterone following ovulation, the endometrium continues to thicken leading to heavy and prolonged bleeding when it is eventually shed.
+- Menorrhagia refers to quantity and not how often you're bleeding. With anovulatory cycles, due to not bleeding frequently one tends to have a thicker endometrium than most so when you do bleed even if it's less frequently, your flow tends to be heavy (*simplified*: you have accumulated a lot of blood from not bleeding regularly so a lot comes out)
+
+Rule out [[cancer- endometrial|Endometrial hyperplasia]]. 
 Rule out Fibroids (leiomyoma) as a cause. 
-- if main symptom about fibroids is pressure- TVS. 
-- If main symptom is IMG/HMB- hysteroscopy so that size/position can be checked & possible one stop treatment procedure performed. 
-- Treat: <3cm submucosal- LNG-IUD, larger ones- hysteroscopic resection/uterine artery embolization/Ulipristal acetate (reduces size- Specialist initiated)
+- if main symptom about fibroids is pressure- do TVS. 
+- If main symptom is IMB/HMB- hysteroscopy so that size/position can be checked & possible one stop treatment procedure performed. 
+- **Treat**: <3cm submucosal -> LNG-IUS, larger ones-> hysteroscopic resection/uterine artery embolization/Ulipristal acetate (reduces size- Specialist initiated). 
+
+[[hypothyroidism]], due to anovulation. (hyper causes oligomenorrhoea)
+[[pelvic inflammatory disease|PID]]
+Bleeding disorders: vWD. 
 
 ---
 
@@ -50,3 +63,7 @@ TVS if h.o fibroids/adenomyosis. It is second line in women who don't want hyste
 
 ---
 RCGP eLEARNING: https://elearning.rcgp.org.uk/course/view.php?id=351
+
+[[hyperthyroidism]] causes oligomenorrhoea
+	- think body is hyperactive (under stress) and so no energy for menses. 
+Cervical ectropion: Cells that are normally inside the cervical canal are present on the outer surface of the cervix. Can cause spotting or light bleeding but is not associated with HMB. 

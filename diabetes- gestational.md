@@ -63,7 +63,7 @@ These targets are lower than for DM because this is where the risk to fetus mean
 
 ---
 # Management of GDM
-Once a woman has been diagnosed with gestational diabetes, she remains 'high risk for diabetes mellitus' for life and should receive a yearly HbA1c. 
+Once a woman has been diagnosed with gestational diabetes, she remains 'high risk for diabetes mellitus' for life and should receive a ==yearly== HbA1c. 
 
 | Fasting glucose          | Treatment                                                                                                                                                                                                                                      |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -75,7 +75,7 @@ Once a woman has been diagnosed with gestational diabetes, she remains 'high ris
 - weight loss for women with BMI of > 27 kg/m^2
 - stop oral hypoglycaemic agents, apart from metformin, and commence insulin
 - [[folic acid]] 5 mg/day from pre-conception to 12 weeks gestation
-- detailed anomaly scan at 20 weeks including four-chamber view of the heart and outflow tracts
+- detailed [[down's syndrome|anomaly scan]] at 20 weeks including four-chamber view of the heart and outflow tracts (Fetal echocardiography) 
 - tight glycaemic control reduces complication rates
 - treat retinopathy as can worsen during pregnancy
 

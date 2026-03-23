@@ -12,7 +12,7 @@ urls:
 - See [[scoring system]] for Well's Score
 - See [[deep vein thrombosis.canvas|deep vein thrombosis flowchart]]
 ### If DVT likely (i.e. Well's >= 2)
-Do Scan, if not available, do D-Dimer. 
+Do Scan. If not available, do D-Dimer. 
 
 |               | D-Dimer +ve                                                                   | D-Dimer -ve   |
 | ------------- | ----------------------------------------------------------------------------- | ------------- |

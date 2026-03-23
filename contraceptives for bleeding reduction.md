@@ -23,9 +23,8 @@ tags:
 	- Ulipristal acetate up to 4 courses especially pre surgery if size > 3cm.
 	- Endometrial ablation for fibroids < 3cm.
 - Fibroid distorting Uterine cavity:
-	- COCP/POP/Implants (< 20, no long contraception needed, no c/I to COCP)
-	- Implant e.g. Nexplanon (Fibroid distorting uterine cavity)
-
+	- COCP/POP/Implants (< 20, no long contraception needed, no c/i to COCP)
+	- Implant e.g. [[contraceptives|Nexplanon]] (Fibroid distorting uterine cavity)
 
 # COCP c/i +/- Menstrual problems (e.g. Menorrhagia)
 - 

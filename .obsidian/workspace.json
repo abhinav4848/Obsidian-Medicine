@@ -68,6 +68,21 @@
             }
           },
           {
+            "id": "4e0f3b70fd8001d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plaque psoriasis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "plaque psoriasis"
+            }
+          },
+          {
             "id": "b75ad0e44dbe502a",
             "type": "leaf",
             "state": {
@@ -116,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gesta",
+                "query": "Onycholysis",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -161,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hearing loss.md",
+                "file": "plaque psoriasis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +204,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of hearing loss"
+              "title": "Graph of plaque psoriasis"
             }
           }
         ]
@@ -301,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hearing loss.md",
+                "file": "plaque psoriasis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +326,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hearing loss"
+              "title": "Backlinks for plaque psoriasis"
             }
           }
         ]
@@ -331,36 +346,38 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b75ad0e44dbe502a",
+  "active": "4e0f3b70fd8001d7",
   "lastOpenFiles": [
-    "attachments/paeds drawing milestone.png",
+    "psoriatic arthritis.md",
+    "plaque psoriasis.md",
+    "psoriasis.md",
+    "onychomycosis.md",
+    "flexural psoriasis.md",
+    "menorrhagia.md",
+    "contraceptives for bleeding reduction.md",
+    "contraceptives.md",
+    "period problems in gynaecology.md",
+    "curb-65.md",
+    "deep vein thrombosis.md",
+    "flow charts/deep vein thrombosis.canvas",
+    "depression.md",
+    "ssri.md",
+    "attention deficit hyperactive disorder.md",
+    "methylphenidate.md",
+    "antenatal care.md",
+    "nitrofurantoin.md",
+    "trimethoprim.md",
+    "folic acid.md",
+    "diabetes- gestational.md",
+    "down's syndrome.md",
     "hearing loss.md",
+    "attachments/paeds drawing milestone.png",
     "cocp.md",
     "ophthalmoscopy.md",
-    "diabetes- gestational.md",
     "asthma- acute attack.md",
     "spirometry.md",
-    "copd- acute exacerbation.md",
-    "polymyositis.md",
-    "fibromyalgia.md",
-    "antibodies.md",
-    "polymyalgia rheumatica.md",
-    "cancer- lung.md",
-    "encephalitis.md",
-    "chondrodermatitis nodularis helicis.md",
-    "paediatric milestones.md",
-    "psychosis.md",
-    "actinic keratosis.md",
     "attachments/actinic keratosis.jpg",
-    "psych terminology.md",
-    "schizophrenia.md",
-    "mania.md",
-    "psychiatric disorders.md",
-    "antipsychotic drugs.md",
-    "hyperkalemia.md",
-    "hypokalemia.md",
     "attachments/ecg- hyperkalemia.jpg",
-    "methotrexate.md",
     "attachments/ecg- hypo vs hyperkalemia.jpg",
     "attachments/ecg- hypokalemia.jpg",
     "flow charts/h. pylori treatment flowchart.canvas",
@@ -377,7 +394,6 @@
     "flow charts/cocp after delivery- ukmec.canvas",
     "housekeeping/revise recent changes.base",
     "Untitled.base",
-    "flow charts/deep vein thrombosis.canvas",
     "flow charts/shoulder exam.canvas",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "attachments/atropa belladona.pdf",

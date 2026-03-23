@@ -6,6 +6,7 @@ aliases:
   - Depo Provera
   - Mirena
   - Copper-T
+  - Nexplanon
 urls:
 ---
 ![[contraception]]

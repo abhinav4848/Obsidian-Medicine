@@ -26,9 +26,10 @@ ACE inhibitor, Alcohol, Anti-malarial (HCQ), [[beta adrenergic receptors|beta bl
 - On extensor surface (elbow, knees) & scalp (eczema is on flexures). 
 - Auspitz's sign #named : Punctate bleeding when scales are scraped off. 
 - New lesion at site of injury: [[Koebner's phenomenon]].
-- Nail changes: Pitting/Onycholysis.
 
-Based on shape: Plaque, [[Guttate psoriasis]] (oil drop)
+See ![[psoriatic arthritis#Nail changes in Psoriasis linked]]
+
+**Based on shape**: Plaque, [[Guttate psoriasis]] (oil drop)
 
 ---
 # Treatment 

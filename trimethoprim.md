@@ -10,10 +10,11 @@ urls:
 Third line For [[acne vulgaris]]: 
 - 300 mg BD
 - Replaces Doxy or Lymecycline
-- See [BNF](https://bnf.nice.org.uk/drugs/trimethoprim/#trimethoprim-indication-3), & [PCDS](https://www.pcds.org.uk/clinical-guidance/acne-vulgaris#:~:text=Third%2Dline%3A%20trimethoprim,recommends%20regular%20FBC) 
+- *See [BNF](https://bnf.nice.org.uk/drugs/trimethoprim/#trimethoprim-indication-3), & [PCDS](https://www.pcds.org.uk/clinical-guidance/acne-vulgaris#:~:text=Third%2Dline%3A%20trimethoprim,recommends%20regular%20FBC)* 
 # Pregnancy
 [[folic acid|anti-folate]]. Don't give in T1 (avoid entirely as per new guidance). 
 	*see [[drugs contraindicated in pregnancy]].* 
+	*See [[antenatal care]]*. 
 If must be used, give 5mg Folic acid daily.
 # Side effects
 Very small risk of 

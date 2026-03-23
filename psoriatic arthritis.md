@@ -23,12 +23,13 @@ T2DM is a risk factor
     - **enthesitis**: inflammation at the site of tendon and ligament insertion (e.g. Achilles tendonitis, plantar fasciitis)
     - tenosynovitis: typically of the flexor tendons of the hands
     - dactylitis: diffuse swelling of an entire finger or toe
-#### Nail changes in [[Psoriasis]]  
+#### Nail changes in [[Psoriasis]] %%linked%%
+#mnemonic POSH nails
 - Pitting  
 - Onycholysis  
-- Subungual hyperkeratosis  
+- Subungual Hyperkeratosis  
 - Oil drop/ salmon patch
-
+- Loss of nail
 # Management
 - Should be managed by a rheumatologist. 
 - treatment is broadly similar to rheumatoid arthritis (RA), but with some important differences:

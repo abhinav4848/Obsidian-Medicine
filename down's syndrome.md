@@ -43,3 +43,7 @@ NIPT
 - analysis of cffDNA allows for the early detection of certain chromosomal abnormalities
 - sensitivity and specificity are very high for trisomy 21 (>99%) and similarly high for other chromosomal abnormalities
 - private companies (e.g. Harmony) offer NIPT screening from 10 weeks gestation
+
+
+# Anomaly Scan
+USS done at 18-22 weeks PoG to assess fetal anatomy. 
