@@ -29,10 +29,10 @@ Might be skewed, have outliers, or be based on ranks/ categories. e.g. Pain scor
 | Spearman rank, <br>Kendall rank correlation coefficient, aka<br>Kendall's τ (tau) | Correlation (Correlation = seeing if two numbers move together)                                                                                                                                                            |
 | McNemar's test                                                                    | used to analyse nominal paired data that is non-parametric.                                                                                                                                                                |
 #### These two names are the same test:
-| Name (See [[statistics- basics about data#Ranking data linked\|Rank meaning]]) | Why it exists                                               |
-| ------------------------------------------------------------------------------ | ----------------------------------------------------------- |
-| **Mann–Whitney U test**                                                        | Name emphasises the **U statistic** used in the calculation |
-| **Wilcoxon rank-sum test**                                                     | Name emphasises the **sum of ranks** used in the method     |
+| Name (See [[statistics- basics about data#Ranking data linked\|Rank meaning]]) | Why it exists                                                                                                                                     |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mann–Whitney U test**                                                        | Name emphasises the **U statistic** used in the calculation<br>U is a **test statistic** calculated from:<br>- The **sum of ranks** in each group |
+| **Wilcoxon rank-sum test**                                                     | Name emphasises the **sum of ranks** used in the method                                                                                           |
 They both:
 - Compare **two independent (unpaired) groups**
 - Use **ranks instead of raw values**

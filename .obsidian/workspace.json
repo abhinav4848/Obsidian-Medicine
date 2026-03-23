@@ -133,13 +133,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cancer- cervical.md",
+                "file": "statistics- significance tests.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cancer- cervical"
+              "title": "statistics- significance tests"
+            }
+          },
+          {
+            "id": "e5edf34914eca825",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://chatgpt.com/share/697feb75-5aec-8012-9b56-8446cce9d893",
+                "title": "Statistics tests explained",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Statistics tests explained"
             }
           }
         ],
@@ -176,7 +190,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cervical ",
+                "query": "tests",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -221,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cancer- cervical.md",
+                "file": "statistics- significance tests.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -249,7 +263,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cancer- cervical"
+              "title": "Graph of statistics- significance tests"
             }
           }
         ]
@@ -361,7 +375,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cancer- cervical.md",
+                "file": "statistics- significance tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -371,7 +385,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cancer- cervical"
+              "title": "Backlinks for statistics- significance tests"
             }
           }
         ]
@@ -393,8 +407,12 @@
   },
   "active": "2f5e7679398f6248",
   "lastOpenFiles": [
-    "flow charts/cervical cancer screening pathway.canvas",
+    "statistics- significance tests.md",
+    "statistics- basics about data.md",
+    "statistics- screening tests.md",
+    "blood tests.md",
     "cancer- cervical.md",
+    "flow charts/cervical cancer screening pathway.canvas",
     "cauda equina syndrome.md",
     "cervical cancer screening pathway.md",
     "controlled drugs.md",
@@ -416,9 +434,6 @@
     "afro-caribbean.md",
     "als- anaphylaxis.md",
     "sciatica.md",
-    "ankylosing spondylitis.md",
-    "hepatitis.md",
-    "nash.md",
     "attachments/legionella vs mycoplasma pneumonia.jpg",
     "attachments/stats- se, sp, ppv, npv.jpg",
     "attachments/stats- se, sp, ppv, npv.png",

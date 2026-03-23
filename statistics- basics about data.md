@@ -44,6 +44,7 @@ Parametric tests like: **t-tests**, **ANOVA**, **Pearson correlation** use the *
 Example: BP 120 vs 140 → difference **20 mmHg** matters.
 Ranking would throw away that information.
 ## Rank-Sum
+[chatgpt](https://chatgpt.com/share/697feb75-5aec-8012-9b56-8446cce9d893)
 Rank all observations across two groups.
 **Process**
 1. Combine values from both groups.
@@ -55,7 +56,7 @@ Rank all observations across two groups.
 ## Signed-Rank
 Rank the differences within pairs.
 **Process**
-1. Calculate the **difference** between paired measurements.
+1. Calculate the **difference** between paired measurements (before & after intervention)
 2. Rank the **absolute differences** (ignore signs initially).
 3. Add the **sign (+/−)** back to each rank.
 4. Sum positive and negative ranks to see if changes occur consistently in one direction.
