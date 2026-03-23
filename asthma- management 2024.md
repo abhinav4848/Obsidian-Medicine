@@ -40,8 +40,9 @@ see [[asthma- old management]]
 
 # Asthma Management < 5yo %%linked%% 
 See [[asthma- diagnosis (algorithm)]] 
-See [NICE pharmacological management guidelines in <5yo](https://www.nice.org.uk/guidance/ng245/chapter/recommendations#pharmacological-management-in-children-under-5)
+See [NICE NG245 pharmacological management in <5yo](https://www.nice.org.uk/guidance/ng245/chapter/recommendations#pharmacological-management-in-children-under-5)
 See [Leicester Asthma guideline](https://www.lmsg.nhs.uk/guidelines/category/respiratory/) 
+
 - Trial 8-12 weeks SABA + BD Paeds low dose  ICS 
 	- This is if it looks like they'll need maintenance therapy (h/o atopy), severe acute episodes of DiB/wheeze shown by hospital admission or needing >=2 courses of Oral Steroids. 
 - If symptoms don't resolve during trial period, check triggers/technique/adherence/other diagnosis likely. If still no, refer to specialist. 

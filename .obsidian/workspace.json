@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atrial fibrillation.md",
+                "file": "asthma- diagnosis (algorithm).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "atrial fibrillation"
+              "title": "asthma- diagnosis (algorithm)"
             }
           },
           {
@@ -160,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dot blot",
+                "query": "asthma",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -191,8 +191,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -205,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "atrial fibrillation.md",
+                "file": "asthma- diagnosis (algorithm).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -233,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of atrial fibrillation"
+              "title": "Graph of asthma- diagnosis (algorithm)"
             }
           }
         ]
@@ -345,7 +344,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atrial fibrillation.md",
+                "file": "asthma- diagnosis (algorithm).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +354,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for atrial fibrillation"
+              "title": "Backlinks for asthma- diagnosis (algorithm)"
             }
           }
         ]
@@ -377,6 +376,14 @@
   },
   "active": "805a7f05f6fddd1b",
   "lastOpenFiles": [
+    "asthma- investigations.md",
+    "asthma- diagnosis (algorithm).md",
+    "asthma.md",
+    "asthma- management 2024.md",
+    "hearing loss.md",
+    "atrial fibrillation.md",
+    "attachments/Pasted image 20260323123041.png",
+    "attachments/Pasted image 20260323123103.png",
     "statistics- screening tests.md",
     "retinopathy.md",
     "gout.md",
@@ -399,12 +406,6 @@
     "cancer- breast (treatment).md",
     "cancer- risk factors.md",
     "cancer- breast (types).md",
-    "hearing test in children.md",
-    "hearing loss.md",
-    "side effects of cvs drugs.md",
-    "pruritus.md",
-    "petechiae & purpura.md",
-    "seborrhoeic keratosis.md",
     "attachments/legionella vs mycoplasma pneumonia.jpg",
     "attachments/stats- se, sp, ppv, npv.jpg",
     "attachments/stats- se, sp, ppv, npv.png",
@@ -417,8 +418,6 @@
     "attachments/digoxin effect- normal use of digoxin (not toxicity).jpg",
     "attachments/t-waves digoxin effect.jpg",
     "attachments/digoxin toxicity-2.jpg",
-    "attachments/digoxin toxicity-1.jpg",
-    "attachments/digoxin toxicity-1.png",
     "flow charts/haematuria.canvas",
     "flow charts/cocp after delivery- ukmec.canvas",
     "housekeeping/revise recent changes.base",

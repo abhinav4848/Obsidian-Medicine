@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "headers",
     "red-border"
-  ]
+  ],
+  "theme": "system"
 }

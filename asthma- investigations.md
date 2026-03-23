@@ -26,5 +26,5 @@ Immunoglobulin E (IgE) plays a central role in allergic asthma by mediating hyp
 # Skin prick testing
 Skin prick testing for house dust mite is performed because it is a common and potent trigger for asthma, particularly in atopic individuals. House dust mite allergens, found in household dust, are inhaled and can lead to chronic airway inflammation, increased bronchial hyperresponsiveness, and exacerbations in susceptible individuals. Identifying house dust mite sensitivity allows targeted interventions, such as allergen avoidance measures, to improve asthma control and reduce symptom burden.  
   
-# Bronchial challenge test
+# Bronchial challenge test %%linked%%
 Bronchial challenge test assesses airway hyperresponsiveness, a characteristic feature of asthma, by measuring the airway's response to a provocative agent such as methacholine or histamine. In asthma, heightened bronchial smooth muscle reactivity and inflammation lead to excessive narrowing of the airways when exposed to these agents, resulting in a significant decline in [[spirometry|FEV1]].

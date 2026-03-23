@@ -75,4 +75,5 @@ NICE recommends the use of catheter ablation for those with AF who have not resp
 - should be used 4 weeks before and during the procedure
 - it should be remember that catheter ablation controls the rhythm but does not reduce the stroke risk, even if patients remain in sinus rhythm. Therefore, patients still require anticoagulation as per their CHA2DS2-VASc score
     - if score = 0: 2 months anticoagulation recommended
-    - if score > 1: longterm anticoagulation recommended
+    - if score > 1: long-term anticoagulation recommended
+
