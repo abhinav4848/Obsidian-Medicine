@@ -22,6 +22,11 @@ Not painful.
 - Flurouracil cream 2-3 week course -> but skin gets inflamed -> give topical hydrocortisone to help with inflammation but only after 2 weeks of the cream.
 - Topical diclofenac may be used in mild AK/Imiquimod/Cryotherapy/curettage
 
-![solar keratosis|300](https://www.pcds.org.uk/imager/gallery/clinical/actinic-keratosis-syn-solar-keratosis/14301/AK1_fee391183f15cb4d62773032fe0be92d.jpg)
+
+| Actinic Keratosis (PCDS)                                                                                                                                      | Actinic Keratosis                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| ![solar keratosis\|300](https://www.pcds.org.uk/imager/gallery/clinical/actinic-keratosis-syn-solar-keratosis/14301/AK1_fee391183f15cb4d62773032fe0be92d.jpg) | ![[actinic keratosis.jpg\|269]]<br>see [[chondrodermatitis nodularis helicis\|CNH]] for confusion.  |
+
+
 
 

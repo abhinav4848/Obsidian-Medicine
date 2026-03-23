@@ -43,5 +43,5 @@ Clubbing, Hyperthyroidism, due to ectopic TSH.
 # Investigation 
 CXR- first line for suspected lung cancer. 
 	10% of patients subsequently diagnosed with lung cancer had normal CXR. 
-CT- IoC for suspected lung cancer. 
+CT- Inv of Choice for suspected lung cancer. 
 Bronchoscopy- to take biopsy. 

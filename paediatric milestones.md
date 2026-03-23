@@ -7,6 +7,7 @@ urls:
   - https://ctsmed.blogspot.com/2012/09/how-to-learn-understand-and-memorize.html
   - https://mrcpch.paediatrics.co.uk/wp-content/uploads/2014/06/Development-Assessment-MRCPCH-Website.pdf
   - https://youtu.be/kVUyStz9Ifk?si=8WPBm4NLCCR0ENGS
+revision counter: 1
 ---
 # Goals
 #### 1 year
@@ -60,13 +61,14 @@ aka hand eye coordination.
 | Add another 3 at 3yo (Builds a tower of **9** blocks)             | **36 months (3 years)** |
 #### Drawing 
 
-| Age       | Milestone                  |
-| --------- | -------------------------- |
-| 18 months | Circular scribble          |
-| 2 years   | Copies vertical line       |
-| 3 years   | Copies circle              |
-| 4 years   | Copies cross               |
-| 5 years   | Copies square and triangle |
+| Age                                  | Milestone                             |
+| ------------------------------------ | ------------------------------------- |
+| 18 months                            | Circular scribble                     |
+| 2 years                              | Copies vertical line                  |
+| 3 years                              | Copies circle                         |
+| 4 years                              | Copies cross                          |
+| 5 years                              | Copies square and triangle            |
+| like play-station <br>joy-stick <br> | ![[paeds drawing milestone.png\|228]] |
 ##### Bricks
 
 | **Age**   | **Milestone** |

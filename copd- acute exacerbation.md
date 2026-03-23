@@ -38,6 +38,7 @@ Nebulized [[asthma- drugs|salbutamol]] (with ipratropium bromide).
 ## Steroids
 Prednisolone 30 mg stat. (or 100 mg IV hydrocortisone)
 	Prednisolone should be continued as 30 mg OD for 5 days. 
+	*(40 is given for [[asthma- acute attack|asthma exacerbation]])*
 ## Antibiotics
 If purulent sputum, fever, high CRP, signs of [[Pneumonia]] -> give Antibiotics (see Nice [NG114](https://www.nice.org.uk/guidance/ng114)).
 - Choose between: amoxicillin / [[macrolides|Clarithromycin]] / doxycycline. #abx
