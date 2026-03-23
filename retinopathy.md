@@ -12,7 +12,7 @@ aliases:
 
 ---
 # Diabetic Retinopathy
-Common in [[diabetes mellitus 1|type 1 diabetes]].
+Common in [[diabetes mellitus 1|type 1 diabetes]]. 
 ## Maculopathy
 if there is a change in visual acuity,
 Rx: Intravitreal vascular endothelial growth factor (VEGF) inhibitors.

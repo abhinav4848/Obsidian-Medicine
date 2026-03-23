@@ -1,8 +1,37 @@
-body {
-  --h1-color: red;
-  --h2-color: orange;
-  --h3-color: yellow;
-  --h4-color: green;
-  --h5-color: blue;
-  --h6-color: pink;
+ :root {
+     --faded-blue: #7fbbb3;
+     --faded-aqua: #83c092;
+     --faded-green: #a7c080;
+     --faded-yellow: #dbbc7f;
+     --faded-orange: #e69875;
+     --faded-red: #e67e80;
+     --faded-purple: #B99CD6;
+  
+     --light-blue: #5a93a2;
+     --light-aqua: #569d79;
+     --light-green: #899c40;
+     --light-yellow: #bf983d;
+     --light-orange: #f57d26;
+     --light-red: #f85552;
+     --light-purple: #A150F2;
+ }
+
+ .theme-dark
+{
+     --h1-color:              var(--faded-blue);
+     --h2-color:              var(--faded-aqua);
+     --h3-color:              var(--faded-green);
+     --h4-color:              var(--faded-yellow);
+     --h5-color:              var(--faded-orange);
+     --h6-color:              var(--faded-red);
 }
+
+ .theme-light
+ {
+     --h1-color:              var(--light-blue);
+     --h2-color:              var(--light-aqua);
+     --h3-color:              var(--light-green);
+     --h4-color:              var(--light-yellow);
+     --h5-color:              var(--light-orange);
+     --h6-color:              var(--light-red);
+ }
