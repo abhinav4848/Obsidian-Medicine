@@ -157,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -235,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ophthalmoscopy.md",
+                "file": "gout.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -263,7 +263,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ophthalmoscopy"
+              "title": "Graph of gout"
             }
           }
         ]
@@ -375,7 +375,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ophthalmoscopy.md",
+                "file": "gout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -385,7 +385,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ophthalmoscopy"
+              "title": "Backlinks for gout"
             }
           }
         ]
@@ -405,8 +405,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "2f5e7679398f6248",
+  "active": "6f42cb0e9c064b20",
   "lastOpenFiles": [
+    "erythema multiforme.md",
+    "gout.md",
+    "ophthalmoscopy.md",
     "attachments/dot blot cotton wool.jpg",
     "statistics- significance tests.md",
     "statistics- basics about data.md",
@@ -432,8 +435,6 @@
     "petechiae & purpura.md",
     "seborrhoeic keratosis.md",
     "cancer- lymphoma.md",
-    "afro-caribbean.md",
-    "als- anaphylaxis.md",
     "attachments/legionella vs mycoplasma pneumonia.jpg",
     "attachments/stats- se, sp, ppv, npv.jpg",
     "attachments/stats- se, sp, ppv, npv.png",
@@ -448,7 +449,6 @@
     "attachments/digoxin toxicity-2.jpg",
     "attachments/digoxin toxicity-1.jpg",
     "attachments/digoxin toxicity-1.png",
-    "attachments/digoxin effect- normal use of digoxin (not toxicity).png",
     "flow charts/haematuria.canvas",
     "flow charts/cocp after delivery- ukmec.canvas",
     "housekeeping/revise recent changes.base",

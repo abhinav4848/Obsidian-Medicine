@@ -8,7 +8,7 @@ urls:
   - "[NICE NG219- Management of Gout](https://www.nice.org.uk/guidance/ng219/chapter/Recommendations#long-term-management-of-gout)"
   - "[NICE CKS- Gout](https://cks.nice.org.uk/topics/gout/management/acute-gout/)"
 ---
-# Cause
+# Cause 
 ### Diseases: 
 Seen in Polycythemia, [[leukaemia|leukaemia]], [[tumour lysis syndrome]], Psoriasis, Lesch-Nyhan syndrome (self mutilating disorder due to buildup of uric acid). 
 ### Drugs
