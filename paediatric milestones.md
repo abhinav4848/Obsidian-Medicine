@@ -18,7 +18,7 @@ urls:
 # Gross Motor
 - Sit unsupported: 6 months (no worries about standing unsupported)
 - Pull to standing: 9 months
-- 12m: Walks up & cuts his first birthday cake on his feet. 
+- 12m: stands up & cuts his first birthday cake on his feet. 
 - Walk: 18 months
 - Run: 24 months (2 years)
 
@@ -58,7 +58,8 @@ aka hand eye coordination.
 | Add another to make it three (Builds a tower of **3** blocks)     | **18 months**           |
 | 2x the height at 2y (Builds a tower of **6** blocks)              | **24 months (2 years)** |
 | Add another 3 at 3yo (Builds a tower of **9** blocks)             | **36 months (3 years)** |
-#### Drawing
+#### Drawing 
+
 | Age       | Milestone                  |
 | --------- | -------------------------- |
 | 18 months | Circular scribble          |
