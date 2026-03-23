@@ -26,7 +26,7 @@ Maternal:
 Neonatal: 
 - **Neonatal hypoglycaemia**: Maternal hyperglycaemia leads to increased insulin production in the foetus (beta cell hyperplasia) and hence neonates are more likely to have hypoglycaemia after birth when they lose their maternal glucose supply abruptly.
 - Macrosomia (but GDM can also cause SGA- small for gestational age)
-- RDS: surfactant production delayed
+- **RDS**: surfactant production delayed
 - Polycythaemia, so more chance of Neonatal jaundice
 - Malformation risk increased 3-4x (incl HOCM)
 - Stillbirth, [[magnesium|Hypomagnesemia]], [[hypocalcemia|hypocalcaemia]], Shoulder dystocia (causing Erb's palsy). 
@@ -35,6 +35,10 @@ Neonatal:
 # Screening for GDM
 - OGTT is test of choice
 - H/o prev. GDM: OGTT soon after booking & at 24-28 weeks if the first test is normal.
+- Offer screening for GDM for women with glycosuria
+	- 2+ or more on one occasion, or 
+	- 1+ on two separate occasions. 
+	- As renal threshold before serum glucose appears in urine is 10mmol/L
 - Early self-monitoring of blood glucose is an alternative to the OGTTs. 
 - Any of the other risk factors should get OGTT at 24-28 weeks. 
 ## Diagnostic thresholds for GDM
@@ -61,12 +65,12 @@ These targets are lower than for DM because this is where the risk to fetus mean
 # Management of GDM
 Once a woman has been diagnosed with gestational diabetes, she remains 'high risk for diabetes mellitus' for life and should receive a yearly HbA1c. 
 
-| Fasting glucose          | Treatment                                                                                                                                                                                                                                       |
-| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| >=7 at time of diagnosis | start Insulin                                                                                                                                                                                                                                   |
-| 6-6.9 mmol/l             | Only if there is evidence of complications such as macrosomia or hydramnios -> Offer insulin                                                                                                                                                    |
-| < 7 mmol/l               | - Trial of diet and exercise.<br>- If target not met in 1-2 weeks-> diet/exercise+ [[diabetes drugs\|metformin]]. <br>- If still not met-> diet/exercise/metformin + insulin<br>*- GDM is treated with short-acting, not long-acting, insulin*  |
-|                          | Glibenclamide (sulphonylurea) only if can't tolerate metformin, or didn't meet target with metformin but declines insulin treatment                                                                                                             |
+| Fasting glucose          | Treatment                                                                                                                                                                                                                                      |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| >=7 at time of diagnosis | start Insulin                                                                                                                                                                                                                                  |
+| 6-6.9 mmol/l             | Only if there is evidence of complications such as macrosomia or hydramnios -> Offer insulin                                                                                                                                                   |
+| < 7 mmol/l               | - Trial of diet and exercise.<br>- If target not met in 1-2 weeks-> diet/exercise+ [[diabetes drugs\|metformin]]. <br>- If still not met-> diet/exercise/metformin + insulin<br>*- GDM is treated with short-acting, not long-acting, insulin* |
+|                          | Glibenclamide (sulphonylurea) only if can't tolerate metformin, or didn't meet target with metformin but declines insulin treatment                                                                                                            |
 # Management of pre-existing DM
 - weight loss for women with BMI of > 27 kg/m^2
 - stop oral hypoglycaemic agents, apart from metformin, and commence insulin

@@ -58,25 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "copd- acute exacerbation.md",
+                "file": "diabetes- gestational.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "copd- acute exacerbation"
-            }
-          },
-          {
-            "id": "c504c254eb2f7958",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "attachments/paeds drawing milestone.png"
-              },
-              "icon": "lucide-image",
-              "title": "paeds drawing milestone"
+              "title": "diabetes- gestational"
             }
           },
           {
@@ -93,53 +81,9 @@
               "icon": "lucide-file",
               "title": "hearing loss"
             }
-          },
-          {
-            "id": "9cd5c375ddd8440a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cocp.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "cocp"
-            }
-          },
-          {
-            "id": "2f5e7679398f6248",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ophthalmoscopy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "ophthalmoscopy"
-            }
-          },
-          {
-            "id": "e5edf34914eca825",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://chatgpt.com/share/697feb75-5aec-8012-9b56-8446cce9d893",
-                "title": "Statistics tests explained",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Statistics tests explained"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -172,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "copd",
+                "query": "gesta",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -217,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "copd- acute exacerbation.md",
+                "file": "hearing loss.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of copd- acute exacerbation"
+              "title": "Graph of hearing loss"
             }
           }
         ]
@@ -357,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "copd- acute exacerbation.md",
+                "file": "hearing loss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +311,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for copd- acute exacerbation"
+              "title": "Backlinks for hearing loss"
             }
           }
         ]
@@ -387,8 +331,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "805a7f05f6fddd1b",
+  "active": "b75ad0e44dbe502a",
   "lastOpenFiles": [
+    "attachments/paeds drawing milestone.png",
+    "hearing loss.md",
+    "cocp.md",
+    "ophthalmoscopy.md",
+    "diabetes- gestational.md",
+    "asthma- acute attack.md",
+    "spirometry.md",
+    "copd- acute exacerbation.md",
     "polymyositis.md",
     "fibromyalgia.md",
     "antibodies.md",
@@ -398,8 +350,6 @@
     "chondrodermatitis nodularis helicis.md",
     "paediatric milestones.md",
     "psychosis.md",
-    "attachments/paeds drawing milestone.png",
-    "hearing loss.md",
     "actinic keratosis.md",
     "attachments/actinic keratosis.jpg",
     "psych terminology.md",
@@ -413,14 +363,7 @@
     "methotrexate.md",
     "attachments/ecg- hypo vs hyperkalemia.jpg",
     "attachments/ecg- hypokalemia.jpg",
-    "myocardial infarction.md",
-    "angina.md",
-    "dyspepsia.md",
     "flow charts/h. pylori treatment flowchart.canvas",
-    "asthma- diagnosis (algorithm).md",
-    "spirometry.md",
-    "asthma- severity assessment.md",
-    "asthma- investigations.md",
     "attachments/Pasted image 20260323123041.png",
     "attachments/Pasted image 20260323123103.png",
     "attachments/dot blot cotton wool.jpg",

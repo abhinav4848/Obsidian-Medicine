@@ -20,7 +20,7 @@ If severe:
 - Consider admission
 - Oxygen to maintain SpO2 94 - 98%
 - Salbutamol nebulizers every 15 mins
-- Pred 40-50mg
+- Pred 40-50mg (30mg is for [[copd- acute exacerbation|COPD- acute exacerbation]])
 - If no response, then admit
 
 If life threatening: 
