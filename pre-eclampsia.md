@@ -4,6 +4,7 @@ tags:
 aliases:
   - eclampsia
 ---
+*See [[hypertension in pregnancy]].* 
 # Pre-eclampsia
 **Gestational HTN**: New onset HTN after 20 weeks. 
 

@@ -49,3 +49,12 @@ Check for any end-organ damage & if not, change medications.
 # Target for patients
 If Age > 80yo, target 150/90
 If coming for annual monitoring and over age of 60yo, to bring a urine sample
+# Question
+>[!Question] HTN Question
+>A 59-year-old man books a routine appointment with you following an appointment with your surgery's diabetes nurse. He was diagnosed with type-2 diabetes three years ago and currently takes metformin. A blood pressure (BP) check with the nurse gave a BP of 158/82 mmHg. A subsequent home BP diary showed an average of 146/86 mmHg.  
+>
+>He has no other medical problems. He has never taken blood pressure medicines previously and has no known allergies. His most recent bloods showed an eGFR of 84 ml/min/1.73 m². He is of African-Caribbean ethnicity.  
+>
+>What is the most appropriate first line antihypertensive medication?
+>>[!Answer]- Answer
+>>An ARB should be used first-line for black TD2M patients who are diagnosed with hypertension. NICE says to prefer ARB over ACE in this ethnicity. 

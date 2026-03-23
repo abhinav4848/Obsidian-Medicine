@@ -53,5 +53,7 @@ Should be used on red or itchy areas of skin
 - You may be provided with two steroid creams – a milder one that can be used more often if needed, and a stronger one that can be used for a few days if the eczema flares (gets worse)
 - In general, less steroid cream should be used on areas of thinner skin, e.g., the face, the body folds, genitalia and in older patients the lower legs
 
+![[eczema vs psoriasis treatment.png|488]]
+
 ### Topical Steroid withdrawal
 If you have been using higher strength TS for some weeks, you should wean yourself off slowly (reducing the TS strength and/or frequency of application) and not stop suddenly. If you stop topical steroids and develop a skin rash different from what you had before, this may be TSW.

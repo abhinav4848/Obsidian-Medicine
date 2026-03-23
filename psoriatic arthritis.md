@@ -26,7 +26,7 @@ T2DM is a risk factor
 #### Nail changes in [[Psoriasis]] %%linked%%
 #mnemonic POSH nails
 - Pitting  
-- Onycholysis  
+- Onycholysis (separation of the nail from the nail bed)
 - Subungual Hyperkeratosis  
 - Oil drop/ salmon patch
 - Loss of nail

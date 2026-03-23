@@ -59,3 +59,6 @@ Useful on delicate/steroid-sensitive areas, such as the face, eyelids, and flexu
 	- weeps (fluid oozing from skin) or crusts (yellow)
 	- swollen & painful skin
 	- Feeling hot, shivery, unwell
+
+---
+![[eczema vs psoriasis treatment.png]]

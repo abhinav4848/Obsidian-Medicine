@@ -2,7 +2,7 @@
 tags:
   - dermat
 ---
-*See: [[erythrodermic psoriasis]]*
+*See: [[erythrodermic psoriasis]]* which is an emergency, and not erythroderma. 
 
 ---
 It is an exfoliative dermatitis -> Widespread severe erythema -> Extensive exfoliation of skin. 
@@ -12,7 +12,7 @@ It is an exfoliative dermatitis -> Widespread severe erythema -> Extensive exfol
 - Scaling on scalp. May have hair loss.
 - Palms and soles become yellowish (but not [[keratoderma blennorrhagica]])
 - Eyelid conditions: ectropion.
-- Nail: ridging, thickening, onycholysis, complete hair loss ([[alopecia]]). 
+- Nail: ridging, thickening, onycholysis (separation of the nail from the nail bed), complete hair loss ([[alopecia]]). 
 
 **Systemic symptoms**: malaise, fever, lymphadenopathy
 
