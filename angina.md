@@ -2,6 +2,10 @@
 tags:
   - cardio
 ---
+See Videos on How to interpret MI on ECG: 
+- [Intro to EKG Interpretation - Myocardial Infarctions (Part 1 of 2)](https://youtu.be/2bGs-KZbyCs), 
+- [Intro to EKG Interpretation - Myocardial Infarctions (Part 2 of 2)](https://www.youtube.com/watch?v=WaQg6bFJdYc) 
+
 1st investigation is CT coronary Angiogram. 
 # Mx of Stable angina
 1. [[beta adrenergic receptors|beta blocker]] or [[calcium channel blockers|CCB]] as first line
@@ -25,3 +29,7 @@ tags:
 - Many patients who take nitrates develop tolerance and experience reduced efficacy
 - NICE advises that patients who take standard-release isosorbide mononitrate should use an asymmetric dosing interval to maintain a daily nitrate-free time of 10-14 hours to minimise the development of nitrate tolerance
 - this effect is not seen in patients who take once-daily modified-release isosorbide mononitrate
+
+# Unstable angina
+- intermittent pains occurring both at rest and also during exertion.
+- 
