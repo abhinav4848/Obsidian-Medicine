@@ -21,6 +21,7 @@ https://geekymedics.com/fundoscopy-ophthalmoscopy-osce-guide/#Assess_the_fundus
 - **Flame shaped haemorrhage**: Larger haemorrhages with a flame-like appearance caused by rupture of pre-capillary arterioles or small veins in the retinal nerve fibre layer. Most commonly associated with grade 3 hypertensive retinopathy, [[platelets|thrombocytopenia]], retinal vein occlusion and trauma. e.g. [[crvo|CRVO]], diabetic, hypertensive. 
 - **Cotton-wool spots**: caused by ischemia to the nerve fibre layer due to fibrinous necrosis and luminal narrowing -> decreased axoplasmic flow, nerve swelling, and ultimately fluffy opacification. Most commonly associated with diabetic retinopathy and grade 3 hypertensive retinopathy.
 - **Exudates**: Waxy yellow lesions with relatively distinct margins arranged in clumps or rings, often surrounding leaking microaneurysms, as a result of lipid accumulation. They are most commonly associated with diabetic retinopathy and grade 3 [[retinopathy|hypertensive retinopathy]].
-- ![Cotton Wool Spots|400](https://geekymedics.com/wp-content/uploads/2020/05/cotton_wool_spots-2.jpg)
+- ![Cotton Wool Spots|502](https://geekymedics.com/wp-content/uploads/2020/05/cotton_wool_spots-2.jpg)
 - ![[fundoscopy- edema, exudate, haemorrhage, cotton wool spots.png]]
 - ![[eyewiki- Hypertensive retinopathy.jpg|500]]
+- ![[dot blot cotton wool.jpg|448]]
