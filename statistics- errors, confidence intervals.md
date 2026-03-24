@@ -45,6 +45,12 @@ Power means correctly identifying the result regardless of whether the hypothesi
 The probability of type 1 error happening is chosen during study design itself, but type 2 error depends on sample size & alpha. 
 - By increasing the sample size, you decrease beta, thus increase the power.
 
+### Standard error
+Statistics is based on the idea of taking a sample from a population. If you were to take many samples from a population and calculate a mean for each sample, these samples would be arranged into a distribution around the true population mean. The standard deviation of this distribution is called the standard error. The standard error is used in the calculation of a confidence interval.
+
+### Systematic error
+**Systematic error** is incorrect. Systematic error, also known as bias, involves a systematic deviation from the truth. There are many possible sources of bias within an RCT such as this one comparing remdesivir and placebo, including selection bias, performance bias, detection bias, attrition bias, and reporting bias.
+
 ---
 # p-value 
 if p-value = 0.04

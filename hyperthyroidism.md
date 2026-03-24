@@ -15,11 +15,11 @@ Thyroid non-tender, ESR normal.
 
 ---
 # Clinical Features
-High metabolic rate, pruritus, increased stool frequency, fine tremor.
-Female may present with just palpitation & weight loss. Do TFT.
-She may even have amenorrhea, sweating, etc.
-Proximal myopathy
-Pretibial myxedema- orange peel [[shin lesions|shin]] lesions: non-pitting, symmetrical, erythematous
+- High metabolic rate, pruritus, increased stool frequency, fine tremor.
+- Female may present with just palpitation & weight loss. Do TFT.
+- She may even have amenorrhea, sweating, etc.
+- Proximal myopathy
+- Pretibial myxedema- orange peel [[shin lesions|shin]] lesions: non-pitting, symmetrical, erythematous
 ## Complication
 [[atrial fibrillation|A fib]] possible due to thyrotoxicosis.
 
@@ -30,17 +30,15 @@ Pretibial myxedema- orange peel [[shin lesions|shin]] lesions: non-pitting, symm
 	**s/e**: Hepatotoxicity to mother
 
 **Carbimazole**: T2, T3, Non-pregnant. Basically the DOC.
-	**Dose**: OD
-	**s/e**: Aplasia cutis, omphalocele in infants, agranulocytosis.
-	**Leukopaenia-induced fungal infection**: Carbimazole can cause leukopaenia, which could theoretically predispose to fungal infections, fungal infections typically present with scaling, erythema, and pruritus rather than simple depigmentation. (see [[vitiligo]])
+	- **Dose**: OD
+	- **s/e**: Aplasia cutis, omphalocele in infants, agranulocytosis.
+	- **Leukopaenia-induced fungal infection**: Carbimazole can cause leukopaenia, which could theoretically predispose to fungal infections, fungal infections typically present with scaling, erythema, and pruritus rather than simple depigmentation. (see [[vitiligo]])
 
 Radioiodine c/I in pregnancy & grave ophthalmopathy. 
 Partial thyroidectomy can be done in T2.
 Both drugs cross placenta. So lowest dose preferred.
 
-
 ---
-
 # Hyperthyroidism and Bone
 Hyperthyroidism
 - Untreated hyperthyroidism (not hypothyroidism) is associated with increased bone turnover and [[osteoporosis]]. 

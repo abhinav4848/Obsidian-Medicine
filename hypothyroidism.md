@@ -11,7 +11,7 @@ urls:
 	Hashimoto acute phase is hyperthyroid (later becomes hypo)
 **World**: Nutritional: Iodine deficiency
 
-**Drugs**: [[Lithium]], Amiodarone, Carbimazole, Rifampicin
+**Drugs**: [[Lithium]], [[Amiodarone]], Carbimazole, Rifampicin
 # Clinical Features
 - Goitre in both cases.
 - Amenorrhea/Oligomenorrhea
