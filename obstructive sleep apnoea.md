@@ -45,7 +45,7 @@ The partner often complains of excessive snoring and may report periods of apnoe
 
 ## DVLA for sleep apnoea %%linked%%
 *DTS: Day time somnolence*
-- Mild OSA - DTS - No need to inform DVLA  
+- Mild OSA w/o DTS - No need to inform DVLA  
 - Mild OSA + DTS - Stop driving until symptoms controlled. If not controlled within 3 months, inform DVLA  
-- Mod/severe OSA + DTS - Stop driving and inform DVLA. Can continue driving once OSA controlled, no DTS and good CPAP compliance. G1 drivers require review every 3 yrs, G2 drivers annually.  
+- Mod/severe OSA + DTS - Stop driving and inform DVLA. Can continue driving once OSA controlled, no DTS and good CPAP compliance. G1 drivers require review every 3 yrs, G2 drivers annually. 
 - Suspected OSA and DTS - Stop driving until diagnosis confirmed and symptoms controlled. No need to inform DVLA (yet)

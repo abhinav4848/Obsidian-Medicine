@@ -4,6 +4,8 @@ tags:
 aliases:
   - hypothesis testing
   - significance tests
+revision notes: alpha (false positive) vs beta (false negative)
+revision counter: 1
 ---
 A null hypothesis (H0) states that two treatments are equally effective (and is hence negatively phrased). A significance test uses the sample data to assess how likely the null hypothesis is to be correct.
 # Errors, Power
