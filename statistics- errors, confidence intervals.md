@@ -5,6 +5,7 @@ aliases:
   - hypothesis testing
   - significance tests
 ---
+A null hypothesis (H0) states that two treatments are equally effective (and is hence negatively phrased). A significance test uses the sample data to assess how likely the null hypothesis is to be correct.
 # Errors, Power
 They're thresholds you're willing to accept. 
 
@@ -36,7 +37,10 @@ aka. false negative.
 This corresponds to **power**:
 > **Power = 1 − β**
 
-Power means correctly identifying the result regardless of whether the hypothesis is accepted or rejected. A study with high power can accurately identify an effect (or difference when one exists) or vice versa. 
+Power means 
+- correctly identifying the result regardless of whether the hypothesis is accepted or rejected. A study with high power can accurately identify an effect (or difference when one exists) or vice versa. 
+- Power of a study is the probability of (correctly) rejecting the null hypothesis when it is false, i.e. the probability of detecting a statistically significant difference
+- Power can be increased by increasing the sample size. 
 
 - Standard acceptable power = **80–90%**
 	- *Most studies accept (β) = 10-20%*
@@ -46,16 +50,15 @@ The probability of type 1 error happening is chosen during study design itself, 
 - By increasing the sample size, you decrease beta, thus increase the power.
 
 ### Standard error
-Statistics is based on the idea of taking a sample from a population. If you were to take many samples from a population and calculate a mean for each sample, these samples would be arranged into a distribution around the true population mean. The standard deviation of this distribution is called the standard error. The standard error is used in the calculation of a confidence interval.
-
+Statistics is based on the idea of taking a sample from a population. If you were to take many samples from a population and calculate a mean for each sample, these samples would be arranged into a distribution around the true population mean. The standard deviation of this distribution is called the standard error. The standard error is used in the calculation of a confidence interval. 
 ### Systematic error
-**Systematic error** is incorrect. Systematic error, also known as bias, involves a systematic deviation from the truth. There are many possible sources of bias within an RCT such as this one comparing remdesivir and placebo, including selection bias, performance bias, detection bias, attrition bias, and reporting bias.
+Systematic error, also known as [[statistics- biases|bias]], involves a systematic deviation from the truth. There are many possible sources of bias within an RCT such as this one comparing remdesivir and placebo, including selection bias, performance bias, detection bias, attrition bias, and reporting bias.
 
 ---
 # p-value 
 if p-value = 0.04
 ### What does this mean?
-> If there were actually **no difference** between the drugs, the chance of seeing results this extreme (or more) is **4%**
+> If there were actually **no difference** between the drugs (i.e. H0 was true), the chance of seeing results this extreme (or more) is **4%**
 
 Since:
 - p = 0.04
@@ -65,6 +68,11 @@ Since:
 
 So the researcher would **reject the null hypothesis** and say:
 > “There is evidence the new drug is different (or better) than the old drug.”
+
+| <br><br>       | Study accepts H0    | Study rejects H0     |
+| -------------- | ------------------- | -------------------- |
+| **Reality H0** |                     | Type 1 error (alpha) |
+| **Reality H1** | Type 2 error (beta) | Power (1 - beta)     
 
 ---
 ## Confidence interval
@@ -83,4 +91,5 @@ If the **95% CI does not cross the null value**:
 ➡️ That agrees with the p-value being < 0.05
 
 ---
+
 
