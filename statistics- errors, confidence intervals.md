@@ -9,13 +9,13 @@ A null hypothesis (H0) states that two treatments are equally effective (and i
 # Errors, Power
 They're thresholds you're willing to accept. 
 
-| Reality                  | H1                  | H0                   |
-| ------------------------ | ------------------- | -------------------- |
-| Study rejects H0         | Power (1-Beta)      | Alpha (Type 1 error) |
-| Study does not reject H0 | Beta (Type 2 error) | -                    |
+| Reality    | H0                  | H1                   |
+| ---------- | ------------------- | -------------------- |
+| Reality H0 | -                   | Alpha (Type 1 error) |
+| reality H1 | Beta (Type 2 error) | Power (1-Beta)       |
 ### Type 1 error (α)
-This is also called significance level & tells the acceptable possibility of seeing a difference between 2 groups when it doesn't exist.
-aka. False positive. 
+This is also called significance level & tells the acceptable possibility of seeing a difference between 2 groups when it doesn't exist. 
+aka. False positive (The null hypothesis is rejected when it is true)
 
 i.e. the maximum acceptable probability of rejecting the null hypothesis when it's actually true. 
 > You conclude the new drug works when it doesn't. 
@@ -25,7 +25,7 @@ i.e. the maximum acceptable probability of rejecting the null hypothesis when it
 
 *Most studies accept (α) = 5% (0.05)*
 
- As the significance level is determined in advance the chance of making a type I error is not affected by sample size. It is however increased if the number of end-points are increased. For example if a study has 20 end-points it is likely one of these will be reached, just by chance.
+As the significance level is determined in advance the chance of making a type I error is not affected by sample size. It is however increased if the number of end-points are increased. For example if a study has 20 end-points it is likely one of these will be reached, just by chance.
 ### Type 2 error (β)
 Null hypothesis is accepted when it's false. 
 aka. false negative. 
@@ -43,8 +43,8 @@ Power means
 - Power can be increased by increasing the sample size. 
 
 - Standard acceptable power = **80–90%**
-	- *Most studies accept (β) = 10-20%*
-- As (β) = 26%, This study is **underpowered**
+	- *i.e. Most studies accept (β) = 10-20%*
+- If (β) = 26%, that study would be considered **underpowered**
 
 The probability of type 1 error happening is chosen during study design itself, but type 2 error depends on sample size & alpha. 
 - By increasing the sample size, you decrease beta, thus increase the power.
@@ -52,13 +52,13 @@ The probability of type 1 error happening is chosen during study design itself, 
 ### Standard error
 Statistics is based on the idea of taking a sample from a population. If you were to take many samples from a population and calculate a mean for each sample, these samples would be arranged into a distribution around the true population mean. The standard deviation of this distribution is called the standard error. The standard error is used in the calculation of a confidence interval. 
 ### Systematic error
-Systematic error, also known as [[statistics- biases|bias]], involves a systematic deviation from the truth. There are many possible sources of bias within an RCT such as this one comparing remdesivir and placebo, including selection bias, performance bias, detection bias, attrition bias, and reporting bias.
+Systematic error, also known as [[statistics- biases|bias]], involves a systematic deviation from the truth. There are many possible sources of bias within an RCT e.g. one comparing remdesivir and placebo, including selection bias, performance bias, detection bias, attrition bias, and reporting bias.
 
 ---
 # p-value 
 if p-value = 0.04
-### What does this mean?
-> If there were actually **no difference** between the drugs (i.e. H0 was true), the chance of seeing results this extreme (or more) is **4%**
+### What p = 0.04 mean?
+> If there were actually **no difference** between the drugs (i.e. H0 was true), the chance of seeing results this extreme (or more) is **4%** 
 
 Since:
 - p = 0.04
