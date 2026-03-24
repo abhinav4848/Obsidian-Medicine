@@ -44,8 +44,18 @@ Usually a one-off but every 5 years if spleen/CKD.
 | **CSF leaks**                                      | –                                                                                                                                             | –                                                                                      |
 
 # Influenza
-[DoH Green Book- Influenza](https://www.gov.uk/government/publications/influenza-the-green-book-chapter-19) 
-The Department of Health recommends annual influenza vaccination for people older than 65 years and those with:  
+[DoH Green Book- Influenza](https://www.gov.uk/government/publications/influenza-the-green-book-chapter-19) Given against influenza virus A,B,C. (A&B cause most cases). 
+They're effective for one flu season. 
+
+Live is given to children (intranasal- Flu spray)
+- *See [[immunisation schedule (paeds)|immunisation schedule]]* 
+- more effective than the inactivated form. 
+- first dose at 2-3 years age, then annually thereafter
+- give inactivated if immunosuppressed
+Inactivated is given to elderly at risk (i.m.- Flu jab)
+- It takes around 10-14 days after immunisation before antibody levels are at protective levels
+#### Adults
+The Department of Health recommends annual influenza vaccination for people >= 65 years and those with:  
 - chronic respiratory disease (including asthmatics who use inhaled steroids)
 - chronic heart disease (heart failure, ischaemic heart disease, including hypertension if associated with cardiac complications)
 - chronic kidney disease (at stages 3, 4 or 5, chronic kidney failure, nephrotic syndrome, kidney transplantation)
@@ -59,6 +69,10 @@ The Department of Health recommends annual influenza vaccination for people olde
 - health and social care staff directly involved in patient care (e.g. NHS staff)
 - those living in long-stay residential care homes
 - carers of the elderly or disabled person whose welfare may be at risk if the carer becomes ill (at the GP's discretion)
+#### Influenza vaccine & Asthma
+LAIV ([[vaccine types|live]] attenuated influenza vaccine) can be given to children with well-controlled [[asthma]] or recurrent wheeze. But not to severe asthma or active wheezing because these individuals might be at higher risk for wheezing following vaccination. 
+#### Contraindications
+immunocompromised/<2yo/febrile illness/blocked nose/active wheeze/egg allergy/pregnant/breastfeeding/if child taking aspirin (e.g. Kawasaki disease, due to risk of reye syndrome)
 ## From OBG
 Vaccination of Pregnants: Influenza + pertussis (DPT) -> b/w 20 - 32 weeks.
 	Cough and sneeze vaccine #mnemonic 

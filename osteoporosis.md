@@ -16,12 +16,12 @@ History of GI disease/malabsorption syndromes, including [[inflammatory bowel di
 2. For postmenopausal women, or men >=50yo -> 
 	1. if starting ≥7.5 mg/day prednisolone or equivalent for the next 3 months, OR
 	2. having symptomatic osteoporotic vertebral fracture
-		1. Start bone protective treatment (bisphosphonate) at the same time
+		1. Start bone protective treatment ([[bisphosphonates]]) at the same time
 		2. Don't wait for a DEXA scan before starting treatment. 
 3. In older adults a hip fracture is a manifestation of osteoporosis
 	1. following a fragility fracture in women ≥ 75 years, a DEXA scan is not necessary to diagnose osteoporosis and hence commence a bisphosphonate
 	2. BMD should be measured, but this acts as a baseline rather than determining whether treatment should be given
-4. **Other drugs**: PPIs, [[diabetes drugs|Glitazones]], SSRIs, Antiepileptics, Long term Heparin, [[cancer- breast (treatment)|aromatase inhibitors]]: Anastrozole (prevents formation of Oestrogen). 
+4. **Other culprit drugs**: PPIs, [[diabetes drugs|Glitazones]], SSRIs, Antiepileptics, Long term Heparin, [[cancer- breast (treatment)|aromatase inhibitors]]: Anastrozole (prevents formation of Oestrogen). 
 # How to calculate Osteoporosis
 If no h/o #, use Fracture risk assessment tool. #named 
 If h/o # or risk assessment (Q-fracture/[FRAX](https://www.sheffield.ac.uk/FRAX/)) > 10%, use DEXA (to obtain the T-score).
@@ -30,8 +30,8 @@ If h/o # or risk assessment (Q-fracture/[FRAX](https://www.sheffield.ac.uk/FRAX/
 ## T-Score understand and treatment
 -1 or higher: Normal
 -1 to -2.5: Osteopenia
-	Rx: Lifestyle advice, Vit D, Calcium 1g/d, and DEXA after 2 years.
-<= -2.5 (e.g.: -2.9), then osteoporosis.
+	**Rx**: Lifestyle advice, Vit D, Calcium 1g/d, and DEXA after 2 years.
+=< -2.5 (e.g.: -2.9), then osteoporosis.
 
 ---
 # Treatment of Osteoporosis %%(is linked)%%
