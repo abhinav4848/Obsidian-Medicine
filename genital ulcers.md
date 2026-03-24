@@ -2,13 +2,18 @@
 tags:
   - infection
 aliases:
-  - STI
+  - chancre
+  - chancroid
+  - syphilis
+  - genital herpes
+  - hpv
+  - epididymoorchitis
 ---
 Painless multiple: HPV 6, 11
 Painless single (Chancre): Syphilis (*painliss, Single*)
 Painful multiple: HSV (*herplease…. It hurts everywhere*)
 Painful single (Chancroid): H. ducreyi (*I do cry from pain & being single*)  
-  
+
 midstream urine sample detects UTI. Not STD.  
 
 | Chancre (2* Syphilis)                   | Chancroid  (soft chancre)                |
@@ -34,3 +39,18 @@ midstream urine sample detects UTI. Not STD.
 But mostly, Chlamydia & [[gonorrhoea|Gonorrhoea]] cause urethral discharge & dysuria in men more than ulcer.
 
 [[behcet's disease]] can cause genital ulcers (also oral ulcer, anterior uveitis)
+See [[gynaecological infections#Genital herpes in Pregnancy linked|genital herpes in pregnancy]]
+
+# Epididymo-orchitis 
+**c/f**: tender, swollen epididymis.
+**MCC**: [[chlamydia]] & [[gonorrhoea]] in young, sexually active. E. coli in older adults. 
+
+**Investigations** for suspected epididymo-orchitis are guided by age:  
+- sexually active younger adults: NAAT for STIs (usually on a first-catch urine sample)
+- older adults with a low-risk sexual history: MSSU (as this age group, it's due to enteric organisms like E. coli. )
+
+DDx: Testicular torsion. 
+
+Rx: If STI is the most likely cause, advise urgent self refer to local specialist sexual health clinic. 
+If organism unknown: Ceftriaxone 500mg i.m. single dose, + doxy 100mg PO 10-14 days
+If enteric organisms: Send MSU & empirical treat with [[fluroquinolone]] for 2weeks. 

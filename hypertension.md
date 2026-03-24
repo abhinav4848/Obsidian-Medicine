@@ -58,3 +58,9 @@ If coming for annual monitoring and over age of 60yo, to bring a urine sample
 >What is the most appropriate first line antihypertensive medication?
 >>[!Answer]- Answer
 >>An ARB should be used first-line for black TD2M patients who are diagnosed with hypertension. NICE says to prefer ARB over ACE in this ethnicity. 
+>> 
+>> Also in some questions where [[ckd classification & monitoring|ACR]] is given: 
+>> - If ACR <3, treat as per normal HTN guidelines [i.e. if in this case pt's ACR <3, amlodipine would be first line as >55y], because DM is managed. 
+>> - If ACR is >30 then ACEi/ARB should be used first line [in this case it would be ARB as afro-Caribbean]
+
+
