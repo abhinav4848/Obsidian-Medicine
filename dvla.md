@@ -52,7 +52,7 @@ See [[obstructive sleep apnoea|Obstructive sleep apnoea]]
 - acute coronary syndrome- 4 weeks off driving
     - 1 week if successfully treated by angioplasty
 - angina - No driving if symptoms occur at rest/at the wheel
-- pacemaker insertion - 1 week off driving
+- pacemaker insertion - 1 week off driving 
 - implantable cardioverter-defibrillator (ICD)
     - if implanted for sustained ventricular arrhythmia: cease driving for 6 months
     - if implanted prophylactically then cease driving for 1 month. Having an ICD results in a permanent bar for Group 2 drivers
