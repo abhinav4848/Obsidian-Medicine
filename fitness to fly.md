@@ -2,24 +2,53 @@
 tags:
   - admin
 ---
-The Civil Aviation Authority (CAA) has issued guidelines on air travel for people with medical conditions; please see the link provided. 
-# Cardiovascular disease 
-- unstable angina, uncontrolled hypertension, uncontrolled cardiac arrhythmia, decompensated heart failure, severe symptomatic valvular disease: should not fly 
-- uncomplicated myocardial infarction: may fly after 7-10 days
-- complicated myocardial infarction: after 4-6 weeks
-- coronary artery bypass graft: after 10-14 days 
-- percutaneous coronary intervention: after 3 days
-- stroke: patients are advised to wait 10 days following an event, although if stable may be carried within 3 days of the event
-# Respiratory disease 
-- pneumonia: should be 'clinically improved with no residual infection'
-- pneumothorax: absolute contraindication, the CAA suggest patients may travel 2 weeks after successful drainage if there is no residual air. The British Thoracic Society used to recommend not travelling by air for a period of 6 weeks but this has now been changed to 1 week post check x-ray  
-# Pregnancy 
-- most airlines do not allow travel after 36 weeks for a single pregnancy and after 32 weeks for a multiple pregnancy
-- most airlines require a certificate after 28 weeks confirming that the pregnancy is progressing normally 
-# Surgery 
-- travel should be avoided for 10 days following abdominal surgery
-- laparoscopic surgery: after 24 hours
-- colonoscopy: after 24 hours
-- following the application of a plaster cast, the majority of airlines restrict flying for 24 hours on flights of less than 2 hours or 48 hours for longer flights
-# Haematological disorders 
-- patients with a haemoglobin of greater than 8 g/dl may travel without problems (assuming there is no coexisting condition such as cardiovascular or respiratory disease) 
+The Civil Aviation Authority (CAA) has issued guidelines on air travel for people with medical conditions; please see the link provided. Here are clean, Obsidian-friendly tables (Markdown format) for each category:
+
+---
+## Cardiovascular Disease 
+
+|Condition|Recommendation for Air Travel|
+|---|---|
+|Unstable angina / uncontrolled hypertension / uncontrolled arrhythmia / decompensated heart failure / severe symptomatic valvular disease|**Should NOT fly**|
+|Uncomplicated myocardial infarction|May fly after 7–10 days|
+|Complicated myocardial infarction|May fly after 4–6 weeks|
+|Coronary artery bypass graft (CABG)|May fly after 10–14 days|
+|Percutaneous coronary intervention (PCI)|May fly after 3 days|
+|Stroke|Wait 10 days (may fly after 3 days if stable)|
+
+---
+## Respiratory Disease 
+
+|Condition|Recommendation for Air Travel|
+|---|---|
+|Pneumonia|Must be clinically improved with no residual infection|
+|Pneumothorax|Absolute contraindication until resolved|
+|Post-pneumothorax (after drainage)|May fly after 2 weeks if no residual air|
+|Post-pneumothorax (BTS updated guidance)|May fly 1 week after normal check X-ray|
+
+---
+## Pregnancy 
+
+|Situation|Recommendation for Air Travel|
+|---|---|
+|Single pregnancy|Usually allowed until 36 weeks|
+|Multiple pregnancy|Usually allowed until 32 weeks|
+|>28 weeks gestation|Certificate required confirming normal progression|
+
+---
+## Surgery 
+
+| Procedure / Situation            | Recommendation for Air Travel                            |
+| -------------------------------- | -------------------------------------------------------- |
+| Abdominal surgery                | Avoid travel for 10 days                                 |
+| Laparoscopic surgery             | May fly after 24 hours (see [[surgery- recovery times]]) |
+| Colonoscopy                      | May fly after 24 hours                                   |
+| Plaster cast (short flights <2h) | Wait 24 hours                                            |
+| Plaster cast (long flights)      | Wait 48 hours                                            |
+
+---
+## Haematological Disorders 
+
+| Condition            | Recommendation for Air Travel                         |
+| -------------------- | ----------------------------------------------------- |
+| Haemoglobin > 8 g/dL | Safe to travel (if no coexisting cardio/resp disease) |

@@ -2,6 +2,8 @@
 tags:
   - admin
 revision counter: 1
+aliases:
+  - scheduled drugs
 ---
 When prescribing a controlled drug the following must be present on the prescription:  
 - name and address of the patient
@@ -21,7 +23,7 @@ The 2001 Misuse of Drugs Regulations act defines who is authorised to prescribe 
 | **4**    | **Part 1**: Benzodiazepines (except midazolam and temazepam) and zolpidem, zopiclone  <br>**Part 2**: Androgenic and anabolic steroids, hCG, somatropin  <br>  <br>Controlled drug prescription requirements do not apply and Schedule 4 controlled drugs are not subject to safe custody requirements | Prescription valid 28 days                         |
 | **5**    | Includes preparations which because of their strength are exempt from the vast majority of Controlled Drug requirements other than retention of invoices (e.g. codeine, pholcodine, Oramorph 10mg/5ml)                                                                                                 |                                                    |
 #mnemonic 
-I find this easy to remember - just think of it as a party  
+Think of it as a party  
 - First we smoke some cannabis and have some LSD - yay fun  
 - Then we shoot some heroin (diamorphine), cocaine, MDMA - even more fun  
 - Then we need to something calming like Midazolam - relax  

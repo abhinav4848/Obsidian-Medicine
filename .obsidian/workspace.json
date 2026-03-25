@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "surgery- recovery times.md",
+                "file": "controlled drugs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "surgery- recovery times"
+              "title": "controlled drugs"
             }
           },
           {
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pre eclam",
+                "query": "tag:admin",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -145,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "surgery- recovery times.md",
+                "file": "controlled drugs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of surgery- recovery times"
+              "title": "Graph of controlled drugs"
             }
           }
         ]
@@ -285,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "surgery- recovery times.md",
+                "file": "controlled drugs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for surgery- recovery times"
+              "title": "Backlinks for controlled drugs"
             }
           }
         ]
@@ -317,9 +318,10 @@
   },
   "active": "48c6d331b7cb7c1b",
   "lastOpenFiles": [
+    "fitness to fly.md",
+    "surgery- recovery times.md",
     "attachments/evidencebasedrecoverytimes.pdf",
     "pre-eclampsia.md",
-    "surgery- recovery times.md",
     "anaemia.md",
     "ankylosing spondylitis.md",
     "cancer- colorectal.md",
@@ -370,7 +372,6 @@
     "flow charts/shoulder exam.canvas",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "housekeeping/memorise.base",
-    "attachments/Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf",
     "flow charts/paeds examination.canvas",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas"
   ]
