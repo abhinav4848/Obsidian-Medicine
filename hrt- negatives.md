@@ -24,7 +24,8 @@ urls:
 - Clotting disorders
 	- Arterial thromboembolic disease.
 	- Current or recurrent VTE.
-	- High risk of VTE -> transdermal HRT doesn't increase risk of VTE
+	- High risk of VTE
+		- transdermal HRT doesn't increase risk of VTE but high risk women for VTE should be referred to haemat before starting any treatment (including transdermal)
 	- Thrombophillic disorder (seek advice from haematology)
 	- Strong family history of VTE
 - Liver disease (with abnormal LFTs).
