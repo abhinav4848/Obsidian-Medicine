@@ -1,7 +1,9 @@
 {
   "baseFontSize": 16,
   "enabledCssSnippets": [
-    "headers"
+    "headers",
+    "red-border",
+    "obvious-bold"
   ],
-  "theme": "system"
+  "theme": "obsidian"
 }

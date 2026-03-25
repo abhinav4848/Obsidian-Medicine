@@ -34,6 +34,7 @@ If under 30, routine referral.
 Pap smear. 
 25-49yo: every 3 years. 
 50-64yo: every 5 years. 
+if HIV +ve annually. 
 
 # [[abdominal aortic aneurysm|Aortic aneurysm]]
 Single abdominal ultrasound is done at age 65 years to screen for AAA.

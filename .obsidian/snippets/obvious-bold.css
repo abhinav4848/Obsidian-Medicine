@@ -1,0 +1,26 @@
+/* Reading mode */
+.theme-dark .markdown-preview-view strong {
+  color: #ff6b6b; /* soft red */
+}
+
+/*Live preview (editor) */
+.theme-dark .cm-strong {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  text-decoration-color:rgba(255, 107, 107, 0.6);
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+}
+
+
+/* If a line is 100% width, then 0 to 50%, there's no gradient, just the color specified */
+/* Then From 60% to 100% of the width, it'll be transparent */
+/* Between 50-60%, CSS colour transition applies */
+/* .theme-dark strong,
+.theme-dark .cm-strong {
+  text-decoration: none;
+  background-image: linear-gradient(to right, rgba(255,107,107,0.6) 50%, transparent 60%);
+  background-size: 6px 1px;
+  background-repeat: repeat-x;
+  background-position: 0 100%;
+} */

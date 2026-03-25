@@ -8,6 +8,7 @@ aliases:
   - BRAO
 urls:
   - https://eyewiki.org/Retinal_Artery_Occlusion
+cssclasses:
 ---
 *See [[crvo|CRVO]]*. 
 

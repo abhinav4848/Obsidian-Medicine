@@ -1,3 +1,5 @@
 .red-border img {
-   border-color: #ff0000;
+  border: 1px solid #f85552;
+  border-radius: 8px;
+  padding: 2px;
 }
