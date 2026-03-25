@@ -13,16 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post exposure prophylaxis.md",
+                "file": "pernicious anemia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "post exposure prophylaxis"
+              "title": "pernicious anemia"
+            }
+          },
+          {
+            "id": "badee8098bdfd497",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "anaemia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "anaemia"
+            }
+          },
+          {
+            "id": "cb1482c9f6312635",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asthma- diagnosis (algorithm).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "asthma- diagnosis (algorithm)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "post expo",
+                "query": "pre eclam",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -100,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "post exposure prophylaxis.md",
+                "file": "anaemia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -128,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of post exposure prophylaxis"
+              "title": "Graph of anaemia"
             }
           }
         ]
@@ -240,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "post exposure prophylaxis.md",
+                "file": "anaemia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for post exposure prophylaxis"
+              "title": "Backlinks for anaemia"
             }
           }
         ]
@@ -270,8 +301,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "85774994797ebf68",
+  "active": "e8655fe722644f1f",
   "lastOpenFiles": [
+    "ankylosing spondylitis.md",
+    "anaemia.md",
+    "cancer- colorectal.md",
+    "ferritin.md",
+    "pernicious anemia.md",
+    "shingles.md",
+    "hiv.md",
+    "asthma- diagnosis (algorithm).md",
+    "post exposure prophylaxis.md",
     "pneumonia.md",
     "immunisation in adults.md",
     "immunisation schedule (paeds).md",
@@ -281,7 +321,6 @@
     "attachments/asthma- diagnose in ages 5-16yo.jpg",
     "attachments/asthma- diagnose in over 16yo.jpg",
     "attachments/asthma management in adults 2024 guidelines.jpg",
-    "asthma- diagnosis (algorithm).md",
     "attachments/bronchovesicular-2.mp3",
     "attachments/brvo.png",
     "crvo.md",
@@ -295,14 +334,6 @@
     "lower limb ortho problems.md",
     "vertigo- test & causes.md",
     "osteochondritis dissecans.md",
-    "asthma- acute attack.md",
-    "copd- acute exacerbation.md",
-    "erythemas.md",
-    "methotrexate.md",
-    "chlamydia.md",
-    "atrial fibrillation.md",
-    "immunisation (contraindications).md",
-    "hrt- negatives.md",
     "attachments/box-and-whisker plot.png",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/auer rods- aml.png",

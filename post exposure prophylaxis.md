@@ -27,9 +27,9 @@ tags:
 
 ---
 ## HIV pep %%transcluded%%
-- The risk of HIV transmission depends on the nature of the exposure (e.g. needlestick, type of sexual contact, human bite) and the viral load of the source individual
+- The risk of [[HIV]] transmission depends on the nature of the exposure (e.g. needlestick, type of sexual contact, human bite) and the viral load of the source individual
 - Low-risk incidents such as human bites generally do not require post-exposure prophylaxis (PEP), unless blood is present or other risk factors apply
-- First-line PEP regimen is oral antiretroviral therapy: tenofovir disoproxil/emtricitabine (Truvada®) + raltegravir
+- First-line PEP regimen is oral **antiretroviral therapy**: tenofovir disoproxil/emtricitabine (Truvada®) + raltegravir
     - PEP should be started as soon as possible (ideally within 1–2 hours, and no later than 72 hours post-exposure)
     - Treatment course lasts 4 weeks
 - HIV serological testing is required at 12 weeks after completing PEP

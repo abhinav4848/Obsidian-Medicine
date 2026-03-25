@@ -8,7 +8,7 @@ It's a [[seronegative spondyloarthropathy]].
 - Stiffness & [[sciatica|low back pain]]
 	- worse at rest/night & in morning
 	- Improves with movement -> Stiffness takes at least 30 mins to get better.
-- Anemia,
+- [[anaemia]],
 - Raised ESR.
 
 Associated with [[inflammatory bowel disease|crohn's disease]], Leukocytosis, Cauda equina, Peripheral arthritis.

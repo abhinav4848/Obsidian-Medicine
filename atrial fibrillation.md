@@ -9,7 +9,7 @@ aliases:
 - Pulmonary causes ([[obstructive sleep apnoea|OSA]], PE, [[COPD]], pneumonia)  
 - Ischemia/Infarction/CAD  
 - Rheumatic heart disease and Mitral Regurgitation (abnormal heart valve)  
-- Alcohol / Anaemia (high output failure)  
+- Alcohol / [[anaemia|Anaemia]] (high output failure)  
 - [[hyperthyroidism|Thyrotoxicosis]] / Toxins, especially stimulant medications, caffeine, tobacco or alcohol  
 - Electrolytes/Endocarditis  
 - Sepsis (infection) / Sick sinus syndrome.

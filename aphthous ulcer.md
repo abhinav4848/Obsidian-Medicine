@@ -30,7 +30,7 @@ Precipitating factors include:
 - People of high socioeconomic status 
 # When to investigate
 Investigations are generally unnecessary. 
-Investigations should be considered (e.g. FBC, ESR, ferritin, folate and vitamin B12) if an underlying systemic disease is suspected based on history and examination findings. 
+Investigations should be considered (e.g. FBC, ESR, [[anaemia|ferritin]], folate and vitamin B12) if an underlying systemic disease is suspected based on history and examination findings. 
 # Management
 Avoidance of precipitating factors. 
 Symptomatic treatment for pain, discomfort, and swelling
