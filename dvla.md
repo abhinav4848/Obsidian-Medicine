@@ -34,8 +34,14 @@ urls:
 * Stroke / TIA → 1 month off. No need to inform DVLA if no FND residual
 * Multiple TIA over short period → 3 months off + inform DVLA
 * Craniotomy (e.g. meningioma) → 1 year off
+* Benign meningioma & no seizure history, license can be reconsidered 6 months after surgery if remains seizure free. 
 * Pituitary tumour → craniotomy → 6/12 off
 * Narcolepsy / cataplexy → resume once satisfactory control of symptoms
+
+---
+## Dementia
+G1: The presence of impaired short-term memory, disorientation, or loss of insight suggests someone with dementia is not fit to drive.
+G2: must not drive.
 
 ---
 # OSA
