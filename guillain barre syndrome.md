@@ -1,6 +1,8 @@
 ---
 aliases:
   - Guillain-Barré syndrome
+  - GBS
+  - Miller Fisher syndrome
 tags:
   - neurology
 ---
@@ -9,7 +11,6 @@ tags:
 2. Progressive bilateral/symmetrical leg numbness and weakness for a week and is now finding it increasingly difficult to walk. 
 3. Risk of [[bulbar and pseudobulbar palsy|bulbar]] and respiratory muscle involvement -> can lead to rapid deterioration requiring intensive care.
 
- 
 # Miller Fisher syndrome  
 - variant of Guillain-Barre syndrome
 - associated with ophthalmoplegia, areflexia and ataxia. The eye muscles are typically affected first

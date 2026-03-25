@@ -5,6 +5,8 @@ urls:
   - https://dermnetnz.org/topics/erythema-multiforme
   - https://www.nhs.uk/conditions/erythema-multiforme/
   - https://www.pcds.org.uk/clinical-guidance/erythema-multiforme
+aliases:
+  - Steven Johnson syndrome
 ---
 *See other [[erythemas]].*
 
@@ -38,7 +40,7 @@ Otherwise, baseline bloods, throat swab for strep.
 **Supportive treatment** is all that is required for the majority
 
 ---
-# Steven Johnson syndrome
+# Steven Johnson syndrome %%linked%%
 Has necrosis, sloughing, fever, bullae. Also, 2 mucus membranes (e.g. Conjunctivitis, oral ulcer, GI tract causing diarrhoea) involved in SJS
 
 #mnemonic  SNAC

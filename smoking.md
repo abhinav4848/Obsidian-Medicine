@@ -21,11 +21,11 @@ They should be given as part of a plan to stop smoking on or before a particular
 - Do not offer NRT (nicotine replacement therapy), varenicline or bupropion in any combination with one another. 
 ## Quitting date
 
-| Treatment   | When to start              | Supply    |
-| ----------- | -------------------------- | --------- |
-| NRT         | On the quit date           | 2 weeks   |
-| Varenicline | 1 week before quit date    | 3-4 weeks |
-| Bupropion   | 1-2 weeks before quit date | 3-4 weeks |
+| Treatment   | When to start              | Supply    | Standard course                           |
+| ----------- | -------------------------- | --------- | ----------------------------------------- |
+| NRT         | On the quit date           | 2 weeks   |                                           |
+| Varenicline | 1 week before quit date    | 3-4 weeks | 12 weeks, with review before continuation |
+| Bupropion   | 1-2 weeks before quit date | 3-4 weeks |                                           |
 
 # NRT
 - can cause N&V, headache, flu-like symptoms. 
@@ -41,7 +41,7 @@ Varenicline works by partially activating the *nicotinic acetylcholine receptor*
 - recommended course of treatment is 12 weeks. Only continue treatment at any point if patient not smoking. 
 - use with caution if h/o depression/self-harm. 
 - c/i in [[drugs contraindicated in pregnancy|pregnancy]] & breastfeeding. 
-Also has cyclocynicline
+Also has Cytisinicline
 # Bupropion
 Atypical antidepressant: Norepinephrine and dopamine reuptake inhibitor, and nicotinic acetylcholine antagonist.
 - This doesn't cause a dip in dopamine level like the smoking does after raising it first. 
@@ -51,7 +51,7 @@ Unlike many [[depression|antidepressants]], it has minimal effect on serotonin.
 - Start 1-2 weeks before target date to stop. 
 - small risk of seizures (1 in 1000 in patients with no seizure risk)
 	- Other antidepressants (Fluoxetine, prozac, etc are also 1:1000 risk)
-- c/i in [[epilepsy]], [[drugs contraindicated in pregnancy|pregnancy]], breastfeeding. 
+- c/i in [[seizure|epilepsy]], [[drugs contraindicated in pregnancy|pregnancy]], breastfeeding. 
 - Having an eating disorder is a relative contraindication. 
 
 Can given Days 1-6: 150mg OD for 6 days, 150mg BD for 14 days, 150mg BD from day 15+
@@ -68,5 +68,5 @@ NICE recommended in 2010 that all pregnant women should be tested for smoking us
 	- motivational interviewing or 
 	- structured self-help and 
 	- support from NHS Stop Smoking Services
-- the evidence for the use of NRT in pregnancy is mixed but it is often used if the above measures failure. There is no evidence that it affects the child's birthweight. **Pregnant women should remove the patches before going to bed**
+- the evidence for the use of NRT (but not V or B) in pregnancy is mixed but it is often used if the above measures failure. There is no evidence that it affects the child's birthweight. **Pregnant women should remove the patches before going to bed**
 - Varenicline and bupropion are contraindicated

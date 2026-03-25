@@ -10,7 +10,8 @@ aliases:
 
 ---
 # Haemolytic uraemic syndrome
-Haematuria after bloody diarrhoea: Diarrhoea that turns bloody 2-3 days later. (E. Coli O157 contaminated food -> Shiga toxin)
+Haematuria after bloody diarrhoea: Diarrhoea that turns bloody 2-3 days later. 
+(E. Coli H7:0157 contaminated food > Shiga toxin) (*see [[guillain barre syndrome|GBS]]*)
 
 Age < 5 yo.
 ### Clinical Features

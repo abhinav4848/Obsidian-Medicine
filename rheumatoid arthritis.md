@@ -46,6 +46,8 @@ A variety of respiratory problems may be seen in patients with rheumatoid arthri
 - infection (possibly atypical) secondary to immunosuppression
 
 # Drug side effects
-[[Methotrexate]]: Myelosuppression, Liver cirrhosis, [[interstitial lung disease vs pneumonitis|pneumonitis]]  
-Sulfasalazine ([BNF](https://bnf.nice.org.uk/drugs/sulfasalazine/#side-effects)): Rashes, Oligospermia, Heinz body anaemia, [[interstitial lung disease vs pneumonitis|interstitial lung disease]] 
-[[Leflunomide]]: Liver impairment, Interstitial lung disease (interstitial pnuemonitis), Hypertension 
+- [[Methotrexate]]: Myelosuppression, Liver cirrhosis, [[interstitial lung disease vs pneumonitis|pneumonitis]]  
+- Sulfasalazine ([BNF](https://bnf.nice.org.uk/drugs/sulfasalazine/#side-effects)): Rashes, Oligospermia, Heinz body anaemia, [[interstitial lung disease vs pneumonitis|interstitial lung disease]], [[erythema multiforme#Steven Johnson syndrome linked|Steven Johnson syndrome]]
+	- #interaction : Allergy to Aspirin/acetylsalicylic acid or sulphonamides is contraindication for using sulfasalazine/5-ASA/5-Aminosalicylate. (cross-reactivity). 
+	- Caution in [[G6PD deficiency]]. 
+- [[Leflunomide]]: Liver impairment, Interstitial lung disease (interstitial pnuemonitis), Hypertension 
