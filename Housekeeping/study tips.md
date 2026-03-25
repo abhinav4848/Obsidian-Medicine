@@ -8,6 +8,8 @@ tags:
 # Target marks
 Aim for AKT results above 70%. 
 
+See: [Essential GP training](https://essentialgptrainingbook.com/ch23/)
+
 ---
 # AKT summary report
 look at the most recent AKT summary report and improve on that. 
@@ -38,7 +40,6 @@ CPD catalogue by RCGP: https://elearning.rcgp.org.uk/local/rcgp_coursedisplay/in
 ---
 # Calgary guide to understanding disease 
 Flowcharts: https://calgaryguide.ucalgary.ca/ 
-
 # Cancer symptom & cause
 Cancer Map by Gateway C: 
 - https://www.gatewayc.org.uk/the-cancer-maps/
