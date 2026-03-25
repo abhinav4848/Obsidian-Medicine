@@ -52,3 +52,6 @@ Virus lies dormant in dorsal root/cranial nerve (facial) ganglia.
 	- resolves in 6 months but may last longer. 
 - herpes zoster ophthalmicus (shingles affecting ocular division of trigeminal nerve)
 - herpes zoster oticus (Ramsay Hunt syndrome)- may result in ear lesions and facial paralysis. 
+	- #triad : Otalgia, Facial nerve palsy, Vesicular eruptions
+	- oral aciclovir & corticosteroid given
+	- Advice to tape the eye at night & refer to eye casualty

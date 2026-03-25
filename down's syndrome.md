@@ -5,7 +5,7 @@ tags:
   - obstetrics
 ---
 [[down's syndrome statistics]]
-
+See: [[childhood syndromes]]. 
 # Screening in Pregnancy
 Down syndrome screening can be divided into the different screening tests available for patients:  
 

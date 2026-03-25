@@ -1,16 +1,26 @@
 ---
 aliases:
   - NIPE
+  - Newborn & Infant Physical Examination
+  - Child health surveillance
+  - Healthy Child Program
 urls:
   - "[Healthy Child Program](https://www.gov.uk/government/collections/healthy-child-programme)"
   - "[NIPE on Gov.uk](https://www.gov.uk/government/publications/newborn-and-infant-physical-examination-programme-handbook/newborn-and-infant-physical-examination-screening-programme-handbook#newborn-and-infant-physical-screening-examination-nipe)"
 tags:
   - paeds
 ---
-# NIPE: Newborn & Infant Physical Examination.
-This goes step by step. If one is negative (no abnormality detected), go to next: 
-1. NIPE newborn screening examination
-2. NIPE infant screening examination (6-8 weeks old)
-3. Care should follow the [Healthy Child Program](https://www.gov.uk/government/collections/healthy-child-programme). 
+# Healthy Child Program
+***Old Name**: Child health surveillance*
+Care should follow the [Healthy Child Program](https://www.gov.uk/government/collections/healthy-child-programme)
+See: [NIPE Source](https://www.gov.uk/government/publications/newborn-and-infant-physical-examination-programme-handbook/newborn-and-infant-physical-examination-screening-programme-handbook#newborn-and-infant-physical-screening-examination-nipe). 
 
-[NIPE Source](https://www.gov.uk/government/publications/newborn-and-infant-physical-examination-programme-handbook/newborn-and-infant-physical-examination-screening-programme-handbook#newborn-and-infant-physical-screening-examination-nipe). 
+|                      |                                                                                                                                                                                                              |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Antenatal**        | Ensure intrauterine growth  <br>Check for maternal infections e.g. HIV  <br>Ultrasound [[down's syndrome\|scan]] for fetal abnormalities  <br>Blood tests for Neural Tube Defects                            |
+| **Newborn**          | NIPE newborn screening examination within 72 hrs<br>Newborn [[hearing test in children\|hearing]] Screening Programme e.g. oto-acoustic emissions test  <br>Give mother Personal Child Health Record         |
+| **First month**      | [[guthrie test\|Heel-prick test day 5-9]] - hypothyroidism, cystic fibrosis, Sickle cell, metabolic diseases, PKU, medium-chain acyl Co-A dehydrogenase deficiency (MCADD)  <br>Midwife visit up to 4 weeks* |
+| **Following months** | Health visitor input  <br>GP examination- NIPE infant screening (6-8 weeks old)<br>Routine [[immunisation schedule (paeds)\|immunisation]]                                                                   |
+| **Pre school**       | National orthoptist-led programme for pre-school vision screening to be introduced                                                                                                                           |
+| **Ongoing**          | Monitoring of growth, vision, hearing  <br>Health professionals advice on immunisations, diet, accident prevention                                                                                           |
+\*this doesn't seem to happen in practice with health visitors usually taking over at 2 weeks
