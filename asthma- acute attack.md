@@ -15,6 +15,7 @@ Moderate Asthma:
 - Salbutamol 5mg (or terbutaline 10mg) via spacer, or Oxygen driven nebuliser
 	- 4-6 puffs, given one at a time and inhaled separately, repeated at intervals of 10-20 minutes. 
 - If [[spirometry|PEFR]] between 50-75% then prednisolone 40-50mg #steroid 
+	- (*30mg is given in acute exacerbation of COPD*)
 
 If severe:
 - Consider admission

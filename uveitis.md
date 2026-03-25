@@ -18,9 +18,10 @@ Common associated conditions:
 Acute HLA-B27 anterior uveitis is usually:
 - Sudden onset, Unilateral, painful eye
 - Photophobia
-- Red eye with ciliary flush
+- [[red eye]] with ciliary flush
 - May recur and alternate between eyes
 - The pupil may be small and irregularly shaped due to spasm of the sphincter muscle in the iris.
+- No FB sensation
 
 | Term                  | Description                                                                                                                             |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |

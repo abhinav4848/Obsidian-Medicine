@@ -13,180 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "immunisation schedule (paeds).md",
+                "file": "keratitis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "immunisation schedule (paeds)"
-            }
-          },
-          {
-            "id": "803885f451974d44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "erythemas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "erythemas"
-            }
-          },
-          {
-            "id": "529ef7ac9851fedd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "methotrexate.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "methotrexate"
-            }
-          },
-          {
-            "id": "805a7f05f6fddd1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chlamydia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "chlamydia"
-            }
-          },
-          {
-            "id": "3fb4a6a301b6608b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "atrial fibrillation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "atrial fibrillation"
-            }
-          },
-          {
-            "id": "6bfc8bd22da18ffd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "immunisation (contraindications).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "immunisation (contraindications)"
-            }
-          },
-          {
-            "id": "29246feea89cf060",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hrt- negatives.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "hrt- negatives"
-            }
-          },
-          {
-            "id": "c8369a6a6660ff58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dvla.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "dvla"
-            }
-          },
-          {
-            "id": "595251c2849cb479",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "incontinence- adult.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "incontinence- adult"
-            }
-          },
-          {
-            "id": "ea3b062c12bcb6de",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.nice.org.uk/guidance/ng136/resources/visual-summary-pdf-6899919517",
-                "title": "NG136 Hypertension in adults: Visual summary 23/07/2025",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "NG136 Hypertension in adults: Visual summary 23/07/2025"
-            }
-          },
-          {
-            "id": "3ca740fcf4a1eb3b",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.nice.org.uk/guidance/ng136/resources/visual-summary-pdf-6899919517",
-                "title": "NG136 Hypertension in adults: Visual summary 23/07/2025",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "NG136 Hypertension in adults: Visual summary 23/07/2025"
-            }
-          },
-          {
-            "id": "b75ad0e44dbe502a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hearing loss.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "hearing loss"
+              "title": "keratitis"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bph",
+                "query": "keratiti",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -264,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "incontinence- adult.md",
+                "file": "keratitis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -292,7 +128,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of incontinence- adult"
+              "title": "Graph of keratitis"
             }
           }
         ]
@@ -404,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "incontinence- adult.md",
+                "file": "keratitis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -414,7 +250,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for incontinence- adult"
+              "title": "Backlinks for keratitis"
             }
           }
         ]
@@ -434,39 +270,39 @@
       "graph:Open graph view": false
     }
   },
-  "active": "595251c2849cb479",
+  "active": "d1185706e5980684",
   "lastOpenFiles": [
-    "prostate.md",
-    "hernias.md",
-    "dvla.md",
-    "stats- graphical representations.md",
-    "attachments/box-and-whisker plot.png",
+    "red eye.md",
+    "keratitis.md",
+    "uveitis.md",
+    "endophthalmitis.md",
+    "loss of vision.md",
+    "upper limb ortho problems.md",
+    "lower limb ortho problems.md",
+    "vertigo- test & causes.md",
+    "osteochondritis dissecans.md",
+    "asthma- acute attack.md",
+    "copd- acute exacerbation.md",
+    "immunisation schedule (paeds).md",
+    "erythemas.md",
+    "methotrexate.md",
+    "chlamydia.md",
+    "atrial fibrillation.md",
+    "immunisation (contraindications).md",
     "hrt- negatives.md",
-    "hypertension.md",
-    "diabetes treatment.md",
-    "cancer- screening programs.md",
-    "cancer- cervical.md",
+    "dvla.md",
+    "incontinence- adult.md",
+    "hearing loss.md",
+    "inflammatory bowel disease.md",
+    "coeliac disease.md",
+    "primary biliary cholangitis & primary sclerosing cholangitis.md",
+    "shin lesions.md",
+    "fitness to fly.md",
+    "attachments/box-and-whisker plot.png",
     "flow charts/cervical cancer screening pathway.canvas",
-    "bell's palsy.md",
-    "bulbar and pseudobulbar palsy.md",
-    "cervicitis.md",
-    "cell histology.md",
     "attachments/auer rods- aml.png",
     "attachments/atropa belladona.pdf",
     "attachments/crao.png",
-    "crao.md",
-    "alopecia.md",
-    "angina.md",
-    "aphthous ulcer.md",
-    "benzylpenicillin.md",
-    "guillain barre syndrome.md",
-    "immunisation (contraindications).md",
-    "upper limb ortho problems.md",
-    "smoking.md",
-    "rheumatoid arthritis.md",
-    "leflunomide.md",
-    "erythema multiforme.md",
-    "reactive arthritis.md",
     "desktop.ini",
     "flow charts/hypertension management.canvas",
     "attachments/eczema vs psoriasis treatment.png",
