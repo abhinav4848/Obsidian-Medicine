@@ -28,13 +28,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anaemia.md",
+                "file": "pre-eclampsia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "anaemia"
+              "title": "pre-eclampsia"
+            }
+          },
+          {
+            "id": "48c6d331b7cb7c1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surgery- recovery times.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "surgery- recovery times"
             }
           },
           {
@@ -53,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,8 +132,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -131,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "anaemia.md",
+                "file": "surgery- recovery times.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,7 +173,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of anaemia"
+              "title": "Graph of surgery- recovery times"
             }
           }
         ]
@@ -271,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anaemia.md",
+                "file": "surgery- recovery times.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +295,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for anaemia"
+              "title": "Backlinks for surgery- recovery times"
             }
           }
         ]
@@ -301,10 +315,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e8655fe722644f1f",
+  "active": "48c6d331b7cb7c1b",
   "lastOpenFiles": [
-    "ankylosing spondylitis.md",
+    "attachments/evidencebasedrecoverytimes.pdf",
+    "pre-eclampsia.md",
+    "surgery- recovery times.md",
     "anaemia.md",
+    "ankylosing spondylitis.md",
     "cancer- colorectal.md",
     "ferritin.md",
     "pernicious anemia.md",
@@ -331,9 +348,6 @@
     "endophthalmitis.md",
     "loss of vision.md",
     "upper limb ortho problems.md",
-    "lower limb ortho problems.md",
-    "vertigo- test & causes.md",
-    "osteochondritis dissecans.md",
     "attachments/box-and-whisker plot.png",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/auer rods- aml.png",

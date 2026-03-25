@@ -1,10 +1,10 @@
 {
   "baseFontSize": 16,
   "enabledCssSnippets": [
-    "red-border",
-    "obvious-bold",
+    "headers",
     "inverted-image",
-    "headers"
+    "obvious-bold",
+    "red-border"
   ],
-  "theme": "obsidian"
+  "theme": "system"
 }
