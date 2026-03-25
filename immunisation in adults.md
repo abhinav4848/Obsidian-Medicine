@@ -6,10 +6,12 @@ aliases:
   - Pneumococcal polysaccharide vaccine
   - vaccines
   - adult vaccination
+  - Influenza virus
+  - Influenza immunisation
 urls:
   - "[NHS immunisation schedule for doctors](https://www.gov.uk/government/publications/the-complete-routine-immunisation-schedule)"
 ---
-*See [[vaccine types]] & [[immunisation schedule (paeds)|immunisation schedule]]*. 
+*See [[vaccine types]] & [[immunisation schedule (paeds)]]*. 
 
 # Adult routine vaccination
 - 65yo- Given PPV 23 or PCV20 if PPV23 stock is over
@@ -44,6 +46,7 @@ Usually a one-off but every 5 years if spleen/CKD.
 | **CSF leaks**                                      | –                                                                                                                                             | –                                                                                      |
 
 # Influenza
+Influenza can lead to [[pneumonia|staph pneumonia]]. 
 [DoH Green Book- Influenza](https://www.gov.uk/government/publications/influenza-the-green-book-chapter-19) Given against influenza virus A,B,C. (A&B cause most cases). 
 They're effective for one flu season. 
 

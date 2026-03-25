@@ -6,6 +6,7 @@ aliases:
   - central retinal vein occlusion
   - retinal vein occlusion
   - Branched retinal vein occlusion
+cssclasses:
 ---
 Sudden, painless, u/l [[loss of vision]]. 
 # Fundoscopy

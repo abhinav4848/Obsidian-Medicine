@@ -5,6 +5,8 @@ aliases:
 tags:
   - respiratory
 revision counter: 1
+cssclasses:
+  - invert-image
 ---
 ![[asthma- table of contents]]
 
@@ -13,7 +15,7 @@ revision counter: 1
 
 # When to suspect asthma
 [NICE topics asthma](https://cks.nice.org.uk/topics/asthma/diagnosis/diagnosis/), [Asthma UK triggers](https://www.asthmaandlung.org.uk/conditions/asthma/asthma-triggers)
-**Suspect a diagnosis of asthma if a person presents with:**
+Suspect a diagnosis of asthma if a person presents with:
 - **Variable symptoms of wheeze, noisy breathing, cough, breathlessness, and/or chest tightness.**
 	- Symptoms are commonly episodic and variable over time and in intensity (may be worse at night, on waking, or seasonal).
 	- Symptoms may be [triggered (NICE)](https://cks.nice.org.uk/topics/asthma/background-information/risk-factors-triggers/) or exacerbated by exercise, laughter, crying, viral respiratory tract infection, environmental source of their symptoms (e.g. mould in the home, changes in temperature or humidity i.e. cold/damp air, smokers or indoor air pollution, pet hair), or use of [[NSAID]]s or beta-blockers, pet hair.
@@ -26,7 +28,7 @@ revision counter: 1
 
 ---
 # Diagnose Asthma
-### Differences
+### Differences with age
 
 | Adult > 16yo                                           | Child 5-16                                    | <5                                                                                           |
 | ------------------------------------------------------ | --------------------------------------------- | -------------------------------------------------------------------------------------------- |
@@ -40,7 +42,7 @@ revision counter: 1
 NICE has adopted a stepwise approach to diagnostic testing: you do a test; if it is positive, asthma is confirmed and no further testing is needed; if it is negative, you proceed to the next test, and so on.
 >[!Notice]- Algorithm
 >[NG245](https://www.nice.org.uk/guidance/ng245/resources/bts-nice-and-sign-algorithm-a-summary-of-objective-tests-for-diagnosing-asthma-pdf-13556516365)
->![[diagnose asthma in people over 16yo.jpg]]
+>![[asthma- diagnose in over 16yo.jpg]]
 ### First line investigation
 Measure eosinophil count OR Fractional Nitric Oxide ([[asthma- investigations#Fractional exhaled nitric oxide (FeNO)|FeNO]])
 Can diagnose asthma without further investigations if:
@@ -61,7 +63,7 @@ If asthma still not confirmed with Eosinophil count, FeNO, BDR, PEF variability 
 ## Diagnose asthma in children aged 5-16yo
 [NICE CG245- Asthma](https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#objective-tests-for-diagnosing-asthma-in-adults-young-people-and-children-aged-5-to-16-with-a) 
 >[!Notice]- Algorithm
->![[diagnose asthma in ages 5-16yo.jpg]]
+>![[asthma- diagnose in ages 5-16yo.jpg]]
 
 FeNO >= 35ppb
 

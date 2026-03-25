@@ -7,6 +7,9 @@ aliases:
   - management of stable asthma in adults
 urls:
   - "[NICE NG245- Asthma](https://www.nice.org.uk/guidance/ng245)"
+cssclasses:
+  - invert-image
+  - red-border
 ---
 ![[asthma- table of contents]]
 # New diagnosis of Asthma in patients aged >=12yo
@@ -19,7 +22,9 @@ AIR & MART contain the same ICS/Formoterol combo. So the name is only to emphasi
 | **Step 3** | a moderate-dose MART                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | **Step 4** | [NICE](https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#pharmacological-management-in-people-aged-12-and-over:~:text=Check%20the%20fractional%20exhaled%20nitric%20oxide%20\(FeNO\)%20level%20if%20available "NICE - 2024 Asthma: diagnosis, monitoring and chronic asthma management (BTS, NICE, SIGN)") <br>- If Asthma not controlled despite med MART, check for type 2 inflammation with [[asthma- investigations\|FeNO]] & blood eosinophil count <br>    - if either is raised, refer to a specialist in asthma care<br>    - if neither is raised, add on LTRA/LAMA to mod MART<br>	    - if control has not improved, stop the LTRA or LAMA and start a trial of the alternative medicine (LTRA or LAMA)                                                                                                                                                           |
 | **Step 5** | - If still not controlled after moderate-dose MART + trials of an LTRA and a LAMA ->refer people to a specialist in asthma care.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-![[asthma management in adults 2024 guidelines.jpg]]
+
+![[asthma management in adults 2024 guidelines.jpg]] 
+From [NG245](https://www.nice.org.uk/guidance/ng245/chapter/Recommendations#pharmacological-management-in-people-aged-12-and-over) 
 
 ## Old vs new guideline for Adults
 see [[asthma- old management]] 

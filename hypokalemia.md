@@ -3,6 +3,7 @@ tags:
   - endocrine
 aliases:
   - hypokalaemia
+cssclasses:
 ---
 *see also [[hyperkalemia|Hyperkalaemia]].* 
 # Causes
@@ -19,7 +20,7 @@ aliases:
 
 # Clinical Features
 Fainting, Tiredness, Weakness, Leg Cramps. 
-ECG: [[qt prolongation|long QT syndrome]], Depressed ST segment & T wave, U wave on ECG.
+**ECG**: [[qt prolongation|long QT syndrome]], Depressed ST segment & T wave, U wave on ECG.
 Predisposes to [[Digoxin]] toxicity.
 
 | ECG changes in Hypokalemia | Hypo vs [[hyperkalemia\|Hyperkalaemia]] |

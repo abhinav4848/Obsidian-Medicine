@@ -6,13 +6,6 @@ tags:
 Digoxin level is not monitored routinely except in suspected toxicity.
 Toxicity can occur even within therapeutic range.
 # Toxicity
-### Symptoms
-- nausea, vomiting, lethargy, confusion
-- [[gynaecomastia]]
-- Arrhythmias (AV Block, Bradycardia)
-- Confusion
-- Xanthopsia: Yellow-green vision
-- [[eating disorder|anorexia]]
 ### Causes
 **Drugs**: Amiodarone, quinidine, verapamil, diltiazem, [[spironolactone]] (competes for secretion in distal convoluted tubule therefore reduce excretion), ciclosporin.
 
@@ -21,6 +14,13 @@ Drugs which cause [[hypokalemia]] e.g. thiazides and loop diuretics
 
 Increasing age -> due to reduced eGFR
 Renal failure, dehydration
+### Symptoms
+- nausea, vomiting, lethargy, confusion
+- [[gynaecomastia]]
+- Arrhythmias (AV Block, Bradycardia)
+- Confusion
+- Xanthopsia: Yellow-green vision
+- [[eating disorder|anorexia]]
 # Treatment
 Digoxin-specific antibody fragments #antidote 
 Digibind
