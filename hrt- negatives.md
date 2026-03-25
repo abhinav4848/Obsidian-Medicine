@@ -16,13 +16,15 @@ urls:
 - History of [[cancer- breast (treatment)|Breast Cancer]] (80% are ER +ve) or oestrogen-dependent tumour ([[cancer- endometrial|Endometrial Cancer]] driven by unopposed oestrogen)
 	- High risk of breast cancer
 	- Known or suspected oestrogen dependent cancer
+	- Adding a progesterone to HRT (combined HRT) increases risk of breast cancer. However, low dose progesterone w/o Oestrogen doesn't. 
+	- Oestrogen-only HRT doesn't appear to increase risk of breast cancer if used for less than 10 years. However, it will increase risk of endometrial cancer. So don't give by itself if uterus+. 
 - Untreated endometrial hyperplasia. 
 - Undiagnosed vaginal bleeding.
 - Uncontrolled [[hypertension]] or Uncontrolled [[diabetes treatment|Diabetes Mellitus]]. 
 - Clotting disorders
 	- Arterial thromboembolic disease.
 	- Current or recurrent VTE.
-	- High risk of VTE
+	- High risk of VTE -> transdermal HRT doesn't increase risk of VTE
 	- Thrombophillic disorder (seek advice from haematology)
 	- Strong family history of VTE
 - Liver disease (with abnormal LFTs).

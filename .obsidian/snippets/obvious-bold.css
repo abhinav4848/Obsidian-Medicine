@@ -16,8 +16,7 @@
 /* If a line is 100% width, then 0 to 50%, there's no gradient, just the color specified */
 /* Then From 60% to 100% of the width, it'll be transparent */
 /* Between 50-60%, CSS colour transition applies */
-/* .theme-dark strong,
-.theme-dark .cm-strong {
+/* .theme-dark .cm-strong {
   text-decoration: none;
   background-image: linear-gradient(to right, rgba(255,107,107,0.6) 50%, transparent 60%);
   background-size: 6px 1px;

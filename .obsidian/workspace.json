@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bell's palsy.md",
+                "file": "hrt- negatives.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "bell's palsy"
+              "title": "hrt- negatives"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "screening",
+                "query": "hrt",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -234,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "bell's palsy.md",
+                "file": "hrt- negatives.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of bell's palsy"
+              "title": "Graph of hrt- negatives"
             }
           }
         ]
@@ -374,7 +374,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bell's palsy.md",
+                "file": "hrt- negatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -384,7 +384,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bell's palsy"
+              "title": "Backlinks for hrt- negatives"
             }
           }
         ]
@@ -406,10 +406,14 @@
   },
   "active": "29246feea89cf060",
   "lastOpenFiles": [
-    "bulbar and pseudobulbar palsy.md",
-    "bell's palsy.md",
+    "hypertension.md",
+    "hrt- negatives.md",
+    "diabetes treatment.md",
     "cancer- screening programs.md",
     "cancer- cervical.md",
+    "flow charts/cervical cancer screening pathway.canvas",
+    "bell's palsy.md",
+    "bulbar and pseudobulbar palsy.md",
     "cervicitis.md",
     "cell histology.md",
     "attachments/auer rods- aml.png",
@@ -432,9 +436,6 @@
     "pneumonia.md",
     "shingles.md",
     "hearing test in children.md",
-    "newborn Infant physical examination.md",
-    "guthrie test.md",
-    "down's syndrome.md",
     "desktop.ini",
     "flow charts/hypertension management.canvas",
     "attachments/eczema vs psoriasis treatment.png",
@@ -447,7 +448,6 @@
     "flow charts/h. pylori treatment flowchart.canvas",
     "attachments/Pasted image 20260323123041.png",
     "attachments/Pasted image 20260323123103.png",
-    "flow charts/cervical cancer screening pathway.canvas",
     "flow charts/prostaglandins and leukotrienes.canvas",
     "video scripts",
     "alex",

@@ -30,12 +30,18 @@ Consider 2ww if:
 - *see full list [[cancer- breast (referral criteria)|here]].* 
 If under 30, routine referral. 
 
-# [[cancer- cervical|Cervical cancer]]
+# [[cancer- cervical|Cervical cancer]] %%linked%%
 Pap smear. 
 25-49yo: every 3 years. 
 50-64yo: every 5 years. 
-if HIV +ve annually. 
+##### Special situations
+- cervical screening in pregnancy is usually delayed until 3 months post-partum unless missed screening or previous abnormal smears.
+- women who have never been sexually active have a very low risk of developing cervical cancer therefore they may wish to opt out of screening
+- **HIV-positive women**:
+    - Annual cervical cytology, starting at the time of diagnosis, regardless of age & undetectable viral load. 
+    - colposcopy is indicated if any abnormal cytology is found
 
+It is said that the best time to take a cervical smear is around mid-cycle. Whilst there is limited evidence to support this it is still the current advice given out by the NHS.
 # [[abdominal aortic aneurysm|Aortic aneurysm]]
 Single abdominal ultrasound is done at age 65 years to screen for AAA.
 

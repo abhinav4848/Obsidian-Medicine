@@ -13,7 +13,7 @@ It's an LMN lesion.
 	- (Stroke, being a UMN lesion, **spares** forehead).
 - Patients may notice post auricular pain (may precede palsy),
 - altered taste,
-- dry eyes (punctate fluroscein staining of cornea on fluroscein dye),
+- dry eyes (punctate fluorescein staining of cornea on fluorescein dye),
 - hyperacusis.
 
 **Rx**: Prednisolone high dose 10 days started within 72 hrs of onset of Bell's palsy. If no resolution in 3 weeks, refer urgently to ENT. 
@@ -21,6 +21,6 @@ If many months of weakness, refer to plastics.
 
 **Facial nerve branches**: *To zanzibar by motor car*: Temporal, Zygomatic, Buccal, Marginal mandibular, Cervical. #mnemonic 
 
-| u/l facial palsy                                                                                             | b/l facial palsy                                                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Bell's<br>[[shingles\|Ramsay Hunt]] (herpes zoster)<br>Acoustic neuroma<br>Parotid tumour<br>HIV<br>MS<br>DM | [Sarcoidosis]<br>[[guillain barre syndrome\|Guillain-Barré syndrome]]<br>Lyme<br>B/l acoustic neuroma (as seen in neurofibromatosis type 2)<br>Bell's palsy rarely |
+| u/l facial palsy                                                                                             | b/l facial palsy                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bell's<br>[[shingles\|Ramsay Hunt]] (herpes zoster)<br>Acoustic neuroma<br>Parotid tumour<br>HIV<br>MS<br>DM | [[Sarcoidosis]]<br>[[guillain barre syndrome\|Guillain-Barré syndrome]]<br>Lyme<br>B/l acoustic neuroma (as seen in neurofibromatosis type 2)<br>Bell's palsy rarely |

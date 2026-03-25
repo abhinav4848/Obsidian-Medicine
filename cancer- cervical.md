@@ -20,17 +20,17 @@ Early first intercourse, many sexual partners, high parity, lower socioeconomic 
 > - **Moderate/Severe dyskaryosis/Suspected invasive cancer**: Urgent colposcopy (2 weeks)
 > - **Inadequate sample 3 times**: Colposcopy.
 # Current screening pathway
-*See [[cancer- screening programs]]*
+*See [[cancer- screening programs#cancer- cervical Cervical cancer linked|Screening]]* in special conditions. 
 See [[cervical cancer screening pathway.canvas]]
 
 High risk-HPV test.
 
 **+ve**: Cytology triage
-	Cytology normal: rescreen in 12 months 
+	**Cytology normal**: rescreen in 12 months 
 		if still +ve hrHPV but cytology normal at 12 months -> call again in further 12 months. 
 			If +ve hrHPV again at 24 months -> colposcopy
 			If -ve hrHPV at 24 months, return to routine recall
-	Cytology abnormal: Colposcopy referral
+	**Cytology abnormal**: Colposcopy referral
 **-ve**: Routine recall
 	3 years for 25-49
 	5 years for >=50-64
