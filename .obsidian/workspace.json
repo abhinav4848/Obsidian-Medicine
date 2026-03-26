@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "consultation models.md",
+                "file": "statins.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "consultation models"
+              "title": "statins"
             }
           },
           {
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "study",
+                "query": "statin",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "consultation models.md",
+                "file": "statins.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of consultation models"
+              "title": "Graph of statins"
             }
           }
         ]
@@ -301,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "consultation models.md",
+                "file": "statins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for consultation models"
+              "title": "Backlinks for statins"
             }
           }
         ]
@@ -333,8 +333,8 @@
   },
   "active": "c14f2dc115ae2da9",
   "lastOpenFiles": [
-    "housekeeping/study tips.md",
     "consultation models.md",
+    "housekeeping/study tips.md",
     "forms.md",
     "fit note.md",
     "controlled drugs.md",
