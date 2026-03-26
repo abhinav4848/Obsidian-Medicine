@@ -2,6 +2,8 @@
 tags:
   - ortho
   - list
+cssclasses:
+  - red-border
 ---
 
 *See [[upper limb ortho problems]].* 

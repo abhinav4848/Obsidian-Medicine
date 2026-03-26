@@ -2,9 +2,7 @@
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "headers",
-    "inverted-image",
     "obvious-bold",
     "red-border"
-  ],
-  "theme": "system"
+  ]
 }
