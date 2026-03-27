@@ -12,8 +12,8 @@ Faecal immunochemical test (FIT).
 50 - 74yo (Scotland).
 *Then on request a kit every 2 years*
 
-Phone: 0800-707-... 
-
+Local hub Phone: 0800-707-... 
+##### Practical Note
 Screening FIT test reacts to a higher threshold (>80), but a symptomatic FIT test reacts to a much lower threshold because the pre-test probability is higher. 
 
 The results from screening test doesn't tell you your actual number as it's privileged information. You can get the number by emailing bowel screening hub. Old number was 120, now will be 80 and this change picked up 1/3rd more high risk polyps. 
@@ -41,7 +41,7 @@ Pap smear.
 25-49yo: every 3 years. 
 50-64yo: every 5 years. 
 
-Now that we're testing for actual HPV and not just looking at cells, we can call every 5 years. 
+**Upcoming**: *Now that we're testing for actual HPV and not just looking at cells, we can call every 5 years.* 
 Attend your screening regardless of sexual activity. 
 
 MCC of not doing it is worry of pain, too embarrassed to go, bad experience in the past, worried a man may be doing it. 
@@ -53,13 +53,14 @@ MCC of not doing it is worry of pain, too embarrassed to go, bad experience in t
     - colposcopy is indicated if any abnormal cytology is found
 
 It is said that the best time to take a cervical smear is around mid-cycle. Whilst there is limited evidence to support this it is still the current advice given out by the NHS.
-# [[abdominal aortic aneurysm|Aortic aneurysm]]
-Single abdominal ultrasound is done at age 65 years to screen for AAA.
+
+# Others
+- [[guthrie test|Neonatal blood spot screening]]. 
+- [[abdominal aortic aneurysm|Aortic aneurysm]]: Single abdominal ultrasound is done at age 65 years to screen for AAA.
+- There's also diabetic retinopathy screen, etc. 
 
 ---
 - **Upcoming**: Lung cancer screening. Currently known as *targeted lung health checks*. Lung cancer survival at stage 1 is much better than stage 4. H/o smoking, 55-74 yo, found to be high risk for lung cancer. Low dose spiral CT done every 2 years. 
-- See: [[guthrie test|Neonatal blood spot screening]]. 
-- There's also diabetic retinopathy screen, etc. 
 
 ---
 *See [[tumour marker]].* 
