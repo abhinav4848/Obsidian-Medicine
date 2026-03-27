@@ -9,12 +9,12 @@ urls:
 - gathering information
 - building the relationship
 - giving information, explaining and planning
-- closing the session
+- closing the session 
 ##### Stewart - patient-centred clinical method - 1995, 2003  
 - exploring both the disease and the illness experience
 - understanding the whole person
 - finding common ground
-- incorporating prevention and health promotion
+- incorporating prevention and health promotion 
 - enhancing the doctor-patient relationship
 - being realistic (with time and resources)
 ##### Pendleton - The Consultation: an Approach to Learning and Teaching - 1984, 2003  
@@ -41,8 +41,9 @@ urls:
 - housekeeping
 ##### Tuckett - meeting of two experts - 1985  
 - the consultation is a meeting between two experts
-	- doctors are experts in their own illnesses
-	- shared understanding is the aim
+	- doctors are experts in medicine
+	- patients are experts in their own illnesses
+- shared understanding is the aim
 - doctors should seek to understand the patient's beliefs
 - doctors should address explanations in terms of the patient's belief system.
 ##### Stott and Davis - Exceptional potential of the consultation - 1979  
