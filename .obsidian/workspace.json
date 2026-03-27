@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "consultation models.md",
+                "file": "atrial fibrillation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "consultation models"
+              "title": "atrial fibrillation"
             }
           }
         ],
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "consultatio",
+                "query": "cha2",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "consultation models.md",
+                "file": "atrial fibrillation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of consultation models"
+              "title": "Graph of atrial fibrillation"
             }
           }
         ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "consultation models.md",
+                "file": "atrial fibrillation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for consultation models"
+              "title": "Backlinks for atrial fibrillation"
             }
           }
         ]
@@ -318,9 +318,9 @@
   },
   "active": "c14f2dc115ae2da9",
   "lastOpenFiles": [
+    "consultation models.md",
     "cancer- screening programs.md",
     "asthma- diagnosis (algorithm).md",
-    "consultation models.md",
     "statins.md",
     "housekeeping/study tips.md",
     "forms.md",
