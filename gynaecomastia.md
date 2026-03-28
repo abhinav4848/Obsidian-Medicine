@@ -17,7 +17,7 @@ DISCKO #mnemonic
 	- Finasteride ([[prostate|BPH]]). 
 
 # Others
-**Testicular failure**: [[mumps]], liver disease, hyperthyroid, haemodialysis, androgen deficiency (Kallman's, Klinefelter) 
+**Testicular failure**: [[mumps]], liver disease, hyperthyroid, haemodialysis, androgen deficiency (Kallman's, [[childhood syndromes|Klinefelter syndrome]]) 
 [[cancer- testes|Testicular Cancer]]- especially Leydig cell tumours. 
 
 Not [[metoclopramide]] cuz high prolactin = galactorrhoea and not gynaecomastia.

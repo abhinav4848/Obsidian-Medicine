@@ -19,24 +19,24 @@ Most Testicular cancers are:
 	1. Leydig cells
 	2. Sarcomas
 
-![[tumour marker#Testicular Cancer Markers|tumor marker]]
+![[tumour marker#Testicular Cancer Markers transcluded|tumor marker]]
 
 # Risk Factors
 - infertility (increases risk by a factor of 3)
 - [[undescended testes|Cryptorchidism]]
 - [[cancer- risk factors|family history]]
-- Klinefelter's syndrome
+- [[childhood syndromes|Klinefelter syndrome]] 
 - [[mumps]] orchitis
 
 # Clinical Features
 - Painless lump, hard, irregular, not fluctuant, can't transilluminate
 - Pain in minority
-- Hydrocele- can be the first sign of cancer.
+- 🚩Hydrocele- can be the first sign of cancer.
 	- new hydroceles in males aged 20-40 years old must be investigated by way of urgent scrotal ultrasound.
 - [[gynaecomastia]]
 	- This is due to high E:A ration
 	- germ-cell tumours → hCG → Leydig cell dysfunction → increase in both oestradiol and testosterone production, but rise in oestradiol is relatively greater than testosterone
-	- Leydig cell tumours → directly secrete more oestradiol and convert additional androgen precursors to oestrogens
+	- Leydig cell tumours (non-seminoma) → directly secrete more oestradiol and convert additional androgen precursors to oestrogens
 
 # Investigation
 USS

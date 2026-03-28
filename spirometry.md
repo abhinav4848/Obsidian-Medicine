@@ -18,7 +18,7 @@ revision counter: 1
 
 ---
 # Obstructive Lung Diseases 
-## Asthma
+## Asthma 
 #### See [[asthma- diagnosis (algorithm)|Algorithm for Asthma Diagnosis]]. 
 - BDR with spirometry is [[asthma- diagnosis (algorithm)#Second line investigation|2nd line test]] to diagnose asthma. Here, spirometry improves after bronchodilators (reversible obstruction). 
 - Peak flow will show variability, as [[asthma- investigations#Peak expiratory flow (PEF) variability|Asthma worse at night]] & early morning. 

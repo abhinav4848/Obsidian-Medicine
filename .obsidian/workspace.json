@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "heart failure.md",
+                "file": "copd.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "heart failure"
+              "title": "copd"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "afro-caribbean.md",
+                "file": "spirometry.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "afro-caribbean"
+              "title": "spirometry"
             }
           },
           {
@@ -88,17 +88,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cancer- testes.md",
+                "file": "gynaecomastia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cancer- testes"
+              "title": "gynaecomastia"
+            }
+          },
+          {
+            "id": "3c05ac13250d01d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tumour marker.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "tumour marker"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "clubb",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -176,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "heart failure.md",
+                "file": "spirometry.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of heart failure"
+              "title": "Graph of spirometry"
             }
           }
         ]
@@ -316,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "heart failure.md",
+                "file": "spirometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +341,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for heart failure"
+              "title": "Backlinks for spirometry"
             }
           }
         ]
@@ -346,37 +361,37 @@
       "graph:Open graph view": false
     }
   },
-  "active": "badee8098bdfd497",
+  "active": "5f4528b9668a0e6f",
   "lastOpenFiles": [
-    "afro-caribbean.md",
+    "asthma- investigations.md",
+    "spirometry.md",
+    "restrictive lung diseases.md",
+    "lung fibrosis.md",
+    "inflammatory bowel disease.md",
     "heart failure.md",
-    "pre-eclampsia.md",
-    "cancer- testes.md",
+    "afro-caribbean.md",
     "gynaecomastia.md",
     "ecg fingin.md",
+    "cancer- testes.md",
+    "childhood syndromes.md",
+    "tumour marker.md",
+    "undescended testes.md",
+    "atrial fibrillation.md",
+    "forms.md",
+    "copd.md",
+    "pre-eclampsia.md",
+    "anaemia.md",
+    "ankylosing spondylitis.md",
     "attachments/stemi inferior.png",
     "attachments/heart- coronary arteries.jpg",
-    "atrial fibrillation.md",
     "consultation models.md",
     "cancer- screening programs.md",
     "asthma- diagnosis (algorithm).md",
     "statins.md",
     "housekeeping/study tips.md",
-    "forms.md",
     "fit note.md",
     "controlled drugs.md",
-    "adult learning.md",
-    "fitness to fly.md",
-    "surgery- recovery times.md",
     "attachments/evidencebasedrecoverytimes.pdf",
-    "anaemia.md",
-    "ankylosing spondylitis.md",
-    "cancer- colorectal.md",
-    "ferritin.md",
-    "pernicious anemia.md",
-    "shingles.md",
-    "hiv.md",
-    "post exposure prophylaxis.md",
     "attachments/asthma- diagnose in ages 5-16yo.jpg",
     "attachments/asthma- diagnose in over 16yo.jpg",
     "attachments/asthma management in adults 2024 guidelines.jpg",

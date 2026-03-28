@@ -13,15 +13,15 @@ If suspected Heart Failure, Check NT-pro BNP level
 - If 400-2000 → specialist assessment and echo within 6 weeks
 - <400 → consider alternatives
 
-## Reasons for high Natriuretic peptide include
+### Other causes of high Natriuretic peptide
 - **Cardiac**: LVH, myocardial ischemia, tachycardia, right ventricular overload, pulmonary hypertension
 - **Other**: Age > 70, PE, hypoxia, sepsis, CKD, Liver cirrhosis
-#### BNP false results
+#### BNP false results 
 *See [NICE- interpretation of BNP](https://cks.nice.org.uk/topics/heart-failure-chronic/diagnosis/how-to-assess/#interpretation-of-natriuretic-peptide-levels)* 
 
 | Reduced BNP levels                                                                                                                                                                                                 | High BNP (non-HF causes)                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| - [[weight\|Obesity]].<br>- [[afro-caribbean\|Afro-Caribbean]] <br>- People taking any of the following: <br>    - A diuretic.<br>    - An [[ace inhibitors\|ACE inhibitor]] / ARNI / ARB<br>    - A beta-blocker. | - Pulmonary, renal, liver and systemic pathologies.<br>- Sepsis.<br>- [[copd\|chronic obstructive pulmonary disease]]<br>- Diabetes.<br>- Cirrhosis of the liver. |
+| - [[weight\|Obesity]] <br>- [[afro-caribbean\|Afro-Caribbean]] <br>- People taking any of the following: <br>    - A diuretic.<br>    - An [[ace inhibitors\|ACE inhibitor]] / ARNI / ARB<br>    - A beta-blocker. | - Pulmonary, renal, liver and systemic pathologies.<br>- Sepsis.<br>- [[copd\|chronic obstructive pulmonary disease]]<br>- Diabetes.<br>- Cirrhosis of the liver. |
 
 
 ---

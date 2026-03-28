@@ -3,6 +3,8 @@ tags:
   - cancer
 aliases:
   - tumor marker
+revision counter: 1
+revision notes: seminoma vs non-seminoma features
 ---
 There are 4 types of tumour markers:
 - MABs against carbohydrate or glycoprotein tumour antigens
@@ -23,8 +25,9 @@ There are 4 types of tumour markers:
 | [[cancer- pancreas\|Pancreatic cancer]]                   | CA19-9<br><br>Non-specific but helps assess prognosis                                                                                                                                                                                                             |
 | [[cancer- prostate\|Prostate Cancer]]                     | PSA                                                                                                                                                                                                                                                               |
 | [[Sarcoidosis]]                                           | ACE elevated.                                                                                                                                                                                                                                                     |
-## Testicular Cancer Markers
+## Testicular Cancer Markers %%transcluded%%
+
 |                                                         |                                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[cancer- testes\|Testicular cancer]]- Non-seminomatous | ✅LDH (non specific marker- only tells tumour burden)<br>✅Beta-hCG (mostly in choriocarcinoma)<br>✅AFP (mostly in yolk sac, and embryonal carcinoma, but not choriocarcinoma)                                                                                      |
 | Testicular cancer- Seminoma                             | ✅LDH (non specific marker- only tells tumour burden)<br>✅Beta-hCG (mostly)<br>❌Never AFP. That Non-seminoma type produces. <br><br>Most common testicular tumour. <br>- Large cell with clear cytoplasm & central nuclei (fried egg) which resemble spermatogonia |
+| [[cancer- testes\|Testicular cancer]]- Non-seminomatous | ✅LDH (non specific marker- only tells tumour burden)<br>✅Beta-hCG (mostly in choriocarcinoma)<br>✅AFP (mostly in yolk sac, and embryonal carcinoma, but not choriocarcinoma)                                                                                      |

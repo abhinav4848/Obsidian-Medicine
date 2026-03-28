@@ -12,7 +12,7 @@ Occurs in around 2-3% of term male infants, but is much more common if the baby
 ## Complications of undescended testis 
 - infertility
 - torsion
-- [[cancer- testes|testicular cancer]] (seminoma, germ cell tumour)
+- [[cancer- testes|testicular cancer]] (Germ cell tumour e.g. seminomas)
 - psychological
 
 # Assessment

@@ -4,7 +4,7 @@ tags:
 urls:
   - https://www.youtube.com/watch?v=sBoRKzc7pdY
 ---
-Test with [[spirometry]]. 
+*Test with [[spirometry]].* 
 # Causes
 ## Interstitial
 Lung tissue is damaged. All these conditions reduce air intake: 

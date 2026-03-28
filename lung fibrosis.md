@@ -24,8 +24,8 @@ In essence: Fibrosis is the scarring aftermath, the end result, not the initial 
 - dry cough,
 - clubbing,
 - non-smoker
-- Fine-end inspiratory crackles.
-- Restrictive pattern.
+- Fine end-inspiratory crackles.
+- [[restrictive lung diseases|Restrictive]] pattern.
 # Causes
 - Amiodarone
 - [[Cytotoxic drugs]]: Busulphan, Bleomycin
