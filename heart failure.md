@@ -16,7 +16,13 @@ If suspected Heart Failure, Check NT-pro BNP level
 ## Reasons for high Natriuretic peptide include
 - **Cardiac**: LVH, myocardial ischemia, tachycardia, right ventricular overload, pulmonary hypertension
 - **Other**: Age > 70, PE, hypoxia, sepsis, CKD, Liver cirrhosis
-Low EF: Treatment with [[ace inhibitors|ACE inhibitor]], ARB, Beta blockers, as well as obesity can falsely lower BNP
+#### BNP false results
+*See [NICE- interpretation of BNP](https://cks.nice.org.uk/topics/heart-failure-chronic/diagnosis/how-to-assess/#interpretation-of-natriuretic-peptide-levels)* 
+
+| Reduced BNP levels                                                                                                                                                                                                 | High BNP (non-HF causes)                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - [[weight\|Obesity]].<br>- [[afro-caribbean\|Afro-Caribbean]] <br>- People taking any of the following: <br>    - A diuretic.<br>    - An [[ace inhibitors\|ACE inhibitor]] / ARNI / ARB<br>    - A beta-blocker. | - Pulmonary, renal, liver and systemic pathologies.<br>- Sepsis.<br>- [[copd\|chronic obstructive pulmonary disease]]<br>- Diabetes.<br>- Cirrhosis of the liver. |
+
 
 ---
 # Classification

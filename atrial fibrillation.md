@@ -58,7 +58,7 @@ Preferred in symptomatic patients
 | S₂     | Prior stroke, TIA, or thromboembolism             | 2      |
 | V      | Vascular disease (e.g. MI, PVD, aortic plaque)    | 1      |
 | A      | Age 65–74 years                                   | 1      |
-| Sc     | Sex category (female)                             | 1      |
+| Sc     | Sex category (==female==)                         | 1      |
 ### [[scoring system|Orbit Score]]
 
 | Risk Factor                 | Criteria                           |

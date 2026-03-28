@@ -1,11 +1,11 @@
 ---
 tags:
   - confusion
-  - linkfix
 aliases:
   - African American
   - Afro Caribbean
   - Afro-Caribbean
+  - African–Caribbean
 ---
 1. Fibroids common
 2. [[diabetes- gestational|gestational diabetes mellitus]]
@@ -20,6 +20,7 @@ aliases:
 11. **Benign ethnic Neutropaenia**: common in people of black African and Afro-Caribbean ethnicity -> requires no treatment
 12. Use Hydralazine as 3rd line medication in [[heart failure]] patients
 13. [[sickle cell|sickle cell anaemia]]
+14. [[heart failure|Lower BNP]] 
 
 Less common
 1. [[nash|nafld]] 

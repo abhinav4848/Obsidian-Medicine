@@ -35,7 +35,7 @@ Most Testicular cancers are:
 	- new hydroceles in males aged 20-40 years old must be investigated by way of urgent scrotal ultrasound.
 - [[gynaecomastia]]
 	- This is due to high E:A ration
-	- germ-cell tumours → hCG → Leydig cell dysfunction → increases in both oestradiol and testosterone production, but rise in oestradiol is relatively greater than testosterone
+	- germ-cell tumours → hCG → Leydig cell dysfunction → increase in both oestradiol and testosterone production, but rise in oestradiol is relatively greater than testosterone
 	- Leydig cell tumours → directly secrete more oestradiol and convert additional androgen precursors to oestrogens
 
 # Investigation
