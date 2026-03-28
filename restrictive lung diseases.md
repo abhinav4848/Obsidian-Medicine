@@ -8,7 +8,7 @@ urls:
 # Causes
 ## Interstitial
 Lung tissue is damaged. All these conditions reduce air intake: 
-- Pneumoconiosis: Coal, Silicosis, Asbestosis
+- Pneumoconiosis: Coal, Silicosis, Asbestosis (seen in workers in boiler rooms)
 - [[lung fibrosis|Pulmonary fibrosis]] ([[interstitial lung disease vs pneumonitis|ILD]])
 - [[Sarcoidosis]]
 - Hypersensitivity pneumonitis- immune reaction to small particles: bird droppings, mould, dust

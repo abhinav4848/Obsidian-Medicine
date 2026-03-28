@@ -19,6 +19,6 @@ Give patient 2 auto injectors & train them on use.
 after initial diagnosis- refer to specialist allergy clinic
 
 # Life-threatening problems 
-- Airway: Hoarse voice, stridor 
-- Breathing: ↑work of breathing, wheeze, fatigue, cyanosis, SpO2 <94% 
-- Circulation: Low blood pressure, signs of shock, confusion, reduced consciousness
+- **Airway**: Hoarse voice, stridor 
+- **Breathing**: ↑work of breathing, wheeze, fatigue, cyanosis, SpO2 <94% 
+- **Circulation**: Low blood pressure, signs of shock, confusion, reduced consciousness

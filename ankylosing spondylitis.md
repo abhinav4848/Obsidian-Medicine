@@ -10,6 +10,7 @@ It's a [[seronegative spondyloarthropathy]].
 	- Improves with movement -> Stiffness takes at least 30 mins to get better.
 - [[anaemia]],
 - Raised ESR.
+- [[restrictive lung diseases|Restrictive]] [[spirometry]] picture due to kyphoscoliosis. 
 
 Associated with [[inflammatory bowel disease|crohn's disease]], Leukocytosis, Cauda equina, Peripheral arthritis.
 ## 'A' problems

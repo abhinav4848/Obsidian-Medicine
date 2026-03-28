@@ -25,22 +25,22 @@ urls:
 - [[Pseudogout]]. 
 	- Knee > wrist ankle, shoulder
 	- Positive birefringent crystals
-
 # Treatment
 [British thyroid association suggestion](https://british-thyroid-association.org/professionals/#btaguidelines) 
-If a patient has Subclinical Hypothyroidism (TSH high, T4 normal)
-	Repeat TSH in 3 months.
+If a patient has Subclinical Hypothyroidism (TSH high, T4 normal, TPO negative shows it's not hashimoto)
+	-> Repeat TSH in 3 months.
 
 If TSH raised but below 10miU/L (on 2 tests 3 months apart)
-- Asymptomatic: No Rx needed. Repeat test. 
-- >=65yo: No Rx needed. (risk of over-suppression of TSH leading to [[atrial fibrillation]])
-- Symptomatic + <65yo: Levothyroxine
+- **Asymptomatic**: No Rx needed. Repeat test. 
+- **>=65yo**: No Rx needed. (risk of over-suppression of TSH leading to [[atrial fibrillation]])
+- **Symptomatic** + **<65yo**: Levothyroxine
 
 If need to start,
 - The therapeutic goal is TSH normalisation.
 - Cardiac disease/severe hypothyroid/age > 50: start with 25mcg OD
 - Others: start with 50-100 mcg.
 - women with established hypothyroidism who become pregnant should have their dose increased 'by at least 25-50 micrograms levothyroxine'* due to the increased demands of pregnancy.
+
 If the TSH is still high and T3 and/or T4 is still low
 	Increase the dose of the Levothyroxine.
 
