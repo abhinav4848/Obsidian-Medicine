@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hypothyroidism.md",
+                "file": "fibromyalgia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hypothyroidism"
+              "title": "fibromyalgia"
             }
           },
           {
@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tsh",
+                "query": "antibodi",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hypothyroidism.md",
+                "file": "fibromyalgia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,7 +234,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of hypothyroidism"
+              "title": "Graph of fibromyalgia"
             }
           }
         ]
@@ -346,7 +346,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hypothyroidism.md",
+                "file": "fibromyalgia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +356,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hypothyroidism"
+              "title": "Backlinks for fibromyalgia"
             }
           }
         ]
@@ -378,6 +378,14 @@
   },
   "active": "0d178c05b0e35e3d",
   "lastOpenFiles": [
+    "polymyalgia rheumatica.md",
+    "polymyositis.md",
+    "hypothyroidism.md",
+    "fibromyalgia.md",
+    "dermatomyositis.md",
+    "pseudogout.md",
+    "antibodies.md",
+    "forms.md",
     "addison's disease.md",
     "mesenteric ischaemia.md",
     "ankylosing spondylitis.md",
@@ -396,16 +404,8 @@
     "tumour marker.md",
     "undescended testes.md",
     "atrial fibrillation.md",
-    "forms.md",
-    "copd.md",
-    "pre-eclampsia.md",
-    "anaemia.md",
     "attachments/stemi inferior.png",
     "attachments/heart- coronary arteries.jpg",
-    "consultation models.md",
-    "cancer- screening programs.md",
-    "asthma- diagnosis (algorithm).md",
-    "statins.md",
     "attachments/evidencebasedrecoverytimes.pdf",
     "attachments/asthma- diagnose in ages 5-16yo.jpg",
     "attachments/asthma- diagnose in over 16yo.jpg",

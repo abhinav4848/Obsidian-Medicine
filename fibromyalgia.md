@@ -13,3 +13,6 @@ Somatic symptoms:
 - Pain related somatic symptoms: [[irritable bowel syndrome|IBS]], migraine headaches, severe menstrual pain, lower urinary tract symptoms, myofascial facial pain, and temporomandibular pain are seen in FM
 
 Explain to patients: “Your nerves have become over-sensitive, so normal signals are being experienced as pain or discomfort. The symptoms are real, but the problem is with how signals are processed, not with damage.” 
+
+# Investigation
+![[polymyositis#Differences in conditions affecting muscles is linked]] 
