@@ -1,16 +1,21 @@
 ---
 tags:
   - neurology
+aliases:
+  - Amyotrophic lateral sclerosis
+  - Lou Gehrig's disease
 ---
 Progressive disease with family history in up to 10% of patients. 
+UMN & LMN. 
 
 There is progressive loss of neurons, mainly motor neurons but also damage to 
 - frontal lobe
 	- cognitive change, particularly in decision making, and [[frontotemporal dementia]] which may precede the symptoms of MND is is seen in 10-15% of patients. 
 - loss of upper and lower motor neurons leading to mixed pattern of
-	- weakness
-	- spasticity
-	- [[bulbar and pseudobulbar palsy|bulbar effects]]
+	- weakness (UMN or LMN)
+	- spasticity (UMN)
+	- [[bulbar and pseudobulbar palsy|bulbar effects]] (UMN or LMN)
+		- tongue wasting, fasciculations (both LMN signs aka bulbar palsy)
 	- affects speech and swallowing. 
 # Types
 - Amyotrophic lateral sclerosis (ALS)- most common. 60% of all cases. Most often presents with limb features. 

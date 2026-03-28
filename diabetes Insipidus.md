@@ -19,9 +19,7 @@ Dilute urine = Low Osmolality Urine.
 # Clinical Features
 - Polyuria, extreme thirst & polydipsia, dehydration
 - Symptoms of [[Hypernatremia]]. 
-- High serum osmolality, Low urine osmolality,
-	- Urine osmolality increases after vasopressin: central DI #confusion 
-	- no change after vasopressin: Nephrogenic DI
+- High serum osmolality, Low urine osmolality (dilute urine)
 - If thirst response is intact in cranial DI, then patient increases their fluid intake, else (patient unconscious/has intracerebral lesion making them adipsic), they can get dehydrated
 
 # Investigation
@@ -29,14 +27,23 @@ Fluid restriction to differentiate DI from Psychogenic polydipsia
 -> If still urinating high volumes and urine osmolality is still low
 	-> it is DI
 	-> Give Desmopressin (DDAVP) for differentiating Central/Nephrogenic DI.
+		- Urine osmolality increases after Desmopressin: central DI #confusion 
+		- no change after Desmopressin: Nephrogenic DI
 -> if urine output reduced, it's psychogenic.
-
 ## Urine osmolality (mOsm/Kg)
 
-| Test                    | Central DI | Nephrogenic DI |
-| ----------------------- | ---------- | -------------- |
-| After fluid deprivation | <300       | <300           |
-| After desmopressin      | >800       | <300           |
+| Test                    | Central DI | Nephrogenic DI | Psychogenic          |
+| ----------------------- | ---------- | -------------- | -------------------- |
+| After fluid deprivation | <300       | <300           | Urine output reduced |
+| After desmopressin      | >800       | <300           | -                    |
+
+| Psychogenic polydipsia | Values    |
+| ---------------------- | --------- |
+| ADH                    | Low       |
+| Plasma Osmolaity       | Low       |
+| Urine Osmolarity       | Low       |
+| Urine Sodium           | Low       |
+| Water intake           | Increased |
 
 ---
 ## In [[siadh|SIADH]]:

@@ -3,6 +3,11 @@ tags:
   - confusion
   - neurology
 ---
+
+| Bulbar                                                                                  | Pseudobulbar                                                                                                          |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| LMN                                                                                     | UMN                                                                                                                   |
+| - Flaccid weakness<br>- Tongue wasting + fasciculations<br>- Nasal speech, poor swallow | - **Spastic dysarthria**<br>- Slow, effortful speech<br>- Emotional lability (laughing/crying)<br>- No fasciculations |
 Medulla oblongata is called the **bulb**. 
 Bulbar nerves are IX, X, XI (cranial part), XII.
 
@@ -17,7 +22,6 @@ UMN condition
 - Jaw jerk increased (due to Vth nerve involvement once lesion goes above bulb and into the pons), 
 - spastic dysarthria, 
 - labile emotions as UMN involvement
-
 # Bulbar
 Here, the problem is with motor components of bulbar nerves. i.e. it affects motor nuclei of X, XI, XII.
 *eventually even this extends up to involve V & VII*
