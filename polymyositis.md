@@ -18,7 +18,7 @@ Has weakness. Could walk before, can't walk now.
 | **[[Polymyositis]]**                         | +                              | +   | +   |
 | **[[Dermatomyositis]]  <br>(skin involved)** | +                              | +   | +   |
 | **[[Hypothyroidism]]**                       | +                              |     | +   |
-| **[[Fibromyalgia]]**                         | Muscle pain (not weak)         |     | -   |
+| **[[Fibromyalgia]]**                         | Muscle **pain** (not weak)     |     | -   |
 | **Duchenne (4-8 yo)**                        | +                              |     | +   |
 # Differentials
 polymyositis

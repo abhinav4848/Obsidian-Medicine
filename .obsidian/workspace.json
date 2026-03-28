@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fibromyalgia.md",
+                "file": "diabetes insipidus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "fibromyalgia"
+              "title": "diabetes insipidus"
             }
           },
           {
@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "antibodi",
+                "query": "polydipsia",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "fibromyalgia.md",
+                "file": "diabetes insipidus.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,7 +234,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of fibromyalgia"
+              "title": "Graph of diabetes insipidus"
             }
           }
         ]
@@ -346,7 +346,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fibromyalgia.md",
+                "file": "diabetes insipidus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +356,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for fibromyalgia"
+              "title": "Backlinks for diabetes insipidus"
             }
           }
         ]
@@ -378,10 +378,13 @@
   },
   "active": "0d178c05b0e35e3d",
   "lastOpenFiles": [
-    "polymyalgia rheumatica.md",
+    "Hypernatremia.md",
+    "diabetes insipidus.md",
+    "attachments/Hypernatraemia-Algorithm20.pdf",
     "polymyositis.md",
-    "hypothyroidism.md",
     "fibromyalgia.md",
+    "polymyalgia rheumatica.md",
+    "hypothyroidism.md",
     "dermatomyositis.md",
     "pseudogout.md",
     "antibodies.md",
@@ -401,9 +404,6 @@
     "ecg fingin.md",
     "cancer- testes.md",
     "childhood syndromes.md",
-    "tumour marker.md",
-    "undescended testes.md",
-    "atrial fibrillation.md",
     "attachments/stemi inferior.png",
     "attachments/heart- coronary arteries.jpg",
     "attachments/evidencebasedrecoverytimes.pdf",
@@ -431,7 +431,6 @@
     "Untitled.base",
     "flow charts/shoulder exam.canvas",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
-    "housekeeping/memorise.base",
     "flow charts/paeds examination.canvas",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas"
   ]

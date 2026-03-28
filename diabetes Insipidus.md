@@ -5,26 +5,24 @@ tags:
 ---
 ![[diabetes articles]]
 
-ADH dysfunction -> excess water loss in urine and Hypernatremia 145mEq/L.
+ADH dysfunction -> excess water loss in urine and [[Hypernatremia]] (>145mEq/L).
 Normal Urine osmolality < 800 mOsm/L
 
 Defined as "the passage of large volumes (>3 L/24 hr.) of dilute urine (< 300 mOsm/kg)".
 Dilute urine = Low Osmolality Urine.
-# Types:
-## Cranial
-Low ADH Production. Responds to Desmopressin (e.g. [[Sarcoidosis]] -> involvement of hypothalamus)
-## Nephrogenic
-Kidney resistant to ADH. (e.g. [[Lithium]], Hypercalcemia, Hypokalemia)
-#### Hypokalemia
-Low K+ can cause Na+/2Cl/K+ pump to fail so Na+ not reabsorbed -> Urine Na loss & polyuria.
+# Types
 
+| Cranial                                                                        | Nephrogenic                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Low ADH Production. <br>                                                       | Kidney resistant to ADH. (e.g. [[Lithium]], Hypercalcemia, [[Hypokalemia]])<br>                                                                                                                   |
+| Responds to Desmopressin (e.g. [[Sarcoidosis]] -> involvement of hypothalamus) | **Hypokalemia**<br>- Na⁺/2Cl⁻/K⁺ co-transporter pump (aka NKCC) actively moves all into the cell membrane.<br>- Low K⁺ can cause NKCC to fail, so Na⁺ not reabsorbed -> Urine Na loss & polyuria. |
 # Clinical Features
-Polyuria, extreme thirst & polydipsia, dehydration
-Symptoms of [[Hypernatremia]].
-High serum osmolality, Low urine osmolality,
-	Urine osmolality increases after vasopressin: central DI #confusion 
-	no change after vasopressin: Nephrogenic DI
-If thirst response is intact in cranial DI, then patient increases their fluid intake, else (patient unconscious/has intracerebral lesion making them adipsic), they can get dehydrated
+- Polyuria, extreme thirst & polydipsia, dehydration
+- Symptoms of [[Hypernatremia]]. 
+- High serum osmolality, Low urine osmolality,
+	- Urine osmolality increases after vasopressin: central DI #confusion 
+	- no change after vasopressin: Nephrogenic DI
+- If thirst response is intact in cranial DI, then patient increases their fluid intake, else (patient unconscious/has intracerebral lesion making them adipsic), they can get dehydrated
 
 # Investigation
 Fluid restriction to differentiate DI from Psychogenic polydipsia
