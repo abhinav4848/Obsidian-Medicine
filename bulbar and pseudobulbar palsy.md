@@ -15,8 +15,7 @@ Corticobulbar tract is the UMN component that influences the nucleus ambiguus (i
 # Pseudobulbar
 Involves the b/l corticobulbar tracts which are the UMN component.
 Involves X, XI, XII first, and later progress up to pons and involves V, VII. 
-
-UMN condition
+###### UMN condition
 - Gag normal/increased, 
 - spastic tongue, 
 - Jaw jerk increased (due to Vth nerve involvement once lesion goes above bulb and into the pons), 
@@ -25,8 +24,7 @@ UMN condition
 # Bulbar
 Here, the problem is with motor components of bulbar nerves. i.e. it affects motor nuclei of X, XI, XII.
 *eventually even this extends up to involve V & VII*
-
-LMN condition
+###### LMN condition
 - Gag absent (bovine cough), 
 - wasted tongue, fasciculation, 
 - Jaw jerk normal/diminished (as V & VII are not part of Bulbar Palsy)

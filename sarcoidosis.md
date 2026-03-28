@@ -28,14 +28,26 @@ Non-infectious [[granulomatous disease]] involving abnormal collections of infla
 
 [[Sjogren's syndrome]] on the other hand will always have something related to dry eyes (keratoconjunctivitis sicca), dry mouth. #confusion 
 # Investigation
-- CXR: b/l Hilar LNE, 
+- **CXR**: b/l Hilar LNE, 
 - Biopsy: Non-caseating granulomas, 
 - [[tumour marker|ACE elevated]] 
 - LFT abnormal 
 - Pulmonary function test: [[restrictive lung diseases|Restrictive]], 
 - [[Hypercalcemia]] (due to elevated Vit D)
+	- *Granulomas express 1-alpha hydroxylase → ↑ active Vitamin D → ↑ Ca*
 - Urea & Electrolytes for Acute Kidney injury due to Hypercalcemia.
 - Cardiac sarcoidosis can lead to sudden cardiac death. Perform an ECG in all patients with suspected sarcoidosis regardless of symptoms.
+
+| Investigation / Finding     | Typical Result / Abnormality      | Quick Explanation                                                                          |
+| --------------------------- | --------------------------------- | ------------------------------------------------------------------------------------------ |
+| **CXR**                     | Bilateral hilar lymphadenopathy   | Classic radiologic feature due to lymph node granulomas                                    |
+| **Biopsy**                  | Non-caseating granulomas          | Confirms sarcoidosis; no central necrosis (unlike TB)                                      |
+| **ACE (tumour marker)**     | Elevated                          | Granulomas produce ACE → marker of disease activity                                        |
+| **LFTs**                    | Abnormal                          | Hepatic granulomas can mildly alter enzymes                                                |
+| **Pulmonary function test** | Restrictive pattern               | Granulomatous inflammation stiffens lungs → ↓ volumes                                      |
+| **Calcium**                 | [[hypercalcemia\|hypercalcaemia]] | Granulomas express 1-alpha hydroxylase → ↑ active Vit D → ↑ Ca                             |
+| **Urea & Electrolytes**     | May show AKI                      | Hypercalcaemia can reduce renal perfusion → acute kidney injury                            |
+| **Cardiac**                 | ECG changes; risk of sudden death | Granulomas may infiltrate myocardium → arrhythmias; ECG recommended in all suspected cases |
 # Treatment
 Steroids #steroid 
 Spontaneous remission w/o complications is common in early-stage pulmonary disease. 
