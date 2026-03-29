@@ -4,7 +4,7 @@ tags:
   - ortho
 urls:
   - https://www.nice.org.uk/guidance/ng219/chapter/Recommendations#diagnosis-and-assessment
-  - https://academic.oup.com/rheumatology/article/56/7/1056/3855178?login=false
+  - "[The British Society for Rheumatology Guideline for the Management of Gout](https://academic.oup.com/rheumatology/article/56/7/1056/3855178?login=false)"
   - "[NICE NG219- Management of Gout](https://www.nice.org.uk/guidance/ng219/chapter/Recommendations#long-term-management-of-gout)"
   - "[NICE CKS- Gout](https://cks.nice.org.uk/topics/gout/management/acute-gout/)"
 ---
@@ -13,22 +13,23 @@ urls:
 Seen in Polycythemia, [[leukaemia|leukaemia]], [[tumour lysis syndrome]], Psoriasis, Lesch-Nyhan syndrome (self mutilating disorder due to buildup of uric acid). 
 ### Drugs
 #mnemonic : FACT 
-Furosemide, Alcohol excess, [[Cytotoxic drugs]] (cyclosporine), [[side effects of cvs drugs|thiazide]], Pyrazinamide
+Furosemide, Alcohol excess, [[Cytotoxic drugs]] (cyclosporine), [[side effects of cvs drugs|thiazide]], [[tuberculosis|Pyrazinamide]]
 Drugs used for CHF cause gout: Thiazide, loop diuretics (prescribed first). 
 ### Foods
-High purine containing: Liver, Kidneys, Seafood, oily fish (mackerel, sardines), and yeast products. 
+Uric acid is produced from breakdown of purines. 
+**High purine containing**: Liver, Kidneys, Seafood, oily fish (mackerel, sardines), and yeast products. 
 
 ---
 # Investigations
 Test uric acid 6 weeks after acute attack, because during attack levels are raised. (*wrong? can be normal*)
 
 Measure uric acid levels in suspected gout (i.e. in the acute setting)  
-- a uric acid level ≥ 360 micromol/L is seen as supporting a diagnosis. Normal: 180-480. 
+- Uric acid level ≥ 360 micromol/L is seen as supporting a diagnosis. Normal: 180-480. 
 - if uric acid level < 360 micromol/L during a flare, it could be a false negative. So repeat the uric acid 2-4 weeks after flare has settled
 
 Hyperuricemia is not diagnostic of gout & 30-50% of patients don't have elevated serum uric acid, and diagnosis of gout shouldn't be made on presence of hyperuricemia alone. 
 
-Synovial fluid- needle shaped negatively birefringent monosodium urate crystals under polarised light
+Synovial fluid -> needle shaped negatively birefringent monosodium urate crystals under polarised light
 
 ---
 # Treatment
@@ -44,16 +45,18 @@ Give Naproxen, Ibuprofen at max dose in acute mx (up-to 2 days after symptoms se
 
 Discuss urate lowering therapy with all patients experiencing a first flare.
 ## Long term
-Consider stopping drugs that trigger gout. Losartan = uricosuric + anti-HTN. Increasing Vit C in diet can reduce serum uric acid. 
+- [[Allopurinol]] is only started after symptoms settle (2-4 weeks) > Febuxostat if not tolerated.
+	- *See [CKS](https://cks.nice.org.uk/topics/gout/management/preventing-gout/) before starting febuxostat*
+- Colchicine cover is given when starting allopurinol > NSAID used if not tolerated. 
 
-[[Allopurinol]] is only started after symptoms settle (2-4 weeks) > Febuxostat if not tolerated.
-	*See [CKS](https://cks.nice.org.uk/topics/gout/management/preventing-gout/) before starting febuxostat*
-Colchicine cover is given when starting allopurinol. 
-	NSAID used if Colchicine not tolerated. 
 Drugs used for Gout cause worsening of renal failure, heart failure (SOB and Dyspnoea):
 	Give other Gout drugs instead like Colchicine, Prednisolone.
+	Regular 4 weekly monitoring of uric acid & renal function till uric acid < 300 (Target 300 - 360)
 Don't treat asymptomatic hyperuricemia. 
-Target 300 - 360
+#### Other points 
+- Consider stopping drugs that trigger gout. 
+- Losartan = uricosuric + anti-HTN. 
+- Increasing Vit C in diet can reduce serum uric acid. 
 ## Contraindications
 1. Aspirin (low dose) **not** given in gout as it can worsen it. 
 2. [[NSAID]] not given in renal impairment/[[asthma]]/HF/IHD -> Give Steroid/Colchicine instead. 

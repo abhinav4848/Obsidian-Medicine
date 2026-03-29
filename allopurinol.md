@@ -12,3 +12,7 @@ Allopurinol reduces clearance of
 3. Theophylline
 
 🚩[[ace inhibitors|ACE inhibitors]] (Captopril, enalapril, Lisinopril, Ramipril), Thiazide, Indapamide
+
+
+# Monitoring
+[[monitoring bloods with drugs]]: Renal function & Urate
