@@ -10,7 +10,7 @@ M:F::4:1
 There has to be an element of developmental delay
 - up to the age of 16 years, **six** of these features have to be present; 
 - in those aged 17 or over, the threshold is **five** features (Table below).
-## Diagnostic Features
+## Diagnostic Features 
 
 | Inattention                                           | Hyperactivity/Impulsivity                                    |
 | ----------------------------------------------------- | ------------------------------------------------------------ |
@@ -21,7 +21,7 @@ There has to be an element of developmental delay
 | Finds it difficult to organise tasks or activities    | Is often 'on the go'                                         |
 | Often forgetful in daily activities                   | Often interruptive or intrusive to others                    |
 | Often loses things necessary for tasks or activities  | Will answer prematurely, before a question has been finished |
-| Often does not seem to listen when spoken to directly | WIll run and climb in situations where it is not appropriate |
+| Often does not seem to listen when spoken to directly | Will run and climb in situations where it is not appropriate |
 
 ---
 # Treatment

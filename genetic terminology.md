@@ -13,7 +13,7 @@ Trinucleotide repeat disorders are genetic conditions caused by an abnormal numb
   
 Examples - note dominance of neurological disorders  
 - [[Fragile X Syndrome]] (CGG)- XLD inheritance
-- Huntington's (CAG)- AD inheritance
+- Huntington's (CAG)- AD inheritance (50% chance of inheritance in a child)
 - myotonic dystrophy (CTG)- AD inheritance
 - spinocerebellar ataxia- AD inheritance
 - dentato-rubral pallidol-uysian atrophy- AD inheritance
@@ -37,3 +37,13 @@ These phenomena are thought to be due to a number of factors, including:
 ### Expressivity
 - describes the 'severity' of the phenotype
 - a condition with a high level of expressivity is neurofibromatosis
+
+# Ethics of testing
+**Children should NOT be tested for adult-onset conditions** (e.g. Huntington's)
+- No treatment or prevention in childhood
+- Testing removes the child’s future autonomy
+- May cause psychological harm
+
+Therefore: Testing is deferred until the individual can decide as an adult.
+
+You Test for conditions where early intervention in childhood will help (e.g. some metabolic disorders. See [[guthrie test]]). 
