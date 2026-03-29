@@ -16,7 +16,7 @@ Local hub Phone: 0800-707-...
 ##### Practical Note
 Screening FIT test reacts to a higher threshold (>80), but a symptomatic FIT test reacts to a much lower threshold because the pre-test probability is higher. 
 
-The results from screening test doesn't tell you your actual number as it's privileged information. You can get the number by emailing bowel screening hub. Old number was 120, now will be 80 and this change picked up 1/3rd more high risk polyps. 
+The results from screening test doesn't tell you your actual number as it's privileged information. You can get the number by emailing bowel screening hub. Old threshold to call it positive was 120, now will be 80 as it was noted 80 picked up 1/3rd more high risk polyps. 
 
 # [[cancer- breast (treatment)|Breast cancer]]
 Mammogram. 

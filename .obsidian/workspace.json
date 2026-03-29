@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sarcoidosis.md",
+                "file": "biochemical differences in different ortho conditions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "sarcoidosis"
+              "title": "biochemical differences in different ortho conditions"
             }
           },
           {
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sarcoidosis.md",
+                "file": "biochemical differences in different ortho conditions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of sarcoidosis"
+              "title": "Graph of biochemical differences in different ortho conditions"
             }
           }
         ]
@@ -331,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sarcoidosis.md",
+                "file": "biochemical differences in different ortho conditions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +341,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for sarcoidosis"
+              "title": "Backlinks for biochemical differences in different ortho conditions"
             }
           }
         ]
@@ -363,8 +363,8 @@
   },
   "active": "48c6d331b7cb7c1b",
   "lastOpenFiles": [
-    "biochemical differences in different ortho conditions.md",
     "sarcoidosis.md",
+    "biochemical differences in different ortho conditions.md",
     "hypercalcemia.md",
     "tumour marker.md",
     "cancer- lymphoma.md",

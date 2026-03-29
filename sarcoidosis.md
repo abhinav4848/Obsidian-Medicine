@@ -31,7 +31,7 @@ Non-infectious [[granulomatous disease]] involving abnormal collections of infla
 - **CXR**: b/l Hilar LNE, 
 - **Biopsy**: Non-caseating granulomas, 
 - LFT abnormal 
-- Pulmonary function test: [[restrictive lung diseases|Restrictive]]
+- Pulmonary function test: [[restrictive lung diseases|Restrictive]] 
 - [[Hypercalcemia]] (due to elevated Vit D)
 - Urea & Electrolytes for Acute Kidney injury due to Hypercalcemia.
 - Cardiac sarcoidosis can lead to sudden cardiac death. Perform an ECG in all patients with suspected sarcoidosis regardless of symptoms.
