@@ -42,7 +42,7 @@ Prescribe treatment as above while awaiting appointment.
 # Other tips
 ## Women
 1. Avoid tetracycline in [[drugs contraindicated in pregnancy|Pregnant]]/Breastfeeding/children < 12years. Use Erythromycin.
-2. Avoid topical/oral retinoids in pregnancy.
+2. Avoid topical/oral retinoids in pregnancy. 
 3. COCPs are an alternative to oral Abx in women. Use them in combination with topical agents. Should contain 30mcg oestrogen + either NE or LNG
 	- Co-Cyprindiol (Dianette): 2nd line after other OCPs have failed. It has anti-androgen properties, but increased VTE risk compared to other COCPs. (it's only licensed for acne with contraception needs ([BNF](https://bnf.nice.org.uk/drugs/co-cyprindiol/)). Not individually for either). 
 	- Due to the increased risk of VTE with Co-Cyprindiol (Dianette), it should be discontinued 3-4 cycles after acne has cleared, and should not be used just for contraception. Can switch to other OCPs.

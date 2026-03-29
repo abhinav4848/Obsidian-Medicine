@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "acne vulgaris.md",
+                "file": "melanoma.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "acne vulgaris"
+              "title": "melanoma"
             }
           },
           {
@@ -146,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Clindamycin",
+                "query": "melano",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "acne vulgaris.md",
+                "file": "melanoma.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of acne vulgaris"
+              "title": "Graph of melanoma"
             }
           }
         ]
@@ -331,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "acne vulgaris.md",
+                "file": "melanoma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +341,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for acne vulgaris"
+              "title": "Backlinks for melanoma"
             }
           }
         ]
@@ -363,11 +363,13 @@
   },
   "active": "48c6d331b7cb7c1b",
   "lastOpenFiles": [
+    "drugs contraindicated in pregnancy.md",
+    "folic acid.md",
+    "malaria.md",
+    "acne vulgaris.md",
     "clindamycin.md",
     "macrolides.md",
-    "drugs contraindicated in pregnancy.md",
     "atrial fibrillation.md",
-    "acne vulgaris.md",
     "c. difficile.md",
     "clostridia.md",
     "antibiotic guidelines.md",
@@ -387,8 +389,6 @@
     "fibromyalgia.md",
     "biochemical differences in different ortho conditions.md",
     "sarcoidosis.md",
-    "hypercalcemia.md",
-    "tumour marker.md",
     "attachments/Hypernatraemia-Algorithm20.pdf",
     "attachments/stemi inferior.png",
     "attachments/heart- coronary arteries.jpg",

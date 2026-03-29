@@ -13,8 +13,8 @@ urls:
 
 ---
 If doubtful or confirmed, Refer urgently (2 week wait) for malignant melanoma.
-Prognosis: Determined by depth of invasion. Breslow thickness: #named 
-Complication: Common metastasis to [[cancers metastasizing to the bone|bone]] & brain. 
+**Prognosis**: Determined by depth of invasion. Breslow thickness: #named 
+**Complication**: Common metastasis to [[cancers metastasizing to the bone|bone]] & brain. 
 
 > [!NOTE] PCDS- ABCD Rule
 > ##### ABCD Rule
@@ -34,6 +34,8 @@ Also show the picture of melanoma to patient and ask her to come back if she not
 > - **E = Elevation,** AND
 > - **F = Firmness** to touch, AND
 > - **G = Growth**. Sustained growth for 3-4 weeks
+
+## Weighted 7 point checklist
 
 ## Lentigo Maligna
 Lentigo maligna is a term for melanoma in-situ. It should be suspected in cases where there is a pigmented macule/patch with irregular borders, irregular pigment networks and asymmetry. These are not apparent in this case. 
