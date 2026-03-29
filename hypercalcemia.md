@@ -3,6 +3,7 @@ tags:
   - endocrine
 aliases:
   - hypercalcaemia
+  - Hypercalcaemia
 OHCM 11ed (Int):
   - "215"
 ---
