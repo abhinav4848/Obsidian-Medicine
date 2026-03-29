@@ -19,8 +19,8 @@ e.g. A 19 year old was out partying when they developed chest pain radiating to 
 | -------------------------------- | ----------------------------------------------------------------------------------- |
 | Heroin / Morphine / Opioids      | Mostly causes respiratory depression, miosis, sedation, not acute chest pain or MI. |
 | Alcohol                          |                                                                                     |
-| Benzodiazepines (e.g., Diazepam) |                                                                                     |
-| Barbiturates                     |                                                                                     |
+| Benzodiazepines (e.g., Diazepam) | Midazolam & Timazepam- Class 3<br>Other Benzos- Class 4                             |
+| Barbiturates                     | [[controlled drugs\|Class 3]]                                                       |
 
 # Mixed
 |          |                                                                                                                                                     |                                               |

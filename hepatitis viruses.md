@@ -84,7 +84,7 @@ Risk of transmitting in needle stick injury -> 2% (6% if [[HIV]] too).
 - [[Sjogren's syndrome]] (Sjogren is seen with [[primary biliary cholangitis & primary sclerosing cholangitis|Primary Biliary Cholangitis]] & chronic hepatitis C)
 - [[cancer- liver|HCC]] 
 - Cryoglobulinemia (type 2-> mixed monoclonal & polyclonal),
-- [[porphyria cutanea tarda]], esp. if also Alcohol abuse 
+- [[porphyria|porphyria cutanea tarda]], esp. if also Alcohol abuse 
 - Membranoproliferative glomerulonephritis 
 ## Treatment
 Ribavirin (avoid getting [[drugs contraindicated in pregnancy|pregnant]] for 6 months after use as teratogenic) 

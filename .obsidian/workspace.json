@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "toxins.md",
+                "file": "porphyria.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "toxins"
+              "title": "porphyria"
             }
           },
           {
@@ -146,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cocaine",
+                "query": "hepatitis",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "toxins.md",
+                "file": "porphyria.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of toxins"
+              "title": "Graph of porphyria"
             }
           }
         ]
@@ -331,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "toxins.md",
+                "file": "porphyria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +341,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for toxins"
+              "title": "Backlinks for porphyria"
             }
           }
         ]
@@ -363,6 +363,8 @@
   },
   "active": "c14f2dc115ae2da9",
   "lastOpenFiles": [
+    "hepatitis viruses.md",
+    "hepatitis.md",
     "controlled drugs.md",
     "illicit drugs.md",
     "toxins.md",
@@ -387,8 +389,6 @@
     "septic arthritis.md",
     "acne.md",
     "2025-12-31.md",
-    "pityriasis versicolor.md",
-    "fungal infections of skin.md",
     "attachments/Hypernatraemia-Algorithm20.pdf",
     "attachments/stemi inferior.png",
     "attachments/heart- coronary arteries.jpg",
