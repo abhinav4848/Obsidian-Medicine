@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atrial fibrillation.md",
+                "file": "toxins.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "atrial fibrillation"
+              "title": "toxins"
             }
           },
           {
@@ -113,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "down",
+                "query": "cocaine",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "childhood syndromes.md",
+                "file": "toxins.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of childhood syndromes"
+              "title": "Graph of toxins"
             }
           }
         ]
@@ -331,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "childhood syndromes.md",
+                "file": "toxins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +341,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for childhood syndromes"
+              "title": "Backlinks for toxins"
             }
           }
         ]
@@ -361,8 +361,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "48c6d331b7cb7c1b",
+  "active": "c14f2dc115ae2da9",
   "lastOpenFiles": [
+    "controlled drugs.md",
+    "illicit drugs.md",
+    "toxins.md",
+    "atrial fibrillation.md",
+    "lithium.md",
+    "childhood syndromes.md",
     "down's syndrome.md",
     "attention deficit hyperactive disorder.md",
     "genetic terminology.md",
@@ -373,7 +379,6 @@
     "acne vulgaris.md",
     "clindamycin.md",
     "macrolides.md",
-    "atrial fibrillation.md",
     "c. difficile.md",
     "clostridia.md",
     "antibiotic guidelines.md",
@@ -384,11 +389,6 @@
     "2025-12-31.md",
     "pityriasis versicolor.md",
     "fungal infections of skin.md",
-    "onychomycosis.md",
-    "allopurinol.md",
-    "gout.md",
-    "consultation models.md",
-    "tuberculosis.md",
     "attachments/Hypernatraemia-Algorithm20.pdf",
     "attachments/stemi inferior.png",
     "attachments/heart- coronary arteries.jpg",
