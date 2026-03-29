@@ -50,13 +50,13 @@ Discuss urate lowering therapy with all patients experiencing a first flare.
 - Colchicine cover is given when starting allopurinol > NSAID used if not tolerated. 
 
 Drugs used for Gout cause worsening of renal failure, heart failure (SOB and Dyspnoea):
-	Give other Gout drugs instead like Colchicine, Prednisolone.
-	Regular 4 weekly monitoring of uric acid & renal function till uric acid < 300 (Target 300 - 360)
-Don't treat asymptomatic hyperuricemia. 
+- Give other Gout drugs instead like Colchicine, Prednisolone.
+- Regular 4 weekly monitoring of uric acid & renal function till uric acid < 300 (Target 300 - 360)
 #### Other points 
 - Consider stopping drugs that trigger gout. 
 - Losartan = uricosuric + anti-HTN. 
 - Increasing Vit C in diet can reduce serum uric acid. 
+- Don't treat asymptomatic hyperuricemia. 
 ## Contraindications
 1. Aspirin (low dose) **not** given in gout as it can worsen it. 
 2. [[NSAID]] not given in renal impairment/[[asthma]]/HF/IHD -> Give Steroid/Colchicine instead. 

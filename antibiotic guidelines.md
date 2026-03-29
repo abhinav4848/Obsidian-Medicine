@@ -44,19 +44,19 @@ The following is based on current BNF guidelines:
 |Gingivitis: acute necrotising ulcerative|Metronidazole|
 #####  Genital system
 
-| **Condition**               | **Recommended treatment**                                                                                |
-| --------------------------- | -------------------------------------------------------------------------------------------------------- |
-| [[Gonorrhoea]]              | Intramuscular ceftriaxone                                                                                |
-| [[Chlamydia]]               | Doxycycline or azithromycin                                                                              |
-| Pelvic inflammatory disease | Oral ofloxacin + oral metronidazole or intramuscular ceftriaxone + oral doxycycline + oral metronidazole |
-| Syphilis                    | Benzathine benzylpenicillin or doxycycline or erythromycin                                               |
-| Bacterial vaginosis         | Oral or topical metronidazole or topical clindamycin                                                     |
+| **Condition**                                      | **Recommended treatment**                                                                                |
+| -------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| [[Gonorrhoea]]                                     | Intramuscular ceftriaxone                                                                                |
+| [[Chlamydia]]                                      | Doxycycline or azithromycin                                                                              |
+| Pelvic inflammatory disease                        | Oral ofloxacin + oral metronidazole or intramuscular ceftriaxone + oral doxycycline + oral metronidazole |
+| Syphilis                                           | Benzathine benzylpenicillin or doxycycline or erythromycin                                               |
+| [[gynaecological infections\|bacterial vaginosis]] | Oral or topical metronidazole or topical clindamycin                                                     |
 ##### Gastrointestinal
 
 | **Condition**              | **Recommended treatment**                                                                       |
 | -------------------------- | ----------------------------------------------------------------------------------------------- |
 | _Clostridioides difficile_ | First episode: oral vancomycin  <br>Second or subsequent episode of infection: oral fidaxomicin |
-| Campylobacter enteritis    | Clarithromycin                                                                                  |
+| Campylobacter enteritis    | [[macrolides\|Clarithromycin]]                                                                  |
 | Salmonella (non-typhoid)   | Ciprofloxacin                                                                                   |
 | Shigellosis                | Ciprofloxacin                                                                                   |
 *phenoxymethylpenicillin was previously the recommended antibiotic until the 2019 NICE guidelines  

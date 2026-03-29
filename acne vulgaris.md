@@ -7,29 +7,30 @@ urls:
   - https://www.pcds.org.uk/clinical-guidance/acne-vulgaris
   - "[NICE- Acne Vulgaris](https://cks.nice.org.uk/topics/acne-vulgaris/management/primary-care-management/)"
 ---
-Occurs in adolescence
+Occurs in adolescence 
 - Androgen levels are normal however. 
-- Blackhead is caused by plug within the pilosebaceous duct expanding to dilate (and block) the pilosebaceous orifice and gradually becoming extruded (exposed) -> inflammation leads to papules, pustules, nodules.
-- Severity of acne is directly related to the degree of secretion of sebum -> sebaceous gland becomes blocked.
-- Anaerobic bacterium *Propionibacterium acnes*.
+- Blackhead is caused by plug within the pilosebaceous duct expanding to dilate (and block) the pilosebaceous orifice and gradually becoming extruded (exposed) -> inflammation leads to papules, pustules, nodules. 
+- Severity of acne is directly related to the degree of secretion of sebum -> sebaceous gland becomes blocked. 
+- Anaerobic bacterium *Propionibacterium acnes*. 
 # Treatment
 Benzoyl peroxide used especially if papules and pustules are present. 
 ### Mild-Mod
 12 weeks of topical FDC (fixed dose combination) 
 - adapalene (retinoid) + benzoyl peroxide (brand: Epiduo 0.1% or 0.3% + 2.5% gel. Apply OD in evening), or
-- [[retinoids|tretinoin]] + clindamycin (brand: Treclin gel), or
+- [[retinoids|tretinoin]] + [[clindamycin]] (brand: Treclin gel), or
 - benzoyl peroxide + clindamycin (brand: Duac. Use OD)
 
-Any topical retinoid or BPO can be used on its own if combination products are not tolerated, or patient prefers to avoid retinoids/abx.
+Any topical retinoid or BPO can be used on its own if combination products are not tolerated, or patient prefers to avoid retinoids/abx. 
 For skin of colour/darker skin, Azelaic acid is useful as it has anti-pigmentary properties. It also has greater tolerability in sensitive skin. 
 ### Mod-Severe
 12 weeks FDC of topicals as above, or
 - Topical azelaic acid + either oral lymecycline 408mg or oral doxycycline 100mg
-	- (both contraindicated in pregnancy and children under 12 years of age)
+	- (both are tetracyclines- contraindicated in pregnancy and children under 12 years of age)
 ##### Notes  
-- If not suitable for Lyme or Doxy, 2nd line is Clarithromycin, or an oral macrolide
-	- Erythromycin can be used in pregnancy. 
+- If not suitable for Lyme or Doxy, 2nd line is Clarithromycin, or an oral [[macrolides|macrolide]]
+	- Erythromycin can be used in pregnancy & breastfeeding
 	- Children under 12 years of age: Clarithromycin (dose dependent on weight) is the only drug that can safely be used in Primary Care
+	- Steroids are contraindicated as they make acne worse
 - 3rd line: [[Trimethoprim]] (warn about cutaneous reaction)
 - Instead of abx, COCP can be considered in suitable women. 
 - Patients should be advised on sun protection if using oral tetracyclines and topical retinoids as both increase photosensitivity. 

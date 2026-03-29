@@ -10,9 +10,9 @@ aliases:
 [[clostridia|Clostridium]] difficile causes Pseudomembranous colitis. 
 # Causes
 h/o long term antibiotics, or due to broad spectrum antibiotics like:
-	2nd & 3rd gen [[cephalosporins]] > Clindamycin,
+	2nd & 3rd gen [[cephalosporins]] > [[Clindamycin]] 
 	Co-Amoxiclav, Amoxicillin.
-h/o PPI, increased age, IBD,
+h/o PPI (e.g. Omeprazole), increased age, IBD,
 
 # C/f
 Diarrhoea, abdo pain, raised WCC, Fever, colitis, hypotension, partial/complete ileus, Toxic megacolon

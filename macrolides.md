@@ -7,6 +7,7 @@ aliases:
   - Erythromycin
   - Azithromycin
   - Clarithromycin
+  - macrolide
 ---
 Erythromycin- [[drugs contraindicated in pregnancy|Safe in pregnancy]]
 [[copd- treatment#Room for prophylactic Azithromycin linked|Azithromycin in COPD treatment]]
@@ -19,3 +20,6 @@ Can cause [[qt prolongation|long QT syndrome]]
 
 ---
 See [[fluroquinolone|Quinolones]] 
+
+# Difference
+[[clindamycin]] is not a macrolide. 
