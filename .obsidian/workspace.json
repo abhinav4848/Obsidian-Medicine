@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "attention deficit hyperactive disorder.md",
+                "file": "childhood syndromes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "attention deficit hyperactive disorder"
+              "title": "childhood syndromes"
             }
           },
           {
@@ -146,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adhd",
+                "query": "down",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "attention deficit hyperactive disorder.md",
+                "file": "childhood syndromes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of attention deficit hyperactive disorder"
+              "title": "Graph of childhood syndromes"
             }
           }
         ]
@@ -331,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attention deficit hyperactive disorder.md",
+                "file": "childhood syndromes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +341,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for attention deficit hyperactive disorder"
+              "title": "Backlinks for childhood syndromes"
             }
           }
         ]
@@ -363,6 +363,8 @@
   },
   "active": "48c6d331b7cb7c1b",
   "lastOpenFiles": [
+    "down's syndrome.md",
+    "attention deficit hyperactive disorder.md",
     "genetic terminology.md",
     "melanoma.md",
     "drugs contraindicated in pregnancy.md",
@@ -387,8 +389,6 @@
     "gout.md",
     "consultation models.md",
     "tuberculosis.md",
-    "monitoring bloods with drugs.md",
-    "fibromyalgia.md",
     "attachments/Hypernatraemia-Algorithm20.pdf",
     "attachments/stemi inferior.png",
     "attachments/heart- coronary arteries.jpg",
