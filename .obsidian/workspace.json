@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "statistics- mean, median, mode.md",
+                "file": "statistics- graphical representations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -277,7 +277,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of statistics- mean, median, mode"
+              "title": "Graph of statistics- graphical representations"
             }
           }
         ]
@@ -389,7 +389,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "statistics- mean, median, mode.md",
+                "file": "statistics- graphical representations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -399,7 +399,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for statistics- mean, median, mode"
+              "title": "Backlinks for statistics- graphical representations"
             }
           }
         ]
@@ -419,10 +419,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "c20590c0b344b2ec",
+  "active": "c260892c1ac4d17e",
   "lastOpenFiles": [
-    "statistics- graphical representations.md",
     "statistics- mean, median, mode.md",
+    "statistics- graphical representations.md",
     "cancer- frequency.md",
     "cancer- breast (types).md",
     "grading to assess quality of evidence.md",
