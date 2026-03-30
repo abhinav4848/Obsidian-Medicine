@@ -14,7 +14,7 @@ Used in
 For all antidepressants, warn about: 
 - delay in onset of effect
 - transient increase in anxiety/depression, 
-	- Risk of suicide and likelihood of toxicity in overdose (especially with venlafaxine)
+	- Risk of [[suicide]] and likelihood of toxicity in overdose (especially with venlafaxine)
 - risk of withdrawal if stopped abruptly. Happens in 50% of patients and is linked to increased doses and durations. 
 	- especially with paroxetine (SSRI) and venlafaxine (SNRI) 
 	- Taper gradually over an extended period of time. ([GP notebook](https://gpnotebook.com/en-GB/pages/gastroenterology/antidepressants-stopping-or-switching-treatment))
@@ -24,7 +24,7 @@ For all antidepressants, warn about:
 	- If NSAID, Aspirin used, add PPI too. ([BNF Interactions](https://bnf.nice.org.uk/interactions/sertraline/))
 - Avoid Triptans & MAOi as [[fever caused by drugs|Serotonin syndrome]]. 
 - All SSRIs lower [[seizure]] threshold and cause [[hyponatremia]]. 
-- Be aware when prescribing SSRIs of the need to ask about cocaine use when considering drug–drug interactions, and the need to avoid concurrent use of multiple serotonergic drugs. 
+- Be aware when prescribing SSRIs of the need to ask about [[illicit drugs|cocaine]] use when considering drug–drug interactions, and the need to avoid concurrent use of multiple serotonergic drugs. 
 - SSRIs can cause sexual dysfunction, genital numbness, anorgasmia (esp **Mirtazapine**)
 # Discontinuation symptoms
 When stopping a SSRI the dose should be gradually reduced over a 4 week period (this is not necessary with fluoxetine). Paroxetine has a higher incidence of discontinuation symptoms.

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paediatric milestones.md",
+                "file": "ssri.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "paediatric milestones"
+              "title": "ssri"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "development",
+                "query": "venlafax",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "paediatric milestones.md",
+                "file": "ssri.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -128,7 +128,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of paediatric milestones"
+              "title": "Graph of ssri"
             }
           }
         ]
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paediatric milestones.md",
+                "file": "ssri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for paediatric milestones"
+              "title": "Backlinks for ssri"
             }
           }
         ]
@@ -272,6 +272,11 @@
   },
   "active": "85774994797ebf68",
   "lastOpenFiles": [
+    "depression.md",
+    "suicide.md",
+    "ssri.md",
+    "monitoring bloods with drugs.md",
+    "paediatric milestones.md",
     "examination of children.md",
     "developmental dysplasia of the hip.md",
     "als- anaphylaxis.md",
@@ -293,11 +298,6 @@
     "stats graphs- forest plot.md",
     "cancer- frequency.md",
     "cancer- breast (types).md",
-    "grading to assess quality of evidence.md",
-    "statistics- study types.md",
-    "delirium.md",
-    "hearing aid.md",
-    "pernicious anemia.md",
     "attachments/Hypernatraemia-Algorithm20.pdf",
     "attachments/stemi inferior.png",
     "attachments/heart- coronary arteries.jpg",
