@@ -71,16 +71,20 @@ Rank the differences within pairs.
 | Ordinal | Categories with order                        |
 | Paired  | Same subject measured twice or matched pairs |
 ### Nominal data
-Categories with NO natural order (Nominal = _name only_)
+Categorical data with NO natural order (Nominal = _name only_) & no ranking. 
 - e.g. Blood group, eye colour, diagnosis type.
 **Key idea**: Categories are different but not ranked.
 
+Special case of nominal data is binary data: yes/no, alive/dead. 
+
 ### Ordinal data
-Categorical data with a natural order. 
+Categorical data with a natural order or ranking. 
 e.g. 
 - Mild → Moderate → Severe
 - Pain score categories
 - Satisfaction levels (poor / fair / good)
+- Underweight < Normal < Overweight < Obese
+	- Raw BMI (e.g. 23.4 kg/m²) would be continuous. But you've converted it into categories, so no longer continuous
 
 **Key idea**: Categories are ranked, but the distance between them is not necessarily equal. If we mark mild/mod/severe as 1,2,3, then the jump from 1 → 2 is not guaranteed to equal 2 → 3.
 

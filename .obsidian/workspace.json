@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "statistics- basics about data.md",
+                "file": "antibiotic guidelines.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "statistics- basics about data"
+              "title": "antibiotic guidelines"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stats",
+                "query": "bite",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "statistics- basics about data.md",
+                "file": "antibiotic guidelines.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -128,7 +128,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of statistics- basics about data"
+              "title": "Graph of antibiotic guidelines"
             }
           }
         ]
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "statistics- basics about data.md",
+                "file": "antibiotic guidelines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for statistics- basics about data"
+              "title": "Backlinks for antibiotic guidelines"
             }
           }
         ]
@@ -272,16 +272,19 @@
   },
   "active": "85774994797ebf68",
   "lastOpenFiles": [
+    "tetanus.md",
+    "post exposure prophylaxis.md",
+    "statistics- biases.md",
     "statistics- significance tests.md",
     "statistics- basics about data.md",
     "dementia.md",
+    "frontotemporal dementia.md",
     "statistics- graphical representations.md",
     "tumour marker.md",
     "gynaecomastia.md",
     "hypercalcemia.md",
     "childhood syndromes.md",
     "ankylosing spondylitis.md",
-    "frontotemporal dementia.md",
     "statistics- mean, median, mode.md",
     "stats graphs- forest plot.md",
     "cancer- frequency.md",
@@ -295,9 +298,6 @@
     "parkinson's disease.md",
     "copd.md",
     "controlled drugs.md",
-    "cocp.md",
-    "porphyria.md",
-    "hepatitis viruses.md",
     "attachments/Hypernatraemia-Algorithm20.pdf",
     "attachments/stemi inferior.png",
     "attachments/heart- coronary arteries.jpg",
