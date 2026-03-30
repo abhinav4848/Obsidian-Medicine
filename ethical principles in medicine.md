@@ -1,6 +1,7 @@
 ---
 tags:
   - admin
+  - ethics
 ---
 # Core ethical principles (Big 4)
 

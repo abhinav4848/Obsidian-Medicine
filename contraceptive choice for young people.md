@@ -28,4 +28,4 @@ The Fraser guidelines are used to assess if patient who has not yet reached 16 y
 - unless the young person receives contraceptive treatment, their physical or mental health, or both, is likely to suffer
 - the young person's best interests require them to receive contraceptive advice or treatment with or without parental consent
 
-*See [[gillick competent]]*
+*See [[consent in young people]]*
