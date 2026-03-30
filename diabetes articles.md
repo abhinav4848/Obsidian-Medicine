@@ -6,7 +6,7 @@ tags:
 >[!info]- Diabetes TOC
 > - [[diabetes mellitus- diagnosis|Diagnosis]] 
 > - [[diabetes treatment|Treatment]] 
-> 	- [[diabetes drugs|Drugs]] 
+> 	- [[diabetes drugs|Drugs]], [[insulin]]
 > 	- [[hba1c|HbA1c]] 
 > 	- NICE: [visual summary](https://www.nice.org.uk/guidance/ng28/resources/visual-summary-choosing-medicines-for-further-treatment-pdf-10956472093) & [Initial medicines](https://www.nice.org.uk/guidance/ng28/chapter/Initial-medicines)
 > - [[glycosuria]]
