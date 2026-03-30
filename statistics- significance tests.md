@@ -25,20 +25,20 @@ Might be skewed, have outliers, or be based on ranks/ categories. e.g. Pain scor
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Mann–Whitney U test aka Wilcoxon rank-sum test                                    | Comparing ranked scores on unpaired data. This is for non-parametric data and compares `ordinal, interval, or ratio scales` of unpaired data. <br>	- e.g. Scale like *'Never', 'Rarely', 'Sometimes', 'Often', 'Always'*.  |
 | Wilcoxon signed-rank test                                                         | Compares two sets of observations on a single sample (paired), e.g. a 'before' and 'after' test on the same population following an intervention. `Ordinal Paired` e.g *pain score before and after a new physio regimen.* |
-| chi-squared test                                                                  | Used to compare proportions or percentages in `nominal unpaired` e.g. *compares the percentage of patients who improved following two different interventions*                                                             |
+| chi-squared test                                                                  | Used to compare proportions or percentages in `nominal unpaired` e.g. *compares the percentage of patients who improved following two different interventions*, male vs female exam participants & their pass/fail ratio   |
 | Spearman rank, <br>Kendall rank correlation coefficient, aka<br>Kendall's τ (tau) | Correlation (Correlation = seeing if two numbers move together)                                                                                                                                                            |
 | McNemar's test                                                                    | used to analyse nominal paired data that is non-parametric.                                                                                                                                                                |
 #### These two names are the same test:
-| Name (See [[statistics- basics about data#Ranking data linked\|Rank meaning]]) | Why it exists                                                                                                                                     |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Mann–Whitney U test**                                                        | Name emphasises the **U statistic** used in the calculation<br>U is a **test statistic** calculated from:<br>- The **sum of ranks** in each group |
-| **Wilcoxon rank-sum test**                                                     | Name emphasises the **sum of ranks** used in the method                                                                                           |
+| Name (See [[statistics- basics about data#Ranking data linked\|Rank meaning]]) | Why it exists                                                                                                                           |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Mann–Whitney U test                                                            | Name emphasises the U statistic used in the calculation. <br>U is a test statistic calculated from:<br>- The sum of ranks in each group |
+| Wilcoxon rank-sum test                                                         | **Name emphasises the sum of ranks used in the method**                                                                                 |
 They both:
-- Compare **two independent (unpaired) groups**
-- Use **ranks instead of raw values**
-- Are **non-parametric alternatives to the unpaired t-test**
+- Compare two independent (unpaired) groups
+- Use ranks instead of raw values
+- Are non-parametric alternatives to the unpaired t-test
 
-Example : Compare **pain scores** between: patients on **drug A** & patients on **placebo**
+**Example**: Compare **pain scores** between: patients on **drug A** & patients on **placebo**
 
 ---
 # Correlation (relationship between two variables)

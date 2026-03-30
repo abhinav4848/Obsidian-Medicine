@@ -13,166 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dementia.md",
+                "file": "statistics- basics about data.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "dementia"
-            }
-          },
-          {
-            "id": "20b495ad2a3723cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "statistics- graphical representations.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "statistics- graphical representations"
-            }
-          },
-          {
-            "id": "c260892c1ac4d17e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "statistics- graphical representations.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "statistics- graphical representations"
-            }
-          },
-          {
-            "id": "c20590c0b344b2ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "statistics- mean, median, mode.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "statistics- mean, median, mode"
-            }
-          },
-          {
-            "id": "9ff14b140c953dac",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://crukcancerintelligence.shinyapps.io/CancerStatsDataHub/_w_3fcbaae1cc564876b67093aefabcecde/_w_227c52eb888646ba8933a66eeb2fd4b3/?_inputs_&nav=%22Incidence%20Common%20Cancers%22&app_select_CancerSite=%22Kidney%22&app_select_Country=%22United%20Kingdom%22",
-                "title": "Cancer Stats Data Hub",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Cancer Stats Data Hub"
-            }
-          },
-          {
-            "id": "badee8098bdfd497",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "frontotemporal dementia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "frontotemporal dementia"
-            }
-          },
-          {
-            "id": "5f4528b9668a0e6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ankylosing spondylitis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "ankylosing spondylitis"
-            }
-          },
-          {
-            "id": "48c6d331b7cb7c1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "childhood syndromes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "childhood syndromes"
-            }
-          },
-          {
-            "id": "c14f2dc115ae2da9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hypercalcemia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "hypercalcemia"
-            }
-          },
-          {
-            "id": "43368c90f4e6cf02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gynaecomastia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "gynaecomastia"
-            }
-          },
-          {
-            "id": "3c05ac13250d01d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tumour marker.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "tumour marker"
+              "title": "statistics- basics about data"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,7 +86,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -249,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "statistics- graphical representations.md",
+                "file": "statistics- basics about data.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -277,7 +128,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of statistics- graphical representations"
+              "title": "Graph of statistics- basics about data"
             }
           }
         ]
@@ -389,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "statistics- graphical representations.md",
+                "file": "statistics- basics about data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -399,7 +250,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for statistics- graphical representations"
+              "title": "Backlinks for statistics- basics about data"
             }
           }
         ]
@@ -419,34 +270,34 @@
       "graph:Open graph view": false
     }
   },
-  "active": "c260892c1ac4d17e",
+  "active": "85774994797ebf68",
   "lastOpenFiles": [
-    "statistics- mean, median, mode.md",
+    "statistics- significance tests.md",
+    "statistics- basics about data.md",
+    "dementia.md",
     "statistics- graphical representations.md",
+    "tumour marker.md",
+    "gynaecomastia.md",
+    "hypercalcemia.md",
+    "childhood syndromes.md",
+    "ankylosing spondylitis.md",
+    "frontotemporal dementia.md",
+    "statistics- mean, median, mode.md",
+    "stats graphs- forest plot.md",
     "cancer- frequency.md",
     "cancer- breast (types).md",
     "grading to assess quality of evidence.md",
-    "frontotemporal dementia.md",
     "statistics- study types.md",
     "delirium.md",
     "hearing aid.md",
-    "dementia.md",
     "pernicious anemia.md",
     "supranuclear palsy.md",
     "parkinson's disease.md",
     "copd.md",
-    "hypercalcemia.md",
     "controlled drugs.md",
     "cocp.md",
     "porphyria.md",
     "hepatitis viruses.md",
-    "hepatitis.md",
-    "illicit drugs.md",
-    "toxins.md",
-    "atrial fibrillation.md",
-    "lithium.md",
-    "childhood syndromes.md",
-    "down's syndrome.md",
     "attachments/Hypernatraemia-Algorithm20.pdf",
     "attachments/stemi inferior.png",
     "attachments/heart- coronary arteries.jpg",
