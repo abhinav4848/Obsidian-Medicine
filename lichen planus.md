@@ -19,11 +19,11 @@ It's a clinical diagnosis.
 Itchy, non-infectious rash seen on palm, soles, genitalia, flexor aspect of arms.
 ### Mnemonic #mnemonic 
 4P + F & LP: 
-1. Purple, pruritic, papular, polygonal rash on Flexor surface.  
+1. Purple, pruritic, papular, polygonal rash on Flexor surface.
 2. LP: Lacy pattern (Wickham striae) #named  on the surface of buccal mucosa & skin.
 3. **Nail**: thinning of nail plate, Longitudinal grooving, scarring (& scarring [[alopecia]]), pterygium formation is common.
 
-![wickham striae|400](https://www.pcds.org.uk/imager/gallery/clinical/lichen-planus/13058/LP3_fee391183f15cb4d62773032fe0be92d.jpg)
+![wickham striae|400](https://www.pcds.org.uk/imager/gallery/clinical/lichen-planus/13058/LP3_fee391183f15cb4d62773032fe0be92d.jpg) 
 
 [[Koebner's phenomenon]] #named Can appear at the site of a trauma/scar as well. 
 
@@ -41,7 +41,7 @@ E.g.: *Healthcare worker in elderly home (not always scabies) has itchy, scaly, 
 
 ---
 # Differentials
-It must be differentiated from lichenoid drug eruptions caused by anti hypertensives and anti malarial drugs.
+It must be differentiated from lichenoid drug eruptions caused by anti hypertensives and anti malarial drugs. 
 ### Lichenoid drug eruptions
 **Causes:**
 - Gold,

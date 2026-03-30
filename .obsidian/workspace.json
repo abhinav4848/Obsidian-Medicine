@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cancer- skin.md",
+                "file": "lichen planus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cancer- skin"
+              "title": "lichen planus"
             }
           },
           {
@@ -159,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cancer- skin.md",
+                "file": "lichen planus.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -187,7 +187,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cancer- skin"
+              "title": "Graph of lichen planus"
             }
           }
         ]
@@ -299,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cancer- skin.md",
+                "file": "lichen planus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +309,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cancer- skin"
+              "title": "Backlinks for lichen planus"
             }
           }
         ]
@@ -331,6 +331,8 @@
   },
   "active": "85774994797ebf68",
   "lastOpenFiles": [
+    "cancer- skin.md",
+    "lichen planus.md",
     "hairy leukoplakia.md",
     "pernicious anemia.md",
     "cancer- gastric.md",
@@ -355,8 +357,6 @@
     "diabetes articles.md",
     "diabetes treatment.md",
     "antenatal care.md",
-    "down's syndrome.md",
-    "childhood syndromes.md",
     "attachments/Hypernatraemia-Algorithm20.pdf",
     "attachments/stemi inferior.png",
     "attachments/heart- coronary arteries.jpg",
