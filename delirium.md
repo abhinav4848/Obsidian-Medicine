@@ -9,6 +9,15 @@ aliases:
 - [[anticholinergics]] predispose to delirium.
 - [[dementia]] lowers the threshold for delirium, and delirium can also worsen dementia.
 
+# Clinical Features
+- Acute onset (hours–days)
+- Fluctuating course
+- Impaired attention (key feature)
+- ± altered consciousness, sleep disturbance
+	- Sleep–wake disturbance is **common in delirium**
+	- Helps distinguish from baseline cognition
+Confusion isn't a good sign if you don't know about its acuity because dementia can also have confusion. 
+
 ## Differential Diagnosis
 It is important to differentiate hypoactive delirium from catatonia, as treatment differs.
 - Catatonia treatment:
@@ -29,5 +38,5 @@ Although benzodiazepines can paradoxically worsen agitation, they are preferred 
 - Delirium due to [[alcohol]] withdrawal
 - [[extrapyramidal side-effects|Acute dopamine depletion syndrome]]
 - [[parkinson's disease|Parkinson's disease]] 
-- Lewy Body Dementia
+- [[dementia|Lewy Body Dementia]]  
 - Severe EPS

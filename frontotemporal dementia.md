@@ -22,7 +22,10 @@ Memory intact.
 #mnemonic Pick's disease likes to pick & eat sweet things, get angry, have violent outbursts and this history is from caregiver/ somebody else
 
 #confusion 
-Alzheimer: memory changes first
-Pick's: Personality changes first
+**Alzheimer**: memory changes first
+**Pick's**: Personality changes first
+
+**[[dementia#Lewy Body dementia linked|LBD]]**: Cognitive before Movement
+**Parkinson**'s: Movement before Cognitive
 # Imaging
 Focal gyral atrophy with a knife-blade appearance
