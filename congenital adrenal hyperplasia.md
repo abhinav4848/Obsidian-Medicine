@@ -10,7 +10,7 @@ Vomiting, Weight Loss, Lethargy, Dehydration, low Na+, high K+
 #mnemonic 
 If deficient enzyme starts with 1, it causes hypertension;
 if deficient enzyme ends with 1, it causes virilization in females
-- [[precocious puberty]] in males.
+- [[precocious puberty]] in males. 
 - Commonest form of Congenital Adrenal Hyperplasia is 21-alpha hydroxylase deficiency.
 # Neonatal features
 It may present in neonates and children with the following features: 

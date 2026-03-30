@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ssri.md",
+                "file": "amenorrhoea (primary).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ssri"
+              "title": "amenorrhoea (primary)"
             }
           }
         ]
@@ -55,11 +55,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "venlafax",
+                "query": "\"primary ameno\"",
                 "matchingCase": false,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ssri.md",
+                "file": "amenorrhoea (primary).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -128,7 +128,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ssri"
+              "title": "Graph of amenorrhoea (primary)"
             }
           }
         ]
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ssri.md",
+                "file": "amenorrhoea (primary).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ssri"
+              "title": "Backlinks for amenorrhoea (primary)"
             }
           }
         ]
@@ -272,9 +272,21 @@
   },
   "active": "85774994797ebf68",
   "lastOpenFiles": [
+    "congenital adrenal hyperplasia.md",
+    "amenorrhoea (primary).md",
+    "amenorrhoea (secondary).md",
+    "turner's syndrome.md",
+    "hypothyroidism.md",
+    "hyperprolactinemia.md",
+    "alex/c_7a0E14gwM.md",
+    "ssri.md",
     "depression.md",
     "suicide.md",
-    "ssri.md",
+    "coarctation of aorta.md",
+    "pcos.md",
+    "androgen insensitivity syndrome.md",
+    "irregular period.md",
+    "hepatitis.md",
     "monitoring bloods with drugs.md",
     "paediatric milestones.md",
     "examination of children.md",
@@ -286,18 +298,6 @@
     "statistics- biases.md",
     "statistics- significance tests.md",
     "statistics- basics about data.md",
-    "dementia.md",
-    "frontotemporal dementia.md",
-    "statistics- graphical representations.md",
-    "tumour marker.md",
-    "gynaecomastia.md",
-    "hypercalcemia.md",
-    "childhood syndromes.md",
-    "ankylosing spondylitis.md",
-    "statistics- mean, median, mode.md",
-    "stats graphs- forest plot.md",
-    "cancer- frequency.md",
-    "cancer- breast (types).md",
     "attachments/Hypernatraemia-Algorithm20.pdf",
     "attachments/stemi inferior.png",
     "attachments/heart- coronary arteries.jpg",

@@ -11,7 +11,7 @@ urls:
 ---
 # Clinical Features 
 - C/f of hyperandrogenism: [[hirsutism]], [[acne]], female pattern hair loss. 
-- Ovulation Disorders: Oligomenorrhoea, [[irregular period]], Secondary [[amenorrhoea]], Infertility
+- Ovulation Disorders: Oligomenorrhoea, [[irregular period]], [[amenorrhoea (secondary)|Secondary Amenorrhoea]], Infertility
 ### Rotterdam criteria
 Classify with Rotterdam criteria. #named 
 PCOS can be diagnosed if 2 out of 3 are present (but only when other aetiologies have been excluded):

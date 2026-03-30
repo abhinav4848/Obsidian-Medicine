@@ -60,5 +60,5 @@ ALP > 600
 ---
 # Autoimmune hepatitis
 Autoimmune hepatitis can also occur in people with f/h/o autoimmune disorders
-- Can lead to secondary [[amenorrhoea]] in young women
+- Can lead to [[amenorrhoea (secondary)|Secondary Amenorrhoea]] in young women
 - [[coeliac disease]]

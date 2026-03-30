@@ -9,14 +9,14 @@ aliases:
 The menstrual cycle becomes progressively more regular over time after menarche.
 This happens because the hypothalamic–pituitary–ovarian (HPO) axis matures gradually.
 
-| Stage                                    | What is considered irregular                               |
-| ---------------------------------------- | ---------------------------------------------------------- |
-| First year after menarche                | Irregular cycles are normal                                |
-| 1–3 years after menarche                 | Cycles <21 days or >45 days                                |
-| >3 years after menarche to perimenopause | Cycles <21 days or >35 days OR <8 cycles/year              |
-| Any time after menarche                  | >90 days for one cycle                                     |
-| Primary amenorrhoea                      | No period by 15 years OR >3 years after breast development |
-| Oligomenorrhoea                          | <8 cycles/year                                             |
+| Stage                                          | What is considered irregular                                |
+| ---------------------------------------------- | ----------------------------------------------------------- |
+| First year after menarche                      | Irregular cycles are normal                                 |
+| 1–3 years after menarche                       | Cycles <21 days or >45 days                                 |
+| >3 years after menarche to perimenopause       | Cycles <21 days or >35 days OR <8 cycles/year               |
+| Any time after menarche                        | >90 days for one cycle                                      |
+| [[amenorrhoea (primary)\|Primary Amenorrhoea]] | No period by 15 years OR >3 years after breast development  |
+| Oligomenorrhoea                                | <8 cycles/year                                              |
 #mnemonic 21-35-45-90
 # The 3 GP Rules (much easier)
 In practice most clinicians remember only:

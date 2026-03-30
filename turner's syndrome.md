@@ -7,7 +7,7 @@ Short, webbed neck, wide space nipples, ovarian failure, Impaired pubertal growt
 
 # Clinical Features
 May have learning problems, like math, nonverbal & social skills
-Primary [[amenorrhoea]] -> can conceive by assisted reproduction
+[[amenorrhoea (primary)|Primary Amenorrhoea]] -> can conceive by assisted reproduction
 
 # Treatment
 GH for height, Estrogen replacement for breast & hip development, & Osteoporosis.
