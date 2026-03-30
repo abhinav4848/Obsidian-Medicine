@@ -11,12 +11,16 @@ aliases:
 ---
 *See [[diabetes mellitus- diagnosis]].* 
 ![[diabetes articles]]
+
+Not everyone gets a screening test. At the first antenatal appointment, (booking appointment) at 8-12 weeks, risk factors are assessed and if having >=1 risk factor, screening test offered. 
 # Risk factors for gestational diabetes
+- Age > 40yo
 - BMI of > 30 kg/m²
 - previous macrosomic baby weighing >= 4.5kg
 - previous GDM
 - first-degree relative with DM
-- family origin with a high prevalence of DM (South Asian, [[afro-caribbean|black Caribbean]] and Middle Eastern)
+- family origin with a high prevalence of DM (South Asian, [[afro-caribbean|black Caribbean]] and Middle Eastern).
+- Gastric bypass/weight loss surgery. 
 - Unexplained stillbirth in previous pregnancy. 
 # Complications
 Maternal:

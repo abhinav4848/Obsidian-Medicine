@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "amenorrhoea (primary).md",
+                "file": "down's syndrome.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "amenorrhoea (primary)"
+              "title": "down's syndrome"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"primary ameno\"",
+                "query": "booking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "amenorrhoea (primary).md",
+                "file": "down's syndrome.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -128,7 +128,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of amenorrhoea (primary)"
+              "title": "Graph of down's syndrome"
             }
           }
         ]
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "amenorrhoea (primary).md",
+                "file": "down's syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for amenorrhoea (primary)"
+              "title": "Backlinks for down's syndrome"
             }
           }
         ]
@@ -272,8 +272,12 @@
   },
   "active": "85774994797ebf68",
   "lastOpenFiles": [
-    "congenital adrenal hyperplasia.md",
+    "antenatal care.md",
+    "childhood syndromes.md",
+    "incontinence- adult.md",
+    "diabetes- gestational.md",
     "amenorrhoea (primary).md",
+    "congenital adrenal hyperplasia.md",
     "amenorrhoea (secondary).md",
     "turner's syndrome.md",
     "hypothyroidism.md",
@@ -294,10 +298,6 @@
     "als- anaphylaxis.md",
     "antibiotic guidelines.md",
     "tetanus.md",
-    "post exposure prophylaxis.md",
-    "statistics- biases.md",
-    "statistics- significance tests.md",
-    "statistics- basics about data.md",
     "attachments/Hypernatraemia-Algorithm20.pdf",
     "attachments/stemi inferior.png",
     "attachments/heart- coronary arteries.jpg",

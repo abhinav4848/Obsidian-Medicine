@@ -62,10 +62,9 @@ Mirabegron ([[beta adrenergic receptors|beta 3 agonist]])
 
 ---
 # Stress Incontinence
-
 ### Clinical Features
 leaking small amounts when coughing or laughing
-### Treatment
+### Treatment 
 - Pelvic floor exercise (Kegel) >
 - Tension free vaginal tape (surgery) >
 - Duloxetine ([[depression|SNRI]]).
