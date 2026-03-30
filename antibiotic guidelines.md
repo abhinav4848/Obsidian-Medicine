@@ -24,14 +24,14 @@ The following is based on current BNF guidelines:
 | Acute prostatitis ([NICE- Prostatis](https://cks.nice.org.uk/topics/prostatitis-acute/)) | [[fluroquinolone\|Quinolone]] ([[ciprofloxacin]] or Ofloxacin) or trimethoprim |
 ##### Skin
 
-| **Condition**                      | **Recommended treatment**                                                            |
-| ---------------------------------- | ------------------------------------------------------------------------------------ |
-| [[impetigo]]                       | Topical hydrogen peroxide, oral flucloxacillin or erythromycin if widespread         |
-| Cellulitis                         | Flucloxacillin (clarithromycin, erythromycin or doxycycline if penicillin-allergic)  |
-| Cellulitis (near the eyes or nose) | Co-amoxiclav (clarithromycin, + [[metronidazole]] if penicillin-allergic)            |
-| Erysipelas                         | Flucloxacillin* (clarithromycin, erythromycin or doxycycline if penicillin-allergic) |
-| Animal or human bite               | Co-amoxiclav (doxycycline + metronidazole if penicillin-allergic)                    |
-| Mastitis during breast-feeding     | Flucloxacillin                                                                       |
+| **Condition**                      | **Recommended treatment**                                                                                                                                                                                                                                                                            |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[impetigo]]                       | Topical hydrogen peroxide, oral flucloxacillin or erythromycin if widespread                                                                                                                                                                                                                         |
+| Cellulitis                         | Flucloxacillin (clarithromycin, erythromycin or doxycycline if penicillin-allergic)                                                                                                                                                                                                                  |
+| Cellulitis (near the eyes or nose) | Co-amoxiclav (clarithromycin, + [[metronidazole]] if penicillin-allergic)                                                                                                                                                                                                                            |
+| Erysipelas                         | Flucloxacillin* (clarithromycin, erythromycin or doxycycline if penicillin-allergic)                                                                                                                                                                                                                 |
+| Animal or human bite               | Co-amoxiclav<br>- doxycycline + metronidazole if penicillin-allergic adult > 12yo<br>- Co-trimox if pen allergic child < 12yo (off-label)<br><br>Treat if bite has punctured the skin (including human bite). Assess for HIV/Hep B & C/BBV. <br>- uninfected bite: 3 days<br>- Infected bite: 5 days |
+| Mastitis during breast-feeding     | Flucloxacillin                                                                                                                                                                                                                                                                                       |
 ##### Ear, nose & throat
 
 |**Condition**|**Recommended treatment**|

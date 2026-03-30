@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "antibiotic guidelines.md",
+                "file": "paediatric milestones.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "antibiotic guidelines"
+              "title": "paediatric milestones"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bite",
+                "query": "development",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "antibiotic guidelines.md",
+                "file": "paediatric milestones.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -128,7 +128,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of antibiotic guidelines"
+              "title": "Graph of paediatric milestones"
             }
           }
         ]
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "antibiotic guidelines.md",
+                "file": "paediatric milestones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for antibiotic guidelines"
+              "title": "Backlinks for paediatric milestones"
             }
           }
         ]
@@ -272,6 +272,10 @@
   },
   "active": "85774994797ebf68",
   "lastOpenFiles": [
+    "examination of children.md",
+    "developmental dysplasia of the hip.md",
+    "als- anaphylaxis.md",
+    "antibiotic guidelines.md",
     "tetanus.md",
     "post exposure prophylaxis.md",
     "statistics- biases.md",
@@ -294,10 +298,6 @@
     "delirium.md",
     "hearing aid.md",
     "pernicious anemia.md",
-    "supranuclear palsy.md",
-    "parkinson's disease.md",
-    "copd.md",
-    "controlled drugs.md",
     "attachments/Hypernatraemia-Algorithm20.pdf",
     "attachments/stemi inferior.png",
     "attachments/heart- coronary arteries.jpg",
