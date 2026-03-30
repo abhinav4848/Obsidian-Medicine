@@ -2,6 +2,7 @@
 aliases:
   - Frequency of Cancers in UK
   - Incidence of cancer
+  - Most common cancer in UK
 ---
 # Frequency of Cancers in UK
 In order of incidence ([Cancer Research](https://www.cancerresearchuk.org/health-professional/cancer-statistics/incidence/common-cancers-compared#heading-Zero) ):  
@@ -24,4 +25,10 @@ In females:
 2. Lung
 3. Colorectal
 
+# Top Causes of Death (England and Wales, 2022)
+1. Dementia and Alzheimer’s disease – the number one cause overall (about 11.5 % of all deaths).
+2. Ischaemic heart diseases (including coronary heart disease) – the second most common cause, roughly 10.3 % of deaths.
+3. Chronic lower respiratory diseases – also among the top causes.
+4. Other major causes (not always in strict order) included various types of cancers and cerebrovascular diseases.
 
+For males, ischaemic heart disease was the leading cause, while for females, dementia and Alzheimer’s disease remained the leading cause.

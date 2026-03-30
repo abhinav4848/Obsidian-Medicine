@@ -1,0 +1,5 @@
+---
+tags:
+  - stats
+---
+mean: avera

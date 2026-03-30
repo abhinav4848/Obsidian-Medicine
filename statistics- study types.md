@@ -3,6 +3,7 @@ tags:
   - stats
 aliases:
   - study
+  - Meta-Analyses
 urls:
   - "[Centre for Evidence Based Medicine- Study designs](https://www.cebm.ox.ac.uk/resources/ebm-tools/study-designs)"
 ---
@@ -20,5 +21,15 @@ Odd's ratio is calculated in case control study
 [[statistics- risk reduction, nnt, odds ratio|EER, CER]] is calculated in randomised control trial
 # Cross sectional
 aka Prevalence study. 
-# Meta-analysis 
+# Meta-analysis vs Systematic Review
 The systematic review of randomised controlled trials. This is the highest level of evidence.
+
+| Feature              | Systematic Review                                             | Meta-analysis                                              |
+| -------------------- | ------------------------------------------------------------- | ---------------------------------------------------------- |
+| What it is           | Structured summary of all relevant studies                    | Statistical pooling of results                             |
+| Goal                 | Identify, appraise, and synthesise evidence                   | Produce a **single numerical estimate** (e.g. effect size) |
+| Method               | Predefined protocol, comprehensive search, critical appraisal | Uses data from included studies in a systematic review     |
+| Output               | Narrative + tables                                            | Forest plot, pooled estimate, confidence intervals         |
+| Always quantitative? | ❌ No                                                          | ✅ Yes                                                      |
+| Can exist alone?     | ✅ Yes                                                         | ❌ No (needs a systematic review first)                     |
+All meta-analyses are part of systematic reviews, but not all systematic reviews include a meta-analysis
