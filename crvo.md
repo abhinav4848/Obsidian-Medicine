@@ -8,6 +8,8 @@ aliases:
   - Branched retinal vein occlusion
 cssclasses:
 ---
+*compare with [[crao]]*
+
 Sudden, painless, u/l [[loss of vision]]. 
 # Fundoscopy
 Retina is hemorrhagic,

@@ -13,13 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diabetes drugs.md",
+                "file": "cancer- skin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "diabetes drugs"
+              "title": "cancer- skin"
+            }
+          },
+          {
+            "id": "a126e3d446a40631",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://cks.nice.org.uk/topics/contraception-progestogen-only-methods/",
+                "title": "CKS is only available in the UK | NICE",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "CKS is only available in the UK | NICE"
             }
           },
           {
@@ -67,8 +81,7 @@
               "title": "consent in young people"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -101,9 +114,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "leukoplak",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
@@ -146,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "consent in young people.md",
+                "file": "cancer- skin.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +187,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of consent in young people"
+              "title": "Graph of cancer- skin"
             }
           }
         ]
@@ -286,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "consent in young people.md",
+                "file": "cancer- skin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +309,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for consent in young people"
+              "title": "Backlinks for cancer- skin"
             }
           }
         ]
@@ -316,34 +329,34 @@
       "graph:Open graph view": false
     }
   },
-  "active": "484ea43330baee1a",
+  "active": "85774994797ebf68",
   "lastOpenFiles": [
-    "parental consent for children.md",
-    "consent in young people.md",
-    "ethical principles in medicine.md",
+    "hairy leukoplakia.md",
+    "pernicious anemia.md",
+    "cancer- gastric.md",
+    "rhinosinusitis.md",
+    "crvo.md",
+    "crao.md",
+    "retinal detachment.md",
+    "gynaecomastia.md",
+    "contraceptives.md",
     "contraceptive choice for young people.md",
+    "contraceptives in emergency.md",
+    "cocp.md",
+    "time for action of contraceptives.md",
+    "refractive error.md",
+    "diabetes drugs.md",
+    "insulin.md",
+    "consent in young people.md",
+    "parental consent for children.md",
+    "ethical principles in medicine.md",
     "panic attacks.md",
     "prevent future errors.md",
-    "insulin.md",
     "diabetes articles.md",
-    "diabetes drugs.md",
     "diabetes treatment.md",
     "antenatal care.md",
     "down's syndrome.md",
     "childhood syndromes.md",
-    "incontinence- adult.md",
-    "diabetes- gestational.md",
-    "amenorrhoea (primary).md",
-    "congenital adrenal hyperplasia.md",
-    "amenorrhoea (secondary).md",
-    "turner's syndrome.md",
-    "hypothyroidism.md",
-    "hyperprolactinemia.md",
-    "alex/c_7a0E14gwM.md",
-    "ssri.md",
-    "depression.md",
-    "suicide.md",
-    "coarctation of aorta.md",
     "attachments/Hypernatraemia-Algorithm20.pdf",
     "attachments/stemi inferior.png",
     "attachments/heart- coronary arteries.jpg",

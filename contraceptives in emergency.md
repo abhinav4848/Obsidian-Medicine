@@ -8,8 +8,8 @@ aliases:
 ---
 ![[contraception]]
 # Emergency Contraceptives
-- Levonorgestrel (Levonelle 1500mcg) and Ulipristal acetate (EllaOne) are progesterone-only emergency contraceptives that can be used after [[time for action of contraceptives|day 21 postpartum]].
-- Both can be used more than once during a menstrual cycle. Don’t combine them (no concomitant use).
+- Levonorgestrel (Levonelle 1500mcg) and Ulipristal acetate (EllaOne) are progesterone-only emergency contraceptives that can be used after [[time for action of contraceptives|day 21 postpartum]] (see [[cocp]] for UKMEC).
+- Both can be used more than once during a menstrual cycle. Don’t combine them (no concomitant use). 
 - After ovulation, only IUD is reliable.
 
 | Contraceptive                     | Mode of action                                                   |
@@ -32,7 +32,7 @@ aliases:
 - Caution in ==severe [[asthma]]==.
 # IUD
 *(IUS is not emergency contraception. See [[time for action of contraceptives]] & [[contraceptives]])*
-- Use within 120 hrs of UPSI.
+- Use within 120 hrs of UPSI. 
 - if a woman presents after more than 5 days of UPSI, then an IUD may be fitted up to 5 days after the likely ovulation date
 - is 99% effective regardless of where it is used in the cycle.
 - It prevents fertilisation (prevent sperm from reaching the egg), but even if that has occurred, can prevent implantation.

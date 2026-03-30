@@ -13,6 +13,5 @@ Floaters (Tiny floating black dots), and Flashers (flashing lights, aka Photopsi
 # Fundoscopy
 Grey opaque retina that balloons forward +/- Risk factors like (Myopia, cataract removal, recent eye trauma)
 - Separation/wrinkling of retina. 
-
 # Treatment
 Head tilt backward > Surgical/mechanical reattachment > scleral buckling.

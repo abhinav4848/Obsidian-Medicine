@@ -18,6 +18,9 @@ See [[cocp|COCP]].
 ---
 # Progesterone only
 [NICE CKS- Progesterone only contraception methods](https://cks.nice.org.uk/topics/contraception-progestogen-only-methods/). Also see [[time for action of contraceptives]]
+Pill- 99% effective & 9% will conceive in first year
+Implant- 0.05% will conceive in first year
+Depots- Perfect use (0.2% conceive in first year), typical use (6% conceive in first year). 
 ## Pill
 aka POP.
 No pill free interval. 

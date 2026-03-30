@@ -19,11 +19,10 @@ Sudden, painless, u/l [[loss of vision]] due to embolism/thrombotic disease at s
 [[confusion in ophthalmology|RAPD]]- the retina is ischemic and not transmitting light perception. 
 Associated with [[polymyalgia rheumatica|giant cell arteritis]]. 
 Visual loss may have been associated with transient loss of vision in the past ([[amaurosis fugax]]) if embolic sources. 
-
 ## Fundoscopy
 - pale/white retina (ischemia), 
 - cherry red spot on macula (cuz it's supplied by a different artery),
-- Vessels attenuation
+- Vessels attenuation 
 ![[crao.png|300]]
 ## Treatment
 if presents within 100 mins, firm ocular massage.
