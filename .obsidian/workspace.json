@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lichen planus.md",
+                "file": "diabetes mellitus- diagnosis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "lichen planus"
+              "title": "diabetes mellitus- diagnosis"
             }
           },
           {
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "leukoplak",
+                "query": "diabetes melli",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -159,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "lichen planus.md",
+                "file": "diabetes mellitus- diagnosis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -187,7 +187,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of lichen planus"
+              "title": "Graph of diabetes mellitus- diagnosis"
             }
           }
         ]
@@ -299,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lichen planus.md",
+                "file": "diabetes mellitus- diagnosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +309,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lichen planus"
+              "title": "Backlinks for diabetes mellitus- diagnosis"
             }
           }
         ]
@@ -331,8 +331,8 @@
   },
   "active": "85774994797ebf68",
   "lastOpenFiles": [
-    "cancer- skin.md",
     "lichen planus.md",
+    "cancer- skin.md",
     "hairy leukoplakia.md",
     "pernicious anemia.md",
     "cancer- gastric.md",
