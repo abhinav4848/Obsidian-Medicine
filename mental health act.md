@@ -1,7 +1,8 @@
 ---
 tags:
   - psychiatry
-revision counter: 1
+  - list
+revision counter: 2
 ---
 [Mental Health Act Made Simple (Most Commonly Used Sections)](https://www.youtube.com/watch?v=W7E_EaXWvgw) on YouTube.
 
@@ -19,4 +20,4 @@ Mental health acts are for mental health disorders only and cannot be used to su
 | Section 5(4) | Detention of voluntary patient for 6 hours                                  | Nurse in hospital can detain upto 6 hrs                 | -                                                            | 6 hours                           | Yes                                                                                                                                                                    |
 | Section 17a  | Supervised Community Treatment (CTO)                                        | -                                                       | -                                                            | -                                 | Yes - can be used to recall a patient to hospital for treatment if they do not comply with conditions of the order in the community, such as complying with medication |
 | Section 135  | Court order allowing police to enter property 🏠 & bring to place of safety | Court                                                   | -                                                            | -                                 | -                                                                                                                                                                      |
-| Section 136  | Police can take someone to a Place of Safety                                | Police                                                  | -                                                            | Up to 24 hours                    | -                                                                                                                                                                      |
+| Section 136  | Police can take someone to a Place of Safety from a public place            | Police                                                  | -                                                            | Up to 24 hours                    | -                                                                                                                                                                      |

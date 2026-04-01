@@ -5,6 +5,7 @@ aliases:
   - schizophrenic
 ---
 Chronic psychiatric disorder where [[psychosis]] is its core feature. 
+Patient has delusion, hallucination, disorders of thought perception. 
 
 Thought insertion is a first rank symptom of schizophrenia.
 # Risk of developing schizophrenia 

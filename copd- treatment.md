@@ -39,10 +39,11 @@ Eosinophil counts predict the effectiveness of inhaled corticosteroids. However,
 
 # Room for prophylactic Azithromycin  %%linked%%
 Azithromycin needs [[asthma- drugs|significant workup]] before starting so specialist only. 
-- No [[smoking]], eosinophil < 0.1, optimised treatment but still frequent exacerbations
+- No [[smoking]], eosinophil < 0.1, optimised treatment but still frequent (>3) exacerbations resulting in sputum production & steroid therapy & at least one hospitalisation. 
 	- Not recommended for people who still smoke. 
 - CT thorax excluded [[Bronchiectasis]] 
 - Sputum culture excluded Atypical infections & [[tuberculosis|TB]] 
+- Patients on the maximum inhaled therapy and who have already been referred for pulmonary rehabilitation.
 - LFT, ECG to exclude [[qt prolongation|QT prolongation]] as Azithromycin #abx can cause. 
 - 5 day course, whether it's Azithromycin, or oral Steroid
 # Mucolytics 

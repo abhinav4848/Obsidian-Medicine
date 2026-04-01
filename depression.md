@@ -35,9 +35,10 @@ Paroxetine.
 #### Side effects of SSRIs
 *See [[ssri#Side Effects of SSRIs linked|Side Effects of SSRIs]]* #important 
 ## MAOi 
-They are also antidepressants that are almost entirely not used, even in comparison to TCAs (dosulepin, etc.)
-MAO A for NA, 5-HT, Tyramine metabolism: Moclobemide, Phenelzine
-MAO B is selective for Dopamine metabolism: Selegiline, Rasagiline (Parkinson's only)
+They are also antidepressants that are almost entirely not used, (even in comparison to TCAs)
+**MAO A** for NA, 5-HT, Tyramine metabolism: Moclobemide, Phenelzine 
+- Phenelzine has high risk of hypertensive crisis with tyramine (cheese reaction)
+*MAO B is selective for Dopamine metabolism: Selegiline, Rasagiline ([[parkinson's disease|Parkinson's]] only)*
 
 ---
 # Atypical Antidepressants
@@ -90,6 +91,7 @@ Patients < 25yo, or at increased risk of [[suicide]] should be reviewed after 1 
 | Psychotic Depression                                                                 | TCA                                                                                                                                                                                                                                                                                                                                                          |
 | Under 18                                                                             | Fluoxetine only                                                                                                                                                                                                                                                                                                                                              |
 | Elderly                                                                              | Talking therapies such as CBT in older people are as effective as antidepressants in less severe depression. Antidepressant medications as carry a greater risk of side-effects in older adults, and have a lower risk–benefit ratio in less severe depression.                                                                                              |
+| On NSAIDs                                                                            | Don't normally offer SSRI, but if co-prescription necessary, give PPI.                                                                                                                                                                                                                                                                                       |
 # Questionnaire to assess mental health
 PHQ-9 (see [[scoring system|PHQ-9]]).
 

@@ -7,7 +7,7 @@ tags:
 ---
 # Bipolar disorder 
 It's a mood disorder.
-**Medications**: Lithium, quetiapine
+**Medications**: [[Lithium]], quetiapine
 # Interactions
 Addition of [[depression|antidepressants]] (sertraline, etc.) can worsen [[Mania]].
 

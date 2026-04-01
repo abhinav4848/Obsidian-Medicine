@@ -35,7 +35,7 @@ When stopping a SSRI the dose should be gradually reduced over a 4 week period
 - difficulty sleeping
 - unsteadiness
 - sweating
-- GI symptoms: pain, cramping, diarrhoea, vomiting
+- **GI symptoms**: pain, cramping, diarrhoea, vomiting
 - paraesthesia
 
 # SSRIs and Pregnancy
@@ -43,3 +43,5 @@ When stopping a SSRI the dose should be gradually reduced over a 4 week period
 - Use during the first trimester gives a small increased risk of congenital heart defects  
 - Use during the third trimester can result in persistent pulmonary hypertension of the newborn  
 - Paroxetine has an increased risk of congenital malformations, particularly in the first trimester
+
+Sertraline is good for post-partum depression. 
