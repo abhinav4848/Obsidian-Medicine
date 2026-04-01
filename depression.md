@@ -36,6 +36,8 @@ Paroxetine.
 *See [[ssri#Side Effects of SSRIs linked|Side Effects of SSRIs]]* #important 
 ## MAOi 
 They are also antidepressants that are almost entirely not used, even in comparison to TCAs (dosulepin, etc.)
+MAO A for NA, 5-HT, Tyramine metabolism: Moclobemide, Phenelzine
+MAO B is selective for Dopamine metabolism: Selegiline, Rasagiline (Parkinson's only)
 
 ---
 # Atypical Antidepressants

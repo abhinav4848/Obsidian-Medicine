@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diabetes mellitus- diagnosis.md",
+                "file": "depression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "diabetes mellitus- diagnosis"
+              "title": "depression"
             }
           },
           {
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diabetes melli",
+                "query": "ssri",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -159,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "diabetes mellitus- diagnosis.md",
+                "file": "depression.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -187,7 +187,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of diabetes mellitus- diagnosis"
+              "title": "Graph of depression"
             }
           }
         ]
@@ -299,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diabetes mellitus- diagnosis.md",
+                "file": "depression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +309,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for diabetes mellitus- diagnosis"
+              "title": "Backlinks for depression"
             }
           }
         ]
@@ -331,6 +331,10 @@
   },
   "active": "85774994797ebf68",
   "lastOpenFiles": [
+    "5-ht receptors (serotonin receptors).md",
+    "depression.md",
+    "ssri.md",
+    "diabetes mellitus- diagnosis.md",
     "lichen planus.md",
     "cancer- skin.md",
     "hairy leukoplakia.md",
@@ -353,10 +357,6 @@
     "parental consent for children.md",
     "ethical principles in medicine.md",
     "panic attacks.md",
-    "prevent future errors.md",
-    "diabetes articles.md",
-    "diabetes treatment.md",
-    "antenatal care.md",
     "attachments/Hypernatraemia-Algorithm20.pdf",
     "attachments/stemi inferior.png",
     "attachments/heart- coronary arteries.jpg",

@@ -10,6 +10,7 @@ Used in
 - [[depression]]
 - [[panic attacks|Panic disorder]]
 - [[panic attacks|Generalised Anxiety Disorder]]. 
+- OCD 
 # Side Effects of SSRIs %%linked%%
 For all antidepressants, warn about: 
 - delay in onset of effect
