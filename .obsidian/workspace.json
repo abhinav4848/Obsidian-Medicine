@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notifiable death.md",
+                "file": "pityriasis versicolor.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "notifiable death"
+              "title": "pityriasis versicolor"
             }
           },
           {
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coroner",
+                "query": "pityriasis rose",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notifiable death.md",
+                "file": "pityriasis versicolor.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +173,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of notifiable death"
+              "title": "Graph of pityriasis versicolor"
             }
           }
         ]
@@ -285,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notifiable death.md",
+                "file": "pityriasis versicolor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for notifiable death"
+              "title": "Backlinks for pityriasis versicolor"
             }
           }
         ]
@@ -317,8 +317,15 @@
   },
   "active": "85774994797ebf68",
   "lastOpenFiles": [
-    "notifiable diseases.md",
+    "pityriasis rosea.md",
+    "motor neurone disease.md",
+    "bulbar and pseudobulbar palsy.md",
+    "diabetes treatment.md",
+    "hba1c.md",
     "scarlet fever.md",
+    "kawasaki disease.md",
+    "notifiable diseases.md",
+    "notifiable death.md",
     "macrolides.md",
     "school in children with rash.md",
     "drugs contraindicated in pregnancy.md",
@@ -336,13 +343,6 @@
     "legg-calve-perthe's disease.md",
     "rheumatoid arthritis.md",
     "statistics- errors, confidence intervals.md",
-    "ra vs osteoarthritis.md",
-    "fertility.md",
-    "pcos.md",
-    "amiodarone.md",
-    "drugs that can cause ocular problems.md",
-    "digoxin.md",
-    "loss of vision.md",
     "attachments/Hypernatraemia-Algorithm20.pdf",
     "attachments/stemi inferior.png",
     "attachments/heart- coronary arteries.jpg",

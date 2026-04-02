@@ -5,7 +5,7 @@ urls:
   - "[Dermnetz- Scarlet Fever](https://dermnetnz.org/topics/scarlet-fever)"
 ---
 Most common in age 2-8 years due to group. A strep. 
-Affects people who recently had strep sore throat / impetigo
+Affects people who recently had strep sore throat / [[impetigo]]
 
 Fever (lasts 24-48 hrs), Sore throat, headache. 
 [[different rashes in paeds|Rash]]:

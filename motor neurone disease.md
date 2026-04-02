@@ -15,8 +15,12 @@ There is progressive loss of neurons, mainly motor neurons but also damage to
 	- weakness (UMN or LMN)
 	- spasticity (UMN)
 	- [[bulbar and pseudobulbar palsy|bulbar effects]] (UMN or LMN)
+		- Speech & swallowing
 		- tongue wasting, fasciculations (both LMN signs aka bulbar palsy)
-	- affects speech and swallowing. 
+	- affects speech and swallowing, pneumonia
+	- Foot drop
+
+Eye movement is spared. No cerebellar signs. Abdo reflexes preserved & sphincter dysfunction is a late feature. 
 # Types
 - Amyotrophic lateral sclerosis (ALS)- most common. 60% of all cases. Most often presents with limb features. 
 - Progressive bulbar palsy (PBP)- 2nd MC
