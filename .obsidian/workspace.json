@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "copd- treatment.md",
+                "file": "drugs that can cause ocular problems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "copd- treatment"
+              "title": "drugs that can cause ocular problems"
             }
           },
           {
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "copd",
+                "query": "yellow green vision",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -159,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "copd- treatment.md",
+                "file": "drugs that can cause ocular problems.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -187,7 +187,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of copd- treatment"
+              "title": "Graph of drugs that can cause ocular problems"
             }
           }
         ]
@@ -299,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "copd- treatment.md",
+                "file": "drugs that can cause ocular problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +309,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for copd- treatment"
+              "title": "Backlinks for drugs that can cause ocular problems"
             }
           }
         ]
@@ -331,8 +331,20 @@
   },
   "active": "85774994797ebf68",
   "lastOpenFiles": [
-    "personality disorder.md",
+    "loss of vision.md",
+    "digoxin.md",
+    "amiodarone.md",
+    "drugs that can cause ocular problems.md",
+    "p450.md",
+    "monitoring bloods with drugs.md",
+    "genital ulcers.md",
+    "gonorrhoea.md",
+    "testicular problems.md",
+    "tuberculosis.md",
+    "allopurinol.md",
+    "ssri.md",
     "copd- treatment.md",
+    "personality disorder.md",
     "asthma- diagnosis (algorithm).md",
     "asthma- management 2024.md",
     "asthma- drugs.md",
@@ -341,22 +353,10 @@
     "bipolar disorder.md",
     "psychosis.md",
     "schizophrenia.md",
-    "ssri.md",
     "depression.md",
     "parkinson's disease.md",
     "Parkinson.md",
     "5-ht receptors (serotonin receptors).md",
-    "diabetes mellitus- diagnosis.md",
-    "lichen planus.md",
-    "cancer- skin.md",
-    "hairy leukoplakia.md",
-    "pernicious anemia.md",
-    "cancer- gastric.md",
-    "rhinosinusitis.md",
-    "crvo.md",
-    "crao.md",
-    "retinal detachment.md",
-    "gynaecomastia.md",
     "attachments/Hypernatraemia-Algorithm20.pdf",
     "attachments/stemi inferior.png",
     "attachments/heart- coronary arteries.jpg",

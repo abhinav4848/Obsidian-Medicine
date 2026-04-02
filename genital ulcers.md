@@ -8,6 +8,7 @@ aliases:
   - genital herpes
   - hpv
   - epididymoorchitis
+  - Epididymo-orchitis
 ---
 Painless multiple: HPV 6, 11
 Painless single (Chancre): Syphilis (*painliss, Single*)
@@ -41,16 +42,21 @@ But mostly, Chlamydia & [[gonorrhoea|Gonorrhoea]] cause urethral discharge & dys
 [[behcet's disease]] can cause genital ulcers (also oral ulcer, anterior uveitis)
 See [[gynaecological infections#Genital herpes in Pregnancy linked|genital herpes in pregnancy]]
 
-# Epididymo-orchitis 
+# Epididymo-orchitis
 **c/f**: tender, swollen epididymis.
-**MCC**: [[chlamydia]] & [[gonorrhoea]] in young, sexually active. E. coli in older adults. 
+**MCC**: [[chlamydia]] & [[gonorrhoea]] in young, sexually active. 
+E. coli in older adults, arising from urinary tract colonisation
 
 **Investigations** for suspected epididymo-orchitis are guided by age:  
 - sexually active younger adults: NAAT for STIs (usually on a first-catch urine sample)
 - older adults with a low-risk sexual history: MSSU (as this age group, it's due to enteric organisms like E. coli. )
 
-DDx: Testicular torsion. 
+**DDx**: Testicular torsion. 
 
-Rx: If STI is the most likely cause, advise urgent self refer to local specialist sexual health clinic. 
-If organism unknown: Ceftriaxone 500mg i.m. single dose, + doxy 100mg PO 10-14 days
-If enteric organisms: Send MSU & empirical treat with [[fluroquinolone]] for 2weeks. 
+**Rx**:
+
+| Scenario                                                                      | Action                                                                                                           |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| STI most likely cause                                                         | Advise **urgent self-referral** to local specialist sexual health clinic                                         |
+| Organism unknown but STI suspected                                            | **Ceftriaxone 500 mg IM single dose** + **doxycycline 100 mg PO for 10–14 days** (covers chlamydia & gonorrhoea) |
+| Enteric organisms suspected (low STI risk, monogamous, no urethral discharge) | Send **MSU** + empirically treat with a fluoroquinolone for **2 weeks**                                          |

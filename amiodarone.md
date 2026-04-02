@@ -5,16 +5,23 @@ tags:
 [[antiarrhythmic drugs|antiarrhythmic drug]] 
 Used in V. Tach 
 [[p450]] inhibitor 
-
 # Monitoring 
-- Check U&e first 
+- TFT, LFT, U&E, CXR prior to treatment
+	- U&e to detect [[hypokalemia]] which can add to risk of arrhythmia. 
+- TFT, LFT every 6 months
 *see [[monitoring bloods with drugs]].* 
-
 # Side effects
 - can cause [[drugs that can cause ocular problems|Corneal Opacity]]. 
-- thyroid dysfunction
-### Amiodarone induced [[hypothyroidism]]. 
-*Called Wolff-Chaikoff effect: An autoregulatory phenomenon where thyroxine formation is inhibited due to high levels of circulating iodide*
+- [[lung fibrosis|pulmonary fibrosis]] / pneumonitis
+- liver fibrosis / hepatitis
+- peripheral neuropathy, myopathy
+- slate-grey appearance
+- thrombophlebitis at injection site, so give in central veins
+- bradycardia & [[qt prolongation]] (so can be pro arrhythmic)
+- thyroid dysfunction (hypo & hyper)
+# Thyroid dysfunction 
+### Amiodarone induced [[hypothyroidism]] 
+*Called Wolff-Chaikoff effect: An autoregulatory phenomenon where thyroxine formation is inhibited due to high levels of circulating iodide* 
 
 Amiodarone may be continued if this is desirable. 
 ### Amiodarone-induced thyrotoxicosis

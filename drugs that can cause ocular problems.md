@@ -2,6 +2,9 @@
 tags:
   - ophthal
   - pharmacology
+aliases:
+  - colour changes in vision
+  - other colour changes
 ---
 **Cataracts** 
 - steroids 
@@ -27,3 +30,9 @@ tags:
 Brown pigmentation of iris: Latanoprost
 #### Vision Change
 Yellow-green vision (Xanthopsia): Digoxin
+
+---
+# Other colour changes
+[[tuberculosis|Rifampicin]]: Body secretions orange/red
+[[amiodarone]]: slate-grey appearance
+

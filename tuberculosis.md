@@ -33,13 +33,13 @@ Mantoux used to diagnose only latent TB -> May be positive in patients with BCG 
 # Treatment & their side effects
 #pharmacology 
 
-| Medication      | Side effects                                                                                         |
-| --------------- | ---------------------------------------------------------------------------------------------------- |
-| INH (Isoniazid) | peripheral neuritis (give B6), [[hepatitis]] (hepatotoxicity), [[systemic lupus erythematosus\|SLE]] |
-| Rifampicin      | Red secretion, urine discolouration, [[p450]] induction                                              |
-| Pyrazinamide    | Hepatotoxicity, hyperuricemia -> [[Gout]] (Cat C: so isn't contraindicated but avoid it)             |
-| Ethambutol      | [[optic neuritis]], decrease visual acuity                                                           |
-| Streptomycin    | C/I in [[drugs contraindicated in pregnancy\|pregnancy]].<br><br>Ototoxicity: Deafness               |
+| Medication      | Side effects                                                                                                              |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| INH (Isoniazid) | peripheral neuritis (give B6), [[hepatitis]] (hepatotoxicity), [[systemic lupus erythematosus\|SLE]], [[p450]] inhibitor  |
+| Rifampicin      | [[Hepatitis]], Red secretion, urine discolouration, [[p450]] induction                                                    |
+| Pyrazinamide    | Hepatotoxicity, hyperuricemia -> [[Gout]] (Cat C: so isn't contraindicated but avoid it)                                  |
+| Ethambutol      | [[optic neuritis]], decrease visual acuity                                                                                |
+| Streptomycin    | C/I in [[drugs contraindicated in pregnancy\|pregnancy]].<br><br>Ototoxicity: Deafness                                    |
 # BCG Vaccine
 BCG offers limited protection against TB. In UK, it's given to high-risk infants. 
 	*See full list of who to give vaccine at the [Greenbook](https://www.gov.uk/government/publications/tuberculosis-the-green-book-chapter-32) Page 6*. 

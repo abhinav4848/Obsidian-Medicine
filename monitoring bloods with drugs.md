@@ -11,7 +11,7 @@ urls:
 | --------------------------------- | -------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | Statins                           | LFT                        | LFTs at baseline, 3 months and 12 months                                                                                |
 | [[ace inhibitors\|ACE inhibitor]] | U&E                        | U&E prior to treatment, then after 3 weeks of starting it<br><br>U&E after increasing dose<br><br>U&E at least annually |
-| [[amiodarone]]                    | TFT, LFT                   | TFT, LFT, U&E, CXR prior to treatment<br><br>TFT, LFT every 6 months                                                    |
+| [[amiodarone]]                    | TFT, LFT                   | TFT, LFT, U&E, CXR prior to treatment<br>- U&e to detect hypokalemia as risk of arrhythmia<br>TFT, LFT every 6 months   |
 
 ### Rheumatology drugs
 [NICE: Monitoring of DMARDs](https://cks.nice.org.uk/topics/dmards/management/monitoring-of-dmards/#azathioprine) 
