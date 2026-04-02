@@ -4,7 +4,8 @@ tags:
 urls:
   - "[Guide to Coroner Services](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/363879/guide-to-coroner-service.pdf)"
 ---
-The following deaths should be reported to the coroner  
+The following deaths should be reported to the coroner 
+
 - unexpected or sudden deaths
 - when the doctor attending the deceased did not see them within 28 days before death
     - this was increased from 14 days during the COVID pandemic
@@ -18,4 +19,9 @@ The following deaths should be reported to the coroner
 - stillbirths - if there is doubt as to whether the child was born alive
 - prisoner or people in police custody
 - service disability pensioners
+
+e.g. If a healthcare worked died due to HIV from needle prick, also for coroner
+
+
+
 

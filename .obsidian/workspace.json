@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drugs contraindicated in pregnancy.md",
+                "file": "notifiable death.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "drugs contraindicated in pregnancy"
+              "title": "notifiable death"
             }
           },
           {
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ofloxa",
+                "query": "coroner",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "drugs contraindicated in pregnancy.md",
+                "file": "notifiable death.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,12 +168,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.1215999959141519,
+                  "scale": 0.0656174340312788,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of drugs contraindicated in pregnancy"
+              "title": "Graph of notifiable death"
             }
           }
         ]
@@ -285,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drugs contraindicated in pregnancy.md",
+                "file": "notifiable death.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for drugs contraindicated in pregnancy"
+              "title": "Backlinks for notifiable death"
             }
           }
         ]
@@ -317,8 +317,12 @@
   },
   "active": "85774994797ebf68",
   "lastOpenFiles": [
-    "insulin.md",
+    "notifiable diseases.md",
+    "scarlet fever.md",
+    "macrolides.md",
+    "school in children with rash.md",
     "drugs contraindicated in pregnancy.md",
+    "insulin.md",
     "ciprofloxacin.md",
     "breastfeeding.md",
     "otitis.md",
@@ -339,10 +343,6 @@
     "drugs that can cause ocular problems.md",
     "digoxin.md",
     "loss of vision.md",
-    "anterior ischaemic optic neuropathy.md",
-    "p450.md",
-    "monitoring bloods with drugs.md",
-    "genital ulcers.md",
     "attachments/Hypernatraemia-Algorithm20.pdf",
     "attachments/stemi inferior.png",
     "attachments/heart- coronary arteries.jpg",

@@ -10,10 +10,9 @@ aliases:
   - macrolide
 ---
 Erythromycin- [[drugs contraindicated in pregnancy|Safe in pregnancy]]
-[[copd- treatment#Room for prophylactic Azithromycin linked|Azithromycin in COPD treatment]]
+[[copd- treatment#Room for prophylactic Azithromycin linked|Azithromycin in COPD treatment]], [[scarlet fever]] if pen allergy
 Clarithromycin- more active form of erythromycin. Used for [[h. pylori]] treatment
-
-# side effects
+# side effects 
 [[p450|Enzyme inhibitor. ]]
 Macrolides interact with [[statins]]. 
 Can cause [[qt prolongation|long QT syndrome]]

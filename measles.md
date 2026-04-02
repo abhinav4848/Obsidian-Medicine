@@ -32,6 +32,6 @@ K: *Koplik, Cough, Coryza, Conjunctivitis* #mnemonic
 - this should be given within 72 hours
 
 ---
-It's a [[Notifiable disease]].
+It's a [[notifiable diseases]].
 *See [[school in children with rash|school exclusion]]*
 See [[immunisation schedule (paeds)|immunisation schedule]] 

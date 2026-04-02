@@ -21,4 +21,4 @@ In pregnant women, teratogenic.
 - No documented risk after 20 weeks of gestation. 
 
 ---
-[[Notifiable disease]] 
+[[notifiable diseases]] 

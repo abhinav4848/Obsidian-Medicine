@@ -1,0 +1,40 @@
+---
+tags:
+  - infection
+  - admin
+urls:
+  - "[UK Gov- Notifiable diseases](https://www.gov.uk/government/collections/notifications-of-infectious-diseases-noids)"
+---
+- Acute encephalitis
+- Acute infectious hepatitis
+- Acute meningitis
+- Acute poliomyelitis
+- Anthrax 
+- Botulism 
+- Brucellosis
+- Cholera
+- COVID-19
+- [[diphtheria]]
+- Enteric fever (typhoid or paratyphoid fever)
+- Food poisoning
+- [[hus vs ttp|Haemolytic uraemic syndrome]]
+- Infectious bloody diarrhoea
+- Invasive group A streptococcal disease 
+- Legionnaires Disease
+- Leprosy
+- [[Malaria]]
+- [[Measles]]
+- Meningococcal septicaemia
+- [[Mumps]]
+- Plague
+- Rabies
+- [[Rubella]]
+- Severe Acute Respiratory Syndrome (SARS)
+- [[scarlet fever]]
+- Smallpox
+- [[Tetanus]]
+- [[Tuberculosis]]
+- Typhus
+- Viral haemorrhagic fever (VHF)
+- Whooping cough
+- Yellow fever
