@@ -10,14 +10,15 @@ revision counter: 1
 A null hypothesis (H0) states that two treatments are equally effective (and is hence negatively phrased). A significance test uses the sample data to assess how likely the null hypothesis is to be correct.
 # Errors, Power
 They're thresholds you're willing to accept. 
+#mnemonic **RTAF**: reject true H0 (α), accept false H0 (β)
 
-| Reality    | H0                  | H1                   |
-| ---------- | ------------------- | -------------------- |
-| Reality H0 | -                   | Alpha (Type 1 error) |
-| reality H1 | Beta (Type 2 error) | Power (1-Beta)       |
+| Reality    | H0               | H1               |
+| ---------- | ---------------- | ---------------- |
+| Reality H0 | -                | α (Type 1 error) |
+| reality H1 | β (Type 2 error) | Power (1-β)      |
 ### Type 1 error (α)
 This is also called significance level & tells the acceptable possibility of seeing a difference between 2 groups when it doesn't exist. 
-aka. False positive (The null hypothesis is rejected when it is true)
+aka. False positive (The null hypothesis is rejected when it is true) 
 
 i.e. the maximum acceptable probability of rejecting the null hypothesis when it's actually true. 
 > You conclude the new drug works when it doesn't. 

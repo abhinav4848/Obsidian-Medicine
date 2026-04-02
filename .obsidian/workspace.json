@@ -13,27 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drugs that can cause ocular problems.md",
+                "file": "statistics- errors, confidence intervals.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "drugs that can cause ocular problems"
-            }
-          },
-          {
-            "id": "a126e3d446a40631",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://cks.nice.org.uk/topics/contraception-progestogen-only-methods/",
-                "title": "CKS is only available in the UK | NICE",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "CKS is only available in the UK | NICE"
+              "title": "statistics- errors, confidence intervals"
             }
           },
           {
@@ -114,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "yellow green vision",
+                "query": "null hyp",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -159,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "drugs that can cause ocular problems.md",
+                "file": "statistics- errors, confidence intervals.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -187,7 +173,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of drugs that can cause ocular problems"
+              "title": "Graph of statistics- errors, confidence intervals"
             }
           }
         ]
@@ -299,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drugs that can cause ocular problems.md",
+                "file": "statistics- errors, confidence intervals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +295,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for drugs that can cause ocular problems"
+              "title": "Backlinks for statistics- errors, confidence intervals"
             }
           }
         ]
@@ -331,10 +317,16 @@
   },
   "active": "85774994797ebf68",
   "lastOpenFiles": [
-    "loss of vision.md",
-    "digoxin.md",
+    "rheumatoid arthritis.md",
+    "ra vs osteoarthritis.md",
+    "fertility.md",
+    "insulin.md",
+    "pcos.md",
     "amiodarone.md",
     "drugs that can cause ocular problems.md",
+    "digoxin.md",
+    "loss of vision.md",
+    "anterior ischaemic optic neuropathy.md",
     "p450.md",
     "monitoring bloods with drugs.md",
     "genital ulcers.md",
@@ -351,12 +343,6 @@
     "psychiatric disorders.md",
     "cyclothymia.md",
     "bipolar disorder.md",
-    "psychosis.md",
-    "schizophrenia.md",
-    "depression.md",
-    "parkinson's disease.md",
-    "Parkinson.md",
-    "5-ht receptors (serotonin receptors).md",
     "attachments/Hypernatraemia-Algorithm20.pdf",
     "attachments/stemi inferior.png",
     "attachments/heart- coronary arteries.jpg",

@@ -31,7 +31,7 @@ Increased LH causes increased Androgen -> converted to estradiol by aromatase in
 Give COCP -> regularise period and combat hirsutism.
 If no hirsutism & only treating irregular period -> Medroxyprogesterone.
 To treat infertility in PCOS, give clomifene > [[diabetes drugs|metformin]]. 
-Clomifene is an anti-oestrogen drug. 
+Clomifene is an anti-oestrogen drug initiated by secondary care. See [[fertility|infertility]]. 
 
 ---
 *Compare with [[Congenital adrenal hyperplasia]].*

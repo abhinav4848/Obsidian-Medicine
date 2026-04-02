@@ -6,33 +6,20 @@ aliases:
   - colour changes in vision
   - other colour changes
 ---
-**Cataracts** 
-- steroids 
+# Eye changes
 
-**Corneal opacities** 
-- [[amiodarone]] 
-- indomethacin 
-
-**[[Optic neuritis]]** 
-- [[tuberculosis|ethambutol]] 
-- amiodarone 
-- [[metronidazole]] 
-
-**Retinopathy** 
-- chloroquine, [[quinine]] (HCQ -> Bull's eye) 
-
-**Diplopia** 
-- Carbamazepine, Phenytoin 
-
-# Colour changes 
-#### Discolouration
-**[[Sildenafil]]** can cause both blue discolouration and non-arteritic [[anterior ischaemic optic neuropathy]]. 
-Brown pigmentation of iris: Latanoprost
-#### Vision Change
-Yellow-green vision (Xanthopsia): Digoxin
-
----
+| Change             | Drugs                                                                                                                                                                              |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cataracts          | steroids                                                                                                                                                                           |
+| Corneal opacities  | [[amiodarone]] <br>indomethacin (less likely)                                                                                                                                      |
+| [[Optic neuritis]] | - [[tuberculosis\|ethambutol]] <br>- amiodarone <br>- [[metronidazole]]                                                                                                            |
+| Retinopathy        | chloroquine, HCQ (→ bull’s eye maculopathy), [[quinine]] (less typical)                                                                                                            |
+| Diplopia           | Carbamazepine, Phenytoin                                                                                                                                                           |
+| Discolouration     | [[Sildenafil]] <br>- blue discolouration (PDE-6 inhibition) <br>- non-arteritic [[anterior ischaemic optic neuropathy]] (NAION)<br><br>Latanoprost<br>- Brown pigmentation of iris |
+| Vision Change      | Yellow-green vision (Xanthopsia): Digoxin                                                                                                                                          |
 # Other colour changes
-[[tuberculosis|Rifampicin]]: Body secretions orange/red
-[[amiodarone]]: slate-grey appearance
 
+| Colour changes             |                                                                                                                                                              |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Body secretions orange/red | [[tuberculosis\|Rifampicin]]                                                                                                                                 |
+| slate-grey appearance      | [[amiodarone]]                                                                                                                                               |
