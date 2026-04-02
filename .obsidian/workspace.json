@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "antibiotic guidelines.md",
+                "file": "cow milk allergy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "antibiotic guidelines"
+              "title": "cow milk allergy"
             }
           },
           {
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"bite\"",
+                "query": "cow milk",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "antibiotic guidelines.md",
+                "file": "cow milk allergy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of antibiotic guidelines"
+              "title": "Graph of cow milk allergy"
             }
           }
         ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "antibiotic guidelines.md",
+                "file": "cow milk allergy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for antibiotic guidelines"
+              "title": "Backlinks for cow milk allergy"
             }
           }
         ]
@@ -318,14 +318,17 @@
   },
   "active": "85774994797ebf68",
   "lastOpenFiles": [
+    "vomiting in paeds.md",
+    "cow milk allergy.md",
+    "git problems in paeds.md",
+    "hiv.md",
+    "antibiotic guidelines.md",
     "tetanus.md",
     "post exposure prophylaxis.md",
     "chicken pox.md",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
-    "antibiotic guidelines.md",
     "diabetes articles.md",
     "insulin.md",
-    "hiv.md",
     "hepatitis viruses.md",
     "lyme disease.md",
     "cell histology.md",
@@ -344,8 +347,6 @@
     "acne vulgaris.md",
     "anticholinergics.md",
     "discoid eczema.md",
-    "pityriasis versicolor.md",
-    "motor neurone disease.md",
     "attachments/Hypernatraemia-Algorithm20.pdf",
     "attachments/stemi inferior.png",
     "attachments/heart- coronary arteries.jpg",
