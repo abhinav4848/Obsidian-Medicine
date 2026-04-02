@@ -70,6 +70,9 @@ Immediate contraception if inserted ≤7 days from start of menstruation; otherw
 	- If a woman is using contraception, she has fewer pregnancies overall.  
 	- Among those pregnancies that _do_ happen, a slightly higher fraction might be ectopic.
 - Expulsion risk: 1 in 20
+###### Duration for effect
+- Effective for 8 years, but if used in women ≥45 years it is effective until 55 years
+- if used as endometrial protection for women taking oestrogen-only hormone replacement therapy they are only licensed for 5 years
 ##### Differences 
 
 | IUS Type    | Licensed Duration                            | LNG Content | Size / Inserter                       | Notes                                                                                                                                                                                                                                                                                                                                                    |
@@ -80,5 +83,5 @@ Immediate contraception if inserted ≤7 days from start of menstruation; otherw
 ### IUD (Copper-T)
 - Cu-T decreases sperm motility and survival.
 - Copper IUDs typically make periods heavier, longer and more painful.
-- can be relied upon ==immediately== following insertion
+- can be relied upon ==immediately== following insertion. *See [[contraceptives in emergency|Emergency contraception]]* 
 - the majority of IUDs with copper on the stem only are effective for 5 years, whereas some of the IUDs that have copper on the stem and the arms of the T may be effective for up to 10 years

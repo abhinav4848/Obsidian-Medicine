@@ -7,8 +7,11 @@ aliases:
   - Slipped Capital Femoral Epiphysis
   - SCFE
 ---
-*see [[lower limb ortho problems]]* 
+*see [[lower limb ortho problems]] & [[paeds ortho diff- ddh, perthe's, sufe]]*  
 
+# Cause
+idiopathic > Hypothyroidism & some other endocrine disorders. 
+- Thyroid deficiency is thought to reduce the stability of the growth plates, which can increase the risk of SUFE. Of note, hypothyroidism can be associated with a higher rate of bilateral SUFE.
 # Aetiology
 Physis: means growth plate. 
 
@@ -22,11 +25,11 @@ The proximal femoral physis weakens causing the femoral metaphysis to ‘slip’
 # Clinical Features
 - 9-15 yo overweight boy (more common in males). 
 - #mnemonic - [[legg-calve-perthe's disease|Perthe's]] -> Primary School, SUFE -> Secondary school
+- **Painful LL**: Hip/groin/medial thigh/knee pain 
 - Affected leg shorter. 
-- Painful LL. 
-
-Externally rotated hip that increases with hip flexion.
-Reduced hip abduction. 
+- Externally rotated hip that increases with hip flexion.
+	- Loss of internal rotation of leg in flexion. 
+- Reduced hip abduction. 
 
 >[!warning]
 >Orthopaedic #emergency.

@@ -64,3 +64,15 @@ UTI Alternatives:
 | [[hepatitis viruses#Hepatitis C\|Hepatitis C]]                                                                                                                                                                                                                                                                                                                                                                                                              | - galactosaemia<br>- viral infections - this is controversial wrt [[HIV]] in the developing world. This is because there is such an increased infant mortality and morbidity associated with bottle feeding, that some doctors think the benefits outweigh the risk of HIV transmission                                                                                                                       |
 \*the BNF advises that the amount is too small to affect neonatal hypothyroidism screening  
 \*\*clozapine should be avoided
+
+# Pregnancy Prevention program with selected drugs
+Following meds are required to have pregnancy prevention programme. Following medications require it:  
+- valproate  
+- topiramate  
+- thalidomide  
+- lenalidomide  
+- pomalidomide  
+- vismodegib  
+- isotretinoin  
+- acitretin  
+- alitretinoin

@@ -35,3 +35,9 @@ I for Instant: Cu-IUD
 | ----------------------------------------------- | --------------------------------------- |
 | Day 1–7 of cycle (first 7 days of menstruation) | Immediate protection                    |
 | After day 7 of cycle                            | Use additional contraception for 7 days |
+
+---
+**Question**: A 32-year-old woman attends to have her copper IUD removed. She's currently on day 4 of her regular 30-day menstrual cycle. Following the removal of the IUD, she would like to start  COCP. There are no contra-indications to the COCP.
+**Answer**: Start COCP immediately as day 1-5 of cycle. No further contraceptives. 
+If she switched to IUS: No worries within 7 days
+If she switched to POP or Nexplanon: No worries within 5 days

@@ -15,7 +15,7 @@ tags:
 ---
 Degenerative condition of hip joints in [[limping child|children]] aged 3 - 9 years. (more common in boys & 10% cases are b/l)
 
-Leads to avascular necrosis of femur epiphysis.
+Idiopathic avascular necrosis (AVN) of the femoral head/epiphysis in children
 Chronic disease. 
 
 >[!notice]
