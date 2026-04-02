@@ -8,33 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85774994797ebf68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "iliotibial band syndrome.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "iliotibial band syndrome"
-            }
-          },
-          {
             "id": "b8da33799ff8b563",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "insulin.md",
+                "file": "diabetes articles.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "insulin"
+              "title": "diabetes articles"
+            }
+          },
+          {
+            "id": "85774994797ebf68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "antibiotic guidelines.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "antibiotic guidelines"
             }
           },
           {
@@ -67,7 +67,8 @@
               "title": "consent in young people"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iliotibia",
+                "query": "\"bite\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -145,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "iliotibial band syndrome.md",
+                "file": "antibiotic guidelines.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of iliotibial band syndrome"
+              "title": "Graph of antibiotic guidelines"
             }
           }
         ]
@@ -285,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "iliotibial band syndrome.md",
+                "file": "antibiotic guidelines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for iliotibial band syndrome"
+              "title": "Backlinks for antibiotic guidelines"
             }
           }
         ]
@@ -317,11 +318,22 @@
   },
   "active": "85774994797ebf68",
   "lastOpenFiles": [
+    "tetanus.md",
+    "post exposure prophylaxis.md",
+    "chicken pox.md",
+    "flow charts/chicken pox treatment flowchart (work in progress).canvas",
+    "antibiotic guidelines.md",
+    "diabetes articles.md",
+    "insulin.md",
+    "hiv.md",
+    "hepatitis viruses.md",
+    "lyme disease.md",
+    "cell histology.md",
+    "iliotibial band syndrome.md",
     "osteochondritis dissecans.md",
     "chondromalacia patellae.md",
     "lower limb ortho problems.md",
     "patellar tendonitis.md",
-    "iliotibial band syndrome.md",
     "osteoporosis.md",
     "bisphosphonates.md",
     "hypoglycemia.md",
@@ -330,21 +342,10 @@
     "housekeeping/revise recent changes.base",
     "housekeeping/memorise.base",
     "acne vulgaris.md",
-    "insulin.md",
     "anticholinergics.md",
     "discoid eczema.md",
     "pityriasis versicolor.md",
     "motor neurone disease.md",
-    "bulbar and pseudobulbar palsy.md",
-    "diabetes treatment.md",
-    "hba1c.md",
-    "scarlet fever.md",
-    "kawasaki disease.md",
-    "notifiable diseases.md",
-    "notifiable death.md",
-    "macrolides.md",
-    "school in children with rash.md",
-    "drugs contraindicated in pregnancy.md",
     "attachments/Hypernatraemia-Algorithm20.pdf",
     "attachments/stemi inferior.png",
     "attachments/heart- coronary arteries.jpg",
@@ -371,7 +372,6 @@
     "flow charts/cocp after delivery- ukmec.canvas",
     "Untitled.base",
     "flow charts/shoulder exam.canvas",
-    "flow charts/paeds examination.canvas",
-    "flow charts/chicken pox treatment flowchart (work in progress).canvas"
+    "flow charts/paeds examination.canvas"
   ]
 }

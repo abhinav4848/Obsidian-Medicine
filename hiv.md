@@ -13,7 +13,7 @@ urls:
 >[!notice]
 >Man returns from [[travel infections|travel]] abroad with maculopapular rash and flu-like illness - think HIV seroconversion 
 
-*See: [[post exposure prophylaxis]].* 
+*See: [[post exposure prophylaxis]] for HIV treatment
 # Pathogenesis
 Occurs in 40-90% of patients 2-12 weeks after initial exposure.
 
@@ -63,3 +63,5 @@ From [NICE CKS](https://www.nice.org.uk/guidance/qs157/chapter/Quality-statement
 - At 4 weeks (28 days): test is very reassuring but not fully definitive
 - At 45 days: considered conclusive for 4th-gen lab tests (but guidelines still want repeat at 12 weeks)
 - Earlier than that: may need repeat testing
+
+![[post exposure prophylaxis#HIV pep transcluded]]

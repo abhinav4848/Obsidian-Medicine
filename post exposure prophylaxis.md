@@ -27,7 +27,7 @@ tags:
 
 ---
 ## HIV pep %%transcluded%%
-- The risk of [[HIV]] transmission depends on the nature of the exposure (e.g. needlestick, type of sexual contact, human bite) and the viral load of the source individual
+- The risk of [[HIV]] transmission depends on the nature of the exposure (e.g. needlestick, type of sexual contact, [[antibiotic guidelines|human bite]]) and the viral load of the source individual
 - Low-risk incidents such as human bites generally do not require post-exposure prophylaxis (PEP), unless blood is present or other risk factors apply
 - First-line PEP regimen is oral **antiretroviral therapy**: tenofovir disoproxil/emtricitabine (Truvada®) + raltegravir
     - PEP should be started as soon as possible (ideally within 1–2 hours, and no later than 72 hours post-exposure)
@@ -39,6 +39,11 @@ tags:
 ## Varicella zoster pep 
 - Varicella zoster immunoglobulin (VZIG) should be given to **IgG-negative pregnant women or immunosuppressed individuals** after significant exposure
     - If VZIG is unavailable or >10 days post-exposure, **oral aciclovir** may be considered (based on risk assessment)
+- See [[chicken pox|chickenpox]] 
+
+---
+## Tetanus
+See [[tetanus]]
 
 ---
 # Estimates of transmission risk for single needlestick injury
