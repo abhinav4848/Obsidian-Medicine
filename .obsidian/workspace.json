@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contraceptives in emergency.md",
+                "file": "drugs contraindicated in pregnancy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "contraceptives in emergency"
+              "title": "drugs contraindicated in pregnancy"
             }
           },
           {
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "time to action",
+                "query": "ofloxa",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "contraceptives in emergency.md",
+                "file": "drugs contraindicated in pregnancy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +173,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of contraceptives in emergency"
+              "title": "Graph of drugs contraindicated in pregnancy"
             }
           }
         ]
@@ -285,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contraceptives in emergency.md",
+                "file": "drugs contraindicated in pregnancy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for contraceptives in emergency"
+              "title": "Backlinks for drugs contraindicated in pregnancy"
             }
           }
         ]
@@ -306,17 +306,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
+      "bases:Create new base": false,
       "obsifetch:obsifetch": false,
       "graph:Open graph view": false
     }
   },
   "active": "85774994797ebf68",
   "lastOpenFiles": [
+    "insulin.md",
+    "drugs contraindicated in pregnancy.md",
+    "ciprofloxacin.md",
+    "breastfeeding.md",
+    "otitis.md",
+    "respiratory tract infections.md",
+    "contraceptives in emergency.md",
     "contraceptives.md",
     "time for action of contraceptives.md",
     "contraception.md",
@@ -324,11 +331,9 @@
     "paeds ortho diff- ddh, perthe's, sufe.md",
     "legg-calve-perthe's disease.md",
     "rheumatoid arthritis.md",
-    "drugs contraindicated in pregnancy.md",
     "statistics- errors, confidence intervals.md",
     "ra vs osteoarthritis.md",
     "fertility.md",
-    "insulin.md",
     "pcos.md",
     "amiodarone.md",
     "drugs that can cause ocular problems.md",
@@ -338,11 +343,6 @@
     "p450.md",
     "monitoring bloods with drugs.md",
     "genital ulcers.md",
-    "gonorrhoea.md",
-    "testicular problems.md",
-    "tuberculosis.md",
-    "allopurinol.md",
-    "ssri.md",
     "attachments/Hypernatraemia-Algorithm20.pdf",
     "attachments/stemi inferior.png",
     "attachments/heart- coronary arteries.jpg",
