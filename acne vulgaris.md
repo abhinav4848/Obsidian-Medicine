@@ -2,9 +2,9 @@
 tags:
   - dermat
 urls:
-  - https://dermnetnz.org/topics/acne-vulgaris
-  - https://www.pcds.org.uk/files/general/Acne-Pathway-2024-final-proof.pdf
-  - https://www.pcds.org.uk/clinical-guidance/acne-vulgaris
+  - "[Dermnetz- Acne Vulgaris](https://dermnetnz.org/topics/acne-vulgaris)"
+  - "[PCDS- Acne pathway PDF](https://www.pcds.org.uk/files/general/Acne-Pathway-2024-final-proof.pdf)"
+  - "[PCDS- Acne Vulgaris](https://www.pcds.org.uk/clinical-guidance/acne-vulgaris)"
   - "[NICE- Acne Vulgaris](https://cks.nice.org.uk/topics/acne-vulgaris/management/primary-care-management/)"
 ---
 Occurs in adolescence 

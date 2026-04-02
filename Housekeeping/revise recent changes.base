@@ -71,3 +71,8 @@ views:
     sort:
       - property: file.mtime
         direction: ASC
+  - type: table
+    name: all files
+    order:
+      - file.name
+      - urls

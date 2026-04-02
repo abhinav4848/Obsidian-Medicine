@@ -14,3 +14,6 @@ But guttate psoriasis is preceded by **streptococcal sore throat** 2-4 weeks bef
 
 ## Treatment
 Spontaneous resolve 2-3 months > topical agents like psoriasis > UVB phototherapy
+
+
+![[pityriasis rosea#Diff transcluded]]

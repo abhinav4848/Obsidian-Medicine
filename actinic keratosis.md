@@ -5,8 +5,8 @@ tags:
 aliases:
   - Solar Keratoses.
 urls:
-  - https://www.pcds.org.uk/clinical-guidance/actinic-keratosis-syn-solar-keratosis
-  - https://dermnetnz.org/topics/actinic-keratosis
+  - "[PCDS- Actinic Keratosis](https://www.pcds.org.uk/clinical-guidance/actinic-keratosis-syn-solar-keratosis)"
+  - "[Dermnetz- Actinic Keratosis](https://dermnetnz.org/topics/actinic-keratosis)"
 ---
 
 See [[cancer- skin]]. 

@@ -3,9 +3,9 @@ tags:
   - pharmacology
   - neurology
 urls:
-  - https://www.hey.nhs.uk/patient-leaflet/anticholinergic-burden-acb/
-  - https://www.amboss.com/us/knowledge/muscarinic-antagonists/
-  - https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2023/01/LPT-Anticholinergic-side-effects-and-prescribing-guidance.pdf
+  - "[Anticholinergic Burden (ACB) | Hull University NHS](https://www.hey.nhs.uk/patient-leaflet/anticholinergic-burden-acb/)"
+  - "[Muscarinic antagonists - AMBOSS](https://www.amboss.com/us/knowledge/muscarinic-antagonists/)"
+  - "[LMSG Anticholinergics](https://www.lmsg.nhs.uk/wp-content/uploads/2023/01/LPT-Anticholinergic-side-effects-and-prescribing-guidance.pdf)"
 aliases:
   - Anticholinergic
   - AntiMuscarinic
@@ -13,7 +13,6 @@ aliases:
   - Anticholinergic burden
 ---
 Useful as [[antiemetics]]. 
-
 # Side effects
 - dry mouth
 - blurred vision

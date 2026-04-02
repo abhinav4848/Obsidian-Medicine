@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pityriasis versicolor.md",
+                "file": "iliotibial band syndrome.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "pityriasis versicolor"
+              "title": "iliotibial band syndrome"
             }
           },
           {
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pityriasis rose",
+                "query": "iliotibia",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pityriasis versicolor.md",
+                "file": "iliotibial band syndrome.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +173,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of pityriasis versicolor"
+              "title": "Graph of iliotibial band syndrome"
             }
           }
         ]
@@ -285,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pityriasis versicolor.md",
+                "file": "iliotibial band syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pityriasis versicolor"
+              "title": "Backlinks for iliotibial band syndrome"
             }
           }
         ]
@@ -317,7 +317,23 @@
   },
   "active": "85774994797ebf68",
   "lastOpenFiles": [
+    "osteochondritis dissecans.md",
+    "chondromalacia patellae.md",
+    "lower limb ortho problems.md",
+    "patellar tendonitis.md",
+    "iliotibial band syndrome.md",
+    "osteoporosis.md",
+    "bisphosphonates.md",
+    "hypoglycemia.md",
     "pityriasis rosea.md",
+    "guttate psoriasis.md",
+    "housekeeping/revise recent changes.base",
+    "housekeeping/memorise.base",
+    "acne vulgaris.md",
+    "insulin.md",
+    "anticholinergics.md",
+    "discoid eczema.md",
+    "pityriasis versicolor.md",
     "motor neurone disease.md",
     "bulbar and pseudobulbar palsy.md",
     "diabetes treatment.md",
@@ -329,20 +345,6 @@
     "macrolides.md",
     "school in children with rash.md",
     "drugs contraindicated in pregnancy.md",
-    "insulin.md",
-    "ciprofloxacin.md",
-    "breastfeeding.md",
-    "otitis.md",
-    "respiratory tract infections.md",
-    "contraceptives in emergency.md",
-    "contraceptives.md",
-    "time for action of contraceptives.md",
-    "contraception.md",
-    "slipped upper femoral epiphysis.md",
-    "paeds ortho diff- ddh, perthe's, sufe.md",
-    "legg-calve-perthe's disease.md",
-    "rheumatoid arthritis.md",
-    "statistics- errors, confidence intervals.md",
     "attachments/Hypernatraemia-Algorithm20.pdf",
     "attachments/stemi inferior.png",
     "attachments/heart- coronary arteries.jpg",
@@ -367,10 +369,8 @@
     "alex",
     "flow charts/haematuria.canvas",
     "flow charts/cocp after delivery- ukmec.canvas",
-    "housekeeping/revise recent changes.base",
     "Untitled.base",
     "flow charts/shoulder exam.canvas",
-    "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "flow charts/paeds examination.canvas",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas"
   ]
