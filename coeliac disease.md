@@ -58,7 +58,7 @@ if there is confirmed IgA deficiency but coeliac still suspected, test for:
 Patient would need to do duodenal biopsy (as coeliac affects duodenum & proximal jejunum) for histological confirmation- Gold standard for diagnosis. 
 
 # Management
-### Foods to eat/avoid
+### Foods to eat/avoid %%embedded%%
 
 | Eat                                                      | Avoid                                                                                                                                                        |
 | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |

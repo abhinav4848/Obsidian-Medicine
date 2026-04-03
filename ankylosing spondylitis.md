@@ -17,7 +17,7 @@ Associated with [[inflammatory bowel disease|crohn's disease]], Leukocytosis, Ca
 - Apical fibrosis- a rare extra-articular pulmonary complication
 - Anterior [[uveitis]]
 - Aortic regurgitation,
-- [[foot problems|Achilles tendonitis]]
+- [[foot problems|Achilles tendonitis]] (enthesitis)
 - AV node block (heart block)
 - Amyloidosis
 

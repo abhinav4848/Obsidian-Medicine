@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "statistics- risk reduction, nnt, odds ratio.md",
+                "file": "ankylosing spondylitis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "statistics- risk reduction, nnt, odds ratio"
+              "title": "ankylosing spondylitis"
             }
           },
           {
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ratio stats",
+                "query": "uveitis",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "statistics- risk reduction, nnt, odds ratio.md",
+                "file": "ankylosing spondylitis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of statistics- risk reduction, nnt, odds ratio"
+              "title": "Graph of ankylosing spondylitis"
             }
           }
         ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "statistics- risk reduction, nnt, odds ratio.md",
+                "file": "ankylosing spondylitis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for statistics- risk reduction, nnt, odds ratio"
+              "title": "Backlinks for ankylosing spondylitis"
             }
           }
         ]
@@ -318,6 +318,14 @@
   },
   "active": "85774994797ebf68",
   "lastOpenFiles": [
+    "uveitis.md",
+    "episcleritis.md",
+    "granulomatosis with polyangiitis.md",
+    "inflammatory bowel disease.md",
+    "hyperglycemia.md",
+    "diabetes articles.md",
+    "coeliac disease.md",
+    "statistics- risk reduction, nnt, odds ratio.md",
     "cancer- screening programs.md",
     "gord.md",
     "frontotemporal dementia.md",
@@ -337,14 +345,6 @@
     "ondansetron.md",
     "congenital cyanotic diseases of heart.md",
     "coarctation of aorta.md",
-    "newborn Infant physical examination.md",
-    "examination of children.md",
-    "gord in children.md",
-    "gastroprotection.md",
-    "cow milk allergy.md",
-    "vomiting in paeds.md",
-    "git problems in paeds.md",
-    "hiv.md",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "housekeeping/revise recent changes.base",
     "housekeeping/memorise.base",

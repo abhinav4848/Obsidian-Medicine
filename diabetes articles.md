@@ -12,9 +12,9 @@ tags:
 > - [[glycosuria]]
 > - [[diabetes mellitus 1|T1DM]] 
 > - [[diabetes- gestational|GDM]] 
-> Acute: 
-> 	[[hypoglycemia]], [[hhs|HHS]], [[diabetic ketoacidosis|DKA]]
-> Misc: 
-> 	[[diabetes in palliative care|Palliative]], [[diabetes- pre-op control|Pre-Op control]]
-> See Also:
-> 	[[diabetes insipidus]] 
+>Acute: 
+>- [[hypoglycemia]], [[hyperglycemia]] [[hhs|HHS]], [[diabetic ketoacidosis|DKA]]
+>Misc: 
+>- [[diabetes in palliative care|Palliative]], [[diabetes- pre-op control|Pre-Op control]]
+>See Also:
+>- [[diabetes insipidus]] 

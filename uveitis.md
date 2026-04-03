@@ -6,7 +6,7 @@ tags:
 *See [[red eye]].*
 
 Though the term uveitis means inflammation of the uveal tract (iris, ciliary body, and choroid), it can involve the adjacent structures like the retina, retinal vessels, vitreous, optic nerve head, and sclera.
-## Anterior Uveitis
+# Anterior Uveitis
 Inflammation of anterior part of uvea. i.e. Iris, ciliary body. This is the classic extra-articular manifestation of the HLA-B27–associated diseases.
 
 Common associated conditions:
@@ -14,14 +14,15 @@ Common associated conditions:
 - [[inflammatory bowel disease]]
 - [[reactive arthritis]]
 - [[Psoriatic arthritis]]
-### Typical clinical pattern
+## Typical clinical pattern
 Acute HLA-B27 anterior uveitis is usually:
-- Sudden onset, Unilateral, painful eye
-- Photophobia
+- Sudden onset, Unilateral, painful eye-> not as severe as [[episcleritis|scleritis]]
+- Photophobia, reduced vision
 - [[red eye]] with ciliary flush
 - May recur and alternate between eyes
 - The pupil may be small and irregularly shaped due to spasm of the sphincter muscle in the iris.
-- No FB sensation
+- No FB sensation. Floaters present. 
+- Cells in the aqueous humour. 
 
 | Term                  | Description                                                                                                                             |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,7 +32,7 @@ Acute HLA-B27 anterior uveitis is usually:
 
 ---
 
-## Intermediate uveitis
+# Intermediate uveitis
 Vitreous and peripheral retina (pars plana region)
 
 |Term|Description|
@@ -42,7 +43,7 @@ Vitreous and peripheral retina (pars plana region)
 
 ---
 
-## Posterior uveitis
+# Posterior uveitis
 Inflammation involving: choroid, retina, sometimes optic nerve.
 
 |Term|Description|
@@ -54,7 +55,6 @@ Inflammation involving: choroid, retina, sometimes optic nerve.
 |**Neuroretinitis**|Inflammation of optic nerve head + adjacent retina. Characteristic feature: optic disc swelling + macular star|
 
 ---
-
 # Pan-uveitis
 Entire uveal tract (anterior + intermediate + posterior).
 
