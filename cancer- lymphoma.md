@@ -18,8 +18,11 @@ A type of cancer originating in the lymphatic system.
 - Bimodal age (<25 or >55) seen in supraclavicular/cervical LN (close proximity)
 - Involves more central nodes. 
 - Has [[alcohol]] induced pain. 
-- (can cause [[leukaemia|ALL]], assoc with [[epstein barr virus|EBV]]. Radiation for HL can lead to NHL.)
-- Generalised [[pruritus]]. 
+- (can cause [[leukaemia|ALL]]. Assoc with [[epstein barr virus|EBV]] & [[hiv|HIV]]. Radiation for HL can lead to NHL.)
+
+### c/f
+- Painless cervical LNE, [[pruritus]], anaemia, eosinophilia (due to cytokine release). 
+- Hodgkin is outside the bone marrow, So FBC is better than NHL. 
 
 ---
 # NHL
@@ -40,6 +43,7 @@ A subtype of NHL: MALT can occur in #associated :
 ---
 # Clinical Features
 - **B Symptoms**: fever, night sweats, weight loss #named (more common in HL than NHL)
+
 - Hepatosplenomegaly. 
 - Pancytopenia (bone marrow involved).
 - There might be mediastinal mass but w/o difficulty breathing
@@ -51,7 +55,7 @@ Do Excision Biopsy.
 - EBV causes HL, NHL (Burkitt in HIV), Hairy leukoplakia (HIV). 
 - [[epstein barr virus|Infectious Mononucleosis]] vs Lymphoma: sore throat in IM, exudative pus over tonsils, tender tonsils, monospot test +ve, rash after taking ampicillin.
 - [[tuberculosis|TB]] has diurnal fever, sweat, weight loss if chronic, tender matted LN (HL has non tender), h/o productive cough, no organomegaly, h/o travel.
-- Hodgkin's has normal CBC, because the problem in Hodgkin is outside the bone marrow.
+- [[leukaemia|CLL]] has generalised LNE. 
 
 ---
 # Richter's transformation
