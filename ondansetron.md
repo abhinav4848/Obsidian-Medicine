@@ -10,7 +10,7 @@ Works by blocking the action of serotonin which can cause vomiting.
 [[antiemetics|anti-emetic]]: Chemo or radiotherapy induced N&V (CINV). 
 
 # Side effects
-[[qt prolongation|QT prolongation]]
+[[qt prolongation|QT prolongation]] 
 It's very constipating. 
 Use in first trimester has small risk of cleft lip and/or palate.
 

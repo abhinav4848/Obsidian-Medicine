@@ -3,12 +3,13 @@ tags:
   - neurology
 aliases:
   - progressive supranuclear palsy
+  - PSP
 ---
 It can be mistaken for Parkinson's disease, [[frontotemporal dementia]] and [[dementia|Alzheimer's disease]].
 
 ---
 [[parkinson's disease|Parkinson's]] + Vertical diplopia/vertical gaze palsy = supranuclear palsy.
-Falling backwards.
+Falling backwards. 
 There may be symptoms of frontal lobe dementia, so don’t confuse with pick's. 
 # Difference 
 #confusion 

@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "congenital cyanotic diseases of heart.md",
+                "file": "parkinson's disease.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "congenital cyanotic diseases of heart"
+              "title": "parkinson's disease"
             }
           },
           {
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nipe",
+                "query": "parkinson's ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "congenital cyanotic diseases of heart.md",
+                "file": "parkinson's disease.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of congenital cyanotic diseases of heart"
+              "title": "Graph of parkinson's disease"
             }
           }
         ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "congenital cyanotic diseases of heart.md",
+                "file": "parkinson's disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for congenital cyanotic diseases of heart"
+              "title": "Backlinks for parkinson's disease"
             }
           }
         ]
@@ -318,13 +318,18 @@
   },
   "active": "85774994797ebf68",
   "lastOpenFiles": [
+    "consent in young people.md",
+    "attachments/parkinson's drugs and effects 1.png",
+    "parkinson's disease.md",
+    "supranuclear palsy.md",
+    "ondansetron.md",
+    "congenital cyanotic diseases of heart.md",
     "coarctation of aorta.md",
     "newborn Infant physical examination.md",
     "examination of children.md",
     "gord in children.md",
     "gastroprotection.md",
     "cow milk allergy.md",
-    "consent in young people.md",
     "vomiting in paeds.md",
     "git problems in paeds.md",
     "hiv.md",
@@ -340,11 +345,6 @@
     "cell histology.md",
     "iliotibial band syndrome.md",
     "osteochondritis dissecans.md",
-    "chondromalacia patellae.md",
-    "lower limb ortho problems.md",
-    "patellar tendonitis.md",
-    "osteoporosis.md",
-    "bisphosphonates.md",
     "housekeeping/revise recent changes.base",
     "housekeeping/memorise.base",
     "attachments/Hypernatraemia-Algorithm20.pdf",
@@ -363,7 +363,6 @@
     "attachments/crao.png",
     "desktop.ini",
     "flow charts/hypertension management.canvas",
-    "attachments/eczema vs psoriasis treatment.png",
     "flow charts/deep vein thrombosis.canvas",
     "flow charts/h. pylori treatment flowchart.canvas",
     "flow charts/prostaglandins and leukotrienes.canvas",
