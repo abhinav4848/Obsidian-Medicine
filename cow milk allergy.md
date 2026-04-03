@@ -1,6 +1,8 @@
 ---
 aliases:
   - cow's milk allergy
+urls:
+  - "[2015 Gastro-oesophageal reflux disease in children and young people: diagnosis and management](http://www.nice.org.uk/guidance/NG1/chapter/1-recommendations)"
 ---
 *See [[vomiting in paeds]] & [[git problems in paeds]]* 
 # Clinical Features

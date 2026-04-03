@@ -4,20 +4,23 @@ tags:
 aliases:
   - ebstein's anomaly
   - Eisnemenger's syndrome
+cssclasses:
+  - invert-image
 ---
+# Cyanotic
 
 |                    |                                                                                                                                                                                                                           |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Ebstein's anomaly  | Can be caused by [[lithium]] intake in mother.<br><br>TV displaced inferiorly: Atrialization of RV.                                                                                                                       |
 | Eisnemenger's      | Long term complication of vsd or avsd.  <br> <br><br>Development of pulmonary hypertension due to increased blood flow to the lungs, which eventually leads to reversal of the shunt from left-to-right to right-to-left. |
 | TAPVC              |                                                                                                                                                                                                                           |
-| TGA                | Egg on side appearance on CXR.  <br>Children of diabetic mothers at risk.  <br>Loud S2.<br><br>Aorta & Pul trunk lying in parallel.                                                                                       |
-| ToF                | Tetralogy of Fallott                                                                                                                                                                                                      |
+| TGA                | Egg on side appearance on CXR.  <br>Children of diabetic mothers at risk.  <br>Loud S2.<br><br>Aorta & Pul trunk lying in parallel.<br><br>More common lesion at birth                                                    |
+| ToF                | Tetralogy of Fallott. Present at 1-2 months. More common than TGA                                                                                                                                                         |
 | Tricuspid atresia  |                                                                                                                                                                                                                           |
 | Truncus arteriosus |                                                                                                                                                                                                                           |
 # Tetralogy of Fallot 
 Tetralogy of Fallot (TOF) is the most common cause of cyanotic congenital heart disease typically presenting at around 1-2 months, although picked up up to 6 months.
-![[tetralogy of fallot.png|300]]
+![[tetralogy of fallot.png|515]]
 ## Clinical Features
 - The severity of the right ventricular outflow tract obstruction determines the degree of cyanosis and clinical severity
 - cyanosis
@@ -48,3 +51,9 @@ They are often diagnosed antenatally but may present at birth with
 3. poor peripheral pulses.
 
 Often the definitive treatment is surgery, however keeping the duct open with Prostaglandin E1 can buy time for the management to be appropriately planned.
+
+
+---
+# Acyanotic
+VSD (50% of all cases), ASD, PDA, [[coarctation of aorta|Coarctation]], AV stenosis
+- VSDs are more common than ASDs. However, in adult patients ASDs are the more common new diagnosis as they generally presents later.

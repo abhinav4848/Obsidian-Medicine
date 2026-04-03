@@ -5,6 +5,7 @@ urls:
   - https://www.nice.org.uk/guidance/ng1/chapter/Recommendations
 ---
 *See: [[gastroprotection]] & [[gord]].*
+Differentiate with [[cow milk allergy|cow's milk allergy]] 
 
 ---
 Develops before 8 weeks. 
