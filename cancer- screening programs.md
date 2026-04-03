@@ -57,7 +57,8 @@ It is said that the best time to take a cervical smear is around mid-cycle. Whil
 # Others
 - [[guthrie test|Neonatal blood spot screening]]. 
 - [[abdominal aortic aneurysm|Aortic aneurysm]]: Single abdominal ultrasound is done at age 65 years to screen for AAA.
-- There's also diabetic retinopathy screen, etc. 
+- There's also diabetic retinopathy screen, glaucoma screen at each eye appointment etc. 
+- NHS runs a Prostate cancer risk management programme as opposed to a screening programme- men can request PSA after receiving counselling about it but are not routinely invited for screening. 
 
 ---
 - **Upcoming**: Lung cancer screening. Currently known as *targeted lung health checks*. Lung cancer survival at stage 1 is much better than stage 4. H/o smoking, 55-74 yo, found to be high risk for lung cancer. Low dose spiral CT done every 2 years. 

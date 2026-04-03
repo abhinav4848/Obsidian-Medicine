@@ -17,6 +17,18 @@ You will often find both versions of the above listed in different sources. In s
 - if the outcome of the study is undesirable then ARR = CER - EER 
 - if the outcome of the study is desirable then ARR* = EER - CER 
 \*this may be more accurately termed absolute benefit increase, rather than absolute risk reduction
+
+# Odd's ratio
+|               | Event | No Event |
+| ------------- | ----- | -------- |
+| Treatment (E) | a     | b        |
+| Control (C)   | c     | d        |
+OR= a.d/c.b
+EER= a/a+b & CER=c/c+d
+Odds of an event in treatment group: EER/1-EER
+Odds of an event in control group: CER/1-CER
+so, ratio= odds in treatment/odds in control
+
 # Formulae
 
 $$

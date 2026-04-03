@@ -7,6 +7,7 @@ aliases:
   - Vascular dementia
   - Alzheimer's disease
   - Lewy Body Dementia
+  - Normal pressure hydrocephalus
 urls:
   - "[NICE NG97: Dementia: assessment, management and support for people living with dementia and their carers](https://www.nice.org.uk/guidance/ng97)"
   - "[NICE NG16: Dementia, disability and frailty in later life – mid-life approaches to delay or prevent onset](https://www.nice.org.uk/guidance/ng16)"

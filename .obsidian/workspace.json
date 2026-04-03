@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gynaecological infections.md",
+                "file": "statistics- risk reduction, nnt, odds ratio.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "gynaecological infections"
+              "title": "statistics- risk reduction, nnt, odds ratio"
             }
           },
           {
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vaginosis",
+                "query": "ratio stats",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "gynaecological infections.md",
+                "file": "statistics- risk reduction, nnt, odds ratio.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of gynaecological infections"
+              "title": "Graph of statistics- risk reduction, nnt, odds ratio"
             }
           }
         ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gynaecological infections.md",
+                "file": "statistics- risk reduction, nnt, odds ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for gynaecological infections"
+              "title": "Backlinks for statistics- risk reduction, nnt, odds ratio"
             }
           }
         ]
@@ -318,8 +318,13 @@
   },
   "active": "85774994797ebf68",
   "lastOpenFiles": [
-    "fever caused by drugs.md",
+    "cancer- screening programs.md",
+    "gord.md",
+    "frontotemporal dementia.md",
+    "dementia.md",
+    "supranuclear palsy.md",
     "gynaecological infections.md",
+    "fever caused by drugs.md",
     "cancer- lymphoma.md",
     "p450.md",
     "clindamycin.md",
@@ -329,7 +334,6 @@
     "lymphadenopathy.md",
     "parkinson's disease.md",
     "attachments/parkinson's drugs and effects 1.png",
-    "supranuclear palsy.md",
     "ondansetron.md",
     "congenital cyanotic diseases of heart.md",
     "coarctation of aorta.md",
@@ -341,10 +345,6 @@
     "vomiting in paeds.md",
     "git problems in paeds.md",
     "hiv.md",
-    "antibiotic guidelines.md",
-    "tetanus.md",
-    "post exposure prophylaxis.md",
-    "chicken pox.md",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "housekeeping/revise recent changes.base",
     "housekeeping/memorise.base",
