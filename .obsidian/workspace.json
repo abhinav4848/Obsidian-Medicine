@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ankylosing spondylitis.md",
+                "file": "hypertension.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ankylosing spondylitis"
+              "title": "hypertension"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "consent in young people.md",
+                "file": "contraceptives.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "consent in young people"
+              "title": "contraceptives"
             }
           },
           {
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "uveitis",
+                "query": "depo provera",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ankylosing spondylitis.md",
+                "file": "contraceptives.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ankylosing spondylitis"
+              "title": "Graph of contraceptives"
             }
           }
         ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ankylosing spondylitis.md",
+                "file": "contraceptives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ankylosing spondylitis"
+              "title": "Backlinks for contraceptives"
             }
           }
         ]
@@ -316,8 +316,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "85774994797ebf68",
+  "active": "484ea43330baee1a",
   "lastOpenFiles": [
+    "statistics- risk reduction, nnt, odds ratio.md",
+    "rhinosinusitis.md",
+    "consent in young people.md",
+    "hypertension.md",
+    "ankylosing spondylitis.md",
     "uveitis.md",
     "episcleritis.md",
     "granulomatosis with polyangiitis.md",
@@ -325,7 +330,6 @@
     "hyperglycemia.md",
     "diabetes articles.md",
     "coeliac disease.md",
-    "statistics- risk reduction, nnt, odds ratio.md",
     "cancer- screening programs.md",
     "gord.md",
     "frontotemporal dementia.md",
@@ -338,13 +342,9 @@
     "clindamycin.md",
     "metronidazole.md",
     "blood tests.md",
-    "consent in young people.md",
     "lymphadenopathy.md",
     "parkinson's disease.md",
     "attachments/parkinson's drugs and effects 1.png",
-    "ondansetron.md",
-    "congenital cyanotic diseases of heart.md",
-    "coarctation of aorta.md",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "housekeeping/revise recent changes.base",
     "housekeeping/memorise.base",

@@ -17,30 +17,40 @@ See [[cocp|COCP]].
 
 ---
 # Progesterone only
-[NICE CKS- Progesterone only contraception methods](https://cks.nice.org.uk/topics/contraception-progestogen-only-methods/). Also see [[time for action of contraceptives]]
-Pill- 99% effective & 9% will conceive in first year
-Implant- 0.05% will conceive in first year
-Depots- Perfect use (0.2% conceive in first year), typical use (6% conceive in first year). 
-## Pill
-aka POP.
-No pill free interval. 
-Can be used for endometriosis. 
-Around 50% of women on the POP have no bleeding, or very infrequent bleeding, and only 10% are reported to have more frequent bleeding or spotting, with long term POP use.
-## Implant 
-Nexplanon (etonogestrel 68 mg) is currently the only progestogen-only implant licensed for use in the UK.
-Replaced every 3 years. 
-It is the [[contraceptive choice for young people]]. 
-## Injectable
+*[NICE CKS- Progesterone only contraception methods](https://cks.nice.org.uk/topics/contraception-progestogen-only-methods/). Also see [[time for action of contraceptives]]*
+Helps prevent ovulation. 
+- Pill- 99% effective & 9% will conceive in first year
+- Implant- 0.05% will conceive in first year. Most effective contraception after abstinence. 
+- Depots- Perfect use (0.2% conceive in first year), typical use (6% conceive in first year). 
+## Pill (aka POP)
+- No pill free interval. 
+- Can be used for endometriosis. 
+- Around 50% of women on the POP have no bleeding, or very infrequent bleeding, and only 10% are reported to have more frequent bleeding or spotting, with long term POP use.
+## Implant (Nexplanon)
+*(Implanon has been replaced by Nexplanon)*
+- Nexplanon (etonogestrel 68 mg) is currently the only progestogen-only implant licensed for use in the UK. 
+- Replaced every 3 years. 
+- It is the [[contraceptive choice for young people]]. 
+- can be inserted immediately following termination of pregnancy. 
+**S/E:** 
+- Irregular/heavy bleeding. Sometimes managed with co-prescribing COCP. Do speculum/STI check if bleed continues. 
+- Progestogen effects: Headache, nausea, Breast pain. 
+
+## Injectable 
 every 13 weeks
 ##### Depo Provera
 i.m.
 aka DMPA: depot medroxyprogesterone acetate.
+- Give once every 3 months. 
 - c/I in <20 yo cuz risk of [[osteoporosis]].
 	- Has concerns for bone mineral density with long term use & delay in return to fertility. 
 - Unpredictable effects on bleeding patterns. 
 - Intermenstrual spotting in first year of starting. If bothersome bleed -> add COCP 3 months/Mefenamic acid TDS 5 days (while still on Depo-Provera).
-- Give once every 3 months.
 - Completely stops the period in some women but can cause unpredictable bleeding in others.
+
+> [!tip] Enzyme metabolism
+> - Provera isn't affected by [[p450]] inducer/inhibitors as it isn't metabolised by P450 enzymes, whereas nexplanon would be affected. So if on nexplanon & need to take e.g. Rifampicin, give Depo-provera as well. Even a single dose rifampicin would need 28 days of cover. 
+
 ##### Sayana Press
 s.c. injection. 
 Can be self administered by patient. 

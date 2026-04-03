@@ -23,7 +23,7 @@ You will often find both versions of the above listed in different sources. In s
 | ------------- | ------------- | ---------------- |
 | Treatment (E) | a             | b                |
 | Control (C)   | c             | d                |
-`EER= a/a+b` & `CER=c/c+d`
+`EER= a/a+b` & `CER=c/c+d` 
 
 Odds of an event in treatment group: `EER/1-EER` = `a/b` 
 - *odds => (probability of event/probability of no event)* 
