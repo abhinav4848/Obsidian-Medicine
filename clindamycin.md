@@ -11,4 +11,4 @@ Used first line in [[acne vulgaris]], [[gynaecological infections|bacterial vagi
 Good for anaerobic infections. 
 # Complication
 Risk of [[c. difficile]]
-[[drugs contraindicated in pregnancy|Avoid in pregnancy]] (not known to be harmful in T2 & T3. T1 unknown) & breastfeeding (present in milk)
+[[drugs contraindicated in pregnancy|Avoid in pregnancy]] (not known to be harmful in T2 & T3. T1 unknown) & breastfeeding (present in milk). When treating b. vaginosis alongside metronidazole in pregnancy, can still give Metronidazole. 

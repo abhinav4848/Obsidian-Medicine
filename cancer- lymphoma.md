@@ -15,14 +15,15 @@ Leukaemia → cancer of lymphocytes that circulate in blood and bone marrow.
 # HL
 A type of cancer originating in the lymphatic system. 
 - Reed-Sternberg cells (Multinucleated giant cells) 
-- Bimodal age (<25 or >55) seen in supraclavicular/cervical LN (close proximity)
-- Involves more central nodes. 
-- Has [[alcohol]] induced pain. 
+- Bimodal age (<25 or >55) 
+- Hodgkin is outside the bone marrow
 - (can cause [[leukaemia|ALL]]. Assoc with [[epstein barr virus|EBV]] & [[hiv|HIV]]. Radiation for HL can lead to NHL.)
-
 ### c/f
-- Painless cervical LNE, [[pruritus]], anaemia, eosinophilia (due to cytokine release). 
-- Hodgkin is outside the bone marrow, So FBC is better than NHL. 
+- Painless cervical [[lymphadenopathy]], [[pruritus]], anaemia, [[blood tests|eosinophilia]] (due to cytokine release).
+	- Involves more central nodes (cervical/supraclavicular) > axillary > inguinal. The nodes affected are in close proximity. 
+	- Normocytic anaemia due to hypersplenism, Bone marrow replacement by HL, Coombs-positive haemolytic anaemia
+- **B Symptoms**: fever, night sweats, weight loss #named (more common in HL than NHL).
+- Has [[alcohol]] induced pain. 
 
 ---
 # NHL
@@ -42,8 +43,6 @@ A subtype of NHL: MALT can occur in #associated :
 
 ---
 # Clinical Features
-- **B Symptoms**: fever, night sweats, weight loss #named (more common in HL than NHL)
-
 - Hepatosplenomegaly. 
 - Pancytopenia (bone marrow involved).
 - There might be mediastinal mass but w/o difficulty breathing
