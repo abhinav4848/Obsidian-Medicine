@@ -12,25 +12,24 @@ If suspected Heart Failure, Check NT-pro BNP level
 - If >2000 → specialist assessment and echo within 2 weeks
 - If 400-2000 → specialist assessment and echo within 6 weeks
 - <400 → consider alternatives
-
 ### Other causes of high Natriuretic peptide
 - **Cardiac**: LVH, myocardial ischemia, tachycardia, right ventricular overload, pulmonary hypertension
 - **Other**: Age > 70, PE, hypoxia, sepsis, CKD, Liver cirrhosis
 #### BNP false results 
 *See [NICE- interpretation of BNP](https://cks.nice.org.uk/topics/heart-failure-chronic/diagnosis/how-to-assess/#interpretation-of-natriuretic-peptide-levels)* 
 
-| Reduced BNP levels                                                                                                                                                                                                 | High BNP (non-HF causes)                                                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| - [[weight\|Obesity]] <br>- [[afro-caribbean\|Afro-Caribbean]] <br>- People taking any of the following: <br>    - A diuretic.<br>    - An [[ace inhibitors\|ACE inhibitor]] / ARNI / ARB<br>    - A beta-blocker. | - Pulmonary, renal, liver and systemic pathologies.<br>- Sepsis.<br>- [[copd\|chronic obstructive pulmonary disease]]<br>- Diabetes.<br>- Cirrhosis of the liver. |
-
+| Reduced BNP levels                                                                                                                                                                                                 | High BNP (non-HF causes)                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| - [[weight\|Obesity]] <br>- [[afro-caribbean\|Afro-Caribbean]] <br>- People taking any of the following: <br>    - A diuretic.<br>    - An [[ace inhibitors\|ACE inhibitor]] / ARNI / ARB<br>    - A beta-blocker. | - Pulmonary, renal, liver and systemic pathologies.<br>- Sepsis<br>- [[copd\|COPD]]<br>- Diabetes.<br>- Liver Cirrhosis.  |
 
 ---
 # Classification
 
-| Reduced EF (aka Systolic heart failure)<br>                                                                                                                                                                                                  | Preserved EF (aka diastolic heart failure)                                                                          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| HFrEF                                                                                                                                                                                                                                        | HFpEF<br>                                                                                                           |
-| Problems with LV & pressures go backwards -> Lung features, Pulmonary edema & Breathlessness<br>- if severe, then RV features as well -> Fluid overload + Peripheral edema<br>- **Rx**: ACE inhibitor + beta-blocker + MRA + SGLT2 inhibitor | - Problems with RV due to non-compliance -> Dyspnoea w/o signs of fluid overload<br>- **Rx:** MRA + SGLT2 inhibitor |
+| Reduced EF (aka Systolic heart failure)<br>                                                                                                                                | Preserved EF (aka diastolic heart failure)                                           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| HFrEF                                                                                                                                                                      | HFpEF<br>                                                                            |
+| Problems with LV. Pressure goes backwards -> Lung features: Pulmonary edema & Breathlessness<br>- if severe, then RV features as well -> Fluid overload + Peripheral edema | - Problems with RV due to non-compliance -> Dyspnoea w/o signs of fluid overload<br> |
+| **Rx**: ACE inhibitor + beta-blocker + MRA + SGLT2 inhibitor                                                                                                               | **Rx:** MRA + SGLT2 inhibitor                                                        |
 
 ---
 # Drugs that could worsen HF

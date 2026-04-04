@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notifiable diseases.md",
+                "file": "bell's palsy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "notifiable diseases"
+              "title": "bell's palsy"
             }
           },
           {
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "notifia",
+                "query": "bell's",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notifiable diseases.md",
+                "file": "bell's palsy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of notifiable diseases"
+              "title": "Graph of bell's palsy"
             }
           }
         ]
@@ -301,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notifiable diseases.md",
+                "file": "bell's palsy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for notifiable diseases"
+              "title": "Backlinks for bell's palsy"
             }
           }
         ]
@@ -333,8 +333,15 @@
   },
   "active": "9a37fd4fe783eacd",
   "lastOpenFiles": [
-    "hus vs ttp.md",
+    "hearing aid.md",
+    "immunisation in adults.md",
+    "hearing loss.md",
+    "hearing test in children.md",
+    "audiograms.md",
+    "heart failure.md",
+    "ckd pharmacology.md",
     "notifiable diseases.md",
+    "hus vs ttp.md",
     "consent in young people.md",
     "headache.md",
     "cervicitis.md",
@@ -353,13 +360,6 @@
     "cocp.md",
     "contraceptives.md",
     "time for action of contraceptives.md",
-    "statistics- risk reduction, nnt, odds ratio.md",
-    "rhinosinusitis.md",
-    "hypertension.md",
-    "ankylosing spondylitis.md",
-    "uveitis.md",
-    "episcleritis.md",
-    "granulomatosis with polyangiitis.md",
     "attachments/parkinson's drugs and effects 1.png",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "housekeeping/revise recent changes.base",

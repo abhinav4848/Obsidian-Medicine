@@ -17,7 +17,7 @@ urls:
   - "[NICE CKS: Hearing loss in adults](https://cks.nice.org.uk/topics/hearing-loss-in-adults/diagnosis/clinical-features/)"
   - "[ENT SHO: Ear exam](https://entsho.com/ear-examination)"
 ---
-*See [[vertigo- test & causes|Vertigo]].* 
+*See [[vertigo- test & causes|Vertigo]]. & [[hearing test in children]] 
 
 ---
 can do [[audiograms]] to confirm.
@@ -26,6 +26,12 @@ can do [[audiograms]] to confirm.
 | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | Otosclerosis  <br>Tympanosclerosis  <br>Glue ear  <br>Malignant otitis externa  <br>Cholesteatoma<br><br>Osteoma | Meniere  <br>Acoustic Neuroma  <br>Presbycusis  <br>Noise induced hearing loss  <br>[[granulomatosis with polyangiitis]]  <br>Alport syndrome |
 **Mixed**: [[paget's disease of bone|Paget's]], osteogenesis imperfecta  
+
+##### Causes of severe/profound HL 
+
+| children                                                                                                                                                                                                                                    | adults                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Genetic (accounts for up to 50% of cases).<br>- Congenital e.g. following maternal cytomegalovirus, rubella or varicella infection.<br>- idiopathic (accounts for up to 30% of childhood deafness).<br>- Infectious e.g. post meningitis. | - Viral-induced sudden hearing loss.<br>- Ototoxicity e.g. following administration of aminoglycoside antibiotics or loop diuretics.<br>- Otosclerosis<br>- Meniere disease<br>- Trauma |
 
 ---
 # Emergency
@@ -70,3 +76,6 @@ Weber:
 
 SNHL needs MRI
 Weber: **CSSO**- CHL same side, SNHL opp side. #mnemonic 
+
+---
+See [[hearing aid]]
