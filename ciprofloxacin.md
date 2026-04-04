@@ -19,7 +19,7 @@ It is active against both Gram-positive and Gram-negative bacteria. It is partic
 
 # s/e
 - Can lower [[seizure]] threshold. 
-- Can cause oxidative stress and RBC lysis (e.g. [[G6PD deficiency]])
+- Can cause oxidative stress and RBC lysis (e.g. [[g6pd deficiency|G6PD deficiency]])
 - Can cause [[lower limb ortho problems#Foot|Achilles tendonitis]] & rupture -> Risk increased if patient on steroids 
 	- Anecdote: A guy ruptured his tendon after being treated with ciprofloxacin.
 - Can cause cartilage damage so avoid in children

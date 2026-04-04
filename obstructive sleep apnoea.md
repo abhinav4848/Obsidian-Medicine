@@ -29,6 +29,10 @@ The partner often complains of excessive snoring and may report periods of apnoe
 	- **13-15** moderate daytime symptoms
 	- **16-24** severe daytime symptoms
 - [STOP-BANG questionnaire](http://www.stopbang.ca/osa/screening.php)- Check your risk of OSA based on your symptoms, and whether you’re very overweight (obese) or have high blood pressure.
+- Apnoea-Hypopnoea index (AHI)
+	- Mild: AHI 5-14 per hour.
+	- Moderate: AHI 15-30 per hour.
+	- Severe: AHI more than 30 per hour
 
 [Types of sleep tests](https://www.asthmaandlung.org.uk/symptoms-tests-treatments/tests/sleep-breathing-tests#types-of-sleep-test)
 - Multiple Sleep Latency Test (MSLT) - measures the time to fall asleep in a dark room (using EEG criteria)
@@ -38,7 +42,7 @@ The partner often complains of excessive snoring and may report periods of apnoe
   
 # Management
 - weight loss
-- continuous positive airway pressure (CPAP) is first line for moderate or severe OSAHS
+- CPAP (continuous positive airway pressure) is 1st line for moderate or severe OSAHS
 - intra-oral devices (e.g. mandibular advancement) may be used if CPAP is not tolerated or for patients with mild OSAHS where there is no daytime sleepiness
 - the DVLA should be informed if OSAHS is causing excessive daytime sleepiness
 - limited evidence to support use of pharmacological agents

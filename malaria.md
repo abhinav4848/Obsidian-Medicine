@@ -3,6 +3,9 @@ tags:
   - infection
   - abx
   - parasite
+aliases:
+  - anti-malarials
+  - Primaquine
 ---
 # Aetiology
 - While individuals living continuously in endemic areas can develop a certain level of immunity, this wanes quickly once they leave these areas, so UK individuals don't have better immunity to malaria. 
@@ -17,7 +20,7 @@ h/o [[travel infections|travel]] to Africa + meningitis like features + anaemia 
 | **Drug**                          | **Side-effects + notes**                                                                                             | **Time to begin before travel** | **Time to end after travel** |
 | --------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ---------------------------- |
 | Atovaquone + proguanil (Malarone) | GI upset                                                                                                             | 1 - 2 days                      | 7 days                       |
-| Chloroquine                       | Headache  <br>  <br>Contraindicated in [[seizure]]<br><br>==Taken weekly==                                           | 1 week                          | 4 weeks                      |
+| [[quinine\|chloroquine]]          | Headache  <br>  <br>Contraindicated in [[seizure]]<br><br>==Taken weekly==                                           | 1 week                          | 4 weeks                      |
 | Doxycycline                       | Photosensitivity  <br>Oesophagitis                                                                                   | 1 - 2 days                      | 4 weeks                      |
 | Mefloquine (Lariam)               | Dizziness  <br>Neuropsychiatric disturbance  <br>  <br>Contraindicated in [[seizure\|epilepsy]] <br>==Taken weekly== | 2 - 3 weeks                     | 4 weeks                      |
 | Proguanil (Paludrine)             |                                                                                                                      | 1 week                          | 4 weeks                      |
@@ -41,5 +44,5 @@ Children are more at risk of severe complication so avoid travel, but if needed:
 	- breastfeeding & pregnant women in T2/T3. 
 - Doxycycline is only licensed for children > 12 years age. 
 ## G6PD
-Primaquine is c/i
+In [[g6pd deficiency|G6PD deficiency]], Primaquine is c/i. 
 

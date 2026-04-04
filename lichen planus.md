@@ -7,7 +7,7 @@ urls:
   - https://www.dermnetnz.org/topics/lichen-planus/
   - https://www.pcds.org.uk/clinical-guidance/lichen-planus
 ---
-It's a clinical diagnosis.
+It's a clinical diagnosis. 
 
 >[!info]
 >*See other [[Lichens]].* 
@@ -16,12 +16,12 @@ It's a clinical diagnosis.
 >**Planus**: Flat
 >**Lichen Planus**: Flat topped papules
 
-Itchy, non-infectious rash seen on palm, soles, genitalia, flexor aspect of arms.
+Itchy, non-infectious rash seen on palm, soles, genitalia, flexor aspect of arms. 
 ### Mnemonic #mnemonic 
 4P + F & LP: 
 1. Purple, pruritic, papular, polygonal rash on Flexor surface.
 2. LP: Lacy pattern (Wickham striae) #named  on the surface of buccal mucosa & skin.
-3. **Nail**: thinning of nail plate, Longitudinal grooving, scarring (& scarring [[alopecia]]), pterygium formation is common.
+3. **Nail**: thinning of nail plate, Longitudinal grooving, scarring (& scarring [[alopecia]]), pterygium formation is common. 
 
 ![wickham striae|400](https://www.pcds.org.uk/imager/gallery/clinical/lichen-planus/13058/LP3_fee391183f15cb4d62773032fe0be92d.jpg) 
 
@@ -47,3 +47,7 @@ It must be differentiated from lichenoid drug eruptions caused by anti hypertens
 - Gold,
 - [[Quinine]]
 - thiazides
+
+| See [PCDS](https://www.pcds.org.uk/clinical-guidance/adverse-cutaneous-drug-reactions-mild-to-moderate)                                                                                            | Lichenoid Drug eruptions                                                                                                                                                                              |                                                                                                                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Licehnoid by quinine\|200](https://www.pcds.org.uk/imager/gallery/clinical/adverse-cutaneous-drug-reactions-mild-to-moderate/56904/Drug-reaction-quinine-1_fee391183f15cb4d62773032fe0be92d.jpg) | ![Lichenoid by quinine\|200](https://www.pcds.org.uk/imager/gallery/clinical/adverse-cutaneous-drug-reactions-mild-to-moderate/56905/Drug-reaction-to-quinine-2_fee391183f15cb4d62773032fe0be92d.jpg) | ![lichenoid by tramadol\|200](https://www.pcds.org.uk/imager/gallery/clinical/adverse-cutaneous-drug-reactions-mild-to-moderate/14197/Figure_14_lichenoid_fee391183f15cb4d62773032fe0be92d.jpg) |

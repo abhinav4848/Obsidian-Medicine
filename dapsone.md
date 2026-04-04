@@ -6,4 +6,4 @@ sulphonamide abx that's used to treat leprosy, [[coeliac disease|dermatitis herp
 
 It treats inflammatory skin conditions.
 
-contraindicated in G6PD deficiency. 
+contraindicated in [[g6pd deficiency|G6PD deficiency]]. 

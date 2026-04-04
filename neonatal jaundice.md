@@ -23,8 +23,8 @@ Pathological jaundice: Jaundice that develops in the first 24 hours.
 - [[git problems in paeds|Biliary Atresia]] (stool pale, urine dark)
 
 **Others** (Ignore)
-- Viral infections, G6PD, Spherocytosis, ABO incompatibility
-- Gilbert: Immature UGT. Unconjugated. Benign.
+- Viral infections, [[g6pd deficiency|G6PD deficiency]], Spherocytosis, ABO incompatibility
+- Gilbert: Immature UGT. Unconjugated. Benign. 
 - Cigler: Absent UGT. Unconjugated
 - Dubin: Conjugated. Problem with excretion from hepatocytes to bile duct
 - Rotor: Mild form of Dubin

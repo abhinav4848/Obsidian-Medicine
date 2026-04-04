@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obstructive sleep apnoea.md",
+                "file": "g6pd deficiency.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "obstructive sleep apnoea"
+              "title": "g6pd deficiency"
             }
           },
           {
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obstructive sleep",
+                "query": "amiodarone",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "obstructive sleep apnoea.md",
+                "file": "g6pd deficiency.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of obstructive sleep apnoea"
+              "title": "Graph of g6pd deficiency"
             }
           }
         ]
@@ -301,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obstructive sleep apnoea.md",
+                "file": "g6pd deficiency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for obstructive sleep apnoea"
+              "title": "Backlinks for g6pd deficiency"
             }
           }
         ]
@@ -333,6 +333,21 @@
   },
   "active": "9a37fd4fe783eacd",
   "lastOpenFiles": [
+    "malaria.md",
+    "quinine.md",
+    "drugs that can cause ocular problems.md",
+    "lichen planus.md",
+    "amiodarone.md",
+    "retinopathy.md",
+    "g6pd deficiency.md",
+    "cell histology.md",
+    "attachments/degmacytes.png",
+    "dapsone.md",
+    "afro-caribbean.md",
+    "ciprofloxacin.md",
+    "rheumatoid arthritis.md",
+    "neonatal jaundice.md",
+    "obstructive sleep apnoea.md",
     "bell's palsy.md",
     "hearing aid.md",
     "immunisation in adults.md",
@@ -345,21 +360,7 @@
     "hus vs ttp.md",
     "consent in young people.md",
     "headache.md",
-    "cervicitis.md",
-    "chlamydia.md",
-    "cancer- screening programs.md",
     "flow charts/cervical cancer screening pathway.canvas",
-    "gynaecological infections.md",
-    "human papilloma virus.md",
-    "genital ulcers.md",
-    "human herpes viruses.md",
-    "cancer- cervical.md",
-    "statistics- validity.md",
-    "statistics- significance tests.md",
-    "statistics- basics about data.md",
-    "statistics- errors, confidence intervals.md",
-    "cocp.md",
-    "contraceptives.md",
     "attachments/parkinson's drugs and effects 1.png",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "housekeeping/revise recent changes.base",
@@ -376,7 +377,6 @@
     "attachments/box-and-whisker plot.png",
     "attachments/auer rods- aml.png",
     "attachments/atropa belladona.pdf",
-    "attachments/crao.png",
     "desktop.ini",
     "flow charts/hypertension management.canvas",
     "flow charts/deep vein thrombosis.canvas",

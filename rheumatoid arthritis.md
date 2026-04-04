@@ -56,7 +56,7 @@ Flares managed with steroids (oral or IM)
 - Sulfasalazine ([BNF](https://bnf.nice.org.uk/drugs/sulfasalazine/#side-effects))
 	- Rashes, Oligospermia, Heinz body anaemia, [[interstitial lung disease vs pneumonitis|interstitial lung disease]], [[erythema multiforme#Steven Johnson syndrome linked|Steven Johnson syndrome]]
 	- #interaction : Allergy to Aspirin/acetylsalicylic acid or sulphonamides is contraindication for using sulfasalazine/5-ASA/5-Aminosalicylate. (cross-reactivity). 
-	- Caution in [[G6PD deficiency]]. 
+	- Caution in [[g6pd deficiency|G6PD deficiency]]. 
 - [[Leflunomide]]: Liver impairment, Interstitial lung disease (interstitial pnuemonitis), Hypertension 
 
 If no response to at least 2 DMARDs -> TNF inhibitors: Etanercept, Infliximab, Adalimumab, Rituximab, Abatacept
