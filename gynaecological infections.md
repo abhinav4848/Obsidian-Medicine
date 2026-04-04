@@ -42,7 +42,7 @@ Do high vaginal swab from posterior fornix for them -> it can also detect all po
 | Tubo-ovarian abscess                 | Due to untreated/ineffective treated Salpingitis (PID). <br><br>Lower abdomen pain, Tenderness, High fever, NO DISCHARGE, sexually active, not using barrier.<br><br>**Investigation**<br>- Do Pelvic USS to find a mass. If found, do laparoscopy.                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 ---
-# Genital herpes in Pregnancy %%linked%%
+# Genital Herpes in Pregnancy %%linked%%
 See [[human herpes viruses|herpes]] & [[genital ulcers|genital herpes]] 
 ### First episode of genital herpes 
 - T1 & T2: Oral Acyclovir for 5 days. NVD (Normal Vaginal delivery). 

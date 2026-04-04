@@ -27,9 +27,9 @@ High risk-HPV test.
 
 **+ve**: Cytology triage
 	**Cytology normal**: rescreen in 12 months 
-		if still +ve hrHPV but cytology normal at 12 months -> call again in further 12 months. 
-			If +ve hrHPV again at 24 months -> colposcopy
-			If -ve hrHPV at 24 months, return to routine recall
+		if still +ve hr-HPV but cytology normal at 12 months -> call again in further 12 months. 
+			If +ve hr-HPV again at 24 months -> colposcopy
+			If -ve hr-HPV at 24 months, return to routine recall
 	**Cytology abnormal**: Colposcopy referral
 **-ve**: Routine recall
 	3 years for 25-49

@@ -14,7 +14,8 @@ Due to [[chlamydia]] > [[gonorrhoea]]
 - Red inflamed vulva and cervix, tender pelvis (non tender abdomen)
 ## Investigation
 Most sensitive screening test for C & G is self-collected vulvovaginal swab for NAAT -> especially for h/o intermenstrual bleeding & post-coital bleeding. 
-- better than Endocervical swab for NAAT. 
+- better than Endocervical swab or FCU (first catch urine) for NAAT. 
+If genital herpes is suspected, a viral swab from a lesion can be sent for **PCR testing** for confirmation. (see [[cancer- cervical|Cervical Cancer]] for HPV & [[genital ulcers|genital herpes]])
 ## Treatment
 #### [[Chlamydia]] trachomatis (y for y) #mnemonic 
 Doxycycline, or

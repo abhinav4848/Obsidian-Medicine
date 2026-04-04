@@ -2,6 +2,7 @@
 tags:
   - stats
 ---
+*see [[statistics- significance tests]]* 
 # Paired vs Unpaired
 
 | Type              | Definition                                                                           | Example                           |
@@ -64,12 +65,15 @@ Rank the differences within pairs.
 > Tests whether **paired measurements consistently increase or decrease**.
 
 ---
-# Nominal Data vs Ordinal Data
-| Feature | Meaning                                          |
-| ------- | ------------------------------------------------ |
-| Nominal | Categories with no order                     |
-| Ordinal | Categories with order                        |
-| Paired  | Same subject measured twice or matched pairs |
+# Nominal Data vs Ordinal Data %%linked%%
+
+| Feature      | Meaning                                         |
+| ------------ | ----------------------------------------------- |
+| Quantitative | Can be discrete or continuous                   |
+| Categorical  | aka Qualitative data. Can be nominal or ordinal |
+| Nominal      | Categories with no order                        |
+| Ordinal      | Categories with order                           |
+| Paired       | Same subject measured twice or matched pairs    |
 ### Nominal data
 Categorical data with NO natural order (Nominal = _name only_) & no ranking. 
 - e.g. Blood group, eye colour, diagnosis type.

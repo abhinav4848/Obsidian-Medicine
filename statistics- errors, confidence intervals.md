@@ -3,7 +3,6 @@ tags:
   - stats
 aliases:
   - hypothesis testing
-  - significance tests
 revision notes: alpha (false positive) vs beta (false negative)
 revision counter: 1
 ---

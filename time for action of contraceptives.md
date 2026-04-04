@@ -18,7 +18,7 @@ I for Instant: Cu-IUD
 - can be relied upon immediately following insertion
 - the majority of IUDs with copper on the stem only are effective for 5 years, whereas some of the IUDs that have copper on the stem and the arms of the T may be effective for up to 10 years
 # Progesterone Implant 
-- Nexplanon is an etonogestrel (progesterone) implant that prevents ovulation and thickens cervical mucus. If Nexplanon is inserted between day 1-5 of menstrual cycle, it will be effective immediately. However, if it is inserted at any other time in the cycle, it will not be effective until after 7 days. 
+- [[contraceptives|Nexplanon]] is an etonogestrel (progesterone) implant that prevents ovulation and thickens cervical mucus. If Nexplanon is inserted between day 1-5 of menstrual cycle, it will be effective immediately. However, if it is inserted at any other time in the cycle, it will not be effective until after 7 days. 
 - If patient was switching from POP or COCP, she'd be covered immediately. 
 # Progesterone Pill
 - For POP, if started in day 1-5, immediate effects else use 2 days of additional protection. 

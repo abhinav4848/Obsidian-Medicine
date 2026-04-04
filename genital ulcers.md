@@ -40,7 +40,7 @@ midstream urine sample detects UTI. Not STD.
 But mostly, Chlamydia & [[gonorrhoea|Gonorrhoea]] cause urethral discharge & dysuria in men more than ulcer.
 
 [[behcet's disease]] can cause genital ulcers (also oral ulcer, anterior uveitis)
-See [[gynaecological infections#Genital herpes in Pregnancy linked|genital herpes in pregnancy]]
+See [[gynaecological infections#Genital Herpes in Pregnancy linked|genital herpes in pregnancy]]
 
 # Epididymo-orchitis
 **c/f**: tender, swollen epididymis.
@@ -52,7 +52,6 @@ E. coli in older adults, arising from urinary tract colonisation
 - older adults with a low-risk sexual history: MSSU (as this age group, it's due to enteric organisms like E. coli. )
 
 **DDx**: Testicular torsion. 
-
 **Rx**:
 
 | Scenario                                                                      | Action                                                                                                           |
@@ -60,3 +59,7 @@ E. coli in older adults, arising from urinary tract colonisation
 | STI most likely cause                                                         | Advise **urgent self-referral** to local specialist sexual health clinic                                         |
 | Organism unknown but STI suspected                                            | **Ceftriaxone 500 mg IM single dose** + **doxycycline 100 mg PO for 10–14 days** (covers chlamydia & gonorrhoea) |
 | Enteric organisms suspected (low STI risk, monogamous, no urethral discharge) | Send **MSU** + empirically treat with a fluoroquinolone for **2 weeks**                                          |
+
+---
+# Pregnancy
+![[gynaecological infections#Genital Herpes in Pregnancy linked|genital herpes in pregnancy]]

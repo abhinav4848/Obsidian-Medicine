@@ -22,6 +22,7 @@ Helps prevent ovulation.
 - Pill- 99% effective & 9% will conceive in first year
 - Implant- 0.05% will conceive in first year. Most effective contraception after abstinence. 
 - Depots- Perfect use (0.2% conceive in first year), typical use (6% conceive in first year). 
+
 ## Pill (aka POP)
 - No pill free interval. 
 - Can be used for endometriosis. 
@@ -32,9 +33,17 @@ Helps prevent ovulation.
 - Replaced every 3 years. 
 - It is the [[contraceptive choice for young people]]. 
 - can be inserted immediately following termination of pregnancy. 
+
 **S/E:** 
 - Irregular/heavy bleeding. Sometimes managed with co-prescribing COCP. Do speculum/STI check if bleed continues. 
 - Progestogen effects: Headache, nausea, Breast pain. 
+
+**Contraindications**  
+- UKMEC 3*: IHD/stroke (for continuation. if initiation then UKMEC 2), unexplained, suspicious vaginal bleeding, past breast cancer, severe liver cirrhosis, liver cancer
+- UKMEC 4**: current breast cancer
+\*proven risks generally outweigh the advantages 
+\*\*a condition which represents an unacceptable risk if the contraceptive method is used
+*See [[cocp|COCP]]*
 
 ## Injectable 
 every 13 weeks
