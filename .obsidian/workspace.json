@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "headache.md",
+                "file": "notifiable diseases.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "headache"
+              "title": "notifiable diseases"
             }
           },
           {
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "headache",
+                "query": "notifia",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "headache.md",
+                "file": "notifiable diseases.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of headache"
+              "title": "Graph of notifiable diseases"
             }
           }
         ]
@@ -301,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "headache.md",
+                "file": "notifiable diseases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for headache"
+              "title": "Backlinks for notifiable diseases"
             }
           }
         ]
@@ -333,6 +333,10 @@
   },
   "active": "9a37fd4fe783eacd",
   "lastOpenFiles": [
+    "hus vs ttp.md",
+    "notifiable diseases.md",
+    "consent in young people.md",
+    "headache.md",
     "cervicitis.md",
     "chlamydia.md",
     "cancer- screening programs.md",
@@ -351,15 +355,11 @@
     "time for action of contraceptives.md",
     "statistics- risk reduction, nnt, odds ratio.md",
     "rhinosinusitis.md",
-    "consent in young people.md",
     "hypertension.md",
     "ankylosing spondylitis.md",
     "uveitis.md",
     "episcleritis.md",
     "granulomatosis with polyangiitis.md",
-    "inflammatory bowel disease.md",
-    "hyperglycemia.md",
-    "diabetes articles.md",
     "attachments/parkinson's drugs and effects 1.png",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "housekeeping/revise recent changes.base",

@@ -27,6 +27,7 @@ Age < 5 yo.
 IV fluids, Blood, Dialysis.
 
 Never give Antibiotics cuz more toxins are released as E coli die. #important 
+HUS is a [[notifiable diseases]]
 
 ----
 # TTP
