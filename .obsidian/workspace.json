@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pregnancy skin disorders.md",
+                "file": "cancer- breast (referral criteria).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "pregnancy skin disorders"
+              "title": "cancer- breast (referral criteria)"
             }
           },
           {
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "polymor",
+                "query": "breast cancer",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pregnancy skin disorders.md",
+                "file": "cancer- breast (referral criteria).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of pregnancy skin disorders"
+              "title": "Graph of cancer- breast (referral criteria)"
             }
           }
         ]
@@ -301,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pregnancy skin disorders.md",
+                "file": "cancer- breast (referral criteria).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pregnancy skin disorders"
+              "title": "Backlinks for cancer- breast (referral criteria)"
             }
           }
         ]
@@ -333,8 +333,10 @@
   },
   "active": "9a37fd4fe783eacd",
   "lastOpenFiles": [
-    "consent in young people.md",
+    "ophthalmia neonatorum.md",
+    "conjunctivitis.md",
     "pregnancy skin disorders.md",
+    "consent in young people.md",
     "cauda equina syndrome.md",
     "g6pd deficiency.md",
     "ciprofloxacin.md",
@@ -358,8 +360,6 @@
     "hearing test in children.md",
     "audiograms.md",
     "heart failure.md",
-    "ckd pharmacology.md",
-    "notifiable diseases.md",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/parkinson's drugs and effects 1.png",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
