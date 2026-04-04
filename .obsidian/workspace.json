@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hypertension.md",
+                "file": "dermatomyositis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hypertension"
+              "title": "dermatomyositis"
             }
           },
           {
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "breast cancer",
+                "query": "gott",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cancer- breast (referral criteria).md",
+                "file": "dermatomyositis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cancer- breast (referral criteria)"
+              "title": "Graph of dermatomyositis"
             }
           }
         ]
@@ -301,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cancer- breast (referral criteria).md",
+                "file": "dermatomyositis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cancer- breast (referral criteria)"
+              "title": "Backlinks for dermatomyositis"
             }
           }
         ]
@@ -331,8 +331,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "9a37fd4fe783eacd",
+  "active": "85774994797ebf68",
   "lastOpenFiles": [
+    "fever & sepsis.md",
+    "statistics- significance tests.md",
+    "vitals in children.md",
+    "bronchiolitis.md",
+    "red flags of sepsis in children.md",
+    "asthma.md",
+    "hypertension.md",
+    "cancer- breast (referral criteria).md",
     "ophthalmia neonatorum.md",
     "conjunctivitis.md",
     "pregnancy skin disorders.md",
@@ -352,14 +360,6 @@
     "afro-caribbean.md",
     "rheumatoid arthritis.md",
     "neonatal jaundice.md",
-    "obstructive sleep apnoea.md",
-    "bell's palsy.md",
-    "hearing aid.md",
-    "immunisation in adults.md",
-    "hearing loss.md",
-    "hearing test in children.md",
-    "audiograms.md",
-    "heart failure.md",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/parkinson's drugs and effects 1.png",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",

@@ -34,10 +34,16 @@ For <12yo HR <60
 - Fever lasting more than 5 days should be assessed for [[kawasaki disease]]. 
 - Fever: Elevation of body temperature above the normal daily variation. hence, reported parental perception of a fever should be considered valid and taken seriously by healthcare professionals. 
 # Passing urine
-- Important for sepsis
-All ages: Not passed urine in the past 12 (infants) to 18 hours, OR for catheterised patients passed 0.5 to 1 ml/kg of urine per hour
+*Important for sepsis*
+**All ages**: 
+- Not passed urine in the past 12 (infants) to 18 hours, OR for catheterised patients passed 
+- 0.5 to 1 ml/kg of urine per hour.
+- Babies should pass around 6 wet nappies a day, so to have three by the time of morning surgery would be normal.
 
 > For any child with fever, note oral mucosa and capillary refill time, weak pulse, cool extremities
+
+### Feeding
+If a baby is feeding less than 50% of normal it is likely that they will become dehydrated so admission for support with feeding would be indicated.
 
 Teach parents about [looking for dehydration](https://www.nice.org.uk/guidance/ng143/chapter/Recommendations#advice-for-home-care) (sunken fontanelle/soft spots on the skull- takes 1 to 2 years to close, dry mouth, sunken eyes, CRT >3s, absence of tears, poor overall appearance), non blanching rash
 # Blood pressure

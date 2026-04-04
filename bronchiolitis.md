@@ -3,9 +3,9 @@ tags:
   - infection
   - paeds
 urls:
-  - https://www.nice.org.uk/guidance/ng9/chapter/1-Recommendations
-  - https://cks.nice.org.uk/topics/cough-acute-with-chest-signs-in-children/
-  - https://www.nice.org.uk/guidance/qs122/chapter/Quality-statement-2-Bronchiolitis-management
+  - "[NICE NG9- Bronchiolitis](https://www.nice.org.uk/guidance/ng9/chapter/1-Recommendations)"
+  - "[NICE CKS- Cough - acute with chest signs in children](https://cks.nice.org.uk/topics/cough-acute-with-chest-signs-in-children/)"
+  - "[NICE QS 122- Bronchiolitis Quality Statement](https://www.nice.org.uk/guidance/qs122/chapter/Quality-statement-2-Bronchiolitis-management)"
 ---
 Respiratory Syncytial virus (RSV) mostly. 
 It is an [[infection in children|LRTI]]. 
@@ -26,6 +26,7 @@ Seen in < 1yo.
 	- Expiratory [[Abnormal airway sounds|wheeze]] ([YouTube](https://www.youtube.com/watch?v=4RU_bysa5Lc)) / fine crackles on auscultation 
 - Difficulty feeding (typically 3-5 days after illness starts) and breathing
 	- Apnoea without other clinical signs in young infants (in particular those under 6 weeks of age). 
+	- Take reported apnoea seriously. 
 - Can have fever (<39C). Higher temp is for pneumonia. 
 ### When to Admit
 >[!danger] Admit a child with: 
@@ -41,6 +42,7 @@ Seen in < 1yo.
 > - central cyanosis
 > - persistent oxygen saturation of less than 92% when breathing air.
 > - signs of [[fever & sepsis|sepsis]]
+> 	- [[vitals in children|Fever]]: > 38C in age < 3months (red), or >39 in 3-6 months (amber)
 
 >[!warning] Consider referral if:
 >- RR > 60
@@ -61,3 +63,5 @@ Those at risk of developing RSV include
 1. Premature infants
 2. Infants with lung or heart abnormalities
 3. Immunocompromised infants
+
+![[fever & sepsis#Summary PDFs is embedded]]
