@@ -21,7 +21,7 @@ Diagnosis is made by using a G6PD enzyme assay
 Some drugs causing haemolysis 
 - [[malaria|anti-malarials]]: primaquine 
 - [[ciprofloxacin]] 
-- sulph- group drugs: sulphonamides, sulphasalazine, sulfonylureas 
+- **sulph- group drugs**: sulphonamides, sulphasalazine, sulfonylureas 
  
 Some drugs thought to be safe 
 - penicillins 
@@ -34,6 +34,7 @@ Some drugs thought to be safe
 | ------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Gender**          | Male (X-linked recessive)                                                           | Male + female (autosomal dominant)                                                                                                                      |
 | **Ethnicity**       | African + Mediterranean descent                                                     | Northern European descent                                                                                                                               |
-| **Typical history** | • Neonatal jaundice  <br>• Infection/drugs precipitate haemolysis  <br>• Gallstones | • Neonatal jaundice  <br>• Chronic symptoms although haemolytic crises may be precipitated by infection  <br>• Gallstones  <br>• Splenomegaly is common |
+| **Haemolysis**      | Intravascular                                                                       | Extravascular                                                                                                                                           |
+| **Typical history** | - Neonatal jaundice  <br>- Infection/drugs precipitate haemolysis  <br>- Gallstones | - Neonatal jaundice  <br>- Chronic symptoms although haemolytic crises may be precipitated by infection  <br>- Gallstones  <br>- Splenomegaly is common |
 | **Blood film**      | Heinz bodies                                                                        | Spherocytes (round, lack of central pallor)                                                                                                             |
 | **Diagnostic test** | Measure enzyme activity of G6PD                                                     | EMA binding                                                                                                                                             |

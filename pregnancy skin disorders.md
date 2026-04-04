@@ -7,6 +7,7 @@ aliases:
   - Pemphigoid gestationis
   - herpes gestationis
   - Pruritic urticarial papules & Plaques of pregnancy
+  - PUPPP
 ---
 # Polymorphic eruption of pregnancy (PEP)
 [Dermnetz PEP](http://www.dermnetnz.org/topics/polymorphic-eruption-of-pregnancy/), [PCDS PEP](https://www.pcds.org.uk/clinical-guidance/polymorphous-eruption-of-pregnancy-syn-pruritic-urticarial-papules-and-pla)

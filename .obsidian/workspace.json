@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "g6pd deficiency.md",
+                "file": "pregnancy skin disorders.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "g6pd deficiency"
+              "title": "pregnancy skin disorders"
             }
           },
           {
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "amiodarone",
+                "query": "polymor",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "g6pd deficiency.md",
+                "file": "pregnancy skin disorders.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of g6pd deficiency"
+              "title": "Graph of pregnancy skin disorders"
             }
           }
         ]
@@ -301,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "g6pd deficiency.md",
+                "file": "pregnancy skin disorders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for g6pd deficiency"
+              "title": "Backlinks for pregnancy skin disorders"
             }
           }
         ]
@@ -333,18 +333,21 @@
   },
   "active": "9a37fd4fe783eacd",
   "lastOpenFiles": [
+    "consent in young people.md",
+    "pregnancy skin disorders.md",
+    "cauda equina syndrome.md",
+    "g6pd deficiency.md",
+    "ciprofloxacin.md",
+    "cell histology.md",
     "malaria.md",
     "quinine.md",
     "drugs that can cause ocular problems.md",
     "lichen planus.md",
     "amiodarone.md",
     "retinopathy.md",
-    "g6pd deficiency.md",
-    "cell histology.md",
     "attachments/degmacytes.png",
     "dapsone.md",
     "afro-caribbean.md",
-    "ciprofloxacin.md",
     "rheumatoid arthritis.md",
     "neonatal jaundice.md",
     "obstructive sleep apnoea.md",
@@ -357,9 +360,6 @@
     "heart failure.md",
     "ckd pharmacology.md",
     "notifiable diseases.md",
-    "hus vs ttp.md",
-    "consent in young people.md",
-    "headache.md",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/parkinson's drugs and effects 1.png",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",

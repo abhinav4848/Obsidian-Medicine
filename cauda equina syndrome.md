@@ -14,7 +14,7 @@ urls:
 	- Loss of sensation of rectal fullness
 	- Faecal incontinence
 	- Decreased anal tone
-		- It is good practice to check anal tone in patients with new-onset back pain. However, studies show this has poor sensitivity and specificity for CES
+		- It is good practice to check anal tone in patients with new-onset back pain. However, studies show this has poor sensitivity and specificity for CES ([CKS](https://cks.nice.org.uk/topics/sciatica-lumbar-radiculopathy/diagnosis/red-flag-symptoms-signs/))
 - Urinary dysfunction
 	- Difficulty initiating micturition
 	- Impaired sensation of urinary flow
