@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "genital ulcers.md",
+                "file": "headache.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "genital ulcers"
+              "title": "headache"
             }
           },
           {
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chlamydia",
+                "query": "headache",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "genital ulcers.md",
+                "file": "headache.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of genital ulcers"
+              "title": "Graph of headache"
             }
           }
         ]
@@ -301,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "genital ulcers.md",
+                "file": "headache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for genital ulcers"
+              "title": "Backlinks for headache"
             }
           }
         ]
@@ -333,12 +333,15 @@
   },
   "active": "9a37fd4fe783eacd",
   "lastOpenFiles": [
+    "cervicitis.md",
+    "chlamydia.md",
+    "cancer- screening programs.md",
+    "flow charts/cervical cancer screening pathway.canvas",
     "gynaecological infections.md",
+    "human papilloma virus.md",
     "genital ulcers.md",
     "human herpes viruses.md",
-    "cervicitis.md",
     "cancer- cervical.md",
-    "chlamydia.md",
     "statistics- validity.md",
     "statistics- significance tests.md",
     "statistics- basics about data.md",
@@ -357,8 +360,6 @@
     "inflammatory bowel disease.md",
     "hyperglycemia.md",
     "diabetes articles.md",
-    "coeliac disease.md",
-    "cancer- screening programs.md",
     "attachments/parkinson's drugs and effects 1.png",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "housekeeping/revise recent changes.base",
@@ -373,7 +374,6 @@
     "attachments/bronchovesicular-2.mp3",
     "attachments/brvo.png",
     "attachments/box-and-whisker plot.png",
-    "flow charts/cervical cancer screening pathway.canvas",
     "attachments/auer rods- aml.png",
     "attachments/atropa belladona.pdf",
     "attachments/crao.png",

@@ -19,5 +19,9 @@ aliases:
 | **Prophylaxis<br><br>(first line medication to reduce frequency of symptoms)** | Acupuncture                                   | Beta blockers (Propranolol) > Topiramate (anticonvulsant. [[drugs contraindicated in pregnancy\|Avoid in pregnancy]])<br><br>OCP c/i in migraine with Aura, as it further aggravates the risk of CVA .<br><br>Topiramate also not used in female of childbearing age as prophylaxis. Cuz it's teratogenic | CCB ([[calcium channel blockers\|Verapamil]])  <br>  <br>Avoid [[alcohol]] -> Common trigger.                                                          |
 # Medication overuse headache
 Consider if symptoms developed or worsened while patient was taking:
-- triptans, opioids, ergots, or combined analgesics (e.g. co-codamol) on >= 10 days a month since at least 3 months
+- **triptans**, **opioids**, ergots, or combined analgesics (e.g. co-codamol) on >= 10 days a month since at least 3 months
 - Paracetamol, Aspirin, or an NSAID (any combination) on >= 15 days a month since at least 3 months. 
+
+Management (from 2008 SIGN guidelines)  
+- simple analgesics and triptans should be withdrawn abruptly (may initially worsen headaches)
+- opioid analgesics should be gradually withdrawn

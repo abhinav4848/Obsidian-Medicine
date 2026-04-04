@@ -8,6 +8,7 @@ aliases:
   - Condyloma acuminatum
   - Verruca Vulgaris
   - Verruca plana
+  - Condyloma latum
 ---
 6, 11: Genital warts, Anal warts (Anogenital warts-> Condyloma acuminata)
 16, 18: Cervical cancer  

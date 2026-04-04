@@ -36,4 +36,4 @@ Most prevalent sexually transmitted infection in the UK.
 - patients diagnosed with Chlamydia should be offered a choice of provider for initial partner notification - either trained practice nurses with support from GUM, or referral to GUM
 - for men with urethral symptoms: all contacts since, and in the four weeks prior to, the onset of symptoms
 - for women and asymptomatic men all partners from the last six months or the most recent sexual partner should be contacted
-- contacts of confirmed Chlamydia cases should be offered treatment prior to the results of their investigations being known (treat then test)
+- contacts of confirmed Chlamydia cases should be offered treatment prior to the results of their investigations being known (*treat then test*)
