@@ -3,6 +3,7 @@
   "enabledCssSnippets": [
     "headers",
     "obvious-bold",
-    "red-border"
+    "red-border",
+    "inverted-image"
   ]
 }

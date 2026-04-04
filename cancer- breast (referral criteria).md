@@ -4,11 +4,12 @@ tags:
   - oncology
 urls:
   - "[NICE- Cancer referral guidelines - breast](https://www.nice.org.uk/guidance/ng12/chapter/1-Recommendations-organised-by-site-of-cancer#breast-cancer)"
+cssclasses:
 ---
 Fixed, irregular, hard, painless lump ± nipple retraction ± fixed to skin (Peau d’ orange) or muscle (+) Local, fixed, firm, axillary LNs.
 → Breast Cancer
 
-_Refer_ 2ww breast cancer if:  
+_Refer_ 2ww breast cancer if: 
 - >=30 + unexplained breast lump +/- pain
 - >=50 + any of these changes in one nipple only: discharge / retraction / other changes of concern
 
