@@ -16,12 +16,14 @@ It's an LMN lesion.
 - dry eyes (punctate fluorescein staining of cornea on fluorescein dye),
 - hyperacusis.
 
-**Rx**: Prednisolone high dose 50mg 10 days started within 72 hrs of onset of Bell's palsy. 
-If no resolution in 3 weeks, or UMN signs, refer urgently to ENT. 
-If many months of facial weakness, refer to plastics. 
-*Don't ever give antivirals either alone or with prednisolone (no better than placebo).* 
-Give eye lubrication & eye care advice. 
+**Rx**: 
+- Prednisolone high dose 50mg 10 days started within 72 hrs of onset of Bell's palsy. 
+- If no resolution in 3 weeks, or UMN signs, refer urgently to ENT. 
+- If many months of facial weakness, refer to plastics. 
+- *Don't ever give antivirals either alone or with prednisolone (no better than placebo).* 
+- Give eye lubrication & eye care advice (to prevent exposure keratopathy)
 
+# Causes of Facial palsy
 **Facial nerve branches**: *To zanzibar by motor car*: Temporal, Zygomatic, Buccal, Marginal mandibular, Cervical. #mnemonic 
 
 | u/l facial palsy                                                                                             | b/l facial palsy                                                                                                                                                     |

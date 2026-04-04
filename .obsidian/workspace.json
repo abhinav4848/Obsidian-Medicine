@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bell's palsy.md",
+                "file": "obstructive sleep apnoea.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "bell's palsy"
+              "title": "obstructive sleep apnoea"
             }
           },
           {
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bell's",
+                "query": "obstructive sleep",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "bell's palsy.md",
+                "file": "obstructive sleep apnoea.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of bell's palsy"
+              "title": "Graph of obstructive sleep apnoea"
             }
           }
         ]
@@ -301,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bell's palsy.md",
+                "file": "obstructive sleep apnoea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bell's palsy"
+              "title": "Backlinks for obstructive sleep apnoea"
             }
           }
         ]
@@ -333,6 +333,7 @@
   },
   "active": "9a37fd4fe783eacd",
   "lastOpenFiles": [
+    "bell's palsy.md",
     "hearing aid.md",
     "immunisation in adults.md",
     "hearing loss.md",
@@ -359,7 +360,6 @@
     "statistics- errors, confidence intervals.md",
     "cocp.md",
     "contraceptives.md",
-    "time for action of contraceptives.md",
     "attachments/parkinson's drugs and effects 1.png",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "housekeeping/revise recent changes.base",
