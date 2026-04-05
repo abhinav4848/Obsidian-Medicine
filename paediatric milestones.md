@@ -4,11 +4,18 @@ aliases:
 tags:
   - paeds
 urls:
-  - https://ctsmed.blogspot.com/2012/09/how-to-learn-understand-and-memorize.html
-  - https://mrcpch.paediatrics.co.uk/wp-content/uploads/2014/06/Development-Assessment-MRCPCH-Website.pdf
-  - https://youtu.be/kVUyStz9Ifk?si=8WPBm4NLCCR0ENGS
+  - "[Blogspot- memorise milestones](https://ctsmed.blogspot.com/2012/09/how-to-learn-understand-and-memorize.html)"
+  - "[MRCPCH- milestones](https://mrcpch.paediatrics.co.uk/wp-content/uploads/2014/06/Development-Assessment-MRCPCH-Website.pdf)"
+  - "[YouTube- Milestones Song mnemonic](https://youtu.be/kVUyStz9Ifk)"
 revision counter: 1
 ---
+**Correction** 
+If premature baby < 37w+0d: You add the number of weeks of prematurity to expected milestone time. Do this with 40 weeks in mind & only up to 2 years of age. 
+If born after 37 weeks, no correction needed for milestones. 
+- Born at 32 weeks: Add (40-32)= 8 weeks to target milestone. A milestone for 6-8 weeks will be achieved at 14-16 weeks. 
+- Born at 37w+1d: No correction needed
+
+**Immunisations** however are not corrected for if baby is premature. They're based purely on chronological age. 
 # Goals
 #### 1 year
 **Gross**: To walk
@@ -106,6 +113,39 @@ Includes hearing and speaking.
 # Social
 - smile: 2 months
 - eye contact 3 months
+
+| **Age**  | **Milestone**                        |
+| -------- | ------------------------------------ |
+| 6 weeks  | Smiles (Refer 🚩at 10 weeks)         |
+| 3 months | Laughs  <br>Enjoys friendly handling |
+| 6 months | Not shy                              |
+| 9 months | Shy  <br>Takes everything to mouth   |
+##### Feeding
+
+|**Milestone**|**Age**|
+|---|---|
+|May put hand on bottle when being fed|6 months|
+|Drinks from cup + uses spoon, develops over 3 month period|12 -15 months|
+|Competent with spoon, doesn't spill with cup|2 years|
+|Uses spoon and fork|3 years|
+|Uses knife and fork|5 years|
+##### Dressing
+
+|**Milestone**|**Age**|
+|---|---|
+|Helps getting dressed/undressed|12-15 months|
+|Takes off shoes, hat but unable to replace|18 months|
+|Puts on hat and shoes|2 years|
+|Can dress and undress independently except for laces and buttons|4 years|
+##### Play
+
+|**Milestone**|**Age**|
+|---|---|
+|Plays 'peek-a-boo'|9 months|
+|Waves 'bye-bye'  <br>Plays 'pat-a-cake'|12 months|
+|Plays contentedly alone|18 months|
+|Plays near others, not with them|2 years|
+|Plays with other children|4 years|
 
 ---
 # Links

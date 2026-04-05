@@ -69,7 +69,7 @@ FeNO >= 35ppb
 
 If FeNO not raised, or test can't be done: 
 - BDR with spirometry
-If no spirometry
+If no BDR
 - PEF twice daily for 2 weeks
 
 If still not confirmed by FeNO, BDR, PEF, but still suspected
