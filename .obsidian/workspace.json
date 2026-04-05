@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dermatomyositis.md",
+                "file": "plaque psoriasis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "dermatomyositis"
+              "title": "plaque psoriasis"
             }
           },
           {
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gott",
+                "query": "psoriasis",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dermatomyositis.md",
+                "file": "plaque psoriasis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of dermatomyositis"
+              "title": "Graph of plaque psoriasis"
             }
           }
         ]
@@ -301,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dermatomyositis.md",
+                "file": "plaque psoriasis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for dermatomyositis"
+              "title": "Backlinks for plaque psoriasis"
             }
           }
         ]
@@ -333,6 +333,8 @@
   },
   "active": "85774994797ebf68",
   "lastOpenFiles": [
+    "psoriasis.md",
+    "dermatomyositis.md",
     "fever & sepsis.md",
     "statistics- significance tests.md",
     "vitals in children.md",
@@ -358,8 +360,6 @@
     "attachments/degmacytes.png",
     "dapsone.md",
     "afro-caribbean.md",
-    "rheumatoid arthritis.md",
-    "neonatal jaundice.md",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/parkinson's drugs and effects 1.png",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
