@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "precocious puberty.md",
+                "file": "puberty.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "precocious puberty"
+              "title": "puberty"
             }
           },
           {
@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "precocious puberty.md",
+                "file": "puberty.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -158,7 +158,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of precocious puberty"
+              "title": "Graph of puberty"
             }
           }
         ]
@@ -270,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "precocious puberty.md",
+                "file": "puberty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +280,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for precocious puberty"
+              "title": "Backlinks for puberty"
             }
           }
         ]
@@ -302,8 +302,9 @@
   },
   "active": "484ea43330baee1a",
   "lastOpenFiles": [
+    "congenital adrenal hyperplasia.md",
+    "puberty.md",
     "amenorrhoea (primary).md",
-    "precocious puberty.md",
     "headache.md",
     "pertussis.md",
     "macrolides.md",
@@ -331,7 +332,6 @@
     "vitals in children.md",
     "bronchiolitis.md",
     "red flags of sepsis in children.md",
-    "asthma.md",
     "attachments/degmacytes.png",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/parkinson's drugs and effects 1.png",
