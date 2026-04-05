@@ -6,12 +6,12 @@ urls:
 ---
 Can give adrenaline 1:1000 1mg/ml in anterolateral aspect of mid-thing. 
 
-| Age                        | Adrenaline dose                                 |
-| -------------------------- | ----------------------------------------------- |
-| < 6 months                 | 100 - 150 micrograms (0.1 - 0.15 ml 1 in 1,000) |
-| 6 months - 6 years         | 150 micrograms (0.15 ml 1 in 1,000)             |
-| 6-12 years                 | 300 micrograms (0.3ml 1 in 1,000)               |
-| Adult and child > 12 years | 500 micrograms (0.5ml 1 in 1,000)               |
+| Age                        | Adrenaline dose (simplified)              | [[seizure]] Diazepam |
+| -------------------------- | ----------------------------------------- | -------------------- |
+| < 6 months                 | 150 micrograms (0.1 - 0.15 ml 1 in 1,000) | 5mg (except neonate) |
+| 6 months - 6 years         | 150 micrograms (0.15 ml 1 in 1,000)       | 5mg                  |
+| 6-12 years                 | 300 micrograms (0.3ml 1 in 1,000)         | 5mg                  |
+| Adult and child > 12 years | 500 micrograms (0.5ml 1 in 1,000)         | 10mg                 |
 
 Can repeat twice at 5 mins interval. If no response -> Refractory anaphylaxis. 
 
