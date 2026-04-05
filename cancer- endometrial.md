@@ -11,7 +11,10 @@ Postmenopausal vaginal bleed.
 	But most common causes for postmenopausal bleeds: Atrophic vaginitis (seen post-coitally)
 
 All women >55 with post menopausal bleed: 2 WW pathway.
-	Do initial TVS for thickness > If thick (>4mm), do diagnostic Hysteroscopy + Endometrial Biopsy
+Otherwise do initial TV-USS if 
+- >=55yo + visible [[haematuria]] + >=1: of anaemia/[[platelets|thrombocytosis]]/inc Blood glucose. 
+- >=55yo + vaginal discharge + >=1 of: first presentation / [[platelets|thrombocytosis]] / haematuria
+If thickness >4mm, do diagnostic Hysteroscopy + Endometrial Biopsy. 
 
 **Progesterone, [[cancer- drugs involved in gynae cancers#COCP & Cancer risk embedded|COCP]], Multiparity reduces risk.**
 # Risk Factors

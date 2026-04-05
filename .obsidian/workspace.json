@@ -11,17 +11,15 @@
             "id": "484ea43330baee1a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "flow charts/haematuria.canvas",
-                "viewState": {
-                  "x": 344,
-                  "y": 70,
-                  "zoom": -0.5947958584944256
-                }
+                "file": "cancer- endometrial.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "haematuria"
+              "icon": "lucide-file",
+              "title": "cancer- endometrial"
             }
           },
           {
@@ -132,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "flow charts/haematuria.canvas",
+                "file": "cancer- endometrial.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -160,7 +158,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of haematuria"
+              "title": "Graph of cancer- endometrial"
             }
           }
         ]
@@ -272,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flow charts/haematuria.canvas",
+                "file": "cancer- endometrial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +280,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for haematuria"
+              "title": "Backlinks for cancer- endometrial"
             }
           }
         ]
@@ -304,9 +302,11 @@
   },
   "active": "484ea43330baee1a",
   "lastOpenFiles": [
+    "flow charts/haematuria.canvas",
+    "cancer- endometrial.md",
+    "uti.md",
     "haematuria.md",
     "cancer- renal.md",
-    "flow charts/haematuria.canvas",
     "down's syndrome.md",
     "puberty.md",
     "congenital adrenal hyperplasia.md",
@@ -332,8 +332,6 @@
     "diabetes articles.md",
     "plaque psoriasis.md",
     "psoriatic arthritis.md",
-    "psoriasis.md",
-    "dermatomyositis.md",
     "attachments/degmacytes.png",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/parkinson's drugs and effects 1.png",
