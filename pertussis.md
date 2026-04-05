@@ -19,12 +19,13 @@ AND one or more of the following features:
 - Inspiratory whoop (due to forced inspiration against closed glottis)- not always present
 - Post-tussive vomiting- leads to central cyanosis (face goes blue). 
 	- More common at night & after feeding.
-- Undiagnosed apnoeic attacks in young infants.
+- Undiagnosed apnoeic attacks in young infants. 
 ## Vaccination
 - In UK, pregnants receive Influenza + Pertussis (as DPT)- (*Cough and sneeze vaccine*) around 16 - 32 weeks. 
 - infants are routinely immunized at 2, 3, 4 months and 3-5 years
+- Vaccination doesn't confer lifelong protection so adolescents & adults may develop whooping cough despite having had their routine immunisation. 
 ## Treatment
-- Oral macrolide: (Clarithromycin/ Erythromycin/ Azithromycin) #abx if onset of cough is within past 21 days. 
+- Oral [[macrolides|macrolide]]: (Clarithromycin/ Erythromycin/ Azithromycin) #abx if onset of cough is within past 21 days. 
 > [!info]
 > Household contacts to be **offered abx prophylaxis**.
 - [[School in children with rash|School exclusion]] for 48 hrs after starting antibiotics, or 21 days from onset of symptoms if no antibiotics given.
