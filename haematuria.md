@@ -16,9 +16,15 @@ urls:
 | [[cancer- renal]]                               |                                                                                    |
 | [[cancer- prostate]]                            | Do PSA & DRE in men with: LUTS, ED, or visible haematuria.                         |
 
-|                                           |                                                                                                                                                                                                                                     |
-| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| transient/spurious non-visible haematuria | UTI, Menstruation, Vigorous exercise (settles in 3 days), sexual intercourse                                                                                                                                                        |
-| persistent non-visible haematuria         | cancer ([[cancer- urology\|bladder]], renal, [[cancer- prostate\|Prostate]]), [[renal stone\|stone]], [[prostate\|BPH]], [[prostate\|prostatitis]], urethritis (e.g. chlamydia), renal causes (IgA), thin basement membrane disease |
+|                                           |                                                                                                                                                                                                                                                                                                                                          |
+| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| transient/spurious non-visible haematuria | UTI, Menstruation, Vigorous exercise (settles in 3 days), sexual intercourse                                                                                                                                                                                                                                                             |
+| persistent non-visible haematuria         | defined as blood being present in 2 out of 3 samples tested 2-3 weeks apart.<br>- Cancer ([[cancer- urology\|bladder]], [[cancer- renal\|renal]], [[cancer- prostate\|Prostate]]), [[renal stone\|stone]], [[prostate\|BPH]], [[prostate\|prostatitis]], urethritis (e.g. chlamydia), renal causes (IgA), thin basement membrane disease |
+Urgent Refer:
+
 
 See ![[haematuria.canvas]]
+# Other causes
+Spurious causes - red/orange urine, where blood is not present on dipstick  
+- **foods**: beetroot, rhubarb
+- **drugs**: rifampicin, doxorubicin

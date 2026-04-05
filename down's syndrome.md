@@ -13,9 +13,11 @@ Down syndrome screening can be divided into the different screening tests availa
 | ---------------------- | ----------------------------------------------- | --------------------------------------------------- |
 | Combined / Triple Test | 10 weeks + 0 days to 14 weeks + 1-day gestation | NT, free βhCG and PAPP-A                            |
 | Quadruple Test         | 14 weeks + 2 days to 20 weeks gestation         | αFP, free βhCG, inhibin-A, oestriol                 |
-| Integrated Test        | 10 weeks + 0 days to 20 weeks gestation         | NT, free βhCG, PAPP-A, <br>AFP, inhibin-A, oestriol |
+| Integrated Test        | 10 weeks + 0 days to 20 weeks gestation         | NT, free βhCG, PAPP-A, <br>αFP, inhibin-A, oestriol |
 - NT: Ultrasound Nuchal Translucency (NT) measurement
 - αFP: alpha-fetoprotein
+	- Raised in Neural tube defect (like Meningocele, anencephaly due to αFP leakage); abdominal wall defects (gastroschisis, omphalocele); multiple pregnancy
+	- Low in Down's, Edward's, Maternal DM. 
 - PAPP-A: pregnancy-associated plasma protein A
 - Oestriol: unconjugated oestriol
 # Interpreting the results of Quadruple tests

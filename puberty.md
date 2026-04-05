@@ -13,7 +13,7 @@ aliases:
 | Male   | 9yo                | 12yo                   | No testicular development by 14yo.                                               |
 # Precocious puberty
 Development of secondary sexual characteristics before 
-- 8 years in females and 
+- 8 years in females, and 
 - 9 years in males 
 #### Classification of Precocious Puberty
 1. Gonadotrophin dependent ('central', 'true') 
