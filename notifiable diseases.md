@@ -4,6 +4,8 @@ tags:
   - admin
 urls:
   - "[UK Gov- Notifiable diseases](https://www.gov.uk/government/collections/notifications-of-infectious-diseases-noids)"
+aliases:
+  - notifiable disease
 ---
 Do not wait for laboratory confirmation of the disease. By law, you must report any suspicion of a notifiable disease.
 
@@ -49,5 +51,5 @@ Do not wait for laboratory confirmation of the disease. By law, you must report 
 | [[Tuberculosis]]                                              | Routine. Urgent if healthcare worker, or suspected cluster or multi-drug resistant |
 | Typhus                                                        | Routine                                                                            |
 | Viral haemorrhagic fever (VHF)                                | Urgent                                                                             |
-| Whooping cough                                                | Urgent if diagnosed in acute phase. Routine in later diagnosis                     |
+| [[pertussis\|Whooping Cough]]                                 | Urgent if diagnosed in acute phase. Routine in later diagnosis                     |
 | Yellow fever                                                  | Routine. Urgent if acquired in UK                                                  |

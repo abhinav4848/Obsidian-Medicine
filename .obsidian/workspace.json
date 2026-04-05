@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "different rashes in paeds.md",
+                "file": "pertussis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "different rashes in paeds"
+              "title": "pertussis"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rash child",
+                "query": "whooping cou",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "different rashes in paeds.md",
+                "file": "pertussis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -158,7 +158,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of different rashes in paeds"
+              "title": "Graph of pertussis"
             }
           }
         ]
@@ -270,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "different rashes in paeds.md",
+                "file": "pertussis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +280,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for different rashes in paeds"
+              "title": "Backlinks for pertussis"
             }
           }
         ]
@@ -302,13 +302,22 @@
   },
   "active": "484ea43330baee1a",
   "lastOpenFiles": [
+    "school in children with rash.md",
+    "roseola infantum.md",
+    "pertussis.md",
+    "cancer- breast (referral criteria).md",
+    "notifiable diseases.md",
+    "foot problems.md",
+    "attachments/rocker bottom foot (charcot foot) -4.jpg",
+    "attachments/rocker bottom foot (charcot foot)- 3.jpg",
+    "attachments/rocker bottom foot (charcot foot)- 2.jpg",
+    "attachments/rocker bottom foot (charcot foot)- 1.jpg",
+    "ascending cholangitis.md",
+    "different rashes in paeds.md",
     "statistics- significance tests.md",
     "statistics- basics about data.md",
-    "different rashes in paeds.md",
     "scarlet fever.md",
-    "roseola infantum.md",
     "diabetes articles.md",
-    "school in children with rash.md",
     "plaque psoriasis.md",
     "psoriatic arthritis.md",
     "psoriasis.md",
@@ -319,15 +328,10 @@
     "red flags of sepsis in children.md",
     "asthma.md",
     "hypertension.md",
-    "cancer- breast (referral criteria).md",
     "ophthalmia neonatorum.md",
     "conjunctivitis.md",
     "pregnancy skin disorders.md",
     "consent in young people.md",
-    "cauda equina syndrome.md",
-    "g6pd deficiency.md",
-    "ciprofloxacin.md",
-    "cell histology.md",
     "attachments/degmacytes.png",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/parkinson's drugs and effects 1.png",
@@ -340,11 +344,7 @@
     "attachments/evidencebasedrecoverytimes.pdf",
     "attachments/asthma- diagnose in ages 5-16yo.jpg",
     "attachments/asthma- diagnose in over 16yo.jpg",
-    "attachments/asthma management in adults 2024 guidelines.jpg",
     "attachments/bronchovesicular-2.mp3",
-    "attachments/brvo.png",
-    "attachments/box-and-whisker plot.png",
-    "attachments/auer rods- aml.png",
     "attachments/atropa belladona.pdf",
     "desktop.ini",
     "flow charts/hypertension management.canvas",

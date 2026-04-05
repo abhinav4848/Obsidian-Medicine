@@ -29,21 +29,23 @@ aliases:
   - Claw toe
   - Mallet toe
   - myxoid cyst
+  - charcot foot
 ---
 # Sites of pain
-| Condition                  | Typical Site of Pain                                                           |
-| -------------------------- | ------------------------------------------------------------------------------ |
-| Morton's neuroma           | Plantar forefoot between 3rd/4th metatarsal heads (may radiate to toes)        |
-| Metatarsal stress fracture | Dorsal forefoot over affected metatarsal shaft                                 |
-| Sesamoiditis               | Plantar surface beneath 1st metatarsal head                                    |
-| Bursitis                   | Around 1st or 2nd MTP joint (dorsal or plantar depending on bursa involved)    |
-| Bunion (Hallux valgus)     | Medial aspect of 1st MTP joint                                                 |
-| Plantar fasciitis          | Plantar heel (medial calcaneal tubercle)                                       |
-| Achilles tendinopathy      | Posterior heel along Achilles tendon. Common with [[ankylosing spondylitis]].  |
-| Tarsal tunnel syndrome     | Medial ankle radiating to sole                                                 |
-| Hallux rigidus             | Dorsal 1st MTP joint                                                           |
-| Freiberg’s disease         | 2nd MTP joint (plantar forefoot)                                               |
-| Hammer/claw toes           | Dorsal PIP joints of toes                                                      |
+| Condition                  | Typical Site of Pain                                                                                        |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Morton's neuroma           | Plantar forefoot between 3rd/4th metatarsal heads (may radiate to toes)                                     |
+| Metatarsal stress fracture | Dorsal forefoot over affected metatarsal shaft                                                              |
+| Sesamoiditis               | Plantar surface beneath 1st metatarsal head                                                                 |
+| Bursitis                   | Around 1st or 2nd MTP joint (dorsal or plantar depending on bursa involved)                                 |
+| Bunion (Hallux valgus)     | Medial aspect of 1st MTP joint                                                                              |
+| Plantar fasciitis          | Plantar heel (medial calcaneal tubercle)                                                                    |
+| Achilles tendinopathy      | Posterior heel along Achilles tendon. Common with [[ankylosing spondylitis]].                               |
+| Tarsal tunnel syndrome     | Medial ankle radiating to sole                                                                              |
+| Hallux rigidus             | Dorsal 1st MTP joint                                                                                        |
+| Freiberg’s disease         | 2nd MTP joint (plantar forefoot)                                                                            |
+| Hammer/claw toes           | Dorsal PIP joints of toes                                                                                   |
+| Charcot foot               | aka Neuropathic joint. A joint which has become badly disrupted and damaged secondary to a loss of sensatio |
 # Morton's neuroma
 [PCDS- Peripheral neuroectodermal tumours (Morton neuroma)](https://www.pcds.org.uk/clinical-guidance/peripheral-neuroectodermal-tumours) 
 Most commonly occurs in women aged 40–50 who wear high heeled shoes. The pain is due to entrapment of the interdigital nerve between the 3rd/4th metatarsal heads. However, other interspaces can be involved.
@@ -96,3 +98,14 @@ Degenerative arthritis of the first MTP joint. Pain and stiffness at the base of
 Avascular necrosis of the second metatarsal head. Adolescent females. Forefoot pain localised to the 2nd MTP.
 ### Claw/hammer toes
 Pain over dorsal PIP joints due to shoe pressure; often associated with callus formation.
+
+### Charcot joint
+aka neuropathic joint, it describes a joint which has become badly disrupted and damaged secondary to a loss of sensation.
+- common deformities include a collapsed arch in the foot (commonly referred to as 'rocker-bottom' foot) or severe joint misalignment
+
+Q: A 62-year-old poorly controlled, diabetic lady re-presents to your surgery with continuing swelling and pain of her left ankle for the last 4 weeks. She has been seen by your colleague who requested an ankle x-ray. This showed 'significant disruption and subluxation of the tarsometatarsal joints'. Her HbA1c 2 months ago was 74mmol/mol.
+A: Consider charcot if neuropathy, foot pain > 1 week. Septic would've been more acute. 
+
+|                                               |                                               |                                               |                                                                                                                                                                                                                              |
+| --------------------------------------------- | --------------------------------------------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[rocker bottom foot (charcot foot)- 1.jpg]] | ![[rocker bottom foot (charcot foot)- 2.jpg]] | ![[rocker bottom foot (charcot foot)- 3.jpg]] | ![[rocker bottom foot (charcot foot) -4.jpg\|Extensive bone remodelling / fragmentation involving the midfoot in this patient with a poorly controlled diabetes, compatible with Charcot's joint (neuropathic arthropathy)]] |
