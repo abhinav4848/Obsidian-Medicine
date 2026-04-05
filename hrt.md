@@ -32,7 +32,7 @@ NET (Most Androgenic) ≈ LNG < GSD ≈ DSG ≈ NGT < DRSP < Cyproterone acetate
 - Continuous oestrogen. 
 - Progestogen added for part of the cycle (usually 10–14 days/month). 
 - Mimics a menstrual cycle. Bleeding is expected. 
-Used for perimenopausal women with last bleeding <=12 months post-LMP. 
+Used for perimenopausal women with last bleeding =<12 months post-LMP. 
 ## Continuous combined HRT 
 Oestrogen + progestogen every day. 
 
@@ -51,7 +51,9 @@ Doesn't need it:
 	- Oestrogen-only pill, patch or spray + Mirena (other IUSs not licensed for endometrial protection).
 	- Combined hormonal contraception (if eligible).
 	- Sequential combined HRT (pill or patch or spray) + progestogen-only contraception (tablet, implant, injection)- because the dose of progesterone needed for ovulation suppression is a lot more than the dose available in HRT. i.e. HRT doses are not contraceptive. 
+		- *Corollary*: POP can't be used as the progesterone part of HRT (but Mirena can).
 	- If amenorrhoeic with progestogenic contraception: consider [[contraceptives|Mirena]]
+		- i.e. patient still needs separate progesterone formulation for HRT. 
 		- If Mirena is not suitable, refer to the complex menopause clinic. 
 	- If hormonal contraception declined: advise barrier methods with sequential combined HRT.
 

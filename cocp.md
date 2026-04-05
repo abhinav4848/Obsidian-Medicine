@@ -75,7 +75,7 @@ See: [[cancer- drugs involved in gynae cancers#COCP & Cancer risk embedded]]
 See: [[cocp- pill ladder]]. 
 
 ---
-# Combined hormonal contraceptive patch
+# Combined hormonal contraceptive ==patch==
 e.g. Evra: ethinylestradiol and norelgestromin 
 Works similar to COCP. 
 The patch is typically changed weekly for three weeks, followed by a patch-free week

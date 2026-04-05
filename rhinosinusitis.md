@@ -20,7 +20,9 @@ Acute: Do not offer abx as it self resolves in 12 weeks. Even bacterial sinusiti
 - avoid allergen 
 - intranasal corticosteroids -> 3 month course (fluticasone, Mometasone) #steroid
 - nasal irrigation with saline solution
+#### Other 
 - oral steroids have a role, but oral decongestants don't
+- nasal decongestants have a role but cause tachyphylaxis (bigger doses for same effect) & rhinitis medicamentosa (rebound nasal hypertrophy on stopping)
 - oral & nasal antihistamines can be used for allergic rhinitis
 #### When to escalate treatment
 - don't give abx unless evidence of acute bacterial infection (e.g., high fever, severe localised pain, or signs of systemic illness). 

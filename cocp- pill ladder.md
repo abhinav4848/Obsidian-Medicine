@@ -53,7 +53,5 @@ Completely separating unwanted effects of oestrogen and progestogens is very dif
 |2|White|9|1 mg|35 micrograms|
 |3|Blue|5|500 micrograms|35 micrograms|
 
-
-
 ---
 Backup link: [Webarchive](https://web.archive.org/web/20260111172701/https://halton-st-helens-knowsley.communitypharmacy.org.uk/wp-content/uploads/sites/45/2025/03/COC-Decision-Making-Algorithm-V1.2.pdf)
