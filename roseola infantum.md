@@ -25,3 +25,8 @@ Support + PCT
 febrile convulsion
 aseptic meningitis
 [[hepatitis]]
+
+
+| Roseola                                                                                                                         |                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![Roseola](https://www.pcds.org.uk/imager/gallery/clinical/viral-exanthems/12095/roseola1_fee391183f15cb4d62773032fe0be92d.jpg) | ![roseola](https://www.pcds.org.uk/imager/gallery/clinical/roseola-syn-roseola-infantum-exanthema-subitum/36021/roseola-infantum10_fee391183f15cb4d62773032fe0be92d.jpg) |

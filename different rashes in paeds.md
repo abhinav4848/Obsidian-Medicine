@@ -4,6 +4,7 @@ tags:
   - dermat
 aliases:
   - Rashes differences
+  - Juvenile spring eruption
 urls:
   - https://www.ozemedicine.com/wiki/doku.php?id=exanthems
   - "[PCDS Viral exanthems](https://www.pcds.org.uk/clinical-guidance/viral-exanthems)"
@@ -16,16 +17,16 @@ See [[Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf]]
 # History of progression of a rash
 ## Erythematous exanthems that tend to start on the face
 
-|                                                    |                                                                                                                                                                                                                             |
-| -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Measles]]                                        | - itchy, on face then body. Red-brown colour. Koplik [[spots]]<br>                                                                                                                                                          |
-| [[Rubella]]<br>                                    | - Maculopapular rash initially on face, starts behind ear, before spreading to whole body. Forchheimer spots on soft palate + LNE (in measles no LNE)<br>- 3Cs: Coryza, conjunctivitis, cough<br>- No treatment. Immunise.  |
-| [[erythema infectiosum\|Erythema Infectiosum]]<br> | - Slapped cheek appearance rash, spreads to body. Itchy if soles of feet involved. Spares nasolabial folds & eyes<br>- Not infectious once rash appears<br>- Some risk to pregnants.                                        |
+|                                                    |                                                                                                                                                                                                                                                                                                                                                                        |
+| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Measles]]                                        | - itchy, on face then body. Red-brown colour. Koplik [[spots]]<br>                                                                                                                                                                                                                                                                                                     |
+| [[Rubella]]<br>                                    | - Maculopapular rash initially on face, starts behind ear, before spreading to whole body. Forchheimer spots on soft palate + LNE (in measles no LNE)<br>- 3Cs: Coryza, conjunctivitis, cough<br>- No treatment. Immunise.<br><br>Like measles & similar distribution, but less intensely red, shorter duration. Patient appears quite well when compared to measles.  |
+| [[erythema infectiosum\|Erythema Infectiosum]]<br> | - Slapped cheek appearance rash, spreads to body. Itchy if soles of feet involved. Spares nasolabial folds & eyes<br>- Not infectious once rash appears<br>- Some risk to pregnants.                                                                                                                                                                                   |
 ## Erythematous exanthems that tend to start on the trunk
 
 |                                    |                                                                                                                                                                                                                                                       |
 | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[roseola infantum\|roseola]]<br>  | - non-itchy rash on chest & legs, then onto body (not on head and neck). <br>- Rash begins 12 -24 hrs. after fever resolution<br>- Similar spots occur on soft palate & uvula called Nagayama [[spots]].<br>- Mild, self limiting disease.            |
+| [[roseola infantum\|roseola]]<br>  | - non-itchy rash on chest & legs, then onto body (not on head and neck). <br>- Rash begins 12 - 24 hrs. after fever resolution<br>- Similar spots occur on soft palate & uvula called Nagayama [[spots]].<br>- Mild, self limiting disease.           |
 | [[scarlet fever]]                  | - Rash- pink, sandpaper like, fine punctate erythema (pinhead). Doesn’t involve palm and soles, Strawberry tongue (white coated tongue with red papillae), Cervical LN, Tonsils covered in pale exudates)<br>- Give Abx due to possible complications |
 | Unilateral laterothoracic exanthem | Self limiting                                                                                                                                                                                                                                         |
 ## Papulovesicular exanthems 
@@ -38,3 +39,6 @@ See [[Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf]]
 - [[hand foot mouth|Hand, foot and mouth disease]]- Rare complication is viral meningitis & encephalitis
 - Covid-19
 - Papular-purpuric gloves and socks syndrome
+# Others
+Juvenile spring eruption (JSE) is a distinct sun-induced skin condition appearing on the light exposed skin of the ears. It classically affects boys aged 5-14 years in the spring. Rx: Limit sun exposure, use emollients. 
+![JSE|300](https://naturedoc.com/wp-content/uploads/2023/04/juvenile-spring-eruption-1500-1024x683.jpg)![JSE|200](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd365b.jpg)

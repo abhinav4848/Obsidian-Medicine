@@ -19,7 +19,7 @@ Not to be confused with [[Actinic keratosis]].
 - Starts as papules which later merge to form plaque. 
 
 ## Drugs causing Psoriasis 
-ACE inhibitor, Alcohol, Anti-malarial (HCQ), [[beta adrenergic receptors|beta blockers]], Infliximab, [[Lithium]], Mepacrine, [[nsaid|NSAID]], Trauma. 
+ACE inhibitor, Alcohol, Anti-malarial ([[quinine|chloroquine]] & HCQ), [[beta adrenergic receptors|beta blockers]], Infliximab, [[Lithium]], Mepacrine, [[nsaid|NSAID]], Trauma. 
 
 # Clinical Features
 - Itchy, scaly, elevated, well demarcated, erythematous.

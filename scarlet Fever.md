@@ -14,9 +14,9 @@ Fever (lasts 24-48 hrs), Sore throat, headache.
 - 🍓Strawberry tongue (white coated tongue with red papillae), 
 Cervical LN, Tonsils covered in pale exudates.
 
-| Strawberry tongue                                                                                           | Rash                                                                                                |
-| ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| ![Scarlet fever\|257](https://dftbskindeep.com/wp-content/uploads/2022/10/392b-scarlet-fever-1024x1024.jpg) | ![scarlet fever rash on trunk\|342](https://dermnetnz.org/assets/Uploads/bacterial/scarlatina3.jpg) |
+| Strawberry tongue                                                                                           | Rash                                                                                                | White tongue                                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Scarlet fever\|257](https://dftbskindeep.com/wp-content/uploads/2022/10/392b-scarlet-fever-1024x1024.jpg) | ![scarlet fever rash on trunk\|342](https://dermnetnz.org/assets/Uploads/bacterial/scarlatina3.jpg) | ![Scarlet fevere- white tongue\|200](https://www.pcds.org.uk/imager/gallery/clinical/viral-exanthems/12097/SFtonw_fee391183f15cb4d62773032fe0be92d.jpg) |
 # Treatment & Complications
 - Although most cases are self-limiting, given the possible complications patients should be promptly treated with 10 days of antibiotics
 	- **Penicillin V** (phenoxy-Methyl-Penicillin) 10 days > [[macrolides|Azithromycin]] if allergy
