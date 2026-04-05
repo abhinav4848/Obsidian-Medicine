@@ -1,6 +1,7 @@
 ---
 aliases:
   - chronic rhinosinusitis
+  - rhinitis
 tags:
   - ent
 ---
@@ -19,6 +20,8 @@ Acute: Do not offer abx as it self resolves in 12 weeks. Even bacterial sinusiti
 - avoid allergen 
 - intranasal corticosteroids -> 3 month course (fluticasone, Mometasone) #steroid
 - nasal irrigation with saline solution
+- oral steroids have a role, but oral decongestants don't
+- oral & nasal antihistamines can be used for allergic rhinitis
 #### When to escalate treatment
 - don't give abx unless evidence of acute bacterial infection (e.g., high fever, severe localised pain, or signs of systemic illness). 
 - If symptoms persist after adequate medical therapy incl. 3 months of topical steroids & adjuncts like saline irrigation, can consider ENT referral for endoscopy/CT paranasal sinuses. 
