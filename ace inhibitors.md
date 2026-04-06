@@ -21,6 +21,19 @@ First line if HTN + diabetes
 	- Deterioration of renal function after starting-> b/l renal stenosis.
 ## Microalbuminuria
 - Normal BP diabetic patient with 2 episodes of microalbuminuria -> Start on ACE inhibitors as it's Reno-protective. 
+# S/E
+- cough, angioedema (could occur up to a year after starting), [[hyperkalemia]], first dose hypertension (more common in patients taking diuretics)
+
+# Cautions and contraindications  
+- pregnancy and breastfeeding - avoid
+- renovascular disease - may result in renal impairment
+- aortic stenosis - may result in hypotension with ACEi & BB but BB is still helpful in AS compared to ACE
+- hereditary of idiopathic angioedema
+- specialist advice should be sought before starting ACE inhibitors in patients with a potassium >= 5.0 mmol/L
+
+### Monitoring
+- Check U&e 3 weeks after starting
+- significant renal impairment may occur in patients who have undiagnosed bilateral renal artery stenosis
 
 
 ---
