@@ -2,6 +2,7 @@
 aliases:
   - chronic rhinosinusitis
   - rhinitis
+  - Nasal polyps
 tags:
   - ent
 ---
@@ -31,3 +32,12 @@ Acute: Do not offer abx as it self resolves in 12 weeks. Even bacterial sinusiti
 - unilateral symptoms -> urgent ENT referral as [[cancer- ent|neoplasia]] risk
 - persistent symptoms despite compliance with 3 months of treatment
 - epistaxis
+
+# Nasal polyps
+Unilateral nasal polyps are a red flag 🚩. Refer to ENT. 
+Polyps due to rhinosinusitis are b/l
+Topical steroids shrink polyp size in around 80% patients. 
+
+If small bilateral nasal polyps are seen these can be treated in primary care with a saline nasal douche and intranasal steroids, but if they are causing significant obstruction patients should be referred to ENT.
+
+Nasal polyps are uncommon in children, so their presence in children should raise suspicion for [[cystic fibrosis]]. 
