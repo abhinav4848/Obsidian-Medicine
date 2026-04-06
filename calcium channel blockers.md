@@ -33,9 +33,10 @@ Non-DHPs: (verapamil, Diltiazem) are more myocardial calcium receptor selective 
 - Headache, Flushing (More with DHPs)
 - Ankle Swelling: DHPs are more selective for vascular smooth muscle receptors -> causing vasodilation -> increased capillary pressure, leakage of fluid -> Ankle edema, Flushing, Headache. 
 	- Amlodipine
-	- Diltiazem
+	- Diltiazem (non-DHP) can also cause ankle swelling 
 - As they're peripherally selective, don't have risk of worsening heart failure. 
-# All
+# All 
 - [[Gingival hyperplasia]] (esp nifedipine)
 - Constipation. 
 - All HTN meds require regular monitoring of U&e except CCB.
+- 

@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calcium channel blockers.md",
+                "file": "heart failure.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "calcium channel blockers"
+              "title": "heart failure"
             }
           },
           {
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "calcium channel blockers.md",
+                "file": "heart failure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of calcium channel blockers"
+              "title": "Graph of heart failure"
             }
           }
         ]
@@ -301,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calcium channel blockers.md",
+                "file": "heart failure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for calcium channel blockers"
+              "title": "Backlinks for heart failure"
             }
           }
         ]
@@ -333,10 +333,11 @@
   },
   "active": "4109a681d336b5c2",
   "lastOpenFiles": [
-    "dysphagia.md",
-    "scoring system.md",
+    "angina.md",
     "calcium channel blockers.md",
     "immunisation in adults.md",
+    "dysphagia.md",
+    "scoring system.md",
     "immunisation schedule (paeds).md",
     "controlled drugs.md",
     "rhinosinusitis.md",
@@ -351,7 +352,6 @@
     "plaque psoriasis.md",
     "nsaid.md",
     "asthma.md",
-    "angina.md",
     "hiv.md",
     "uti.md",
     "pyelonephritis.md",

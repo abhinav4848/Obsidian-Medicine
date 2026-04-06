@@ -53,7 +53,7 @@ Monitor U&E with these drugs
 Avoid these in HF: [[nsaid|NSAID]], [[diabetes drugs|Pioglitazone]], Doxazosin, Rate limiting [[calcium channel blockers|CCBs]], DPP-4 inhibitors
 ## HFrEF
 ### 1st line
-- ACE inhibitor
+- ACE inhibitor / ARB
 	- if ACEi not tolerated (cough) -> Give ARNI (Angiotensin receptor-neprilysin inhibitor) Sacubitril/Valsartan -> if EF < 35% (Specialist assessment) 
 	- If angioedema develops with ACE or ARNI -> Switch to ARB
 - Beta Blocker
@@ -98,3 +98,6 @@ MRA & SGLT2 inhibitors
 - i.e. at high risk of dying within next 6-12 months
 - Potentially increased symptoms, poorer response to treatment
 - Multiple inputs e.g. cardiology, heart failure nurses, community nurses, palliative care nurses, physiotherapy, dietician etc
+
+---
+See [[different]]
