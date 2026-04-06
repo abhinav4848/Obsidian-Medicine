@@ -8,6 +8,7 @@ aliases:
   - Copper-T
   - Nexplanon
   - when to stop contraceptives
+  - POP
 urls:
 ---
 ![[contraception]]
@@ -23,11 +24,11 @@ Helps prevent ovulation.
 - Pill- 99% effective & 9% will conceive in first year
 - Implant- 0.05% will conceive in first year. Most effective contraception after abstinence. 
 - Depots- Perfect use (0.2% conceive in first year), typical use (6% conceive in first year). 
-
 ## Pill (aka POP)
 - No pill free interval. 
 - Can be used for endometriosis. 
-- Around 50% of women on the POP have no bleeding, or very infrequent bleeding, and only 10% are reported to have more frequent bleeding or spotting, with long term POP use.
+- Around 50% of women on the POP have no bleeding, or very infrequent bleeding, and only 10% are reported to have more frequent bleeding or spotting, with long term POP use. 
+- [[contraception in postpartum|postpartum women]] (breastfeeding & non-breastfeeding) can start the POP at any time postpartum, but if started after day 21, need additional 7 days of alternate contraception. 
 ## Implant (Nexplanon)
 *(Implanon has been replaced by Nexplanon)*
 - Nexplanon (etonogestrel 68 mg) is currently the only progestogen-only implant licensed for use in the UK. 

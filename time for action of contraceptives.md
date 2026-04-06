@@ -8,7 +8,7 @@ aliases:
 ![[contraception]]
 
 ---
-*If not day 1-5 of period*
+==*If not day 1-5 of period*==
 #mnemonic 
 I for Instant: Cu-IUD 
 2 days for POP
@@ -22,7 +22,8 @@ I for Instant: Cu-IUD
 - If patient was switching from POP or COCP, she'd be covered immediately. 
 # Progesterone Pill
 - For POP, if started in day 1-5, immediate effects else use 2 days of additional protection. 
-- Also, POP has no pill-free break unlike COCP (21+7).
+- Also, POP has no pill-free break. (Cyclical COCP: 21+7).
+- If inserted after day 21 [[contraception in postpartum|postpartum]], need 2 days alternate
 # COCP 
 - If [[cocp|COCP]] started within 5 days of the cycle, then no need for additional contraception. If any other day, then 7 days of alternative contraception.
 - See [[cocp#When to start COCP after delivery for contraception|When to start COCP after delivery]]. 

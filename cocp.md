@@ -9,23 +9,11 @@ aliases:
   - side effects of COCP
   - contraindication of COCP
 ---
+
 ![[contraception]]
 
-# When to start COCP after delivery for contraception
-Avoid in first 21 days (UKMEC-4: VTE Risk). After this,
-- If breastfeeding:
-	- keep avoiding till 6 weeks (UKMEC-4).
-	- After that (UKMEC-2) 6 weeks - 6 months (decreases milk production). 
-
-|           | Breastfeeding                                  | Not breastfeeding                         |
-| --------- | ---------------------------------------------- | ----------------------------------------- |
-| **0-3w**  | 4 (Body is in prothrombotic state post partum) | - with other VTE risks: 4<br>- without: 3 |
-| **3-6w**  | 4                                              | - with other VTE risks: 3<br>- without: 2 |
-| **6w-6m** | 2 (decreases milk production)                  | 1                                         |
-- Once given, use additional contraception for first 7 days.
-- See [[time for action of contraceptives]]. 
-
-![[cocp after delivery- ukmec.canvas|contraception after delivery]]
+---
+![[contraception in postpartum#Post-Partum COCP embedded|Postpartum contraception]]
 # Indications
 - Metrorrhagia -> irregular cycle,
 - with/without [[menorrhagia|Menorrhagia]]/Dysmenorrhea,
