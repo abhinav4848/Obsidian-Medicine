@@ -11,7 +11,7 @@ Patients will report distortion in vision (straight lines appearing curved), blu
 
 Photopsia #named : perception of flickering or flashing light
 Glare around objects
-Visual hallucinations may be seen with [[confusion in ophthalmology|Charles Bonnet syndrome]]. 
+Visual hallucinations may be seen with [[confusion in ophthalmology|Charles Bonnet syndrome]]- patients know it's not real (i.e. normal insight) 
 
 # Types
 **Dry type:** (90% cases)
