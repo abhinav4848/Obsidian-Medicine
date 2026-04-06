@@ -73,27 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cancer- breast (referral criteria).md",
+                "file": "raynaud.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cancer- breast (referral criteria)"
-            }
-          },
-          {
-            "id": "e635a52ea2d94303",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.nice.org.uk/guidance/ng106/resources/chronic-heart-failure-core-treatments-for-heart-failure-pdf-6663137725",
-                "title": "NG106 Chronic heart failure in adults: diagnosis and management: Visual summary on core treatments for heart failure 03/09/2025",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "NG106 Chronic heart failure in adults: diagnosis and management: Visual summary on core treatments for heart failure 03/09/2025"
+              "title": "raynaud"
             }
           }
         ],
@@ -130,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "breast",
+                "query": "raynaud",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -175,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cancer- breast (referral criteria).md",
+                "file": "raynaud.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cancer- breast (referral criteria)"
+              "title": "Graph of raynaud"
             }
           }
         ]
@@ -315,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cancer- breast (referral criteria).md",
+                "file": "raynaud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +311,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cancer- breast (referral criteria)"
+              "title": "Backlinks for raynaud"
             }
           }
         ]
@@ -347,6 +333,11 @@
   },
   "active": "724be78218a9af76",
   "lastOpenFiles": [
+    "raynaud.md",
+    "psoriatic arthritis.md",
+    "psoriasis.md",
+    "gout.md",
+    "cancer- breast (referral criteria).md",
     "breastfeeding.md",
     "atrial fibrillation.md",
     "scoring system.md",
@@ -368,11 +359,6 @@
     "rhinosinusitis.md",
     "samter's triad.md",
     "macular degeneration.md",
-    "confusion in ophthalmology.md",
-    "psoriasis.md",
-    "erythrodermic psoriasis.md",
-    "flexural psoriasis.md",
-    "guttate psoriasis.md",
     "flow charts/haematuria.canvas",
     "attachments/rocker bottom foot (charcot foot) -4.jpg",
     "attachments/rocker bottom foot (charcot foot)- 3.jpg",

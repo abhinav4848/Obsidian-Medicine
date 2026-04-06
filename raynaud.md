@@ -8,7 +8,7 @@ urls:
   - https://cks.nice.org.uk/topics/raynauds-phenomenon/
 ---
 It may be primary (Raynaud's disease) or secondary (Raynaud's phenomenon).
-- **Disease**: Raynaud's disease typically presents in young women (e.g. 30 years old) with bilateral symptoms.
+- **Disease**: Raynaud's disease typically presents in young women (e.g. 30 years old) with bilateral symptoms. 
 - **Phenomenon**: All patients with suspected secondary Raynaud's phenomenon should be referred to secondary care- Rheumatologist. 
 ## Secondary causes of Raynaud's phenomenon  
 - connective tissue disorders

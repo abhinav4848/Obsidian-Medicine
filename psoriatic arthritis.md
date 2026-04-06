@@ -21,8 +21,8 @@ T2DM is a risk factor
 - psoriatic skin lesions
 - periarticular disease - tenosynovitis and soft tissue inflammation resulting in:
     - **enthesitis**: inflammation at the site of tendon and ligament insertion (e.g. Achilles tendonitis, plantar fasciitis)
-    - tenosynovitis: typically of the flexor tendons of the hands
-    - dactylitis: diffuse swelling of an entire finger or toe
+    - **tenosynovitis**: typically of the flexor tendons of the hands
+    - **dactylitis**: diffuse swelling of an entire finger or toe
 #### Nail changes in [[Psoriasis]] %%linked%%
 #mnemonic POSH nails
 - Pitting  

@@ -8,7 +8,7 @@ Many types:
 - [[flexural psoriasis]] 
 - [[Guttate psoriasis]] 
 - [[Pustular Psoriasis]] 
-
+See [[psoriatic arthritis]] 
 # Complications of psoriasis
 NICE recommends that patients with psoriasis should be screened annually for psoriatic arthropathy using a validated screening tool such as the Psoriasis Epidemiological Screening Tool (PEST). Patients should also have their cardiovascular risk assessed at least every 5 years (or more often if indicated).
 
