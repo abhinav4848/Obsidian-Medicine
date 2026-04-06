@@ -77,3 +77,6 @@ NICE recommends the use of catheter ablation for those with AF who have not resp
     - if score = 0: 2 months anticoagulation recommended
     - if score > 1: long-term anticoagulation recommended
 
+
+---
+See ![[difference in cardiac condition treatments]] 

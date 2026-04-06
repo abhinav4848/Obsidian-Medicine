@@ -30,4 +30,6 @@ See [[myocardial infarction]]
 
 # Unstable angina
 - intermittent pains occurring both at rest and also during exertion.
-- 
+
+---
+See ![[difference in cardiac condition treatments]] 

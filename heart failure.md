@@ -54,7 +54,7 @@ Avoid these in HF: [[nsaid|NSAID]], [[diabetes drugs|Pioglitazone]], Doxazosin, 
 ## HFrEF
 ### 1st line
 - ACE inhibitor / ARB
-	- if ACEi not tolerated (cough) -> Give ARNI (Angiotensin receptor-neprilysin inhibitor) Sacubitril/Valsartan -> if EF < 35% (Specialist assessment) 
+	- if ACEi not tolerated (cough) -> Give ARNI (Angiotensin receptor-neprilysin inhibitor) Sacubitril/Valsartan 
 	- If angioedema develops with ACE or ARNI -> Switch to ARB
 - Beta Blocker
 	- Both ACEi & [[beta adrenergic receptors|BB]] (Metoprolol, Bisoprolol, Carvedilol) reduce mortality by reducing afterload.
@@ -79,7 +79,7 @@ Loop diuretic have symptomatic benefit (congestive symptoms and fluid retention)
 Amiloride (Direct inhibitor of Na+ channel, K+ sparing) is also **symptomatic benefit only**.
 Digoxin doesn't affect mortality. 
 
-Avoid verapamil, diltiazem and short-acting dihydropyridine agents in people who have heart failure with reduced ejection fraction.
+Avoid [[calcium channel blockers|verapamil, diltiazem]] and short-acting dihydropyridine agents in people who have heart failure with reduced ejection fraction.
 
 ## HFpEF
 MRA & SGLT2 inhibitors
@@ -97,7 +97,7 @@ MRA & SGLT2 inhibitors
 # End-stage heart failure:
 - i.e. at high risk of dying within next 6-12 months
 - Potentially increased symptoms, poorer response to treatment
-- Multiple inputs e.g. cardiology, heart failure nurses, community nurses, palliative care nurses, physiotherapy, dietician etc
+- Multiple inputs e.g. cardiology, heart failure nurses, community nurses, palliative care nurses, physiotherapy, dietician etc. 
 
 ---
-See [[different]]
+See ![[difference in cardiac condition treatments]] 
