@@ -14,11 +14,11 @@ urls:
 *See [[vaccine types]] & [[immunisation schedule (paeds)]]*. 
 
 # Adult routine vaccination
-- 65yo- Given PPV 23 or PCV20 if PPV23 stock is over
-- \>65yo- Influenza each September
-- Individuals turning 65 from 1 Sept each year (commencing 1 Sept 2023 onwards)- Shingles
-- 70 to 79 years of age (and those severely immunosuppressed over 18 years of age)- Shingles
-- 75yo- RSV
+- 65yo- Given PPV 23 or PCV20 if PPV23 stock is over 
+- \>65yo- Influenza each September 
+- Individuals turning 65 from 1 Sept each year (commencing 1 Sept 2023 onwards)- Shingles 
+- 70 to 79 years of age (and those severely immunosuppressed over 18 years of age)- Shingles 
+- 75yo- RSV 
 # Pneumococcal Vaccine
 Usually a one-off but every 5 years if spleen/CKD. 
 ### Two types
@@ -27,10 +27,9 @@ Usually a one-off but every 5 years if spleen/CKD.
 
 **2. Pneumococcal polysaccharide vaccine (PPV)**
 - adults > 65yo who don't have a medical condition
-- adults with chronic conditions ([[COPD]], [[bronchiectasis]], [[cystic fibrosis|CF]], [[interstitial lung disease vs pneumonitis|ILD]])
-
+- adults with chronic conditions ([[COPD]], [[bronchiectasis]], [[cystic fibrosis|CF]], [[interstitial lung disease vs pneumonitis|ILD]]) 
 ### Pneumococcal vaccine
-[Department of Health's Green Book- Pneumococcal](https://www.gov.uk/government/publications/pneumococcal-the-green-book-chapter-25)
+[Department of Health's Green Book- Pneumococcal](https://www.gov.uk/government/publications/pneumococcal-the-green-book-chapter-25) 
 
 | Condition                                              | Details / Notes                                                                                                                               | Vaccine Frequency / Special Considerations                                             |
 | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
@@ -59,19 +58,19 @@ Inactivated is given to elderly at risk (i.m.- Flu jab)
 - It takes around 10-14 days after immunisation before antibody levels are at protective levels
 #### Adults
 The Department of Health recommends annual influenza vaccination for people >= 65 years and those with:  
-- chronic respiratory disease (including asthmatics who use inhaled steroids)
-- chronic heart disease (heart failure, ischaemic heart disease, including hypertension if associated with cardiac complications)
-- chronic kidney disease (at stages 3, 4 or 5, chronic kidney failure, nephrotic syndrome, kidney transplantation)
-- chronic liver disease: cirrhosis, biliary atresia, chronic hepatitis
-- chronic neurological disease: (e.g. Stroke/TIAs)
-- diabetes mellitus (including diet controlled)
-- immunosuppression due to disease or treatment (e.g. HIV)
-- asplenia or splenic dysfunction
-- pregnant women  
+- chronic respiratory disease (including asthmatics who use inhaled steroids) 
+- chronic heart disease (heart failure, ischaemic heart disease, including hypertension if associated with cardiac complications) 
+- chronic kidney disease (at stages 3, 4 or 5, chronic kidney failure, nephrotic syndrome, kidney transplantation) 
+- chronic liver disease: cirrhosis, biliary atresia, chronic hepatitis 
+- chronic neurological disease: (e.g. Stroke/TIAs) 
+- diabetes mellitus (including diet controlled) 
+- immunosuppression due to disease or treatment (e.g. HIV) 
+- asplenia or splenic dysfunction 
+- pregnant women 
 #### Other at risk individuals include:  
 - health and social care staff directly involved in patient care (e.g. NHS staff)
 - those living in long-stay residential care homes
-- carers of the elderly or disabled person whose welfare may be at risk if the carer becomes ill (at the GP's discretion)
+- carers of the elderly or disabled person whose welfare may be at risk if the carer becomes ill (at the GP's discretion) 
 #### Influenza vaccine & Asthma
 LAIV ([[vaccine types|live]] attenuated influenza vaccine) can be given to children with well-controlled [[asthma]] or recurrent wheeze. But not to severe asthma or active wheezing because these individuals might be at higher risk for wheezing following vaccination. 
 #### Contraindications
