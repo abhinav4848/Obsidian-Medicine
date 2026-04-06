@@ -50,4 +50,11 @@ See: [[hrt|Hormone Replacement Therapy]]
 - check BP, BMI. 
 ### Stopping HRT
 There's no end date for stopping HRT. Withdraw when risks outweigh benefits & patient happy to stop. 
-Consider gradual withdrawal if high doses.
+Consider gradual withdrawal if high doses. 
+
+If HRT was started for premature menopause
+- should be continued until the age of 50 years
+- the most important reason in giving HRT to younger women is preventing the development of osteoporosis
+
+
+![[contraceptives#Contraception for women aged > 40 years linked]]

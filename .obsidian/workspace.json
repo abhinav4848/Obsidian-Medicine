@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raynaud.md",
+                "file": "addison's disease.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "raynaud"
+              "title": "addison's disease"
             }
           }
         ],
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "raynaud",
+                "query": "hyponatre",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "raynaud.md",
+                "file": "addison's disease.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of raynaud"
+              "title": "Graph of addison's disease"
             }
           }
         ]
@@ -301,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raynaud.md",
+                "file": "addison's disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for raynaud"
+              "title": "Backlinks for addison's disease"
             }
           }
         ]
@@ -333,6 +333,12 @@
   },
   "active": "724be78218a9af76",
   "lastOpenFiles": [
+    "hyponatremia.md",
+    "addison's disease.md",
+    "siadh.md",
+    "hhs.md",
+    "hrt.md",
+    "menopause.md",
     "raynaud.md",
     "psoriatic arthritis.md",
     "psoriasis.md",
@@ -353,12 +359,6 @@
     "heart failure.md",
     "calcium channel blockers.md",
     "immunisation in adults.md",
-    "dysphagia.md",
-    "immunisation schedule (paeds).md",
-    "controlled drugs.md",
-    "rhinosinusitis.md",
-    "samter's triad.md",
-    "macular degeneration.md",
     "flow charts/haematuria.canvas",
     "attachments/rocker bottom foot (charcot foot) -4.jpg",
     "attachments/rocker bottom foot (charcot foot)- 3.jpg",

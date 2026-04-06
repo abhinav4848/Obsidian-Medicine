@@ -4,6 +4,7 @@ tags:
   - diabetes
 aliases:
   - Hyperosmolar hyperglycemic state
+  - hyperosmolar hyperglycaemic state
 ---
 ![[diabetes articles]]
 
@@ -14,5 +15,5 @@ Whilst DKA presents within hours of onset, HHS comes on over many days, and cons
 
 Use NS over Hartmann's because Lactate can be used as a substrate for gluconeogenesis.
 
-HONK: Hyperglycaemic hyperosmolar non-ketotic coma. #named 
+**HONK**: Hyperglycaemic hyperosmolar non-ketotic coma. #named 
 Patients with HONK often have a deficit of over 8 litre.

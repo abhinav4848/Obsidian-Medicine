@@ -51,3 +51,20 @@ A 45 year old man reports feeling fatigued and generally unwell over the last 6 
 
 Long-standing cortisol deficiency → vague symptoms (fatigue, low mood) 
 Then a stressor (infection, illness) precipitates an **acute adrenal crisis** 
+
+
+---
+# Secondary Adrenal Insufficiency
+|Feature|**Addison’s disease (Primary AI)**|**Secondary adrenal insufficiency**|
+|---|---|---|
+|Problem site|Adrenal gland failure|Pituitary (↓ ACTH)|
+|Cortisol|↓|↓|
+|Aldosterone|↓|**Normal**|
+|ACTH|↑|↓|
+- Addison’s = hypovolaemic [[hyponatremia]]
+- Secondary AI = euvolemic hyponatraemia (SIADH-like)
+
+|Type|Mechanism|
+|---|---|
+|Addison’s|↓ aldosterone → Na loss **+** ↑ ADH|
+|Secondary AI|Cortisol deficiency → ↑ ADH only|

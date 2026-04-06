@@ -29,6 +29,6 @@ It may be primary (Raynaud's disease) or secondary (Raynaud's phenomenon).
 - digital ulcers, calcinosis
 - very rarely: chilblains
 # Management
-Secondary Raynaud's: Refer rheumat
+Secondary Raynaud's: Refer Rheumat
 Symptomatic management of Raynaud's includes keeping the hands and feet warm. 
-If lifestyle measures fail then nifedipine (not amlodipine) can be trialled.
+If lifestyle measures fail then Nifedipine (not amlodipine) can be trialled.

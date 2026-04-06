@@ -4,6 +4,8 @@ tags:
 urls:
   - "[UHL guidelines- hyponatremia](https://www.publication.uhleicester.nhs.uk/wp-content/uploads/2026/01/Emergency%20Management%20of%20Hyponatraemia%20in%20Adults%20UHL%20Guideline.pdf)"
   - "[NICE CKS- Hyponatremia](https://cks.nice.org.uk/topics/hyponatraemia/)"
+aliases:
+  - hyponatraemia
 ---
 ## Causes: 
 - **Drugs**: 
@@ -37,8 +39,11 @@ Hypertonic saline (typically 3% NaCl) is used to correct the sodium level more 
 
 ---
 # Chronic Hyponatremia
+Step 1 = clinical volume status  
+Step 2 = urine sodium → tells you _where the sodium is being lost_
 ## Hypovolemic hyponatremia
 Sodium + Water loss through body fluids (GIT loss, Skin loss) but only water replaced.
+Urine sodium > 20mmol/L: 
 - Diuretics (Na + H2O lost, but only H2O taken orally)
 - [[addison's disease|Addison's]] (both Na & H2O lost, cuz no aldosterone) 
 
@@ -46,8 +51,13 @@ Sodium + Water loss through body fluids (GIT loss, Skin loss) but only water rep
 - If serum sodium rises -> hypovolemic hyponatraemia
 - If serum sodium falls -> an alternative diagnosis such as SIADH is likely
 
+Urine sodium < 20mmol/L: 
+- Extra-renal sodium loss > water loss: Diarrhoea, vomiting, sweating. Burns, adenoma of rectum
+
 ---
 ## Euvolemic hyponatremia
+SIADH, Hypothyroidism
+Urine Sodium > 20mmol/L
 ### [[siadh|SIADH]]
 High urinary sodium (thus high urine osmolality) seen here.
 ##### Treatment
@@ -59,9 +69,14 @@ High urinary sodium (thus high urine osmolality) seen here.
 **Treatment**: Slow iv NS (1 L over 8 hrs.)
 
 ---
-## Hypervolemia hyponatremia
+## Hypervolemic hyponatremia
 Excess water.
-Causes: Cirrhosis, Nephrotic syndrome, CHF, Renal failure (free water not excreted)
+Causes: Nephrotic syndrome 
+
+| Urine Na        | Interpretation                            | Causes                                                  |
+| --------------- | ----------------------------------------- | ------------------------------------------------------- |
+| **< 20 mmol/L** | Kidneys _think_ volume is low → retain Na | secondary hyperaldosteronism <br>(CHF, Liver cirrhosis) |
+| **> 20 mmol/L** | Kidney failure → can't reabsorb Na        | renal failure (free water not excreted)                 |
 
 **Treatment**: Treat underlying cause.
 - fluid restrict to 500-1000 mL/day
@@ -84,5 +99,12 @@ Causes: Cirrhosis, Nephrotic syndrome, CHF, Renal failure (free water not excret
 
 ---
 # Pseudohyponatremia
-Rare.
-Hyperlipidaemia or hyperproteinaemia can interfere with Na measurement- will not cause cerebral oedema. Venous blood gas can reveal accurate Na+ level, as true osmolality is usually normal.
+Rare. Hyperlipidaemia or hyperproteinaemia (e.g. myeloma) can interfere with Na measurement
+- will not cause cerebral oedema. 
+- Venous blood gas can reveal accurate Na+ level, as true osmolality is usually normal. 
+
+# Translocational (hypertonic) hyponatraemia  
+- hyperglycaemia
+    - e.g. [[hhs]] 
+    - causes dilutional hyponatraemia due to osmotic water shift (↑ plasma osmolality)
+- mannitol

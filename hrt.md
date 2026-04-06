@@ -13,13 +13,17 @@ urls:
 ---
 As part of managing [[menopause]]. 
 # Hormone choice rationale
-- Oestrogen → treats menopausal symptoms: Hot flushes, Night sweats, Vaginal dryness, Sleep disturbance
-	- HRT uses Oestradiol (E2) which is normal human oestrogen
+- Oestrogen → treats menopausal symptoms: Hot flushes, Night sweats, Vaginal dryness, Sleep disturbance. However **vasomotor symptoms** are the main reason for choosing HRT rather than other health benefits. 
+	- HRT uses Oestradiol (E2) which is normal human oestrogen (prefer normal rather than synthetic for HRT)
 	- [[COCP]] uses EE which is a very potent synthetic oestrogen. 
 - Progestogen → protects the endometrium from oestrogen-induced hyperplasia/[[cancer- endometrial|Endometrial Cancer]]. 
 - If uterus present → progestogen is mandatory (unless oestrogen is local only)
 	- If they have Mirena (It is IUS LNG), then can give oestrogen via another route. 
 	- It's the only IUS licensed for endometrial protection. 
+- Tibolone is a synthetic compound with both E&P + androgenic activity. 
+
+**premature menopause:**
+continue HRT till 50yo. Here the rationale is preventing osteoporosis. 
 #### Androgenicity of progesterone 
 NET (Most Androgenic) ≈ LNG < GSD ≈ DSG ≈ NGT < DRSP < Cyproterone acetate (Strongly anti-Androgenic)
 - **Second generation (LNG, NET)** → more androgenic
