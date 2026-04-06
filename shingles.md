@@ -54,6 +54,8 @@ Virus lies dormant in dorsal root/cranial nerve (facial) ganglia.
 	- resolves in 6 months but may last longer. 
 - herpes zoster ophthalmicus (shingles affecting ocular division of trigeminal nerve)
 	- #named : Hutchinson's sign: Rash on the tip or side of the nose. Indicates nasociliary involvement and is a strong risk factor for ocular involvement
+	- Don't give topical antiviral. 
+	- Can give topical steroid for secondary inflammation of the eye
 - herpes zoster oticus (Ramsay Hunt syndrome)- may result in ear lesions and facial paralysis. 
 	- #triad : Otalgia, Facial nerve palsy, Vesicular eruptions
 	- oral aciclovir & corticosteroid given

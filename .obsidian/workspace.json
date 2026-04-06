@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "herpes zoster",
+                "query": "\"give steroid\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -334,6 +334,9 @@
   "active": "724be78218a9af76",
   "lastOpenFiles": [
     "human herpes viruses.md",
+    "bell's palsy.md",
+    "gout.md",
+    "shingles.md",
     "time for action of contraceptives.md",
     "contraception in postpartum.md",
     "contraceptives.md",
@@ -354,12 +357,9 @@
     "raynaud.md",
     "psoriatic arthritis.md",
     "psoriasis.md",
-    "gout.md",
     "cancer- breast (referral criteria).md",
     "breastfeeding.md",
     "atrial fibrillation.md",
-    "scoring system.md",
-    "school in children with rash.md",
     "flow charts/haematuria.canvas",
     "attachments/rocker bottom foot (charcot foot) -4.jpg",
     "attachments/rocker bottom foot (charcot foot)- 3.jpg",
