@@ -17,7 +17,7 @@ urls:
 # Pathogenesis
 Occurs in 40-90% of patients 2-12 weeks after initial exposure.
 
-# Clinical Features
+# Clinical Features 
 presents as a [[epstein barr virus|glandular fever]]-type illness. 
 - sore throat
 - lymphadenopathy
@@ -65,3 +65,28 @@ From [NICE CKS](https://www.nice.org.uk/guidance/qs157/chapter/Quality-statement
 - Earlier than that: may need repeat testing
 
 ![[post exposure prophylaxis#HIV pep transcluded]]
+# HIV advice in Pregnancy
+All mothers known to be HIV positive, regardless of antiretroviral therapy, and infant PEP,  
+should be advised to ==exclusively formula feed from birth.==
+
+Factors which reduce vertical transmission (from 25-30% to 2%)  
+- maternal ART
+- mode of delivery (caesarean section)
+- neonatal ART
+- infant feeding (bottle feeding)
+
+Screening 
+- NICE guidelines recommend offering HIV screening to all pregnant women
+
+Maternal ART
+- all pregnant women should be offered ART regardless of whether they were taking it previously
+
+Mode of delivery  
+- vaginal delivery if viral load < 50 copies/ml at 36 weeks, otherwise C-section. 
+- a zidovudine infusion should be started four hours before beginning C-section
+
+Neonatal ART
+- zidovudine is usually administered orally to the neonate if maternal viral load is <50 copies/ml. Otherwise triple ART should be used. Therapy should be continued for 4-6 weeks.  
+
+Infant feeding  
+- in the UK all women should be advised not to breast feed

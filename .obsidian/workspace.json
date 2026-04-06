@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hrt.md",
+                "file": "psoriasis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hrt"
+              "title": "psoriasis"
             }
           },
           {
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Fsh ",
+                "query": "psoriasis",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hrt.md",
+                "file": "psoriasis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of hrt"
+              "title": "Graph of psoriasis"
             }
           }
         ]
@@ -301,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hrt.md",
+                "file": "psoriasis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hrt"
+              "title": "Backlinks for psoriasis"
             }
           }
         ]
@@ -333,10 +333,25 @@
   },
   "active": "4109a681d336b5c2",
   "lastOpenFiles": [
-    "menopause.md",
-    "contraceptives.md",
-    "consent in young people.md",
+    "erythrodermic psoriasis.md",
+    "psoriasis.md",
+    "flexural psoriasis.md",
+    "guttate psoriasis.md",
+    "pustular Psoriasis.md",
+    "plaque psoriasis.md",
+    "nsaid.md",
+    "asthma.md",
+    "angina.md",
+    "hiv.md",
+    "uti.md",
+    "pyelonephritis.md",
     "hrt.md",
+    "contraception.md",
+    "contraceptives.md",
+    "haematuria.md",
+    "flow charts/haematuria.canvas",
+    "menopause.md",
+    "consent in young people.md",
     "mitochondrial inheritance.md",
     "cocp.md",
     "cocp- pill ladder.md",
@@ -345,21 +360,6 @@
     "rhinosinusitis.md",
     "oral allergy syndrome.md",
     "cancer- breast (referral criteria).md",
-    "als- anaphylaxis.md",
-    "seizure.md",
-    "asthma- management 2024.md",
-    "asthma- diagnosis (algorithm).md",
-    "paediatric milestones.md",
-    "cancer- endometrial.md",
-    "flow charts/haematuria.canvas",
-    "uti.md",
-    "haematuria.md",
-    "cancer- renal.md",
-    "down's syndrome.md",
-    "puberty.md",
-    "congenital adrenal hyperplasia.md",
-    "amenorrhoea (primary).md",
-    "headache.md",
     "attachments/rocker bottom foot (charcot foot) -4.jpg",
     "attachments/rocker bottom foot (charcot foot)- 3.jpg",
     "attachments/rocker bottom foot (charcot foot)- 2.jpg",

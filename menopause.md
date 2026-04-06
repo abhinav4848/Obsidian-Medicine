@@ -35,7 +35,7 @@ Premature Menopause: <40yo
 Early menopause: <45yo
 - 2 results of FSH >30 IU/L 4-8 weeks apart
 # Stopping contraception
-*See [[contraceptives#Recommendations on stopping Contraception linked|Advice on stopping contraceptives]]*  
+*See [[contraceptives#Contraception for women aged > 40 years linked|Advice on stopping contraceptives]]*  
 
 ---
 # Treatment options

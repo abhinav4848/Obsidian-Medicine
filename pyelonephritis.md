@@ -33,13 +33,13 @@ If admitted, give i.v. abx
 
 Women (not pregnant)/Men/Indwelling catheter:
 	1st line: Co-Amoxiclav 625mg TID 10 days + Oral Amoxicillin 500mg TDS 10 days
-	2nd line: 	Ciprofloxacin 500mg
+	2nd line: Ciprofloxacin 500mg
 	3rd line: Trimethoprim 200mg BD 14 days
 Children: 
 	Co-Amoxiclav > Cefalexin
 Pregnant w/o need for admission: 
 	Cefalexin (PO) 500mg BD for 7-10days 
-	*Use cephalosporin (not quinolone).* 
+	*Use [[cephalosporins]] (& not quinolone).* 
 ## Summary of Treatment
 If Dysuria (Lower UTI): [[Nitrofurantoin]], [[Trimethoprim]]  
 if loin pain, etc. (upper UTI):

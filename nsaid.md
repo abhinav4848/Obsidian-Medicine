@@ -40,10 +40,16 @@ tags:
 Whether NSAID can be given in [[asthma]] depends on the type of asthma and the patient’s history with NSAIDs.
 - NSAIDs (like ibuprofen, naproxen, diclofenac) can trigger bronchospasm in a subset of asthmatics- this is known as NSAID-exacerbated respiratory disease (NERD) or aspirin-sensitive asthma. 
 	- This occurs in roughly 10-20% of adults with asthma, especially those who also have nasal polyps or chronic rhinosinusitis. See [[Samter's triad]]. 
-- The mechanism involves inhibition of COX-1 → decreased prostaglandin E₂ → arachidonic acid shunted to leukotriene pathway → increased leukotrienes → bronchoconstriction (see: [[asthma- drugs#Why no NSAIDs?|Asthma & NSAIDs]]). 
+- **Mechanism**: inhibition of COX-1 → decreased prostaglandin E₂ → arachidonic acid shunted to leukotriene pathway → increased leukotrienes → bronchoconstriction (see: [[asthma- drugs#Why no NSAIDs?|Asthma & NSAIDs]]). 
 - If anti-inflammatory action is essential (e.g., for arthritis), consider selective COX-2 inhibitors (e.g., celecoxib (it's enteral only) & Parecoxib (parenteral only)- Both are often used in palliative setting). These are less likely to provoke bronchospasm. 
 	- In [Leicester](https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/traffic-lights/?search_term=celecoxib) (2026, Feb), Celecoxib is to be prescribed by specialists only for either inflammatory pain associated with cancer/other palliative conditions, or for pain and inflammation for asthmatic patients with NSAID allergy. 
 
+# Aspirin in Children
+Avoid aspirin in children < 16yo due to risk of reye syndrome. Can give in [[kawasaki disease]] however as benefit > risk.
+
+# Aspirin & dental procedures
+Can continue for dental surgeries. 
+
 ---
 
-Aspirin for primary prevention of CVD: [[patrono2019- Role of aspirin in primary prevention of CVD.pdf]] Not effective, in fact, increases GI bleed risk (ASPREE trial, ARRIVE trial, ASCEND trial)
+Aspirin for primary prevention of CVD: [[patrono2019- Role of aspirin in primary prevention of CVD.pdf]] Not effective, in fact, increases GI bleed risk (ASPREE trial, ARRIVE trial, ASCEND trial). It's first line for patients with IHD. 
