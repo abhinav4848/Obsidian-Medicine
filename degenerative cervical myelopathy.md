@@ -1,9 +1,13 @@
 ---
 tags:
   - neurology
+aliases:
+  - DCM
 ---
+DCM is associated with a delay in diagnosis, estimated to be >2 years in some studies. It is most commonly misdiagnosed as carpal tunnel syndrome and in one study, 43% of patients who underwent surgery for DCM had been initially diagnosed with carpal tunnel syndrome
+
 # Clinical features
-Early symptoms are often subtle and can vary in severity day to day, making the disease difficult to detect initially. However as a progressive condition, worsening, deteriorating or new symptoms should be a warning sign.
+Early symptoms are often subtle and can vary in severity day to day, making the disease difficult to detect initially. However as a progressive condition, worsening, deteriorating or new symptoms should be a warning sign. 
 
 | Sign                                                                         | Features                                                                                                                                                                                                                           |
 | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -13,13 +17,11 @@ Early symptoms are often subtle and can vary in severity day to day, making the 
 | Loss of autonomic function (urinary or faecal incontinence and/or impotence) | These can occur and do not necessarily suggest cauda equina syndrome in the absence of other hallmarks of that condition                                                                                                           |
 | Hoffman's sign ([YouTube](https://youtu.be/xfguBiqsoDk))                     | is a reflex test to assess for cervical myelopathy. It is performed by gently flicking one finger on a patient's hand. A positive test results in reflex twitching of the other fingers on the same hand in response to the flick. |
 Patients often incorrectly diagnosed and treated for carpal tunnel syndrome. 
-
-# Investigation
+# Investigation 
 An MRI of the cervical spine is the gold standard test where cervical myelopathy is suspected. It may reveal disc degeneration and ligament hypertrophy, with accompanying cord signal change.
-# Management
-All patients with degenerative cervical myelopathy should be urgently referred for assessment by specialist spinal services. (neurosurgery or orthopaedic spinal surgery). 
-
-Main treatment:
+# Management 
+All patients with DCM should be urgently referred for assessment by specialist spinal services. (neurosurgery or orthopaedic spinal surgery). 
+#### Main treatment:
 - Decompressive surgery. 
 - Close observation for mild stable disease. 
 - Anything progressive/severe requires surgery to prevent further deterioration. 

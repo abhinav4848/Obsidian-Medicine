@@ -30,7 +30,7 @@ Avoid in first 21 days (UKMEC-4: VTE Risk). After this,
 - Metrorrhagia -> irregular cycle,
 - with/without [[menorrhagia|Menorrhagia]]/Dysmenorrhea,
 - Moderate [[pre-menstrual syndrome]] (severe PMS needs SSRI)
-- Endometriosis- can use up-to 3 month trial of back-to-back COCP (IUS or [[contraceptives|POP]] can also be used) 
+- Endometriosis- can use up-to 3 month trial of back-to-back COCP (IUS or [[contraceptives|POP]] can also be used)  
 # Contraindications 
 UKMEC: [College of sexual & reproductive health](https://www.cosrh.org/Public/Public/Standards-and-Guidance/uk-medical-eligibility-criteria-for-contraceptive-use-ukmec.aspx)
 

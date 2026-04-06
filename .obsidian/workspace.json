@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inflammatory bowel disease.md",
+                "file": "degenerative cervical myelopathy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "inflammatory bowel disease"
+              "title": "degenerative cervical myelopathy"
             }
           }
         ],
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crohn",
+                "query": "degenera",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "inflammatory bowel disease.md",
+                "file": "degenerative cervical myelopathy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of inflammatory bowel disease"
+              "title": "Graph of degenerative cervical myelopathy"
             }
           }
         ]
@@ -301,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inflammatory bowel disease.md",
+                "file": "degenerative cervical myelopathy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for inflammatory bowel disease"
+              "title": "Backlinks for degenerative cervical myelopathy"
             }
           }
         ]
@@ -333,6 +333,11 @@
   },
   "active": "724be78218a9af76",
   "lastOpenFiles": [
+    "menorrhagia.md",
+    "Untitled.md",
+    "cocp.md",
+    "dysmenorrhoea.md",
+    "inflammatory bowel disease.md",
     "addison's disease.md",
     "hyponatremia.md",
     "siadh.md",
@@ -354,11 +359,6 @@
     "confusion in skin lesions.md",
     "bartholin cyst.md",
     "ace inhibitors.md",
-    "difference in cardiac condition treatments.md",
-    "angina.md",
-    "heart failure.md",
-    "calcium channel blockers.md",
-    "immunisation in adults.md",
     "flow charts/haematuria.canvas",
     "attachments/rocker bottom foot (charcot foot) -4.jpg",
     "attachments/rocker bottom foot (charcot foot)- 3.jpg",
