@@ -45,14 +45,16 @@ Influenza
 
 ---
 # Time Order
+#mnemonic SWIMMeR
 - 24 hours after commencing antibiotics: [[scarlet fever]]
 - 48 hours after commencing antibiotics (or 21 days from onset of symptoms if no antibiotics): [[Pertussis|Whooping Cough]] 
+- 48 hours after commencing antibiotic treatment OR until lesions are crusted and healed: [[Impetigo]] 
 - 4 days from onset of rash: [[Measles]]
 - 5 days from onset of swollen glands: [[Mumps]]
 - 5 days from onset of rash: [[Rubella]]
 - All lesions crusted over: [[chicken pox]]
+
 - Until symptoms have settled for 48 hours: Diarrhoea & vomiting
-- Until lesions are crusted and healed, or 48 hours after commencing antibiotic treatment: [[Impetigo]] 
 - Until treated: [[scabies]] 
 - Until recovered: Influenza
 

@@ -47,6 +47,7 @@ Preferred in symptomatic patients
 - **If Onset > 48 hrs**: Following electrical cardioversion patients should be anticoagulated for at least 4 weeks.
 ### Stroke risk
 - Do not offer stroke prevention therapy with anticoagulation to <65 years with atrial fibrillation and no risk factors other than their sex (that is, very low risk of stroke equating to a CHA2DS2‑VASc score of 0 for men or 1 for women).
+	- Score of 2 needed to start anticoagulation.
 - Aspirin is not useful to prevent primary stroke. It's used for treatment of stroke.
 
 | Letter | Condition                                         | Points |
@@ -59,16 +60,25 @@ Preferred in symptomatic patients
 | V      | Vascular disease (e.g. MI, PVD, aortic plaque)    | 1      |
 | A      | Age 65–74 years                                   | 1      |
 | Sc     | Sex category (==female==)                         | 1      |
+#### ECHO & Anticoagulation
+AF + Valvular Heart disease => Need Anticoagulation regardless of the CHADVASC score being zero. This is why you always need an ECHO. 
+- You can decide if ECHO needed: high risk of suspicion for underlying structural heart disease (e.g. heart murmur), or functional heart disease (e.g. HF)
 ### [[scoring system|Orbit Score]]
 
-| Risk Factor                 | Criteria                           |
-| --------------------------- | ---------------------------------- |
-| Older age                   | ≥ 75 years                         |
-| Reduced haemoglobin         | < 13 g/dL (men), < 12 g/dL (women) |
-| Bleeding history            | Previous bleeding event            |
-| Insufficient renal function | eGFR < 60                          |
-| Treatment with antiplatelet | Current antiplatelet therapy       |
+| Risk Factor                 | Criteria                           |     |
+| --------------------------- | ---------------------------------- | --- |
+| Older age                   | ≥ 75 years                         | 1   |
+| Reduced haemoglobin         | < 13 g/dL (men), < 12 g/dL (women) | 2   |
+| Bleeding history            | Previous bleeding event            | 2   |
+| Insufficient renal function | eGFR < 60                          | 1   |
+| Treatment with antiplatelet | Current antiplatelet therapy       | 1   |
+There are no formal rules on how we act on the ORBIT score and individual patient factors should be taken into account. However, the following table acts as a guide: 
 
+|ORBIT score|Risk group|Bleeds per 100 patient-years|
+|---|---|---|
+|0-2|Low|2.4|
+|3|Medium|4.7|
+|4-7|High|8.1|
 ### Catheter ablation
 NICE recommends the use of catheter ablation for those with AF who have not responded to or wish to avoid, antiarrhythmic medication.
 ##### Anticoagulation thereafter

@@ -16,6 +16,7 @@ Bullous means fluid filled blister > 1cm.
 
 ---
 # Treatment
+Children are for [[School in children with rash|school exclusion]] till lesion crusted, or 48 hrs. after commencing antibiotic.
 ### Non bullous, limited, localized (aka School sores)
 H2O2 cream 1% (1st line. Antiseptic)
 Fusidic acid 2% (2nd line) #abx
@@ -26,8 +27,6 @@ Mupirocin
 Oral flucloxacillin #abx
 Clarithromycin if allergic to penicillin
 Oral erythromycin if pregnant
-
-Children are for [[School in children with rash|school exclusion]] till lesion crusted, or 48 hrs. after commencing antibiotic.
 
 >[!info]
 >See [[confusion in skin lesions]]

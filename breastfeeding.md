@@ -1,6 +1,8 @@
 ---
 tags:
   - obstetrics
+aliases:
+  - breast feeding
 ---
 # Drugs contraindicated in breastfeeding
 
