@@ -7,6 +7,7 @@ aliases:
   - Mirena
   - Copper-T
   - Nexplanon
+  - when to stop contraceptives
 urls:
 ---
 ![[contraception]]
@@ -83,14 +84,14 @@ Immediate contraception if inserted ≤7 days from start of menstruation; otherw
 - It prevents endometrial proliferation (reducing blood loss by >90%) & thickens cervical mucus.
 - IUS alleviates symptoms of Endometriosis, Adenomyosis, Fibroids.
 - IUS is a major risk factor for PID ([[chlamydia|Chlamydia]], [[Gonorrhoea]]).
-- Has lowest failure rate (even less than lap tubal sterilization). 
+- Has lowest failure rate (even less than lap tubal sterilization, but Implant is best). 
 - Can have initial frequent irregular bleed & spotting but should settle by 3-6 months. 
 - The proportion of pregnancies that are ectopic is increased but the absolute number of ectopic pregnancies is reduced, compared to a woman not using contraception. 
 	- If a woman is using contraception, she has fewer pregnancies overall.  
 	- Among those pregnancies that _do_ happen, a slightly higher fraction might be ectopic.
 - Expulsion risk: 1 in 20
 ###### Duration for effect
-- Effective for 8 years, but if used in women ≥45 years it is effective until 55 years
+- 52mg is effective for 8 years, but if used in women ≥45 years it is effective until 55 years
 - if used as endometrial protection for women taking oestrogen-only hormone replacement therapy they are only licensed for 5 years
 ##### Differences 
 
@@ -105,14 +106,13 @@ Immediate contraception if inserted ≤7 days from start of menstruation; otherw
 - can be relied upon ==immediately== following insertion. *See [[contraceptives in emergency|Emergency contraception]]* 
 - the majority of IUDs with copper on the stem only are effective for 5 years, whereas some of the IUDs that have copper on the stem and the arms of the T may be effective for up to 10 years
 ---
-# Recommendations on stopping Contraception
-[FSRH](https://www.cosrh.org/Common/Uploaded%20files/documents/fsrh-guideline-contraception-for-women-aged-over-40-years.pdf)
-### Table 8: Recommendations regarding stopping contraception
+# Recommendations on stopping Contraception %%linked%%
+[FSRH](https://www.cosrh.org/Common/Uploaded%20files/documents/fsrh-guideline-contraception-for-women-aged-over-40-years.pdf) ([archive](https://web.archive.org/web/20260327152400/https://www.cosrh.org/Common/Uploaded%20files/documents/fsrh-guideline-contraception-for-women-aged-over-40-years.pdf))
 
-| Contraceptive method                          | Age 40–50 years                                  | Age >50 years                                                                                                                                                                                                                                                                                                                                                                 |
-| :-------------------------------------------- | :----------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Non-hormonal                                  | Stop contraception after 2 years of amenorrhoea. | Stop contraception after 1 year of amenorrhoea.                                                                                                                                                                                                                                                                                                                               |
-| Combined hormonal contraception               | Can be continued                                 | Stop at age 50 and switch to a non-hormonal method or IMP/POP/LNG-IUD, then follow appropriate advice.                                                                                                                                                                                                                                                                        |
-| Progestogen-only injectable                   | Can be continued                                 | Women >50 should be counselled regarding switching to alternative methods, then follow appropriate advice.                                                                                                                                                                                                                                                                    |
-| Progestogen-only implant (IMP) and pill (POP) | Can be continued to age 50 and beyond            | Stop at age 55 when natural loss of fertility can be assumed for most women. If a woman over 50 with amenorrhoea wishes to stop before age 55, FSH level can be checked. If FSH level is >30 IU/L the IMP/POP/LNG-IUD can be discontinued after 1 more year. If FSH level is in premenopausal range then method should be continued and FSH level checked again 1 year later. |
-| Levonogestrel intrauterine device (LNG-IUD)   | -                                                | A 52mg LNG-IUD inserted $\ge$45 can remain *in situ* until age 55 if used for contraception or heavy menstrual bleeding.                                                                                                                                                                                                                                                      |
+| Contraceptive method                                  | Age 40–50 years                                  | Age >50 years                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| :---------------------------------------------------- | :----------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Non-hormonal                                          | Stop contraception after 2 years of amenorrhoea. | Stop contraception after 1 year of amenorrhoea.                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Combined hormonal contraception                       | Can be continued                                 | Stop at age 50 and switch to a non-hormonal method or IMP/POP/LNG-IUD, then follow appropriate advice.                                                                                                                                                                                                                                                                                                                                                    |
+| Progestogen-only injectable (e.g. Depo Provera)       | Can be continued                                 | Women >=50 should be counselled regarding switching to alternative methods, then follow appropriate advice.                                                                                                                                                                                                                                                                                                                                               |
+| Progestogen-only implant (IMP) and <br><br>pill (POP) | Can be continued to age 50 and beyond            | Stop at age 55 when natural loss of fertility can be assumed for most women. Spontaneous conception is rare even if menses continue. <br><br>If a woman over 50 with amenorrhoea wishes to stop before age 55, FSH level can be checked. <br>- If FSH level is >30 IU/L the IMP/POP/LNG-IUD can be discontinued after 1 more year. <br>- If FSH level is in premenopausal range then method should be continued and FSH level checked again 1 year later. |
+| Levonogestrel intrauterine device (LNG-IUD)           | Can be continued to age 50 and beyond            | A 52mg LNG-IUD inserted >=45 can remain *in situ* until age 55 if used for contraception or heavy menstrual bleeding.                                                                                                                                                                                                                                                                                                                                     |

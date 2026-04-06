@@ -3,9 +3,9 @@ tags:
   - gynae
   - hormone
 urls:
-  - https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2022/06/Menopause-and-HRT-guideline.pdf
-  - https://thebms.org.uk/publications/tools-for-clinicians/
-  - https://www.nice.org.uk/guidance/ng23/resources/incidence-of-medical-conditions-with-and-without-hrt-a-discussion-aid-pdf-13553199901
+  - "[HRT & incidence of some medical conditions](https://www.nice.org.uk/guidance/ng23/resources/incidence-of-medical-conditions-with-and-without-hrt-a-discussion-aid-pdf-13553199901)"
+  - "[LMSG- Menopause & HRT guideline](https://www.lmsg.nhs.uk/wp-content/uploads/2022/06/Menopause-and-HRT-guideline.pdf)"
+  - "[BMS Tools for Clinicians - British Menopause Society](https://thebms.org.uk/publications/tools-for-clinicians/)"
 aliases:
   - sequential HRT
   - cyclical HRT
@@ -35,9 +35,7 @@ Premature Menopause: <40yo
 Early menopause: <45yo
 - 2 results of FSH >30 IU/L 4-8 weeks apart
 # Stopping contraception
-If a woman >50yo wants to stop hormonal contraception, do FSH. 
-- If 1 result >30 IU/L, stop contraception in 12 months
-All women over age 55 can cease contraception as spontaneous conception is rare even if experiencing menses. 
+*See [[contraceptives#Recommendations on stopping Contraception linked|Advice on stopping contraceptives]]*  
 
 ---
 # Treatment options

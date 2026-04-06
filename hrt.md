@@ -33,10 +33,12 @@ NET (Most Androgenic) ≈ LNG < GSD ≈ DSG ≈ NGT < DRSP < Cyproterone acetate
 - Progestogen added for part of the cycle (usually 10–14 days/month). 
 - Mimics a menstrual cycle. Bleeding is expected. 
 Used for perimenopausal women with last bleeding =<12 months post-LMP. 
+HRT is not contraception. 
 ## Continuous combined HRT 
 Oestrogen + progestogen every day. 
 
-Used for Postmenopausal women
+Used for Postmenopausal women. 
+Definition of [[Menopause]]: 
 - >= 12 months since last menstrual period
 - >= 2 years post-menopause if <50 years old 
 
@@ -47,17 +49,17 @@ Doesn't need it:
 - ≤50y + amenorrhoeic ≥2y 
 - \>50y and has been amenorrhoeic for ≥1y. (*natural menopause not on the progesterone pill*).
 # Scenarios
-1. Needs contraception
+1. **Needs contraception**
 	- Oestrogen-only pill, patch or spray + Mirena (other IUSs not licensed for endometrial protection).
-	- Combined hormonal contraception (if eligible).
+	- Combined hormonal contraception (if eligible)- Don't combine CHC with HRT. Stop CHC if age > 50. CHC can be used in < 50yo eligible women as an alternative to HRT.
 	- Sequential combined HRT (pill or patch or spray) + progestogen-only contraception (tablet, implant, injection)- because the dose of progesterone needed for ovulation suppression is a lot more than the dose available in HRT. i.e. HRT doses are not contraceptive. 
-		- *Corollary*: POP can't be used as the progesterone part of HRT (but Mirena can).
+		- *Corollary*: POP/IMP/DMPA can't be used as the progesterone part of HRT (but Mirena can).
 	- If amenorrhoeic with progestogenic contraception: consider [[contraceptives|Mirena]]
-		- i.e. patient still needs separate progesterone formulation for HRT. 
+		- i.e. patient still needs separate progesterone formulation for HRT. All progesterone contraceptives are safe to continue with HRT. 
 		- If Mirena is not suitable, refer to the complex menopause clinic. 
 	- If hormonal contraception declined: advise barrier methods with sequential combined HRT.
 
-2. Has uterus, doesn't need contraception, has been amenorrhoeic > 1 year: Offer continuous combined HRT: 
+2. **Has uterus, doesn't need contraception, has been amenorrhoeic > 1 year**: Offer continuous combined HRT: 
 	- Continuous combined pill
 	- Continuous combined patch
 	- Oestrogen only pill/patch/gel/spray, with
@@ -65,7 +67,7 @@ Doesn't need it:
 		- Medroxyprogesterone acetate 5mg OD
 		- Micronized progesterone 100mg OD
 
-3. Has uterus, doesn't need contraception, not been amenorrhoeic > 1 year: Offer sequential combined HRT:
+3. **Has uterus, doesn't need contraception, not been amenorrhoeic > 1 year**: Offer sequential combined HRT:
 	- Sequential combined pill
 	- Sequential combined patch
 	- Oestrogen only pill/patch/gel/spray, with
