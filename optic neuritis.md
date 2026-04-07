@@ -14,7 +14,7 @@ Often has Central scotoma ([[macular degeneration]]), but if [[confusion in opht
 ## Cause:
 - [[multiple sclerosis]]
 - DM, Syphilis
-- [[drugs that can cause ocular problems|Drug induced]]: [[tuberculosis|Ethambutol]], Amiodarone, [[Metronidazole]].
+- [[colour changes in body|Drug induced]]: [[tuberculosis|Ethambutol]], Amiodarone, [[Metronidazole]].
 ## Investigation 
 MRI of the brain and orbits with gadolinium contrast is diagnostic in most cases. 
 ## Treatment

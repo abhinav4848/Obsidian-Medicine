@@ -20,7 +20,7 @@ Worsens with mydriasis-> h/o being in a dark room (movie theatre, eye clinic)
 - Coloured halo (also in [[cataract]]) #confusion , [[red eye]], photophobia
 - Semi-dilated, non reacting pupils
 - Corneal edema: dull or hazy cornea.
-- Associated with: nausea, Vomit
+- Associated with: nausea, Vomit due to vagal stimulation. 
 
 *[[headache|Cluster headache]] doesn’t have halos.* #confusion 
 Do IOP test: Ocular tonometry-> Anterior chamber affected

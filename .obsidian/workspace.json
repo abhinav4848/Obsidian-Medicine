@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shingles.md",
+                "file": "colour changes in body.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "shingles"
+              "title": "colour changes in body"
             }
           }
         ],
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"give steroid\"",
+                "query": "colour change",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "shingles.md",
+                "file": "colour changes in body.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of shingles"
+              "title": "Graph of colour changes in body"
             }
           }
         ]
@@ -301,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shingles.md",
+                "file": "colour changes in body.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for shingles"
+              "title": "Backlinks for colour changes in body"
             }
           }
         ]
@@ -333,10 +333,18 @@
   },
   "active": "724be78218a9af76",
   "lastOpenFiles": [
+    "addison's disease.md",
+    "colour changes in body.md",
+    "drugs contraindicated in pregnancy.md",
+    "copd- treatment.md",
+    "confusion in ophthalmology.md",
+    "glaucoma- acute angle closure.md",
+    "seizure.md",
+    "psychiatric disorders.md",
+    "shingles.md",
     "human herpes viruses.md",
     "bell's palsy.md",
     "gout.md",
-    "shingles.md",
     "time for action of contraceptives.md",
     "contraception in postpartum.md",
     "contraceptives.md",
@@ -348,18 +356,10 @@
     "Untitled.md",
     "dysmenorrhoea.md",
     "inflammatory bowel disease.md",
-    "addison's disease.md",
     "hyponatremia.md",
     "siadh.md",
     "hhs.md",
     "hrt.md",
-    "menopause.md",
-    "raynaud.md",
-    "psoriatic arthritis.md",
-    "psoriasis.md",
-    "cancer- breast (referral criteria).md",
-    "breastfeeding.md",
-    "atrial fibrillation.md",
     "flow charts/haematuria.canvas",
     "attachments/rocker bottom foot (charcot foot) -4.jpg",
     "attachments/rocker bottom foot (charcot foot)- 3.jpg",

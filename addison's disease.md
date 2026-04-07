@@ -7,6 +7,7 @@ aliases:
 **Primary insufficiency**: Problem with gland itself.
 Due to autoimmune in developed world, TB in developing.
 ## High ACTH
+Lean, tan, tired, and tearful= weight loss, hyperpigmentation, fatigue, emotional lability
 
 |                               |                                                                                                                                                                                                |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

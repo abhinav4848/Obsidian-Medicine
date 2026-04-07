@@ -19,7 +19,7 @@ PDE-5 inhibitor MoA:
 - use of indinavir/ketoconazole/itraconazole in patients over age 75 years (vardenafil only); 
 - heart failure and uncontrolled arrhythmia/hypertension (tadalafil only).
 # Side effects
-[[drugs that can cause ocular problems|Blue vision]],
+[[colour changes in body|Blue vision]],
 Nasal congestion,
 Flushing,
 Priapism

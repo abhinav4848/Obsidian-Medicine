@@ -19,7 +19,7 @@ Renal failure, dehydration
 - [[gynaecomastia]]
 - Arrhythmias (AV Block, Bradycardia)
 - Confusion
-- [[drugs that can cause ocular problems|Xanthopsia]]: Yellow-green vision
+- [[colour changes in body|Xanthopsia]]: Yellow-green vision
 - [[eating disorder|anorexia]]
 # Treatment
 Digoxin-specific antibody fragments #antidote 

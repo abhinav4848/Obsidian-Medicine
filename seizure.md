@@ -22,7 +22,7 @@ For seizures lasting >=5 mins
 #### Midazolam oromucosal
 buccal administration
 
-|                     |                                      |
+|                     | Midaz dose                           |
 | ------------------- | ------------------------------------ |
 | Neonate             | 300 mcg/kg (unlicensced)             |
 | Child 1 - 2 months  | 300 mcg/kg (max. 2.5mg, unlicensced) |
@@ -31,3 +31,18 @@ buccal administration
 | Child 5 - 9 years   | 7.5 mg                               |
 | Child 10 - 17 years | 10 mg                                |
 | Adult               | 10 mg (unlicensced)                  |
+
+---
+
+# Absence seizure
+Form of generalised epilepsy seen in children. Girls affected 2x than boys. Age of onset 3-10 years. 
+
+Features 
+- absences last a few seconds and are associated with a quick recovery
+- seizures may be provoked by hyperventilation or stress
+- the child is usually unaware of the seizure
+- they may occur many times a day
+ 
+Management  
+- sodium valproate and ethosuximide are first-line treatment
+- good prognosis- 90-95% become seizure free in adolescence

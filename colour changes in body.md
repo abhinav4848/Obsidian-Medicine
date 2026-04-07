@@ -5,6 +5,7 @@ tags:
 aliases:
   - colour changes in vision
   - other colour changes
+  - drugs that can cause ocular problems
 ---
 # Eye changes
 
@@ -19,7 +20,9 @@ aliases:
 | Vision Change      | Yellow-green vision (Xanthopsia): Digoxin                                                                                                                                          |
 # Other colour changes
 
-| Colour changes             |                                                                                                                                                              |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Body secretions orange/red | [[tuberculosis\|Rifampicin]]                                                                                                                                 |
-| slate-grey appearance      | [[amiodarone]]                                                                                                                                               |
+| Colour changes             |                              |
+| -------------------------- | ---------------------------- |
+| Body secretions orange/red | [[tuberculosis\|Rifampicin]] |
+| slate-grey appearance      | [[amiodarone]]               |
+| Bronze skin                | Haemochromatosis             |
+| Tanned skin                | [[addison's disease]]        |
