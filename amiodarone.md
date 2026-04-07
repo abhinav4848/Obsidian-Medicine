@@ -11,7 +11,7 @@ Used in V. Tach
 - TFT, LFT every 6 months 
 *see [[monitoring bloods with drugs]]*.  
 # Side effects 
-- **Face**: [[colour changes in body|Corneal Opacity]], slate grey appearance, photosensitivity 
+- **Face**: [[colour & vision changes in body|Corneal Opacity]], slate grey appearance, photosensitivity 
 - **Neck**: Thyroid Dysfunction (hypo/hyper) 
 - **Lungs**: [[lung fibrosis|Lower zone fibrosis]] / pneumonitis 
 - **Heart**: Brady, [[qt prolongation]] (so can be pro arrhythmic) 

@@ -6,7 +6,7 @@ aliases:
 ---
 Placebo is an inert substance that mimics the appearance and administration of an active drug but lacks pharmacological activity.  
   
-Active placebo: Has noticeable side effects but no therapeutic effect for the condition being treated. e.g. Atropine has been used to mimic the anticholinergic side effects of antidepressants. 
+**Active placebo**: Has noticeable side effects but no therapeutic effect for the condition being treated. e.g. Atropine has been used to mimic the anticholinergic side effects of antidepressants. 
   
 **Nocebo**: Expectation of negative effects causes patient's to experience that effect. 
 

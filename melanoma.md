@@ -40,6 +40,16 @@ Also show the picture of melanoma to patient and ask her to come back if she not
 > - **E = Elevation,** AND
 > - **F = Firmness** to touch, AND
 > - **G = Growth**. Sustained growth for 3-4 weeks
+
+# Types of Melanoma
+
+|                       | Superficial spreading ([PCDS](https://www.pcds.org.uk/clinical-guidance/melanoma-an-overview1)) | Nodular (Most aggressive)                       | Lentigo maligna ([PCDS](https://www.pcds.org.uk/clinical-guidance/lentigo-maligna-melanoma-and-lentigo-maligna)) | Acral lentiginous ([PCDS](https://www.pcds.org.uk/clinical-guidance/acral-lentiginous-melanoma-including-subungual-melanoma))                                      |
+| --------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Frequency**         | 70% of cases                                                                                    | Second commonest                                | Less common                                                                                                      | Rare form                                                                                                                                                          |
+| **Typically affects** | Arms, legs, back and chest, young people                                                        | Sun exposed skin, middle-aged people            | Chronically sun-exposed skin, older people                                                                       | Nails, palms or soles, People with darker skin pigmentation                                                                                                        |
+| **Appearance**        | A growing mole with diagnostic features listed above                                            | Red or black lump or lump which bleeds or oozes | A growing mole with diagnostic features listed above                                                             | Subungual pigmentation (Hutchinson's sign) or on palms or feet                                                                                                     |
+| **Factoid**           |                                                                                                 |                                                 |                                                                                                                  | Bob Marley died from this. His cancer began as a dark spot under his toenail, which was initially misdiagnosed, leading to late treatment and eventual metastasis. |
+There are other rare forms of melanoma including desmoplastic melanoma, amelanotic melanoma, or melanoma arising in other parts of the body such as ocular melanoma.
 ## Lentigo Maligna
 Lentigo maligna is a term for melanoma in-situ. It should be suspected in cases where there is a pigmented macule/patch with irregular borders, irregular pigment networks and asymmetry. These are not apparent in this case. 
 # Mole
