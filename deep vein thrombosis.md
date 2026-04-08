@@ -36,7 +36,7 @@ if not suitable, then
 - LMWH + Vit K antagonist concurrently * at least 5 days until INR 2.0 in 2 consecutive readings. 
 	- followed by a VKA on its own. 
 - if renal impairment is severe (e.g. < 15/min) then LMWH, unfractionated heparin or LMWH followed by a VKA
-- if the patient has antiphospholipid syndrome (specifically 'triple positive' in the NICE guidance) then LMWH followed by a VKA should be used
+- if the patient has [[antiphospholipid syndrome]] (specifically 'triple positive' in the NICE guidance) then LMWH followed by a VKA should be used
 ###### Duration of treatment
 - Provoked: 3 months
 - Unprovoked: 6 months if [[scoring system|ORBIT score]] says low bleeding risk

@@ -24,7 +24,7 @@ Underlying conditions
 - malignancy
 - thrombophilia: e.g. Activated protein C resistance, protein C and S deficiency
 - [[heart failure]]
-- antiphospholipid syndrome
+- [[antiphospholipid syndrome]]
 - [[behcet's disease]]
 - polycythaemia
 - nephrotic syndrome

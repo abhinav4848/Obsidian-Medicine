@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "upper limb ortho problems.md",
+                "file": "death.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "upper limb ortho problems"
+              "title": "death"
             }
           }
         ],
@@ -146,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tennis el",
+                "query": "coroner",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "upper limb ortho problems.md",
+                "file": "death.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of upper limb ortho problems"
+              "title": "Graph of death"
             }
           }
         ]
@@ -331,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "upper limb ortho problems.md",
+                "file": "death.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +341,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for upper limb ortho problems"
+              "title": "Backlinks for death"
             }
           }
         ]
@@ -363,6 +363,13 @@
   },
   "active": "9e9f9c43234ee733",
   "lastOpenFiles": [
+    "death.md",
+    "antiphospholipid syndrome.md",
+    "deep vein thrombosis.md",
+    "flow charts/prostaglandins and leukotrienes.canvas",
+    "venous thromoboembolism.md",
+    "cocp.md",
+    "upper limb ortho problems.md",
     "spirometry.md",
     "restrictive lung diseases.md",
     "copd.md",
@@ -385,12 +392,6 @@
     "addison's disease.md",
     "colour & vision changes in body.md",
     "quinine.md",
-    "drugs contraindicated in pregnancy.md",
-    "confusion in ophthalmology.md",
-    "glaucoma- acute angle closure.md",
-    "seizure.md",
-    "psychiatric disorders.md",
-    "shingles.md",
     "flow charts/postpartum cocp for contraception.canvas",
     "flow charts/haematuria.canvas",
     "attachments/rocker bottom foot (charcot foot) -4.jpg",
@@ -413,7 +414,6 @@
     "flow charts/hypertension management.canvas",
     "flow charts/deep vein thrombosis.canvas",
     "flow charts/h. pylori treatment flowchart.canvas",
-    "flow charts/prostaglandins and leukotrienes.canvas",
     "video scripts",
     "alex",
     "Untitled.base",
