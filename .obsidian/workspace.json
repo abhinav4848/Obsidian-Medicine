@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "osteoporosis.md",
+                "file": "colour & vision changes in body.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "osteoporosis"
+              "title": "colour & vision changes in body"
             }
           }
         ],
@@ -131,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "osteoporosis",
+                "query": "latanoprost",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "osteoporosis.md",
+                "file": "colour & vision changes in body.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,7 +204,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of osteoporosis"
+              "title": "Graph of colour & vision changes in body"
             }
           }
         ]
@@ -316,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "osteoporosis.md",
+                "file": "colour & vision changes in body.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +326,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for osteoporosis"
+              "title": "Backlinks for colour & vision changes in body"
             }
           }
         ]
@@ -348,8 +348,13 @@
   },
   "active": "90b8e4ba88417e11",
   "lastOpenFiles": [
-    "medical records.md",
+    "glaucoma- open angle.md",
+    "myocardial infarction.md",
+    "attachments/stemi- notice area.jpg",
     "osteoporosis.md",
+    "digoxin.md",
+    "acute pericarditis.md",
+    "medical records.md",
     "cow milk allergy.md",
     "als- anaphylaxis.md",
     "abnormal airway sounds.md",
@@ -373,10 +378,6 @@
     "attachments/papilloedema.png",
     "forms & benefits.md",
     "fit note.md",
-    "statistics- errors, confidence intervals.md",
-    "prevent future errors.md",
-    "confidentiality.md",
-    "melanoma.md",
     "flow charts/postpartum cocp for contraception.canvas",
     "flow charts/haematuria.canvas",
     "attachments/rocker bottom foot (charcot foot) -4.jpg",
@@ -391,7 +392,6 @@
     "housekeeping/memorise.base",
     "attachments/Hypernatraemia-Algorithm20.pdf",
     "attachments/stemi inferior.png",
-    "attachments/heart- coronary arteries.jpg",
     "attachments/evidencebasedrecoverytimes.pdf",
     "attachments/bronchovesicular-2.mp3",
     "attachments/atropa belladona.pdf",
