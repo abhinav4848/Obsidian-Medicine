@@ -40,13 +40,22 @@ Patients who have a chronic illness or cancer, which results in a disability sev
 - **Attendance Allowance**: for patients >= 65 years 
 #### Personal Independence Payment
 Personal Independence Payment (PIP) is replacing the Disability Living Allowance. Patients must have a long-term health condition or disability and have difficulties with activities related to daily living and or mobility. They must also have had these difficulties for 3 months and expect them to last for at least 9 months. These rules do not apply for patients who are terminally ill.  
-  
+
 PIP is tax-free, not means tested and divided into two components:  
 - Daily living component
+	- help with everyday activities
+	- You get this if you need:
+		- help from another person
+		- supervision
+		- prompting
+		- or you can’t do it safely/reliably
 - Mobility component
+	- Standard rate- can walk 20-25 meters. 
+	- Enhanced rate- walk < 20meters. You can then exchange part of this allowance to get a car, called Motability. 
+
 Means testing means your eligibility depends on your income & savings. But PIP is not means tested. So you could still work and be entitled to PIP because based only on your disability and how it affects daily life. 
 #### Attendance Allowance
-Attendance Allowance (AA) is a tax-free allowance for people aged 65 or over when they claim who need help with their personal care. To claim AA patients should normally have needed help with care for 6 months. Like DLA it is not means tested.  
+Attendance Allowance (AA) is a tax-free allowance for people aged 65 or over when they claim who need help with their personal care. To claim AA, patients should normally have needed help with care for 6 months. Like DLA it is not means tested.  
 #### Terminally ill patients
 Patients who have a terminal illness (where there is an expectation that the patient will not live for more than 12 months) are eligible to be fast-tracked through the system for claiming Personal Independence Payment (PIP), Universal Credit (UC), employment support allowance (ESA), DLA or AA. The SR1 ('Special Rules') form is a medical report form that is used to provide evidence of a terminal illness for people who are applying for benefits under the Special Rules. It replaced the previous DS1500 form. The Special Rules are a set of criteria that allow people with a terminal illness to claim benefits sooner than they would otherwise be able to.  
   
@@ -57,4 +66,4 @@ The following are the time frames for completing and submitting the SR1 form:
 - The form must be sent to the Department for Work and Pensions (DWP) within 28 days of being completed.
 - If the healthcare professional is unable to complete the form within 28 days, they must provide a written explanation to the DWP.
 
-The DWP will use the information on the SR1 form to decide whether the patient meets the criteria for the Special Rules. If the patient is found to meet the criteria, they will be able to claim benefits sooner than they would otherwise be able to.
+The DWP will use the information on the SR1 form to decide whether the patient meets the criteria for the Special Rules. If the patient is found to meet the criteria, they will be able to claim benefits sooner than they would otherwise be able to. 
