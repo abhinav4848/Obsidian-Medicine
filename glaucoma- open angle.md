@@ -28,12 +28,12 @@ PG analogues
 | **Prostaglandin analogues** | latanoprost | Increases uveoscleral outflow | Once daily administration<br><br>Adverse effects include brown pigmentation of the iris, increased eyelash length, periocular pigmentation |
 ## 3rd line:
 
-| **Medication**                    | Eg.                                        | Mode of action                                   | Notes                                                                                       |
-| ----------------------------- | ------------------------------------------ | ------------------------------------------------ | ------------------------------------------------------------------------------------------- |
-| **Beta-blockers**                 | timolol, betaxolol                         | Reduces aqueous production                       | Should be avoided in asthmatics and patients with heart block                               |
-| **Carbonic anhydrase inhibitors** | Dorzolamide                                | Reduces aqueous production                       | Systemic absorption may cause sulphonamide-like reactions                                   |
-| **Miotics**                       | pilocarpine, a muscarinic receptor agonist | Increases uveoscleral outflow                    | Adverse effects included a constricted pupil, headache and blurred vision                   |
-| **Sympathomimetics**              | brimonidine, an alpha2-agonist             | Reduces aqueous production and increases outflow | Avoid if taking MAOi or tricyclic antidepressants<br><br>Adverse effects include hyperaemia |
+| **Medication**                    | Eg.                                        | Mode of action                                   | Notes                                                                                           |
+| --------------------------------- | ------------------------------------------ | ------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| **Beta-blockers**                 | timolol, betaxolol                         | Reduces aqueous production                       | Should be avoided in asthmatics and patients with heart block                                   |
+| **Carbonic anhydrase inhibitors** | Dorzolamide                                | Reduces aqueous production                       | Systemic absorption may cause sulphonamide-like reactions                                       |
+| **Miotics**                       | pilocarpine, a muscarinic receptor agonist | Increases uveoscleral outflow                    | Adverse effects included a constricted pupil, headache and blurred vision                       |
+| **Sympathomimetics**              | brimonidine, an alpha2-agonist             | Reduces aqueous production and increases outflow | Avoid if taking MAOi or [[tricyclic antidepressants]]<br><br>Adverse effects include hyperaemia |
 ## 4th line
 Surgery (trabeculectomy)
 

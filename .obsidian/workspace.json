@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "glaucoma- open angle.md",
+                "file": "papilloedema.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "glaucoma- open angle"
+              "title": "papilloedema"
             }
           },
           {
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "glaucoma- open angle.md",
+                "file": "papilloedema.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,7 +204,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of glaucoma- open angle"
+              "title": "Graph of papilloedema"
             }
           }
         ]
@@ -316,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "glaucoma- open angle.md",
+                "file": "papilloedema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +326,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for glaucoma- open angle"
+              "title": "Backlinks for papilloedema"
             }
           }
         ]
@@ -348,8 +348,9 @@
   },
   "active": "90b8e4ba88417e11",
   "lastOpenFiles": [
-    "cataract.md",
     "glaucoma- open angle.md",
+    "tricyclic antidepressants.md",
+    "cataract.md",
     "papilloedema.md",
     "retinitis pigmentosa.md",
     "macular degeneration.md",
@@ -378,7 +379,6 @@
     "restrictive lung diseases.md",
     "copd.md",
     "copd- treatment.md",
-    "depression.md",
     "attachments/papilloedema 2.png",
     "attachments/papilloedema.png",
     "flow charts/postpartum cocp for contraception.canvas",
