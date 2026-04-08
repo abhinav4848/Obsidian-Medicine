@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "depression.md",
+                "file": "upper limb ortho problems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "depression"
+              "title": "upper limb ortho problems"
             }
           }
         ],
@@ -146,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "depression",
+                "query": "tennis el",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "depression.md",
+                "file": "upper limb ortho problems.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of depression"
+              "title": "Graph of upper limb ortho problems"
             }
           }
         ]
@@ -331,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "depression.md",
+                "file": "upper limb ortho problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +341,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for depression"
+              "title": "Backlinks for upper limb ortho problems"
             }
           }
         ]
@@ -363,8 +363,12 @@
   },
   "active": "9e9f9c43234ee733",
   "lastOpenFiles": [
-    "anticholinergics.md",
+    "spirometry.md",
+    "restrictive lung diseases.md",
+    "copd.md",
+    "copd- treatment.md",
     "depression.md",
+    "anticholinergics.md",
     "tricyclic antidepressants.md",
     "hypothyroidism.md",
     "papilloedema.md",
@@ -382,15 +386,11 @@
     "colour & vision changes in body.md",
     "quinine.md",
     "drugs contraindicated in pregnancy.md",
-    "copd- treatment.md",
     "confusion in ophthalmology.md",
     "glaucoma- acute angle closure.md",
     "seizure.md",
     "psychiatric disorders.md",
     "shingles.md",
-    "human herpes viruses.md",
-    "bell's palsy.md",
-    "gout.md",
     "flow charts/postpartum cocp for contraception.canvas",
     "flow charts/haematuria.canvas",
     "attachments/rocker bottom foot (charcot foot) -4.jpg",

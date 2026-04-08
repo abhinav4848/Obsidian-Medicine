@@ -41,7 +41,9 @@ revision counter: 1
 | < 0.7                        | < 30%                 | Stage 4 - Very severe- consider [[long term oxygen therapy\|LTOT]].            |
 
 Ratio of <0.7 needed for diagnosis of COPD. 
-Severity then classified using the FEV1 % of predicted.
+- Severity then classified using the FEV1 % of predicted.
+- So first step is the ratio. Then comes the absolute
+FEV1 is used to monitor progression of COPD. 
 Don't do [[copd- treatment#Asthmatic Features linked|new BDR to check for Asthma]] features in COPD, as it can be misleading as per NICE. 
 
 ---
