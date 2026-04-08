@@ -12,7 +12,13 @@ urls:
 **World**: Nutritional: Iodine deficiency
 
 **Drugs**: [[Lithium]], [[Amiodarone]], Carbimazole, Rifampicin
-# Clinical Features
+# Primary Hypothyroidism
+The vast majority of cases are primary hypothyroidism with a high TSH and low T4. The common causes are: 
+- Autoimmune (Hashimoto's disease, atrophic)
+- Iodine deficiency 
+- Thyroiditis (post-viral, post-partum) 
+- Iatrogenic (thyroidectomy, radioiodine, drugs) 
+## Clinical Features
 - Goitre in both cases.
 - Amenorrhea/Oligomenorrhea
 - Cold peripheries, coarse hair/hair loss, dry/thick coarse skin, brittle nails, bradycardia, weight gain.
@@ -25,11 +31,10 @@ urls:
 - [[Pseudogout]]. 
 	- Knee > wrist, ankle, shoulder
 	- Positive birefringent crystals
-# Treatment
+## Treatment
 [British thyroid association suggestion](https://british-thyroid-association.org/professionals/#btaguidelines) 
 #### If a patient has Subclinical Hypothyroidism 
-(TSH high, T4 normal, TPO negative shows it's not hashimoto)
-	-> Repeat TSH in 3 months.
+(TSH high, T4 normal, TPO negative shows it's not hashimoto) -> Repeat TSH in 3 months.
 #### If TSH raised but below 10miU/L (on 2 tests 3 months apart)
 - **Asymptomatic**: No Rx needed. Repeat test. 
 - **>=65yo**: No Rx needed. (risk of over-suppression of TSH leading to [[atrial fibrillation]])
@@ -50,7 +55,15 @@ Increase the dose of the Levothyroxine.
 - A fib.
 
 ---
+# Secondary Hypothyroidism
+Secondary hypothyroidism is very rare and results in a low TSH and low T4. In these cases, pituitary insufficiency is most likely and therefore an MRI of the gland should be performed.
+
+**T4:** normal range typically 12-22 pmol/l in UK labs
+
+e.g.: Pituitary adenoma, infiltrative disease
+
+---
 # NOTE
-Never give Ferrous sulphate + Levothyroxine at the same time!
+Never give [[anaemia|Ferrous sulphate]] + Levothyroxine at the same time!
 
 #mnemonic: RICO -> Rifampicin, Iron supplement, Calcium, Omeprazole interferes with Levothyroxine's absorption and thus reduces its effectiveness. Therefore, they should be given at separate times with long intervals. 

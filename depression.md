@@ -6,6 +6,8 @@ aliases:
   - psychotropic drugs
   - antidepressant
   - SNRI
+urls:
+  - "[NICE NG222](https://www.nice.org.uk/guidance/ng222)"
 ---
 # Ask these questions in consultation
 - Premorbid: what activities they enjoyed doing before but don't enjoy now. 
@@ -96,8 +98,41 @@ Patients < 25yo, or at increased risk of [[suicide]] should be reviewed after 1 
 PHQ-9 (see [[scoring system|PHQ-9]]).
 
 From [MDCalc](https://www.mdcalc.com/calc/1725/phq9-patient-health-questionnaire9): 
-Scores 20 and greater suggest severe depression; patients typically should have immediate initiation of pharmacotherapy and expedited referral to mental health specialist.  
+Scores <16: Less severe depression
+Scores >= 16: More severe depression- CBT + treatment: Even if sleep issues, Mirtazapine is second line due to better s/e profile & lower discontinuation rate of SSRI. 
   
 Functionally, the patient finds it is “extremely difficult” to perform life tasks due to their symptoms.
   
 WARNING: This patient is having thoughts concerning for suicidal ideation or self-harm, and should be probed further, referred, or transferred for emergency psychiatric evaluation as clinically appropriate and depending on clinician overall risk assessment.
+### Management of less severe depression
+NICE lists a large number of interventions that may be used first-line. It encourages us to discuss treatment options with patients to reach a shared decision. They recommend considering _'the least intrusive and least resource intensive treatment first'_. It also recommends not routinely offering _'antidepressant medication as first-line treatment for less severe depression, unless that is the person's preference'._  
+  
+Treatment options, listed in order of preference by NICE  
+- guided self-help
+- group cognitive behavioural therapy (CBT)
+- group behavioural activation (BA)
+- individual CBT
+- individual BA
+- group exercise
+- group mindfulness and meditation
+- interpersonal psychotherapy (IPT)
+- selective serotonin reuptake inhibitors (SSRIs) 
+- counselling
+- short-term psychodynamic psychotherapy (STPP) 
+### Management of more severe depression
+Again, NICE recommend a shared decision should be made.  
+
+Treatment options, listed in order of preference by NICE  
+- a combination of individual cognitive behavioural therapy (CBT) and an antidepressant
+- individual CBT
+- individual behavioural activation (BA)
+- antidepressant medication
+    - selective serotonin reuptake inhibitor (SSRI), or
+    - serotonin-norepinephrine reuptake inhibitor (SNRI), or
+    - another antidepressant if indicated based on previous clinical and treatment history
+- individual problem-solving
+- counselling
+- short-term psychodynamic psychotherapy (STPP)
+- interpersonal psychotherapy (IPT)
+- guided self-help
+- group exercise

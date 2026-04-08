@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papilloedema.md",
+                "file": "depression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "papilloedema"
+              "title": "depression"
             }
           }
         ],
@@ -146,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "papillo",
+                "query": "depression",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "papilloedema.md",
+                "file": "depression.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of papilloedema"
+              "title": "Graph of depression"
             }
           }
         ]
@@ -331,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papilloedema.md",
+                "file": "depression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +341,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for papilloedema"
+              "title": "Backlinks for depression"
             }
           }
         ]
@@ -363,8 +363,9 @@
   },
   "active": "9e9f9c43234ee733",
   "lastOpenFiles": [
-    "attachments/papilloedema 2.png",
+    "hypothyroidism.md",
     "papilloedema.md",
+    "attachments/papilloedema 2.png",
     "attachments/papilloedema.png",
     "forms & benefits.md",
     "fit note.md",
