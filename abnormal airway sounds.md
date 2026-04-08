@@ -10,10 +10,10 @@ aliases:
 ---
 Based on area of obstruction, we get the sound
 
-|        | Upper airway                                                     | Lower Airway                                                             |
-| ------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| Sounds | Nasal flaring<br>Stridor<br>Tracheal tug<br>Stertor (nose block) | Wheezing<br>Grunting<br>Subcostal retractions<br>Intercostal retractions |
-| Causes | [[croup]]<br>[[acute epiglottitis]]<br>anaphylaxis               | [[asthma]]<br>[[bronchiolitis]]<br>[[pneumonia]]                         |
+|        | Upper airway                                                             | Lower Airway                                                             |
+| ------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| Sounds | Nasal flaring<br>Stridor<br>Tracheal tug<br>Stertor (nose block)         | Wheezing<br>Grunting<br>Subcostal retractions<br>Intercostal retractions |
+| Causes | [[croup]]<br>[[acute epiglottitis]]<br>[[als- anaphylaxis\|anaphylaxis]] | [[asthma]]<br>[[bronchiolitis]]<br>[[pneumonia]]                         |
 # Stridor 
 - Due to narrowing in the upper airway. 
 	- E.g. [[Croup]], [[acute epiglottitis]], [[pertussis]]. 

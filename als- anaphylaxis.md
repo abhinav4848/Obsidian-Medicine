@@ -3,6 +3,8 @@ tags:
   - emergency
 urls:
   - "[Resus Anaphylaxis](https://www.resus.org.uk/library/additional-guidance/guidance-anaphylaxis/emergency-treatment)"
+aliases:
+  - anaphylaxis
 ---
 Can give adrenaline 1:1000 1mg/ml in anterolateral aspect of mid-thing. 
 
