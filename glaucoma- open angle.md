@@ -16,7 +16,7 @@ Progressive, painless decrease in visual acuity & peripheral visual field in eld
 - Decreased visual acuity.
 - Optic disc cupping (swelling is [[papilloedema]]). 
 - FHx, [[afro-caribbean|Black people]], Myopia (Myopia causes OAG, [[cataract]], [[retinal detachment]])
-- > 60yo
+- \> 60yo
 # Treatment
 ## 1st line
 360 degree Selective laser trabeculoplasty
