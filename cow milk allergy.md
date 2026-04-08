@@ -31,7 +31,7 @@ Clinical (e.g. improvement with cow's milk protein elimination). Investigations 
 - skin prick/patch testing
 - total IgE and specific IgE (RAST) for cow's milk protein
 # Management
-If the symptoms are severe (e.g. failure to thrive) refer to a paediatrician.  
+If the symptoms are severe (e.g. failure to thrive 🚩) refer to a paediatrician.  
 ### Management if formula-fed  
 - extensive hydrolysed formula (eHF) milk is the first-line replacement formula for infants with mild-moderate symptoms
 - amino acid-based formula (AAF) in infants with severe CMPA or if no response to eHF
@@ -40,3 +40,8 @@ If the symptoms are severe (e.g. failure to thrive) refer to a paediatrician.
 - continue breastfeeding
 - eliminate cow's milk protein from maternal diet. Consider prescribing calcium supplements for breastfeeding mothers whose babies have, or are suspected to have, CMPI, to prevent deficiency whilst they exclude dairy from their diet
 - use eHF milk when breastfeeding stops, until 12 months of age and at least for 6 months
+# Prognosis
+CMPI usually resolves in most children  
+- in children with IgE mediated intolerance around 55% will be milk tolerant by the age of 5 years
+- in children with non-IgE mediated intolerance most children will be milk tolerant by the age of 3 years
+- a challenge is often performed in the hospital setting as anaphylaxis can occur.
