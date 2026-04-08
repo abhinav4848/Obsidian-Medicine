@@ -4,32 +4,28 @@ tags:
 aliases:
   - Open Angle glaucoma
   - Chronic angle glaucoma
+  - OAG
 ---
 Trabecular meshwork functionally offers increased resistance to aqueous flow -> 
-Progressive, painless decrease in visual acuity & peripheral visual field in elderly (> 60yo), myopic (Short sighted).  
+Progressive, painless decrease in visual acuity & peripheral visual field in elderly (> 60yo), myopic (Short sighted). 
 # Clinical Features
 - Painless, gradual [[loss of vision]].
 - Decreased peripheral visual field (nasal scotoma > tunnel vision).
 	- *Also seen in [[retinitis pigmentosa]]* #confusion 
+	- ![[vision- open angle glaucoma.jpg|249]]
 - Decreased visual acuity.
-- Optic disc cupping.
-- FHx, [[afro-caribbean|Black people]], Myopia (Myopia causes OAG, Cataract, Retinal detachment)
+- Optic disc cupping (swelling is [[papilloedema]]). 
+- FHx, [[afro-caribbean|Black people]], Myopia (Myopia causes OAG, [[cataract]], [[retinal detachment]])
 - > 60yo
-
-## When to consider cataract?
-- If there is a h/o Steroid intake (e.g. [[Asthma]], [[COPD]], RA).
-- Glare at night, Dazzling (halos) around lights.
-- Frequent change spectacles.
-- Exposure to significant amounts of ultra violet light.
 # Treatment
 ## 1st line
 360 degree Selective laser trabeculoplasty
 ## 2nd line: 
 PG analogues
 
-| **Medication**              | Eg.         | Mode of action                | Notes                                                                                                             |
-| --------------------------- | ----------- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| **Prostaglandin analogues** | latanoprost | Increases uveoscleral outflow | Once daily administration<br><br>Adverse effects include brown pigmentation of the iris, increased eyelash length |
+| **Medication**              | Eg.         | Mode of action                | Notes                                                                                                                                      |
+| --------------------------- | ----------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Prostaglandin analogues** | latanoprost | Increases uveoscleral outflow | Once daily administration<br><br>Adverse effects include brown pigmentation of the iris, increased eyelash length, periocular pigmentation |
 ## 3rd line:
 
 | **Medication**                    | Eg.                                        | Mode of action                                   | Notes                                                                                       |
@@ -47,3 +43,4 @@ Tropicamide dilates pupil
 Atropine dilates pupil.
 
 *See [[glaucoma- acute angle closure|acute angle glaucoma]]*. 
+

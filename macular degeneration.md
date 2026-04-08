@@ -18,6 +18,8 @@ Visual hallucinations may be seen with [[confusion in ophthalmology|Charles Bonn
 - Drusen (yellow spots) seen on fundoscopy & gradual loss of vision. 
 
 **Wet type:** (10% cases)
-- Choroidal neo-vascularizartion & subacute loss of vision - On fundoscopy, well demarcated red patches may be seen which represent intra-retinal or sub-retinal fluid leakage or haemorrhage -> **Rx**: anti-VEGF
+- Choroidal neo-vascularizartion & subacute loss of vision 
+- On fundoscopy, well demarcated red patches may be seen which represent intra-retinal or sub-retinal fluid leakage or haemorrhage 
+- -> **Rx**: anti-VEGF
 
-![Drusen|300](https://geekymedics.com/wp-content/uploads/2020/05/drusen-1.jpg) 
+![Drusen|300](https://geekymedics.com/wp-content/uploads/2020/05/drusen-1.jpg) ![[vision- macular degeneration.jpg|338]]
