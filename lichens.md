@@ -6,6 +6,7 @@ aliases:
   - Lichen Simplex Chronicus
   - neurodermatitis
   - lichen simplex
+  - Balanitis xerotica obliterans
 ---
 # [[Lichen planus]]
 
@@ -24,7 +25,7 @@ Follow up 3-6 months because 5% risk of SCC vulva seen in old age. #associated
 Emollients to continue
 
 ---
-# Balanitis xerotica obliterans 
+# Balanitis xerotica obliterans
 Male equivalent. Affects foreskin, glans, urethral meatus. 
 Age: Prepubertal boys, Middle aged men
 Also needs potent topical steroids, circumcision. 
