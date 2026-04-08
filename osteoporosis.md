@@ -27,11 +27,15 @@ If no h/o #, use Fracture risk assessment tool. #named
 If h/o # or risk assessment (Q-fracture/[FRAX](https://www.sheffield.ac.uk/FRAX/)) > 10%, use DEXA (to obtain the T-score aka bone density). 
 	If patient on [[bisphosphonates|alendronate]], do DEXA 3-5 years.
 	If stopped taking, do DEXA after 2 years
-## T-Score understand and treatment
+### T-Score understand and treatment
 -1 or higher: Normal
 -1 to -2.5: Osteopenia
 	**Rx**: Lifestyle advice, Vit D, Calcium 1g/d, and DEXA after 2 years.
 =< -2.5 (e.g.: -2.9), then osteoporosis.
+### Z score
+The Z score is adjusted for age, gender and ethnic factors
+< -2.0 = below the expected range for age  
+\> -2.0 = within the expected range for age 
 
 ---
 # Treatment of Osteoporosis %%(is linked)%%

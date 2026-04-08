@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cow milk allergy.md",
+                "file": "osteoporosis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cow milk allergy"
+              "title": "osteoporosis"
             }
           },
           {
@@ -88,16 +88,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "medical records.md",
+                "file": "osteoporosis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "medical records"
+              "title": "osteoporosis"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cow mil",
+                "query": "osteoporosis",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -175,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cow milk allergy.md",
+                "file": "osteoporosis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +204,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cow milk allergy"
+              "title": "Graph of osteoporosis"
             }
           }
         ]
@@ -315,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cow milk allergy.md",
+                "file": "osteoporosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +326,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cow milk allergy"
+              "title": "Backlinks for osteoporosis"
             }
           }
         ]
@@ -345,12 +346,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "484ea43330baee1a",
+  "active": "90b8e4ba88417e11",
   "lastOpenFiles": [
+    "medical records.md",
+    "osteoporosis.md",
+    "cow milk allergy.md",
     "als- anaphylaxis.md",
     "abnormal airway sounds.md",
-    "medical records.md",
-    "cow milk allergy.md",
     "death.md",
     "antiphospholipid syndrome.md",
     "deep vein thrombosis.md",
@@ -375,7 +377,6 @@
     "prevent future errors.md",
     "confidentiality.md",
     "melanoma.md",
-    "placebo effect.md",
     "flow charts/postpartum cocp for contraception.canvas",
     "flow charts/haematuria.canvas",
     "attachments/rocker bottom foot (charcot foot) -4.jpg",

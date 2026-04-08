@@ -9,7 +9,7 @@ urls:
 ---
 *See [[vomiting in paeds]] & [[git problems in paeds]]* 
 
-Cow's milk protein intolerance/allergy (CMPI/CMPA) occurs in around 3-6% of all children and typically presents in the first 3 months of life in formula-fed infants, although rarely it is seen in exclusively breastfed infants. 
+Cow's milk protein intolerance/allergy (CMPI/CMPA) occurs in around 3-6% of all children and typically presents in the first 3 months of life in ==formula-fed infants==, although rarely it is seen in exclusively breastfed infants. 
 # Clinical Features
 - typically develops before 8 weeks
 - vomiting/regurgitation
@@ -21,11 +21,11 @@ Cow's milk protein intolerance/allergy (CMPI/CMPA) occurs in around 3-6% of all 
 - wheeze, chronic cough
 - rarely angioedema & [[als- anaphylaxis|anaphylaxis]] may occur
 
-|       | Non-IgE mediated                                                                                                  | IgE mediated                                                                                                   |
-| ----- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| Onset | Symptoms delayed. Mostly within 2 - 72 hours after ingestion of cow's milk protein.                               | Immediate: symptoms occur mostly within minutes but may be up to 2 hours after ingestion of cow's milk protein |
-|       | - Look out for loose or frequent stools, perianal redness, blood &/or mucus in stools in an otherwise well infant | Acute pruritus, urticaria, angioedema                                                                          |
-| Test  | Serum IgE is normal                                                                                               |                                                                                                                |
+|       | Non-IgE mediated                                                                                   | IgE mediated                                                                                                   |
+| ----- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Onset | Symptoms delayed. Mostly within 2 - 72 hours after ingestion of cow's milk protein.                | Immediate: symptoms occur mostly within minutes but may be up to 2 hours after ingestion of cow's milk protein |
+|       | Loose or frequent stools, perianal redness, blood &/or mucus in stools in an otherwise well infant | Acute pruritus, urticaria, angioedema                                                                          |
+| Test  | Serum IgE is normal                                                                                |                                                                                                                |
 # Diagnosis
 Clinical (e.g. improvement with cow's milk protein elimination). Investigations include:  
 - skin prick/patch testing
