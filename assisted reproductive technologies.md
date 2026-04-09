@@ -1,0 +1,21 @@
+---
+tags:
+  - admin
+---
+Assisted reproductive technologies refer to techniques and procedures performed to achieve pregnancy and the term refers to intrauterine insemination, in vitro fertilisation (IVF), intra-cytoplasmic sperm injection, donor insemination, egg donation, pre-gestational testing and surrogacy.  
+
+# Intrauterine insemination
+**Intrauterine insemination**, also known as artificial insemination, refers to the process of introducing sperm directly into the uterus. It may be used cases of cervical scarring, poor sperm count or poor mobility and where couples have difficulty with penetrative sexual intercourse or those in whom unprotected sexual intercourse may not be recommended e.g. couples in which one party is HIV positive and the other negative.  
+The sperm is collected following masturbation and is then 'washed' and filtered to form a concentrated specimen which can then be introduced at ovulation into the uterus of the child-carrying party. It may be performed using donor sperm if required. This procedure may be performed in the context of stimulated ovulation (using fertility agents) or a natural ovulatory cycle. It is not recommended in patients suffering from unexplained infertility.  
+
+# IVF
+IVF refers to the process of stimulating egg production and then collecting the eggs, to be fertilised with harvested sperm in vitro. In 'traditional' IVF, the egg and sperm are placed in a dish and the sperm must then penetrate the egg to ensure successful fertilisation (as would occur during intra-uterine fertilisation). Another method that may be used is **intra-cytoplasmic sperm injection**, in which the sperm is inserted directly into the egg cytoplasm using a micropipette. This allows for fertilisation in cases were sperm mobility may be severely compromised or where the egg zona pellucida may be difficult to penetrate e.g. when using eggs previously frozen.  
+  
+The fertilised embryo is subsequently reintroduced into the uterus of the child-carrying party. It may be offered to women under the age of 43 years in whom regular unprotected penetrative sexual intercourse for 2 years has not resulted in pregnancy. The chance of success has been shown to decrease markedly with age, with success rates quoted as 2% in women over 44 years. IVF may be performed with donor eggs or sperm as desired.  
+  
+IVF allows for the screening of embryos for specific genetic disorders using **pre-implantation genetic diagnosis**. There are over 600 conditions that can be tested for at present, examples including alpha thalassaemia, certain types of early-onset dementia, certain types of motor neurone disease with an identified genetic cause and Huntington's disease. It may be offered to patients that have terminated a pregnancy previously as a result of a serious genetic disease, those who already have a child with a serious genetic disease and those with a family history of a serious genetic or chromosomal disease.  
+  
+It is a technique which does carry the risk of damage to the embryos tested and it may also be the case that all embryos carry the genetic/chromosomal disorder tested for. Once the testing is completed, the embryos identified as free from the condition of concern may be re-implanted as per usual IVF procedure.  
+
+# Surrogacy
+**Surrogacy** is the process of a third party carrying a foetus for another couple. It may be an appropriate option for couples without a uterus (including same-sex couples), those with uterine abnormalities and in those who have suffered multiple miscarriages/ failed IVF implantations. The Human Fertilisation and Embryology Authority makes a distinction between 'full' surrogacy, in which the party carrying the foetus is not genetically related to the implanted foetus, and 'partial' surrogacy, in which the surrogate's egg is fertilised via IVF and then re-implanted. It can be a highly controversial reproductive technology as, by law, the party giving birth to the child is its legal mother. Patients pursuing this option are strongly advised to seek legal counsel prior to commencing the procedure.
