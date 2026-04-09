@@ -61,21 +61,37 @@ Long term prevention with beta-histine, thiazide, low salt diet.
 
 Confirm diagnosis with MRI of internal auditory meatus & audiogram: low frequency SNHL. 
 ### Presbycusis
-Age related hearing loss, affects sounds at high frequency - Downward-sloping pure tone thresholds. Difficulty differentiating 's' and 'th', and finding women's voices more difficult to hear than men's. Word recognition is relatively preserved, but many eventually develop poor word distinction (particularly in crowded, noisy settings).
+Age related high frequency hearing loss, affects sounds at high frequency 
+- [[audiograms|Audiometry]]: Downward-sloping pure tone thresholds. 
+- *It's a SNHL, so AC will be better than BC in SNHL (& opp is true for Conductive HL).*
+- Tympanometry: _Normal middle ear function with hearing loss (Type A)_
+##### Features: 
+- Difficulty differentiating 's' and 'th', and finding women's voices (high pitch) more difficult to hear than men's. 
+- Word recognition is relatively preserved, but many eventually develop poor word distinction (particularly in crowded, noisy settings). 
+- Difficulty hearing in noisy settings. 
+- Speech becoming difficult to understand
+- Need for increased volume on the television or radio
+- Difficulty using the telephone
+- Loss of directionality of sound
+- **Hyperacusis**: Heightened sensitivity to certain frequencies of sound (Less common)
+- Tinnitus (Uncommon)
 ### Osteoma
 Cold water swimmers. Ear pain. Irregularly shaped, osseous tumours in the ear canal
 
+---
 # Tuning fork test
-Rinne:
+**Rinne**:
 - AC > BC (positive test): Either Normal, or SNHL on that side
 - BC > AC (negative test): Either CHL, or Severe SNHL on that side.
 
-Weber:
+**Weber**:
 - CHL: Lateralize to same side.
 - SNHL: Lateralize to opposite side.
 
-SNHL needs MRI
-Weber: **CSSO**- CHL same side, SNHL opp side. #mnemonic 
+*Weber: **CSSO**- CHL same side, SNHL opp side.* #mnemonic 
+
+⭐ In SNHL, the reason AC > BC is because: *Trouble sending neural signals, from the cochlea to CNVIII to the brain however the ossicles actually amplify the sound waves that's why AC > BC, as if you would have an amplifier in your ear.* 
+⭐ SNHL needs MRI
 
 ---
 See [[hearing aid]]

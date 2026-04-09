@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hypertension.md",
+                "file": "hearing loss.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hypertension"
+              "title": "hearing loss"
             }
           },
           {
@@ -205,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hypertension.md",
+                "file": "hearing loss.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -233,7 +233,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of hypertension"
+              "title": "Graph of hearing loss"
             }
           }
         ]
@@ -345,7 +345,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hypertension.md",
+                "file": "hearing loss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +355,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hypertension"
+              "title": "Backlinks for hearing loss"
             }
           }
         ]
@@ -377,6 +377,8 @@
   },
   "active": "16229404d3e98b51",
   "lastOpenFiles": [
+    "audiograms.md",
+    "hearing loss.md",
     "hypertension.md",
     "hypothyroidism.md",
     "hepatitis viruses.md",
@@ -404,8 +406,6 @@
     "dols.md",
     "attachments/vision- open angle glaucoma.jpg",
     "attachments/vision- retinitis pigmentosa.jpg",
-    "colour & vision changes in body.md",
-    "myocardial infarction.md",
     "attachments/stemi- notice area.jpg",
     "flow charts/prostaglandins and leukotrienes.canvas",
     "attachments/papilloedema 2.png",
