@@ -10,11 +10,16 @@ urls:
 ---
 ![[diabetes articles]]
 
-| Lower-than-expected levels of HbA1c                                                         | Higher-than-expected levels of HbA1c                                                                                                                     |
-| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| *due to reduced red blood cell lifespan*                                                    | *due to increased red blood cell lifespan*                                                                                                               |
-| - Sickle-cell anaemia<br>- GP6D deficiency<br>- Hereditary spherocytosis<br>- Haemodialysis | - Vitamin B12/[[folic acid]] deficiency<br>--> cells live longer as they are premature<br>- Iron-deficiency anaemia<br>- Splenectomy -> cells die later. |
-HbA1c is unreliable for patients with possible suspected diagnosis of T1DM as it may not accurately reflect a recent rapid rise in serum glucose.
+| Lower-than-expected levels of HbA1c                                                                                                  | Higher-than-expected levels of HbA1c                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *due to reduced red blood cell lifespan*                                                                                             | *due to increased red blood cell lifespan*                                                                                                               |
+| - Sickle-cell anaemia<br>- GP6D deficiency<br>- Hereditary spherocytosis<br>- Haemodialysis<br>- thalassemia<br>- haemolytic anaemia | - Vitamin B12/[[folic acid]] deficiency<br>--> cells live longer as they are premature<br>- Iron-deficiency anaemia<br>- Splenectomy -> cells die later. |
+Also don't use HbA1c in:  
+- **Pregnancy**: increased red cell turnover (shorter lifespan), dilutional, increased erythropoiesis (falsely low HbA1c)
+- **Children**: Higher red cell turnover than adults so number would be lower. 
+- **DM1**: HbA1c is unreliable for patients with possible suspected diagnosis of T1DM as it may not accurately reflect a recent rapid rise in serum glucose.
+- **CKD**: shorter RBC lifespan due to uraemia, EPO use, haemolysis. 
+
 See: [NICE HbA1c interpretation](https://cks.nice.org.uk/topics/diabetes-type-2/diagnosis/diagnosis-in-adults/#interpreting-hba1c-results) 
 # Conversion chart
 Old way to measure was %

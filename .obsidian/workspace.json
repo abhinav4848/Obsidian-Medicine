@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vascular ulcers.md",
+                "file": "diabetes mellitus- diagnosis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "vascular ulcers"
+              "title": "diabetes mellitus- diagnosis"
             }
           },
           {
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "vascular ulcers.md",
+                "file": "diabetes mellitus- diagnosis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of vascular ulcers"
+              "title": "Graph of diabetes mellitus- diagnosis"
             }
           }
         ]
@@ -331,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vascular ulcers.md",
+                "file": "diabetes mellitus- diagnosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +341,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for vascular ulcers"
+              "title": "Backlinks for diabetes mellitus- diagnosis"
             }
           }
         ]
@@ -363,6 +363,8 @@
   },
   "active": "fd0c306c1081453a",
   "lastOpenFiles": [
+    "hba1c.md",
+    "vascular ulcers.md",
     "otitis.md",
     "melanoma.md",
     "controlled drugs.md",
@@ -387,8 +389,6 @@
     "circumcision.md",
     "chlamydia.md",
     "lichens.md",
-    "papilloedema.md",
-    "glaucoma- open angle.md",
     "attachments/vision- macular degeneration.jpg",
     "attachments/vision- open angle glaucoma.jpg",
     "attachments/vision- retinitis pigmentosa.jpg",
