@@ -4,11 +4,14 @@ tags:
 aliases:
   - HTN
 ---
-Diagnosis: See [NICE CKS Chart](https://www.nice.org.uk/guidance/ng136/resources/visual-summary-pdf-6899919517) on [this page](https://cks.nice.org.uk/topics/hypertension/diagnosis/diagnosis/). 
+# Diagnosis: 
+See [NICE CKS Chart](https://www.nice.org.uk/guidance/ng136/resources/visual-summary-pdf-6899919517) on [this page](https://cks.nice.org.uk/topics/hypertension/diagnosis/diagnosis/). 
+If stage 2 BP in clinic, ask for ABPM. From there decide treatment based on ABPM. 
+If stage 3: treat
 # Management
 See Canvas: [[hypertension management.canvas|hypertension management]]
 For Pre-eclampsia, see: [[hypertension in pregnancy]] 
-# Accelerated HTN
+## Accelerated HTN
 [NICE HTN Management](https://cks.nice.org.uk/topics/hypertension/management/management/)
 Accelerated (or malignant) hypertension is a severe increase in blood pressure to 180/120 mmHg or higher (and often over 220/120 mmHg) with signs of retinal haemorrhage and/or [[papilloedema]] (swelling of the optic nerve). 
 
@@ -21,7 +24,7 @@ Accelerated (or malignant) hypertension is a severe increase in blood pressure 
 		- signs of heart failure, or
 		- acute kidney injury.
 - Suspected phaeochromocytoma, for example labile or postural hypotension, headache, palpitations, pallor, abdominal pain, or diaphoresis. 
-## End organ damage
+### End organ damage
 We investigate with 
 - CT scan if new onset confusion
 - fundoscopy for papilledema/retinal haemorrhage,

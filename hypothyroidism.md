@@ -35,10 +35,10 @@ The vast majority of cases are primary hypothyroidism with a high TSH and low T4
 [British thyroid association suggestion](https://british-thyroid-association.org/professionals/#btaguidelines) 
 #### If a patient has Subclinical Hypothyroidism 
 (TSH high, T4 normal, TPO negative shows it's not hashimoto) -> Repeat TSH in 3 months.
-#### If TSH raised but below 10miU/L (on 2 tests 3 months apart)
+#### If TSH raised but below 10miU/L (5.5 to 10 on 2 tests 3 months apart)
 - **Asymptomatic**: No Rx needed. Repeat test. 
 - **>=65yo**: No Rx needed. (risk of over-suppression of TSH leading to [[atrial fibrillation]])
-- **Symptomatic** + **<65yo**: Levothyroxine 
+- **Symptomatic** + **<65yo**: Levothyroxine 6 month trial. 
 
 If need to start,
 - The therapeutic goal is TSH normalisation.

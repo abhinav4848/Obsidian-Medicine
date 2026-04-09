@@ -34,11 +34,12 @@ Incubation period: 4 weeks
 Can be due to eating out. **Shellfish** are known reservoirs. #important 
 Hepatitis A transmitted by faecal-oral route
 No increased risk for HCC (Hep B has risk for HCC) 
+Doesn't cause chronic disease. 
 ### Who should be vaccinated? (Based on the Green book guidelines)  
 - people travelling to or going to reside in areas of high or intermediate prevalence, if aged > 1 year old
 - people with chronic liver disease
 - patients with haemophilia
-- men who have sex with men
+- men who have sex with men (transmitted by faecal oral route)
 - injecting drug users
 - individuals at occupational risk: laboratory worker; staff of large residential institutions; sewage workers; people who work with primates
 

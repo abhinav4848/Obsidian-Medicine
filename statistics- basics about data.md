@@ -46,7 +46,7 @@ Example: BP 120 vs 140 → difference **20 mmHg** matters.
 Ranking would throw away that information.
 ## Rank-Sum
 [chatgpt](https://chatgpt.com/share/697feb75-5aec-8012-9b56-8446cce9d893)
-Rank all observations across two groups.
+Rank all observations across two unpaired groups.
 **Process**
 1. Combine values from both groups.
 2. Rank all values from smallest to largest.
@@ -67,13 +67,15 @@ Rank the differences within pairs.
 ---
 # Nominal Data vs Ordinal Data %%linked%%
 
-| Feature      | Meaning                                         |
-| ------------ | ----------------------------------------------- |
-| Quantitative | Can be discrete or continuous                   |
-| Categorical  | aka Qualitative data. Can be nominal or ordinal |
-| Nominal      | Categories with no order                        |
-| Ordinal      | Categories with order                           |
-| Paired       | Same subject measured twice or matched pairs    |
+| Feature        | Meaning                                                                                              |
+| -------------- | ---------------------------------------------------------------------------------------------------- |
+| Quantitative   | Can be discrete or continuous                                                                        |
+| Categorical    | aka Qualitative data. Can be nominal or ordinal                                                      |
+| Nominal        | Categories with no order                                                                             |
+| Ordinal        | Categorical data. Just has an order.                                                                 |
+| Paired         | Same subject measured twice or matched pairs                                                         |
+| Interval scale | Quantitative. Values are ordered, differences are meaningful, but ratios don't exist as no true zero |
+| ratio scale    | Quantitative. Values have order, equal intervals, true zero exists                                   |
 ### Nominal data
 Categorical data with NO natural order (Nominal = _name only_) & no ranking. 
 - e.g. Blood group, eye colour, diagnosis type.
@@ -83,6 +85,8 @@ Special case of nominal data is binary data: yes/no, alive/dead.
 
 ### Ordinal data
 Categorical data with a natural order or ranking. 
+- Data is **ordered**, but the **distance between values isn’t consistent or known**.
+- You can say _greater/less_, but not _how much greater_.
 e.g. 
 - Mild → Moderate → Severe
 - Pain score categories
@@ -104,12 +108,33 @@ Example: Smoking status **before and after** an intervention.
 |B|Smoker|Smoker|
 - **Data type:** Nominal (smoker / non-smoker)
 - **Observation type:** Paired (same person measured twice)
+### Interval scale
+- Values are ordered and **differences are meaningful and equal**.
+- But there’s **no true zero**, so ratios don’t make sense.
+**Examples**: Temperature in °C or °F ; IQ scores
+**Why no true zero?** : 0°C doesn’t mean “no temperature” — it’s arbitrary.
+
+**Key point:**  
+✔ Order + equal intervals  
+❌ Cannot say “twice as much”
+### Ratio scale (full mathematical meaning)
+- Has order + equal intervals + a true zero.
+- You can do all maths, including ratios.
+
+**Examples:** Weight, Height, Age, Income, Temperature in Kelvin
+**Why true zero matters:** 
+0 kg = absence of weight → makes ratios meaningful  
+(80 kg is twice 40 kg) 
+
+**Key point:**  
+✔ Order + equal intervals + true zero 
+✔ Ratios meaningful
 
 ---
 # t-Test vs U-test
 A t-test compares means for normally distributed continuous data, whereas the Mann–Whitney U test compares ranks when data are non-normal or ordinal. 
 - t-test: compares averages using actual values
-- U-test: compares relative positions using ranks
+- U-test: compares relative positions using ranks (U = Unpaired) 
 
 | Situation                                | Parametric Test               | Non-Parametric Equivalent                  | Notes                                                       |
 | ---------------------------------------- | ----------------------------- | ------------------------------------------ | ----------------------------------------------------------- |
