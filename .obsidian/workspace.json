@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assisted reproductive technologies.md",
+                "file": "vascular ulcers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "assisted reproductive technologies"
+              "title": "vascular ulcers"
             }
           },
           {
@@ -146,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hypertension",
+                "query": "otitis med",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "assisted reproductive technologies.md",
+                "file": "vascular ulcers.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of assisted reproductive technologies"
+              "title": "Graph of vascular ulcers"
             }
           }
         ]
@@ -331,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assisted reproductive technologies.md",
+                "file": "vascular ulcers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +341,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for assisted reproductive technologies"
+              "title": "Backlinks for vascular ulcers"
             }
           }
         ]
@@ -363,8 +363,11 @@
   },
   "active": "fd0c306c1081453a",
   "lastOpenFiles": [
-    "macular degeneration.md",
+    "otitis.md",
+    "melanoma.md",
+    "controlled drugs.md",
     "assisted reproductive technologies.md",
+    "macular degeneration.md",
     "hearing loss.md",
     "audiograms.md",
     "hypertension.md",
@@ -386,9 +389,6 @@
     "lichens.md",
     "papilloedema.md",
     "glaucoma- open angle.md",
-    "tricyclic antidepressants.md",
-    "cataract.md",
-    "retinitis pigmentosa.md",
     "attachments/vision- macular degeneration.jpg",
     "attachments/vision- open angle glaucoma.jpg",
     "attachments/vision- retinitis pigmentosa.jpg",
