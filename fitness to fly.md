@@ -3,7 +3,7 @@ tags:
   - admin
 ---
 The Civil Aviation Authority (CAA) has issued guidelines on air travel for people with medical conditions
-*See also [[dvla|fitness to drive]]*
+*See also [[dvla|fitness to drive]] & [[surgery- recovery times]]*
 
 ---
 ## Cardiovascular Disease 

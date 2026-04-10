@@ -11,18 +11,25 @@ urls:
 Observational & Prospective. 
 - Longitudinal studies (i.e. repeated observations of the same variables in a large cohort over long periods of time) provide rich information and temporal data (data that is associated with time) on risk of developing an outcome of interest from any number of measured exposures. These studies are useful to assess the effect of genetic variants, rare exposures (i.e. radiation) or exposures that take a long time to produce disease (i.e. asbestos). 
 - Cohort studies are also expensive to conduct and are reliant on the right exposures being measured and ability to follow-up a large proportion of the cohort.
-Relative risk calculated in Cohort [[statistics- study types|study]]. 
+Relative risk calculated in Cohort study. 
 e.g. Farmingham Heart study
 # Case Control
 Observational and retrospective. 
-Patients with a particular condition (cases) are identified and matched with controls. Data is then collected on past exposure to a possible causal agent for the condition.
-Odd's ratio is calculated in case control study
+Patients with a particular condition (cases) are identified and matched with controls. Data is then collected on past exposure to a possible causal agent for the condition. Best to investigate an infectious outbreak. 
+[[statistics- risk reduction, nnt, odds ratio|odd's ratio]] is calculated in case control study. 
+
+If OR > 1, then association between exposure & disease can be established. 
 # RCT
 [[statistics- risk reduction, nnt, odds ratio|EER, CER]] is calculated in randomised control trial
 # Cross sectional
 aka Prevalence study. 
+Begins with risk factor/exposure status and compare disease prevalence to provide a snapshot. They are helpful in determining prevalence rather than investigating outbreaks or etiologies.
+# Correlational study
+A correlational study is a type of research design where a researcher seeks to understand what kind of relationships naturally occurring variables have with one another.
+## Longitudinal study
+A longitudinal study is a type of observational correlational study in which repeat measurements of the same variables are taken over a prolonged period.
 # Meta-analysis vs Systematic Review
-The systematic review of randomised controlled trials. This is the highest level of evidence.
+Meta analysis: The systematic review of randomised controlled trials. This is the highest level of evidence.
 
 | Feature              | Systematic Review                                             | Meta-analysis                                              |
 | -------------------- | ------------------------------------------------------------- | ---------------------------------------------------------- |

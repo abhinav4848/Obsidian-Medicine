@@ -19,6 +19,8 @@ You will often find both versions of the above listed in different sources. In s
 \*this may be more accurately termed absolute benefit increase, rather than absolute risk reduction
 
 # Odd's ratio
+Compares odds of an outcome in exposed individuals to odds of an outcome in unexposed individuals. 
+
 |               | Event/outcome | No Event/outcome |
 | ------------- | ------------- | ---------------- |
 | Treatment (E) | a             | b                |
@@ -31,6 +33,9 @@ Odds of an event in treatment group: `EER/1-EER` = `a/b`
 Odds of an event in control group: `CER/1-CER` 
 so, ratio= odds in treatment/odds in control = `a.d/c.b` 
 
+# Risk Ratio
+Risk Ratio aka Relative risk. 
+Compares the risk of an outcome in exposed individuals to the risk of that same outcome in unexposed individuals.
 # Formulae
 
 $$
@@ -66,3 +71,12 @@ $$
 \text{RR} &= \frac{0.1}{0.2} = 0.05 
 \end{aligned}
 $$
+# Population attributable risk
+The **population attributable risk** can be described as the reduction in incidence that would be observed if the population were entirely unexposed. For instance how would the incidence of lung cancer change if everyone stopped smoking? It can be calculated by multiplying the attributable risk by the prevalence of exposure in the population. 
+
+By quantifying how much disease could be prevented by eliminating exposure, Population Attributable Risk provides an estimate for the potential impact on public health if effective control measures were implemented against specific risks.
+# Attributable proportion 
+The **attributable proportion** is the proportion of the disease that would be eliminated in a population if its disease rate were reduced to that of the unexposed group.
+
+# Attributable Risk (AR)
+Sometimes called Risk Difference, measures how much of the disease incidence can be attributed directly to exposure. It's calculated exactly as described - by subtracting the disease rate among non-exposed from that among exposed.
