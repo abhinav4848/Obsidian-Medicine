@@ -16,13 +16,48 @@ tags:
 | Hypokalemia                            | [[hypokalemia]] won't correct till Mg is normal. Magnesium inhibits the ROMK channel in the tubule (I think DCT). Lack of inhibition of this channel causes massive potassium losses in the urine in hypomagnesaemia. So in [[hypokalemia]], check magnesium levels. |
 | Constipation & Antacid                 | Mg(OH)2 acts as laxative. Also used as antacid (see [[dyspepsia]]).                                                                                                                                                                                                  |
 
-
 ---
-# Magnesium Overdose
+# Hypermagnesemia
+### Magnesium Overdose
 If MgSO4 overdose: loss of DTR, N, V, Confusion. 
 Stop MgSO4. 
 Request its levels. 
 Calcium gluconate is antidote for MgSO4. 
-
-# Renal failure
+### Renal failure
 Caution for [[magnesium]] in severe renal failure due to risk of hypermagnesemia 
+
+# Hypomagnesemia
+Hypomagnesaemia can present with similar symptoms to [[hypocalcemia|hypocalcaemia]]
+
+Cause of low magnesium 
+- drugs: diuretics, PPIs
+- total parenteral nutrition
+- diarrhoea: may occur with acute or chronic diarrhoea
+- alcohol
+- hypokalaemia
+- hypercalcaemia
+    - e.g. secondary to hyperparathyroidism
+    - calcium and magnesium functionally compete for transport in the thick ascending limb of the loop of Henle
+- metabolic disorders: Gitleman's and [[bartter's syndrome]]
+
+Features may be similar to hypocalcaemia:  
+- paraesthesia
+- tetany
+- seizures
+- arrhythmias
+- decreased PTH secretion → hypocalcaemia
+- ECG features similar to those of hypokalaemia
+- exacerbates digoxin toxicity
+##### Treatment
+
+  
+<0.4 mmol/L or tetany, arrhythmias, or seizures  
+
+- intravenous magnesium replacement is commonly given.
+- an example regime would be 40 mmol of magnesium sulphate over 24 hours
+
+  
+>0.4 mmol/l  
+
+- oral magnesium salts (10-20 mmol orally per day in divided doses)
+- diarrhoea can occur with oral magnesium salts

@@ -3,7 +3,7 @@ tags:
   - endocrine
 ---
 Usually autosomal recessive.
-Severe hypokalemia.
+Severe hypokalemia & [[magnesium|Hypomagnesemia]]
 Due to defective chloride absorption at the Na+ K+ 2CI- cotransporter (NKCC2) in the ascending loop of Henle.
 
 Associated with **normotension**.
