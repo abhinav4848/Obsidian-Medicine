@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hba1c.md",
+                "file": "fitness to fly.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hba1c"
+              "title": "fitness to fly"
             }
           },
           {
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hba1c.md",
+                "file": "fitness to fly.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of hba1c"
+              "title": "Graph of fitness to fly"
             }
           }
         ]
@@ -331,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hba1c.md",
+                "file": "fitness to fly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +341,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hba1c"
+              "title": "Backlinks for fitness to fly"
             }
           }
         ]
@@ -363,8 +363,8 @@
   },
   "active": "fd0c306c1081453a",
   "lastOpenFiles": [
-    "diabetes mellitus- diagnosis.md",
     "hba1c.md",
+    "diabetes mellitus- diagnosis.md",
     "vascular ulcers.md",
     "otitis.md",
     "melanoma.md",
