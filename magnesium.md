@@ -27,37 +27,32 @@ Calcium gluconate is antidote for MgSO4.
 Caution for [[magnesium]] in severe renal failure due to risk of hypermagnesemia 
 
 # Hypomagnesemia
-Hypomagnesaemia can present with similar symptoms to [[hypocalcemia|hypocalcaemia]]
-
-Cause of low magnesium 
-- drugs: diuretics, PPIs
+Hypomagnesaemia can present with similar symptoms to [[hypocalcemia|hypocalcaemia]] 
+### Cause of low magnesium 
+- **drugs**: diuretics, PPIs
 - total parenteral nutrition
 - diarrhoea: may occur with acute or chronic diarrhoea
 - alcohol
 - hypokalaemia
 - hypercalcaemia
     - e.g. secondary to hyperparathyroidism
-    - calcium and magnesium functionally compete for transport in the thick ascending limb of the loop of Henle
+    - hypercalcemia reduces NKCC2 activity, so less reabsorption of Mg & Ca. Renal wasting of both. So hypercalcemia can cause secondary hypocalcemia. 
 - metabolic disorders: Gitleman's and [[bartter's syndrome]]
-
-Features may be similar to hypocalcaemia:  
-- paraesthesia
-- tetany
-- seizures
-- arrhythmias
+### Hypomagnesemia features may be similar to [[hypocalcemia|hypocalcaemia]]
+because hypomagnesaemia will produce same neuromuscular excitability seen in hypocalcaemia. 
+- paraesthesia 
+- tetany 
+- seizures 
+- arrhythmias 
 - decreased PTH secretion → hypocalcaemia
-- ECG features similar to those of hypokalaemia
-- exacerbates digoxin toxicity
-##### Treatment
-
-  
-<0.4 mmol/L or tetany, arrhythmias, or seizures  
-
+- ECG features similar to those of [[hypokalemia|hypokalaemia]] 
+- exacerbates [[digoxin]] toxicity
+- Positive Chvostek’s & Trousseau’s sign
+## Treatment
+< 0.4 mmol/L or tetany, arrhythmias, or seizures  
 - intravenous magnesium replacement is commonly given.
 - an example regime would be 40 mmol of magnesium sulphate over 24 hours
-
   
->0.4 mmol/l  
-
+\> 0.4 mmol/l  
 - oral magnesium salts (10-20 mmol orally per day in divided doses)
 - diarrhoea can occur with oral magnesium salts

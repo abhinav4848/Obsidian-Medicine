@@ -21,7 +21,7 @@ cssclasses:
 # Clinical Features
 Fainting, Tiredness, Weakness, Leg Cramps. 
 **ECG**: [[qt prolongation|long QT syndrome]], Depressed ST segment & T wave, U wave on ECG.
-Predisposes to [[Digoxin]] toxicity.
+Predisposes to [[Digoxin]] toxicity. 
 
 | ECG changes in Hypokalemia | Hypo vs [[hyperkalemia\|Hyperkalaemia]] |
 | -------------------------- | --------------------------------------- |
@@ -30,7 +30,7 @@ Predisposes to [[Digoxin]] toxicity.
 The normal serum potassium is 3.5-5 mmol/I.
 
 If K+ is < 2.5 Or, < 3 with ECG Changes "U wave"
-	-> IV potassium chloride. (e.g. 40 mmol KCI in 1 L Normal Saline IV infusion)
+	-> i.v. potassium chloride. (e.g. 40 mmol KCI in 1 L Normal Saline IV infusion)
 
 If K+ >= 2.5, without ECG changes
 	-> Oral Potassium Supplements.

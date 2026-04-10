@@ -7,7 +7,7 @@ Digoxin level is not monitored routinely except in suspected toxicity.
 Toxicity can occur even within therapeutic range.
 # Toxicity
 ### Causes
-**Drugs**: Amiodarone, quinidine, verapamil, diltiazem, [[spironolactone]] (competes for secretion in distal convoluted tubule therefore reduce excretion), ciclosporin.
+**Drugs**: Amiodarone, quinidine, verapamil, diltiazem, [[spironolactone]] (competes for secretion in distal convoluted tubule therefore reduce excretion), ciclosporin, [[magnesium|Hypomagnesemia]] 
 
 Drugs which cause [[hypokalemia]] e.g. thiazides and loop diuretics
 - Digoxin normally binds to the Na+/K+ ATPase pump on the same site as potassium. Hypokalaemia → digoxin more easily bind to the ATPase pump → increased effects
