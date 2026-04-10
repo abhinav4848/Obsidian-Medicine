@@ -15,4 +15,7 @@ The Department for Works and Pensions has produced evidence-based recovery times
 | Appendicectomy              | 1 - 2 weeks                                  | 2 - 3 weeks              |
 | Cholecystectomy             | 2 - 3 weeks                                  | 3 - 5 weeks              |
 | Hysterectomy                | 3 weeks  <br>(laparoscopic-assisted vaginal) | 7 weeks  <br>(abdominal) |
-See this PDF by pass-medicine: [[evidencebasedrecoverytimes.pdf]]
+See this PDF by pass-medicine: [[evidencebasedrecoverytimes.pdf]] 
+
+---
+See ![[fitness to fly#Surgery]]

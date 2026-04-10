@@ -8,24 +8,24 @@ The Civil Aviation Authority (CAA) has issued guidelines on air travel for peopl
 ---
 ## Cardiovascular Disease 
 
-| Condition                                                                                                                                 | Recommendation for Air Travel                 |                                 |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | ------------------------------- |
-| Unstable angina / uncontrolled hypertension / uncontrolled arrhythmia / decompensated heart failure / severe symptomatic valvular disease | **Should NOT fly**                            |                                 |
-| Uncomplicated MI                                                                                                                          | May fly after 7–10 days                       |                                 |
-| Complicated MI                                                                                                                            | May fly after 4–6 weeks                       |                                 |
-| Coronary artery bypass graft (CABG)                                                                                                       | May fly after 10–14 days<br>                  | 4 weeks off driving             |
-| Percutaneous coronary intervention (PCI)                                                                                                  | May fly after 3 days                          |                                 |
-| Stroke                                                                                                                                    | Wait 10 days (may fly after 3 days if stable) | 1 month off. No DVLA if no FND. |
+| Condition                                                                                                                                 | Recommendation for Air Travel                 |                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | -------------------------------------- |
+| Unstable angina / uncontrolled hypertension / uncontrolled arrhythmia / decompensated heart failure / severe symptomatic valvular disease | **Should NOT fly**                            |                                        |
+| Uncomplicated MI                                                                                                                          | May fly after 7–10 days                       |                                        |
+| Complicated MI                                                                                                                            | May fly after 4–6 weeks                       |                                        |
+| Coronary artery bypass graft (CABG)                                                                                                       | May fly after 10–14 days<br>                  | 4 weeks off driving                    |
+| Percutaneous coronary intervention (PCI)                                                                                                  | May fly after 3 days                          |                                        |
+| Stroke                                                                                                                                    | Wait 10 days (may fly after 3 days if stable) | 1 month off. No DVLA inform if no FND. |
 
 ---
 ## Respiratory Disease 
 
-| Condition                                | Recommendation for Air Travel                          |
-| ---------------------------------------- | ------------------------------------------------------ |
-| Pneumonia                                | Must be clinically improved with no residual infection |
-| Pneumothorax                             | **Should NOT fly** until resolved                      |
-| Post-pneumothorax (after drainage)       | May fly after 2 weeks if no residual air               |
-| Post-pneumothorax (BTS updated guidance) | May fly 1 week after normal check X-ray                |
+| Condition                                | Recommendation for Air Travel                           |
+| ---------------------------------------- | ------------------------------------------------------- |
+| Pneumonia                                | Must be clinically improved with no residual infection  |
+| Pneumothorax                             | **Should NOT fly** until resolved                       |
+| Post-pneumothorax (after drainage)       | May fly after 2 weeks if no residual air                |
+| Post-pneumothorax (BTS updated guidance) | May fly 1 week after normal check X-ray                 |
 
 ---
 ## Pregnancy 
