@@ -53,7 +53,8 @@ The probability of type 1 error happening is chosen during study design itself, 
 
 ### Standard error
 Statistics is based on the idea of taking a sample from a population. If you were to take many samples from a population and calculate a mean for each sample, these samples would be arranged into a distribution around the true population mean. The standard deviation of this distribution is called the standard error. The standard error is used in the calculation of a confidence interval. 
-### Systematic error
+`= standard deviation / square root of sample size`
+### Systematic error 
 Systematic error, also known as [[statistics- biases|bias]], involves a systematic deviation from the truth. There are many possible sources of bias within an RCT e.g. one comparing remdesivir and placebo, including selection bias, performance bias, detection bias, attrition bias, and reporting bias.
 
 ---

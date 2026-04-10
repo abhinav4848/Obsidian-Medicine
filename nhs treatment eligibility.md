@@ -19,5 +19,5 @@ arose during their visit to the UK and:
 - person is a national, or a resident of certain non-EEA countries, with which the UK has a reciprocal agreement.
 
   
-\*previously only testing for HIV was free of charge, but following an amendment to the NHS (Charges to Overseas Visitors) Regulations in 2012 HIV treatment will no longer chargeable  
+\*previously only testing for HIV was free of charge, but following an amendment to the NHS (Charges to Overseas Visitors) Regulations in 2012 HIV treatment will no longer be chargeable  
 \*\*European Union countries plus Liechtenstein, Iceland and Norway
