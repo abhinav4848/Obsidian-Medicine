@@ -61,7 +61,7 @@ See [[obstructive sleep apnoea|Obstructive sleep apnoea]]
 - pacemaker insertion - 1 week off driving 
 - implantable cardioverter-defibrillator (ICD)
     - if implanted for sustained ventricular arrhythmia: cease driving for 6 months
-    - if implanted prophylactically then cease driving for 1 month. Having an ICD results in a permanent bar for Group 2 drivers
+    - if implanted prophylactically then no driving for 1 month. Having an ICD results in a permanent bar for Group 2 drivers
 - successful catheter ablation for an arrhythmia- 2 days off driving
 - aortic aneurysm of 6cm or more - notify DVLA. Licensing will be permitted subject to annual review.
     - an aortic diameter of 6.5 cm or more disqualifies patients from driving
