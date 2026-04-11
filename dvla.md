@@ -66,3 +66,30 @@ See [[obstructive sleep apnoea|Obstructive sleep apnoea]]
 - aortic aneurysm of 6cm or more - notify DVLA. Licensing will be permitted subject to annual review.
     - an aortic diameter of 6.5 cm or more disqualifies patients from driving
 - heart transplant: do not drive for 6 weeks, no need to notify **DVLA**
+
+# Psychiatric Disorders
+The below rules apply to group 1 vehicles (car and motorcycle), the group 2 (bus and lorry) rules are stricter. 
+### Specific rules
+-  
+- : 
+- Schizophrenia
+    - must not drive during acute illness and must notify the DVLA
+    - licensing may be considered if all of these conditions are met:
+    - → remained well and stable for at least 3 months
+    - → adheres adequately to any agreed treatment plan
+    - → free from any medication effects that would impair driving
+    - → subject to a suitable specialist report being favourable
+- : 
+- : 
+- : may be able to drive but **must inform** the DVLA
+- : may be able to drive but **must inform** the DVLA
+- : must **not** drive and must notify the DVLA
+- : may be able to drive but **must inform** the DVLA
+
+
+|                                                                                                                                                                                                     |                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Severe anxiety or depression with any of the following: significant memory problems, significant concentration problems, agitation, behavioural disturbance or suicidal thoughts, Severe disability | must **not** drive and must notify the DVLA                      |
+| Acute psychotic disorder, Hypomania or mania                                                                                                                                                        | must **not** drive during acute illness and must notify the DVLA |
+| Pervasive developmental disorders and ADHD, Dementia, Mild learning disability, Personality disorders                                                                                               | may be able to drive but **must inform** the DVLA                |
+| Mild cognitive impairment                                                                                                                                                                           | may drive and need not inform the DVLA                           |

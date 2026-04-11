@@ -9,7 +9,7 @@ Used in [[UTI]].
 
 Avoid in patients with [[ckd classification & monitoring|eGFR]] <45. 
 Can give amoxicillin & ciprofloxacin but at reduced dose. 
-# Side effect of toxicity 
+# Side effect
 - (free radical generation): Peripheral neuropathy, Hepatotoxicity, Pulmonary fibrosis. 
 - Discolours urine but that's harmless.
 - ([[trimethoprim]] raises Creatinine but doesn't affect kidney function)

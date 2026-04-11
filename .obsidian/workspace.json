@@ -13,137 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "osteoporosis.md",
+                "file": "dvla.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "osteoporosis"
-            }
-          },
-          {
-            "id": "9a37fd4fe783eacd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rhinosinusitis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "rhinosinusitis"
-            }
-          },
-          {
-            "id": "90b8e4ba88417e11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lichens.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "lichens"
-            }
-          },
-          {
-            "id": "16229404d3e98b51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hearing loss.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "hearing loss"
-            }
-          },
-          {
-            "id": "3d19bf6029159278",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ace inhibitors.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "ace inhibitors"
-            }
-          },
-          {
-            "id": "724be78218a9af76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "magnesium.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "magnesium"
-            }
-          },
-          {
-            "id": "a5f7a45193679b2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "placebo effect.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "placebo effect"
-            }
-          },
-          {
-            "id": "27ee3b219ddc7d71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "anticipatory meds in palliative care.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "anticipatory meds in palliative care"
-            }
-          },
-          {
-            "id": "e932155ba2f8e851",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "opioid misuse.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "opioid misuse"
+              "title": "dvla"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " methadone",
+                "query": "dvla",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -207,7 +86,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -220,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "opioid misuse.md",
+                "file": "dvla.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,7 +128,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of opioid misuse"
+              "title": "Graph of dvla"
             }
           }
         ]
@@ -360,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "opioid misuse.md",
+                "file": "dvla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -370,7 +250,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for opioid misuse"
+              "title": "Backlinks for dvla"
             }
           }
         ]
@@ -390,34 +270,34 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e932155ba2f8e851",
+  "active": "484ea43330baee1a",
   "lastOpenFiles": [
+    "nitrofurantoin.md",
+    "p450.md",
+    "colchicine.md",
+    "macrolides.md",
+    "qt prolongation.md",
+    "ondansetron.md",
+    "osteoporosis.md",
+    "rhinosinusitis.md",
+    "lichens.md",
+    "hearing loss.md",
+    "ace inhibitors.md",
+    "magnesium.md",
+    "placebo effect.md",
     "anticipatory meds in palliative care.md",
     "opioid misuse.md",
     "statistics- significance tests.md",
     "statistics- basics about data.md",
     "statistics- risk reduction, nnt, odds ratio.md",
     "foster care.md",
-    "placebo effect.md",
     "controlled drugs.md",
     "ciclosporin.md",
-    "magnesium.md",
     "hypocalcemia.md",
     "hypercalcemia.md",
     "cancer- lymphoma.md",
     "lymphoma.md",
     "diabetes insipidus.md",
-    "statistics- study types.md",
-    "Road to UK citizenship.md",
-    "hypokalemia.md",
-    "bartter's syndrome.md",
-    "digoxin.md",
-    "statistics- errors, confidence intervals.md",
-    "nhs treatment eligibility.md",
-    "statistics- validity.md",
-    "statistics- confidence interval & standard error of mean.md",
-    "statistics- biases.md",
-    "statistics- forest plot graph.md",
     "attachments/vision- macular degeneration.jpg",
     "attachments/vision- open angle glaucoma.jpg",
     "attachments/vision- retinitis pigmentosa.jpg",

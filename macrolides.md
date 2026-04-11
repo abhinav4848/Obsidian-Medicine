@@ -15,7 +15,9 @@ Clarithromycin- more active form of erythromycin. Used for [[h. pylori]] treatme
 # side effects 
 [[p450|Enzyme inhibitor. ]]
 Macrolides interact with [[statins]]. 
-Can cause [[qt prolongation|long QT syndrome]]
+Can cause [[qt prolongation|long QT syndrome]]. 
+Cholestatic jaundice: risk may be reduced if erythromycin stearate is used. 
+Azithromycin is associated with hearing loss & tinnitus. 
 
 ---
 See [[fluroquinolone|Quinolones]] 
