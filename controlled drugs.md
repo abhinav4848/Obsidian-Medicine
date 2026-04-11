@@ -10,7 +10,11 @@ aliases:
 When prescribing a controlled drug the following must be present on the prescription:  
 - name, dob, and address of the patient
 - the form, and where appropriate the strength, of the preparation
-- Either the total quantity (in both words and figures) of the preparation, or the number (in both words and figures) of dosage units to be supplied;
+- words + figures for how much is to be supplied. 
+	- Total quantity of the preparation (in words + figures), **or**
+		- *Diamorphine 30 mg ampoules. Supply 6 (six) ampoules. 60 mg daily by subcutaneous infusion over 24 hours.*
+	- Number of dosage units (in words + figures) supplied 
+		- *Diamorphine 30 mg ampoules. Supply 180 mg (one hundred and eighty milligrams). 60 mg daily by subcutaneous infusion over 24 hours.*
 - the dose (cannot write 'as directed')
 - prescribers name, signature, address and current date
 

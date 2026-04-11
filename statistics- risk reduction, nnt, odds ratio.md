@@ -85,3 +85,7 @@ The **attributable proportion** is the proportion of the disease that would be
 
 # Attributable Risk (AR)
 Sometimes called Risk Difference, measures how much of the disease incidence can be attributed directly to exposure. It's calculated exactly as described - by subtracting the disease rate among non-exposed from that among exposed.
+
+# Hazard Ratio
+Similar to relative risk. It's used when risk is not constant to time. Typically used when analysing survival over time. 
+It quantifies the relative risk of death over time between treatment groups in a time-to-event analysis, making it highly relevant to a cancer trial. 
