@@ -29,7 +29,7 @@ Caution for [[magnesium]] in severe renal failure due to risk of hypermagnesemia
 # Hypomagnesemia
 Hypomagnesaemia can present with similar symptoms to [[hypocalcemia|hypocalcaemia]] 
 ### Cause of low magnesium 
-- **drugs**: diuretics, PPIs
+- **Drugs**: diuretics, PPIs
 - total parenteral nutrition
 - diarrhoea: may occur with acute or chronic diarrhoea
 - alcohol
@@ -38,16 +38,18 @@ Hypomagnesaemia can present with similar symptoms to [[hypocalcemia|hypocalcaemi
     - e.g. secondary to hyperparathyroidism
     - hypercalcemia reduces NKCC2 activity, so less reabsorption of Mg & Ca. Renal wasting of both. So hypercalcemia can cause secondary hypocalcemia. 
 - metabolic disorders: Gitleman's and [[bartter's syndrome]]
-### Hypomagnesemia features may be similar to [[hypocalcemia|hypocalcaemia]]
+### Hypomagnesemia features 
+#### May be similar to [[hypocalcemia|hypocalcaemia]]
 because hypomagnesaemia will produce same neuromuscular excitability seen in hypocalcaemia. 
 - paraesthesia 
 - tetany 
 - seizures 
 - arrhythmias 
 - decreased PTH secretion → hypocalcaemia
-- ECG features similar to those of [[hypokalemia|hypokalaemia]] 
-- exacerbates [[digoxin]] toxicity
 - Positive Chvostek’s & Trousseau’s sign
+#### Leads to [[hypokalemia|hypokalaemia]] 
+- ECG features
+- exacerbates [[digoxin]] toxicity
 ## Treatment
 < 0.4 mmol/L or tetany, arrhythmias, or seizures  
 - intravenous magnesium replacement is commonly given.

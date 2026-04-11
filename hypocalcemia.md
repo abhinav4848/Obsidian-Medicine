@@ -29,8 +29,7 @@ SPASMODIC: #mnemonic
 - Chvostek's sign #named, [[cardiomyopathy]] ([[qt prolongation|QT prolongation]]), 
 - Trousseau's sign of latent tetany (not the [[cancer- pancreas|pancreatic cancer]] one) #named 
 
-**Chvostek**: twitch of facial muscles when tap over parotid
-**Trousseau**: wrist flexion when brachial artery occluded.
-
+**Chvostek**: twitch of facial muscles when tap over parotid. 
+**Trousseau**: wrist flexion when brachial artery occluded. 
 # Treatment
 10 ml of 10% Ca gluconate initially.

@@ -21,12 +21,12 @@ First sign is drowsiness & increased thirst -> **Excessive thirst** presents wit
 
 **Mnemonic**: Bones, Stones, Groans, Moans #mnemonic - ONLY IN CHRONIC Hypercalcemia cuz these need time to develop. 
 
-| **Condition**             | Description                                                                                                                      |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| **Painful Bones**     | Painful bone condition (Classically osteitis fibrosa cystica). Seen only in primary Hypercalcemia. i.e. [[hyperparathyroidism]]. |
-| **Renal Stones**      | Kidney Stones (Can ultimately lead to Renal failure), Polyuria, polydipsia. (Hypercalcemia induces [[nephrogenic DI]])           |
-| **Abdominal Groans**  | GI symptoms due to reduced bowel movements from Calcium: Nausea, Vomiting, Constipation, Indigestion                             |
-| **Psychiatric Moans** | Effects on nervous system: lethargy, fatigue, memory loss, psychosis, depression (low mood), confusion                           |
+| **Condition**         | Description                                                                                                                                |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Painful Bones**     | Painful bone condition (Classically osteitis fibrosa cystica). Seen only in primary Hypercalcemia. i.e. [[hyperparathyroidism]].           |
+| **Renal Stones**      | Kidney Stones (Can ultimately lead to Renal failure), Polyuria, polydipsia. (Hypercalcemia induces [[diabetes insipidus\|nephrogenic DI]]) |
+| **Abdominal Groans**  | GI symptoms due to reduced bowel movements from Calcium: Nausea, Vomiting, Constipation, Indigestion                                       |
+| **Psychiatric Moans** | Effects on nervous system: lethargy, fatigue, memory loss, psychosis, depression (low mood), confusion                                     |
 **CVS**: Short QT Interval.
 
 # Investigation:
@@ -36,14 +36,14 @@ First sign is drowsiness & increased thirst -> **Excessive thirst** presents wit
 2. Then check ALP
 	1. If high -> suspect bone metastasis.
 	2. So, in lung cancer + high ALP (& high Ca2+) -> Bone metastasis
+# Lab results for different conditions
+High corrected Calcium (increased Ca++) along with: 
 
-# High corrected Calcium (increased Ca++) 
-
-|                                    |                                                 |
-| ---------------------------------- | ----------------------------------------------- |
-| Inc. Ca + Inc. ALP                 | Bone Metastasis, Thyrotoxicosis or Sarcoidosis. |
-| Inc. Ca + Inc. Albumin + Inc. Urea | Dehydration                                     |
-| B-cell lymphoma                    | B-cell lymphoma                                 |
+| Labs                                  | Condition                                       |
+| ------------------------------------- | ----------------------------------------------- |
+| Inc. Ca + Inc. ALP                    | Bone Metastasis, Thyrotoxicosis or Sarcoidosis. |
+| Inc. Ca + Inc. Albumin + Inc. Urea    | Dehydration                                     |
+| B-cell [[cancer- lymphoma\|Lymphoma]] | B-cell lymphoma                                 |
 # Treatment
 Give iv NS first to excrete Calcium.
 	HTN can occur due to hypercalcemia. This does not c/i iv fluid as initial management.

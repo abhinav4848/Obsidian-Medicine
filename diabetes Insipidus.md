@@ -2,6 +2,8 @@
 tags:
   - endocrine
   - osmolality
+aliases:
+  - nephrogenic DI
 ---
 ![[diabetes articles]]
 
@@ -14,7 +16,7 @@ Dilute urine = Low Osmolality Urine.
 
 | Cranial                                                                        | Nephrogenic                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Low ADH Production. <br>                                                       | Kidney resistant to ADH. (e.g. [[Lithium]], Hypercalcemia, [[Hypokalemia]])<br>                                                                                                                   |
+| Low ADH Production. <br>                                                       | Kidney resistant to ADH. (e.g. [[Lithium]], [[hypercalcemia]], [[Hypokalemia]])<br>                                                                                                               |
 | Responds to Desmopressin (e.g. [[Sarcoidosis]] -> involvement of hypothalamus) | **Hypokalemia**<br>- Na⁺/2Cl⁻/K⁺ co-transporter pump (aka NKCC) actively moves all into the cell membrane.<br>- Low K⁺ can cause NKCC to fail, so Na⁺ not reabsorbed -> Urine Na loss & polyuria. |
 # Clinical Features
 - Polyuria, extreme thirst & polydipsia, dehydration
