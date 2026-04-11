@@ -3,10 +3,9 @@ tags:
   - pharmacology
   - dermat
 urls:
-  - https://en.wikipedia.org/wiki/Surfactant
+  - "[Surfactant - Wikipedia](https://en.wikipedia.org/wiki/Surfactant)"
 ---
 **Surfactants** reduce surface tension → help things spread, wet, emulsify, or disrupt membranes.
-
 They're classified by the charge on the head of the molecule in water. 
 
 ![Wikimedia|300](https://upload.wikimedia.org/wikipedia/commons/d/d1/TensideHyrophilHydrophob.png)

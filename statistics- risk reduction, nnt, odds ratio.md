@@ -89,3 +89,9 @@ Sometimes called Risk Difference, measures how much of the disease incidence can
 # Hazard Ratio
 Similar to relative risk. It's used when risk is not constant to time. Typically used when analysing survival over time. 
 It quantifies the relative risk of death over time between treatment groups in a time-to-event analysis, making it highly relevant to a cancer trial. 
+
+# Odds vs. probability
+**OR**: The odds ratio may be defined as the ratio of the odds of a particular outcome with experimental treatment and that of control.
+**Probability**: is the fraction of times you'd expect to see an event in many trials. When expressed as a single number probability is always between 0 and 1. So, if we take the example of rolling a dice:  
+- the probability of rolling a six is 1/6 or 0.166666
+- the odds of rolling a six is 1/5 or 0.2
