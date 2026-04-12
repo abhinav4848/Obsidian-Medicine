@@ -3,7 +3,7 @@ aliases:
   - absolute risk reduction
   - numbers needed to treat
   - relative risk
-  - odd's ratio
+  - odds ratio
 tags:
   - stats
 urls:

@@ -34,7 +34,7 @@ Patients may self-certify for the first 7 calendar days:
 The E111 form was a document that allowed travellers to access necessary healthcare while temporarily staying in another EU country. It has since been replaced by the **European Health Insurance Card (EHIC)**, which provides similar benefits.
 
 ---
-# Benefits: chronic illness and cancer patients
+# Benefits: Chronic illness and cancer patients
 Patients who have a chronic illness or cancer, which results in a disability severe enough to need help with caring for themselves, are entitled to claim the following benefits:  
 - **Personal Independence Payment**: for patients < 65 years
 - **Attendance Allowance**: for patients >= 65 years 
@@ -67,3 +67,13 @@ The following are the time frames for completing and submitting the SR1 form:
 - If the healthcare professional is unable to complete the form within 28 days, they must provide a written explanation to the DWP.
 
 The DWP will use the information on the SR1 form to decide whether the patient meets the criteria for the Special Rules. If the patient is found to meet the criteria, they will be able to claim benefits sooner than they would otherwise be able to. 
+
+---
+# Benefits: bereavement
+Whilst GPs are not supposed to be experts on claimable benefits, a rough understanding is expected. 
+
+| Payment name                    | Details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Funeral payment**             | One-off payment to the partner or parent of the deceased if they are on benefits to help pay for a funer                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Bereavement Support Payment** | Lump sum and then up to 18 monthly payments if they are under the state pension age when their partner died  <br>  <br>Depends on national insurance contributions. Different rates are paid according to whether the claimant gets Child Bene                                                                                                                                                                                                                                                                                                            |
+| **Widowed Parent's Allowance* Payable to a parent whose husband or wife has died.  <br>  <br>Eligibility  <br>- surviving partner is bringing up a child < 19 years of age and receiving child benefit<br>- deceased partner had made adequate national insurance contributions<br>- also if the woman was expecting her late husband's baby<br>- divorcees and those who remarry are not eligible to claim<br><br>Ends when certain conditions are met: When all dependent children leave full-time education - rather than being limited to a set period after the partner's death.  et:  |
