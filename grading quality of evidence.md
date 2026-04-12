@@ -5,11 +5,12 @@ urls:
   - "[NICE- Reviewing evidence](https://www.nice.org.uk/process/pmg6/chapter/reviewing-the-evidence#the-grade-grading-of-recommendations-assessment-development-and-evaluation-approach-to-assessing)"
 aliases:
   - delphi process
+  - Evidence
 ---
 # Oxford CEBM evidence
 Oxford Centre for Evidence-Based Medicine (CEBM)
 
-**1** represents [[statistics- study designs|systematic reviews]] of [[statistics- study designs|randomised controlled trials]] (RCTs). These are considered the highest level of evidence as they provide a comprehensive review of multiple studies and statistically combine their results to provide a more definitive conclusion.  
+**1** represents [[statistics- study designs|systematic reviews]] of [[statistics- study designs|randomised controlled trials]] (RCTs). These are considered the highest level of evidence as they provide a comprehensive review of multiple studies and statistically combine their results to provide a more definitive conclusion. Even if the results are non-definitive, RCTs still provide more reliable evidence than other study designs.
   
 **2** signifies individual RCTs with narrow confidence intervals. This is a high-quality single study that has been conducted with rigorous methodology, reducing bias and increasing reliability but it's not as strong as systematic reviews.  
   

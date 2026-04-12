@@ -4,6 +4,10 @@ tags:
 aliases:
   - study
   - Meta-Analyses
+  - Intention to treat (ITT) analysis
+  - Randomised control trial
+  - cohort
+  - case control
 urls:
   - "[Centre for Evidence Based Medicine- Study designs](https://www.cebm.ox.ac.uk/resources/ebm-tools/study-designs)"
 ---
@@ -20,9 +24,10 @@ Patients with a particular condition (cases) are identified and matched with con
 
 If OR > 1, then association between exposure & disease can be established. 
 # RCT
-[[statistics- risk reduction, nnt, odds ratio|EER, CER]] is calculated in randomised control trial
+RCT is better at establishing causation. 
+[[statistics- risk reduction, nnt, odds ratio|EER, CER]] is calculated in randomised control trial.
 
-*see [[statistics- confounding]]* 
+*see [[statistics- confounding]] & [[grading quality of evidence|Evidence]]* 
 
 **Intention to treat (ITT) analysis**: A method of analysis for RCTs in which all patients randomly assigned to one of the treatments are analysed together, regardless of whether or not they completed or received that treatment.  
   

@@ -3,6 +3,7 @@ tags:
   - stats
 aliases:
   - Graphical representations of statistical data
+  - Funnel Plot
 urls:
   - "[Khan Academy- Reading box plots](https://www.khanacademy.org/math/ap-statistics/summarizing-quantitative-data-ap/stats-box-whisker-plots/v/reading-box-and-whisker-plots)"
 cssclasses:

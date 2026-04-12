@@ -5,6 +5,9 @@ aliases:
   - "Benefits: chronic illness and cancer patients"
   - sick note
   - SR1
+  - Universal Credit
+  - Maternity pay
+  - Healthcare in Europe
 urls:
   - "[Getting a fit note - NHS](https://www.nhs.uk/nhs-services/gps/getting-a-fit-note/)"
   - "[Taking sick leave - GOV.UK](https://www.gov.uk/taking-sick-leave)"
@@ -78,3 +81,35 @@ Whilst GPs are not supposed to be experts on claimable benefits, a rough underst
 | **Funeral payment**                       | One-off payment to the partner or parent of the deceased if they are on benefits to help pay for a funer                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | **Bereavement Support Payment**           | Lump sum and then up to 18 monthly payments if they are under the state pension age when their partner died  <br>  <br>Depends on national insurance contributions. Different rates are paid according to whether the claimant gets Child Benefit.                                                                                                                                                                                                                                                                                                           |
 | **Widowed Parent's Allowance** <br>  <br> | Payable to a parent whose husband or wife has died.  <br><br>**Eligibility**<br>- surviving partner is bringing up a child < 19 years of age and receiving child benefit<br>- deceased partner had made adequate national insurance contributions<br>- also if the woman was expecting her late husband's baby<br>- divorcees and those who remarry are not eligible to claim<br><br>Ends when certain conditions are met: When all dependent children leave full-time education - rather than being limited to a set period after the partner's death.  et: |
+
+---
+# Universal Credit
+##### What is universal credit and who is eligible?
+Universal Credit is a new benefit to help people meet the cost of living, designed to simplify the welfare system. It combines six of the known benefits into one payment (Child Tax Credit, Housing Benefit, Income Support, income-based Jobseeker's Allowance (JSA), income-related Employment and Support Allowance (ESA), Working Tax Credit). It is usually received monthly (or twice a month in Scotland). You can no longer apply for the old benefits system and people on the old system are slowly being moved over to universal credit. People can apply for universal credit online.  
+  
+The requirements to receive this are that the person and their partner  
+- Live in the UK
+- Are aged 18 or over and earn a low income or are out of work
+- Have less than £16,000 collectively in savings
+- Are below the age of receiving the state pension.
+- In rare cases 16 and 17-year-olds can claim universal credit if, for example, they are a carer, are estranged from their parents, have a child or are unable to work.
+##### How much money will someone receive?
+Universal credit is composed of a standard allowance, plus extra payments depending on circumstances. There is a benefit cap which limits the total amount one can receive:  
+- The monthly standard allowance is determined by age and relationship status: single vs a couple
+- Extra payments are awarded for up to 2 children, either having a disability or caring for a severely disabled person and to help with housing costs.
+  
+The universal credit payment reduces as people earn money. People have work allowance of how much they can earn before their payment is decreased. This allowance is higher for people responsible for children/young people, people with disability limiting work. It is lower if people have help with housing costs.  
+##### Supposed benefits of universal credit
+It is designed so that people would no longer be better off claiming benefits alone rather than working. The government says that this will encourage people to work and out of the benefit trap as it allows people to work and still get supported with a 'work allowance'.  
+  
+Additionally, the monthly payments were designed to help people learn to budget their money and prepare them for having a job.  
+  
+People can apply for universal credit online which is good as it cuts down the cost of managing benefits to the government.  
+  
+**Why is it controversial?** 
+Some people take issue with the following points:  
+1) People have to wait 5 weeks to receive their first payment, and then struggle due to only receiving payments every month.  
+2) Childcare must be paid by parents upfront and is then refunded by universal credit.  
+3) Many disabled people and households receive less than they did with the old benefits system  
+4) The old benefits paid benefits for each child per year, however universal credit will only pay for the first 2 children for children born after April 2017.  
+5) Private tenants find it harder to rent.
