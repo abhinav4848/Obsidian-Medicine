@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nhs treatment eligibility.md",
+                "file": "statistics- confounding.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "nhs treatment eligibility"
+              "title": "statistics- confounding"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "treatment eligi",
+                "query": "study ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "nhs treatment eligibility.md",
+                "file": "statistics- confounding.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -144,7 +144,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of nhs treatment eligibility"
+              "title": "Graph of statistics- confounding"
             }
           }
         ]
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nhs treatment eligibility.md",
+                "file": "statistics- confounding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +266,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for nhs treatment eligibility"
+              "title": "Backlinks for statistics- confounding"
             }
           }
         ]
@@ -288,18 +288,20 @@
   },
   "active": "fd428af7e5b9d144",
   "lastOpenFiles": [
+    "statistics- study designs.md",
+    "statistics- confounding.md",
     "sildenafil.md",
+    "statistics- biases.md",
+    "nhs treatment eligibility.md",
     "statistics- study design for new drugs.md",
     "spots.md",
     "slipped upper femoral epiphysis.md",
-    "statistics- biases.md",
     "lithium.md",
     "metronidazole.md",
     "diarrhoea.md",
     "pityriasis rosea.md",
     "supranuclear palsy.md",
     "surfactant.md",
-    "statistics- study designs.md",
     "statistics- validity.md",
     "colour & vision changes in body.md",
     "statistics- risk reduction, nnt, odds ratio.md",
@@ -312,8 +314,6 @@
     "ondansetron.md",
     "osteoporosis.md",
     "rhinosinusitis.md",
-    "lichens.md",
-    "hearing loss.md",
     "attachments/vision- macular degeneration.jpg",
     "attachments/vision- open angle glaucoma.jpg",
     "attachments/vision- retinitis pigmentosa.jpg",

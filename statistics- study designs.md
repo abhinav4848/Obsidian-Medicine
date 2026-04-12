@@ -21,12 +21,14 @@ Patients with a particular condition (cases) are identified and matched with con
 If OR > 1, then association between exposure & disease can be established. 
 # RCT
 [[statistics- risk reduction, nnt, odds ratio|EER, CER]] is calculated in randomised control trial
+
+see [[statistics- confounding]]
 # Cross sectional
 aka Prevalence study. 
 Begins with risk factor/exposure status and compare disease prevalence to provide a snapshot. They are helpful in determining prevalence rather than investigating outbreaks or etiologies.
 # Correlational study
 A correlational study is a type of research design where a researcher seeks to understand what kind of relationships naturally occurring variables have with one another.
-## Longitudinal study
+### Longitudinal study
 A longitudinal study is a type of observational correlational study in which repeat measurements of the same variables are taken over a prolonged period.
 # Meta-analysis vs Systematic Review
 Meta analysis: The systematic review of randomised controlled trials. This is the highest level of evidence.

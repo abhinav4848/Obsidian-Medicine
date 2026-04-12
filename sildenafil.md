@@ -13,7 +13,7 @@ PDE-5 inhibitor MoA:
 - tadalafil (Cialis)- longer acting. May be taken on a regular basis, e.g. OD
 - vardenafil (Levitra)
 - avanafil (Spedra) 
-# Contraindication
+# Contraindication 
 - Not to be given together with Nitrates & [[nicorandil]].
 	- Refer those patients to urology for alternatives like pump, injections, rod insertion. 
 - Hypotension, as PDE-5 inhibitors release Nitric oxide -> lower BP
@@ -24,12 +24,12 @@ PDE-5 inhibitor MoA:
 - use of indinavir/ketoconazole/itraconazole in patients over age 75 years (vardenafil only); 
 - heart failure and uncontrolled arrhythmia/hypertension (tadalafil only).
 # Side effects
-visual
+visual 
 - [[colour & vision changes in body|Blue vision]],
 - non-arteritic [[anterior ischaemic optic neuropathy]] (NAION)
 Nasal congestion,
 Flushing,
-Priapism
+Priapism 
 
 ---
 # How to treat in GP Setting
