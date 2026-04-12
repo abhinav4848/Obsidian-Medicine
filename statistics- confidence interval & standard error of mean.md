@@ -97,10 +97,3 @@ SEM → calculate **confidence interval**
 
 ---
 
-# Variance
-Variance is a measure of the spread of scores away from the mean.
-Variance = square of standard deviation
-
-This is a fundamental statistical relationship:  
-- Variance (σ²) measures the spread of data in squared units of the original measurement (For BMI case, (kg/m²)²).
-- Standard deviation (σ) is the square root of the variance, bringing the units back to the same as the original data (kg/m²), which makes it easier to interpret.

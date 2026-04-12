@@ -18,3 +18,6 @@ A key overview of the DOLS legislation has been described by the The Social Care
 - There are six assessments which have to take place before a standard authorisation can be given.
 - If a standard authorisation is given, one of the most important safeguards is that the person has someone appointed with legal powers to represent them. This is called the relevant persons representative and will usually be a family member or friend.
 - Other safeguards include rights to challenge authorisations in the Court of Protection without cost and access to independent mental capacity advocates (IMCAs).
+
+# Mental capacity Act
+applicable only for people > 16yo. Younger have [[consent in young people|Gillick]] & [[contraceptive choice for young people|Fraser guidelines]] 

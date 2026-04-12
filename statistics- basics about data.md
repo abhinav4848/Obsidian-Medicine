@@ -132,8 +132,9 @@ Example: Smoking status **before and after** an intervention.
 
 ---
 # t-Test vs U-test
-A t-test compares means for normally distributed continuous data, whereas the Mann–Whitney U test compares ranks when data are non-normal or ordinal. 
-- t-test: compares averages using actual values
+A t-test compares means for normally distributed continuous data. It is a measure of similarity between two means. 
+The Mann–Whitney U test compares ranks when data are non-normal or ordinal. 
+- t-test: compares averages using actual values. 
 - U-test: compares relative positions using ranks (U = Unpaired) 
 
 | Situation                                | Parametric Test               | Non-Parametric Equivalent                  | Notes                                                       |
@@ -149,6 +150,8 @@ A t-test compares means for normally distributed continuous data, whereas the Ma
 
 ---
 # Correlation Coefficient
+Correlation coefficient, denoted by 'r', is a statistical measure that calculates the strength of the relationship between the relative movements of two variables.
+
 A **single number** that tells you:
 - **Direction** (positive or negative)
 - **Strength** (how tightly related)

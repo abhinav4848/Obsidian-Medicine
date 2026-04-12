@@ -2,7 +2,7 @@
 tags:
   - paeds
   - gynae
-  - legal
+  - admin
 aliases:
   - Fraser guidelines
 ---
