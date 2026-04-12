@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "statistics- basics about data.md",
+                "file": "statistics- study design for new drugs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "statistics- basics about data"
+              "title": "statistics- study design for new drugs"
             }
           }
         ],
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "correlation",
+                "query": "inferiority",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "statistics- basics about data.md",
+                "file": "statistics- study design for new drugs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of statistics- basics about data"
+              "title": "Graph of statistics- study design for new drugs"
             }
           }
         ]
@@ -301,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "statistics- basics about data.md",
+                "file": "statistics- study design for new drugs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for statistics- basics about data"
+              "title": "Backlinks for statistics- study design for new drugs"
             }
           }
         ]
@@ -333,8 +333,8 @@
   },
   "active": "699bcc8f9940fb99",
   "lastOpenFiles": [
-    "statistics- significance tests.md",
     "statistics- basics about data.md",
+    "statistics- significance tests.md",
     "grading quality of evidence.md",
     "fitness to fly.md",
     "contraceptive choice for young people.md",

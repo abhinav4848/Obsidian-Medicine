@@ -1,6 +1,12 @@
 ---
 tags:
   - stats
+aliases:
+  - Regression
+  - correlation
+  - parametric data
+  - non parametric data
+  - ranking data
 ---
 *see [[statistics- significance tests]]* 
 # Paired vs Unpaired
@@ -150,7 +156,7 @@ The Mann–Whitney U test compares ranks when data are non-normal or ordinal.
 
 ---
 # Correlation Coefficient
-Correlation coefficient, denoted by 'r', is a statistical measure that calculates the strength of the relationship between the relative movements of two variables.
+Correlation is used to test for association between variables. Correlation indicates how closely the points lie to a line drawn through the plotted data.
 
 A **single number** that tells you:
 - **Direction** (positive or negative)
@@ -163,6 +169,21 @@ A **single number** that tells you:
 | +1    | Perfect positive relationship |
 | 0     | No relationship               |
 | -1    | Perfect negative relationship |
+A calculated number greater than 1.0 or less than -1.0 means that there was an error in the correlation measurement.
+
+- **Pearson correlation coefficient** → r (but r just generally means correlation coefficient)
+- **Spearman's rank correlation coefficient** → **ρ** (rho) or _rₛ_ 
+- **Kendall rank correlation coefficient** → **τ** (tau)
 ### Examples
 - Height vs weight → positive correlation
 - Exercise vs resting heart rate → negative correlation
+
+Whilst correlation coefficients give information about how one variable may increase or decrease as another variable increases they do not give information about how much the variable will change. They also do not provide information on cause and effect.
+# Regression
+Once correlation between two variables has been shown regression can be used to predict values of other dependent variables from independent variables. Regression is not used unless two variables have firstly been shown to correlate.
+### Linear regression
+In contrast to the correlation coefficient, linear regression may be used to predict how much one variable changes when a second variable is changed. A regression equation may be formed, y = a + bx, where  
+- y = the variable being calculated
+- a = the intercept value, when x = 0
+- b = the slope of the line or regression coefficient. Simply put, how much y changes for a given change in x
+- x = the second variable
