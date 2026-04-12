@@ -27,12 +27,14 @@ TFT is monitored because Lithium inhibits iodine uptake & Thyroid hormone releas
 ---
 # Toxicity
 Therapeutic range (0.4-1.0 mmol/L)
-Toxicity can be caused by DAMN (not to be confused with DAMN in [[diarrhoea|diarrhoea]])
-#mnemonic #confusion 
-- Diuretics (Thiazides), 
-- [[ace inhibitors|ACE inhibitor]]/ARB, 
-- [[Metronidazole]]- it reduces excretion of Lithium, 
-- [[nsaid|NSAIDs]] -> Reduces eGFR. 
+Toxicity can be caused by: 
+- dehydration, renal failure
+- DAMN drugs #mnemonic #confusion 
+	- Diuretics (Thiazides), 
+	- [[ace inhibitors|ACE inhibitor]]/ARB, 
+	- [[Metronidazole]] -> it reduces excretion of Lithium, 
+	- [[nsaid|NSAIDs]] -> Reduces eGFR. 
+- *not to be confused with DAMN in [[diarrhoea|diarrhoea]] (where M is metformin)*
 ## Clinical Features of toxicity
 Confusion, ataxia, tremor, [[seizure]], nephrotoxicity (polyuria due to nephrogenic [[diabetes insipidus]]). 
 Muscle twitch, blurred vision, [[diarrhoea]], vomiting.

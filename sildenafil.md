@@ -4,6 +4,7 @@ tags:
   - urology
 aliases:
   - Erectile dysfunction
+  - viagra
 ---
 First-line pharmacological treatment of erectile dysfunction is with phosphodiesterase-5 inhibitors. 
 PDE-5 inhibitor MoA:
@@ -14,6 +15,7 @@ PDE-5 inhibitor MoA:
 - avanafil (Spedra) 
 # Contraindication
 - Not to be given together with Nitrates & [[nicorandil]].
+	- Refer those patients to urology for alternatives like pump, injections, rod insertion. 
 - Hypotension, as PDE-5 inhibitors release Nitric oxide -> lower BP
 - Wait 6 months before prescribing in stroke/MI.
 - patients for whom sexual activity is not advisable; 

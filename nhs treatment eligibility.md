@@ -10,6 +10,8 @@ The following hospital treatment is free of charge for everyone who needs it, re
 - A&E treatment (excludes emergency treatment given elsewhere in the hospital)
 - compulsory psychiatric treatment
 - treatment for certain communicable diseases, e.g. Tuberculosis, malaria and meningitis, including HIV\*
+- services for treating a physical or mental condition caused by torture, female genital mutilation, domestic violence or sexual violence  
+- palliative care services provided by a registered palliative care charity or a community interest company
 
 Visitors can receive NHS hospital treatment free of charge if the need for treatment  
 arose during their visit to the UK and:  
@@ -17,7 +19,6 @@ arose during their visit to the UK and:
 - person normally lives abroad, and is receiving a UK state pension, and has lived in the UK in the past for at least ten years
 - person has lived in the UK for at least ten years in the past, but now lives in an EEA state, or in a non-EEA state with which the UK has a reciprocal agreement
 - person is a national, or a resident of certain non-EEA countries, with which the UK has a reciprocal agreement.
-
   
 \*previously only testing for HIV was free of charge, but following an amendment to the NHS (Charges to Overseas Visitors) Regulations in 2012 HIV treatment will no longer be chargeable  
 \*\*European Union countries plus Liechtenstein, Iceland and Norway

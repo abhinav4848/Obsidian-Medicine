@@ -40,7 +40,8 @@ If diarrhoea, stop/reduce DAMN #mnemonic :
 - [[ace inhibitors|ACE inhibitor]]s, ARB, 
 - [[diabetes drugs|Metformin]], 
 - NSAID.
-*Not to be confused with DAMN in [[Lithium]] toxicity.* 
+*Not to be confused with DAMN in [[Lithium]] toxicity, where M is Metronidazole.* 
+*see [[sick day rule]]* 
 
 # Investigations
 Well patients with acute diarrhoea may still need stool sample testing if high risk of cross infection:
