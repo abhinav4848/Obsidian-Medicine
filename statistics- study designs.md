@@ -22,7 +22,11 @@ If OR > 1, then association between exposure & disease can be established.
 # RCT
 [[statistics- risk reduction, nnt, odds ratio|EER, CER]] is calculated in randomised control trial
 
-see [[statistics- confounding]]
+*see [[statistics- confounding]]* 
+
+**Intention to treat (ITT) analysis**: A method of analysis for RCTs in which all patients randomly assigned to one of the treatments are analysed together, regardless of whether or not they completed or received that treatment.  
+  
+Intention to treat analysis is done to avoid the effects of crossover and drop-out, which may affect the randomization to the treatment groups.
 # Cross sectional
 aka Prevalence study. 
 Begins with risk factor/exposure status and compare disease prevalence to provide a snapshot. They are helpful in determining prevalence rather than investigating outbreaks or etiologies.
