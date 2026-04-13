@@ -23,7 +23,11 @@ aliases:
 - ME oversight is not required for stillbirths or deaths already under coroner investigation.
 
 ### Some specific points on completing the MCCD:  
-- 'old age' as 1a is only acceptable if the patient was at least 80 years of age . It can be used if certain conditions are met but is discouraged
+- 'old age' as 1a is only acceptable if the patient was at least 80 years of age . It can be used if certain conditions are met but is discouraged. The criteria are: 
+	- That you have personally cared for the deceased over a long period (years, or many months)
+	- You have observed a gradual decline in your patient's general health and functioning  
+	- You are not aware of any identifiable disease or injury that contributed to the death (this may not have been diagnosed)
+	- You are certain that there is no other reason that the death should be reported to the procurator fiscal (Scotland's Coroner). 
 - 'natural causes' is not acceptable
 - organ failure (e.g. 'liver failure') can only be used if you specify the disease or condition that led to the organ failure (e.g. 1b: Hepatitis C)
 - abbreviations should be avoided (except HIV)

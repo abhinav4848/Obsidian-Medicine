@@ -38,9 +38,16 @@ You will often find both versions of the above listed in different sources. In s
 Odds of an event in treatment group: `EER/1-EER` = `a/b` 
 - *odds => (probability of event/probability of no event)* 
 - *`1 − EER` => what proportion did not have the event => `non-events/total` = `b/(a+b)`* 
-Odds of an event in control group: `CER/1-CER` 
-so, ratio= odds in treatment/odds in control = `a.d/c.b` 
+Odds of an event in control group: `CER/1-CER` = `c/d` 
 
+So, Odds Ratio= odds in treatment/odds in control = `a.d/c.b` 
+
+> [!Question]+ Question
+> Out of the 60 in the drug group, 45 report successfully achieving adequate pain relief. Out of the 40 in the control group, 10 report achieving adequate pain relief. 
+> What are the odds of achieving adequate pain relief with the new drug?
+> 
+> Odds of having control on drug => `a/b` = 45/15
+> Risk Ratio (relative risk): `(45/60)/(10/40)` = 3
 # Formulae
 
 $$

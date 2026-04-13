@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quality and outcomes framework.md",
+                "file": "prescribing guidance.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "quality and outcomes framework"
+              "title": "prescribing guidance"
             }
           },
           {
@@ -176,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "qof",
+                "query": "prescription",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -221,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "quality and outcomes framework.md",
+                "file": "prescribing guidance.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -249,7 +249,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of quality and outcomes framework"
+              "title": "Graph of prescribing guidance"
             }
           }
         ]
@@ -361,7 +361,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quality and outcomes framework.md",
+                "file": "prescribing guidance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -371,7 +371,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for quality and outcomes framework"
+              "title": "Backlinks for prescribing guidance"
             }
           }
         ]
@@ -393,13 +393,15 @@
   },
   "active": "46a0952921f7d81a",
   "lastOpenFiles": [
-    "statistics- study design for new drugs.md",
+    "death.md",
+    "statistics- risk reduction, nnt, odds ratio.md",
+    "statistics- mean, median, mode, normal distribution.md",
     "quality and outcomes framework.md",
+    "statistics- study design for new drugs.md",
     "consultation models.md",
     "local medical committees.md",
     "controlled drugs.md",
     "confidentiality.md",
-    "death.md",
     "economic evaluation.md",
     "statistics- biases.md",
     "statistics- graphical representations.md",
@@ -417,8 +419,6 @@
     "consent in young people.md",
     "dols & mca.md",
     "opioid misuse.md",
-    "statistics- mean, median, mode, normal distribution.md",
-    "statistics- confidence interval & standard error of mean.md",
     "attachments/vision- macular degeneration.jpg",
     "attachments/vision- open angle glaucoma.jpg",
     "attachments/vision- retinitis pigmentosa.jpg",

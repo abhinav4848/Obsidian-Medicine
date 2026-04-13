@@ -6,6 +6,19 @@ tags:
 **Median**: Middle value
 **Mode**: Most frequent value
 
+The table below summarises the appropriate method of summarising the middle or typical value of a data set depending on the measurement scale.
+
+|**Measurement scale**|**Measure of central tendency**|
+|---|---|
+|Categorical|Mode|
+|Nominal|Mode|
+|Ordinal|Median or mode|
+|Interval (Normal distribution)|Mean (preferable), median, or mode|
+|Interval (Skewed data)|Median|
+|Ratio (Normal distribution)|Mean (preferable), median, or mode|
+|Ratio (Skewed data)|Median|
+
+---
 # Normal distribution
 The normal distribution is also known as the Gaussian distribution or 'bell-shaped' distribution. It describes the spread of many biological and clinical measurements  
   
@@ -28,3 +41,4 @@ Variance = square of standard deviation
 This is a fundamental statistical relationship:  
 - Variance (σ²) measures the spread of data in squared units of the original measurement (For BMI case, (kg/m²)²).
 - Standard deviation (σ) is the square root of the variance, bringing the units back to the same as the original data (kg/m²), which makes it easier to interpret.
+
