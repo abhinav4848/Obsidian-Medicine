@@ -25,6 +25,8 @@ The table below shows the three key areas on which the QOF is based
 - Patients on maximum tolerated dose but still sub-optimally controlled
 - patients for whom prescribing a medication is not clinically appropriate e.g. Those who have an allergy, another contraindication or have experienced an adverse reaction
 - where a patient has not tolerated medication
-- where a patient does not agree to investigation or treatment (informed dissent), and this has been recorded in their medical records 
+- where a patient does not agree to investigation or treatment (*informed dissent*), and this has been recorded in their medical records 
 - where the patient has a supervening condition which makes treatment of their condition inappropriate e.g. Cholesterol reduction where the patient has liver disease
 - where an investigative service or secondary care service is unavailable
+
+Patients who are predominantly managed in secondary care should still be included in the Quality and Outcomes Framework (QOF) register and monitored in primary car

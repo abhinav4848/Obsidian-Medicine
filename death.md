@@ -33,12 +33,11 @@ aliases:
 	- if a death occurs within 24 hours of hospital admission where death was unexpected
 - when the doctor attending the deceased did not see them within 28 days before death
     - this was increased from 14 days during the COVID pandemic
-- Deaths due to unnatural causes (e.g. accidents and injuries, [[suicide]], violence)
+- Deaths due to unnatural causes (e.g. accidents and injuries in the past year that could've contributed to the death, [[suicide]], violence, poisoning, including taking illicit drugs)
 - Deaths during or shortly after medical procedures
-	- e.g. within 30 days of surgery or an invasive medical procedure.
+	- e.g. within *30 days of surgery* or an invasive medical procedure.
 	- the death occurred during an operation or before recovery from the effect of an anaesthetic
 - deaths occurring as a result of ill treatment, starvation or neglect/self-neglect
-- poisoning, including taking illicit drugs
 - stillbirths - if there is doubt as to whether the child was born alive
 - Deaths in Custody or State Detention: deaths in police custody, prison, or detention under the Mental Health Act
 - service disability pensioners

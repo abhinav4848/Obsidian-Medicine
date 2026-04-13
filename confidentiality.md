@@ -1,6 +1,8 @@
 ---
 aliases:
   - "GMC: Confidentiality- Using and disclosing patient information for direct care"
+tags:
+  - admin
 ---
 Q: You are approached by the police asking you to identify a driver from CCTV video footage. The driver was recorded driving recklessly and hitting a pedestrian, moments after leaving the GP surgery car park a week ago. You recognise the patient as one of your regular attendees and he had an appointment at this time last week.  
 What should you do?
@@ -14,6 +16,18 @@ In addition to giving the appropriate information to the police, you should also
 This is an example of one of the limited circumstances where you are legally obliged you to disclose or volunteer information to the police. This particular example would be covered by the Road Traffic Act 1988.
 
 ---
+# Brief:
+- Patients' right to privacy: Doctors must respect patients' right to privacy and should not disclose their personal information without consent, unless required by law or justified by the public interest.
+- Obtaining consent: Whenever possible, doctors should obtain explicit consent from patients before disclosing their information. The consent should be informed and given freely, and patients should understand the potential consequences of sharing their information.
+- Anonymization: When using patient information for purposes such as teaching, research, or quality improvement, doctors should anonymize the data whenever possible to protect patients' identities.
+- Disclosures in the public interest: In exceptional circumstances, doctors may disclose patient information without consent if it is in the public interest, such as to prevent serious harm to others or in response to communicable diseases that pose a risk to public health.
+- Legal requirements: Doctors must comply with legal requirements to disclose patient information, such as court orders or statutory reporting obligations.
+- Confidentiality after death: Doctors should continue to respect patients' confidentiality even after their death, unless there are compelling reasons to disclose information.
+- Sharing information with the healthcare team: Doctors may share patient information within the healthcare team on a need-to-know basis to provide safe and effective care.
+- Record-keeping: Doctors should maintain accurate, up-to-date, and secure records to protect patient information and ensure its confidentiality.
+- Communicating with patients: Doctors should communicate openly and honestly with patients about their right to confidentiality and how their information may be used.
+- Working with third parties: When working with third parties, such as insurers or employers, doctors should ensure that they have appropriate consent from patients before sharing their information.
+
 # GMC Confidentiality
 Sharing patient information is vital for safe and effective care. This is particularly vital when working within multi-disciplinary teams, given that all members must have access to the information that they require for their role. Part of our duty as medical professionals is to ensure that information is only shared in a way that is both legal and ethical, whilst facilitating access to those who require it.  
   
