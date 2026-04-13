@@ -21,12 +21,10 @@ where
 ## How is the confidence interval calculated?
 The standard error of the mean (SEM) is a measure of the spread expected for the mean of the observations - i.e. how 'accurate' the calculated sample mean is from the true population mean  
 ##### Key point
-- SEM = SD / square root (n)
+- `SEM = SD / square root (n)`  *SD = standard deviation, n = sample size*
 $$
 SEM = \frac{SD}{\sqrt{n}}
 $$
-- SD = standard deviation
-- n = sample size
 
 | Increase           | Effect on SEM |
 | ------------------ | ------------- |
@@ -34,8 +32,13 @@ $$
 | Larger sample size | SEM decreases |
 So bigger samples → more precise estimate of the true mean.
 
+> [!Question]- Question 
+> Overall 64 patients were reviewed. The average weight was 81 kg, with a standard deviation of 12 kg. What is the standard error of the mean?
+> *12 / square root (64) = 12 / 8 = 1.5*
+
 ---
 ## A 95% confidence interval
+Confidence intervals are calculated from standard errors NOT standard deviation
 - lower limit = mean - (1.96 * SEM)
 - upper limit = mean + (1.96 * SEM)
 #### Why the number 1.96 appears
@@ -53,6 +56,7 @@ $$
 i.e. `Mean(xˉ) ± 1.96 × SEM`
 
 That gives the range containing **95% of possible sample means**, which translates to a **95% confidence interval for the population mean**.
+*See [[statistics- mean, median, mode, normal distribution]]*
 
 ---
 ## We sometimes use Student’s t instead

@@ -61,7 +61,7 @@ UK license is for 9 weeks, but as independent prescribers, we van give it longer
 # Pregnancy
 Smoking during pregnancy reduces birthweight. 
 
-NICE recommended in 2010 that all pregnant women should be tested for smoking using carbon monoxide detectors, partly because _'some women find it difficult to say that they smoke because the pressure not to smoke during pregnancy is so intense.'_. All women who smoke, or have stopped smoking within the last 2 weeks, or those with a CO reading of 7 ppm or above should be referred to NHS Stop Smoking Services.  
+NICE recommended in 2010 that all pregnant women should be tested for smoking using ==carbon monoxide detectors==, partly because _'some women find it difficult to say that they smoke because the pressure not to smoke during pregnancy is so intense.'_. All women who smoke, or have stopped smoking within the last 2 weeks, or those with a CO reading of 7 ppm or above should be referred to NHS Stop Smoking Services.  
 ## Interventions  
 - the first-line interventions in pregnancy should be 
 	- cognitive behaviour therapy, 

@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contraceptive choice for young people.md",
+                "file": "fluroquinolone.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "contraceptive choice for young people"
+              "title": "fluroquinolone"
             }
           },
           {
@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prescribing guidance.md",
+                "file": "statistics- risk reduction, nnt, odds ratio.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "prescribing guidance"
+              "title": "statistics- risk reduction, nnt, odds ratio"
             }
           },
           {
@@ -143,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prescription",
+                "query": "quinolone",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -221,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "prescribing guidance.md",
+                "file": "fluroquinolone.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -249,7 +249,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of prescribing guidance"
+              "title": "Graph of fluroquinolone"
             }
           }
         ]
@@ -361,7 +361,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prescribing guidance.md",
+                "file": "fluroquinolone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -371,7 +371,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for prescribing guidance"
+              "title": "Backlinks for fluroquinolone"
             }
           }
         ]
@@ -391,11 +391,22 @@
       "graph:Open graph view": false
     }
   },
-  "active": "46a0952921f7d81a",
+  "active": "31fdb64d4b2269e2",
   "lastOpenFiles": [
-    "death.md",
-    "statistics- risk reduction, nnt, odds ratio.md",
+    "statistics- biases.md",
+    "fluroquinolone.md",
+    "forms & benefits.md",
+    "sick day rule.md",
+    "statistics- forest plot graph.md",
+    "statistics- confidence interval & standard error of mean.md",
+    "statistics- errors, confidence intervals.md",
     "statistics- mean, median, mode, normal distribution.md",
+    "smoking.md",
+    "contraceptive choice for young people.md",
+    "fitness to fly.md",
+    "statistics- risk reduction, nnt, odds ratio.md",
+    "death.md",
+    "prescribing guidance.md",
     "quality and outcomes framework.md",
     "statistics- study design for new drugs.md",
     "consultation models.md",
@@ -403,22 +414,11 @@
     "controlled drugs.md",
     "confidentiality.md",
     "economic evaluation.md",
-    "statistics- biases.md",
     "statistics- graphical representations.md",
-    "forms & benefits.md",
     "statistics- significance tests.md",
     "statistics- study designs.md",
     "grading quality of evidence.md",
     "alcohol.md",
-    "prescribing guidance.md",
-    "inflammatory bowel disease.md",
-    "benzodiazepines.md",
-    "statistics- basics about data.md",
-    "fitness to fly.md",
-    "contraceptive choice for young people.md",
-    "consent in young people.md",
-    "dols & mca.md",
-    "opioid misuse.md",
     "attachments/vision- macular degeneration.jpg",
     "attachments/vision- open angle glaucoma.jpg",
     "attachments/vision- retinitis pigmentosa.jpg",

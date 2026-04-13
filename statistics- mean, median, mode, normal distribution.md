@@ -27,13 +27,13 @@ Properties of the Normal distribution
 - 68.3% of values lie within 1 SD of the mean
 - 95.4% of values lie within 2 SD of the mean
 - 99.7% of values lie within 3 SD of the mean
-- this is often reversed, so that within 1.96 SD of the mean lie 95% of the sample values
+- this is often reversed, so that within ==1.96 SD of the mean lie 95%== of the sample values
 - the range of the mean - (1.96 \* SD) to the mean + (1.96 \* SD) is called the 95% confidence interval, i.e. If a repeat sample of 100 observations are taken from the same group 95 of them would be expected to lie in that range
 
 Standard deviation  
 - the standard deviation is a measure of how much dispersion exists from the mean
 - standard deviation = square root (variance)
-
+See [[statistics- confidence interval & standard error of mean]] 
 # Variance
 Variance is a measure of the spread of scores away from the mean.
 Variance = square of standard deviation

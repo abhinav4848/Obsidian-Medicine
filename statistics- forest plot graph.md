@@ -14,7 +14,7 @@ cssclasses:
 
 Summary measure (centre line of diamond) and associated confidence intervals (lateral tips of diamond), and **solid** vertical line of no effect ([[statistics- risk reduction, nnt, odds ratio|OR]]=1).
 
-- Smaller the square- smaller the weight (meaningfulness) of the study/smaller the sample size
+- Bigger the square- Bigger the weight (meaningfulness) of the study & bigger the sample size. 
 	- The further away a box is from 1, the larger effect size it has. 
 - Horizontal lines are confidence intervals. Also seen as the difference between the numbers in the bracket. 
 	- Narrow horizontal line means study has narrow CI & is more precise. It doesn't say about significance. 

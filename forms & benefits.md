@@ -8,6 +8,9 @@ aliases:
   - Universal Credit
   - Maternity pay
   - Healthcare in Europe
+  - Fit note
+  - statement of fitness to work
+  - Statement of Fitness for Work
 urls:
   - "[Getting a fit note - NHS](https://www.nhs.uk/nhs-services/gps/getting-a-fit-note/)"
   - "[Taking sick leave - GOV.UK](https://www.gov.uk/taking-sick-leave)"
@@ -24,6 +27,7 @@ SC3 form: Statutory paternity pay
 
 GP fit note can be given after the patient has self-certified for a week. 
 A fit note can be back dated, but not future dated. 
+Max duration allowed is 3 months. 
 
 In case a patient wants a fit note but can't get it on the same day, they can tell their employer they're unwell and then when they do get their GP appointment, or even a discussion with the on-call doctor, they can ask for the fit note to be back dated. 
 ### Self certification
@@ -33,6 +37,7 @@ Patients may self-certify for the first 7 calendar days:
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **SC1**  | Self-certification, for patients not eligible to claim statutory sick pay (e.g. Unemployed or self-employed). For the first 7 calendar days of an illness |
 | **SC2**  | The 'standard' self-certification form, for patients eligible to claim statutory sick pay. For the first 7 calendar days of an illness                    |
+| **SC3**  | Statutory paternity pay                                                                                                                                   |
 # Healthcare in Europe
 [Applying for healthcare cover abroad (GHIC and EHIC) - NHS](https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/)
 The E111 form was a document that allowed travellers to access necessary healthcare while temporarily staying in another EU country. It has since been replaced by the **European Health Insurance Card (EHIC)**, which provides similar benefits.

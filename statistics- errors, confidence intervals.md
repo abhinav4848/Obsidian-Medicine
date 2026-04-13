@@ -79,19 +79,20 @@ So the researcher would **reject the null hypothesis** and say:
 
 ---
 ## Confidence interval
-CI = 95%
-### This means:
+*See [[statistics- confidence interval & standard error of mean]]*
+### `CI = 95%` means 
 > If we repeated this trial **100 times**, about **95 of those confidence intervals** would contain the **true treatment effect**
 
 ⚠️ Important:
 - A **95% CI does NOT mean** “there is a 95% chance the true value lies inside this CI” 
-- The true value is fixed — the interval varies
+- The true value is fixed. The interval varies. 
 
 If the **95% CI does not cross the null value**:
 - For difference in means → does not cross **0**
 - For [[statistics- risk reduction, nnt, odds ratio|relative risk / odds ratio]] → does not cross **1 (one)**
 
 ➡️ That agrees with the p-value being < 0.05
+
 
 ---
 
