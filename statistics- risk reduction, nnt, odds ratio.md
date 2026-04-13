@@ -42,12 +42,14 @@ Odds of an event in control group: `CER/1-CER` = `c/d`
 
 So, Odds Ratio= odds in treatment/odds in control = `a.d/c.b` 
 
-> [!Question]+ Question
+> [!Question]- Question
 > Out of the 60 in the drug group, 45 report successfully achieving adequate pain relief. Out of the 40 in the control group, 10 report achieving adequate pain relief. 
 > What are the odds of achieving adequate pain relief with the new drug?
 > 
 > Odds of having control on drug => `a/b` = 45/15
 > Risk Ratio (relative risk): `(45/60)/(10/40)` = 3
+
+Always redraw the 2x2 table. Question may have columns titled `Total patients & Benefit seen`, instead of `benefits seen & benefits not seen`. 
 # Formulae
 
 $$

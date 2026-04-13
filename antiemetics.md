@@ -5,6 +5,8 @@ tags:
 aliases:
   - anti-emetic
   - antiemetic
+  - motion sickness
+  - hyperemesis gravidarum
 urls:
   - https://www.amboss.com/us/knowledge/antiemetics/
 ---
@@ -30,7 +32,7 @@ Six broad nausea and vomiting syndromes
 **Raised intra-cranial pressure**
 - Due to high ICP (e.g. brain metastasis, intracerebral tumour e.g. glioblastoma) or vomiting due to bowel obstruction -> Cyclizine.
 - Give Dexamethasone to shrink perilesional (intracerebral) edema -> elevates ICP symptoms. 4mg QID PO or IV.
-- If GCS <=8, intubate & give Mannitol for raised ICP.
+- If GCS =< 8, intubate & give Mannitol for raised ICP.
 - If GCS very low + neurological deficit (unequal pupils) & ICH, do craniotomy
 
 **Vestibular (BPPV, Meniere, Vestibular neuritis)***
@@ -59,7 +61,8 @@ Serotonin receptor antagonists (5HT3 antagonists): [[Ondansetron]], Granisetron
 [[anticholinergics|AntiCholinergics]]- Scopolamine.
 - Works on CTZ & vestibular system.  
 - Inhibits vagus nerve. 
-- used in motion sickness 
+- used in ==motion sickness==
+	- **For Motion Sickness**: Hyoscine (e.g. patch) > Non sedating anti-histamine (Cyclizine or Cinnarizine) > Sedating histamine (Promethazine. )
 
 Antihistamines- Promethazine, Dimenhydrinate, Diphenhydramine
 - H1 antagonist

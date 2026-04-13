@@ -5,6 +5,7 @@ tags:
 aliases:
   - Avoid in pregnancy
   - avoid in breastfeeding
+  - drugs to avoid in pregnancy
 urls:
   - https://www.medicinesinpregnancy.org/
 ---

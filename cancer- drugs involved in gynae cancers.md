@@ -33,3 +33,8 @@ See [[cancer- breast (treatment)|Breast Cancer]].
 Both reduce Breast cancer, protect bone, keep lipid low. 
 Both increase risk of VTE. 
 Tamoxifen causes Endometrial Ca, Raloxifene doesn't.
+### Tamoxifen s/e
+- menstrual disturbance: vaginal bleeding, amenorrhoea
+- hot flushes - 3% of patients stop taking tamoxifen due to climacteric side-effects
+- venous thromboembolism
+- endometrial cancer

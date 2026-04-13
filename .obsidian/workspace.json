@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fluroquinolone.md",
+                "file": "forms & benefits.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "fluroquinolone"
+              "title": "forms & benefits"
             }
           },
           {
@@ -176,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quinolone",
+                "query": "motion sickne",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -221,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "fluroquinolone.md",
+                "file": "forms & benefits.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -249,7 +249,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of fluroquinolone"
+              "title": "Graph of forms & benefits"
             }
           }
         ]
@@ -361,7 +361,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fluroquinolone.md",
+                "file": "forms & benefits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -371,7 +371,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for fluroquinolone"
+              "title": "Backlinks for forms & benefits"
             }
           }
         ]
@@ -393,8 +393,15 @@
   },
   "active": "31fdb64d4b2269e2",
   "lastOpenFiles": [
-    "statistics- biases.md",
     "fluroquinolone.md",
+    "cancer & associations.md",
+    "cancer- drugs involved in gynae cancers.md",
+    "p450.md",
+    "statistics- risk reduction, nnt, odds ratio.md",
+    "antiemetics.md",
+    "tuberculosis.md",
+    "drugs contraindicated in pregnancy.md",
+    "statistics- biases.md",
     "forms & benefits.md",
     "sick day rule.md",
     "statistics- forest plot graph.md",
@@ -404,7 +411,6 @@
     "smoking.md",
     "contraceptive choice for young people.md",
     "fitness to fly.md",
-    "statistics- risk reduction, nnt, odds ratio.md",
     "death.md",
     "prescribing guidance.md",
     "quality and outcomes framework.md",
@@ -413,12 +419,6 @@
     "local medical committees.md",
     "controlled drugs.md",
     "confidentiality.md",
-    "economic evaluation.md",
-    "statistics- graphical representations.md",
-    "statistics- significance tests.md",
-    "statistics- study designs.md",
-    "grading quality of evidence.md",
-    "alcohol.md",
     "attachments/vision- macular degeneration.jpg",
     "attachments/vision- open angle glaucoma.jpg",
     "attachments/vision- retinitis pigmentosa.jpg",

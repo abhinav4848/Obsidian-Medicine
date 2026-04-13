@@ -38,6 +38,7 @@ Patients may self-certify for the first 7 calendar days:
 | **SC1**  | Self-certification, for patients not eligible to claim statutory sick pay (e.g. Unemployed or self-employed). For the first 7 calendar days of an illness |
 | **SC2**  | The 'standard' self-certification form, for patients eligible to claim statutory sick pay. For the first 7 calendar days of an illness                    |
 | **SC3**  | Statutory paternity pay                                                                                                                                   |
+| **SR1**  | Special rules 1. Completed when life expectancy is < 12 months, allows fast-track benefit payments.                                                       |
 # Healthcare in Europe
 [Applying for healthcare cover abroad (GHIC and EHIC) - NHS](https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/)
 The E111 form was a document that allowed travellers to access necessary healthcare while temporarily staying in another EU country. It has since been replaced by the **European Health Insurance Card (EHIC)**, which provides similar benefits.
@@ -66,7 +67,9 @@ Means testing means your eligibility depends on your income & savings. But PIP i
 #### Attendance Allowance
 Attendance Allowance (AA) is a tax-free allowance for people aged 65 or over when they claim who need help with their personal care. To claim AA, patients should normally have needed help with care for 6 months. Like DLA it is not means tested.  
 #### Terminally ill patients
-Patients who have a terminal illness (where there is an expectation that the patient will not live for more than 12 months) are eligible to be fast-tracked through the system for claiming Personal Independence Payment (PIP), Universal Credit (UC), employment support allowance (ESA), DLA or AA. The SR1 ('Special Rules') form is a medical report form that is used to provide evidence of a terminal illness for people who are applying for benefits under the Special Rules. It replaced the previous DS1500 form. The Special Rules are a set of criteria that allow people with a terminal illness to claim benefits sooner than they would otherwise be able to.  
+Patients who have a terminal illness (where there is an expectation that the patient will not live for more than 12 months) are eligible to be fast-tracked through the system for claiming Personal Independence Payment (PIP), Universal Credit (UC), employment support allowance (ESA), DLA or AA. 
+
+The SR1 ('Special Rules') form is a medical report form that is used to provide evidence of a terminal illness for people who are applying for benefits under the Special Rules. It replaced the previous DS1500 form. The Special Rules are a set of criteria that allow people with a terminal illness to claim benefits sooner than they would otherwise be able to.  
   
 The SR1 form must be completed by a healthcare professional who is registered with the General Medical Council (GMC) or the Nursing and Midwifery Council (NMC). The form asks for information about the patient's diagnosis, prognosis, and clinical features. It also asks for information about the treatment that the patient has received, is receiving, or is planned to receive.  
   

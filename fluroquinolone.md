@@ -26,4 +26,5 @@ tendon damage & rupture. Worse if also taking steroids.
 	- In a small proportion of patients, these side effects caused long-lasting or permanent disability.
 - increased risk of heart valve regurgitation
 - Aortic Aneurysm: [Small increased risk of aortic aneurysm and dissection](https://www.gov.uk/drug-safety-update/systemic-and-inhaled-fluoroquinolones-small-increased-risk-of-aortic-aneurysm-and-dissection-advice-for-prescribing-in-high-risk-patients)
-- 
+- Avoid in [[drugs contraindicated in pregnancy|pregnancy]] 
+- avoid in [[g6pd deficiency|G6PD deficiency]] 
