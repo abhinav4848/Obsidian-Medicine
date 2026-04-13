@@ -10,4 +10,4 @@ If a drug is therefore to be compared to an existing treatment a statistician wi
 - **equivalence**: an equivalence margin is defined (-delta to +delta) on a specified outcome. If the confidence interval of the difference between the two drugs lies within the equivalence margin then the drugs may be assumed to have a similar effect
 - **non-inferiority**: similar to equivalence trials, but only the lower confidence interval needs to lie within the equivalence margin (i.e. -delta). *Small sample sizes are needed for these trials*. Once a drug has been shown to be non-inferior large studies may be performed to show superiority
   
-It should be remembered that drug companies may not necessarily want to show superiority over an existing product. If it can be demonstrated that their product is equivalent or even non-inferior then they may compete on price or convenience.
+It should be remembered that drug companies may not necessarily want to show superiority over an existing product. If it can be demonstrated that their product is equivalent or even non-inferior then they may compete on price or convenience. 

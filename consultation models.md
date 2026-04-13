@@ -4,6 +4,24 @@ tags:
 urls:
   - "[Essential GP training](https://essentialgptrainingbook.com/ch23/)"
 ---
+# Brief overview
+Calgary-Cambridge 
+- very structured - beginning, middle and end
+- Like when these two cities started out they needed to 'initiate (the session), gather (information), provide structure and build (relationship)'.
+Pendleton 
+- ICE (getting injured on a peloton)
+- An Ideal consultation - shared management, time and resources, relationship etc
+Neighbour 
+- HO - handing over/HOuse keeping  
+- safety netting
+Tuckett 
+- meeting of two experts  
+- shared understanding 
+Fraser
+- The [[contraceptive choice for young people|Fraser guidelines]] maker who **relates** to his young patients for their contraceptive choices. 
+
+---
+# Detail
 ##### Calgary-Cambridge observation guide- Kurtz and Silverman - 1996  
 - initiating the session
 - gathering information
