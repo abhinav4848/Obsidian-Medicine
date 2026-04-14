@@ -17,7 +17,7 @@ It is an [[infection in children|LRTI]].
 >- [[abnormal airway sounds|grunting]] is a sound made by a baby or young child who is having trouble breathing. By grunting, a child tries to keep air in the lungs to help build up the oxygen level.
 >- Normally, a newborn breathes 30-60 times per minute. When your baby breathes faster, which is called tachypnea, this is another sign for respiratory distress.
 # Clinical Features
-Seen in < 1yo. 
+Seen in < 1yo mostly in winter. (peak during 3-6 months of age). 
 - coryzal prodrome over 1-3 days 
 - then 
 	- persistent dry cough, 
@@ -51,6 +51,7 @@ Seen in < 1yo.
 ## Confusion
 - < 2 years: bronchiolitis, but > 2 years: [[Asthma]]
 - Wheeze is seen in [[Asthma]] and bronchiolitis. It's a feature of LRTI.
+	- Don't use bronchodilators in bronchiolitis. No benefit. 
 - Wheeze is not seen in pneumonia. 
 - Pneumonia would have focal crackles and fever > 39C 
 ## Treatment

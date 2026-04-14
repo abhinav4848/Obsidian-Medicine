@@ -53,7 +53,8 @@ Antimuscarinics
 	- direct spasmolytic effect on the bladder smooth muscle by competitively antagonising the muscarinic receptors on the bladder.
 - tolterodine
 - darifenacin
-Mirabegron ([[beta adrenergic receptors|beta 3 agonist]])
+Mirabegron ([[beta adrenergic receptors|beta 3 agonist]]) preferred if concern about anti-ch s/e in elderly/frail. 
+If urodynamic studies say that detrusor overactivity is behind the overactive bladder- Botulinum toxin bladder wall injection. 
 
 \* Bladder training: You feel like going to the loo, hold it for 5 mins then go. Next time, hold it for 10 mins then go.
 
