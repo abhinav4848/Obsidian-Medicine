@@ -61,7 +61,7 @@ give IV fluids, systemic antibiotics
 ---
 # Hirschprung disease %%(has link)%%
 It's a type of [[megacolon]].
-Associated with [[down's syndrome]].
+Associated with [[down's syndrome]]. 
 ## Investigation
 Rectal biopsy: gold standard for diagnosis
 ## Management

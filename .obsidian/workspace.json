@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "forms & benefits.md",
+                "file": "childhood syndromes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "forms & benefits"
+              "title": "childhood syndromes"
             }
           },
           {
@@ -176,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "motion sickne",
+                "query": "childhood",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -221,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "forms & benefits.md",
+                "file": "childhood syndromes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -249,7 +249,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of forms & benefits"
+              "title": "Graph of childhood syndromes"
             }
           }
         ]
@@ -361,7 +361,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forms & benefits.md",
+                "file": "childhood syndromes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -371,7 +371,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for forms & benefits"
+              "title": "Backlinks for childhood syndromes"
             }
           }
         ]
@@ -393,6 +393,11 @@
   },
   "active": "31fdb64d4b2269e2",
   "lastOpenFiles": [
+    "turner's syndrome.md",
+    "childhood syndromes.md",
+    "git problems in paeds.md",
+    "down's syndrome.md",
+    "forms & benefits.md",
     "fluroquinolone.md",
     "cancer & associations.md",
     "cancer- drugs involved in gynae cancers.md",
@@ -402,7 +407,6 @@
     "tuberculosis.md",
     "drugs contraindicated in pregnancy.md",
     "statistics- biases.md",
-    "forms & benefits.md",
     "sick day rule.md",
     "statistics- forest plot graph.md",
     "statistics- confidence interval & standard error of mean.md",
@@ -415,10 +419,6 @@
     "prescribing guidance.md",
     "quality and outcomes framework.md",
     "statistics- study design for new drugs.md",
-    "consultation models.md",
-    "local medical committees.md",
-    "controlled drugs.md",
-    "confidentiality.md",
     "attachments/vision- macular degeneration.jpg",
     "attachments/vision- open angle glaucoma.jpg",
     "attachments/vision- retinitis pigmentosa.jpg",
