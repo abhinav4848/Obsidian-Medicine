@@ -3,6 +3,8 @@ tags:
   - dermat
 urls:
   - https://dermnetnz.org/topics/kerion
+aliases:
+  - tinea barbae
 ---
 *See [[fungal infections of skin]].* 
 *See [[Tinea corporis]].* 
@@ -13,4 +15,4 @@ It's a boggy, inflammatory, pustular mass that arises as a result of a severe in
 - Treat urgently, risk of scarring [[alopecia]]. 
 
 Can be confused for bacterial infection
-Difference: #confusion Bacterial abscesses tend to be more localized and painful compared to kerions
+**Difference**: #confusion Bacterial abscesses tend to be more localized and painful compared to kerions

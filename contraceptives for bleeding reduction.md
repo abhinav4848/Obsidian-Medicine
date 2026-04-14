@@ -26,5 +26,12 @@ tags:
 	- COCP/POP/Implants (< 20, no long contraception needed, no c/i to COCP)
 	- Implant e.g. [[contraceptives|Nexplanon]] (Fibroid distorting uterine cavity)
 
-# COCP c/i +/- Menstrual problems (e.g. Menorrhagia)
-- 
+# Wishing to delay periods
+In women not taking COCP, Norethisterone 5 mg TDS can be used to postpone periods given 3 days before the onset of periods.
+This does not provide contraception so use additional contraception. 
+
+If on POP, there are no hormone-free intervals so she will not have regular withdrawal bleeds and thus does not need any additional medication to delay her menses. 
+
+If woman already on [[cocp|COCP]], she can take sequential (back-to-back) COCP to prevent the withdrawal bleed. 
+
+*see [[cocp- pill ladder|COCP Pill Ladder]]* 

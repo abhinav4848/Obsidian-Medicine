@@ -6,6 +6,7 @@ aliases:
   - Afro Caribbean
   - Afro-Caribbean
   - African–Caribbean
+  - African-Caribbean
 ---
 1. Fibroids common
 2. [[diabetes- gestational|gestational diabetes mellitus]]
@@ -21,6 +22,7 @@ aliases:
 12. Use Hydralazine as 3rd line medication in [[heart failure]] patients
 13. [[sickle cell|sickle cell anaemia]]
 14. [[heart failure|Lower BNP]] 
+15. [[folliculitis|Pseudofolliculitis barbae]] 
 
 Less common
 1. [[nash|nafld]] 

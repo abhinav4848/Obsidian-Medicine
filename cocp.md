@@ -26,14 +26,15 @@ UKMEC: [College of sexual & reproductive health](https://www.cosrh.org/Public/Pu
 (COCP has the most contraindications). 
 - [[Migraine]] with aura 
 - h/o, or genes for [[cancer- breast (treatment)|Breast Cancer]] (but just family history is okay) -> [[cancer- drugs involved in gynae cancers|cocp risk of cancer]]
-- Obese (BMI > 30kg/m2 is risk 2, >=35 is risk 3), 
+- Obese (BMI > 30kg/m2 is risk 2, >=35 is risk 3),
+	- COC patch not advised for Weight > 90kg. 
 - Smoker/ex-smoker, 
 - h/o Venous thromboembolism, DVT
 - [[hypertension|HTN]] (even if well controlled),
-- Post partum: if breastfeeding then give > 6 months, else 6 weeks,
+- [[postpartum contraception|postpartum]]: if breastfeeding then give > 6 months, else 6 weeks,
 - Learning difficulty
 - Age > 35yo + smokes > 15 cigs a day
-- Stop taking their COCP/HRT 4 weeks before surgery- risk of PE.
+- Stop taking  COCP/HRT 4 weeks before surgery- risk of PE.
 
 | UKMEC3                                                                                                                                                                                                                                                                                                                                                            | UKMEC4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

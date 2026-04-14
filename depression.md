@@ -11,7 +11,7 @@ urls:
 ---
 # Ask these questions in consultation
 - Premorbid: what activities they enjoyed doing before but don't enjoy now. 
-- Ask both of these questions always: These are 2 separate questions: Risk of self harm or harm to others? Thoughts of [[suicide]]?
+- Ask both of these questions always: These are 2 separate questions: Risk of self-harm or harm to others? Thoughts of [[suicide]]?
 - Give Crisis phone number. 
 - Bio-psycho-social profile: Appetite/Sleep/Food/Weight/Mood. 
 - If the patient is looking down a lot & avoiding eye contact- Looks like you're looking down, do you feel okay? Is there anything you want me to do? 

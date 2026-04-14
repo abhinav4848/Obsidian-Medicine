@@ -7,6 +7,7 @@ aliases:
   - tinea pedis
   - jock itch
   - tinea cruris
+  - Pseudofolliculitis barbae
 urls:
   - https://dermnetnz.org/topics/tinea-corporis
   - https://www.pcds.org.uk/clinical-guidance/tinea-corporis-body-cruris-groin-and-incognito-steroid-exacerbated
@@ -34,3 +35,7 @@ It's a fungal infection that can cause red or silver ring-shaped rashes. The ras
 
 Fusidic acid is antibacterial so not suitable here.
 Oral [[ketoconazole]] is banned in UK.
+
+
+---
+See [[folliculitis]]
