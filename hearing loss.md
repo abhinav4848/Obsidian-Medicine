@@ -39,11 +39,14 @@ Acute sensorineural hearing loss (in last 30 days) is an emergency and requires 
 High dose steroids are often used in acute sensorineural hearing loss, even if the cause has not been identified. 
 
 ---
-### Otosclerosis
-Often occurs in early adult life. 
-Tinnitus and transient vertigo may be present. 
-Schwartz sign (Pink tinge on TM) #named
-*see [[audiograms|audiometry]]*
+### Otosclerosis %%linked%%
+Often occurs in early adult life (20-40 years)
+Conductive deafness  
+[[Tinnitus]] and transient vertigo may be present. 
+Schwartz sign (Pink tinge on TM in 10%) #named
+Positive family history
+
+*see [[audiograms|audiometry]]* 
 ### Cholesteatoma
 Associated with cleft palate & common in age 10-20 years. 
 **Clinical feature**

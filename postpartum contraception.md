@@ -1,6 +1,7 @@
 ---
 aliases:
   - Postpartum contraception
+  - contraception in postpartum
 tags:
   - gynae
 ---

@@ -28,7 +28,7 @@ Helps prevent ovulation.
 - No pill free interval. 
 - Can be used for endometriosis. 
 - Around 50% of women on the POP have no bleeding, or very infrequent bleeding, and only 10% are reported to have more frequent bleeding or spotting, with long term POP use. 
-- [[contraception in postpartum|postpartum women]] (breastfeeding & non-breastfeeding) can start the POP at any time postpartum, but if started after day 21, need additional 7 days of alternate contraception. 
+- [[postpartum contraception|postpartum women]] (breastfeeding & non-breastfeeding) can start the POP at any time postpartum, but if started after day 21, need additional 7 days of alternate contraception. 
 ## Implant (Nexplanon)
 *(Implanon has been replaced by Nexplanon)*
 - Nexplanon (etonogestrel 68 mg) is currently the only progestogen-only implant licensed for use in the UK. 

@@ -4,11 +4,13 @@ tags:
 aliases:
   - Hashimoto's thyroiditis
   - drugs causing hypothyroidism
+  - levothyroxine
 urls:
   - "[NICE CKS- Hypothyroidism](https://cks.nice.org.uk/topics/hypothyroidism/)"
 ---
+# Most Common causes
 **UK**: Autoimmune: Hashimoto [[thyroiditis]]. 
-	Hashimoto acute phase is hyperthyroid (later becomes hypo)
+	*Hashimoto acute phase is hyperthyroid (later becomes hypo)*
 **World**: Nutritional: Iodine deficiency
 
 **Drugs**: [[Lithium]], [[Amiodarone]], Carbimazole, Rifampicin
@@ -26,7 +28,7 @@ The vast majority of cases are primary hypothyroidism with a high TSH and low T4
 - Macrocytosis, Proximal myopathy
 ## Associated conditions
 - Autoimmune disease
-	- [[vitiligo]], ADDISON'S disease, Pernicious Anaemia, [[diabetes mellitus 1|T1DM]], Thyroid disease ([[hypothyroidism|Hashimoto's thyroiditis]])
+	- [[vitiligo]], [[addison's disease]], Pernicious Anaemia, [[diabetes mellitus 1|T1DM]], Thyroid disease ([[hypothyroidism|Hashimoto's thyroiditis]])
 - Hyperprolactinemia
 - [[Pseudogout]]. 
 	- Knee > wrist, ankle, shoulder
@@ -44,13 +46,13 @@ If need to start,
 - The therapeutic goal is TSH normalisation.
 - Cardiac disease/severe hypothyroid/age > 50: start with 25mcg OD
 - Others: start with 50-100 mcg.
-- women with established hypothyroidism who become pregnant should have their dose increased 'by at least 25-50 micrograms levothyroxine'* due to the increased demands of pregnancy.
+- women with established hypothyroidism who become pregnant should have their dose increased 'by at least 25-50 micrograms levothyroxine' due to the increased demands of pregnancy.
 #### If the TSH is still high and T3 and/or T4 is still low
 Increase the dose of the Levothyroxine.
 	
 ## s/e of Thyroxine therapy
-- Hyperthyroidism (overtreatment)
-- Reduced bone mineral density
+- [[hyperthyroidism]] (overtreatment)
+- Reduced [[osteoporosis|bone mineral density]]
 - Worsening of angina (so start low dose in patient with CVD)
 - A fib.
 

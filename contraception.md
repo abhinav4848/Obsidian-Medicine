@@ -5,7 +5,7 @@ tags:
 > [!tip]- Contraceptives & HRT TOC
 > - [[Contraceptives]]
 > 	- [[contraceptives#Contraception for women aged > 40 years linked|Contraception for women aged > 40 years]]
-> 	- [[contraception in postpartum]] 
+> 	- [[postpartum contraception]] 
 > - [[contraceptive choice for young people]]
 > - [[contraceptives in emergency|Emergency contraception]]
 > - [[Contraceptives for bleeding reduction]]

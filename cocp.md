@@ -13,7 +13,7 @@ aliases:
 ![[contraception]]
 
 ---
-![[contraception in postpartum#Post-Partum COCP embedded|Postpartum contraception]]
+![[postpartum contraception#Post-Partum COCP embedded|Postpartum contraception]]
 # Indications
 - Metrorrhagia -> irregular cycle,
 - with/without [[menorrhagia|Menorrhagia]]/Dysmenorrhea,

@@ -3,7 +3,7 @@ tags:
   - ortho
 urls:
   - "[LMSG guidance on Osteoporosis](https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/search/?_search_terms=osteoporosis)"
-  - https://bnf.nice.org.uk/treatment-summaries/osteoporosis/
+  - "[BNF- Treatment of Osteoporosis](https://bnf.nice.org.uk/treatment-summaries/osteoporosis/)"
   - "[NICE CG146- Osteoporosis: assessing the risk of fragility fracture](https://www.nice.org.uk/guidance/cg146)"
 ---
 ![[calcium metabolism- table of contents]]
@@ -21,7 +21,7 @@ History of GI disease/malabsorption syndromes, including [[inflammatory bowel di
 3. In older adults a hip fracture is a manifestation of osteoporosis
 	1. following a fragility fracture in women ≥ 75 years, a DEXA scan is not necessary to diagnose osteoporosis and hence commence a bisphosphonate
 	2. BMD should be measured, but this acts as a baseline rather than determining whether treatment should be given
-4. **Other culprit drugs**: PPIs, [[diabetes drugs|Glitazones]], SSRIs, Antiepileptics, Long term Heparin, [[cancer- breast (treatment)|aromatase inhibitors]]: Anastrozole (prevents formation of Oestrogen). 
+4. **Other culprit drugs**: PPIs, [[diabetes drugs|Glitazones]], SSRIs, Antiepileptics, Long term Heparin, [[cancer- breast (treatment)|aromatase inhibitors]]: Anastrozole (prevents formation of Oestrogen), s/e of [[hypothyroidism|levothyroxine]]
 # How to calculate Osteoporosis
 If no h/o #, use Fracture risk assessment tool. #named 
 If h/o # or risk assessment (Q-fracture/[FRAX](https://www.sheffield.ac.uk/FRAX/)) > 10%, use DEXA (to obtain the T-score aka bone density). 
