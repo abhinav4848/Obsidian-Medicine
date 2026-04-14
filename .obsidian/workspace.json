@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "statistics- study design for new drugs.md",
+                "file": "personality disorder.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "statistics- study design for new drugs"
+              "title": "personality disorder"
             }
           },
           {
@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -191,7 +191,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gestat",
+                "query": "obsess",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -236,7 +236,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "diabetes- gestational.md",
+                "file": "personality disorder.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -264,7 +264,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of diabetes- gestational"
+              "title": "Graph of personality disorder"
             }
           }
         ]
@@ -376,7 +376,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diabetes- gestational.md",
+                "file": "personality disorder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -386,7 +386,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for diabetes- gestational"
+              "title": "Backlinks for personality disorder"
             }
           }
         ]
@@ -406,8 +406,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "03f1f6e7e054fdde",
+  "active": "699bcc8f9940fb99",
   "lastOpenFiles": [
+    "psychosis.md",
+    "schizophrenia.md",
+    "benzylpenicillin.md",
+    "statistics- study design for new drugs.md",
+    "economic evaluation.md",
+    "meningococcal septicaemia.md",
+    "meningitis.md",
+    "diabetes- gestational.md",
+    "folic acid.md",
     "norovirus.md",
     "fitness to fly.md",
     "smoking.md",
@@ -427,15 +436,6 @@
     "fluroquinolone.md",
     "cancer & associations.md",
     "cancer- drugs involved in gynae cancers.md",
-    "p450.md",
-    "statistics- risk reduction, nnt, odds ratio.md",
-    "antiemetics.md",
-    "tuberculosis.md",
-    "drugs contraindicated in pregnancy.md",
-    "sick day rule.md",
-    "statistics- forest plot graph.md",
-    "statistics- confidence interval & standard error of mean.md",
-    "statistics- errors, confidence intervals.md",
     "attachments/vision- macular degeneration.jpg",
     "attachments/vision- open angle glaucoma.jpg",
     "attachments/vision- retinitis pigmentosa.jpg",

@@ -18,7 +18,7 @@ urls:
 # When to give
 From before conception until 12 weeks PoG in females of childbearing potential
 - Low risk female: 400mcg OD
-- High risk female: 5mg OD
+- High risk female: 5mg OD ([[diabetes- gestational|GDM]])
 - If sickle cell disease- They may already be on 5mg OD. Continue or increase to 5mg for full pregnancy. 
 
 If getting MTX s/e: 5mg once weekly, taken on a different day than MTX
