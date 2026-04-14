@@ -35,6 +35,5 @@ Lid massage & lid cleansing
 Artificial tears
 Only after this, if infection or dry eyes are suspected, are further treatments warranted.
 
-
 ---
-*See: [[chalazion]], [[stye]].* 
+*See: [[chalazion & stye]], [[stye]].* 
