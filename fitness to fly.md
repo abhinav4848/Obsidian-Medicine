@@ -20,12 +20,12 @@ The Civil Aviation Authority (CAA) has issued guidelines on air travel for peopl
 ---
 ## Respiratory Disease 
 
-| Condition                                | Recommendation for Air Travel                           |
-| ---------------------------------------- | ------------------------------------------------------- |
-| Pneumonia                                | Must be clinically improved with no residual infection  |
-| Pneumothorax                             | **Should NOT fly** until resolved                       |
-| Post-pneumothorax (after drainage)       | May fly after 2 weeks if no residual air                |
-| Post-pneumothorax (BTS updated guidance) | May fly 1 week after normal check X-ray                 |
+| Condition                                | Recommendation for Air Travel                          |
+| ---------------------------------------- | ------------------------------------------------------ |
+| Pneumonia                                | Must be clinically improved with no residual infection |
+| Pneumothorax                             | **Should NOT fly** until resolved                      |
+| Post-pneumothorax (after drainage)       | May fly after 2 weeks if no residual air               |
+| Post-pneumothorax (BTS updated guidance) | May fly 1 week after normal check X-ray                |
 
 ---
 ## Pregnancy 

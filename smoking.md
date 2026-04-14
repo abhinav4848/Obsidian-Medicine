@@ -9,7 +9,8 @@ aliases:
 urls:
   - https://cks.nice.org.uk/topics/smoking-cessation/
 ---
-Smoking increases risk for [[cancer- urology|bladder cancer]] & laryngeal cancer. 
+Smoking increases risk for [[cancer- urology|bladder cancer]] & laryngeal cancer, pneumothorax. 
+Improves risk of [[inflammatory bowel disease|Ulcerative colitis]], [[cancer- endometrial|Endometrial Cancer]], [[nausea in pregnancy|hyperemesis gravidarum]] (but causes IUGR instead)
 # NICE guidelines
 [NICE](https://cks.nice.org.uk/topics/smoking-cessation/management/adults/) 
 NRT, varenicline or bupropion should not be favoured one over the other. 

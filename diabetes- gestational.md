@@ -52,12 +52,12 @@ Give 75gm OGTT.
 | Fasting     | >= 5.6 mmol/L, or |
 | ----------- | ----------------- |
 | 2 hour OGTT | >= 7.8            |
-#mnemonic 5-6-7-8
-These targets are lower than for DM because this is where the risk to fetus meaningfully increases. 
+#mnemonic 5-6-7-8 
+These targets are lower than for DM because this is where the risk to fetus meaningfully increases.  
 
 >[!tip]- Diagnostic cutoff for DM
 >![[diabetes mellitus- diagnosis#Diagnostic cutoff for DM (is transcluded)]]
-### Targets for self monitoring of pregnant women (For both pre-existing & GDM)
+### Targets for self monitoring of pregnant women (For both pre-existing & GDM) 
 
 | Time               | Target      |
 | ------------------ | ----------- |
