@@ -9,8 +9,10 @@ aliases:
   - Knock knees (genu valgum)
 ---
 Apparent abnormalities in the lower limbs of developing children can cause parental concern and is a common reason for presentation to primary care, often resulting in referral to secondary care.  
-  
-The table below lists some of the common presentations:   
+
+*(see [[lower limb ortho problems]]*)
+
+# Common presentations
 
 | Description                   | Typical age of presentation | Signs                                                                                                 | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ----------------------------- | --------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

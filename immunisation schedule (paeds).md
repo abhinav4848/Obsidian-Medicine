@@ -21,9 +21,10 @@ All babies, including those born prematurely, should receive their first set of 
 - '6-1 vaccine'
 	- DPT, polio, Hib and hepatitis B
 - Oral rotavirus vaccine
+	- *rotavirus most common in age < 5yo*
 - Men B
 
-**12 weeks**
+**12 weeks** 
 - '6-1 vaccine'
 	- DPT, polio, Hib and hepatitis B
 - Oral rotavirus vaccine 
