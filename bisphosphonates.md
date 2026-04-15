@@ -5,6 +5,9 @@ aliases:
   - alendronate
   - alendronic acid
   - bisphosphonate
+urls:
+  - "[NICE CKS- Osteoporosis](https://cks.nice.org.uk/topics/osteoporosis-prevention-of-fragility-fractures/prescribing-information/bisphosphonates/)"
+  - "[NICE CKS- Prevention of fragility # in osteoporosis](https://cks.nice.org.uk/topics/osteoporosis-prevention-of-fragility-fractures/management/management/)"
 ---
 ![[calcium metabolism- table of contents]]
 # Indication 
@@ -13,7 +16,7 @@ aliases:
 - [[Paget's disease of bone]] 
 - pain from bone metastases
 
-**Available**: Alendronate, Risedronate (less oesophageal irritation), Ibadronate, Strontium Ranelate (increases risk for MI/VTE- Now discontinued), Zoledronate. 
+**Available**: Alendronate, Risedronate (less oesophageal irritation), Ibadronate (if neither suitable), Strontium Ranelate (increases risk for MI/VTE- Now discontinued), Zoledronate. 
 # Treatment
 ![[osteoporosis#Treatment of Osteoporosis (is linked)]]
 

@@ -2,8 +2,8 @@
 tags:
   - ophthal
 urls:
-  - https://eyewiki.org/Hypertensive_retinopathy
-  - https://geekymedics.com/fundoscopic-appearances-of-retinal-pathologies/
+  - "[Fundoscopic Appearances of Retinal Pathologies | Geeky Medics](https://geekymedics.com/fundoscopic-appearances-of-retinal-pathologies/)"
+  - "[Hypertensive Retinopathy - EyeWiki](https://eyewiki.org/Hypertensive_retinopathy)"
 aliases:
   - diabetic retinopathy
   - hypertensive retinopathy

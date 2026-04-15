@@ -23,3 +23,14 @@ urls:
 most likely cause of death is IHD. 
 - due to several factors including hypertension, dyslipidaemia, anaemia and systemic inflammation
 - Loss of antithrombin III in CKD increases risk for Thromboembolic event.
+# eGFR calculation
+Serum creatinine may not provide an accurate estimate of renal function due to differences in muscle. For this reason, formulas were developed to help estimate the glomerular filtration rate (estimated GFR or eGFR). The most commonly used formula is Modification of Diet in Renal Disease (MDRD) equation, which uses the following variables:  
+- serum creatinine
+- age
+- gender
+- ethnicity
+
+Factors which may affect the result  
+- pregnancy
+- muscle mass (e.g. amputees, body-builders)
+- eating red meat 12 hours prior to the sample being taken

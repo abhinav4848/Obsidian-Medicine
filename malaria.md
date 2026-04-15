@@ -17,14 +17,14 @@ aliases:
 h/o [[travel infections|travel]] to Africa + meningitis like features + anaemia -> Cerebral malaria (rather than viral [[encephalitis]])
 # Management
 ## Prophylaxis
-| **Drug**                          | **Side-effects + notes**                                                                                             | **Time to begin before travel** | **Time to end after travel** |
-| --------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ---------------------------- |
-| Atovaquone + proguanil (Malarone) | GI upset                                                                                                             | 1 - 2 days                      | 7 days                       |
-| [[quinine\|chloroquine]]          | Headache  <br>  <br>Contraindicated in [[seizure]]<br><br>==Taken weekly==                                           | 1 week                          | 4 weeks                      |
-| Doxycycline                       | Photosensitivity  <br>Oesophagitis                                                                                   | 1 - 2 days                      | 4 weeks                      |
-| Mefloquine (Lariam)               | Dizziness  <br>Neuropsychiatric disturbance  <br>  <br>Contraindicated in [[seizure\|epilepsy]] <br>==Taken weekly== | 2 - 3 weeks                     | 4 weeks                      |
-| Proguanil (Paludrine)             |                                                                                                                      | 1 week                          | 4 weeks                      |
-| Proguanil + chloroquine           | See above                                                                                                            | 1 week                          | 4 weeks                      |
+| **Drug**                          | **Side-effects + notes**                                                                                                                    | **Time to begin before travel** | **Time to end after travel** |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ---------------------------- |
+| Atovaquone + proguanil (Malarone) | GI upset                                                                                                                                    | 1 - 2 days                      | 7 days                       |
+| [[quinine\|chloroquine]]          | Headache  <br>  <br>Contraindicated in [[seizure]]<br><br>==Taken weekly==                                                                  | 1 week                          | 4 weeks                      |
+| Doxycycline                       | Photosensitivity  <br>Oesophagitis                                                                                                          | 1 - 2 days                      | 4 weeks                      |
+| Mefloquine (Lariam)               | Dizziness  <br>Neuropsychiatric disturbance  <br>  <br>Contraindicated in [[seizure\|epilepsy]] <br>==Taken weekly==<br>- *DOC in pregnant* | 2 - 3 weeks                     | 4 weeks                      |
+| Proguanil (Paludrine)             |                                                                                                                                             | 1 week                          | 4 weeks                      |
+| Proguanil + chloroquine           | See above                                                                                                                                   | 1 week                          | 4 weeks                      |
 If Schuffner's dots #named -> latent hypnozoites in liver -> Primaquine (targets all stages)
 For non-falciparum, non-hypnozoite malaria -> Chloroquine > [[quinine]] (target active stage)
 ## Pregnancy
@@ -33,7 +33,7 @@ Diagnosis can be made difficult due to placental sequestration of parasites, thu
 However, if travel can't be avoided:
 - Chloroquine & Proguanil safe in pregnancy but no longer effective in chloroquine-resistant areas. Proguanil needs [[folic acid]] supplementation. 
 - Mefloquine is now the DOC for Pregnant as prophylaxis in T2&T3 when travelling to chloroquine resistant areas. Caution advised. 
-- Malarone (atovaquone + proguanil): the BNF advises to avoid these drugs unless essential. If taken then folate supplementation should be given. 
+- Malarone (atovaquone + proguanil): BNF advises avoid these drugs unless essential. If taken then folate supplementation given. 
 #### Contraindicated in pregnancy
 - Doxycycline contraindicated. 
 - Primaquine is [[drugs contraindicated in pregnancy|c/i in pregnancy]] & breastfeeding. 
@@ -45,4 +45,7 @@ Children are more at risk of severe complication so avoid travel, but if needed:
 - Doxycycline is only licensed for children > 12 years age. 
 ## G6PD
 In [[g6pd deficiency|G6PD deficiency]], Primaquine is c/i. 
+
+## Psoriasis
+- [[quinine|chloroquine]] & HCQ worsen psoriasis. 
 

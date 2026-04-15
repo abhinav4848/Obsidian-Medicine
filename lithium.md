@@ -10,6 +10,7 @@ urls:
 It's a mood stabiliser used in [[bipolar disorder]]. 
 
 Lithium can cause [[congenital cyanotic diseases of heart|Ebstein's anomaly]] in [[drugs contraindicated in pregnancy|fetus]] #associated 
+Lithium can trigger [[psoriasis]] exacerbation. 
 
 ---
 # Monitoring

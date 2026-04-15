@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fragile-x syndrome.md",
+                "file": "plaque psoriasis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "fragile-x syndrome"
+              "title": "plaque psoriasis"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bisphosphonates.md",
+                "file": "malaria.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "bisphosphonates"
+              "title": "malaria"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bisphosph",
+                "query": "tag:nephrology",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "bisphosphonates.md",
+                "file": "malaria.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -144,7 +144,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of bisphosphonates"
+              "title": "Graph of malaria"
             }
           }
         ]
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bisphosphonates.md",
+                "file": "malaria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +266,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bisphosphonates"
+              "title": "Backlinks for malaria"
             }
           }
         ]
@@ -288,32 +288,32 @@
   },
   "active": "42bc1f4e05727af4",
   "lastOpenFiles": [
+    "quinine.md",
+    "lichen planus.md",
+    "retinopathy.md",
+    "ophthalmoscopy.md",
+    "malaria.md",
+    "plaque psoriasis.md",
+    "guttate psoriasis.md",
+    "fragile-x syndrome.md",
+    "psoriasis.md",
+    "lithium.md",
+    "asthma- management 2024.md",
+    "school in children with rash.md",
+    "impetigo.md",
+    "confusion in skin lesions.md",
+    "chronic kidney disease.md",
+    "ckd classification & monitoring.md",
+    "ckd pharmacology.md",
+    "ace inhibitors.md",
+    "bisphosphonates.md",
     "upper limb ortho problems.md",
     "x linked inheritance.md",
     "genetics terminology.md",
     "turner's syndrome.md",
-    "fragile-x syndrome.md",
     "mitochondrial inheritance.md",
     "dysphagia.md",
     "cancer- oesophagus.md",
-    "statistics- study designs.md",
-    "fitness to fly.md",
-    "statistics- biases.md",
-    "diabetes- gestational.md",
-    "economic evaluation.md",
-    "statistics- risk reduction, nnt, odds ratio.md",
-    "prescribing guidance.md",
-    "statistics- significance tests.md",
-    "immunisation schedule (paeds).md",
-    "contraceptives.md",
-    "vasectomy.md",
-    "bronchiolitis.md",
-    "norovirus.md",
-    "foot problems.md",
-    "normal lower limb variants in children.md",
-    "incontinence- adult.md",
-    "depression.md",
-    "duloxetine.md",
     "desktop.ini",
     "attachments/pseudofolliculitis barbae.jpg",
     "attachments/folliculitis- pseudomonas.jpg",
