@@ -8,7 +8,7 @@ aliases:
 **Most imp risk**: [[cancer- risk factors|Family History]], COCP, *early menarche?*, Obesity ([see this pdf](https://thebms.org.uk/wp-content/uploads/2025/12/01-NEW-INFOGRAPHICS-NOV2025-C.pdf))
 
 #### Genes & tumour marker
-BRCA 1, BRCA 2 (AD with incomplete [[genetic terminology|Penetrance]]) for Breast & Ovary. 
+BRCA 1, BRCA 2 (AD with incomplete [[genetics terminology|Penetrance]]) for Breast & Ovary. 
 Ca 15-3 is the [[tumour marker|tumour marker]] for prognosis. 
 #genetics 
 #### Hormone receptors

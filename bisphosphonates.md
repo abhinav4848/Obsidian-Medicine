@@ -13,7 +13,7 @@ aliases:
 - [[Paget's disease of bone]] 
 - pain from bone metastases
 
-**Available**: Alendronate, Risedronate (less oesophageal irritation), Strontium Ranelate (increases risk for MI/VTE- Now discontinued), Zoledronate. 
+**Available**: Alendronate, Risedronate (less oesophageal irritation), Ibadronate, Strontium Ranelate (increases risk for MI/VTE- Now discontinued), Zoledronate. 
 # Treatment
 ![[osteoporosis#Treatment of Osteoporosis (is linked)]]
 

@@ -8,7 +8,7 @@ tags:
     - developmental delay / learning difficulties
     - ataxia, spasticity, peripheral neuropathy
     - stroke-like episodes (esp. MELAS)
-    - sensorineural hearing loss
+    - sensorineural [[hearing loss]] 
     - ophthalmoplegia and ptosis
 - muscular
     - proximal myopathy, exercise intolerance

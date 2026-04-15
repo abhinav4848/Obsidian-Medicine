@@ -5,7 +5,7 @@ aliases:
   - Learning Disability
 ---
 *See [[childhood syndromes]].*
-- [[Fragile X Syndrome]] is the most common cause of inherited learning disability (not difficulty, like autism). 
+- [[fragile-x syndrome]] is the most common cause of inherited learning disability (not difficulty, like autism). 
 - Prader Willi Syndrome
 - William's syndrome
 - Down's syndrome. 

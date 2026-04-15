@@ -4,6 +4,7 @@ tags:
 ---
 45X0. (*See [[childhood syndromes]]*)
 Patients are genetically and phenotypically female.
+[[x linked inheritance|X-Linked Recessive]]
 # Clinical Features
 - Short, webbed neck, wide space nipples, ovarian failure, Impaired pubertal growth, Bicuspid aortic valve.
 - May have learning problems, like math, nonverbal & social skills

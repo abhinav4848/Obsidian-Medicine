@@ -28,10 +28,10 @@ Humerus injury: ARM nerves, brachial artery injured.
 | Fall on outstretched hand                                                            | Radial head/neck, distal humerus # |
 # Shoulder
 
-|                       |                                                                                                                                                                                                                                           |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Adhesive capsulitis   | Aka frozen shoulder.  <br>Restricted active & passive external rotation.  <br>Associated with endocrine conditions: DM, Thyroid disease.  <br>3 phases: Painful, stiff, recovery.  <br>  <br>Rx: Physiotherapy, intra-articular injection |
-| Rotator cuff syndrome | Painful arc of abduction on active movement (not passive).                                                                                                                                                                                |
+|                       |                                                                                                                                                                                                                                                                                                                                                        |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Adhesive capsulitis   | Aka frozen shoulder. <br>b/l in 40% cases & most common in 40-60yo.<br>Each episode lasts 6m-2y<br>Associated with endocrine conditions: DM, Thyroid disease.<br><br>All movements affected. <br>Restriction in active & passive external rotation.    <br>3 phases: Painful, stiff, recovery.  <br>  <br>Rx: Physiotherapy, intra-articular injection |
+| Rotator cuff syndrome | Painful arc of abduction on active movement (not passive).                                                                                                                                                                                                                                                                                             |
 
 # Arm
 
