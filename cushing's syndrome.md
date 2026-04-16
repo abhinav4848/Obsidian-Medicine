@@ -1,13 +1,19 @@
 ---
 tags:
   - endocrine
+cssclasses:
+  - invert-image
 ---
+# Cushing's
 ## ACTH dependent
-Cushing disease: (Pituitary adenoma) Excess ACTH released that affects both adrenals -> b/l adrenal hyperplasia.
-Carcinoid tumours.
+**Cushing disease** (80%): 
+- Pituitary adenoma -> Excess ACTH released -> b/l adrenal hyperplasia.
 
+**Cushing's syndrome**: 
+- Ectopic ACTH production (i.e. not pituitary. 5-10%): e.g. [[cancer- lung|small cell lung cancer]]
+- Carcinoid tumours (rare; as they mostly cause carcinoid syndrome -> Serotonin -> flushing, diarrhoea)
 ## ACTH independent
-Adrenal adenoma, adrenal carcinoma, Excess steroid administration
+Adrenal adenoma (5-10%), adrenal carcinoma, Excess steroid administration
 
 # Clinical Features
 Features like aldosterone: [[-hypernatremia|excess Na]], [[hypokalemia|low K]]. 

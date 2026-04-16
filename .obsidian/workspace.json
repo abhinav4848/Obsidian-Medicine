@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "headache.md",
+                "file": "testicular problems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "headache"
+              "title": "testicular problems"
             }
           }
         ],
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssri",
+                "query": "varicocele",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -117,7 +117,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -130,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "headache.md",
+                "file": "testicular problems.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -158,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of headache"
+              "title": "Graph of testicular problems"
             }
           }
         ]
@@ -270,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "headache.md",
+                "file": "testicular problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for headache"
+              "title": "Backlinks for testicular problems"
             }
           }
         ]
@@ -302,9 +303,15 @@
   },
   "active": "1ece8a228150ddcf",
   "lastOpenFiles": [
+    "cancer- testes.md",
+    "testicular problems.md",
+    "shingles.md",
+    "papilloedema.md",
+    "cushing's syndrome.md",
+    "ptsd.md",
+    "headache.md",
     "-hypernatremia.md",
     "2025-12-31.md",
-    "headache.md",
     "postpartum mental health.md",
     "ssri.md",
     "malaria.md",
@@ -322,12 +329,6 @@
     "impetigo.md",
     "confusion in skin lesions.md",
     "chronic kidney disease.md",
-    "ckd classification & monitoring.md",
-    "ckd pharmacology.md",
-    "ace inhibitors.md",
-    "bisphosphonates.md",
-    "upper limb ortho problems.md",
-    "x linked inheritance.md",
     "desktop.ini",
     "attachments/pseudofolliculitis barbae.jpg",
     "attachments/folliculitis- pseudomonas.jpg",

@@ -3,6 +3,11 @@ tags:
   - genitourinary
 urls:
   - "[NICE Scrotal Pain & swelling](https://cks.nice.org.uk/topics/scrotal-pain-swelling/)"
+aliases:
+  - varicocele
+  - epididymal cyst
+  - hydrocele
+  - inguinal hernia
 ---
 See: [NICE CKS Scrotal swelling/Pain differentiating features](https://cks.nice.org.uk/topics/scrotal-pain-swelling/diagnosis/assessment/#differentiating-clinical-features) 
 # Varicocele 
