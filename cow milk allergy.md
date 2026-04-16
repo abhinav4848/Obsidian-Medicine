@@ -6,6 +6,7 @@ aliases:
   - Cow's milk protein intolerance
 urls:
   - "[2015 Gastro-oesophageal reflux disease in children and young people: diagnosis and management](http://www.nice.org.uk/guidance/NG1/chapter/1-recommendations)"
+  - "[Types of formula milk - NHS](https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/bottle-feeding/types-of-formula/)"
 ---
 *See [[vomiting in paeds]] & [[git problems in paeds]]* 
 

@@ -18,11 +18,12 @@ Do not combine Metoclopramide with antipsychotics because this increases risk of
 ---
 ## Parkinsonism
 See: [[parkinson's disease|Parkinson's]]
-Resting tremor. 
+Resting tremor that improves with movement. (*see [[essential tremor]]*). 
 
 ---
 ## Acute dystonia
-- sustained muscle contraction (e.g. torticollis, oculogyric crisis: Involuntary upward movement of eye.)
+- sustained muscle contraction (e.g. torticollis, oculogyric crisis: Involuntary upward movement of eye, tremor, muscle stiffness)
+- Due to antipsychotics. 
 - may be managed with procyclidine #antidote (anti-cholinergic)
 ---
 ## Akathisia

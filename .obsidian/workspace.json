@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cow milk allergy.md",
+                "file": "antipsychotic drugs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cow milk allergy"
+              "title": "antipsychotic drugs"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cow mil",
+                "query": "procyc",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cow milk allergy.md",
+                "file": "antipsychotic drugs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -144,7 +144,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cow milk allergy"
+              "title": "Graph of antipsychotic drugs"
             }
           }
         ]
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cow milk allergy.md",
+                "file": "antipsychotic drugs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +266,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cow milk allergy"
+              "title": "Backlinks for antipsychotic drugs"
             }
           }
         ]
@@ -288,6 +288,11 @@
   },
   "active": "42bc1f4e05727af4",
   "lastOpenFiles": [
+    "extrapyramidal side-effects.md",
+    "genital ulcers.md",
+    "confusion in ophthalmology.md",
+    "vaccine types.md",
+    "cow milk allergy.md",
     "seizure.md",
     "infantile spasms.md",
     "ssri.md",
@@ -311,11 +316,6 @@
     "headache.md",
     "2025-12-31.md",
     "postpartum mental health.md",
-    "malaria.md",
-    "quinine.md",
-    "lichen planus.md",
-    "retinopathy.md",
-    "ophthalmoscopy.md",
     "desktop.ini",
     "attachments/pseudofolliculitis barbae.jpg",
     "attachments/folliculitis- pseudomonas.jpg",
