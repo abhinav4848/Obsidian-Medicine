@@ -10,7 +10,7 @@ Carcinoid tumours.
 Adrenal adenoma, adrenal carcinoma, Excess steroid administration
 
 # Clinical Features
-Features like aldosterone: [[Hypernatremia|excess Na]], [[hypokalemia|low K]]. 
+Features like aldosterone: [[-hypernatremia|excess Na]], [[hypokalemia|low K]]. 
 
 [[Hyperpigmentation]] in case of ACTH secreting tumour (ACTH dependent Cushing syndrome)- also seen in [[addison's disease|Addison's]].
 

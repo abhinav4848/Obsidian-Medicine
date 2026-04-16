@@ -28,17 +28,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "malaria.md",
+                "file": "ssri.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "malaria"
+              "title": "ssri"
+            }
+          },
+          {
+            "id": "1ece8a228150ddcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "headache.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "headache"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -71,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:nephrology",
+                "query": "ssri",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -102,8 +117,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -116,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "malaria.md",
+                "file": "headache.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -144,14 +158,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of malaria"
+              "title": "Graph of headache"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 301.5044631958008
+    "width": 200
   },
   "right": {
     "id": "18cd351862e29aca",
@@ -256,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "malaria.md",
+                "file": "headache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,14 +280,14 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for malaria"
+              "title": "Backlinks for headache"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 223.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,13 +300,18 @@
       "graph:Open graph view": false
     }
   },
-  "active": "42bc1f4e05727af4",
+  "active": "1ece8a228150ddcf",
   "lastOpenFiles": [
+    "-hypernatremia.md",
+    "2025-12-31.md",
+    "headache.md",
+    "postpartum mental health.md",
+    "ssri.md",
+    "malaria.md",
     "quinine.md",
     "lichen planus.md",
     "retinopathy.md",
     "ophthalmoscopy.md",
-    "malaria.md",
     "plaque psoriasis.md",
     "guttate psoriasis.md",
     "fragile-x syndrome.md",
@@ -309,11 +328,6 @@
     "bisphosphonates.md",
     "upper limb ortho problems.md",
     "x linked inheritance.md",
-    "genetics terminology.md",
-    "turner's syndrome.md",
-    "mitochondrial inheritance.md",
-    "dysphagia.md",
-    "cancer- oesophagus.md",
     "desktop.ini",
     "attachments/pseudofolliculitis barbae.jpg",
     "attachments/folliculitis- pseudomonas.jpg",
