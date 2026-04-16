@@ -18,18 +18,21 @@ aliases:
 | Ulipristal                        | Inhibits ovulation                                               |
 | Intrauterine contraceptive device | Primary: Toxic to sperm and ovum<br>Also: Inhibits implantation. |
 # Levonelle (Levonorgestrel 1.5mg)
-- Use within 72 hrs (can be used upto 96hrs with low efficacy) -> Prevents ovulation and implantation.
+- Use within 72 hrs (can be used up to 96hrs with low efficacy) -> Prevents ovulation and implantation.
 - Hormonal contraception can be started immediately after taking levonelle for emergency contraception.
 - Vomiting occurs in 1%. If vomiting occurs within 3 hours, repeat dose.
-- Doubling dose: 
+- Can be used more than once in a cycle. 
+- **Doubling dose** (3mg): 
 	- The dose should be doubled for those with a BMI >26 or weight over 70kg
-	- Dose should also be doubled if taking enzyme-inducing drugs (although a copper IUD as emergency contraception is preferable in this situation)
+	- Dose should also be doubled if taking [[p450|enzyme-inducing drugs]] (although a copper IUD as emergency contraception is preferable in this situation)
+	- *([[COCP]] is UKMEC 2 in BMI > 30 & UKMEC3 in BMI >=35; COC patch not advised for Weight > 90kg; patients with weight loss surgery can never have COCP again)*
 
 # EllaOne (Ulipristal)
 - Use within 120 hrs -> Prevents ovulation.
 - Ulipristal may reduce the effectiveness of hormonal contraception. Contraception with the pill, patch or ring should be started, or restarted, 5 days after having ulipristal. Barrier methods should be used during this period.
 - ==breastfeeding should be delayed== for one week after taking ulipristal. There are no such restrictions on the use of levonorgestrel.
 - Caution in ==severe [[asthma]]==.
+- Can be used more than once in a cycle. 
 # IUD
 *(IUS is not emergency contraception. See [[time for action of contraceptives]] & [[contraceptives]])*
 - Use within 120 hrs of UPSI. 

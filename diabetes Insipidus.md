@@ -7,7 +7,7 @@ aliases:
 ---
 ![[diabetes articles]]
 
-ADH dysfunction -> excess water loss in urine and [[-hypernatremia]] (>145mEq/L).
+ADH dysfunction -> excess water loss in urine and [[hypernatremia]] (>145mEq/L).
 Normal Urine osmolality < 800 mOsm/L
 
 Defined as "the passage of large volumes (>3 L/24 hr.) of dilute urine (< 300 mOsm/kg)".
@@ -20,7 +20,7 @@ Dilute urine = Low Osmolality Urine.
 | Responds to Desmopressin (e.g. [[Sarcoidosis]] -> involvement of hypothalamus) | **Hypokalemia**<br>- Na⁺/2Cl⁻/K⁺ co-transporter pump (aka NKCC) actively moves all into the cell membrane.<br>- Low K⁺ can cause NKCC to fail, so Na⁺ not reabsorbed -> Urine Na loss & polyuria. |
 # Clinical Features
 - Polyuria, extreme thirst & polydipsia, dehydration
-- Symptoms of [[-hypernatremia]]. 
+- Symptoms of [[hypernatremia]]. 
 - High serum osmolality, Low urine osmolality (dilute urine)
 - If thirst response is intact in cranial DI, then patient increases their fluid intake, else (patient unconscious/has intracerebral lesion making them adipsic), they can get dehydrated
 
@@ -55,6 +55,6 @@ Low Serum Osmolality. High Urine Osmolality.
 Happens due to Cerebrum/cerebellum.
 
 ## In Diabetes Insipidus:
-[[-hypernatremia]] (high serum sodium), .
+[[hypernatremia]] (high serum sodium), .
 High Serum Osmolality, Low Urine Osmolality.
 Happens due to diencephalon.

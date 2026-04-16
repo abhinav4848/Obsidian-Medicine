@@ -7,9 +7,12 @@ aliases:
 urls:
   - https://www.youtube.com/results?search_query=salaam+attack
 ---
+*See [[seizure]]*
+
 It's a severe epileptic encephalopathy of infancy which typically presents between 3 and 7 months of age.
 More common in male infants. 
-It is frequently associated with an underlying structural, genetic, or metabolic disorder and carries a generally poor prognosis, particularly when symptomatic.  
+- It is frequently associated with an underlying structural, genetic, or metabolic disorder and carries a generally poor prognosis, particularly when symptomatic. 
+- usually secondary to serious neurological abnormality (e.g. tuberous sclerosis, [[encephalitis]], birth asphyxia) or may be idiopathic
 # Clinical Features
 - characteristic 'salaam' attacks (jackknife seizures): sudden flexion of the head, trunk and arms, sometimes followed by extension #named 
 - spasms are brief (1–2 seconds) but occur in clusters, often dozens of episodes over several minutes
