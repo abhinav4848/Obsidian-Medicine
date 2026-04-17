@@ -4,16 +4,18 @@ tags:
 aliases:
   - MS
 ---
+**Risk factors & Characteristics**
+female, young age (20-30s), sensory symptoms at presentation (paresthesia, numbness), relapsing/remitting, long interval between first two relapses, complete recovery between relapses
+- The typical patient has a better risk than the atypical patient. 
 # Clinical Features
 Lethargy, [[Optic neuritis]], optic atrophy, [[confusion in ophthalmology|Internuclear ophthalmoplegia]], central [[pain ladder- neuropathic|neuropathic pain]] . 
 
 - **Uhthoff's phenomenon** #named: worsening of vision following rise in body temperature.
 - **Lhermitte's syndrome** #named : paraesthesia in limbs on neck flexion
 - Motor: Spastic weakness, seen most common in legs
-- Cerebellar: Ataxia
+- Cerebellar: Ataxia 
 
 **Dx**: MRI: Demyelination, lesions disseminated in time & place.
-
 # Treatment
 ## Initial
 acute case/during a relapse -> oral or iv Methyl Prednisolone.

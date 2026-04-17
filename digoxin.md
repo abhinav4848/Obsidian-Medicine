@@ -2,6 +2,8 @@
 tags:
   - pharmacology
   - cardio
+cssclasses:
+  - invert-image
 ---
 Digoxin level is not monitored routinely except in suspected toxicity.
 Toxicity can occur even within therapeutic range.
@@ -13,7 +15,7 @@ Drugs which cause [[hypokalemia]] e.g. thiazides and loop diuretics
 - Digoxin normally binds to the Na+/K+ ATPase pump on the same site as potassium. Hypokalaemia → digoxin more easily bind to the ATPase pump → increased effects
 
 Increasing age -> due to reduced eGFR
-Renal failure, dehydration
+Renal failure, dehydration (vomiting, diarrhoea)
 ### Symptoms
 - nausea, vomiting, lethargy, confusion
 - [[gynaecomastia]]
@@ -26,6 +28,14 @@ Digoxin-specific antibody fragments #antidote
 Digibind
 
 ---
+# Question
+
+> [!Question]- Question
+>A 74-year-old man had a bout of viral gastroenteritis 1 week ago with 3 days of vomiting and diarrhoea. These symptoms largely settled, but he has since had ongoing nausea. In the last few days, his vision has become more blurry and he has felt increasingly dizzy, resulting in several falls. His pulse is 54/min and irregular and BP is 119/68 mmHg. He has a history of IHD, HTN, AF, T2DM. There have been no recent changes to his medications.
+>**Digoxin**
+>*This man has typical symptoms of digoxin toxicity. Digoxin has a narrow therapeutic index and toxicity can be potentiated by renal failure and hypokalaemia - his recent viral gastroenteritis may have been the trigger in this scenario.*
+>*Symptoms of acute digoxin toxicity include gastrointestinal disturbance (nausea, vomiting, abdominal pain), dizziness, confusion, blurry or yellow vision, and arrhythmias.*
+
 # ECG changes with Digoxin
 #ECG 
 

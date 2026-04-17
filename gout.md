@@ -71,3 +71,10 @@ Drugs used for Gout cause worsening of renal failure, heart failure (SOB and Dys
 | Negative birefringent crystals | Positive birefringent crystals                                     |
 | Needle shaped crystals         | Rhomboid crystals (Calcium pyrophosphate)                          |
 | Tophi                          | Chondrocalcinosis: Linear calcification of the articular cartilage |
+
+> [!Question]+ Question
+> An 80-year-old man with advanced Alzheimer's dementia has had a fall in the residential home. He also has a history of atrial fibrillation, type 2 diabetes, osteoarthritis, gout and hypertension. He normally walks with a zimmer frame, although the staff noticed that he had been limping more in the last 24 hours.  
+> He is alert and apyrexial. His pulse is 85/min and blood pressure is 145/80 mmHg. His capillary blood glucose is 8.0 mmol/mol. On examination, he has a laceration to his right arm that is bleeding profusely. On inspection of his feet, he has a swollen red metatarsophalangeal joint of his left big toe.
+> **Indapamide**
+> *This man has a likely diagnosis of gout. Indapamide and other thiazide diuretics can precipitate this condition, and strong consideration should be made with regards to stopping this drug in this patient.*  
+> *While his profuse bleeding may be exacerbated by an anticoagulant such as apixaban, this is unlikely to have contributed to the fall itself. The normal blood glucose suggests that gliclazide is the unlikely culprit here.*

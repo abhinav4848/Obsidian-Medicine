@@ -10,7 +10,7 @@ urls:
 | --------------------------- | ------------------------- | ------------------------------------------------------------------------------ |
 | ![[erythema nodosum 2.png]] | ![[erythema nodosum.jpg]] | ![ENLegs\|300](https://upload.wikimedia.org/wikipedia/commons/b/bb/ENlegs.JPG) |
 
-- Painful, purple tender erythematous nodules over shins.
+- Painful, purple tender erythematous nodules over both shins.
 - Panniculitis- Inflammation of s.c. fat. (*see [[Shin lesions]] for ddx*)
 - Resolve in 6 weeks w/o scarring.  
 # History of 
