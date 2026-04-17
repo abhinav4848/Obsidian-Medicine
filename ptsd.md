@@ -4,8 +4,9 @@ tags:
 urls:
   - "[NICE CG- Post-traumatic stress disorder](https://www.nice.org.uk/guidance/ng116)"
 ---
-PTSD vs acute stress response
-Symptoms have been present for more than 1 month. 
+PTSD vs acute stress disorder
+Acute stress response: occurs in the first 4 weeks after the traumatic event. 
+PTSD: Symptoms have been present for more than 1 month. 
 
 # Symptoms
 - **Re-experiencing**: flashbacks, nightmares, repetitive and distressing intrusive images

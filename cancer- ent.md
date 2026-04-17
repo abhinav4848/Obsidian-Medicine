@@ -8,6 +8,7 @@ aliases:
   - paranasal sinus carcinoma
   - tonsillar cancer
   - acoustic neuroma
+  - oral cancer
 ---
 
 | Cancer Type               | Risk Factors                            | Symptoms                                                                                                                                                                                                                                    |
@@ -26,5 +27,6 @@ aliases:
 - Unexplained recent neck lump, or a previously undiagnosed lump that has changed over a period of 3 to 6 weeks
 - Unexplained persistent sore or painful throat
 - Signs and symptoms in the oral cavity persisting for > 6 weeks, that cannot be definitively diagnosed as a benign lesion
+- a lump on the lip or in the oral cavity
 
 The level of suspicion should be higher in patients who are > 40, smokers, heavy drinkers and those who chew tobacco or betel nut (areca nut).
