@@ -8,9 +8,11 @@ aliases:
   - hepatitis C
   - viral hepatitis
   - hep B vaccination
-urls: https://www.cdc.gov/hepatitis-b/hcp/diagnosis-testing/?CDC_AAref_Val=https://www.cdc.gov/hepatitis/hbv/interpretationOfHepBSerologicResults.htm#cdc_hcp_diagnosis_interpreting-how-to-interpret-test-results
+urls:
+  - "[Clinical Testing and Diagnosis for Hepatitis B | Hepatitis B | CDC](https://www.cdc.gov/hepatitis-b/hcp/diagnosis-testing/?CDC_AAref_Val=https://www.cdc.gov/hepatitis/hbv/interpretationOfHepBSerologicResults.htm#cdc_hcp_diagnosis_interpreting-how-to-interpret-test-results)"
 ---
 *See [[hepatitis]] basics here.* 
+
 
 ![[hepatitis#Viral Hepatitis]]
 
@@ -31,7 +33,7 @@ Incubation period: 4 weeks
 - jaundice
 - ALT > AST 
 
-Can be due to eating out. **Shellfish** are known reservoirs. #important 
+Can be due to eating out. **Shellfish** are known reservoirs of A&E. #important 
 Hepatitis A transmitted by faecal-oral route
 No increased risk for HCC (Hep B has risk for HCC) 
 Doesn't cause chronic disease. 

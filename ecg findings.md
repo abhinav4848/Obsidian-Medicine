@@ -5,6 +5,15 @@ cssclasses:
   - invert-image
   - red-border
 ---
+# Normal Variants in athletes
+The following ECG changes are considered normal variants in an athlete:  
+- sinus bradycardia
+- junctional rhythm
+- first degree heart block
+- Mobitz type 1 (Wenckebach phenomenon)
+
+# Others
+
 |                                      |                                                                                                                                                                                                                                                                                                                                |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1st Degree block                     | No Missed QRS. PR interval >200ms (1 large sq)                                                                                                                                                                                                                                                                                 |
