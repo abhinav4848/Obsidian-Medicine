@@ -21,4 +21,4 @@ Colchicine works mainly by:
 - [[behcet's disease|Behçet’s disease]]
 - Recurrent aphthous ulcers
 - Post-pericardiotomy syndrome
-- CPPD (pseudogout)
+- CPPD ([[pseudogout]])

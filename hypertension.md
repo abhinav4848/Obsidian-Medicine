@@ -50,7 +50,17 @@ Check for any end-organ damage & if not, change medications.
 
 ---
 # Target for patients
-If Age > 80yo, target 150/90
+If Age <80yo: HBPM: <135/85
+
+If Age > 80yo, No comorbidities: 
+- Home BP target: <145/85
+- Clinic BP target: <150/90
+
+If patient is CKD,
+- ACR >=70, BP target is <130/80. 
+- ACR <70, BP target is <140/90
+- With diabetes, BP target is =<130/80 
+
 If coming for annual monitoring and over age of 60yo, to bring a urine sample
 # Question
 >[!Question] HTN Question

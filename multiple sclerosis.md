@@ -23,5 +23,5 @@ acute case/during a relapse -> oral or iv Methyl Prednisolone.
 - Older generation: Glatiramer acetate/IF-beta. #pharmacology 
 - Newer: Natalizumab, Ocrelizumab, Fingolimod
 
-If pt. has pain, check if neuropathic cuz no use of NSAID.
+If pt. has pain, check if [[pain ladder- neuropathic|neuropathic pain]] cuz no use of NSAID.
 Baclofen and gabapentin are first-line for spasticity in multiple sclerosis > Diazepam if not controlled.

@@ -58,6 +58,8 @@ aka DMPA: depot medroxyprogesterone acetate.
 - Unpredictable effects on bleeding patterns. 
 - Intermenstrual spotting in first year of starting. If bothersome bleed -> add COCP 3 months/Mefenamic acid TDS 5 days (while still on Depo-Provera).
 - Completely stops the period in some women but can cause unpredictable bleeding in others.
+- Associated with weight gain.
+- Current Breast cancer: UKMEC 4, Past Breast cancer: UKMEC3
 
 > [!tip] Enzyme metabolism
 > - Provera isn't affected by [[p450]] inducer/inhibitors as it isn't metabolised by P450 enzymes, whereas nexplanon would be affected. So if on nexplanon & need to take e.g. Rifampicin, give Depo-provera as well. Even a single dose rifampicin would need 28 days of cover. 

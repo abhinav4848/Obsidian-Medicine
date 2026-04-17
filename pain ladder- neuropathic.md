@@ -17,6 +17,7 @@ urls:
 # Neuropathic pain
 (except trigeminal neuralgia)
 The meds are used as monotherapy & not combined. 
+NSAID has no benefit. 
 ### First line
 [[depression|amitriptyline]], [[duloxetine]], gabapentin or pregabalin.
 

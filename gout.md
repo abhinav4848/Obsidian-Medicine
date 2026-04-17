@@ -75,6 +75,18 @@ Drugs used for Gout cause worsening of renal failure, heart failure (SOB and Dys
 > [!Question]+ Question
 > An 80-year-old man with advanced Alzheimer's dementia has had a fall in the residential home. He also has a history of atrial fibrillation, type 2 diabetes, osteoarthritis, gout and hypertension. He normally walks with a zimmer frame, although the staff noticed that he had been limping more in the last 24 hours.  
 > He is alert and apyrexial. His pulse is 85/min and blood pressure is 145/80 mmHg. His capillary blood glucose is 8.0 mmol/mol. On examination, he has a laceration to his right arm that is bleeding profusely. On inspection of his feet, he has a swollen red metatarsophalangeal joint of his left big toe.
+> 
 > **Indapamide**
+> 
 > *This man has a likely diagnosis of gout. Indapamide and other thiazide diuretics can precipitate this condition, and strong consideration should be made with regards to stopping this drug in this patient.*  
 > *While his profuse bleeding may be exacerbated by an anticoagulant such as apixaban, this is unlikely to have contributed to the fall itself. The normal blood glucose suggests that gliclazide is the unlikely culprit here.*
+
+
+> [!Question]+ Question
+> A 82 year old man attends your surgery with a four day history of a painful, swollen first metatarsophalangeal joint on his left foot. He has a history of hypertension, ischaemic heart disease, hiatus hernia and osteoporosis. Uric acid is normal range. 
+> 
+> Best treatment: **Colchicine (not Naproxen)**
+> 
+> *This man has an acute episode of gout. The uric acid levels can be normal as they are sequestered into the joint space.*
+> *Allopurinol reduces uric acid production and is useful for gout prophylaxis but should not be started during an acute flare. NSAIDs are relatively contraindicated by the ischaemic heart disease, renal dysfunction and hiatus hernia. Aspirin is generally not used for gout.* 
+> *Prednisolone is relatively contraindicated by the high blood pressure, osteoporosis and hiatus hernia. This leaves colchicine as the best treatment choice. A steroid joint injection would be a reasonable alternative but may be detrimental to local osteoporosis.*

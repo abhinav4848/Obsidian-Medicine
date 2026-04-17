@@ -40,5 +40,9 @@ See [[Rashes in Children - Paediatric Dermatology Guideline Jan17.pdf]]
 - Covid-19
 - Papular-purpuric gloves and socks syndrome
 # Others
-Juvenile spring eruption (JSE) is a distinct sun-induced skin condition appearing on the light exposed skin of the ears. It classically affects boys aged 5-14 years in the spring. Rx: Limit sun exposure, use emollients. 
+### Juvenile spring eruption (JSE) 
+JSE is a distinct sun-induced skin condition appearing on the light exposed skin of the ears. 
+It's a variant of PLE (polymorphic light eruption). 
+It classically affects boys aged 5-14 years in the spring. Less common in females due to hair covering the ear. 
+Rx: Limit sun exposure, use emollients/calamine lotion. 
 ![JSE|300](https://naturedoc.com/wp-content/uploads/2023/04/juvenile-spring-eruption-1500-1024x683.jpg)![JSE|200](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd365b.jpg)
