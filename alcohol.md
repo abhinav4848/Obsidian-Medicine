@@ -8,6 +8,7 @@ aliases:
   - Hepatic encephalopathy
   - Korsakoff Psychosis
   - Alcoholic Liver disease
+  - Wernicke-Korsakoff syndrome
 ---
 # Advice
 One unit of alcohol is equal to 10 mL of pure ethanol. The 'strength' of an alcoholic drink is determined by the 'alcohol by volume' (ABV).  

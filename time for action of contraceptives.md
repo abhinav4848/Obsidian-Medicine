@@ -38,7 +38,21 @@ I for Instant: Cu-IUD
 | After day 7 of cycle                            | Use additional contraception for 7 days |
 
 ---
-**Question**: A 32-year-old woman attends to have her copper IUD removed. She's currently on day 4 of her regular 30-day menstrual cycle. Following the removal of the IUD, she would like to start  COCP. There are no contra-indications to the COCP.
-**Answer**: Start COCP immediately as immediate cover from day 1-5 of cycle. No further contraceptives. 
-If she switched to IUS: No worries within first 7 days
-If she switched to POP or Nexplanon: No worries within first 5 days
+
+> [!Question]+ Question
+> A 32-year-old woman attends to have her copper IUD removed. She's currently on day 4 of her regular 30-day menstrual cycle. Following the removal of the IUD, she would like to start  COCP. There are no contra-indications to the COCP.
+> 
+> **Answer**: Start COCP immediately as immediate cover from day 1-5 of cycle. No further contraceptives. 
+> *If she switched to IUS: No worries within first 7 days*
+> *If she switched to POP or Nexplanon: No worries within first 5 days*
+
+
+# Criteria to reasonably exclude pregnancy
+If any one or more of the following criteria are met and there are no symptoms or signs of pregnancy:  
+- no intercourse since the start of the last menstrual period, since childbirth, abortion, miscarriage, ectopic pregnancy, or uterine evacuation for gestational trophoblastic disease.
+- correct and reliable contraception use
+- within 5 days onset of a normal menstrual period
+- < 21 days post-partum (non-breastfeeding)
+- fully breastfeeding, amenorrheic, <6 months post-partum
+- within the first 5 days after an abortion, miscarriage, ectopic pregnancy or uterine evacuation for gestational trophoblastic disease
+- not had intercourse for >21 days and urine pregnancy test is negative
