@@ -44,4 +44,6 @@ urls:
 - Avoid [[p450|cranberry juice]] if Fluvastatin. 
 - Simvastatin ([BNF](https://bnf.nice.org.uk/drugs/simvastatin/)): Many interactions. If patient on Amlodipine, amiodarone, Ranolazine, Bempedoic acid (as part of Nustendi for cholesterol), Verapamil, diltiazem, some antivirals- limit Simvastatin to max 20mg. 
 
+Statins should be discontinued in women 3 months before conception due to the risk of congenital defects
+
 Ask patient to stop taking statins if giving [[colchicine]] ([[gout]]) cuz risk of rhabdomyolysis. #important 

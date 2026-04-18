@@ -3,6 +3,7 @@ tags:
   - cardio
 aliases:
   - cholesterol
+  - familial hypercholesterolaemia
 urls:
   - "[LMSG lipid guideline](https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2022/10/Lipid-Management-for-Primary-and-Secondary-Prevention-of-Cardiovascular-Disease.pdf)"
 ---
@@ -34,3 +35,16 @@ First line: [[statins|Statin]]
 For people with diabetes, the most effective method of reducing mixed hyperlipidaemia is good glycaemic control.
 
 Hypertriglyceridaemia secondary to poor diabetic control does not respond well to lipid lowering agents. Treating the diabetes is the first priority, although many patients will also have an underlying dyslipidaemia and need a statin for reduction of long-term cardiovascular risk.
+
+
+---
+# Familial Hypercholesterolemia
+Autosomal dominant. 
+Suspect if 
+- Total cholesterol > 7.5mmol/L
+- Personal or f/h/o premature coronary heart disease (event <60yo in an index individual or first degree relative)
+Children of affected parents
+- If one parent affected: Arrange testing by age 10
+- If both parents affected by familial hypercholesterolaemia, arrange testing by age 5
+
+For definite FH: tendon xanthoma in patients or 1st or 2nd degree relatives or DNA-based evidence of FH

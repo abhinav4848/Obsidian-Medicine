@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scoring system.md",
+                "file": "statins.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "scoring system"
+              "title": "statins"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hypercholes",
+                "query": "cholesterol",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "scoring system.md",
+                "file": "statins.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -144,7 +144,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of scoring system"
+              "title": "Graph of statins"
             }
           }
         ]
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scoring system.md",
+                "file": "statins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +266,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for scoring system"
+              "title": "Backlinks for statins"
             }
           }
         ]
@@ -286,8 +286,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e8655fe722644f1f",
+  "active": "42bc1f4e05727af4",
   "lastOpenFiles": [
+    "lipids.md",
+    "foot problems.md",
+    "scoring system.md",
     "different rashes in paeds.md",
     "contraceptives.md",
     "osteoporosis.md",
@@ -311,9 +314,6 @@
     "hepatitis.md",
     "ptsd.md",
     "aphthous ulcer.md",
-    "cancer- ent.md",
-    "antipsychotic drugs.md",
-    "extrapyramidal side-effects.md",
     "attachments/monteggia vs galeazzi fracture.jpg",
     "flow charts/postpartum cocp for contraception.canvas",
     "desktop.ini",
