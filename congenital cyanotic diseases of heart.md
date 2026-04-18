@@ -4,6 +4,7 @@ tags:
 aliases:
   - ebstein's anomaly
   - Eisnemenger's syndrome
+  - cyanotic congenital heart disease
 cssclasses:
   - invert-image
 ---

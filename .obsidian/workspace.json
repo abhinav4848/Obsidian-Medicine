@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gout.md",
+                "file": "ssri.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "gout"
+              "title": "ssri"
             }
           }
         ],
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gout",
+                "query": "erectile",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "gout.md",
+                "file": "ssri.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of gout"
+              "title": "Graph of ssri"
             }
           }
         ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gout.md",
+                "file": "ssri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for gout"
+              "title": "Backlinks for ssri"
             }
           }
         ]
@@ -318,6 +318,19 @@
   },
   "active": "4da0bc4093f32fd8",
   "lastOpenFiles": [
+    "depression.md",
+    "ssri.md",
+    "erectile dysfunction.md",
+    "sildenafil.md",
+    "beta adrenergic receptors.md",
+    "clubbing.md",
+    "primary biliary cholangitis & primary sclerosing cholangitis.md",
+    "congenital cyanotic diseases of heart.md",
+    "angina.md",
+    "difference in cardiac condition treatments.md",
+    "calcium channel blockers.md",
+    "heart failure.md",
+    "gout.md",
     "qlaira.md",
     "cocp.md",
     "contraception.md",
@@ -333,19 +346,6 @@
     "attachments/a flutter.jpg",
     "attachments/a flutter with variable block.jpg",
     "squint.md",
-    "statins.md",
-    "lipids.md",
-    "foot problems.md",
-    "scoring system.md",
-    "different rashes in paeds.md",
-    "osteoporosis.md",
-    "hypertension.md",
-    "gout.md",
-    "colchicine.md",
-    "depression.md",
-    "pseudogout.md",
-    "ssri.md",
-    "multiple sclerosis.md",
     "attachments/monteggia vs galeazzi fracture.jpg",
     "flow charts/postpartum cocp for contraception.canvas",
     "desktop.ini",

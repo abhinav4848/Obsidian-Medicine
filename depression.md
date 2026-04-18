@@ -50,6 +50,7 @@ They are also antidepressants that are almost entirely not used, (even in compar
 	2. Has useful side effects (sedation & increased appetite) -> taken in evening. 
 	3. Fewer side effects than other anti-depressants, so it's useful in older people. 
 	4. Safer to use if risk of GI bleed risk high (warfarin/heparin)
+	5. can cause sexual dysfunction ([[erectile dysfunction]]) but less than SSRIs
 3. Trazodone 
 4. Bupropion, and [[smoking|nicotinic]] acetylcholine antagonist. 
 	1. NDRI: NA and DA reuptake inhibitor

@@ -17,7 +17,7 @@ aliases:
 	- Gets withheld at times in people due to: 
 	    - age
 	    - presence of peripheral vascular disease
-	    - erectile dysfunction
+	    - [[erectile dysfunction]]
 	    - diabetes
 	    - interstitial pulmonary disease
 	    - chronic obstructive pulmonary disease

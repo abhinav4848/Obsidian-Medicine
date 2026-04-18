@@ -26,7 +26,7 @@ For all antidepressants, warn about:
 - Avoid Triptans & MAOi as [[fever caused by drugs|Serotonin syndrome]]. 
 - All SSRIs lower [[seizure]] threshold and cause [[hyponatremia]]. 
 - Be aware when prescribing SSRIs of the need to ask about [[illicit drugs|cocaine]] use when considering drug–drug interactions, and the need to avoid concurrent use of multiple serotonergic drugs. 
-- SSRIs can cause sexual dysfunction, genital numbness, anorgasmia (esp **Mirtazapine**)
+- SSRIs can cause sexual dysfunction ([[erectile dysfunction]]), genital numbness, anorgasmia (Mirtazapine can also do it, but less than SSRIs). 
 # Discontinuation symptoms
 When stopping a SSRI the dose should be gradually reduced over a 4 week period (this is not necessary with fluoxetine). Paroxetine has a higher incidence of discontinuation symptoms.
 
