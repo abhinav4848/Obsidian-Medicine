@@ -12,7 +12,7 @@ See [[incontinence- adult]].
 - Daytime enuresis: secondary care/enuresis clinic
 	- Check for UTI by dipstick. If normal, likely
 		- urge incontinence (overactive bladder, neurogenic). Rx: Bladder Retraining, antimuscarinic-> oral oxybutynin
-		- Stress incontinence (urine leak on sneeze/cough/laugh). Rx: Pelvic floor exercise, free tension retropubic mid-urethral tape, duloxetine
+		- Stress incontinence (urine leak on sneeze/cough/laugh). Rx: Pelvic floor exercise, free tension retropubic mid-urethral tape, [[duloxetine]] 
 - Nighttime enuresis: reassure
 
 **\> 5 years:**
@@ -20,7 +20,7 @@ See [[incontinence- adult]].
 - > 2 times/week:
 	- Long term control: Enuresis alarm + Reward system
 	- Short term: Desmopressin oral (nocturnal enuresis, overactive bladder)
-		- Nasal desmopressin is used for stopping bleeding in vWD, or factor 8 deficiency
+		- Nasal desmopressin is also used for stopping bleeding in vWD, or factor 8 deficiency
 
 **\> 7 years:**
 Start directly with desmopressin tablets.
