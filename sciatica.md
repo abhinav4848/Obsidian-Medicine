@@ -6,6 +6,8 @@ urls:
 aliases:
   - lumbar radiculopathy
   - low back pain
+cssclasses:
+  - invert-image
 ---
 # Red Flags
 *See [NICE CKS red flags](https://cks.nice.org.uk/topics/sciatica-lumbar-radiculopathy/diagnosis/red-flag-symptoms-signs/)*- Long list of red flags for the DDx
@@ -51,3 +53,4 @@ The table below indicates some specific causes of LBP
 |**L4 nerve root compression**|Sensory loss anterior aspect of knee and medial malleolus  <br>Weak knee extension and hip adduction  <br>Reduced knee reflex  <br>Positive femoral stretch test|
 |**L5 nerve root compression**|Sensory loss dorsum of foot  <br>Weakness in foot and big toe dorsiflexion  <br>Reflexes intact  <br>Positive sciatic nerve stretch test|
 |**S1 nerve root compression**|Sensory loss posterolateral aspect of leg and lateral aspect of foot  <br>Weakness in plantar flexion of foot  <br>Reduced ankle reflex  <br>Positive sciatic nerve stretch test|
+![Dermatomes|665](https://upload.wikimedia.org/wikipedia/commons/9/93/Grant_1962_663.png)
