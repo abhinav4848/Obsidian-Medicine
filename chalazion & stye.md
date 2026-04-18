@@ -17,7 +17,7 @@ It usually presents as a painless lump within the eyelid itself and not at its m
 ### Treatment
 Initially: conservative. Apply warm compresses to the affected eye.
 
-4 weeks after conservative management (e.g. applying warm compresses) -> the chalazion still present -> refer to an ophthalmologist (esp. if large and symptomatic)
+4 weeks after conservative management (e.g. applying warm compresses) -> the chalazion still present -> refer to an ophthalmologist (esp. if large and symptomatic). 
 
 ---
 # Stye
@@ -25,7 +25,7 @@ A stye (hordeolum) can present in a similar fashion to chalazion but it's tender
 
 A stye can be internal or external.
 - external -> they originate from the glands of Zeiss or Moll.
-- internal -> they originate from the Meibomian glands.
+- internal -> they originate from the Meibomian glands. May leave a residual chalazion. 
 ### Treatment
 For Simple styes -> conservative measures like warm compresses.
 Rarely incision and drainage are required.

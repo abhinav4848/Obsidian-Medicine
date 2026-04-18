@@ -17,7 +17,7 @@ Due to yeast *Malassezia furfur* (it also causes [[pityriasis versicolor]]).
 
 An itchy, scaly rash affecting the sebum rich areas (face, scalp, centre of chest). 
 - scalp ('Cradle cap'), face, limb flexures, chest, nappy areas
-- E.g.: Dandruff, [[otitis|otitis externa]], Blepharitis 
+- E.g.: Dandruff, [[otitis|otitis externa]], [[Blepharitis]] 
 - Erythematous rash with coarse yellow scales. 
 
 More common with [[HIV]], [[parkinson's disease|Parkinson's]] #associated 

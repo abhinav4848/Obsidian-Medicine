@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scarlet fever.md",
+                "file": "headache.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "scarlet fever"
+              "title": "headache"
             }
           }
         ],
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "phenoxy-Methyl-Penicillin",
+                "query": "fertility",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "scarlet fever.md",
+                "file": "headache.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of scarlet fever"
+              "title": "Graph of headache"
             }
           }
         ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scarlet fever.md",
+                "file": "headache.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for scarlet fever"
+              "title": "Backlinks for headache"
             }
           }
         ]
@@ -318,9 +318,15 @@
   },
   "active": "4da0bc4093f32fd8",
   "lastOpenFiles": [
+    "nash.md",
+    "seborrhoeic dermatitis.md",
+    "fertility.md",
+    "attachments/menstrual cycle phases.jpg",
+    "chalazion & stye.md",
+    "blepharitis.md",
+    "scarlet fever.md",
     "penicillin.md",
     "tonsillitis.md",
-    "scarlet fever.md",
     "antibiotic guidelines.md",
     "impetigo.md",
     "whipple disease.md",
@@ -339,11 +345,6 @@
     "limping child.md",
     "legg-calve-perthe's disease.md",
     "slipped upper femoral epiphysis.md",
-    "rhinosinusitis.md",
-    "ssri.md",
-    "depression.md",
-    "erectile dysfunction.md",
-    "sildenafil.md",
     "attachments/a flutter.jpg",
     "attachments/a flutter with variable block.jpg",
     "attachments/monteggia vs galeazzi fracture.jpg",
@@ -355,7 +356,6 @@
     "attachments/vision- macular degeneration.jpg",
     "attachments/vision- open angle glaucoma.jpg",
     "attachments/vision- retinitis pigmentosa.jpg",
-    "attachments/stemi- notice area.jpg",
     "flow charts/prostaglandins and leukotrienes.canvas",
     "flow charts/haematuria.canvas",
     "flow charts/cervical cancer screening pathway.canvas",

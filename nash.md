@@ -12,7 +12,7 @@ urls:
 **Definitions**: 
 - steatosis - fat in the liver
 - steatohepatitis - fat with inflammation, non-alcoholic steatohepatitis (NASH)
-- progressive disease may cause fibrosis and liver cirrhosis 
+- progressive disease- may cause fibrosis and liver cirrhosis 
 # Risk factors
 Independent risk factors for progression of NAFLD to advanced liver disease include:
 - Impaired glucose regulation or type 2 diabetes mellitus
@@ -28,6 +28,7 @@ A normal ferritin makes a diagnosis of [[haemochromatosis]] unlikely, although i
 # Investigation
 Don't screen for NASH, even in 'at risk' population. If incidentally seen on USS to have fatty liver, do Enhanced Liver Fibrosis (ELF).
 - **Investigation of choice**: Enhanced Liver Fibrosis (ELF) Blood test (like a triple test of [[down's syndrome]]). 
+	- Hyaluronic acid + procollagen III + tissue inhibitor of metalloproteinase 1. An algorithm based on these values results in an ELF blood test score,
 - Assess severity of fibrosis with FIB4 & NALFD fibrosis score + Fibroscan elastography
 BMI > 30 increases Hepatic echogenicity on liver USS.
 ALT:AST > 2

@@ -4,13 +4,14 @@ tags:
 aliases:
   - infertility
 cssclasses:
-  - invert-image
   - red-border
+  - invert-image
 ---
 # Initial investigation
-1. Semen analysis
+1. Semen analysis.
+	1.  Abnormal sperm production with an elevated FSH is consistent with impaired spermatogenesis
 2. Serum Progesterone: The measurement of serum progesterone 7 days prior to expected next period (i.e. day 21 in a 28 day cycle) is used to confirm ovulation, as it reflects the mid-luteal peak of progesterone secretion by the corpus luteum. A level above 30 nmol/l is generally considered to be indicative of ovulation.
-![female hormone cycle|577](https://res.cloudinary.com/zava-www-uk/image/upload/fl_progressive/a_exif,f_auto,e_sharpen:100,c_fit,w_1500,h_977,q_70,fl_lossy/v1761146448/sd/uk/services-and-products/womens-health/contraceptive-pill/block-content/menstrual-cycle/qbtzgnhzenimwieb8pfh.png)
+![[menstrual cycle phases.jpg|577]]
 Anovulatory cycles are characterised by low or absent progesterone levels due to lack of corpus luteum formation after failure of an egg to be released from the ovaries.
 ##### Interpretation of serum progestogen 
 
