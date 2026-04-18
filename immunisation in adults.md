@@ -25,7 +25,7 @@ Usually a one-off but every 5 years if spleen/CKD.
 **1. Pneumococcal conjugate vaccine (PCV)**: 
 - children age 16 weeks, then 12-13 months
 
-**2. Pneumococcal polysaccharide vaccine (PPV)**
+**2. Pneumococcal polysaccharide vaccine (PPV)**:
 - adults > 65yo who don't have a medical condition
 - adults with chronic conditions ([[COPD]], [[bronchiectasis]], [[cystic fibrosis|CF]], [[interstitial lung disease vs pneumonitis|ILD]]) 
 ### Pneumococcal vaccine
@@ -43,7 +43,6 @@ Usually a one-off but every 5 years if spleen/CKD.
 | **Immunosuppression / HIV infection**                  | Any stage of [[HIV]] or other immunosuppression incl prednisolone at >= 20mg/day for more than a month. See the green book.                   | –                                                                                      |
 | **[[hearing aid\|Cochlear Implant]] / Skull fracture** | Breach in the skull                                                                                                                           | PCV given acutely in skull fracture as well. PCV given 1 month before cochlear implant |
 | **CSF leaks**                                          | –                                                                                                                                             | –                                                                                      |
-
 # Influenza
 Influenza can lead to [[pneumonia|staph pneumonia]]. 
 [DoH Green Book- Influenza](https://www.gov.uk/government/publications/influenza-the-green-book-chapter-19) Given against influenza virus A,B,C. (A&B cause most cases). 

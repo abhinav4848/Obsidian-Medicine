@@ -21,11 +21,11 @@ urls:
 The most common infective causes of COPD exacerbations are:  
 - bacteria
     - _[[haemophilus influenzae]]_ (most common cause)
-    - _Streptococcus pneumoniae_
+    - _Streptococcus pneumoniae_ -> give one off pneumococcal vaccine to COPD patients. 
     - _Moraxella catarrhalis_
 - respiratory viruses
     - account for around 30% of exacerbations
-    - human rhinovirus is the most important pathogen
+    - human rhinovirus is the most important pathogen 
 # Clinical Features
 - dyspnea, cough, wheeze
 - increase in sputum suggesting infection
@@ -69,6 +69,7 @@ After ABG:
 
 ## Steroid
 Prednisolone 30 mg Prednisolone stat. (or 100 mg IV hydrocortisone)
+(*40mg is given in [[asthma- acute attack|acute asthma attack in adults]]*)
 
 ## IV Theophylline
 May be considered if no response to Nebulised Bronchodilators

@@ -38,14 +38,14 @@ The following is based on current BNF guidelines:
 | Mastitis during breast-feeding     | Flucloxacillin                                                                                                                                                                                                                                                                                                                                                                               |
 ##### Ear, nose & throat
 
-|**Condition**|**Recommended treatment**|
-|---|---|
-|Throat infections|Phenoxymethylpenicillin (erythromycin alone if penicillin-allergic)|
-|Sinusitis|Phenoxymethylpenicillin|
-|Otitis media|Amoxicillin (erythromycin if penicillin-allergic)|
-|Severe otitis externa**|Flucloxacillin (erythromycin if penicillin-allergic)|
-|Periapical or periodontal abscess|Amoxicillin|
-|Gingivitis: acute necrotising ulcerative|Metronidazole|
+| **Condition**                            | **Recommended treatment**                                           |
+| ---------------------------------------- | ------------------------------------------------------------------- |
+| Throat infections                        | Phenoxymethylpenicillin (erythromycin alone if penicillin-allergic) |
+| [[rhinosinusitis\|Sinusitis]]            | Phenoxymethylpenicillin                                             |
+| Otitis media                             | Amoxicillin (erythromycin if penicillin-allergic)                   |
+| Severe otitis externa**                  | Flucloxacillin (erythromycin if penicillin-allergic)                |
+| Periapical or periodontal abscess        | Amoxicillin                                                         |
+| Gingivitis: acute necrotising ulcerative | Metronidazole                                                       |
 #####  Genital system
 
 | **Condition**                                      | **Recommended treatment**                                                                                |
@@ -63,6 +63,6 @@ The following is based on current BNF guidelines:
 | Campylobacter enteritis    | [[macrolides\|Clarithromycin]]                                                                  |
 | Salmonella (non-typhoid)   | Ciprofloxacin                                                                                   |
 | Shigellosis                | Ciprofloxacin                                                                                   |
-*phenoxymethylpenicillin was previously the recommended antibiotic until the 2019 NICE guidelines  
+\*phenoxymethylpenicillin was previously the recommended antibiotic until the 2019 NICE guidelines  
   
 \*\*a combined topical antibiotic and corticosteroid is generally used for mild/moderate cases of otitis externa

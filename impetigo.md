@@ -22,7 +22,6 @@ H2O2 cream 1% (1st line. Antiseptic)
 Fusidic acid 2% (2nd line) #abx
 Mupirocin
 - MRSA is susceptible only to Mupirocin.
-
 ### Bullous, or extensive non-bullous
 Oral flucloxacillin #abx
 Clarithromycin if allergic to penicillin

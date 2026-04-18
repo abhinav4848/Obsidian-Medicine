@@ -13,6 +13,8 @@ urls:
   - "[BNF](https://bnf.nice.org.uk/drugs/benzylpenicillin-sodium/)"
   - "[BNFc](https://bnfc.nice.org.uk/drugs/benzylpenicillin-sodium/#indications-and-dose)"
 ---
+*See [[penicillin]]* 
+
 colloquially: *ben-pen*. 
 
 not the same as [Benzathine benzylpenicillin (BNF)](https://bnfc.nice.org.uk/drugs/benzathine-benzylpenicillin/)
@@ -33,6 +35,6 @@ Ben Pen
 - children >=10 years: 1.2g i.m. stat
 - adults >16years: 1.2gm i.m. for suspicion, but 2.4mg i.v. once confirmed in hospital. 
 
-can also give Ceftriaxone.
+can also give Ceftriaxone. 
 
-If there is no history of anaphylaxis, ceftriaxone or cefotaxime (third-generation cephalosporins) are recommended, as cross-reactivity is low. For severe penicillin allergy (e.g., anaphylaxis), chloramphenicol is advised under UK guidelines.
+If there is no history of anaphylaxis, ceftriaxone or cefotaxime (third-generation cephalosporins) are recommended, as cross-reactivity is low. For severe penicillin allergy (e.g., anaphylaxis), chloramphenicol is advised under UK guidelines. 

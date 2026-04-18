@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cocp.md",
+                "file": "scarlet fever.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cocp"
+              "title": "scarlet fever"
             }
           }
         ],
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dermatome",
+                "query": "phenoxy-Methyl-Penicillin",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cocp.md",
+                "file": "scarlet fever.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cocp"
+              "title": "Graph of scarlet fever"
             }
           }
         ]
@@ -286,8 +286,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cocp.md",
-                "collapseAll": false,
+                "file": "scarlet fever.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -296,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cocp"
+              "title": "Backlinks for scarlet fever"
             }
           }
         ]
@@ -318,6 +318,19 @@
   },
   "active": "4da0bc4093f32fd8",
   "lastOpenFiles": [
+    "penicillin.md",
+    "tonsillitis.md",
+    "scarlet fever.md",
+    "antibiotic guidelines.md",
+    "impetigo.md",
+    "whipple disease.md",
+    "benzylpenicillin.md",
+    "copd- acute exacerbation.md",
+    "asthma- acute attack.md",
+    "copd.md",
+    "immunisation in adults.md",
+    "missed pill window.md",
+    "cocp.md",
     "sciatica.md",
     "duloxetine.md",
     "incontinence- paeds.md",
@@ -331,19 +344,6 @@
     "depression.md",
     "erectile dysfunction.md",
     "sildenafil.md",
-    "beta adrenergic receptors.md",
-    "clubbing.md",
-    "primary biliary cholangitis & primary sclerosing cholangitis.md",
-    "congenital cyanotic diseases of heart.md",
-    "angina.md",
-    "difference in cardiac condition treatments.md",
-    "calcium channel blockers.md",
-    "heart failure.md",
-    "gout.md",
-    "qlaira.md",
-    "cocp.md",
-    "contraception.md",
-    "time for action of contraceptives.md",
     "attachments/a flutter.jpg",
     "attachments/a flutter with variable block.jpg",
     "attachments/monteggia vs galeazzi fracture.jpg",
