@@ -3,10 +3,12 @@ tags:
   - rheumat
   - ortho
 urls:
-  - https://www.nice.org.uk/guidance/ng219/chapter/Recommendations#diagnosis-and-assessment
   - "[The British Society for Rheumatology Guideline for the Management of Gout](https://academic.oup.com/rheumatology/article/56/7/1056/3855178?login=false)"
-  - "[NICE NG219- Management of Gout](https://www.nice.org.uk/guidance/ng219/chapter/Recommendations#long-term-management-of-gout)"
+  - "[NICE NG219- Long term Management of Gout](https://www.nice.org.uk/guidance/ng219/chapter/Recommendations#long-term-management-of-gout)"
   - "[NICE CKS- Gout](https://cks.nice.org.uk/topics/gout/management/acute-gout/)"
+  - "[NICE NG219- Gout: Recommendation](https://www.nice.org.uk/guidance/ng219/chapter/Recommendations#diagnosis-and-assessment)"
+aliases:
+  - hyperuricemia
 ---
 # Cause 
 ### Diseases: 
@@ -44,6 +46,7 @@ Give Naproxen, Ibuprofen at max dose in acute mx (up-to 2 days after symptoms se
 	- Just like we ask patients to not take [[statins]] when giving [[macrolides]]. 
 
 Discuss urate lowering therapy with all patients experiencing a first flare.
+ULT is esp recommended in >= 2 attacks in 12 months, tophi, renal disease, uric acid renal stones, prophylaxis if on cytotoxic / diuretics. 
 ## Long term
 - [[Allopurinol]] is only started after symptoms settle (2-4 weeks) > Febuxostat if not tolerated.
 	- *See [CKS](https://cks.nice.org.uk/topics/gout/management/preventing-gout/) before starting febuxostat*
@@ -53,10 +56,11 @@ Drugs used for Gout cause worsening of renal failure, heart failure (SOB and Dys
 - Give other Gout drugs instead like Colchicine, Prednisolone.
 - Regular 4 weekly monitoring of uric acid & renal function till uric acid < 300 (Target 300 - 360)
 #### Other points 
-- Consider stopping drugs that trigger gout. 
+- Consider stopping drugs that trigger gout (Thiazides, Loop diuretics)
 - Losartan = uricosuric + anti-HTN. 
 - Increasing Vit C in diet can reduce serum uric acid. 
 - Don't treat asymptomatic hyperuricemia. 
+- Lifestyle modifications: Avoid liver/kidneys/seafood/oily fish (sardines, mackerel)/yeast products
 ## Contraindications
 1. Aspirin (low dose) **not** given in gout as it can worsen it. 
 2. [[NSAID]] not given in renal impairment/[[asthma]]/HF/IHD -> Give Steroid/Colchicine instead. 
@@ -88,5 +92,5 @@ Drugs used for Gout cause worsening of renal failure, heart failure (SOB and Dys
 > Best treatment: **Colchicine (not Naproxen)**
 > 
 > *This man has an acute episode of gout. The uric acid levels can be normal as they are sequestered into the joint space.*
-> *Allopurinol reduces uric acid production and is useful for gout prophylaxis but should not be started during an acute flare. NSAIDs are relatively contraindicated by the ischaemic heart disease, renal dysfunction and hiatus hernia. Aspirin is generally not used for gout.* 
+> *Allopurinol reduces uric acid production and is useful for gout prophylaxis but should not be started during an acute flare. ==NSAIDs are relatively contraindicated by the ischaemic heart disease, renal dysfunction and hiatus hernia==. Aspirin is generally not used for gout.* 
 > *Prednisolone is relatively contraindicated by the high blood pressure, osteoporosis and hiatus hernia. This leaves colchicine as the best treatment choice. A steroid joint injection would be a reasonable alternative but may be detrimental to local osteoporosis.*

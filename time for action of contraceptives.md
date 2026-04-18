@@ -20,13 +20,14 @@ I for Instant: Cu-IUD
 # Progesterone Implant 
 - [[contraceptives|Nexplanon]] is an etonogestrel (progesterone) implant that prevents ovulation and thickens cervical mucus. If Nexplanon is inserted between day 1-5 of menstrual cycle, it will be effective immediately. However, if it is inserted at any other time in the cycle, it will not be effective until after 7 days. 
 - If patient was switching from POP or COCP, she'd be covered immediately. 
-# Progesterone Pill
-- For POP, if started in day 1-5, immediate effects else use 2 days of additional protection. 
+# Progesterone Pill 
+- For POP (traditional/desogestrel), if started in day 1-5, immediate effects else use 2 days of additional protection. 
 - Also, POP has no pill-free break. (like cyclical COCP: 21+7).
 - If taken after day 21 [[postpartum contraception|postpartum]] (ovulation very unlikely before day 21 post partum), need 2 days alternate contraception
 # COCP 
 - If [[cocp|COCP]] started within 5 days of the cycle, then no need for additional contraception. If any other day, then 7 days of alternative contraception.
 - See [[postpartum contraception|When to start COCP after delivery]]. 
+- *Note: Zoely & [[qlaira]] don't have the same guideline as other COCPs*
 # IUS
 *See [[contraceptives]]*
 - NOT FOR [[contraceptives in emergency|Emergency contraception]]. 
@@ -36,6 +37,7 @@ I for Instant: Cu-IUD
 | ----------------------------------------------- | --------------------------------------- |
 | Day 1–7 of cycle (first 7 days of menstruation) | Immediate protection                    |
 | After day 7 of cycle                            | Use additional contraception for 7 days |
+| day 1-5 for COCP/POP/Implant                    | immediate active                        |
 
 ---
 
@@ -53,6 +55,12 @@ If any one or more of the following criteria are met and there are no symptoms o
 - correct and reliable contraception use
 - within 5 days onset of a normal menstrual period
 - < 21 days post-partum (non-breastfeeding)
-- fully breastfeeding, amenorrheic, <6 months post-partum
+- fully breastfeeding, amenorrhoeic, <6 months post-partum
 - within the first 5 days after an abortion, miscarriage, ectopic pregnancy or uterine evacuation for gestational trophoblastic disease
 - not had intercourse for >21 days and urine pregnancy test is negative
+
+## Notes on quick starting if pregnancy cannot be excluded %%embedded%% 
+- additional contraceptive precautions (barrier or abstinence) are required until the quick started contraceptive method becomes effective
+- if [[contraceptives in emergency|Emergency contraception]] is not indicated or not accepted, then suitable hormonal contraception - the COCP, POP or the progestogen-only implant - can be started immediately
+- intrauterine contraception should not be offered due to the risks of adverse pregnancy outcomes unless pregnancy has been reasonably excluded or a woman meets the criteria for the copper intrauterine device for emergency contraception
+- A pregnancy test must be taken 21 days after the last UPSI (including due to failure to use additional contraceptive precautions after starting the new method but before it becomes effective)

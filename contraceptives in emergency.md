@@ -29,7 +29,7 @@ aliases:
 
 # EllaOne (Ulipristal)
 - Use within 120 hrs -> Prevents ovulation.
-- Ulipristal may reduce the effectiveness of hormonal contraception. Contraception with the pill, patch or ring should be started, or restarted, 5 days after having ulipristal. Barrier methods should be used during this period.
+- Ulipristal effectiveness can be reduced if Progesterone taken within 5 days. Contraception with the pill, patch or ring should be started/restarted 5 days after having ulipristal. Barrier methods should be used during this period.
 - ==breastfeeding should be delayed== for one week after taking ulipristal. There are no such restrictions on the use of levonorgestrel.
 - Caution in ==severe [[asthma]]==.
 - Can be used more than once in a cycle. 
@@ -42,8 +42,14 @@ aliases:
 
 ---
 # Question
-Q: Woman had UPSI **3 days ago** and wants **Mirena today**.
-Incorrect answer:  ❌ Insert Mirena now.
-Correct answers:  
-- Either do ✔ Copper IUD, OR
-- Give ✔ Oral Emergency contraception now + delay Mirena till Pregnancy ruled out (usually till after next period or >=21 days with negative test)
+> [!question]+ Question
+> **Q:** Woman had UPSI **3 days ago** and wants **Mirena today**.
+>
+> **Incorrect:** ❌ Insert Mirena now (not an emergency contraceptive)
+>**Correct:**  
+> - ✔ Copper IUD  
+> - ✔ Oral emergency contraception now **+** delay Mirena until pregnancy ruled out  
+>   *(after next period or ≥21 days with a negative test)*
+
+
+![[time for action of contraceptives#Notes on quick starting if pregnancy cannot be excluded embedded]]

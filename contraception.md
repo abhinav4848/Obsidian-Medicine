@@ -12,6 +12,7 @@ tags:
 > - [[cocp|COCP]]
 > 	- [[cocp- pill ladder|COCP Pill Ladder]] 
 > 	- [[postpartum cocp for contraception.canvas]] 
+> 	- [[qlaira]] 
 > - [[Time for action of contraceptives]]
 > 	- [[missed pill window]] 
 > - [[hrt|HRT]] 

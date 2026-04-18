@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "time for action of contraceptives.md",
+                "file": "gout.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "time for action of contraceptives"
+              "title": "gout"
             }
           }
         ],
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "contracepti",
+                "query": "gout",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "time for action of contraceptives.md",
+                "file": "gout.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of time for action of contraceptives"
+              "title": "Graph of gout"
             }
           }
         ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "time for action of contraceptives.md",
+                "file": "gout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for time for action of contraceptives"
+              "title": "Backlinks for gout"
             }
           }
         ]
@@ -318,8 +318,13 @@
   },
   "active": "4da0bc4093f32fd8",
   "lastOpenFiles": [
+    "qlaira.md",
+    "cocp.md",
+    "contraception.md",
+    "time for action of contraceptives.md",
     "contraceptives.md",
     "vitamin deficiency.md",
+    "contraceptives in emergency.md",
     "vitamin-d.md",
     "retinoids.md",
     "orlistat.md",
@@ -341,11 +346,6 @@
     "pseudogout.md",
     "ssri.md",
     "multiple sclerosis.md",
-    "pain ladder- neuropathic.md",
-    "shin lesions.md",
-    "erythema nodosum.md",
-    "falls.md",
-    "tricyclic antidepressants.md",
     "attachments/monteggia vs galeazzi fracture.jpg",
     "flow charts/postpartum cocp for contraception.canvas",
     "desktop.ini",
