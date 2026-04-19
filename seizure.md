@@ -91,8 +91,7 @@ See [[infantile spasms]]
 Febrile convulsions are seizures provoked by fever in otherwise normal children. 
 6m - 5 years. 
 Seen in 3% of children.  
-  
-Clinical features  
+##### Clinical features 
 - usually occur early in a viral infection as the temperature rises rapidly
 - seizures are usually brief, lasting less than 5 minutes
 - are most commonly tonic-clonic
@@ -104,23 +103,28 @@ Clinical features
 |Generalised seizure|Focal seizure||
 |Typically no recurrence within 24 hours|May have repeat seizures within 24 hours||
 |Should be complete recovery within an hour|||
-Management following a seizure  
-- children who have had a first seizure OR any features of a complex seizure should be admitted to paediatrics
-  
-Ongoing management  
-- parents should be advised to phone for an ambulance if the seizure lasts > 5 minutes
+##### Management following a seizure  
+- children who have had a first seizure OR any features of a complex seizure should be admitted to paediatrics. 
+- *First seizure urgent paeds review to confirm febrile. Subsequent simple febrile seizures can monitor at home.*
+##### Ongoing management  
+- Parents who witness their child's febrile seizure should take steps to prevent the child from harming him / herself. The child should be placed in recovery position whilst seizing.
+- Parents should be advised to phone for an ambulance if the seizure lasts > 5 minutes.
+- If the child has regular febrile convulsions then PR diazepam may be kept at home by the parents and administered if the seizure lasts longer than 5 minutes. 
 - regular antipyretics have not been shown to reduce the chance of a febrile seizure occurring
 - if recurrent febrile convulsions occur then benzodiazepine rescue medication may be considered
     - this should only be started on the advice of a specialist (e.g. a paediatrician)
-    - rectal diazepam or buccal midazolam may be used  
-
-Prognosis  
+    - rectal diazepam or buccal midazolam may be used 
+##### Prognosis 
 - the overall risk of further febrile convulsion = 1 in 3. This varies widely depending on risk factors for further seizure, including:
     - age of onset < 18 months
     - fever < 39ºC
     - shorter duration of fever before the seizure
     - a family history of febrile convulsions
 - link to epilepsy
-    - risk factors for developing epilepsy include a family history of epilepsy, having complex febrile seizures and a background of neurodevelopmental disorder
-    - children with no risk factors have a 2.5% risk of developing epilepsy
-    - if children have all 3 features the risk of developing epilepsy is much higher (e.g. 50%)
+    - risk factors for developing epilepsy include a f/h/o epilepsy, having complex febrile seizures and a background of neurodevelopmental disorder
+    - children with no risk factors have a ==2.5% risk of developing epilepsy==
+    - if children have all 3 features, the risk of developing epilepsy is much higher (e.g. 50%)
+- Preventative treatment for febrile convulsions is not recommended. The risks associated with regular anti-epileptic medications outweigh the benefits. There is also no evidence that regular paracetamol or ibuprofen use during an illness prevent febrile convulsions. Antipyretics may provide comfort to the child if they are febrile but there is no evidence that the risk of febrile convulsions is reduced.  
+
+
+  

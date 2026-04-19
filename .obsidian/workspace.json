@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "seizure.md",
+                "file": "genital ulcers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "seizure"
+              "title": "genital ulcers"
             }
           }
         ],
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "seizure.md",
+                "file": "genital ulcers.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -169,12 +169,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.20949574073247407,
+                  "scale": 0.5773023865568044,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of seizure"
+              "title": "Graph of genital ulcers"
             }
           }
         ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "seizure.md",
+                "file": "genital ulcers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for seizure"
+              "title": "Backlinks for genital ulcers"
             }
           }
         ]
@@ -318,8 +318,8 @@
   },
   "active": "4da0bc4093f32fd8",
   "lastOpenFiles": [
-    "infantile spasms.md",
     "seizure.md",
+    "infantile spasms.md",
     "bartter's syndrome.md",
     "hypokalemia.md",
     "conn's syndrome.md",
