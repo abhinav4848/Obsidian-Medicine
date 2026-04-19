@@ -12,14 +12,16 @@ aliases:
 ---
 # Cause 
 ### Diseases: 
-Seen in Polycythemia, [[leukaemia|leukaemia]], [[tumour lysis syndrome]], Psoriasis, Lesch-Nyhan syndrome (self mutilating disorder due to buildup of uric acid). 
+Seen in Polycythemia, [[leukaemia|leukaemia]], [[tumour lysis syndrome]], Psoriasis, Lesch-Nyhan syndrome (self mutilating disorder due to buildup of uric acid), exercise, myeloproliferative disorder. 
 ### Drugs
 #mnemonic : FACT 
 Furosemide, Alcohol excess, [[Cytotoxic drugs]] (cyclosporine), [[side effects of cvs drugs|thiazide]], [[tuberculosis|Pyrazinamide]]
-Drugs used for CHF cause gout: Thiazide, loop diuretics (prescribed first). 
+Drugs used for CHF cause gout: [[side effects of cvs drugs|Thiazide]], loop diuretics (prescribed first). 
 ### Foods
 Uric acid is produced from breakdown of purines. 
 **High purine containing**: Liver, Kidneys, Seafood, oily fish (mackerel, sardines), and yeast products. 
+### Decreased excretion
+- drugs: low-dose aspirin, diuretics, pyrazinamide; pre-eclampsia, alcohol, renal failure, Lead
 
 ---
 # Investigations

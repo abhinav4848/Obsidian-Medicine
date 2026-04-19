@@ -7,7 +7,7 @@ urls:
 ---
 It's a Lincosamide bacteriostatic agent, not a [[macrolides|macrolide]].  
 # Use
-Used first line in [[acne vulgaris]], [[gynaecological infections|bacterial vaginosis]] 
+Used first line in [[acne vulgaris]], [[gynaecological infections|bacterial vaginosis]], [[gynaecological infections|Endometritis]]
 Good for anaerobic infections. 
 # Complication
 Risk of [[c. difficile]]

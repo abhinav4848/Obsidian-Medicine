@@ -28,7 +28,12 @@ Helps prevent ovulation.
 - No pill free interval. 
 - Can be used for endometriosis. 
 - Around 50% of women on the POP have no bleeding, or very infrequent bleeding, and only 10% are reported to have more frequent bleeding or spotting, with long term POP use. 
-- [[postpartum contraception|postpartum women]] (breastfeeding & non-breastfeeding) can start the POP at any time postpartum, but if started after day 21, need additional 7 days of alternate contraception. 
+- [[postpartum contraception|postpartum women]] (breastfeeding & non-breastfeeding) can start the POP at any time postpartum, but if started after day 21, need [[time for action of contraceptives|additional 2 days]] of alternate contraception. 
+
+S/E
+- Irregular periods. Some users may not have periods and others irregular/light periods. 
+- Increased incidence of functional ovarian cysts
+- Breast tenderness, weight gain, acne, headaches. These subside in few months. 
 ## Implant (Nexplanon)
 *(Implanon has been replaced by Nexplanon)*
 - Nexplanon (etonogestrel 68 mg) is currently the only progestogen-only implant licensed for use in the UK. 
@@ -37,8 +42,8 @@ Helps prevent ovulation.
 - can be inserted immediately following termination of pregnancy. 
 
 **S/E:** 
-- Irregular/heavy bleeding. Sometimes managed with co-prescribing COCP. Do speculum/STI check if bleed continues. 
-- Progestogen effects: Headache, nausea, Breast pain. 
+- Irregular/heavy bleeding. Sometimes managed with co-prescribing COCP. Do speculum/[[sexually transmitted diseases|STI]] check if bleed continues. 
+- Progestogen effects: Headache, nausea, Breast tenderness. 
 
 **Contraindications**  
 - UKMEC 3*: IHD/stroke (for continuation. if initiation then UKMEC 2), unexplained, suspicious vaginal bleeding, past breast cancer, severe liver cirrhosis, liver cancer
