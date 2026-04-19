@@ -4,6 +4,7 @@ tags:
 aliases:
   - sickle cell anaemia
   - sickle cell disease
+  - Sickle Cell Anaemia
 ---
 # Sickle Cell
 Admit all people with clinical features of a sickle cell crisis to hospital unless they are:

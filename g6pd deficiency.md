@@ -3,11 +3,12 @@ tags:
   - haemat
 aliases:
   - G6PD deficiency
+  - Hereditary spherocytosis
 ---
+# G6PD deficiency
 [[afro-caribbean|Afro Caribbean]]
-X-linked recessive.
-
-Features 
+[[x linked inheritance|X-Linked Recessive]].
+#### Features 
 - neonatal jaundice is often seen
 - intravascular haemolysis 
 - gallstones are common
@@ -32,7 +33,7 @@ Some drugs thought to be safe
 # G6PD vs Hereditary Spherocytosis
 |                     | **G6PD deficiency**                                                                 | **Hereditary spherocytosis**                                                                                                                            |
 | ------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Gender**          | Male (X-linked recessive)                                                           | Male + female (autosomal dominant)                                                                                                                      |
+| **Gender**          | Male ([[x linked inheritance\|X-Linked Recessive]])                                 | Male + female ([[autosomal inheritance\|autosomal dominant]])                                                                                           |
 | **Ethnicity**       | African + Mediterranean descent                                                     | Northern European descent                                                                                                                               |
 | **Haemolysis**      | Intravascular                                                                       | Extravascular                                                                                                                                           |
 | **Typical history** | - Neonatal jaundice  <br>- Infection/drugs precipitate haemolysis  <br>- Gallstones | - Neonatal jaundice  <br>- Chronic symptoms although haemolytic crises may be precipitated by infection  <br>- Gallstones  <br>- Splenomegaly is common |

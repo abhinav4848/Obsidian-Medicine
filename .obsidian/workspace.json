@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "migraine.md",
+                "file": "seizure.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "migraine"
+              "title": "seizure"
             }
           }
         ],
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "migraine.md",
+                "file": "seizure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -169,12 +169,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.29370944735392507,
+                  "scale": 0.20949574073247407,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of migraine"
+              "title": "Graph of seizure"
             }
           }
         ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "migraine.md",
+                "file": "seizure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for migraine"
+              "title": "Backlinks for seizure"
             }
           }
         ]
@@ -318,33 +318,33 @@
   },
   "active": "4da0bc4093f32fd8",
   "lastOpenFiles": [
-    "migraine.md",
+    "infantile spasms.md",
+    "seizure.md",
+    "bartter's syndrome.md",
+    "hypokalemia.md",
+    "conn's syndrome.md",
+    "addison's disease.md",
+    "cushing's syndrome.md",
+    "childhood syndromes.md",
+    "fragile-x syndrome.md",
+    "autosomal inheritance.md",
+    "genetics terminology.md",
+    "sickle cell.md",
+    "cystic fibrosis.md",
+    "guthrie test.md",
+    "g6pd deficiency.md",
+    "x linked inheritance.md",
+    "lipids.md",
     "contraceptives.md",
+    "prostate.md",
+    "migraine.md",
     "menopause.md",
     "hrt- negatives.md",
     "siadh.md",
     "hyponatremia.md",
-    "addison's disease.md",
     "acne vulgaris.md",
     "folic acid.md",
-    "amenorrhoea (primary).md",
-    "turner's syndrome.md",
-    "x linked inheritance.md",
-    "amenorrhoea (secondary).md",
-    "osteoporosis.md",
-    "androgen insensitivity syndrome.md",
-    "puberty.md",
-    "gout.md",
-    "side effects of cvs drugs.md",
-    "cancer- cervical.md",
-    "difference in cardiac condition treatments.md",
-    "hyperglycemia.md",
     "flow charts/cervical cancer screening pathway.canvas",
-    "childhood syndromes.md",
-    "essential tremor.md",
-    "oral allergy syndrome.md",
-    "contraceptive choice for young people.md",
-    "sexually transmitted diseases.md",
     "attachments/menstrual cycle phases.jpg",
     "attachments/a flutter.jpg",
     "attachments/a flutter with variable block.jpg",

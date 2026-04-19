@@ -18,6 +18,12 @@ cssclasses:
 - 2 Cs -> Cushing's (High cortisol), Conn's (High aldosterone)
 - R: Renal tubular acidosis
 
+| Hypokalaemia with hypertension                                                                                                             | Hypokalaemia without hypertension                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| - [[Cushing's syndrome]]<br>- [[Conn's syndrome]] (primary hyperaldosteronism)<br>- Liddle's syndrome<br>- 11-beta hydroxylase deficiency* | - diuretics<br>- GI loss (e.g. Diarrhoea, vomiting)<br>- renal tubular acidosis (type 1 and 2**)<br>- Bartter's syndrome<br>- Gitelman syndrome |
+\*21-hydroxylase deficiency, which accounts for 90% of [[congenital adrenal hyperplasia]] cases, is not associated with hypertension  
+  
+\*\*type 4 renal tubular acidosis is associated with hyperkalaemia
 # Clinical Features
 Fainting, Tiredness, Weakness, Leg Cramps. 
 **ECG**: [[qt prolongation|long QT syndrome]], Depressed ST segment & T wave, U wave on ECG.

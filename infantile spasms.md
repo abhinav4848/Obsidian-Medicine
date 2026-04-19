@@ -5,7 +5,7 @@ tags:
 aliases:
   - West Syndrome
 urls:
-  - https://www.youtube.com/results?search_query=salaam+attack
+  - "[YouTube- Salaam Attacks](https://www.youtube.com/results?search_query=salaam+attack)"
 ---
 *See [[seizure]]*
 

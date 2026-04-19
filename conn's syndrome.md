@@ -3,7 +3,9 @@ tags:
   - endocrine
 aliases:
   - hyperaldosteronism
-urls: https://www.youtube.com/watch?v=oSqLwPv8bb4
+  - Conn's Syndrome
+urls:
+  - "[YouTube- Hyperaldosteronism and Conn's Syndrome](https://www.youtube.com/watch?v=oSqLwPv8bb4)"
 ---
 # Primary Hyperaldosteronism
 **Pathophysiology**: Aldosterone high, Renin low (negative feedback due to sodium retention from aldosterone)

@@ -2,11 +2,13 @@
 tags:
   - paeds
   - respiratory
+aliases:
+  - Cystic Fibrosis
 ---
-Autosomal Recessive, causes increased viscosity of secretions. 
+[[autosomal inheritance|autosomal recessive]], causes increased viscosity of secretions. 
 1 in 2500 newborns
 ## Definition & Summary
-Steatorrhea (Malabsorption), foul smelling, Respiratory infections, cough, delayed growth-> Failure to thrive, abdominal distension.
+Steatorrhea (Malabsorption), foul smelling, Respiratory infections, cough, delayed growth-> Failure to thrive, abdominal distension. 
 ## Test
 **Prenatal test**: Echogenic bowel on USG
 **Post natal**: Meconium ileus, Bilious vomiting
@@ -15,7 +17,7 @@ Steatorrhea (Malabsorption), foul smelling, Respiratory infections, cough, delay
 
 ## Clinical features
 24-48 hrs after birth
-- [[Meconeum Ileus]]: Abdominal distension and bilious vomiting.
+- Meconeum Ileus: Abdominal distension and bilious vomiting.
 - Baby has yet to pass any meconeum. 
 
 [[bronchiectasis]]

@@ -39,7 +39,7 @@ Hypertriglyceridaemia secondary to poor diabetic control does not respond well t
 
 ---
 # Familial Hypercholesterolemia
-Autosomal dominant. 
+[[autosomal inheritance|Autosomal dominant]]. 
 Suspect if 
 - Total cholesterol > 7.5mmol/L
 - Personal or f/h/o premature coronary heart disease (event <60yo in an index individual or first degree relative)

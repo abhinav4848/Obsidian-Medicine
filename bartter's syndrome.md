@@ -2,8 +2,9 @@
 tags:
   - endocrine
 ---
-Usually autosomal recessive.
-Severe hypokalemia & [[magnesium|Hypomagnesemia]]
+Usually [[autosomal inheritance|autosomal recessive]]. 
+
+Severe [[hypokalemia]] & [[magnesium|Hypomagnesemia]]
 Due to defective chloride absorption at the Na+ K+ 2CI- cotransporter (NKCC2) in the ascending loop of Henle.
 
 Associated with **normotension**.
@@ -13,7 +14,7 @@ As Loop diuretics work by inhibiting NKCC2, think of Bartter's syndrome as like 
 # Features:
 Usually presents in childhood (Classic Bartter's), e.g. Failure to thrive.
 
-Another major type is the **neonatal Bartter's syndrome** "seen between the gestational week 24-30 with excess amniotic fluid (polyhydramnios.). After birth, excessive polyuria and  polydipsia with tendency to dehydration.
+Another major type is the **neonatal Bartter's syndrome** seen between the gestational week 24-30 with excess amniotic fluid (polyhydramnios.). After birth, excessive polyuria and  polydipsia with tendency to dehydration.
 - Polyuria, polydipsia (think of it as like taking large doses of loop diuretics).
 - [[Hypokalemia]] (low K+)
 - Normotension (Normal BP). Or sometimes low BP but not high!

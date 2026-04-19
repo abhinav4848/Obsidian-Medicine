@@ -59,7 +59,7 @@ See [[infantile spasms]]
     - EEG: hypsarrhythmia
 - usually secondary to serious neurological abnormality (e.g. tuberous sclerosis, encephalitis, birth asphyxia) or may be idiopathic
 - possible treatments include vigabatrin and steroids
-- has a poor prognosis
+- has a **poor prognosis**
 ### Lennox-Gastaut syndrome
 - may be an extension of infantile spasms
 - onset 1-5 yrs
@@ -72,16 +72,55 @@ See [[infantile spasms]]
 ### Benign rolandic epilepsy  
 - most common in childhood, more common in males
 - features: paraesthesia (e.g. unilateral face), usually on waking up
-
 ### Juvenile myoclonic epilepsy (Janz syndrome)  
 - typical onset is in the teenage years, more common in girls
 - Patients usually initially present with either absences or intermittent myoclonus of the upper limbs. They later develop GTCS, usually within a few months of the onset of the myoclonus. Prompt referral to paediatric neurology is needed to ascertain the diagnosis and commence treatment.
-- **features**:
+- **Features**:
 	- Can present with absences and/or myoclonus before progressing to generalised seizures
     - infrequent generalized seizures, often in morning//following sleep deprivation
     - daytime absences
     - sudden, shock-like myoclonic seizure (these may develop before seizures)
-- **treatment**: usually good response to sodium valproate. 
+- **Treatment**: usually good response to sodium valproate. 
 
-> [!Question]- Question
+> [!Question]+ Question
 > A 14-year-old-girl attends along with her parents. They report that for the last month they have noticed occasional 'twitches' of her arms. These are more common early in the morning. The girl herself reports she keeps experiencing 'electric shocks' in her arms that come without warning. She tells you that these 'shocks' only last a split-second and she is fully conscious throughout. She is otherwise well with no symptoms of note. She admits that he's been quite stressed recently with the run up to her imminent mock exams at school.
+> 
+> A: Juvenile myoclonic epilepsy
+
+### Febrile convulsions
+Febrile convulsions are seizures provoked by fever in otherwise normal children. 
+6m - 5 years. 
+Seen in 3% of children.  
+  
+Clinical features  
+- usually occur early in a viral infection as the temperature rises rapidly
+- seizures are usually brief, lasting less than 5 minutes
+- are most commonly tonic-clonic
+##### Types of febrile convulsion: 
+
+|Simple|Complex|Febrile status epilepticus|
+|---|---|---|
+|< 15 minutes|15 - 30 minutes|> 30 minutes|
+|Generalised seizure|Focal seizure||
+|Typically no recurrence within 24 hours|May have repeat seizures within 24 hours||
+|Should be complete recovery within an hour|||
+Management following a seizure  
+- children who have had a first seizure OR any features of a complex seizure should be admitted to paediatrics
+  
+Ongoing management  
+- parents should be advised to phone for an ambulance if the seizure lasts > 5 minutes
+- regular antipyretics have not been shown to reduce the chance of a febrile seizure occurring
+- if recurrent febrile convulsions occur then benzodiazepine rescue medication may be considered
+    - this should only be started on the advice of a specialist (e.g. a paediatrician)
+    - rectal diazepam or buccal midazolam may be used  
+
+Prognosis  
+- the overall risk of further febrile convulsion = 1 in 3. This varies widely depending on risk factors for further seizure, including:
+    - age of onset < 18 months
+    - fever < 39ºC
+    - shorter duration of fever before the seizure
+    - a family history of febrile convulsions
+- link to epilepsy
+    - risk factors for developing epilepsy include a family history of epilepsy, having complex febrile seizures and a background of neurodevelopmental disorder
+    - children with no risk factors have a 2.5% risk of developing epilepsy
+    - if children have all 3 features the risk of developing epilepsy is much higher (e.g. 50%)
