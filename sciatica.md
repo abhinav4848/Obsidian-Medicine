@@ -29,6 +29,8 @@ The table below indicates some specific causes of LBP
 | **Spinal stenosis**             | Usually gradual onset  <br>Unilateral or bilateral leg pain (with or without back pain), numbness, and weakness which is worse on walking. Resolves when sits down. Pain may be described as 'aching', 'crawling'.  <br>==Relieved by sitting down, leaning forwards and crouching down==<br>Clinical examination is often normal  <br>Requires MRI to confirm diagnosis |
 | **[[Ankylosing spondylitis]]**  | Typically a young man who presents with lower back pain and stiffness  <br>Stiffness is usually worse in ==morning== and improves with activity  <br>Peripheral arthritis (25%, more common if female)                                                                                                                                                                   |
 | **Peripheral arterial disease** | Pain on walking, relieved by rest  <br>Absent or weak foot pulses and other signs of limb ischaemia  <br>Past history may include smoking and other vascular diseases                                                                                                                                                                                                    |
+| Lumbar canal stenosis           | Older age + back pain that radiates to thigh/calves on walking/exercise & settles with rest (sitting down) & bending forward. Walking uphill is easier. <br>-> Lumbar spinal canal stenosis or vascular claudication from peripheral vascular disease are likely. Peripheral vascular disease is more common than these.                                                 |
+
 # Sciatica management
 - Advise symptoms settle in 4-6 weeks (if MSK. Longer if discitis)
 	- If longer, then consider MRI. 
@@ -47,10 +49,10 @@ The table below indicates some specific causes of LBP
 > 7. Arthritis UK back pain booklet: https://authoring.arthritis-uk.org/media/ueydp3gz/arthritis-uk-back-pain-booklet.pdf 
 
 # Nerve compression
-|**Site of compression**|**Features**|
-|---|---|
-|**L3 nerve root compression**|Sensory loss over anterior thigh  <br>Weak hip flexion, knee extension and hip adduction  <br>Reduced knee reflex  <br>Positive femoral stretch test|
-|**L4 nerve root compression**|Sensory loss anterior aspect of knee and medial malleolus  <br>Weak knee extension and hip adduction  <br>Reduced knee reflex  <br>Positive femoral stretch test|
-|**L5 nerve root compression**|Sensory loss dorsum of foot  <br>Weakness in foot and big toe dorsiflexion  <br>Reflexes intact  <br>Positive sciatic nerve stretch test|
-|**S1 nerve root compression**|Sensory loss posterolateral aspect of leg and lateral aspect of foot  <br>Weakness in plantar flexion of foot  <br>Reduced ankle reflex  <br>Positive sciatic nerve stretch test|
+| **Site of compression**       | **Features**                                                                                                                                                                     |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **L3 nerve root compression** | Sensory loss over anterior thigh  <br>Weak hip flexion, knee extension and hip adduction  <br>Reduced knee reflex  <br>Positive femoral stretch test                             |
+| **L4 nerve root compression** | Sensory loss anterior aspect of knee and medial malleolus  <br>Weak knee extension and hip adduction  <br>Reduced knee reflex  <br>Positive femoral stretch test                 |
+| **L5 nerve root compression** | Sensory loss dorsum of foot  <br>Weakness in foot and big toe dorsiflexion  <br>Reflexes intact  <br>Positive sciatic nerve stretch test                                         |
+| **S1 nerve root compression** | Sensory loss posterolateral aspect of leg and lateral aspect of foot  <br>Weakness in plantar flexion of foot  <br>Reduced ankle reflex  <br>Positive sciatic nerve stretch test |
 ![Dermatomes|665](https://upload.wikimedia.org/wikipedia/commons/9/93/Grant_1962_663.png)

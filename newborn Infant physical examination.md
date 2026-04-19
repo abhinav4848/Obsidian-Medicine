@@ -24,3 +24,6 @@ See: [NIPE Source](https://www.gov.uk/government/publications/newborn-and-infant
 | **Pre school**       | National orthoptist-led programme for pre-school vision screening to be introduced                                                                                                                                                                                                                                           |
 | **Ongoing**          | Monitoring of growth, vision, hearing  <br>Health professionals advice on immunisations, diet, accident prevention                                                                                                                                                                                                           |
 \*this doesn't seem to happen in practice with health visitors usually taking over at 2 weeks
+
+# Breech babies
+All breech babies at or after 36 weeks gestation require USS for [[developmental dysplasia of the hip|DDH]] screening at 6 weeks regardless of mode of delivery (Normal or C-section). 

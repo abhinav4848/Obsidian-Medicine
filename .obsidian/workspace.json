@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "genital ulcers.md",
+                "file": "developmental dysplasia of the hip.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "genital ulcers"
+              "title": "developmental dysplasia of the hip"
             }
           }
         ],
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "genital ulcers.md",
+                "file": "developmental dysplasia of the hip.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of genital ulcers"
+              "title": "Graph of developmental dysplasia of the hip"
             }
           }
         ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "genital ulcers.md",
+                "file": "developmental dysplasia of the hip.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for genital ulcers"
+              "title": "Backlinks for developmental dysplasia of the hip"
             }
           }
         ]
@@ -318,6 +318,14 @@
   },
   "active": "4da0bc4093f32fd8",
   "lastOpenFiles": [
+    "newborn Infant physical examination.md",
+    "developmental dysplasia of the hip.md",
+    "sciatica.md",
+    "genital ulcers.md",
+    "degenerative cervical myelopathy.md",
+    "acanthosis nigricans.md",
+    "diabetes drugs.md",
+    "hepatitis.md",
     "seizure.md",
     "infantile spasms.md",
     "bartter's syndrome.md",
@@ -336,14 +344,6 @@
     "x linked inheritance.md",
     "lipids.md",
     "contraceptives.md",
-    "prostate.md",
-    "migraine.md",
-    "menopause.md",
-    "hrt- negatives.md",
-    "siadh.md",
-    "hyponatremia.md",
-    "acne vulgaris.md",
-    "folic acid.md",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/menstrual cycle phases.jpg",
     "attachments/a flutter.jpg",
