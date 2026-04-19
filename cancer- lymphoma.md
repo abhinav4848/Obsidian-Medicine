@@ -20,7 +20,7 @@ A type of cancer originating in the lymphatic system.
 - (can cause [[leukaemia|ALL]]. Assoc with [[epstein barr virus|EBV]] & [[hiv|HIV]]. Radiation for HL can lead to NHL.)
 ### c/f
 - Painless cervical [[lymphadenopathy]], [[pruritus]], anaemia, [[blood tests|eosinophilia]] (due to cytokine release).
-	- Involves more central nodes (cervical/supraclavicular) > axillary > inguinal. The nodes affected are in close proximity. 
+	- involves more central nodes (cervical/supraclavicular) > axillary > inguinal. The nodes affected are in close proximity. 
 	- Normocytic anaemia due to hypersplenism, Bone marrow replacement by HL, Coombs-positive haemolytic anaemia
 - **B Symptoms**: fever, night sweats, weight loss #named (more common in HL than NHL).
 - Has [[alcohol]] induced pain. 
@@ -51,7 +51,7 @@ Do Excision Biopsy.
 ## DDX 
 #confusion 
 - [[toxoplasmosis]]: Splenomegaly, LNE seen but Weight loss not seen.
-- EBV causes HL, NHL (Burkitt in HIV), Hairy leukoplakia (HIV). 
+- EBV causes HL, NHL (Burkitt in HIV), [[Hairy leukoplakia]] (HIV). 
 - [[epstein barr virus|Infectious Mononucleosis]] vs Lymphoma: sore throat in IM, exudative pus over tonsils, tender tonsils, monospot test +ve, rash after taking ampicillin.
 - [[tuberculosis|TB]] has diurnal fever, sweat, weight loss if chronic, tender matted LN (HL has non tender), h/o productive cough, no organomegaly, h/o travel.
 - [[leukaemia|CLL]] has generalised LNE. 

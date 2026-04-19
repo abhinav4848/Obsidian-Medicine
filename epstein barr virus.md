@@ -25,6 +25,7 @@ In IMN (Glandular fever), the most likely organ to be involved is -> Spleen
 
 IN [[HIV]], EBV can cause [[hairy leukoplakia]]. 
 [[cancer- ent|nasopharyngeal cancer]], Burkitt Lymphoma. #associated 
+Can cause [[cancer- lymphoma|Hodgkin's lymphoma]] 
 Ampicillin/amoxicillin leads to rash.
 # Investigation
 Paul Bunnel/Monospot/heterophile antibody test -> Do FBC & Monospot in 2nd week of illness to confirm diagnosis. #named 

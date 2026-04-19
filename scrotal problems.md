@@ -8,6 +8,7 @@ aliases:
   - epididymal cyst
   - hydrocele
   - inguinal hernia
+  - testicular problems
 ---
 See: [NICE CKS Scrotal swelling/Pain differentiating features](https://cks.nice.org.uk/topics/scrotal-pain-swelling/diagnosis/assessment/#differentiating-clinical-features) 
 # Varicocele 

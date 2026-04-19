@@ -33,7 +33,7 @@ Impulse control disorders: More common with
 ---
 # Treatment regimen
 For first-line treatment:
-- If the motor symptoms are affecting the patient's quality of life: levodopa
+- If the motor symptoms are affecting the patient's quality of life: **levodopa**
 - If the motor symptoms are not affecting the patient's quality of life: dopamine agonist (non-ergot derived), levodopa or MAO‑B inhibitor
 
 | Improvements               | Levodopa                                 | Dopamine agonists                              | MAO-B inhibitors                         |

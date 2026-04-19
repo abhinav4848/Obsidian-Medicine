@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lower limb ortho problems.md",
+                "file": "parkinson's disease.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "lower limb ortho problems"
+              "title": "parkinson's disease"
             }
           }
         ],
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "acetabul",
+                "query": "child abuse",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "lower limb ortho problems.md",
+                "file": "parkinson's disease.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of lower limb ortho problems"
+              "title": "Graph of parkinson's disease"
             }
           }
         ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lower limb ortho problems.md",
+                "file": "parkinson's disease.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lower limb ortho problems"
+              "title": "Backlinks for parkinson's disease"
             }
           }
         ]
@@ -318,8 +318,13 @@
   },
   "active": "4da0bc4093f32fd8",
   "lastOpenFiles": [
-    "foot problems.md",
+    "scrotal problems.md",
+    "otitis.md",
+    "cancer- lymphoma.md",
+    "hairy leukoplakia.md",
+    "epstein barr virus.md",
     "lower limb ortho problems.md",
+    "foot problems.md",
     "hip dislocation.md",
     "statistics- screening tests.md",
     "platelets.md",
@@ -340,11 +345,6 @@
     "antibiotic guidelines.md",
     "impetigo.md",
     "whipple disease.md",
-    "benzylpenicillin.md",
-    "copd- acute exacerbation.md",
-    "asthma- acute attack.md",
-    "copd.md",
-    "immunisation in adults.md",
     "attachments/a flutter.jpg",
     "attachments/a flutter with variable block.jpg",
     "attachments/monteggia vs galeazzi fracture.jpg",
