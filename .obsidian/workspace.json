@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "statistics- screening tests.md",
+                "file": "lower limb ortho problems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "statistics- screening tests"
+              "title": "lower limb ortho problems"
             }
           }
         ],
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "likelihood ratio",
+                "query": "acetabul",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "statistics- screening tests.md",
+                "file": "lower limb ortho problems.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of statistics- screening tests"
+              "title": "Graph of lower limb ortho problems"
             }
           }
         ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "statistics- screening tests.md",
+                "file": "lower limb ortho problems.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for statistics- screening tests"
+              "title": "Backlinks for lower limb ortho problems"
             }
           }
         ]
@@ -318,6 +318,10 @@
   },
   "active": "4da0bc4093f32fd8",
   "lastOpenFiles": [
+    "foot problems.md",
+    "lower limb ortho problems.md",
+    "hip dislocation.md",
+    "statistics- screening tests.md",
     "platelets.md",
     "trimethoprim.md",
     "antipsychotic drugs.md",
@@ -341,10 +345,6 @@
     "asthma- acute attack.md",
     "copd.md",
     "immunisation in adults.md",
-    "missed pill window.md",
-    "cocp.md",
-    "sciatica.md",
-    "duloxetine.md",
     "attachments/a flutter.jpg",
     "attachments/a flutter with variable block.jpg",
     "attachments/monteggia vs galeazzi fracture.jpg",

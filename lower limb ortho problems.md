@@ -4,6 +4,26 @@ tags:
   - list
 cssclasses:
   - red-border
+aliases:
+  - Inflammatory arthritis
+  - Referred lumbar spine pain
+  - Greater trochanteric pain syndrome
+  - Trochanteric bursitis
+  - Meralgia paraesthetica
+  - Avascular necrosis
+  - Symphysis pubic dysfunction
+  - Transient idiopathic osteoporosis
+  - Fracture neck of femur
+  - Acetabular labral tears
+  - ACL injury
+  - LCL injury
+  - MCL injury
+  - Meniscal tear
+  - PCL injury
+  - Achilles tendon rupture
+  - Achilles tendonitis
+  - Common peroneal nerve palsy
+  - Foot fractures
 ---
 
 *See [[upper limb ortho problems]].* 
@@ -45,6 +65,7 @@ cssclasses:
 | **Symphysis Pubic dysfunction**                                | Common in pregnancy  <br>Ligament laxity increases in response to hormonal changes of pregnancy  <br>Pain over the pubic symphysis with radiation to the groins and the medial aspects of the thighs. A waddling gait may be seen                                            |
 | **Transient idiopathic osteoporosis**                          | An uncommon condition sometimes seen in the third trimester of pregnancy. Groin pain associated with a limited range of movement in the hip. Patients may be unable to weight bear. <br>ESR may be elevated                                                                  |
 | **Fracture Neck of Femur**                                     |                                                                                                                                                                                                                                                                              |
+| **Acetabular labral tears**                                    | Acetabular labral tears typically present with hip/groin pain and a snapping sensation.<br>Happens to athletic players & happens due to mild trauma like twisting or falling.                                                                                                |
 # Knee
 ##### Knee Problems
 ![[knee orthopaedic pathologies.png|400]]
@@ -65,7 +86,7 @@ cssclasses:
 | **MCL injury**    | Direct impact to lateral side (valgus test +ve).<br><br>Can also be accompanied by medial meniscal tear & lock knee.                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | **Meniscal tear** | Player jumps and lands on a slightly **twisted** (outwards) knee causing (medial) meniscus tear. Associated with MCL tear so that's a better option to pick if present.<br><br>Locking 🔒 (also in [[Osteochondritis dissecans]]) if displaced meniscal tears. <br>Knee may give way. <br>Pain worse on straightening leg.<br>Tenderness along joint line. <br>**Thessaly's test**: weight bearing at 20 degrees of knee flexion, patient supported by doctor, postive if pain on twisting knee #named <br><br>Apley & McMurray tests #named <br>Delayed swelling<br>Do MRI. |
 | **PCL Injury**    | Hyperflexion or Anterior direct impact (Dashboard), fall on flexed knee.  <br>Posterior drawer test.                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-# Foot
+# Leg (below Knee)
 See other foot conditions: [[foot problems]]
 
 |                                 |                                                                                                                                                                                                                                                                                                                                                                                                               |
