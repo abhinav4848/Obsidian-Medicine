@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "platelets.md",
+                "file": "statistics- screening tests.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "platelets"
+              "title": "statistics- screening tests"
             }
           }
         ],
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "olanzapine",
+                "query": "likelihood ratio",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "platelets.md",
+                "file": "statistics- screening tests.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of platelets"
+              "title": "Graph of statistics- screening tests"
             }
           }
         ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "platelets.md",
+                "file": "statistics- screening tests.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for platelets"
+              "title": "Backlinks for statistics- screening tests"
             }
           }
         ]
@@ -318,10 +318,10 @@
   },
   "active": "4da0bc4093f32fd8",
   "lastOpenFiles": [
+    "platelets.md",
     "trimethoprim.md",
     "antipsychotic drugs.md",
     "pancytopenia.md",
-    "platelets.md",
     "breastfeeding.md",
     "headache.md",
     "nash.md",
