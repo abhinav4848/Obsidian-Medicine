@@ -11,6 +11,8 @@ aliases:
   - cyclical HRT
   - continuous HRT
 ---
+![[contraception]]
+
 The average woman in the UK goes through the menopause when she is 51 years old. 
 **Definition**
 - 12 months after the last period in women > 50 years
