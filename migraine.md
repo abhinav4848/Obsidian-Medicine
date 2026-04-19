@@ -1,6 +1,8 @@
 ---
 tags:
   - neurology
+urls:
+  - "[NICE CKS- Drugs for acute migraine](https://cks.nice.org.uk/topics/migraine/prescribing-information/drugs-for-acute-migraine/)"
 ---
 Pulsating/throbbing unilateral [[headache]] lasting up to 72 hrs. 
 Migraine w/o aura is the MCC of primary headache in children.
@@ -13,7 +15,7 @@ Can be one side.
 However, prolonged aura without infarction can occur in rare cases of 
 - familial hemiplegic migraine (FHM), or 
 - sporadic hemiplegic migraine (SHM), 
-but these are very specific subtypes of migraines with additional diagnostic criteria beyond just prolonged aura duration.
+but these are very specific subtypes of migraines with additional diagnostic criteria beyond just prolonged aura duration. 
 # Criteria for paediatric migraine w/o aura
 
 | A   | >= 5 attacks fulfilling features B to D                                                                                                                                                                                    |
@@ -26,12 +28,16 @@ but these are very specific subtypes of migraines with additional diagnostic cri
 # Treatment in Adults
 ### Acute
 Sumatriptan (Oral if age >18, else nasal) + [[nsaid|NSAID]] (Aspirin 900mg) or PCT.
+- *Triptans to be taken soon after onset of headache, not onset of aura.* ([CKS](https://cks.nice.org.uk/topics/migraine/management/adults/#:~:text=If%20they%20have%20aura%2C%20triptans%20should%20be%20taken%20at%20the%20start%20of%20the%20headache%20and%20not%20at%20the%20start%20of%20the%20aura%20(unless%20the%20aura%20and%20headache%20start%20simultaneously).))
 If not controlled, add non-oral [[metoclopramide]]/prochlorperazine +/- non-oral NSAID/Triptan.
+#### Triptan s/e & c/i
+- 'triptan sensations': tingling, heat, tightness (e.g. throat and chest), heaviness, pressure. 
+- contraindications: IHD, Cerebrovascular disease, age > 65yo, hepatic impairment, MAOi (taken in last 2 weeks)
 ### Chronic
 - Propranolol (Can give if pregnant. Avoid beta-blocker in [[asthma]]) >
 - Topiramate (teratogenic & contraceptive failure) >
 - Amitriptyline
-- Acupuncture
+- Acupunctur
 # Treatment in Children
 Ibuprofen is the first-line treatment for paediatric migraines.
 - Avoid aspirin in children (Reye syndrome).
