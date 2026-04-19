@@ -25,7 +25,6 @@ Thrombocytosis + low ferritin or microcytosis is concerning for GI malignancy.
 - Heparin
 ### Other causes
 [[pre-eclampsia]] 
-
 ## Can lead to
 - spontaneous cutaneous [[petechiae & purpura|purpura]] or ecchymoses
 - mucous membrane bleeding

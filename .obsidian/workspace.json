@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "headache.md",
+                "file": "platelets.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "headache"
+              "title": "platelets"
             }
           }
         ],
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fertility",
+                "query": "olanzapine",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "headache.md",
+                "file": "platelets.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of headache"
+              "title": "Graph of platelets"
             }
           }
         ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "headache.md",
+                "file": "platelets.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for headache"
+              "title": "Backlinks for platelets"
             }
           }
         ]
@@ -318,6 +318,12 @@
   },
   "active": "4da0bc4093f32fd8",
   "lastOpenFiles": [
+    "trimethoprim.md",
+    "antipsychotic drugs.md",
+    "pancytopenia.md",
+    "platelets.md",
+    "breastfeeding.md",
+    "headache.md",
     "nash.md",
     "seborrhoeic dermatitis.md",
     "fertility.md",
@@ -339,12 +345,6 @@
     "cocp.md",
     "sciatica.md",
     "duloxetine.md",
-    "incontinence- paeds.md",
-    "osgood-schlatter.md",
-    "Untitled.md",
-    "limping child.md",
-    "legg-calve-perthe's disease.md",
-    "slipped upper femoral epiphysis.md",
     "attachments/a flutter.jpg",
     "attachments/a flutter with variable block.jpg",
     "attachments/monteggia vs galeazzi fracture.jpg",

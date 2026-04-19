@@ -26,9 +26,11 @@ Antipsychotics counter the effects of dopamine excess in [[delirium]], psychosis
 **Examples**: Clozapine, Olanzapine, Risperidone, Quetiapine, Aripiprazole
 **Side Effects**: 
 - EPS less common than typicals
-- **Clozapine**: agranulocytosis 
-- **Olanazapine**: High risk of dyslipidemia and obesity -> high risk of [[deep vein thrombosis|DVT]]
+- **Clozapine**: agranulocytosis, neutropenia, [[platelets|thrombocytopenia]]
+- **Olanzapine**: 
+	- High risk of dyslipidemia and obesity -> high risk of [[deep vein thrombosis|DVT]]
 	- O = big belly - causes weight gain > causes VTE. #mnemonic 
+	- Agranulocytosis
 - Greater lowering of [[seizure]] thresholds than typicals. 
 
 # Other Side effects (for both)

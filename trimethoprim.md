@@ -20,7 +20,9 @@ If must be used, give 5mg Folic acid daily.
 Very small risk of 
 - severe cutaneous adverse reactions (SJS, [[erythema multiforme]], exfoliative dermatitis)
 - Bone marrow suppression: 
-	- agranulocytosis 
-	- [[platelets|thrombocytopenia]]
+	- agranulocytosis (can appear as persistent sore throat)
+	- [[platelets|thrombocytopenia]] (leading to menorrhagia, gum/nose bleed)
+	- [[pancytopenia]]
+		- #mnemonic Tri = three: all 3 blood counts go down
 	- patients and their carers should be told to seek immediate medical attention if symptoms such as fever, sore throat, rash, mouth ulcers, purpura, bruising or bleeding develop. The BNF also recommends regular FBC. 
 [[sick day rule]]: There's increased risk of [[hyperkalemia|Hyperkalaemia]], and may also cause a ‘false’ rise in creatinine by interfering with tubular creatinine secretion, resulting in a ‘false positive’ diagnosis of AKI. 
