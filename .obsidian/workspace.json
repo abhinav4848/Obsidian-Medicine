@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "amenorrhoea (primary).md",
+                "file": "folic acid.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "amenorrhoea (primary)"
+              "title": "folic acid"
             }
           }
         ],
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "amenorrhoea (primary).md",
+                "file": "folic acid.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of amenorrhoea (primary)"
+              "title": "Graph of folic acid"
             }
           }
         ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "amenorrhoea (primary).md",
+                "file": "folic acid.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for amenorrhoea (primary)"
+              "title": "Backlinks for folic acid"
             }
           }
         ]
@@ -318,15 +318,19 @@
   },
   "active": "4da0bc4093f32fd8",
   "lastOpenFiles": [
-    "puberty.md",
     "amenorrhoea (primary).md",
+    "turner's syndrome.md",
+    "x linked inheritance.md",
+    "amenorrhoea (secondary).md",
+    "osteoporosis.md",
+    "androgen insensitivity syndrome.md",
+    "puberty.md",
     "gout.md",
     "side effects of cvs drugs.md",
     "cancer- cervical.md",
     "difference in cardiac condition treatments.md",
     "hyperglycemia.md",
     "flow charts/cervical cancer screening pathway.canvas",
-    "x linked inheritance.md",
     "childhood syndromes.md",
     "essential tremor.md",
     "oral allergy syndrome.md",
@@ -341,10 +345,6 @@
     "time for action of contraceptives.md",
     "parkinson's disease.md",
     "scrotal problems.md",
-    "otitis.md",
-    "cancer- lymphoma.md",
-    "hairy leukoplakia.md",
-    "epstein barr virus.md",
     "attachments/menstrual cycle phases.jpg",
     "attachments/a flutter.jpg",
     "attachments/a flutter with variable block.jpg",
