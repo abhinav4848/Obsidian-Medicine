@@ -9,7 +9,8 @@ aliases:
 ---
 ## Causes: 
 - **Drugs**: 
-	- [[ace inhibitors|ACE]], Diuretics, Antipsychotics (such as [[haloperidol]] and phenothiazines)
+	- [[ace inhibitors|ACE]], [[side effects of cvs drugs|Diuretics]], Antipsychotics (such as [[haloperidol]] and phenothiazines)
+	- Chlorpropamide, [[Lithium]], MDMA / ecstasy, Tramadol, Vincristine
 - SIADH: 
 	- Anti-depressants (Amitriptyline, SSRIs e.g. [[depression|Fluoxetine]]), 
 	- Anti-convulsants (carbamazepine), 
@@ -19,7 +20,7 @@ aliases:
 - Intercurrent illnesses (especially chest infections, GI disease or UTI’s)
 - Renal disease (urinalysis)
 - Hypothyroidism (TFT)
-- Addison’s disease (8-10am Cortisol)
+- [[addison's disease|Addison’s disease]] (8-10am Cortisol)
 - CCF, liver disease, or fluid overloaded states will require treatment of underlying condition.
 - [[multiple myeloma|myeloma]] (total protein, serum electrophoresis, and urine bence jones protein)
 - Cancers (especially lung and GI)

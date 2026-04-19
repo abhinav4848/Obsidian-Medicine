@@ -35,7 +35,8 @@ For skin of colour/darker skin, Azelaic acid is useful as it has anti-pigmentary
 - Instead of abx, COCP can be considered in suitable women. 
 - Patients should be advised on sun protection if using oral tetracyclines and topical retinoids as both increase photosensitivity. 
 ### Severe
-Refer all severe cases to Specialists.
+Refer all severe cases to Specialists. 
+-  *scarring, hyperpigmentation and widespread pustules*
 Prescribe treatment as above while awaiting appointment.
 
 ---

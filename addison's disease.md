@@ -3,6 +3,7 @@ tags:
   - endocrine
 aliases:
   - Addison's
+  - Addison’s disease
 ---
 **Primary insufficiency**: Problem with gland itself.
 Due to autoimmune in developed world, TB in developing.
