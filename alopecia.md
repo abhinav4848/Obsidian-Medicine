@@ -1,6 +1,8 @@
 ---
 tags:
   - dermat
+aliases:
+  - minoxidil
 ---
 Alopecia can be 2 types:
 
@@ -16,8 +18,11 @@ At the edges of the hair loss may be small broken, exclamation mark hairs.
 Hair regrows eventually. 
 
 # Treatment
+Reassure benign nature of this condition (non-scarring, cosmetic)
+Treatments take 6-12m to show benefits. 
 - topical or intralesional corticosteroids
-- topical minoxidil
+- topical minoxidil (not available on NHS. Usually OTC)
+- Finasteride 1mg is for hair loss, 5mg is for BPH. 
 - phototherapy
 - dithranol
 - contact immunotherapy

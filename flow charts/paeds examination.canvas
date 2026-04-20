@@ -10,11 +10,15 @@
 		{"id":"125eb5c518a9e427","type":"text","text":"E+D normal\nBO, PU okay\nno diarrhoea","x":-305,"y":620,"width":250,"height":80}
 	],
 	"edges":[
-		{"id":"d23a58d07eb1caa6","fromNode":"1dd205630f58466d","fromSide":"left","toNode":"743280e226c7b5fe","toSide":"top"},
+		{"id":"d23a58d07eb1caa6","toFloating":false,"fromNode":"1dd205630f58466d","fromSide":"left","toNode":"743280e226c7b5fe","toSide":"top"},
 		{"id":"9f76de01d048215c","fromNode":"743280e226c7b5fe","fromSide":"right","toNode":"71931e92453bcda7","toSide":"left"},
 		{"id":"b1a13fffac476a72","fromNode":"1dd205630f58466d","fromSide":"bottom","toNode":"05aeb53a3b022dcd","toSide":"left"},
 		{"id":"6cd239c13b48da6c","fromNode":"71931e92453bcda7","fromSide":"bottom","toNode":"5e4d9ea91ed7f416","toSide":"top"},
 		{"id":"4e842bafb52768f3","fromNode":"5e4d9ea91ed7f416","fromSide":"left","toNode":"f2814466f1fbc682","toSide":"right"},
 		{"id":"a483520f36d65b35","fromNode":"f2814466f1fbc682","fromSide":"bottom","toNode":"125eb5c518a9e427","toSide":"left"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

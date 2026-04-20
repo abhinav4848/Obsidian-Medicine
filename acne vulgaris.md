@@ -36,6 +36,7 @@ For skin of colour/darker skin, Azelaic acid is useful as it has anti-pigmentary
 - Patients should be advised on sun protection if using oral tetracyclines and topical retinoids as both increase photosensitivity. 
 ### Severe
 Refer all severe cases to Specialists. 
+Will be started on [[retinoids|isotretinoin]] -> aka Roaccutane. 
 -  *scarring, hyperpigmentation and widespread pustules*
 Prescribe treatment as above while awaiting appointment.
 

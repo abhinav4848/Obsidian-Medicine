@@ -8,7 +8,7 @@ Leflunomide is a disease modifying anti-rheumatic drug ([[rheumatoid arthritis|D
 - caution should also be exercised with pre-existing lung and liver disease
 # Adverse effects
 - gastrointestinal, especially diarrhoea
-- hypertension
+- [[hypotension & hypertension drugs|Hypertension]]
 - weight loss/anorexia
 - peripheral neuropathy
 - myelosuppression

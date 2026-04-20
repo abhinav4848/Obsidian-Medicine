@@ -19,7 +19,7 @@ Not to be confused with [[Actinic keratosis]].
 - Starts as papules which later merge to form plaque. 
 
 ## Drugs causing Psoriasis 
-ACE inhibitor, Alcohol, [[malaria|anti-malarials]] ([[quinine|chloroquine]] & HCQ), [[beta adrenergic receptors|beta blockers]], Infliximab, [[Lithium]], Mepacrine, [[nsaid|NSAID]], Trauma, withdrawal of systemic steroids. 
+[[beta adrenergic receptors|beta blockers]] -> Atenolol > ACE inhibitor, Alcohol, [[malaria|anti-malarials]] ([[quinine|chloroquine]] & HCQ), Infliximab, [[Lithium]], [[nsaid|NSAID]], Trauma, withdrawal of systemic steroids. 
 *Strep infection can trigger [[guttate psoriasis]].* 
 # Clinical Features
 - Itchy, scaly, elevated, well demarcated, erythematous.

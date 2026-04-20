@@ -13,3 +13,4 @@ aliases:
 - [[corticosteroid|corticosteroids]]
 - ciclosporin
 - [[cocp|combined oral contraceptive pill]]
+- [[leflunomide]] 
