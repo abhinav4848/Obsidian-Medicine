@@ -11,12 +11,12 @@ Wegener's #named aka Granulomatosis with polyangiitis.
 
 **Antibody**: c-[[antibodies|ANCA]]
 # Clinical Features
-#triad 
-[[Haematuria]]
-Haemoptysis
-Upper airway / Nasal / Sinus problems. 
+#triad -> Nasopharynx, Lungs, Kidneys
+
+Upper airway / Nasopharyngeal ulceration / Sinus problems. 
 - vasculitis of inner ear blood vessels. When it affects the cochlea's microcirculation, it can damage hair cells -> [[hearing loss|SNHL]]. 
 - although GPA starts with conductive loss (otitis media with effusion due to eustachian tube involvement), inflammation can extend deeper and cause SNHL. 
-
+Haemoptysis
+[[Haematuria]]
 # Treatment
 Immunosuppression: steroids, [[cytotoxic drugs|Cyclophosphamide]]. 

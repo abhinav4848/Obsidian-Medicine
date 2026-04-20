@@ -50,9 +50,11 @@ Muscles are tender, not weak.
 - If needing steroid for > 2 years, or difficulty weaning off, or difficulty controlling, refer to rheumatologist
 
 ---
-# Temporal arteritis
-PMR is associated with Giant cell arteritis 
+# Temporal arteritis %%linked%%
+PMR is associated with Giant cell [[vasculitis|arteritis]] 
 GCA rarely happens to people under 60 years old.
+- headache, visual disturbance, jaw claudication
+- Flu like symptoms, joint & muscle pain (PMR) 
 ## Treatment
 Responds dramatically to steroids.
 - Give [[corticosteroid|Prednisolone]] 60mg/d with taper, 

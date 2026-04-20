@@ -17,7 +17,7 @@ urls:
 ## Autoimmune
 - [[inflammatory bowel disease|IBD]] -> Faecal calprotectin,
 - [[Sarcoidosis]] -> Serum ACE, CXR
-- [[Behcet's disease]]
+- [[Behcet's disease]] 
 
 ## Infections
 - Brucellosis

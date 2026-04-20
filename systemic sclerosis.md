@@ -6,8 +6,8 @@ aliases:
   - scleroderma
   - morphoea
 urls:
-  - https://dermnetnz.org/topics/morphoea
-  - https://dermnetnz.org/topics/systemic-sclerosis
+  - "[Dermnetz- Systemic sclerosis](https://dermnetnz.org/topics/systemic-sclerosis)"
+  - "[Dermnetz- Morphoea (localised scleroderma, morphea)](https://dermnetnz.org/topics/morphoea)"
 ---
 # Systemic Sclerosis
 
@@ -21,8 +21,8 @@ urls:
 | Rx: Nifedipine is the only [[calcium channel blockers\|CCB]] used for Raynaud.                                                                                                                                                          |                                                                                                                                                                                                                              |
 # Scleroderma
 (without internal organ involvement)
-1. Tightening and fibrosis of skin
-	- When involving fingers & toes: Sclerodactyly
+Tightening and fibrosis of skin
+- When involving fingers & toes: Sclerodactyly
 
 ## Localised scleroderma (morphoea)
 - Morphoea is a localised form of scleroderma characterised by circumscribed, indurated plaques with ivory centres and violaceous borders.

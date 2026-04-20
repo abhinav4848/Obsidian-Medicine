@@ -6,7 +6,6 @@ aliases:
   - Churg Staruss
   - EGPA
 ---
-Vasculitis
-
-Asthma, Eosinophilia
+Systemic Vasculitis
+- Asthma, Eosinophilia, Necrotising vasculitis with extravascular granulomas. 
 p-[[antibodies|ANCA]]
