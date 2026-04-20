@@ -11,6 +11,15 @@ tags:
 Carotid artery stenosis: Multiple TIA + LOC
 	Rx: see [[TIA]]
 
+# POCS symptoms
+Posterior circulation = **DANISH** #mnemonic 
+- Dizziness
+- Ataxia
+- Nystagmus 
+- [[confusion in ophthalmology|Internuclear ophthalmoplegia]] 
+- Slurred speech / dysarthria
+- Horner’s syndrome
+
 # Patients with AF + Ischemic TIA
 Rx: [cardio](onenote:#Cardiology&section-id={145871C2-3C63-4A25-A087-79EA3E5CD53A}&page-id={1B7721F0-DA71-4DDC-915C-C8C35BFB0193}&object-id={B4645E4B-DEA9-491A-8ED7-FF4F8C185323}&7B&base-path=https://d.docs.live.net/450c0e1b0b9c7922/Documents/Onenote/MBBS/PLAB.one)
 

@@ -37,7 +37,7 @@ If not controlled, add non-oral [[metoclopramide]]/prochlorperazine +/- non-oral
 - Propranolol (Can give if pregnant. Avoid beta-blocker in [[asthma]]) >
 - Topiramate (teratogenic & contraceptive failure) >
 - Amitriptyline
-- Acupunctur
+- Acupuncture
 # Treatment in Children
 Ibuprofen is the first-line treatment for paediatric migraines.
 - Avoid aspirin in children (Reye syndrome).
