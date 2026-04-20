@@ -14,7 +14,7 @@ Wegener's #named aka Granulomatosis with polyangiitis.
 #triad 
 [[Haematuria]]
 Haemoptysis
-Nasal/Sinus problems. 
+Upper airway / Nasal / Sinus problems. 
 - vasculitis of inner ear blood vessels. When it affects the cochlea's microcirculation, it can damage hair cells -> [[hearing loss|SNHL]]. 
 - although GPA starts with conductive loss (otitis media with effusion due to eustachian tube involvement), inflammation can extend deeper and cause SNHL. 
 

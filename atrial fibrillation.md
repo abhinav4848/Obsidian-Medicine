@@ -47,7 +47,7 @@ Preferred in symptomatic patients
 - **If Onset > 48 hrs**: Following electrical cardioversion patients should be anticoagulated for at least 4 weeks.
 ### Stroke risk
 - Do not offer stroke prevention therapy with anticoagulation to <65 years with atrial fibrillation and no risk factors other than their sex (that is, very low risk of stroke equating to a CHA2DS2‑VASc score of 0 for men or 1 for women).
-	- Score of 2 needed to start anticoagulation.
+	- Score of 2 needed to start anticoagulation for women. 
 - Aspirin is not useful to prevent primary stroke. It's used for treatment of stroke.
 
 | Letter | Condition                                         | Points |
