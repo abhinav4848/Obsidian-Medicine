@@ -1,9 +1,11 @@
 ---
 aliases:
   - ADHD
+  - attention deficit hyperactivity disorder
 tags:
   - paeds
 ---
+*Also see [[autism]].* 
 #### Occurrence
 M:F::4:1
 # Diagnostic criteria
@@ -22,8 +24,6 @@ There has to be an element of developmental delay
 | Often forgetful in daily activities                   | Often interruptive or intrusive to others                    |
 | Often loses things necessary for tasks or activities  | Will answer prematurely, before a question has been finished |
 | Often does not seem to listen when spoken to directly | Will run and climb in situations where it is not appropriate |
-
----
 # Treatment
 ## Children: 
 Treat with [[Methylphenidate]] as first line. 
