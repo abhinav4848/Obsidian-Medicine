@@ -12,5 +12,8 @@ Patients are genetically and phenotypically female.
 - Turner's presents with multiple overlapping features with Noonan syndrome although is more associated with bicuspid aortic valve and coarctation of the aorta.
 - Absent ovaries/Gonadal dysgenesis: FSH & LH increased. Estradiol decreased. 
 	- Low levels indicate a hypothalamic cause of amenorrhoea, whereas raised levels suggest an ovarian problem (e.g. Premature ovarian failure)
+
+vs Noonan Syndrome
+- Turner patients are female, has bicuspid aortic valve & coarctation of the aorta.
 # Treatment
 GH for height, Oestrogen replacement for breast & hip development, & [[Osteoporosis]].
