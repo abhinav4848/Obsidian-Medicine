@@ -51,11 +51,13 @@ Discuss urate lowering therapy with all patients experiencing a first flare.
 ULT is esp recommended in >= 2 attacks in 12 months, tophi, renal disease, uric acid renal stones, prophylaxis if on cytotoxic / diuretics. 
 ## Long term
 - [[Allopurinol]] is only started after symptoms settle (2-4 weeks) > Febuxostat if not tolerated.
+	- Allopurinol is started low and uptitrated but renal disease can prevent that. Go febuxostat as second line. 
 	- *See [CKS](https://cks.nice.org.uk/topics/gout/management/preventing-gout/) before starting febuxostat*
 - Colchicine cover is given when starting allopurinol > NSAID used if not tolerated. 
+	- Colchicine is not urate lowering. It's anti-inflammatory only. 
 
-Drugs used for Gout cause worsening of renal failure, heart failure (SOB and Dyspnoea):
-- Give other Gout drugs instead like Colchicine, Prednisolone.
+NSAID can cause worsening of renal failure, heart failure (fluid retention -> SOB and Dyspnoea):
+- Give other Gout drugs instead like Colchicine, Prednisolone
 - Regular 4 weekly monitoring of uric acid & renal function till uric acid < 300 (Target 300 - 360)
 #### Other points 
 - Consider stopping drugs that trigger gout (Thiazides, Loop diuretics)

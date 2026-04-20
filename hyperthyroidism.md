@@ -32,9 +32,9 @@ Thyroid non-tender, ESR normal.
 **Carbimazole**: T2, T3, Non-pregnant. Basically the DOC.
 	- **Dose**: OD
 	- **s/e**: Aplasia cutis, omphalocele in infants, agranulocytosis.
-	- **Leukopaenia-induced fungal infection**: Carbimazole can cause leukopaenia, which could theoretically predispose to fungal infections, fungal infections typically present with scaling, erythema, and pruritus rather than simple depigmentation. (see [[vitiligo]])
+	- **Leukopenia-induced fungal infection**: Carbimazole can cause leukopaenia, which could theoretically predispose to fungal infections, fungal infections typically present with scaling, erythema, and pruritus rather than simple depigmentation. (see [[vitiligo]])
 
-Radioiodine c/I in pregnancy & grave ophthalmopathy. 
+Radioiodine c/i in pregnancy & grave ophthalmopathy. 
 Partial thyroidectomy can be done in T2.
 Both drugs cross placenta. So lowest dose preferred.
 

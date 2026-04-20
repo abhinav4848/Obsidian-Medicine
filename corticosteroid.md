@@ -21,7 +21,7 @@ For [[polymyalgia rheumatica|PMR]], the weaning regiment is very long. Up to 2 y
 - Avascular necrosis of hip
 - Cataract
 - Peptic ulcers
-- Hyperglycemia (impaired glucose regulation)
+- Hyperglycemia (impaired glucose regulation)-> Give Gliclazide over Metformin ([Link pg 15](https://www.diabetes.org.uk/sites/default/files/2023-03/JBDS%2008%20Steroids%20and%20DM%20Guideline%20with%20qr%20code.pdf))[^1]
 
 - [[Mania]], Psychosis
 - Insomnia
@@ -42,3 +42,5 @@ More than 3 weeks of usage
 
 ---
 See: [[steroids in dermatology]]. 
+
+[^1]: A trial of gliclazide 40mg twice daily (BD) may be indicated and titrated daily to a maximum of 160mg BD. Metformin and pioglitazone are unlikely to be of significant, swift benefit and likewise there is no firm evidence to support the use of GLP-1RAs, DPP-4 inhibitors, or SGLT-2 inhibitors in these circumstances.

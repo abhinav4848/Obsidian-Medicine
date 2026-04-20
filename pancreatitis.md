@@ -16,7 +16,7 @@ Usually due to alcohol or gallstones. Can be due to ERCP.
 - Scorpion venom 
 - Hypertriglyceridemia, Hyperchylomicronemia, [[Hypercalcemia]], Hypothermia
 - ERCP 
-- Drugs ([[azathioprine]], Mesalazine*, didanosine, Bendroflumethiazide, furosemide, pentamidine, steroids, sodium valproate)
+- Drugs ([[azathioprine]], Mesalazine\*, didanosine, Bendroflumethiazide, furosemide, pentamidine, steroids, sodium valproate)
 
  \*pancreatitis is 7x more common in patients taking Mesalazine than sulfasalazine
 
@@ -39,6 +39,7 @@ Do Amylase, Lipase, CT.
 Lipase > Amylase 
 
 Serum Calcium is used as part of the Glasgow score #named  in acute pancreatitis, in which low calcium is one of the scoring criteria. 
+Prognosis: Low albumin, raised urea, raised glucose, low calcium, high LDH, high WBC, high age mean More severe pancreatitis.  
 
 ## Treatment
 - In severe pancreatitis due to gallstones where jaundice and [[ascending cholangitis|cholangitis]] are present, early ERCP to achieve duct decompression and cholecystectomy once acute symptoms settle. 

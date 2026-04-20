@@ -58,13 +58,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cancer- cholangiocarcinoma.md",
+                "file": "sciatica.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cancer- cholangiocarcinoma"
+              "title": "sciatica"
+            }
+          },
+          {
+            "id": "cb380dd5cf19b08c",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://cks.nice.org.uk/topics/gout/management/preventing-gout/",
+                "title": "Scenario: Preventing gout | Management | Gout | CKS | NICE",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Scenario: Preventing gout | Management | Gout | CKS | NICE"
             }
           }
         ],
@@ -101,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pancreatic",
+                "query": "\"https://upload.wikimedia.org/wikipedia/commons/9/93/Grant_1962_663.png\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cancer- cholangiocarcinoma.md",
+                "file": "sciatica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -169,12 +183,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5773023865568044,
+                  "scale": 0.29370944735392507,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cancer- cholangiocarcinoma"
+              "title": "Graph of sciatica"
             }
           }
         ]
@@ -286,7 +300,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cancer- cholangiocarcinoma.md",
+                "file": "sciatica.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +310,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cancer- cholangiocarcinoma"
+              "title": "Backlinks for sciatica"
             }
           }
         ]
@@ -318,8 +332,14 @@
   },
   "active": "4da0bc4093f32fd8",
   "lastOpenFiles": [
-    "cancer- pancreas.md",
+    "cocp.md",
+    "hypotension & hypertension drugs.md",
+    "corticosteroid.md",
+    "hyperthyroidism.md",
+    "gout.md",
+    "pancreatitis.md",
     "cancer- cholangiocarcinoma.md",
+    "cancer- pancreas.md",
     "erythema nodosum.md",
     "behcet's disease.md",
     "vasculitis.md",
@@ -338,12 +358,6 @@
     "spirometry.md",
     "asthma.md",
     "hypertension.md",
-    "monitoring bloods with drugs.md",
-    "amiodarone.md",
-    "colour & vision changes in body.md",
-    "atrial fibrillation.md",
-    "scoring system.md",
-    "childhood syndromes.md",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/menstrual cycle phases.jpg",
     "attachments/a flutter.jpg",
