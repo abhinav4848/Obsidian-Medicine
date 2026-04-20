@@ -18,6 +18,10 @@ Airborne spread. Spread also if contact with vesicles.
 Healthy child/adult: **Reassure**. 
 Symptomatic management -> Chlorpheniramine/calamine lotion for itch. 
 
+### Caution
+Don't prescribe NSAID in chicken pox as risk of Nec Fasc (but [DFTB](https://dontforgetthebubbles.com/varicella-nsaids-chicken-prescribe/)- still a 5x increase from 0.04/10,000 -> 0.2/10,000)
+Only Aspirin has risk of Reye syndrome. 
+
 > [!info]
 [[School in children with rash]]: -4 to +5 days from onset of rash, or when crusted over. Keep away from pregnant women.
 
@@ -56,7 +60,7 @@ present in chicken pox (not in mumps) -> vesicular discharge, high fever -> Give
 - If a baby is born with **congenital varicella**, he can develop *pneumonia* and *[[hepatitis]]* when delivered.
 - Can cause painful lesions called [[shingles|shingles]]. 
 
-
+---
 # References
 1. [Chickenpox in Pregnancy (Green-top Guideline No. 13) | RCOG](https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/chickenpox-in-pregnancy-green-top-guideline-no-13/) 
 2. [Varicella: the green book chapter - GOV.UK](https://www.gov.uk/government/publications/varicella-the-green-book-chapter-34)

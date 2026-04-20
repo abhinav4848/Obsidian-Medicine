@@ -8,13 +8,22 @@ aliases:
 [[drugs contraindicated in pregnancy]] 
 # 'Minor' breastfeeding problems  
 - frequent feeding in a breastfed infant is not alone a sign of low milk supply
-- nipple pain: may be caused by a poor latch
-- blocked duct ('milk bleb'): causes nipple pain when breastfeeding. Breastfeeding should continue. Advice should be sought regarding the positioning of the baby. Breast massage may also be tried
+- **nipple pain**: may be caused by a poor latch
+- **blocked duct** ('milk bleb'): causes nipple pain when breastfeeding. Breastfeeding should continue. Advice should be sought regarding the positioning of the baby. Breast massage may also be tried
 - **nipple candidiasis**: treatment for nipple candidiasis whilst breastfeeding should involve ==miconazole cream for the mother and nystatin suspension for the baby==
 # Mastitis
-Affects 1 in 10 breastfeeding women. 
-Treat: 'if systemically unwell, if nipple fissure present, if symptoms do not improve after 12-24 hours of effective milk removal or if culture indicates infection'. 
-- The first-line antibiotic is flucloxacillin for 10-14 days. Breastfeeding or expressing should continue during treatment.    
+Affects 1 in 10 breastfeeding women. MC 6 weeks post-partum.
+### Clinical Features
+Distinguishing between an engorged breast, blocked duct, non-infectious mastitis, and infected mastitis can be challenging. Accumulation of milk in breast tissue causes an inflammatory response (non-infectious mastitis) with inadequate milk removal predisposing to bacterial growth (infectious mastitis). Clinically this presents as a painful breast, with fever, malaise and a tender, red, swollen and hard area of the breast, usually in a wedge-shaped distribution. 
+##### Infectious mastitis should be suspected if:  
+- Symptoms do not improve or are worsening after 12-24 hours despite effective milk removal.
+- The woman has a nipple fissure that is infected.
+- Bacterial culture is positive (breast milk culture is not routinely required unless mastitis is severe, there has been no response to antibiotics, or this is recurrent mastitis).
+
+**Treat**: 'if systemically unwell, if nipple fissure present, if symptoms do not improve after 12-24 hours of effective milk removal or if culture indicates infection'. 
+- The first-line antibiotic is flucloxacillin 500 mg QDS 14 days (erythromycin 250mg - 500mg QDS for 14 days if penicillin allergic)
+- Breastfeeding or expressing should continue during treatment as this improves milk removal and prevent nipple damage. If pain prevents the woman from breast feeding she should be encouraged to express breast milk by hand or pump until breastfeeding can be resumed.
+
 If left untreated, mastitis may develop into a breast abscess. This generally requires incision and drainage.  
 # Engorgement
 Breast engorgement is one of the causes of breast pain in breastfeeding women. It usually occurs in the first few days after the infant is born and almost always affects both breasts. The pain or discomfort is typically worse just before a feed. Milk tends to not flow well from an engorged breast and the infant may find it difficult to attach and suckle. Fever may be present but usually settles within 24 hours. The breasts may appear red. Complications include blocked milk ducts, mastitis and difficulties with breastfeeding and, subsequently, milk supply. 

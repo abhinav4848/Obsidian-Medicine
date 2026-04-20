@@ -15,7 +15,6 @@ aliases:
 - [[citalopram]] (SSRI).
 
 Worsens with mydriasis-> h/o being in a dark room (movie theatre, eye clinic)
-
 # Clinical features:
 - Coloured halo (also in [[cataract]]) #confusion , [[red eye]], photophobia
 - Semi-dilated, non reacting pupils

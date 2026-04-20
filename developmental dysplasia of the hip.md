@@ -9,13 +9,13 @@ aliases:
 *See [[paeds ortho diff- ddh, perthe's, sufe]]*
 
 ---
-The head of femur can easily come out of the acetabulum -> Unstable joint -> Subluxation/Dislocation. 
+The head of femur can easily come out of the acetabulum -> Unstable joint -> Subluxation/ Dislocation. 
 Doesn't cause pain in the child but can lead to early hip replacement. 
 # Risk factors
 First fat female born oligo breech in a family with such history. 
 	Firstborn, birth wt. > 5kgs, Girl child, oligohydramnios, breech presentation, family history,
 Age < 3yo
-All breech babies at or after 36 weeks gestation require USS for DDH screening at 6 weeks regardless of mode of delivery (Normal or C-section). 
+*All breech babies at or after 36 weeks gestation require USS for DDH screening at 6 weeks regardless of mode of delivery (Normal or C-section).* 
 # Clinical Features
 [[limping child|Limping]].
 Painless leg that is shorter than the other. 

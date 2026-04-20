@@ -17,10 +17,10 @@ LTOT: long term O2 therapy for 15 hrs. a day
 ## Conditions for assessment
 - Patient should be stable > 5 weeks since last [[COPD]] exacerbation
 - Therapy for COPD is fully optimized
-- 2 sets ABG 3 weeks apart show him hypoxic
+- 2 sets ABG 3 weeks apart show him hypoxic (pO2 < 7.3kPa)
 
 ## Offer LTOT if
-pO2 < 7.3 kPa alone, or 
+pO2 < 7.3 kPa alone (On 2 separate ABGs 3 weeks apart), or 
 pO2 of 7.3 - 8 kPa & any of:
 - Secondary polycythemia ([See UHL Leicester Haemat pathways](https://www.uhleicester.nhs.uk/services/haematology/haematology-referral-guidelines/))
 - Peripheral edema
