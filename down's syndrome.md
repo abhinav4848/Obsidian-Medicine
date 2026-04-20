@@ -9,6 +9,10 @@ tags:
 - [[git problems in paeds|Hirschprung disease]]
 - [[retinal detachment]] more common, strabismus in 20-40% (esotropia- inward turning of eye), cataract (congenital or acquired), recurrent [[blepharitis]], [[glaucoma- open angle]], refractive errors (myopia & hypermetropia), astigmatism
 - [[otitis|otitis media]] & glue ear 
+- [[hypothyroidism]]
+- micrognathia
+- early onset, alzheimer's type of dementia.
+- Atlanto-Axial instability
 # Screening in Pregnancy
 Down syndrome screening can be divided into the different screening tests available for patients:  
 
