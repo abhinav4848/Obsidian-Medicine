@@ -34,7 +34,6 @@ urls:
 
 Pregnancy
 Malignancy, [[cancer- lymphoma|Lymphoma]]
-
 # Investigate 
 #important 
 When someone comes with what looks like EN, remember to investigate for the cause. Could be something big. Investigations required in EN include:

@@ -11,7 +11,7 @@ urls:
 Waldenstrom's hypergammaglobulinaemic purpura
 ### Associated with ANCA
 [[granulomatosis with polyangiitis|Wegener's (GPA)]] -> cANCA
-[[eosinophilic granulomatosis with polyangiitis|Churg Staruss (EGPA)]]
+[[eosinophilic granulomatosis with polyangiitis|Churg Staruss (EGPA)]] -> pANCA
 Microscopic polyangiitis (MPA) -> pANCA
 # Medium Vessel
 Polyarteritis Nodosa (PAN) which is divided into:

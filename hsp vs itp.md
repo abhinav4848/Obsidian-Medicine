@@ -21,7 +21,7 @@ Precipitated by URTI - Sore throat.
 Platelet normal.
 Age 2- 11 yo. 
 
-IgA immune complexes deposit on small vessels-> vasculitis -> bleed into skin (purpura) & organs (pain)
+IgA immune complexes deposit on small vessels -> vasculitis -> bleed into skin (purpura) & organs (pain)
 # Clinical Features
 PAAN: #mnemonic 
 - non-blanching palpable [[petechiae & purpura|Purpura]] on buttocks and legs (but platelets normal)

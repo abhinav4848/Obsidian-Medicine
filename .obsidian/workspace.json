@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vasculitis.md",
+                "file": "cancer- cholangiocarcinoma.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "vasculitis"
+              "title": "cancer- cholangiocarcinoma"
             }
           }
         ],
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"side effects of\"",
+                "query": "pancreatic",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "vasculitis.md",
+                "file": "cancer- cholangiocarcinoma.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of vasculitis"
+              "title": "Graph of cancer- cholangiocarcinoma"
             }
           }
         ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vasculitis.md",
+                "file": "cancer- cholangiocarcinoma.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for vasculitis"
+              "title": "Backlinks for cancer- cholangiocarcinoma"
             }
           }
         ]
@@ -318,15 +318,18 @@
   },
   "active": "4da0bc4093f32fd8",
   "lastOpenFiles": [
-    "granulomatosis with polyangiitis.md",
+    "cancer- pancreas.md",
+    "cancer- cholangiocarcinoma.md",
+    "erythema nodosum.md",
+    "behcet's disease.md",
     "vasculitis.md",
+    "eosinophilic granulomatosis with polyangiitis.md",
+    "hsp vs itp.md",
+    "granulomatosis with polyangiitis.md",
     "vascular ulcers.md",
     "kawasaki disease.md",
     "takayasu arteritis.md",
     "polymyalgia rheumatica.md",
-    "behcet's disease.md",
-    "eosinophilic granulomatosis with polyangiitis.md",
-    "erythema nodosum.md",
     "sarcoidosis.md",
     "sjogren's syndrome.md",
     "systemic sclerosis.md",
@@ -341,9 +344,6 @@
     "atrial fibrillation.md",
     "scoring system.md",
     "childhood syndromes.md",
-    "turner's syndrome.md",
-    "chicken pox.md",
-    "breastfeeding.md",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/menstrual cycle phases.jpg",
     "attachments/a flutter.jpg",
