@@ -54,8 +54,7 @@ Can't return to normal recall if:
     - if the repeat test is now hrHPV -ve → return to normal recall
     - if the repeat test is still hrHPV +ve and cytology still normal → further repeat test 12 months later:
 	    - If hrHPV -ve at 24 months → return to normal recall
-	    - if hrHPV +ve at 24 months → colposcopy
-
+	    - if hrHPV +ve at 24 months → colposcopy 
 ### Other issues
 If the sample is 'inadequate'  
 - repeat the sample in 3 months
