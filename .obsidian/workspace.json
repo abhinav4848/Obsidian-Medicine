@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paediatric milestones.md",
+                "file": "antipsychotic drugs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "paediatric milestones"
+              "title": "antipsychotic drugs"
             }
           },
           {
@@ -204,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "paediatric milestones.md",
+                "file": "antipsychotic drugs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of paediatric milestones"
+              "title": "Graph of antipsychotic drugs"
             }
           }
         ]
@@ -344,7 +344,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paediatric milestones.md",
+                "file": "antipsychotic drugs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -354,7 +354,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for paediatric milestones"
+              "title": "Backlinks for antipsychotic drugs"
             }
           }
         ]
@@ -376,8 +376,8 @@
   },
   "active": "ba41dc9674a48077",
   "lastOpenFiles": [
-    "osteochondritis dissecans.md",
     "paediatric milestones.md",
+    "osteochondritis dissecans.md",
     "meningitis.md",
     "statistics- significance tests.md",
     "statistics- risk reduction, nnt, odds ratio.md",
