@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meningitis.md",
+                "file": "paediatric milestones.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "meningitis"
+              "title": "paediatric milestones"
             }
           },
           {
@@ -204,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "meningitis.md",
+                "file": "paediatric milestones.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of meningitis"
+              "title": "Graph of paediatric milestones"
             }
           }
         ]
@@ -344,7 +344,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meningitis.md",
+                "file": "paediatric milestones.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -354,7 +354,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for meningitis"
+              "title": "Backlinks for paediatric milestones"
             }
           }
         ]
@@ -376,6 +376,9 @@
   },
   "active": "ba41dc9674a48077",
   "lastOpenFiles": [
+    "osteochondritis dissecans.md",
+    "paediatric milestones.md",
+    "meningitis.md",
     "statistics- significance tests.md",
     "statistics- risk reduction, nnt, odds ratio.md",
     "cancer- frequency.md",
@@ -399,10 +402,7 @@
     "alopecia.md",
     "acne vulgaris.md",
     "ecg findings.md",
-    "psoriasis.md",
     "flow charts/paeds examination.canvas",
-    "monitoring bloods with drugs.md",
-    "hypotension & hypertension drugs.md",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/menstrual cycle phases.jpg",
     "attachments/a flutter.jpg",
