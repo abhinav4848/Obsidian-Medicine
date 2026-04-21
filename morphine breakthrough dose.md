@@ -26,11 +26,11 @@ When increasing the dose of opioids the next dose should be increased by 30% in
 >Use smaller increments when increasing large doses.
 # Conversion table
 
-| From                  | To                   | Equation          | Notes |
-| --------------------- | -------------------- | ----------------- | ----- |
-| Oral Oxycodone        | S.c. Diamorphine     | Divide by 1.5     |       |
-| Oramorph              | i.v./S.c Diamorphine | Divide by 3       |       |
-| Oramorph              | Oxycodone            | Divide by 1.5 - 2 |       |
+| From           | To                   | Equation          |
+| -------------- | -------------------- | ----------------- |
+| Oral Oxycodone | S.c. Diamorphine     | Divide by 1.5     |
+| Oramorph       | i.v./S.c Diamorphine | Divide by 3       |
+| Oramorph       | Oxycodone            | Divide by 1.5 - 2 |
 
 | Drug                              | Potency to Oral Morphine                 |                                        |
 | --------------------------------- | ---------------------------------------- | -------------------------------------- |
@@ -39,7 +39,7 @@ When increasing the dose of opioids the next dose should be increased by 30% in
 | Oxycodone oral                    | 1.5:1                                    |                                        |
 | Morphine s.c.                     | 2:1                                      | 10 mg Oramorph becomes 5mg morphine sc |
 | Diamorphine sc                    | 3:1                                      | 10 mg Oramorph becomes 3.33            |
-| Oxycodonne sc                     | 3:1                                      |                                        |
+| Oxycodone sc                      | 3:1                                      |                                        |
 | Alfentanil sc                     | 30:1                                     |                                        |
 | buprenorphine 5cmg/hour           | 12 mg Oramorph in 24 hrs                 |                                        |
 | fentanyl patch potency is a range | 25mcg/hour = 60 to 90 mg Oramorph/24 hrs |                                        |

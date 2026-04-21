@@ -6,12 +6,14 @@ aliases:
   - fronto-temporal dementia
   - Frontotemporal lobar degeneration
 ---
-Frontotemporal lobar degeneration (FTLD) is the third most common type of cortical [[dementia]] after Alzheimer's and Lewy body dementia. 3 types: 
-- Frontotemporal dementia (Pick's disease)
-- Progressive non fluent aphasia (chronic progressive aphasia, CPA)
-- Semantic dementia
-
-Common features:
+# Cortical [[Dementia]] types
+1. Alzheimer's
+2. Lewy Body Dementia
+3. Frontotemporal lobar degeneration (FTLD): 
+	- Frontotemporal dementia (Pick's disease)
+	- Progressive non fluent aphasia (chronic progressive aphasia, CPA)
+	- Semantic dementia
+### Common features of FTLD
 - Onset <65yo.
 - insidious onset. 
 - Has family history

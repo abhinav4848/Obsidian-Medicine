@@ -98,6 +98,21 @@
             }
           },
           {
+            "id": "ba41dc9674a48077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meningitis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "meningitis"
+            }
+          },
+          {
             "id": "cb380dd5cf19b08c",
             "type": "leaf",
             "state": {
@@ -112,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -176,8 +191,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -190,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "morphine breakthrough dose.md",
+                "file": "meningitis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -218,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of morphine breakthrough dose"
+              "title": "Graph of meningitis"
             }
           }
         ]
@@ -330,7 +344,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "morphine breakthrough dose.md",
+                "file": "meningitis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +354,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for morphine breakthrough dose"
+              "title": "Backlinks for meningitis"
             }
           }
         ]
@@ -360,8 +374,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "d1ec63053ca1cd8d",
+  "active": "ba41dc9674a48077",
   "lastOpenFiles": [
+    "statistics- significance tests.md",
+    "statistics- risk reduction, nnt, odds ratio.md",
+    "cancer- frequency.md",
+    "melanoma.md",
+    "cancer- screening programs.md",
+    "dementia.md",
+    "frontotemporal dementia.md",
+    "restless leg syndrome.md",
+    "morphine breakthrough dose.md",
     "opioid misuse.md",
     "illicit drugs.md",
     "attention deficit hyperactive disorder.md",
@@ -380,15 +403,6 @@
     "flow charts/paeds examination.canvas",
     "monitoring bloods with drugs.md",
     "hypotension & hypertension drugs.md",
-    "cocp.md",
-    "leflunomide.md",
-    "rheumatoid arthritis.md",
-    "ra vs osteoarthritis.md",
-    "felty's syndrome.md",
-    "stroke.md",
-    "vertigo- test & causes.md",
-    "migraine.md",
-    "sciatica.md",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/menstrual cycle phases.jpg",
     "attachments/a flutter.jpg",

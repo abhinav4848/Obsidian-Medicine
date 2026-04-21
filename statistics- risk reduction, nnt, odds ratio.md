@@ -4,6 +4,7 @@ aliases:
   - numbers needed to treat
   - relative risk
   - odds ratio
+  - NNT
 tags:
   - stats
 urls:

@@ -59,27 +59,30 @@ Rx
 
 Hallucinations are psychotic entity. Use Haloperidol (typical), Olanzapine (atypical).
 Amitriptyline (TCA) is c/i in Alzheimer's as it has anticholinergic action.
-# Non-Alzheimer's
+# Non-Alzheimer's Dementia
 ### Lewy Body dementia %%linked%%
 Can be
 1. Dementia with Lewy bodies (DLB).
 2. [[Parkinson's disease]] dementia.
 #### DLB
-**Clinical features**
+- Fluctuating cognition
+- Visual hallucinations (often paranoid/delusional beliefs)
+- Parkinsonism (rigidity, falls)
+##### Clinical features
 1. Progressive cognitive impairment
-	1. Usually occurs before Parkinson's. In Parkinson's, motor symptoms (tremor, bradykinesia, rigidity) occur before cognitive.
-	2. Cognition may be fluctuating, in contrast to other forms of dementia eg: periods of confusion and sleepiness that seemed to come and go at random.
+	1. Usually occurs before Parkinson's. 
+		1. *In Parkinson's, motor symptoms (tremor, bradykinesia, rigidity) occur before cognitive.* 
+	2. Cognition may be **fluctuating**, in contrast to other forms of dementia e.g.: periods of confusion and sleepiness that seemed to come and go at random.
 	3. in contrast to Alzheimer's, early impairments in attention and executive function rather than just memory loss
 2. **Parkinsonism**: bradykinesia, tremor and a shuffling gait.
 3. Visual hallucinations (other features such as delusions and non-visual hallucinations may also be seen): REM-sleep disorder that is a ==distinctive== feature of DLB (e.g.: Nightmares & violently acting out dreams.)
-
-**Diagnosis**: Using SPECT
-
-**Management**
+##### Diagnosis: 
+Using SPECT
+##### Management
 - both acetylcholinesterase inhibitors (e.g. donepezil, rivastigmine) and memantine can be used as they are in Alzheimer's.
 - [[antipsychotic drugs|neuroleptic drugs]]: should be avoided in Lewy body dementia as patients are extremely sensitive and may develop irreversible parkinsonism. Questions may give a history of a patient who has deteriorated following the introduction of an antipsychotic agent
 # Vascular
-Vascular dementia classically presents as a step-wise decline in cognitive function associated with a series of cerebrovascular events. Vascular dementia does not fluctuate. It is not associated with tremor, fluctuating cognition, or REM-sleep disturbances.
+Step-wise decline in cognitive function associated with a series of cerebrovascular events. Vascular dementia does not fluctuate. It is not associated with tremor, fluctuating cognition, or REM-sleep disturbances.
 
 Only consider AChE inhibitors or memantine for people with vascular dementia if they have suspected comorbid Alzheimer’s disease, Parkinson’s disease dementia or dementia with Lewy bodies.
 # Others

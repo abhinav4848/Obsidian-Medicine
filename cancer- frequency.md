@@ -3,6 +3,7 @@ aliases:
   - Frequency of Cancers in UK
   - Incidence of cancer
   - Most common cancer in UK
+  - cancer frequency
 ---
 # Frequency of Cancers in UK
 In order of incidence ([Cancer Research](https://www.cancerresearchuk.org/health-professional/cancer-statistics/incidence/common-cancers-compared#heading-Zero) ):  
@@ -11,7 +12,7 @@ In order of incidence ([Cancer Research](https://www.cancerresearchuk.org/health
 3. [[cancer- lung|Lung]] (13%)
 4. [[cancer- colorectal|Colorectal]] (11%)
 5. [[Melanoma]] skin cancer
-#mnemonic for cancer in men: Protein, Lunch, Bowl
+#mnemonic for cancer in men: Protein, Lunch, Bow(e)l
   
 In order of mortality ([Cancer Research](https://www.cancerresearchuk.org/health-professional/cancer-statistics/mortality/common-cancers-compared#heading-Zero)):  
 1. Lung (21%)
