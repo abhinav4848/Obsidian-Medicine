@@ -64,7 +64,7 @@ aka DMPA: depot medroxyprogesterone acetate.
 - Unpredictable effects on bleeding patterns. 
 - Intermenstrual spotting in first year of starting. If bothersome bleed -> add COCP 3 months/Mefenamic acid TDS 5 days (while still on Depo-Provera).
 - Completely stops the period in some women but can cause unpredictable bleeding in others.
-- Associated with weight gain.
+- Associated with weight gain & delayed fertility return. 
 - Current Breast cancer: UKMEC 4, Past Breast cancer: UKMEC3
 
 > [!tip] Enzyme metabolism

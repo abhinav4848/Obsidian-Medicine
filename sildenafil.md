@@ -7,6 +7,7 @@ aliases:
   - PDE-5 inhibitor
 ---
 First-line pharmacological treatment of [[erectile dysfunction]] is with phosphodiesterase-5 inhibitors. 
+Also used to treat pulmonary hypertension. 
 
 PDE-5 inhibitor MoA:
 - Works by releasing Nitric oxide and causing vasodilation. Can also be used to treat [[prostate|BPH]].

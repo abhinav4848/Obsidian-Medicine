@@ -13,7 +13,8 @@ aliases:
 Painless multiple: HPV 6, 11
 Painless single (Chancre): Syphilis (*painliss, Single*)
 Painful multiple: HSV (*herplease…. It hurts everywhere*)
-Painful single (Chancroid): H. ducreyi (*I do cry from pain & being single*)  
+Painful single (Chancroid): H. ducreyi (*I do cry from pain & being single*) 
+**Painless can also be Sq cell carcinoma.** 
 
 midstream urine sample detects UTI. Not STD.  
 

@@ -2,7 +2,8 @@
 tags:
   - urology
 ---
-Circumcision has been performed in a variety of cultures for thousands of years. Today it is mainly people of the Jewish and Islamic faith who undergo circumcision for religious/cultural reasons. Circumcision for religious or cultural reasons is not available on the NHS.  
+Circumcision has been performed in a variety of cultures for thousands of years. Today it is mainly people of the Jewish and Islamic faith who undergo circumcision for religious/cultural reasons. Circumcision for religious or cultural reasons is not available on the NHS. 
+- Both parents must consent if the procedure is for traditional region. It's not available on the NHS & the doctor doing the procedure doesn't have to be GMC registered. 
   
 The medical benefits of routine circumcision remain controversial although some evidence has emerged that it:  
 - reduces the risk of penile cancer

@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "medical records.md",
+                "file": "vitamin deficiency.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "medical records"
+              "title": "vitamin deficiency"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "records",
+                "query": "beri",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "medical records.md",
+                "file": "vitamin deficiency.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of medical records"
+              "title": "Graph of vitamin deficiency"
             }
           }
         ]
@@ -360,7 +360,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "medical records.md",
+                "file": "vitamin deficiency.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -370,7 +370,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for medical records"
+              "title": "Backlinks for vitamin deficiency"
             }
           }
         ]
@@ -392,6 +392,15 @@
   },
   "active": "357b4aaa56c0be54",
   "lastOpenFiles": [
+    "circumcision.md",
+    "genital ulcers.md",
+    "gonorrhoea.md",
+    "chlamydia.md",
+    "sildenafil.md",
+    "contraceptives.md",
+    "local medical committees.md",
+    "dvla.md",
+    "medical records.md",
     "nhs referral pathways.md",
     "hrt.md",
     "incontinence- adult.md",
@@ -409,15 +418,6 @@
     "cancer- screening programs.md",
     "dementia.md",
     "frontotemporal dementia.md",
-    "restless leg syndrome.md",
-    "morphine breakthrough dose.md",
-    "opioid misuse.md",
-    "illicit drugs.md",
-    "attention deficit hyperactive disorder.md",
-    "autism.md",
-    "special education needs.md",
-    "down's syndrome.md",
-    "cancer- breast (referral criteria).md",
     "flow charts/paeds examination.canvas",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/menstrual cycle phases.jpg",

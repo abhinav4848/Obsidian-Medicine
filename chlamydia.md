@@ -9,7 +9,7 @@ urls:
 ---
 Most prevalent sexually transmitted infection in the UK.
 1. [[Cervicitis]], [[pelvic inflammatory disease|Salpingitis]]: Painless ulcer, vaginal discharge, post-coital bleed, red & inflamed vulva, cervix, tender pelvis but non-tender abdomen.
-2. Epididymitis (in both)
+2. Epididymitis (in both). In men, the MC presentation is asymptomatic. 
 ## 3 stages
 1. Small painless pustule which later turns to an ulcer
 2. Painful inguinal LNE
@@ -31,7 +31,6 @@ Most prevalent sexually transmitted infection in the UK.
 	- this is now preferred to azithromycin due to concerns about [[Mycoplasma genitalium]]. This infection is often co-existent in patients with Chlamydia and there is evidence of rising levels of macrolide resistance, hence why doxycycline is preferred. #abx 
 	- if doxycycline is contraindicated / not tolerated then [[macrolides|Azithromycin]] (1g OD for one day, then 500mg OD for two days) should be used
 - if pregnant then [[macrolides|Azithromycin]], erythromycin or amoxicillin may be used. The SIGN guidelines suggest azithromycin 1g stat is the drug of choice 'following discussion of the balance of benefits and risks with the patient'
-
 ## Contacts
 - patients diagnosed with Chlamydia should be offered a choice of provider for initial partner notification - either trained practice nurses with support from GUM, or referral to GUM
 - for men with urethral symptoms: all contacts since, and in the four weeks prior to, the onset of symptoms

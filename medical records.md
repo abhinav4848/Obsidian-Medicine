@@ -16,4 +16,5 @@ A patients right to view their own medical records is governed by the 1998 Data 
 No fee for paper copies or electronic formats. 
 No fee even if request made more than once in a 12 month period. 
 No fee for admin time either
-Even if parents are separated & going through a bitter divorce, and daughter lives with mum, dad lives outside practice boundary, hasn't seen daughter in 6 months
+
+Even if parents are separated & going through a bitter divorce, and daughter lives with mum, dad lives outside practice boundary, hasn't seen daughter in 6 months -> Dad is still allowed to see daughter's records. 
