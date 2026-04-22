@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "statistics- biases.md",
+                "file": "forms & benefits.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "statistics- biases"
+              "title": "forms & benefits"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bias",
+                "query": "tag:stats",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "statistics- biases.md",
+                "file": "forms & benefits.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of statistics- biases"
+              "title": "Graph of forms & benefits"
             }
           }
         ]
@@ -360,7 +360,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "statistics- biases.md",
+                "file": "forms & benefits.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -370,7 +370,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for statistics- biases"
+              "title": "Backlinks for forms & benefits"
             }
           }
         ]
@@ -392,6 +392,14 @@
   },
   "active": "357b4aaa56c0be54",
   "lastOpenFiles": [
+    "alcohol.md",
+    "illicit drugs.md",
+    "qt prolongation.md",
+    "magnesium.md",
+    "copd- treatment.md",
+    "statistics- forest plot graph.md",
+    "statistics- biases.md",
+    "statistics- graphical representations.md",
     "medical records.md",
     "diabetes drugs.md",
     "confidentiality.md",
@@ -410,14 +418,6 @@
     "incontinence- adult.md",
     "human papilloma virus.md",
     "cancer- cervical.md",
-    "personality disorder.md",
-    "antipsychotic drugs.md",
-    "paediatric milestones.md",
-    "osteochondritis dissecans.md",
-    "meningitis.md",
-    "statistics- significance tests.md",
-    "statistics- risk reduction, nnt, odds ratio.md",
-    "cancer- frequency.md",
     "flow charts/paeds examination.canvas",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/menstrual cycle phases.jpg",

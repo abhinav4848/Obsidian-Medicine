@@ -20,6 +20,7 @@ Examples of one unit of alcohol:
 
 > No more than 14 units of alcohol per week. If you do drink as much as 14 units per week, it is best to spread this evenly over 3 days or more
 # Alcohol Withdrawal
+12 x3=>36 x2=> 72 
 - symptoms: 6-12 hours (tremor, sweating, tachy, confusion)
 - seizures: 36 hours (24-48 hrs)
 - delirium tremens: 72 hours (coarse tremor, confusion, delusions, auditory and visual hallucinations, fever, tachycardia)

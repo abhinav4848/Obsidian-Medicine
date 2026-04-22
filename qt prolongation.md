@@ -32,9 +32,10 @@ Use QT nomogram to check if normal.
 - [[Haloperidol]] (anti-psychotic)
 - [[Ondansetron]]
 - Quinolones ([[ciprofloxacin]]) #abx 
+- [[illicit drugs|cocaine]] toxicity
 
 # Other Causes of QT prolongation
-- **Electrolyte**: hypocalcemia, [[hypokalemia|hypokalaemia]], hypomagnesaemia
+- **Electrolyte**: hypocalcemia, [[hypokalemia|hypokalaemia]], [[magnesium|Hypomagnesemia]]
 - acute myocardial infarction
 - myocarditis
 - hypothermia
