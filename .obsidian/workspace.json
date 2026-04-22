@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "confidentiality.md",
+                "file": "statistics- biases.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "confidentiality"
+              "title": "statistics- biases"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "confidenti",
+                "query": "bias",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "confidentiality.md",
+                "file": "statistics- biases.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of confidentiality"
+              "title": "Graph of statistics- biases"
             }
           }
         ]
@@ -360,7 +360,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "confidentiality.md",
+                "file": "statistics- biases.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -370,7 +370,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for confidentiality"
+              "title": "Backlinks for statistics- biases"
             }
           }
         ]
@@ -392,6 +392,9 @@
   },
   "active": "357b4aaa56c0be54",
   "lastOpenFiles": [
+    "medical records.md",
+    "diabetes drugs.md",
+    "confidentiality.md",
     "p450.md",
     "vitamin deficiency.md",
     "circumcision.md",
@@ -402,7 +405,6 @@
     "contraceptives.md",
     "local medical committees.md",
     "dvla.md",
-    "medical records.md",
     "nhs referral pathways.md",
     "hrt.md",
     "incontinence- adult.md",
@@ -416,8 +418,6 @@
     "statistics- significance tests.md",
     "statistics- risk reduction, nnt, odds ratio.md",
     "cancer- frequency.md",
-    "melanoma.md",
-    "cancer- screening programs.md",
     "flow charts/paeds examination.canvas",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/menstrual cycle phases.jpg",
