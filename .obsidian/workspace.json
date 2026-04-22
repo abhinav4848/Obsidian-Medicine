@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vitamin deficiency.md",
+                "file": "confidentiality.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "vitamin deficiency"
+              "title": "confidentiality"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "beri",
+                "query": "confidenti",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "vitamin deficiency.md",
+                "file": "confidentiality.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of vitamin deficiency"
+              "title": "Graph of confidentiality"
             }
           }
         ]
@@ -360,7 +360,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vitamin deficiency.md",
+                "file": "confidentiality.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -370,7 +370,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for vitamin deficiency"
+              "title": "Backlinks for confidentiality"
             }
           }
         ]
@@ -392,6 +392,8 @@
   },
   "active": "357b4aaa56c0be54",
   "lastOpenFiles": [
+    "p450.md",
+    "vitamin deficiency.md",
     "circumcision.md",
     "genital ulcers.md",
     "gonorrhoea.md",
@@ -416,8 +418,6 @@
     "cancer- frequency.md",
     "melanoma.md",
     "cancer- screening programs.md",
-    "dementia.md",
-    "frontotemporal dementia.md",
     "flow charts/paeds examination.canvas",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/menstrual cycle phases.jpg",
