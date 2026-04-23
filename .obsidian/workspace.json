@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "attention deficit hyperactive disorder.md",
+                "file": "contraceptives in emergency.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "attention deficit hyperactive disorder"
+              "title": "contraceptives in emergency"
             }
           },
           {
@@ -142,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -175,7 +175,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "odds",
+                "query": "cocp",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "controlled drugs.md",
+                "file": "contraceptives in emergency.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of controlled drugs"
+              "title": "Graph of contraceptives in emergency"
             }
           }
         ]
@@ -360,7 +360,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "controlled drugs.md",
+                "file": "contraceptives in emergency.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -370,7 +370,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for controlled drugs"
+              "title": "Backlinks for contraceptives in emergency"
             }
           }
         ]
@@ -390,11 +390,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "d1ec63053ca1cd8d",
+  "active": "ec8f7698d3b30b35",
   "lastOpenFiles": [
+    "cocp.md",
+    "attention deficit hyperactive disorder.md",
+    "controlled drugs.md",
     "statistics- risk reduction, nnt, odds ratio.md",
     "morphine breakthrough dose.md",
-    "cocp.md",
     "postpartum contraception.md",
     "ukmec.md",
     "contraception.md",
@@ -416,8 +418,6 @@
     "medical records.md",
     "diabetes drugs.md",
     "confidentiality.md",
-    "vitamin deficiency.md",
-    "circumcision.md",
     "flow charts/paeds examination.canvas",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/menstrual cycle phases.jpg",
