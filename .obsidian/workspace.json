@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "forms & benefits.md",
+                "file": "death.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "forms & benefits"
+              "title": "death"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:stats",
+                "query": "coroner",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "forms & benefits.md",
+                "file": "death.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of forms & benefits"
+              "title": "Graph of death"
             }
           }
         ]
@@ -360,7 +360,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forms & benefits.md",
+                "file": "death.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -370,7 +370,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for forms & benefits"
+              "title": "Backlinks for death"
             }
           }
         ]
@@ -392,6 +392,7 @@
   },
   "active": "357b4aaa56c0be54",
   "lastOpenFiles": [
+    "forms & benefits.md",
     "alcohol.md",
     "illicit drugs.md",
     "qt prolongation.md",
@@ -417,7 +418,6 @@
     "hrt.md",
     "incontinence- adult.md",
     "human papilloma virus.md",
-    "cancer- cervical.md",
     "flow charts/paeds examination.canvas",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/menstrual cycle phases.jpg",

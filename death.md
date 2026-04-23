@@ -8,6 +8,7 @@ aliases:
   - MCCD
   - death certification
   - death certificate
+  - procurator fiscal
 ---
 # Medical Examiner
 
