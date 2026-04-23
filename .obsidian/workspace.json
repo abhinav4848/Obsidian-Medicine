@@ -88,13 +88,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "symbols on bnf.md",
+                "file": "controlled drugs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "symbols on bnf"
+              "title": "controlled drugs"
+            }
+          },
+          {
+            "id": "32f8117227a03a3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yellow card scheme.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "yellow card scheme"
             }
           },
           {
@@ -157,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -234,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "symbols on bnf.md",
+                "file": "yellow card scheme.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +277,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of symbols on bnf"
+              "title": "Graph of yellow card scheme"
             }
           }
         ]
@@ -374,7 +389,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "symbols on bnf.md",
+                "file": "yellow card scheme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -384,7 +399,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for symbols on bnf"
+              "title": "Backlinks for yellow card scheme"
             }
           }
         ]
@@ -404,12 +419,18 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a8b3c23b8a5045e6",
+  "active": "32f8117227a03a3d",
   "lastOpenFiles": [
     "controlled drugs.md",
+    "yellow card scheme.md",
+    "grading quality of evidence.md",
+    "statistics- study designs.md",
+    "economic evaluation.md",
+    "statistics- biases.md",
+    "statistics- graphical representations.md",
+    "statistics- forest plot graph.md",
     "symbols on bnf.md",
     "contraceptives.md",
-    "statistics- graphical representations.md",
     "contraceptives in emergency.md",
     "cocp.md",
     "attention deficit hyperactive disorder.md",
@@ -426,12 +447,6 @@
     "alcohol.md",
     "illicit drugs.md",
     "qt prolongation.md",
-    "magnesium.md",
-    "copd- treatment.md",
-    "statistics- forest plot graph.md",
-    "statistics- biases.md",
-    "medical records.md",
-    "diabetes drugs.md",
     "flow charts/paeds examination.canvas",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/menstrual cycle phases.jpg",
