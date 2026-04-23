@@ -25,6 +25,7 @@ tags:
 - Cox-2 inhibition -> Decreased PGI2 (PGI2 is vasodilator & anti-platelet)
 - Relative excess of thromboxane -> pro-thrombotic state
 - Increased risk of MI, Stroke
+- Diclofenac is c/i with any form of Cardiovascular disease including Stroke. Switch to ibuprofen or Naproxen. 
 ### NSAID & CKD
 - PGIs maintain afferent arteriole dilation
 - NSAIDs inhibit PGs -> afferent arteriole constriction -> reduced intraglomerular pressure
@@ -46,7 +47,6 @@ Whether NSAID can be given in [[asthma]] depends on the type of asthma and the p
 
 # Aspirin in Children
 Avoid aspirin in children < 16yo due to risk of reye syndrome. Can give in [[kawasaki disease]] however as benefit > risk.
-
 # Aspirin & dental procedures
 Can continue for dental surgeries. 
 

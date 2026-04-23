@@ -14,7 +14,7 @@ After giving birth, women require contraception after day 21.
 - after day 21 additional contraception should be used for the first 2 days
 - a small amount of progestogen enters breast milk but this is not harmful to the infant
 # Post-Partum [[COCP]] %%embedded%%
-Avoid in first 21 days (UKMEC-4: VTE Risk). After this,
+Avoid in first 21 days ([[ukmec|UKMEC]]-4: VTE Risk). After this,
 - If breastfeeding:
 	- keep avoiding till 6 weeks (UKMEC-4).
 	- After that (UKMEC-2) 6 weeks - 6 months (decreases milk production). 

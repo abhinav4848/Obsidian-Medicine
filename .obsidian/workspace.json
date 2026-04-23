@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p450.md",
+                "file": "cocp.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "p450"
+              "title": "cocp"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "p450",
+                "query": "ukmec",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "p450.md",
+                "file": "cocp.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of p450"
+              "title": "Graph of cocp"
             }
           }
         ]
@@ -360,7 +360,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "p450.md",
+                "file": "cocp.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -370,7 +370,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for p450"
+              "title": "Backlinks for cocp"
             }
           }
         ]
@@ -392,6 +392,14 @@
   },
   "active": "357b4aaa56c0be54",
   "lastOpenFiles": [
+    "postpartum contraception.md",
+    "ukmec.md",
+    "contraception.md",
+    "cocp.md",
+    "nsaid.md",
+    "contraceptives.md",
+    "contraceptives in emergency.md",
+    "p450.md",
     "statistics- risk reduction, nnt, odds ratio.md",
     "cancer- risk factors.md",
     "death.md",
@@ -407,17 +415,9 @@
     "medical records.md",
     "diabetes drugs.md",
     "confidentiality.md",
-    "p450.md",
     "vitamin deficiency.md",
     "circumcision.md",
     "genital ulcers.md",
-    "gonorrhoea.md",
-    "chlamydia.md",
-    "sildenafil.md",
-    "contraceptives.md",
-    "local medical committees.md",
-    "dvla.md",
-    "nhs referral pathways.md",
     "flow charts/paeds examination.canvas",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/menstrual cycle phases.jpg",

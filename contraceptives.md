@@ -59,7 +59,7 @@ every 13 weeks
 i.m.
 aka DMPA: depot medroxyprogesterone acetate.
 - Give once every 3 months. 
-- c/I in <20 yo cuz risk of [[osteoporosis]].
+- c/I in <20yo (adolescents) cuz risk of [[osteoporosis]].
 	- Has concerns for bone mineral density with long term use & delay in return to fertility. 
 - Unpredictable effects on bleeding patterns. 
 - Intermenstrual spotting in first year of starting. If bothersome bleed -> add COCP 3 months/Mefenamic acid TDS 5 days (while still on Depo-Provera).
