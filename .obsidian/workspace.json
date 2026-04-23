@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "death.md",
+                "file": "statistics- risk reduction, nnt, odds ratio.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "death"
+              "title": "statistics- risk reduction, nnt, odds ratio"
             }
           },
           {
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "death.md",
+                "file": "statistics- risk reduction, nnt, odds ratio.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of death"
+              "title": "Graph of statistics- risk reduction, nnt, odds ratio"
             }
           }
         ]
@@ -360,7 +360,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "death.md",
+                "file": "statistics- risk reduction, nnt, odds ratio.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -370,7 +370,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for death"
+              "title": "Backlinks for statistics- risk reduction, nnt, odds ratio"
             }
           }
         ]
@@ -392,6 +392,8 @@
   },
   "active": "357b4aaa56c0be54",
   "lastOpenFiles": [
+    "cancer- risk factors.md",
+    "death.md",
     "forms & benefits.md",
     "alcohol.md",
     "illicit drugs.md",
@@ -416,8 +418,6 @@
     "dvla.md",
     "nhs referral pathways.md",
     "hrt.md",
-    "incontinence- adult.md",
-    "human papilloma virus.md",
     "flow charts/paeds examination.canvas",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/menstrual cycle phases.jpg",
