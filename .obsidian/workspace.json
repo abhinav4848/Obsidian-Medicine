@@ -73,13 +73,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contraceptives in emergency.md",
+                "file": "controlled drugs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "contraceptives in emergency"
+              "title": "controlled drugs"
+            }
+          },
+          {
+            "id": "a8b3c23b8a5045e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "symbols on bnf.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "symbols on bnf"
             }
           },
           {
@@ -142,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -175,7 +190,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cocp",
+                "query": "ius",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -206,8 +221,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -220,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "contraceptives in emergency.md",
+                "file": "symbols on bnf.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of contraceptives in emergency"
+              "title": "Graph of symbols on bnf"
             }
           }
         ]
@@ -360,7 +374,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contraceptives in emergency.md",
+                "file": "symbols on bnf.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -370,7 +384,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for contraceptives in emergency"
+              "title": "Backlinks for symbols on bnf"
             }
           }
         ]
@@ -390,19 +404,21 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ec8f7698d3b30b35",
+  "active": "a8b3c23b8a5045e6",
   "lastOpenFiles": [
+    "controlled drugs.md",
+    "symbols on bnf.md",
+    "contraceptives.md",
+    "statistics- graphical representations.md",
+    "contraceptives in emergency.md",
     "cocp.md",
     "attention deficit hyperactive disorder.md",
-    "controlled drugs.md",
     "statistics- risk reduction, nnt, odds ratio.md",
     "morphine breakthrough dose.md",
     "postpartum contraception.md",
     "ukmec.md",
     "contraception.md",
     "nsaid.md",
-    "contraceptives.md",
-    "contraceptives in emergency.md",
     "p450.md",
     "cancer- risk factors.md",
     "death.md",
@@ -414,10 +430,8 @@
     "copd- treatment.md",
     "statistics- forest plot graph.md",
     "statistics- biases.md",
-    "statistics- graphical representations.md",
     "medical records.md",
     "diabetes drugs.md",
-    "confidentiality.md",
     "flow charts/paeds examination.canvas",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/menstrual cycle phases.jpg",

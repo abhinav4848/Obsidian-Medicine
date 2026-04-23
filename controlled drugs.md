@@ -4,8 +4,10 @@ tags:
 revision counter: 1
 aliases:
   - scheduled drugs
+urls:
+  - "[BNF- Scheduled Drugs](https://bnf.nice.org.uk/medicines-guidance/controlled-drugs-and-drug-dependence/)"
 ---
-*See: [[controlled drugs]], [[toxins]], [[illicit drugs]]*
+*See: [[toxins]], [[illicit drugs]]*
 
 When prescribing a controlled drug the following must be present on the prescription:  
 - name, dob, and address of the patient
