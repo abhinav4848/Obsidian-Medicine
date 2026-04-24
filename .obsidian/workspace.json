@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gmc- intimate examination & chaperone.md",
+                "file": "cocp.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "gmc- intimate examination & chaperone"
+              "title": "cocp"
             }
           },
           {
@@ -280,7 +280,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "gmc- intimate examination & chaperone.md",
+                "file": "cocp.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -308,7 +308,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of gmc- intimate examination & chaperone"
+              "title": "Graph of cocp"
             }
           }
         ]
@@ -420,7 +420,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gmc- intimate examination & chaperone.md",
+                "file": "cocp.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -430,7 +430,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for gmc- intimate examination & chaperone"
+              "title": "Backlinks for cocp"
             }
           }
         ]
@@ -452,8 +452,9 @@
   },
   "active": "3da7fa4e8ec895e6",
   "lastOpenFiles": [
-    "hrt.md",
+    "chlamydia.md",
     "gmc- intimate examination & chaperone.md",
+    "hrt.md",
     "menopause.md",
     "foster care.md",
     "leflunomide.md",
@@ -471,7 +472,6 @@
     "gmc- prescribing and managing medicines and devices content.md",
     "gynaecological infections.md",
     "cervicitis.md",
-    "chlamydia.md",
     "pelvic inflammatory disease.md",
     "genital ulcers.md",
     "missed pill window.md",

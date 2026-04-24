@@ -34,7 +34,8 @@ Most prevalent [[genital ulcers|sexually transmitted infection]] in the UK.
 	- if doxycycline is contraindicated / not tolerated then [[macrolides|Azithromycin]] (1g OD for one day, then 500mg OD for two days) should be used
 - if pregnant then [[macrolides|Azithromycin]], erythromycin or amoxicillin may be used. The SIGN guidelines suggest azithromycin 1g stat is the drug of choice 'following discussion of the balance of benefits and risks with the patient'
 ## Contacts
-- patients diagnosed with Chlamydia should be offered a choice of provider for initial partner notification - either trained practice nurses with support from GUM, or referral to GUM
-- for men with urethral symptoms: all contacts since, and in the four weeks prior to, the onset of symptoms
-- for women and asymptomatic men all partners from the last six months or the most recent sexual partner should be contacted
+- patients diagnosed with Chlamydia should be offered a choice of provider for initial partner notification- either trained practice nurses with support from GUM, or referral to GUM
+- for men with urethral symptoms: All contacts since, and in the 4 weeks prior to, the onset of symptoms
+- for women and asymptomatic men all partners from the last 6 months & the most recent sexual partner should be contacted
+	- If the patient's most recent sexual contact falls outside this 6-month period, that partner should also be notified, as they may have been the source of infection or could have been infected subsequently.
 - contacts of confirmed Chlamydia cases should be offered treatment prior to the results of their investigations being known (*treat then test*)
