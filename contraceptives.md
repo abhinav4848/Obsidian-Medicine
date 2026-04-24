@@ -9,7 +9,8 @@ aliases:
   - Nexplanon
   - when to stop contraceptives
   - POP
-urls:
+  - Contraception in Epilepsy
+  - Contraception for women aged > 40 years
 ---
 ![[contraception]]
 
@@ -140,3 +141,21 @@ Immediate contraception if inserted ≤7 days from start of menstruation; otherw
 | Progestogen-only injectable (e.g. Depo Provera)       | Can be continued to age 50 years                 | Women >=50 should be counselled regarding switching to alternative methods, then follow appropriate advice.<br><br>UKMEC-2 for age >= 45yo.                                                                                                                                                                                                                                                                                                               |
 | Progestogen-only implant (IMP) and <br><br>pill (POP) | Can be continued to age 50 and beyond            | Stop at age 55 when natural loss of fertility can be assumed for most women. Spontaneous conception is rare even if menses continue. <br><br>If a woman over 50 with amenorrhoea wishes to stop before age 55, FSH level can be checked. <br>- If FSH level is >30 IU/L the IMP/POP/LNG-IUD can be discontinued after 1 more year. <br>- If FSH level is in premenopausal range then method should be continued and FSH level checked again 1 year later. |
 | Levonogestrel intrauterine device (LNG-IUD)           | Can be continued to age 50 and beyond            | A 52mg LNG-IUD inserted >=45 can remain *in situ* until age 55 if used for contraception or heavy menstrual bleeding.                                                                                                                                                                                                                                                                                                                                     |
+
+---
+# Contraception in Epilepsy
+There are a number of factors to consider for women with epilepsy:  
+- contraceptive affecting antiepileptic 
+- the potential teratogenic effects of the anti-epileptic if the woman becomes pregnant  
+Given the points above, the Faculty of Sexual & Reproductive Healthcare (FSRH) recommend the consistent use of condoms, in addition to other forms of contraception.  
+  
+For women taking phenytoin, carbamazepine, barbiturates, primidone, topiramate, oxcarbazepine:  
+- UKMEC 3: the COCP and POP
+- UKMEC 2: implant
+- UKMEC 1: Depo-Provera, IUD, IUS
+
+For lamotrigine:  
+- UKMEC 3: the COCP
+- UKMEC 1: POP, implant, Depo-Provera, IUD, IUS
+  
+If a COCP is chosen then it should contain a minimum of 30 µg of ethinylestradiol.

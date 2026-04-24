@@ -41,10 +41,11 @@ HRT is not contraception.
 ## Continuous combined HRT 
 Oestrogen + progestogen every day. 
 
-Used for Postmenopausal women. 
-Definition of [[Menopause]]: 
-- >= 12 months since last menstrual period
-- >= 2 years post-menopause if <50 years old 
+Used for Postmenopausal women. (>= 12 months since LMP)
+*See [[menopause#Reviews for patients on HRT linked|Reviews for patients on HRT]] & [[menopause]]*
+## Confusion
+![[menopause#Menopause & Contraception / HRT embedded]]
+
 
 ---
 # When does menopausal/pre-menopausal woman need contraception?

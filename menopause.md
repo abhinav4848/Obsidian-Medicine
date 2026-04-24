@@ -14,10 +14,16 @@ aliases:
 ![[contraception]]
 
 The average woman in the UK goes through the menopause when she is 51 years old. 
-**Definition**
-- 12 months after the last period in women > 50 years
-- 24 months after the last period in women < 50 years
-So need of contraception is based on whether they fit the definition of menopause. 
+Menopause is always 12 months of amenorrhoea.
+### Menopause & Contraception / HRT %%embedded%%
+The rule for duration of use is different for contraception & HRT.  
+[[contraceptives|Contraception]] :  
+- If age < 50yo: Use contraception for 24 months since LMP 
+- If age > 50yo: Only 12 months since LMP 
+  
+[[hrt|HRT]]:  
+- Cyclical HRT is < 12 months since LMP (perimenopause)  
+- Sequential HRT is > 12 months since LMP (Menopause)
 # Effects of Menopause
 - Menopausal symptoms: 
 	- Vasomotor symptoms e.g. hot flushes, night sweats.
@@ -46,7 +52,7 @@ Early menopause: <45yo
 - Alternatives to HRT: CBT for mood/anxiety, soy, SSRI, SNRI (Don't use fluoxetine or paroxetine for patients taking tamoxifen), Clonidine
 # HRT
 See: [[hrt|Hormone Replacement Therapy]] 
-# Reviews for patients on HRT
+# Reviews for patients on HRT %%linked%%
 3 months after starting then at least annually
 - discuss symptom control, s/e, ongoing indication
 - check BP, BMI. 
