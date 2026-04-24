@@ -25,3 +25,10 @@ Ischemic/vascular (Thrombosis/embolism)
 - [[glaucoma- open angle]]- peripheral vision loss
 - [[macular degeneration]] (dry is insidious, wet is rapid onset)-central vision impairment only
 - Cataract- absent/opacified red reflex
+
+---
+# Visual impairment
+Blindness is generally defined as vision < 3/60 in the better eye. (see [[refractive error|Snellen's chart]])
+Registration is voluntary in England. 
+Patients who are deemed blind are eligible for additional benefits (for example disabled parking badge, reduced television license fee, talking books). 
+A consultant ophthalmologist is needed to make an application to social services

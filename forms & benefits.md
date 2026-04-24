@@ -25,7 +25,7 @@ SC3 form: Statutory paternity pay
 - the **Statement of Fitness for Work** replaces the Med3 and Med5 in one form
 - the Med4, Med6 and RM 7 forms have been withdrawn due to the replacement of Incapacity Benefit with the Employment and Support Allowance
 
-GP fit note can be given after the patient has self-certified for a week. 
+GP fit note can be given after the patient has self-certified for 7 calendar days (not 7 working days). 
 A fit note can be back dated, but not future dated. 
 As per Department of Work and Pensions guidance, 
 - a Med 3 (fit note) can cover a maximum of 3 months in the first 6 months of a patient's illness.

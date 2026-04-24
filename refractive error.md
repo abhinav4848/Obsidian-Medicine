@@ -27,3 +27,7 @@ The Snellen eye chart measures how well you can see without glasses from 20 feet
 - Numerator (6): The distance in meters from which the test is taken.
 - Denominator (7.5): The distance at which a person with normal vision could read that same line.
 - Comparison: 6/7.5 is equivalent to approximately 20/25 in feet, which is slightly better than 20/30 but less than "perfect" 20/20 (6/6) vision.
+
+[[loss of vision|blindness]]: Better eye has < 3/60 (meters) acuity. 
+
+
