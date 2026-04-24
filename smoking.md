@@ -27,14 +27,12 @@ They should be given as part of a plan to stop smoking on or before a particular
 | NRT         | On the quit date           | 2 weeks   |                                           |
 | Varenicline | 1 week before quit date    | 3-4 weeks | 12 weeks, with review before continuation |
 | Bupropion   | 1-2 weeks before quit date | 3-4 weeks |                                           |
-
 # NRT
 - can cause N&V, headache, flu-like symptoms. 
 - NICE recommends combos of nicotine patch with another form of NRT (gum/inhalator/lozenge/nasal spray) to those with high dependence & where NRT background wasn't enough & they're having breakthrough urges. 
 - NRT patches should be used for no more than 16 hours in any 24-hour period. The best way to stick to this is to remove the patch at bedtime. Nicotine is a stimulant, and if the patch is worn at night, it may cause insomnia or abnormal dreams.
 - there is now a 24 hour NRT patch that is recommended by CKS if smoking cravings are worst in the morning
 - NRT can be started on the Quit day
-
 # Varenicline (champix)
 Nicotinic receptor partial agonist. More effective than bupropion. 
 Varenicline works by partially activating the *nicotinic acetylcholine receptor*, reducing cravings for nicotine and withdrawal symptoms.
@@ -71,3 +69,9 @@ NICE recommended in 2010 that all pregnant women should be tested for smoking us
 	- support from NHS Stop Smoking Services
 - the evidence for the use of NRT (but not V or B) in pregnancy is mixed but it is often used if the above measures failure. There is no evidence that it affects the child's birthweight. **Pregnant women should remove the patches before going to bed**
 - Varenicline and bupropion are contraindicated
+
+---
+# Tips
+Clinicians shouldn't favour one method over another
+Repeat treatment shouldn't be offered within 6 months
+Don't prescribe combinations of the drugs. 

@@ -21,9 +21,9 @@ For all antidepressants, warn about:
 	- Taper gradually over an extended period of time. ([GP notebook](https://gpnotebook.com/en-GB/pages/gastroenterology/antidepressants-stopping-or-switching-treatment))
 	- Withdrawal symptoms: Dizziness, numbness and tingling, GI disturbances (nausea & vomiting), headache, sweating, anxiety, sleep disturbances
 - Risk of GI bleed with SSRIs. 
-	- So avoid them if Warfarin used. Use Mirtazapine instead.
+	- So *avoid* them if Warfarin used. Use Mirtazapine instead.
 	- If NSAID, Aspirin used, add PPI too. ([BNF Interactions](https://bnf.nice.org.uk/interactions/sertraline/))
-- Avoid Triptans & MAOi as [[fever caused by drugs|Serotonin syndrome]]. 
+- Avoid Triptans, MAOi as [[fever caused by drugs|Serotonin syndrome]]. 
 - All SSRIs lower [[seizure]] threshold and cause [[hyponatremia]]. 
 - Be aware when prescribing SSRIs of the need to ask about [[illicit drugs|cocaine]] use when considering drug–drug interactions, and the need to avoid concurrent use of multiple serotonergic drugs. 
 - SSRIs can cause sexual dysfunction ([[erectile dysfunction]]), genital numbness, anorgasmia (Mirtazapine can also do it, but less than SSRIs). 

@@ -32,7 +32,11 @@ raised white cell count, bradykinesia, muscle rigidity.
 ---
 # Serotonin syndrome
 Due to excess [[ssri|SSRI]] -> Fluoxetine, Sertraline, [[citalopram]]
+- St John's Wort, often taken over the counter for depression, can interact with SSRIs to cause serotonin syndrome
+- tramadol may also interact with SSRIs
 Avoid Triptans & MAOi with SSRIs- both have [[5-ht receptors (serotonin receptors)|serotonergic activity]]
+Can also be caused by Ecstasy & Amphetamines. 
+
 See [[p450|p450 inhibitor]]. 
 
 **Onset**: Hours
