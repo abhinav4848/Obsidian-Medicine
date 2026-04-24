@@ -7,13 +7,15 @@ aliases:
 urls:
   - "[BASHH- Chlamydia](https://www.bashh.org/resources/15/chlamydia_2015)"
 ---
-Most prevalent sexually transmitted infection in the UK.
+Most prevalent [[genital ulcers|sexually transmitted infection]] in the UK.
 1. [[Cervicitis]], [[pelvic inflammatory disease|Salpingitis]]: Painless ulcer, vaginal discharge, post-coital bleed, red & inflamed vulva, cervix, tender pelvis but non-tender abdomen.
 2. Epididymitis (in both). In men, the MC presentation is asymptomatic. 
 ## 3 stages
 1. Small painless pustule which later turns to an ulcer
 2. Painful inguinal LNE
 3. Procto-Colitis
+# Investigation
+![[cervicitis#Investigation embedded]]
 # Potential complications
 - Lymphogranuloma venereum ([PCDS](https://www.pcds.org.uk/clinical-guidance/travel-acquired-cutaneous-infections#:~:text=Lymphogranuloma%20venerum%20(LGV)))
 - Chlamydia/[[gonorrhoea]] if untreated will ascend

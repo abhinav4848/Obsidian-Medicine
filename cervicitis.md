@@ -12,7 +12,7 @@ Due to [[chlamydia]] > [[gonorrhoea]]
 - Has non offensive Vaginal discharge. 
 - Post-coital bleed, intermenstrual bleed, dysuria, dyspareunia
 - Red inflamed vulva and cervix, tender pelvis (non tender abdomen)
-## Investigation
+## Investigation %%embedded%%
 _Chlamydia_ testing should be carried out two weeks after a possible exposure
 
 **Women**

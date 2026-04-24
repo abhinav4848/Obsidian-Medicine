@@ -9,6 +9,7 @@ aliases:
   - hpv
   - epididymoorchitis
   - Epididymo-orchitis
+  - sexually transmitted infection
 ---
 Painless multiple: HPV 6, 11
 Painless single (Chancre): Syphilis (*painliss, Single*)
@@ -47,7 +48,7 @@ E. coli in older adults, arising from urinary tract colonisation
 
 **Investigations** for suspected epididymo-orchitis are guided by age:  
 - sexually active younger adults: NAAT for STIs (usually on a first-catch urine sample)
-- older adults with a low-risk sexual history: MSSU (as this age group, it's due to enteric organisms like E. coli. )
+- older adults with a low-risk sexual history: MSSU (as this age group, it's due to enteric organisms like E. coli.)
 
 **DDx**: Testicular torsion. 
 **Rx**:

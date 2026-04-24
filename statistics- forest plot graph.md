@@ -9,6 +9,7 @@ cssclasses:
   - red-border
   - invert-image
 ---
+
 *See [[statistics- graphical representations|Graphical representations of statistical data]]* 
 ![forest plot|404](https://upload.wikimedia.org/wikipedia/commons/f/f0/Generic_forest_plot.png)
 

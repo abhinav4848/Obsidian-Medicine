@@ -88,6 +88,7 @@ This is a progestogen tablet that you take every day but it is not a contracepti
 - Has no absolute risk of ectopic pregnancy, but has relative risk. 
 - **infection**: there is a small increased risk of [[pelvic inflammatory disease]] in the first 20 days after insertion but after this period the risk returns to that of a standard population
 - expulsion: risk is around 1 in 20, and is most likely to occur in the first 3 months
+- Names: #notAKT They have either banded copper arms (e.g. T-Safe 380Aµ quick-load, and TT-380µ slimline) or have copper in the stem only (e.g. Nova-Tµ 380). They are either licensed for 5 or 10 years. They mostly have an insertion tube of 4.75mm but the Nova-T 380µ is smaller at 3.6mm. By comparison, the insertion tube for the Mirena is 4.4mm and the Jaydess is 3.8mm.
 ### IUS 
 Immediate contraception if inserted ≤7 days from start of menstruation; otherwise use additional contraception for 7 days. 
 (see [[time for action of contraceptives]]).
