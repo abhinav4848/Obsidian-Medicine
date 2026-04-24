@@ -27,7 +27,9 @@ SC3 form: Statutory paternity pay
 
 GP fit note can be given after the patient has self-certified for a week. 
 A fit note can be back dated, but not future dated. 
-Max duration allowed is 3 months. 
+As per Department of Work and Pensions guidance, 
+- a Med 3 (fit note) can cover a maximum of 3 months in the first 6 months of a patient's illness.
+- If his condition were to last longer than 6 months, a fit note can be for any clinically appropriate period, based on the clinician's judgement and discretion.
 
 In case a patient wants a fit note but can't get it on the same day, they can tell their employer they're unwell and then when they do get their GP appointment, or even a discussion with the on-call doctor, they can ask for the fit note to be back dated. 
 ### Self certification

@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "statins.md",
+                "file": "contraceptives.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "statins"
+              "title": "contraceptives"
             }
           },
           {
@@ -58,28 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "down's syndrome.md",
+                "file": "cancer- risk factors.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "down's syndrome"
-            }
-          },
-          {
-            "id": "ec8f7698d3b30b35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "controlled drugs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "controlled drugs"
+              "title": "cancer- risk factors"
             }
           },
           {
@@ -103,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yellow card scheme.md",
+                "file": "forms & benefits.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "yellow card scheme"
+              "title": "forms & benefits"
             }
           },
           {
@@ -118,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "controlled drugs.md",
+                "file": "cocp.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "controlled drugs"
+              "title": "cocp"
             }
           },
           {
@@ -172,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,7 +190,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ius",
+                "query": "contracepti",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -236,7 +221,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -249,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "yellow card scheme.md",
+                "file": "contraceptives.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -277,7 +263,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of yellow card scheme"
+              "title": "Graph of contraceptives"
             }
           }
         ]
@@ -389,7 +375,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yellow card scheme.md",
+                "file": "contraceptives.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -399,7 +385,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for yellow card scheme"
+              "title": "Backlinks for contraceptives"
             }
           }
         ]
@@ -419,9 +405,21 @@
       "graph:Open graph view": false
     }
   },
-  "active": "32f8117227a03a3d",
+  "active": "42bc1f4e05727af4",
   "lastOpenFiles": [
+    "statins.md",
     "controlled drugs.md",
+    "cancer- risk factors.md",
+    "down's syndrome.md",
+    "cancer- breast (referral criteria).md",
+    "statistics- risk reduction, nnt, odds ratio.md",
+    "smoking.md",
+    "cocp.md",
+    "ukmec.md",
+    "hrt.md",
+    "contraceptives.md",
+    "forms & benefits.md",
+    "fitness to fly.md",
     "yellow card scheme.md",
     "grading quality of evidence.md",
     "statistics- study designs.md",
@@ -430,23 +428,11 @@
     "statistics- graphical representations.md",
     "statistics- forest plot graph.md",
     "symbols on bnf.md",
-    "contraceptives.md",
     "contraceptives in emergency.md",
-    "cocp.md",
     "attention deficit hyperactive disorder.md",
-    "statistics- risk reduction, nnt, odds ratio.md",
     "morphine breakthrough dose.md",
     "postpartum contraception.md",
-    "ukmec.md",
     "contraception.md",
-    "nsaid.md",
-    "p450.md",
-    "cancer- risk factors.md",
-    "death.md",
-    "forms & benefits.md",
-    "alcohol.md",
-    "illicit drugs.md",
-    "qt prolongation.md",
     "flow charts/paeds examination.canvas",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/menstrual cycle phases.jpg",

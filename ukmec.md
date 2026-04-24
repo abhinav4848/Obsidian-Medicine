@@ -3,6 +3,8 @@ tags:
   - gynae
 aliases:
   - UKMEC
+urls:
+  - "[College of sexual & reproductive health](https://www.cosrh.org/Public/Public/Standards-and-Guidance/uk-medical-eligibility-criteria-for-contraceptive-use-ukmec.aspx)"
 ---
 ![[contraception]]
 

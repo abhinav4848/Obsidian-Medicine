@@ -35,6 +35,7 @@ S/E
 - Irregular periods-> MC. Some users may not have periods and others irregular/light periods. 
 - Increased incidence of functional ovarian cysts
 - Breast tenderness, weight gain, acne, headaches. These subside in few months. 
+- Breast cancer is UKMEC4 for POP. Best go for IUCD. 
 ## Implant (Nexplanon)
 *(Implanon has been replaced by Nexplanon)*
 - Nexplanon (etonogestrel 68 mg) is currently the only progestogen-only implant licensed for use in the UK. 
@@ -43,7 +44,9 @@ S/E
 - can be inserted immediately following termination of pregnancy. 
 
 **S/E:** 
-- Irregular/heavy bleeding. Sometimes managed with co-prescribing COCP. Do speculum/[[sexually transmitted diseases|STI]] check if bleed continues. 
+- Irregular/heavy bleeding. 
+	- Managed with co-prescribing COCP (at least 30 micrograms ethinylestradiol) for 3 months. Either take 3x21 day courses or continuously for 63 days. 
+	- Do speculum/[[sexually transmitted diseases|STI]] check if bleed continues. 
 - Progestogen effects: Headache, nausea, Breast tenderness. 
 
 **Contraindications**  
