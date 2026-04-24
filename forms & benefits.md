@@ -67,7 +67,7 @@ PIP is tax-free, not means tested and divided into two components:
 
 Means testing means your eligibility depends on your income & savings. But PIP is not means tested. So you could still work and be entitled to PIP because based only on your disability and how it affects daily life. 
 #### Attendance Allowance
-Attendance Allowance (AA) is a tax-free allowance for people aged 65 or over when they claim who need help with their personal care. To claim AA, patients should normally have needed help with care for 6 months. Like DLA it is not means tested.  
+Attendance Allowance (AA) is a tax-free allowance for people aged >= 65 when they claim who need help with their personal care. To claim AA, patients should normally have needed help with care for 6 months. Like DLA, it is not means tested.  
 #### Terminally ill patients
 Patients who have a terminal illness (where there is an expectation that the patient will not live for more than 12 months) are eligible to be fast-tracked through the system for claiming Personal Independence Payment (PIP), Universal Credit (UC), employment support allowance (ESA), DLA or AA. 
 
@@ -83,7 +83,7 @@ The following are the time frames for completing and submitting the SR1 form:
 The DWP will use the information on the SR1 form to decide whether the patient meets the criteria for the Special Rules. If the patient is found to meet the criteria, they will be able to claim benefits sooner than they would otherwise be able to. 
 
 ---
-# Benefits: bereavement
+# Benefits
 Whilst GPs are not supposed to be experts on claimable benefits, a rough understanding is expected. 
 
 | Payment name                                              | Details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
@@ -93,8 +93,16 @@ Whilst GPs are not supposed to be experts on claimable benefits, a rough underst
 | **Widowed Parent's Allowance** <br>  <br>                 | Payable to a parent whose husband or wife has died.  <br><br>**Eligibility**<br>- surviving partner is bringing up a child < 19 years of age and receiving child benefit<br>- deceased partner had made adequate national insurance contributions<br>- also if the woman was expecting her late husband's baby<br>- divorcees and those who remarry are not eligible to claim<br><br>Ends when certain conditions are met: When all dependent children leave full-time education - rather than being limited to a set period after the partner's death.  et: |
 | **Retirement pension**                                    | State pension may be claimed from 66 years and will now increase to 67 between 2026 and 2028. State pensions are taxable and paid even if the claimant is still working                                                                                                                                                                                                                                                                                                                                                                                      |
 | **Incapacity Benefit & Employment and Support Allowance** | Merged into universal credit. <br>Employment and Support Allowance replaced Incapacity Benefit for new claimants from October 2008. Claimable by those not entitled to Statutory Sick Pay (SSP), for example self-employed, or when SSP has ended                                                                                                                                                                                                                                                                                                            |
-| **Statutory Sick Pay**                                    | For employees unable to work due to illness. Unable to work for > 4 days in a row. Paid up to a maximum of 28 weeks                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-
+# Statutory Sick Pay
+[GOV.UK- Statutory Sick Pay (SSP)](https://www.gov.uk/statutory-sick-pay/overview), [If Your Illness Affects Your Ability To Work](https://www.macmillan.org.uk/cancer-information-and-support/impacts-of-cancer/work-and-cancer)
+Statutory Sick Pay (SSP) is paid to someone by their employer when they are too unwell to work, having been off sick from work for a minimum of 4 days in a row.  
+  
+The current eligibility requirements to qualify for Statutory Sick Pay you must:  
+- Be classed as an employee and have done some work for your employer
+- Have been ill for at least 4 days in a row (including non-working days)
+- Earn at least 112 pounds (before tax) per week
+- Tell your employer you're sick before their deadline- or within 7 days if they don't have one. 
+- Agency workers are entitled to Statutory Sick Pay.
 ---
 # Universal Credit
 ##### What is universal credit and who is eligible?

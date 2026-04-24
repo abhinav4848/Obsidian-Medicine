@@ -16,6 +16,13 @@ urls:
 ---
 # COCP
 See [[cocp|COCP]]. 
+### Combined hormonal contraceptive ==patch==
+e.g. Evra: ethinylestradiol and norelgestromin 
+Works similar to COCP. 
+The patch is typically changed weekly for three weeks, followed by a patch-free week
+
+Less effective over 90 kgs. 
+- The reduced efficacy is likely due to lower serum contraceptive hormone levels in women with higher body weight, potentially due to increased distribution volume and metabolism. While the patch is not contraindicated for her, it is not effective for the BMI either
 
 ---
 # Progesterone only
@@ -49,7 +56,8 @@ S/E
 	- Do speculum/[[sexually transmitted diseases|STI]] check if bleed continues. 
 - Progestogen effects: Headache, nausea, Breast tenderness. 
 
-**Contraindications**  
+**Contraindications** 
+- UKMEC 2 for BMI 30-35, so can be used if other options not suitable. UKMEC 3 for BMI >= 35. 
 - UKMEC 3*: IHD/stroke (for continuation. if initiation then UKMEC 2), unexplained, suspicious vaginal bleeding, past breast cancer, severe liver cirrhosis, liver cancer
 - UKMEC 4**: current breast cancer
 \*proven risks generally outweigh the advantages 

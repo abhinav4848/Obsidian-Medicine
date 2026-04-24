@@ -17,8 +17,7 @@ ARR may be calculated by finding the absolute difference between the control eve
 You will often find both versions of the above listed in different sources. In some ways in doesn't matter which you use as you will end up with the same answer but from a technical point of view:  
 - if the outcome of the study is undesirable then ARR = CER - EER 
 - if the outcome of the study is desirable then ARR* = EER - CER 
-\*this may be more accurately termed absolute benefit increase, rather than absolute risk reduction
-
+\*this may be more accurately termed absolute benefit increase, rather than absolute risk reduction 
 # Odds ratio vs Risk ratio
 
 | Odds Ratio                                                                                                           | Risk Ratio aka Relative Risk                                                                                      |
