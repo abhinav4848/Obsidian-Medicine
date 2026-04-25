@@ -1,0 +1,11 @@
+/* Blur images with a specific class */
+.blurred-image img {
+  filter: blur(35px);
+  transition: filter 0.05s ease;
+  cursor: pointer;
+}
+
+/* Unblur on hover */
+.blurred-image img:hover {
+  filter: blur(0);
+}

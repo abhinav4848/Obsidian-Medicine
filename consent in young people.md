@@ -11,7 +11,7 @@ aliases:
   - Gillick competence
   - Parental responsibility
 ---
-Children under the age of 16 can consent to their own treatment if they're believed to have enough intelligence, competence and understanding to fully appreciate what's involved in their treatment. This is known as being Gillick Competent.
+Children under the age of 16 can consent to their own treatment if they're believed to have enough intelligence, competence and understanding to fully appreciate what's involved in their treatment. They can't refuse treatment. This is known as being Gillick Competent.
 
 Otherwise, someone with parental responsibility can consent for them.
 
@@ -22,6 +22,7 @@ This could be:
 - a local authority designated to care for the child
 - a local authority or person with an emergency protection order for the child
 
+They can override the refusal. 
 # Gillick Competent
 Gillick competence confers the right of a 15-year-old to accept treatment but not necessarily the right to refuse (except in Scotland where competent minors have an independent right to consent to or refuse treatment under the age of legal capacity). The [[contraceptive choice for young people|Fraser guidelines]] are used specifically to decide if a child can consent to contraceptive or sexual health advice and treatment.
 

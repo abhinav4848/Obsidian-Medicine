@@ -3,6 +3,7 @@ aliases:
   - phenoxy-Methyl-Penicillin
   - Penicillin V
   - phenoxymethylpenicillin
+  - benzathine penicillin
 ---
 # phenoxy-Methyl-Penicillin
 Used in 
@@ -12,3 +13,6 @@ Used in
 - Throat infections (see [[antibiotic guidelines]])
 # Benzyl Penicillin
 see [[benzylpenicillin]].
+
+# Benzathine Penicillin
+[[genital ulcers|syphilis]]

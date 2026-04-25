@@ -10,8 +10,8 @@ aliases:
   - Verruca plana
   - Condyloma latum
 ---
-6, 11: Genital warts, Anal warts (Anogenital warts-> Condyloma acuminata)
-16, 18: Cervical cancer  
+6, 11: Genital warts, Anal warts (Anogenital warts-> [[human papilloma virus|Condyloma acuminatum]])
+16, 18: [[cancer- cervical|Cervical Cancer]] ([[cancer- screening programs]])
 # Can lead to
 #associated 
 
