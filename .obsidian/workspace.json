@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "genital ulcers.md",
+                "file": "statistics- mean, median, mode, normal distribution.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "genital ulcers"
+              "title": "statistics- mean, median, mode, normal distribution"
             }
           },
           {
@@ -250,7 +250,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dmard",
+                "query": "missed pill",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -295,7 +295,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "genital ulcers.md",
+                "file": "statistics- mean, median, mode, normal distribution.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -323,7 +323,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of genital ulcers"
+              "title": "Graph of statistics- mean, median, mode, normal distribution"
             }
           }
         ]
@@ -435,7 +435,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "genital ulcers.md",
+                "file": "statistics- mean, median, mode, normal distribution.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -445,7 +445,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for genital ulcers"
+              "title": "Backlinks for statistics- mean, median, mode, normal distribution"
             }
           }
         ]
@@ -467,8 +467,12 @@
   },
   "active": "7281dc428b902952",
   "lastOpenFiles": [
-    "behcet's disease.md",
+    "missed pill window.md",
+    "contraceptives in emergency.md",
+    "contraception.md",
     "genital ulcers.md",
+    "attachments/genital ulcers.jpg",
+    "behcet's disease.md",
     "appraisal.md",
     "nhs treatment eligibility.md",
     "forms & benefits.md",
@@ -490,9 +494,6 @@
     "refractive error.md",
     "loss of vision.md",
     "gmc- prescribing and managing medicines and devices content.md",
-    "gynaecological infections.md",
-    "cervicitis.md",
-    "pelvic inflammatory disease.md",
     "flow charts/paeds examination.canvas",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/menstrual cycle phases.jpg",
@@ -506,7 +507,6 @@
     "attachments/prader willi.jpg",
     "attachments/vision- macular degeneration.jpg",
     "attachments/vision- open angle glaucoma.jpg",
-    "attachments/vision- retinitis pigmentosa.jpg",
     "flow charts/prostaglandins and leukotrienes.canvas",
     "flow charts/haematuria.canvas",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",

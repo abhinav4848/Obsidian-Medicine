@@ -13,14 +13,20 @@ Adherence window of 24 hours.
 - She can take the 7-day pill-free break as normal it is only 1 missed pill.
  
 \>=2 pills missed
+- the women should use condoms or abstain from sex until she has taken pills for 7 days in a row. FSRH: *'This advice may be overcautious in the second and third weeks, but the advice is a backup in the event that further pills are missed'*
 
 | Scenario                        | What to do                                                                                                       | [[contraceptives in emergency\|Emergency contraception]]         | Extra Notes                                                       |
 | ------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------- |
 | **General rule (missed pills)** | Take the **last missed pill ASAP** (even if 2 in one day). Ignore earlier missed pills. Continue pack as normal. | Depends on week (see below)                                      | Use condoms/abstain until **7 consecutive pills taken**           |
 | **Week 1 (Days 1–7)**           | Follow general rule                                                                                              | **Consider EC** if UPSI in pill-free interval (week 4) or week 1 | UPSI in pill-free interval only safe if next pack started on time |
-| **Week 2 (Days 8–14)**          | Follow general rule                                                                                              | **No EC needed***                                                | Still use extra contraception until 7 consecutive pills taken     |
+| **Week 2 (Days 8–14)**          | Follow general rule                                                                                              | **No EC needed***                                                | But still use condom /abstain until 7 consecutive pills taken     |
 | **Week 3 (Days 15–21)**         | Finish current pack and **start next pack immediately (no break)**                                               | Usually **no EC needed**                                         | If ≥2 pills missed and <7 pills left → skip pill-free interval    |
 \*theoretically women would be protected if they took the COC in a pattern of 7 days on, 7 days off
+
+#mnemonic ECO rule
+Week 1 is emergency contraception (E)  
+Week 2 is condoms (C)  
+Week 3 is omit pill free week (O)
 # POP
 [NHS link](https://www.nhs.uk/conditions/contraception/miss-progestogen-only-pill/)
 If missed <3hrs for LNG 30mcg/others or <12 hrs for desogestrel,

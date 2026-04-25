@@ -20,7 +20,9 @@ The table below summarises the appropriate method of summarising the middle or t
 
 ---
 # Normal distribution
-The normal distribution is also known as the Gaussian distribution or 'bell-shaped' distribution. It describes the spread of many biological and clinical measurements  
+The normal distribution is also known as the Gaussian distribution or 'bell-shaped' distribution. It describes the spread of many biological and clinical measurements 
+
+Here, mean = mode = median
   
 Properties of the Normal distribution  
 - symmetrical i.e. Mean = mode = median 
