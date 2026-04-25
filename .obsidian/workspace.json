@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cocp.md",
+                "file": "contraceptives.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cocp"
+              "title": "contraceptives"
             }
           }
         ],
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cocp.md",
+                "file": "contraceptives.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -144,7 +144,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cocp"
+              "title": "Graph of contraceptives"
             }
           }
         ]
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cocp.md",
+                "file": "contraceptives.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +266,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cocp"
+              "title": "Backlinks for contraceptives"
             }
           }
         ]
@@ -288,7 +288,9 @@
   },
   "active": "c94a9824fdcaba6e",
   "lastOpenFiles": [
+    "nsaid.md",
     "contraceptives.md",
+    "cocp.md",
     "contraceptives in emergency.md",
     "time for action of contraceptives.md",
     "drug development.md",
@@ -308,13 +310,11 @@
     "nhs treatment eligibility.md",
     "statistics- risk reduction, nnt, odds ratio.md",
     "refractive error.md",
-    "cocp.md",
     "statistics- mean, median, mode, normal distribution.md",
     "contraception.md",
     "genital ulcers.md",
     "attachments/genital ulcers.jpg",
     "behcet's disease.md",
-    "appraisal.md",
     "flow charts/paeds examination.canvas",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/menstrual cycle phases.jpg",

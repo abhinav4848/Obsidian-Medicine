@@ -25,7 +25,10 @@ tags:
 - Cox-2 inhibition -> Decreased PGI2 (PGI2 is vasodilator & anti-platelet)
 - Relative excess of thromboxane -> pro-thrombotic state
 - Increased risk of MI, Stroke
-- Diclofenac is c/i with any form of Cardiovascular disease including Stroke. Switch to ibuprofen or Naproxen. 
+- **Diclofenac (non-topical)** is c/i with 
+	- any form of Cardiovascular/cerebrovascular disease including Stroke. Switch to ibuprofen or Naproxen. 
+	- Peripheral arterial disease
+	- Congestive heart failure. 
 ### NSAID & CKD
 - PGIs maintain afferent arteriole dilation
 - NSAIDs inhibit PGs -> afferent arteriole constriction -> reduced intraglomerular pressure

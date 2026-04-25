@@ -28,11 +28,11 @@ Less effective over 90 kgs.
 ---
 # Progesterone only
 *[NICE CKS- Progesterone only contraception methods](https://cks.nice.org.uk/topics/contraception-progestogen-only-methods/). Also see [[time for action of contraceptives]]*
-Helps **prevent ovulation** (main role) & thicken mucus (secondary role). 
-- Pill- 99% effective & 9% will conceive in first year
-- Implant- 0.05% will conceive in first year. Most effective contraception after abstinence. 
+- Pill- 99% effective & 9% will conceive in first year (thickens mucus only. Desogestrel also inhibits ovulation)
+- Implant- 0.05% will conceive in first year. Most effective contraception after abstinence. (Prevent ovulation + thicken mucus)
 - Depots- Perfect use (0.2% conceive in first year), typical use (6% conceive in first year). 
 ## Pill (aka POP)
+MoA: All PoP (except desogestrel) thicken cervical mucus only. Desogestrel is the only PoP which also inhibits ovulation. 
 - No pill free interval. 
 - Can be used for endometriosis. 
 - Around 50% of women on the POP have no bleeding, or very infrequent bleeding, and only 10% are reported to have more frequent bleeding or spotting, with long term POP use. 
