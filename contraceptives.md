@@ -77,7 +77,7 @@ aka DMPA: depot medroxyprogesterone acetate.
 - Unpredictable effects on bleeding patterns. 
 - Intermenstrual spotting in first year of starting. If bothersome bleed -> add COCP 3 months/Mefenamic acid TDS 5 days (while still on Depo-Provera).
 - Completely stops the period in some women but can cause unpredictable bleeding in others.
-- Associated with weight gain & delayed fertility return. 
+- Associated with **weight gain** & delayed fertility return. (no risk for VTE)
 - Current Breast cancer: UKMEC 4, Past Breast cancer: UKMEC3
 
 > [!tip] Enzyme metabolism
@@ -105,7 +105,7 @@ Immediate contraception if inserted ≤7 days from start of menstruation; otherw
 ##### Mirena (LNG-IUS)
 [Levonorgestrel | Drugs | BNF](https://bnf.nice.org.uk/drugs/levonorgestrel/)
 - It contains levonorgestrel (progesterone)
-- It prevents endometrial proliferation (reducing blood loss by >90%) & thickens cervical mucus.
+- It prevents endometrial proliferation (reducing blood loss by >90%) & thickens cervical mucus. First line for [[menorrhagia]]. 
 - IUS alleviates symptoms of Endometriosis, Adenomyosis, Fibroids.
 - IUS is a major risk factor for PID ([[chlamydia|Chlamydia]], [[Gonorrhoea]]).
 - Has lowest failure rate (even less than lap tubal sterilization, but Implant is best). 

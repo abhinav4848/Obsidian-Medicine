@@ -16,9 +16,10 @@ aliases:
 ![[postpartum contraception#Post-Partum COCP embedded|Postpartum contraception]]
 # Indications
 - Metrorrhagia -> irregular cycle,
-- with/without [[menorrhagia|Menorrhagia]]/Dysmenorrhea,
+- [[menorrhagia|Menorrhagia]] (2nd line after IUS)/Dysmenorrhea (2nd line after Mefenamic acid). 
 - Moderate [[pre-menstrual syndrome]] (severe PMS needs SSRI)
 - Endometriosis- can use up-to 3 month trial of back-to-back COCP (IUS or [[contraceptives|POP]] can also be used)  
+- Premenstrual syndrome (symptoms happening during luteal phase i.e. 2 weeks before periods): Mood swings, feeling anxious, trouble sleeping, bloating, breast tenderness, headaches, and changes in appetite and sex drive
 # Contraindications 
 [[UKMEC]]: [College of sexual & reproductive health](https://www.cosrh.org/Public/Public/Standards-and-Guidance/uk-medical-eligibility-criteria-for-contraceptive-use-ukmec.aspx)
 

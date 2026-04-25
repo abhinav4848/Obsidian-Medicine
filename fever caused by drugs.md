@@ -71,3 +71,5 @@ Fever, muscle rigidity, sweating
 
 Onset: Minutes to hours 
 Has a genetic component
+
+---

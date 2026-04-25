@@ -20,6 +20,7 @@ urls:
 >   
 >PDF: [Decision support tool for managing heavy periods](https://www.england.nhs.uk/publication/decision-support-tool-making-a-decision-about-managing-heavy-periods/) - See page 8
 
+*Also see [[dysmenorrhoea|Dysmenorrhea]]*. 
 # Cause
 - IUD (copper) is a cause. 
 - IUS ([[contraceptives|Mirena]]) is a treatment.
@@ -44,7 +45,7 @@ Bleeding disorders: vWD.
 
 Once all [[contraceptives for bleeding reduction|underlying pathologies]] ruled out, management depends on need for contraception.
 ##### If yes: 
-- 1st line: LNG IUS (Mirena) 
+- 1st line: [[contraceptives|LNG IUS]] (Mirena) 
 - 2nd line: [[COCP]] (can be used in [[dysmenorrhoea|Dysmenorrhea]] as 2nd line)
 - 3rd line: Long acting progestogens ([[contraceptives|Depo Provera]]) 
 ##### If no:
@@ -59,11 +60,11 @@ Norethisterone 5 mg TDS can be used as a short-term option to rapidly stop heavy
 ---
 People with HMB & suspected endometrial pathology (submucosal fibroid/polyp/endometrial pathology) are offered OP hysteroscopy. 
 
-TVS if h.o fibroids/adenomyosis. It is second line in women who don't want hysteroscopy once they've been advised of the improved accuracy of the investigation for assessing endometrial pathology. 
+TVS if h/o fibroids/adenomyosis. It is second line in women who don't want hysteroscopy once they've been advised of the improved accuracy of the investigation for assessing endometrial pathology. 
 
 ---
 RCGP eLEARNING: https://elearning.rcgp.org.uk/course/view.php?id=351
 
 [[hyperthyroidism]] causes oligomenorrhoea
-	- think body is hyperactive (under stress) and so no energy for menses. 
+- think body is hyperactive (under stress) and so no energy for menses. 
 Cervical ectropion: Cells that are normally inside the cervical canal are present on the outer surface of the cervix. Can cause spotting or light bleeding but is not associated with HMB. 

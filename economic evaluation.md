@@ -46,13 +46,13 @@ CUA is a special form of CEA in which health benefits / outcomes are measured in
   
 Multidimensional health outcomes are measured by a single preference- or utility-based index such as the **QALY**.  
   
-Quality-Adjusted-Life-Years (QALYs). QALY: Measure of gains in life expectancy and health-related quality of life. One QALY is equal to 1 year of life in perfect health. QALYs are calculated by estimating the years of life remaining for a patient following a particular treatment or intervention, and weighting each year with a quality-of-life score (on a 0 to 1 scale). The quality of life score can be negative in situations where the outcome is considered to be worse than death (death = 0 on the scale).  
+Quality-Adjusted-Life-Years (QALYs): Measure of gains in life expectancy and health-related quality of life. One QALY is equal to 1 year of life in perfect health. QALYs are calculated by estimating the years of life remaining for a patient following a particular treatment or intervention, and weighting each year with a quality-of-life score (on a 0 to 1 scale). The quality of life score can be negative in situations where the outcome is considered to be worse than death (death = 0 on the scale).  
   
 CUA offers something that CEA cannot, which is to compare across treatments for different conditions. In principle, it is possible to compare treatments for, say, cancer with, say, schizophrenia to determine which is the most efficient at producing health gain in the form of QALYs.  
   
-Findings of CUA are often reported as an incremental cost-utility ratio (ICUR).  
+Findings of CUA are often reported as an **incremental cost-utility ratio** (ICUR). 
   
-ICUR intervention A versus intervention B = (costs A - costs B) / (QALYs gained by A - QALYs gained by B)  
+ICUR intervention A vs intervention B = (costs A - costs B) / (QALYs gained by A - QALYs gained by B)  
   
 _Byford (2007) Economic evaluation of a randomised controlled trial for anorexia nervosa in adolescents. The British Journal of Psychiatry Oct, 191 (5) 436-440._  
 ## Cost-minimisation analysis (CMA)
