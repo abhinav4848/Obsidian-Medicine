@@ -111,9 +111,13 @@ Universal Credit is a new benefit to help people meet the cost of living, design
 The requirements to receive this are that the person and their partner  
 - Live in the UK
 - Are aged 18 or over and earn a low income or are out of work
+	- Low income: Currently set at £338 per individual or £541 for a household
 - Have less than £16,000 collectively in savings
+	- For co-habiting couples, the partner's savings and income will be taken into account. Deprivation of capital is when someone purposefully transfers savings elsewhere or purposefully reduces savings in order to gain or increase the amount of Universal Credit they are entitled to. The Department of Work and Pensions will investigate any claims if there is a significant drop in savings to determine whether this was done to get, or increase the award of Universal Credit.
 - Are below the age of receiving the state pension.
 - In rare cases 16 and 17-year-olds can claim universal credit if, for example, they are a carer, are estranged from their parents, have a child or are unable to work.
+
+
 ##### How much money will someone receive?
 Universal credit is composed of a standard allowance, plus extra payments depending on circumstances. There is a benefit cap which limits the total amount one can receive:  
 - The monthly standard allowance is determined by age and relationship status: single vs a couple

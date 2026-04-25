@@ -6,6 +6,9 @@ aliases:
   - Serotonin syndrome
   - Malignant Hyperthermia
   - acute dopamine depletion syndrome (NMS)
+cssclasses:
+  - invert-image
+  - red-border
 ---
 # Neuroleptic malignant syndrome
 aka. acute dopamine depletion syndrome. 
