@@ -40,7 +40,7 @@ A correlational study is a type of research design where a researcher seeks to u
 ### Longitudinal study
 A longitudinal study is a type of observational correlational study in which repeat measurements of the same variables are taken over a prolonged period.
 # Meta-analysis vs Systematic Review
-Meta analysis: The systematic review of randomised controlled trials. This is the highest level of evidence.
+Meta analysis: The systematic review of randomised controlled trials. This is the highest level of evidence. It increases power and decreases and p value. 
 
 | Feature              | Systematic Review                                             | Meta-analysis                                                                         |
 | -------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
