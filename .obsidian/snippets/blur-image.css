@@ -1,7 +1,7 @@
 /* Blur images with a specific class */
 .blurred-image img {
   filter: blur(35px);
-  transition: filter 0.05s ease;
+  transition: filter 0.3s ease;
   cursor: pointer;
 }
 

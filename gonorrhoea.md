@@ -8,9 +8,10 @@ aliases:
 ---
 *See [[gynaecological infections#Neisseria gonorrhoea (C for C) mnemonic|Gynaecological infections]]. & [[ophthalmia neonatorum]].*
 # Treatment
-(C or C) -> Even [[meningitis|Neisseria meningitidis]] has same treatment
+(C for C) -> Even [[meningitis|Neisseria meningitidis]] has same treatment
 - Ceftriaxone ([[cephalosporins]]) 1gm IM single dose stat, or #abx 
 - [[Ciprofloxacin]] 500mg PO (single dose)
+- Oral Cefixime & Oral Azithromycin if they refuse injection. 
 
 A test of cure should be performed at 2 weeks in all patients with gonorrhoea. #important 
 # Disseminated gonococcal infection

@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "genital ulcers.md",
+                "file": "urticaria.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "genital ulcers"
+              "title": "urticaria"
             }
           },
           {
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "genital ulcers.md",
+                "file": "urticaria.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of genital ulcers"
+              "title": "Graph of urticaria"
             }
           }
         ]
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "genital ulcers.md",
+                "file": "urticaria.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for genital ulcers"
+              "title": "Backlinks for urticaria"
             }
           }
         ]
@@ -303,8 +303,11 @@
   },
   "active": "c94a9824fdcaba6e",
   "lastOpenFiles": [
-    "consent in young people.md",
+    "gonorrhoea.md",
+    "urticaria.md",
+    "smoking.md",
     "genital ulcers.md",
+    "consent in young people.md",
     "penicillin.md",
     "human papilloma virus.md",
     "contraceptive choice for young people.md",
@@ -326,9 +329,6 @@
     "missed pill window.md",
     "plaque psoriasis.md",
     "statistics- basics about data.md",
-    "alopecia.md",
-    "forms & benefits.md",
-    "hrt.md",
     "attachments/genital ulcers.jpg",
     "flow charts/paeds examination.canvas",
     "flow charts/cervical cancer screening pathway.canvas",

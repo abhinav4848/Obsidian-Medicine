@@ -50,8 +50,8 @@ Unlike many [[depression|antidepressants]], it has minimal effect on serotonin.
 - Start 1-2 weeks before target date to stop. 
 - small risk of seizures (1 in 1000 in patients with no seizure risk)
 	- Other antidepressants (Fluoxetine, prozac, etc are also 1:1000 risk)
-- c/i in [[seizure|epilepsy]], [[drugs contraindicated in pregnancy|pregnancy]], breastfeeding. 
-- Having an eating disorder is a relative contraindication. 
+- c/i in [[seizure|epilepsy]], [[drugs contraindicated in pregnancy|pregnancy]], breastfeeding, eating disorder, [[psychiatric disorders|Bipolar Disorder]].
+	- Eating disorder is a relative contraindication. 
 
 Can given Days 1-6: 150mg OD for 6 days, 150mg BD for 14 days, 150mg BD from day 15+
 UK license is for 9 weeks, but as independent prescribers, we van give it longer, in Canada it's licensed for 21 weeks.
