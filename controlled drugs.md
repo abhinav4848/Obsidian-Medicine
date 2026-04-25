@@ -15,7 +15,7 @@ This is about: How illegal a drug is and the penalties
 - Class B → intermediate. e.g. cannabis, amphetamines
 - Class C → lowest. e.g. benzodiazepines, anabolic steroids
 ### Schedule
-"Schedules” → Misuse of Drugs Regulations (medical use)
+"Schedules" → Misuse of Drugs Regulations (medical use)
 This is about: **How drugs can be prescribed, stored, and handled medically**
 
 ---

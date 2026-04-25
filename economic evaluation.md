@@ -10,13 +10,13 @@ urls:
 ---
 There are four basic methods of economic evaluation that you need to be familiar with:  
 - cost-effectiveness analysis (CEA): Effectiveness per GBP spent
-- cost-benefit analysis (CBA): Uses money
-- cost-utility analysis (CUA): Uses DALY
+- cost-benefit analysis (CBA): Compares everything in monetary terms
+- cost-utility analysis (CUA): Uses QALY
 - cost-minimisation analysis (CMA)
 
 All four are identical in their approach to capturing costs, however, they differ in how they assess health effects.  
 ## Cost-effectiveness analysis (CEA)
-CEA compares a number of interventions by relating costs to a single clinical measure of effectiveness (e.g. symptom reduction, improvement in activities of daily living).  
+CEA compares a number of interventions by relating costs to a single clinical measure of effectiveness (e.g. symptom reduction, improvement in activities of daily living, DALY).  
   
 `cost-effectiveness ratio = total cost / units of effectiveness  `
   
@@ -24,17 +24,15 @@ For example
 1. Study on anorexia which compared the costs of three approaches to treatment (inpatient, specialist outpatient, and general outpatient) per improvement on the Morgan-Russell Average Outcome Scale (Byford, 2007).  
   2. £'s spent per lives saved
   3. £'s spent per each depression free day
-
-CEA is generally done when CBA cannot be performed due to the inability to monetise benefits.  
-  
-Combining both costs and effects, the findings of a CEA are usually reported as an incremental cost-effectiveness ratio (ICER).  
-  
-ICER intervention A versus intervention B = (costs A - costs B) / (effects A - effects B)  
-  
-A treatment that is found to be BOTH more costly AND less effective is said to be _dominated_ by the other treatment.  
+### Notes
+- CEA is generally done when CBA cannot be performed due to the inability to monetise benefits. 
+- Combining both costs and effects, the findings of a CEA are usually reported as an incremental cost-effectiveness ratio (ICER).
+- ICER intervention A versus intervention B = (costs A - costs B) / (effects A - effects B)
+- A treatment that is found to be BOTH more costly AND less effective is said to be *dominated* by the other treatment. 
 
 **Advantage**: Expressing health outcomes in **natural units** is that these are often observable, relatively easy to measure and, often, meaningful to clinicians. 
 **Disadvantage**: They limit the scope of comparisons. 
+
 For example, 
 	Cost-effectiveness analyses using outcomes such as "depression-free days achieved" only allow comparisons with other interventions that can be expressed using exactly the same metric. Survival-related outcomes such as life years gained allow comparisons over a broader range of conditions, but they disregard morbidity and quality of life. 
 ## Cost-benefit analysis (CBA)

@@ -18,6 +18,7 @@ PDE-5 inhibitor MoA:
 # Contraindication 
 - Not to be given together with Nitrates & [[nicorandil]].
 	- Refer those patients to urology for alternatives like pump, injections, rod insertion. 
+	- If on GTN spray, they should not use it for at least 24hrs after taking sildenafil or vardenafil, or 48hours after taking tadalafil (due to risk of excessive hypotension precipitating myocardial infarction).
 - Hypotension, as PDE-5 inhibitors release Nitric oxide -> lower BP
 - Wait 6 months before prescribing in stroke/MI.
 - patients for whom sexual activity is not advisable; 
