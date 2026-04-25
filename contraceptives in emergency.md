@@ -52,5 +52,11 @@ aliases:
 > - ✔ Oral emergency contraception now **+** delay Mirena until pregnancy ruled out  
 >   *(after next period or ≥21 days with a negative test)*
 
+> [!question]+ Question
+> **Q:** Woman wants to start new COCP but had UPSI **3 days ago**. Currently day 14 of her cycle.
+>
+>**Correct:**  
+> - ✔ EllaOne now, then start COCP in 5 days' time. 
+> - ✔️ Use condoms for 12 days (first 5 days because no COCP + 7 more days because COCP needs 7 days to become effective )
 
 ![[time for action of contraceptives#Notes on quick starting if pregnancy cannot be excluded embedded]]

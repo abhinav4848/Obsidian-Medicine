@@ -4,220 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "5801b3d8c519eae7",
+        "id": "d5fdadefa38c12ce",
         "type": "tabs",
         "children": [
           {
-            "id": "ae875246746f9b0f",
+            "id": "2416200fbf9cb2d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plaque psoriasis.md",
+                "file": "carbon monoxide poisoning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "plaque psoriasis"
-            }
-          },
-          {
-            "id": "42bc1f4e05727af4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "statistics- basics about data.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "statistics- basics about data"
-            }
-          },
-          {
-            "id": "acdaa6a8f9d4a6ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "alopecia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "alopecia"
-            }
-          },
-          {
-            "id": "a8b3c23b8a5045e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "controlled drugs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "controlled drugs"
-            }
-          },
-          {
-            "id": "32f8117227a03a3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "forms & benefits.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "forms & benefits"
-            }
-          },
-          {
-            "id": "d1ec63053ca1cd8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hrt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "hrt"
-            }
-          },
-          {
-            "id": "3da7fa4e8ec895e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nhs treatment eligibility.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "nhs treatment eligibility"
-            }
-          },
-          {
-            "id": "7281dc428b902952",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "statistics- mean, median, mode, normal distribution.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "statistics- mean, median, mode, normal distribution"
-            }
-          },
-          {
-            "id": "ba41dc9674a48077",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hrt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "hrt"
-            }
-          },
-          {
-            "id": "357b4aaa56c0be54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cocp.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "cocp"
-            }
-          },
-          {
-            "id": "cb380dd5cf19b08c",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://cks.nice.org.uk/topics/gout/management/preventing-gout/",
-                "title": "Scenario: Preventing gout | Management | Gout | CKS | NICE",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Scenario: Preventing gout | Management | Gout | CKS | NICE"
-            }
-          },
-          {
-            "id": "e6838ccd28bcc06e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "forms & benefits.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "forms & benefits"
-            }
-          },
-          {
-            "id": "1daa9dc84a8e46c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "refractive error.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "refractive error"
-            }
-          },
-          {
-            "id": "7fd1038ec1b7c7be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "statistics- risk reduction, nnt, odds ratio.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "statistics- risk reduction, nnt, odds ratio"
+              "title": "carbon monoxide poisoning"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "missed pill",
+                "query": "endometriosis",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -295,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "statistics- mean, median, mode, normal distribution.md",
+                "file": "carbon monoxide poisoning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -323,7 +128,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of statistics- mean, median, mode, normal distribution"
+              "title": "Graph of carbon monoxide poisoning"
             }
           }
         ]
@@ -435,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "statistics- mean, median, mode, normal distribution.md",
+                "file": "carbon monoxide poisoning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -445,7 +250,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for statistics- mean, median, mode, normal distribution"
+              "title": "Backlinks for carbon monoxide poisoning"
             }
           }
         ]
@@ -465,35 +270,35 @@
       "graph:Open graph view": false
     }
   },
-  "active": "7281dc428b902952",
+  "active": "2416200fbf9cb2d5",
   "lastOpenFiles": [
-    "missed pill window.md",
+    "colour & vision changes in body.md",
+    "diabetes drugs.md",
     "contraceptives in emergency.md",
+    "contraceptives.md",
+    "period problems in gynaecology.md",
+    "dysmenorrhoea.md",
+    "missed pill window.md",
+    "plaque psoriasis.md",
+    "statistics- basics about data.md",
+    "alopecia.md",
+    "controlled drugs.md",
+    "forms & benefits.md",
+    "hrt.md",
+    "nhs treatment eligibility.md",
+    "statistics- risk reduction, nnt, odds ratio.md",
+    "refractive error.md",
+    "cocp.md",
+    "statistics- mean, median, mode, normal distribution.md",
     "contraception.md",
     "genital ulcers.md",
     "attachments/genital ulcers.jpg",
     "behcet's disease.md",
     "appraisal.md",
-    "nhs treatment eligibility.md",
-    "forms & benefits.md",
     "fever caused by drugs.md",
-    "hrt.md",
-    "cocp.md",
     "chlamydia.md",
     "gmc- intimate examination & chaperone.md",
     "menopause.md",
-    "foster care.md",
-    "leflunomide.md",
-    "contraceptives.md",
-    "contraceptive choice for young people.md",
-    "controlled drugs.md",
-    "statistics- risk reduction, nnt, odds ratio.md",
-    "statistics- validity.md",
-    "methadone.md",
-    "opioid misuse.md",
-    "refractive error.md",
-    "loss of vision.md",
-    "gmc- prescribing and managing medicines and devices content.md",
     "flow charts/paeds examination.canvas",
     "flow charts/cervical cancer screening pathway.canvas",
     "attachments/menstrual cycle phases.jpg",

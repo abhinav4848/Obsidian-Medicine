@@ -1,6 +1,8 @@
 ---
 tags:
- - gynae
+  - gynae
+aliases:
+  - endometriosis
 ---
 # NICE CKS Links
 - [[Menorrhagia]]. 

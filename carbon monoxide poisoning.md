@@ -14,7 +14,7 @@ Carbon monoxide has a high affinity for haemoglobin and myoglobin resulting in a
 - vertigo: 50%
 - confusion: 30%
 - subjective weakness: 20%
-- **severe toxicity**: 'pink' skin and mucosae, hyperpyrexia, arrhythmias, extrapyramidal features, coma, death
+- **severe toxicity**: [[colour & vision changes in body|'pink' skin and mucosae]], hyperpyrexia, arrhythmias, extrapyramidal features, coma, death
 # Investigations 
 - pulse oximetry may be falsely high due to similarities between oxyhaemoglobin and carboxyhaemoglobin
 - therefore a venous or arterial blood gas should be taken
