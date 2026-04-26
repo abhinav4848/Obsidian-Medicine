@@ -7,7 +7,7 @@
 		{"id":"32ac001bcdd03761","type":"text","text":"C-13 urea breath test","x":-314,"y":400,"width":256,"height":55,"color":"3"},
 		{"id":"db4606479b92a639","type":"text","text":"Reassure. \nNo need to repeat tests.","x":-696,"y":371,"width":145,"height":84},
 		{"id":"078cf356b3f93739","type":"text","text":"Another attempt at eradicating H. pylori","x":-648,"y":560,"width":195,"height":69,"color":"1"},
-		{"id":"6fe93cf89389918f","type":"text","text":"Triple therapy (PPI, Amox, Clarithromycin/Metro 7-14 day course)","x":-551,"y":137,"width":286,"height":94},
+		{"id":"6fe93cf89389918f","type":"text","text":"Triple therapy (PPI, Amox, [[macrolides|Clarithromycin]]/[[metronidazole]] 7-14 day course)","x":-551,"y":137,"width":286,"height":94},
 		{"id":"f75edcaf366c4175","type":"text","text":"[[dyspepsia]] in <55yo\n- check if they meet cancer ref criteria","x":-215,"y":-440,"width":241,"height":110},
 		{"id":"8c699fac0a1b3ade","type":"text","text":"Improved","x":-143,"y":286,"width":118,"height":60,"color":"4"},
 		{"id":"8b514cc446d9f3ba","type":"text","text":"*Urea Breath test- Don't do <4 weeks of Abx, or within 2 weeks of a PPI*\n\n*It's the only test used to check for eradication*\n\n*If no C-13, use stool antigen test*","x":238,"y":115,"width":250,"height":231,"color":"6"},

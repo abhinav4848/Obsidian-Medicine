@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pertussis.md",
+                "file": "metronidazole.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "pertussis"
+              "title": "metronidazole"
             }
           }
         ],
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pertussis.md",
+                "file": "metronidazole.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of pertussis"
+              "title": "Graph of metronidazole"
             }
           }
         ]
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pertussis.md",
+                "file": "metronidazole.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pertussis"
+              "title": "Backlinks for metronidazole"
             }
           }
         ]
@@ -303,8 +303,15 @@
   },
   "active": "126fb98c3c665ea6",
   "lastOpenFiles": [
-    "immunisation schedule (paeds).md",
+    "gynaecological infections.md",
+    "clindamycin.md",
+    "encephalitis.md",
+    "metronidazole.md",
+    "flow charts/h. pylori treatment flowchart.canvas",
+    "h. pylori.md",
+    "macrolides.md",
     "pertussis.md",
+    "immunisation schedule (paeds).md",
     "ecg findings.md",
     "cocp.md",
     "menorrhagia.md",
@@ -323,12 +330,6 @@
     "genital ulcers.md",
     "smoking.md",
     "gonorrhoea.md",
-    "urticaria.md",
-    "consent in young people.md",
-    "penicillin.md",
-    "contraceptive choice for young people.md",
-    "childhood syndromes.md",
-    "statistics- study designs.md",
     "attachments/genital ulcers.jpg",
     "flow charts/paeds examination.canvas",
     "flow charts/cervical cancer screening pathway.canvas",
@@ -354,7 +355,6 @@
     "attachments/atropa belladona.pdf",
     "flow charts/hypertension management.canvas",
     "flow charts/deep vein thrombosis.canvas",
-    "flow charts/h. pylori treatment flowchart.canvas",
     "video scripts",
     "alex",
     "Untitled.base",

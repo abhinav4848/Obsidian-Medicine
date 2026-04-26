@@ -13,7 +13,7 @@ Most common type is viral & among viruses, most common is HSV-1
 - In contrast to other forms of encephalitis (e.g. CMV, cryptococcal), it often affects **immunocompetent** individuals (as well as the immunocompromised).
 
 # Pathophysiology
-[[human herpes viruses|HSV-1]] is responsible for 95% of cases in adults
+[[human herpes viruses|HSV-1]] is responsible for 95% of cases in adults. 
 Typically affects temporal and inferior frontal lobes
 - Temporal lobe changes: aphasia, hemiparesis, memory loss .
 # Investigation
@@ -39,4 +39,4 @@ is typically the result of a paraneoplastic syndrome (usually secondary to [[can
 is caused by the yeast Cryptococcus neoformans and typically only affects those with severe immunodeficiency (especially AIDS). It has a subacute presentation, with symptoms progressing over several weeks (as opposed to a few days).
 
 ### Cytomegalovirus encephalitis
-almost always occurs in patients with severe immunodeficiency. In those with [[HIV]], it typically occurs once the CD4 count is <50.
+Almost always occurs in patients with severe immunodeficiency. In those with [[HIV]], it typically occurs once the CD4 count is <50.

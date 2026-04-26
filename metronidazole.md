@@ -4,7 +4,6 @@ tags:
   - pharmacology
 ---
 Antibiotic. 
-
 # Uses
 - Used in [[gynaecological infections|bacterial vaginosis]]. 
 - Used in [[acne rosacea]].
