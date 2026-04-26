@@ -11,9 +11,9 @@ Viral tonsillitis disappears in 10 days
 2. u/l peri-tonsillitis
 3. h/o Rheumatic fever
 4. Increased risk from acute infection (DM/immunodeficiency)
-5. Centor >=3
+5. CENTOR >=3
 
-Centor criteria to know if viral or bacterial
+CENTOR criteria to know if viral or bacterial
 	If there's 3 out of 4, suspect Streptococcus & give antibiotics.
 	Check patient's allergy status first.
 	No Allergy: Phenoxymethylpenicillin- Penicillin V for 10 days. #abx
@@ -23,7 +23,7 @@ Centor criteria to know if viral or bacterial
 
 | Modified Centor for deciding Antibiotics (Need 3 out of 4)                                                                                                                                                                                                          | FeverPAIN Score (Higher predictability). Abx for score 4-5.                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| It predicts likelihood of Strep Pharyngitis. Can do delayed antibiotic. i.e. to observe for 3 days and then start abx.<br><br>- C: Cervical Lymphadenopathy,<br>- E: Exudates/pus,<br>- N: No associated cough<br>- T: Temperature > 38,<br>- Age 3-4: +1, >=45: -1 | - [[fever & sepsis\|fever]] in last 24 hrs<br>- Pus on tonsils<br>- Attended rapidly (Symptoms onset <= 3 days)<br>- Inflammation (severe) of tonsils<br>- No Cough/coryza (these are present in viral, not bacterial pharyngitis) |
+| It predicts likelihood of Strep Pharyngitis. Can do delayed antibiotic. i.e. to observe for 3 days and then start abx.<br><br>- C: Cervical Lymphadenopathy,<br>- E: Exudates/pus,<br>- N: No associated cough<br>- T: Temperature > 38,<br>- Age 3-4: +1, >=45: -1 | - [[fever & sepsis\|fever]] in last 24 hrs<br>- Pus on tonsils<br>- Attended rapidly (Symptoms onset =< 3 days)<br>- Inflammation (severe) of tonsils<br>- No Cough/coryza (these are present in viral, not bacterial pharyngitis) |
 
 **Tonsillectomy**: Done if SIGN criteria satisfied
 \> 7 episodes in one year

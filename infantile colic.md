@@ -4,7 +4,7 @@ tags:
 urls:
   - "[NICE CKS- Infantile colic](https://cks.nice.org.uk/topics/colic-infantile/)"
 ---
-Infantile colic describes a relatively common and benign set of symptoms seen in young infants. It typically occurs in infants less than 3 months old and is characterised by 
+Infantile colic: Relatively common & benign set of symptoms seen in young infants < 3 months old. Characterised by: 
 - bouts of excessive crying & pulling-up of the legs, 
 - often worse in the evening. 
 - No obvious cause. No evidence of faltering growth. 
@@ -20,4 +20,3 @@ NICE do not recommend the use of simeticone (such as Infacolµ) or lactase (suc
 - incarcerated / strangulated hernia
 - renal / ureteric colic
 - infection / sepsis
-- 

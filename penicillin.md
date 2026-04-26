@@ -5,7 +5,7 @@ aliases:
   - phenoxymethylpenicillin
   - benzathine penicillin
 ---
-# phenoxy-Methyl-Penicillin
+# phenoxy-Methyl-Penicillin  (Pen V)
 Used in 
 - [[scarlet fever]]- 10 days
 - [[tonsillitis]], 
