@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hus vs ttp.md",
+                "file": "hrt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hus vs ttp"
+              "title": "hrt"
             }
           },
           {
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hus vs ttp.md",
+                "file": "hrt.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of hus vs ttp"
+              "title": "Graph of hrt"
             }
           }
         ]
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hus vs ttp.md",
+                "file": "hrt.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hus vs ttp"
+              "title": "Backlinks for hrt"
             }
           }
         ]
@@ -303,8 +303,11 @@
   },
   "active": "c94a9824fdcaba6e",
   "lastOpenFiles": [
-    "cell histology.md",
+    "incontinence- adult.md",
+    "duloxetine.md",
+    "pain ladder- neuropathic.md",
     "hus vs ttp.md",
+    "cell histology.md",
     "hsp vs itp.md",
     "petechiae & purpura.md",
     "leukaemia.md",
@@ -326,9 +329,6 @@
     "kawasaki disease.md",
     "scarlet fever.md",
     "penicillin.md",
-    "tonsillitis.md",
-    "benzylpenicillin.md",
-    "als- anaphylaxis.md",
     "flow charts/h. pylori treatment flowchart.canvas",
     "attachments/genital ulcers.jpg",
     "flow charts/paeds examination.canvas",
