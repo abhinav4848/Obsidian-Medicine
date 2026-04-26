@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inflammatory bowel disease.md",
+                "file": "foot problems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "inflammatory bowel disease"
+              "title": "foot problems"
             }
           },
           {
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "inflammatory bowel disease.md",
+                "file": "foot problems.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of inflammatory bowel disease"
+              "title": "Graph of foot problems"
             }
           }
         ]
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inflammatory bowel disease.md",
+                "file": "foot problems.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for inflammatory bowel disease"
+              "title": "Backlinks for foot problems"
             }
           }
         ]
@@ -303,6 +303,7 @@
   },
   "active": "c94a9824fdcaba6e",
   "lastOpenFiles": [
+    "inflammatory bowel disease.md",
     "coeliac disease.md",
     "cancer- lymphoma.md",
     "cancer- cervical.md",
@@ -328,7 +329,6 @@
     "hearing test in children.md",
     "newborn Infant physical examination.md",
     "audiograms.md",
-    "developmental dysplasia of the hip.md",
     "flow charts/h. pylori treatment flowchart.canvas",
     "attachments/genital ulcers.jpg",
     "flow charts/paeds examination.canvas",

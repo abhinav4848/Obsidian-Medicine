@@ -80,7 +80,7 @@ More common in women and associated with tight or narrow footwear. There is ofte
 
 Pain is typically mechanical and worsened by footwear.
 # Myxoid cyst
-Myxoid cysts (aka mucous cysts) are essentially benign ganglion cysts related to mild osteoarthritis. They normally have the typical appearance of a cyst and can almost look like a well-demarcated fluid filled blister. They're more common in middle aged women. 
+Myxoid cysts (aka mucous cysts) are essentially benign ganglion cysts related to mild [[ra vs osteoarthritis|Osteoarthritis]]. They normally have the typical appearance of a cyst and can almost look like a well-demarcated fluid filled blister. They're more common in middle aged women. 
 
 Researchers aren't exactly sure what causes myxoid cysts. They appear to form when connective tissue weakens (degenerates). Osteoarthritis and other degenerative diseases can cause the lining of your joints to grow excessively.Digital myxoid cysts are slow growing over months and usually not painful but may become tender especially when knocked.
 
