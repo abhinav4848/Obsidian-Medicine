@@ -3,6 +3,8 @@ tags:
   - paeds
 urls:
   - https://www.nice.org.uk/guidance/ng1/chapter/Recommendations
+aliases:
+  - GORD- children
 ---
 *See: [[gastroprotection]] & [[gord]].*
 Differentiate with [[cow milk allergy|cow's milk allergy]] 
@@ -15,7 +17,7 @@ Develops before 8 weeks.
 - do not overfeed and give small frequent feeds:
 	- A formula fed infant with GORD should have feeds reduced to 150ml/kg per day (6-8 hrs.).
 - try thickened formula
-- try alginate therapy
+- try alginate therapy (don't combine alginate with thickeners)
 - Try PPI only if:
 	- unexplained feeding difficulties (for example, refusing feeds, gagging or choking)
 	- distressed behaviour
@@ -31,7 +33,7 @@ GOR (physiological in infancy) is different from GORD.
 
 When reassuring parents and carers about regurgitation, advise them that they should return for review if any of the following occur:
 - the regurgitation becomes persistently projectile
-- there is bile‑stained (green or yellow‑green) vomiting or haematemesis (blood in vomit)
+- there is bile‑stained (green or yellow‑green) [[vomiting in paeds|vomiting]] or haematemesis (blood in vomit)
 - there are new concerns, such as signs of marked distress, feeding difficulties or faltering growth
 - there is persistent, frequent regurgitation beyond the first year of life.
 

@@ -15,7 +15,7 @@ Doesn't cause pain in the child but can lead to early hip replacement.
 First fat female born oligo breech in a family with such history. 
 	Firstborn, birth wt. > 5kgs, Girl child, oligohydramnios, breech presentation, family history,
 Age < 3yo
-*All breech babies at or after 36 weeks gestation require USS for DDH screening at 6 weeks regardless of mode of delivery (Normal or C-section).* 
+*All breech babies at or after 36 weeks gestation require USS for DDH [[newborn Infant physical examination|screening]] at 6 weeks regardless of mode of delivery (Normal or C-section).* 
 # Clinical Features
 [[limping child|Limping]].
 Painless leg that is shorter than the other. 
@@ -27,7 +27,7 @@ Ortolani #named : relocate a dislocated femoral head.
 
 Galleazi #named:In infants older than 3 months, assessment by the Barlow and Ortolani tests is no longer sensitive. Perform the Galleazi sign to test for loss of abduction of the affected hip. 
 # Investigation
-Confirm with USS as although can be self-resolving, it presents as a spectrum so can be bad as well. 
+Confirm with USS as although can be self-resolving, it presents as a spectrum, so can be bad as well. 
 USS from 6 weeks up to 4.5 months cuz hips are cartilaginous. 
 Xray only after 4.5 months. 
 # Management 

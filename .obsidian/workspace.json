@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "statistics- graphical representations.md",
+                "file": "acute epiglottitis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "statistics- graphical representations"
+              "title": "acute epiglottitis"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "croup.md",
+                "file": "hearing test in children.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "croup"
+              "title": "hearing test in children"
             }
           }
         ],
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "croup.md",
+                "file": "hearing test in children.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of croup"
+              "title": "Graph of hearing test in children"
             }
           }
         ]
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "croup.md",
+                "file": "hearing test in children.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for croup"
+              "title": "Backlinks for hearing test in children"
             }
           }
         ]
@@ -303,6 +303,12 @@
   },
   "active": "126fb98c3c665ea6",
   "lastOpenFiles": [
+    "newborn Infant physical examination.md",
+    "developmental dysplasia of the hip.md",
+    "acute epiglottitis.md",
+    "statistics- graphical representations.md",
+    "gord in children.md",
+    "croup.md",
     "infantile colic.md",
     "pertussis.md",
     "school in children with rash.md",
@@ -324,12 +330,6 @@
     "ivermectin.md",
     "gynaecological infections.md",
     "p450.md",
-    "clindamycin.md",
-    "encephalitis.md",
-    "h. pylori.md",
-    "immunisation schedule (paeds).md",
-    "ecg findings.md",
-    "cocp.md",
     "attachments/genital ulcers.jpg",
     "flow charts/paeds examination.canvas",
     "flow charts/cervical cancer screening pathway.canvas",
