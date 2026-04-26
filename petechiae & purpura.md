@@ -1,6 +1,9 @@
 ---
 tags:
   - hematology
+aliases:
+  - Purpura
+  - Petechiae
 ---
 *See [[terms to describe skin lesions]]. [[hsp vs itp]], [[hus vs ttp]]* 
 

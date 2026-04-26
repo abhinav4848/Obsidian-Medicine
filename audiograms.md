@@ -17,6 +17,6 @@ cssclasses:
 | Right SNHL                            | ![[right snhl.png]]                                                                                                                                                    |
 | Aviator's notch                       | b/l SNHL. Noise induced HL at 4k <br>![[aviator's notch.png]]                                                                                                          |
 | Presbycusis                           | High Frequency SNHL, AC > BC<br>![[presbycusis.png]]                                                                                                                   |
-| Carhart's notch<br>                   | Otosclerosis. CHL with BC dip at 2k <br>![[carhart's notch (otosclerosis).png]]                                                                                        |
+| Carhart's notch<br>                   | [[hearing loss\|Otosclerosis]]. CHL with BC dip at 2k <br>![[carhart's notch (otosclerosis).png]]                                                                      |
 | [[vertigo- test & causes\|Meniere's]] | Low freq SNHL<br>![[meniere's disease.png]]                                                                                                                            |
 | Mixed Hearing Loss                    | Both the AC & BC thresholds are > 20db, and BC > AC by > 10db.<br><br>For Mixed HL, BC graph should be >= 10dB higher than the AC graph<br>![[mixed hearing loss.png]] |

@@ -52,7 +52,7 @@ All babies, including those born prematurely, should receive their first set of 
 	- DPT and polio
 
 **Boys and girls aged 12 to 13 years**
-- Cancers and genital warts caused by specific human papillomavirus (HPV) types
+- Cancers and genital warts caused by specific [[human papilloma virus]] (HPV) types
 
 **14 years (school year 9)**
 - '3-in-1 teenage booster'

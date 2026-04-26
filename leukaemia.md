@@ -31,8 +31,8 @@ Children (<15yo), [[Down's syndrome]].
 
 Pancytopenia (either ALL or Aplastic anaemia).
 - **Anaemia**: Lethargy and pallor.
-- WBCs can be any value - fever can be present in up-to 50% of new cases (due to infection or constitutional symptoms)
-- Thrombocytopenia will have petechiae (they're non-blanching) - May present with hemorrhagic or thrombotic complications due to DIC. 
+- WCCs can be any value - fever can be present in up-to 50% of new cases (due to infection or constitutional symptoms)
+- [[platelets|thrombocytopenia]] will have petechiae/[[petechiae & purpura|purpura]] (they're non-blanching) - May present with hemorrhagic or thrombotic complications due to DIC. 
 
 Tends to infiltrate other organs (ALL>AML): Hepato-splenomegaly, LN, Bone pain, testicular swelling. 
 
@@ -54,7 +54,7 @@ Older (> 65 yo)
 Asymptomatic/Anaemia/Recurrent infection (due to hypo-gamma-globulinaemia)/LNE.  
 B-lymphocyte predominant. Cervical LNE.
 
-Increased WBC, but non functioning  
+Increased WCC, but non functioning  
 **Smear**: [[cell histology|Smudge cells]], Mature lymphocytes.
 Associated: transformation to high-grade lymphoma ([[cancer- lymphoma|Richter's transformation]]) . 
 

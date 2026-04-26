@@ -13,7 +13,8 @@ aliases:
 urls:
   - "[NHS patients HSP](https://www.nhs.uk/conditions/henoch-schonlein-purpura-hsp/)"
 ---
-*See also: [[hus vs ttp]]* 
+
+*See also: [[hus vs ttp]] & [[vasculitis]]* 
 
 ---
 # Henoch-Schönlein purpura (new name: IgA vasculitis)

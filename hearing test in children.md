@@ -7,7 +7,7 @@ urls:
 revision counter: 1
 revision notes: what hearing test at what age
 ---
-See [[paediatric milestones|developmental milestones]]. 
+See [[paediatric milestones|developmental milestones]] & [[newborn Infant physical examination|Healthy Child Program]]. 
 
 | **Age**               | **Test**                             | **Comments**                                                                                                                                                                                                 |
 | --------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
