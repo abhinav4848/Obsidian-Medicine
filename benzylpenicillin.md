@@ -27,13 +27,16 @@ not the same as [Benzathine benzylpenicillin (BNF)](https://bnfc.nice.org.uk/dru
 - common non-specific symptoms/signs e.g. fever, vomiting, lethargy
 - less common non-specific symptoms/signs e.g. Chills, shivering
 - more specific symptoms/signs e.g. Non-blanching rash, altered mental state, capillary refill time more than 2 seconds, unusual skin colour, shock, hypotension, leg pain, cold hands/feet
-# Suspected Meningitis in GP setting
-Ben Pen
-- neonate < 1month: 300mg i.m. stat
-- children 1-11 months: 300mg i.m. stat
-- children 1-9 years: 600mg i.m. stat
-- children >=10 years: 1.2g i.m. stat
-- adults >16years: 1.2gm i.m. for suspicion, but 2.4mg i.v. once confirmed in hospital. 
+# Suspected Meningitis in GP setting %%embedded%%
+Treat with Ben Pen. (*Also see [[meningitis]]* & [[als- anaphylaxis]]) 
+
+|Age group|Dose (IM stat unless stated)|
+|---|---|
+|Neonate < 1 month|300 mg IM stat|
+|Children 1–11 months|300 mg IM stat|
+|Children 1–9 years|600 mg IM stat|
+|Children ≥10 years|1.2 g IM stat|
+|Adults (>16 years)|1.2 g IM stat (suspected), 2.4 g IV once confirmed in hospital|
 
 can also give Ceftriaxone. 
 

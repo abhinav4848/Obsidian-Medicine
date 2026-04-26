@@ -43,17 +43,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metronidazole.md",
+                "file": "benzylpenicillin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "metronidazole"
+              "title": "benzylpenicillin"
+            }
+          },
+          {
+            "id": "b954fdf749183b9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "statin cost basic price.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "statin cost basic price"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "metronidazole.md",
+                "file": "statin cost basic price.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of metronidazole"
+              "title": "Graph of statin cost basic price"
             }
           }
         ]
@@ -271,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "metronidazole.md",
+                "file": "statin cost basic price.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for metronidazole"
+              "title": "Backlinks for statin cost basic price"
             }
           }
         ]
@@ -301,15 +316,26 @@
       "graph:Open graph view": false
     }
   },
-  "active": "126fb98c3c665ea6",
+  "active": "b954fdf749183b9e",
   "lastOpenFiles": [
+    "benzylpenicillin.md",
+    "statin cost basic price.md",
+    "als- anaphylaxis.md",
+    "meningitis.md",
+    "penicillin.md",
+    "scarlet fever.md",
+    "macrolides.md",
+    "flow charts/h. pylori treatment flowchart.canvas",
+    "fluroquinolone.md",
+    "tinnitus.md",
+    "metronidazole.md",
+    "acne rosacea.md",
+    "ivermectin.md",
     "gynaecological infections.md",
+    "p450.md",
     "clindamycin.md",
     "encephalitis.md",
-    "metronidazole.md",
-    "flow charts/h. pylori treatment flowchart.canvas",
     "h. pylori.md",
-    "macrolides.md",
     "pertussis.md",
     "immunisation schedule (paeds).md",
     "ecg findings.md",
@@ -319,17 +345,6 @@
     "pre-menstrual syndrome.md",
     "contraceptives.md",
     "fever caused by drugs.md",
-    "statistics- risk reduction, nnt, odds ratio.md",
-    "contraceptives in emergency.md",
-    "yellow card scheme.md",
-    "economic evaluation.md",
-    "controlled drugs.md",
-    "statistics- graphical representations.md",
-    "sildenafil.md",
-    "human papilloma virus.md",
-    "genital ulcers.md",
-    "smoking.md",
-    "gonorrhoea.md",
     "attachments/genital ulcers.jpg",
     "flow charts/paeds examination.canvas",
     "flow charts/cervical cancer screening pathway.canvas",

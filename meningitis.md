@@ -5,7 +5,7 @@ tags:
   - infection
   - neurology
 urls:
-  - https://www.britishinfection.org/application/files/5414/5674/3289/algorithm.pdf
+  - "[PDF: Early Management of Suspected Meningitis and Meningococcal Sepsis in Immunocompetent Adults](https://www.britishinfection.org/application/files/5414/5674/3289/algorithm.pdf)"
 ---
 >[!Reference Links]-
 > 1. [PDF: Early Management of Suspected Meningitis and Meningococcal Sepsis in Immunocompetent Adults](https://www.britishinfection.org/application/files/5414/5674/3289/algorithm.pdf)
@@ -55,6 +55,8 @@ Treat even if suspected meningitis.
 	- Mortality rates are significantly reduced by pre-hospital antibiotics. 
 	- Do not administer antibacterial treatment outside of hospital if history of severe allergy to a beta-lactam antibacterial.
 - Can also give Ceftriaxone
+
+![[benzylpenicillin#Suspected Meningitis in GP setting embedded|ben pen]]
 ### Hospital/A&E
 - <3m: iv amox/ampi + iv cefotaxime (avoid steroid).
 - 3m - 60yo: Ceftriaxone/Cefotaxime empirical. (*3rd gen cephalosporin*)

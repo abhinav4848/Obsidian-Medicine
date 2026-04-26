@@ -6,7 +6,7 @@ urls:
 aliases:
   - anaphylaxis
 ---
-Can give adrenaline 1:1000 1mg/ml in anterolateral aspect of mid-thing. 
+Can give adrenaline 1:1000 1mg/ml in anterolateral aspect of mid-thigh. 
 
 | Age                        | Adrenaline dose (simplified)              | [[seizure]] Diazepam |
 | -------------------------- | ----------------------------------------- | -------------------- |
@@ -14,8 +14,9 @@ Can give adrenaline 1:1000 1mg/ml in anterolateral aspect of mid-thing.
 | 6 months - 6 years         | 150 micrograms (0.15 ml 1 in 1,000)       | 5mg                  |
 | 6-12 years                 | 300 micrograms (0.3ml 1 in 1,000)         | 5mg                  |
 | Adult and child > 12 years | 500 micrograms (0.5ml 1 in 1,000)         | 10mg                 |
+(*see [[benzylpenicillin|meningitis]] doses as well*) 
 
-Can repeat twice at 5 mins interval. If no response -> Refractory anaphylaxis. 
+Adrenaline can be repeated twice at 5 mins interval. If no response -> Refractory anaphylaxis. 
 
 Give patient 2 auto injectors & train them on use. 
 after initial diagnosis- refer to specialist allergy clinic

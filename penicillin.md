@@ -13,6 +13,7 @@ Used in
 - Throat infections (see [[antibiotic guidelines]])
 # Benzyl Penicillin
 see [[benzylpenicillin]].
-
 # Benzathine Penicillin
-[[genital ulcers|syphilis]]
+BNF: [Benzathine benzylpenicillin (BNF)](https://bnfc.nice.org.uk/drugs/benzathine-benzylpenicillin/)
+- used in prophylaxis of rheumatic fever, erysipelas, 
+- [[genital ulcers|syphilis]]
