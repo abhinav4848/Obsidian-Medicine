@@ -7,9 +7,9 @@ aliases:
 ---
 AAA is a dilation of aorta > 3cm diameter. 
 # Screening
-In UK, routine USG is [[cancer- screening programs|offered]] to men after 65th birthday.
+In UK, routine USS is [[cancer- screening programs|offered]] to men after 65th birthday.
 - Between 3 & 4.4 cm -> annual screen.
-- If 4.5 - 5.4 -> USG every 3 months.
+- If 4.5 - 5.4 -> USS every 3 months.
 - If >5.4 / symptomatic with any size / rapidly enlarging >1cm per year -> vascular surgery refer for treatment within 2 weeks for probable intervention. 
 
 Risk factor: smoker, vascular disease. 
@@ -19,7 +19,7 @@ It's pulsatile abdominal mass.
 Rupture symptoms: severe central abdominal pain radiating to the back, CVS failure, distal ischemia. 
 
 # Investigation
-- USG is a quick diagnostic test in ED to rule out AAA as a cause of abdominal or back pain and can measure the size of aortic diameter.
+- USS is a quick diagnostic test in ED to rule out AAA as a cause of abdominal or back pain and can measure the size of aortic diameter.
 - CT angiogram is gold standard in long term as it allows to plan surgery for AAA patients.  
 
 # DDx

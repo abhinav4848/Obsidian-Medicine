@@ -39,7 +39,8 @@ Do Amylase, Lipase, CT.
 Lipase > Amylase 
 
 Serum Calcium is used as part of the Glasgow score #named  in acute pancreatitis, in which low calcium is one of the scoring criteria. 
-Prognosis: Low albumin, raised urea, raised glucose, low calcium, high LDH, high WBC, high age mean More severe pancreatitis.  
+
+**Prognosis**: Low albumin, raised urea, raised glucose, low calcium, high LDH, high WCC, high age mean -> More severe pancreatitis.  
 
 ## Treatment
 - In severe pancreatitis due to gallstones where jaundice and [[ascending cholangitis|cholangitis]] are present, early ERCP to achieve duct decompression and cholecystectomy once acute symptoms settle. 

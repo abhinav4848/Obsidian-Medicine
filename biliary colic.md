@@ -14,3 +14,5 @@ Intermittent, intense, dull, radiating to back, and interscapular region.
   
 Approx. 20% of biliary colic patients go on to develop [[acute cholecystitis]].
 
+![[acute cholecystitis#Differences embedded]]
+

@@ -33,7 +33,7 @@ Smoking, DM, Chronic pancreatitis, age, HNPCC, BRCA2, MEN, KRAS
 	- imaging may demonstrate the 'double duct' #named sign - the presence of simultaneous dilatation of the common bile and pancreatic ducts
 - CA 19-9: Non-specific but helps assess prognosis. [[tumour marker]]. 
 
-**Gallstones**: If jaundice with epigastric pain, RUQ pain -> USG.
+**Gallstones**: If jaundice with epigastric pain, RUQ pain -> USS.
 
 # Treatment
 Whipple's resection (pancreaticoduodenectomy) is performed for resectable lesions in the head of pancreas. Side-effects of a Whipple's include dumping syndrome and peptic ulcer disease.

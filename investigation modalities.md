@@ -8,7 +8,7 @@ tags:
 | ------------------------------------------ | ------------------------- |
 | [[acute epiglottitis]]                     | Laryngoscopy              |
 | GORD                                       | Not necessary > Endoscopy |
-| [[git problems in paeds\|Intussusception]] | Ultrasonography (USG)     |
+| [[git problems in paeds\|Intussusception]] | Ultrasonography (USS)     |
 | Meckel's Diverticulum                      | Radioisotope Scan         |
-| [[vomiting in paeds\|Pyloric Stenosis]]    | Ultrasonography (USG)     |
+| [[vomiting in paeds\|Pyloric Stenosis]]    | Ultrasonography (USS)     |
 | Volvulus                                   | X-Ray                     |

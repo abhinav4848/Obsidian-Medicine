@@ -11,3 +11,6 @@ Mal-absorption, steatorrhea, DM, Erythema-ab-igne due to constant hot water use 
 # Investigation
 Faecal elastase, chymotrypsin
 **Imaging**: Diffuse pancreatic calcification on CT
+
+# Treatment
+Give Creon (enzyme) to aid with digestion

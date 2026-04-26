@@ -10,7 +10,7 @@ aliases:
   - macrolide
 ---
 Erythromycin- [[drugs contraindicated in pregnancy|Safe in pregnancy]]
-[[copd- treatment#Room for prophylactic Azithromycin linked|Azithromycin in COPD treatment]], [[scarlet fever]] if pen allergy, [[pertussis]] (given before 21 days)
+[[copd- treatment#Room for prophylactic Azithromycin linked|Azithromycin in COPD treatment]], [[scarlet fever]] if pen allergy, [[pertussis]] (given before 21 days), [[cystic fibrosis]]. 
 Clarithromycin- more active form of erythromycin. Used for [[h. pylori]] treatment
 # side effects 
 [[p450|Enzyme inhibitor. ]]

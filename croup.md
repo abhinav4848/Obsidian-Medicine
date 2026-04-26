@@ -15,7 +15,7 @@ Lasts: 3-5 days.
 
 Parainfluenza Virus #virus
 - but bacteria can cause it as well: Staph, strep, Hib
-- Following coryzal prodrome -> WBCs infiltrate larynx, trachea -> cause inflammation, oedema, partial airway obstruction. 
+- Following coryzal prodrome -> WCCs infiltrate larynx, trachea -> cause inflammation, oedema, partial airway obstruction. 
 
 # Clinical Features 
 Tracheal tugging, suprasternal & sternal wall retraction at rest

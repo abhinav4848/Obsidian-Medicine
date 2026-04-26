@@ -20,11 +20,11 @@ HRT increases ovarian cancer risk in those using it for > 5 years.
 - Abdominal discomfort, distension, bloating, cramp.
 - Early satiety and loss of appetite.
 - Pelvic/Abdominal pain.
-- Increased urinary urgency/frequency.
+- Increased urinarUSSrgency/frequency.
 - No palpable abdominal mass.
 - Weight loss present.
 
 # Investigation
-Any woman over age 50 with new [[irritable bowel syndrome|IBS]] like symptoms within the past year, do [[tumour marker|CA-125]]. If > 35IU/ml, do USG abdomen and pelvis.
+Any woman over age 50 with new [[irritable bowel syndrome|IBS]] like symptoms within the past year, do [[tumour marker|CA-125]]. If > 35IU/ml, do USS abdomen and pelvis.
 
 Don't use CA-125 to screen for ovarian cancer in asymptomatic women.

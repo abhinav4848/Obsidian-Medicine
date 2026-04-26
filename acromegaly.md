@@ -10,7 +10,7 @@ ACBDEFG #mnemonic
 1. Acromegaly
 2. Blood pressure increase/Large Bowel tumours
 3. [[Cardiomyopathy]] (LVH)/carpal tunnel syndrome
-4. Diabetes mellitus (acanthosis nigricans seen due to insulin resistance)
+4. Diabetes mellitus ([[acanthosis nigricans]] seen due to insulin resistance)
 5. Enlarged viscera
 6. Field defects
 7. Galactorrhoea

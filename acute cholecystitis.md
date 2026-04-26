@@ -20,8 +20,8 @@ Pain similar to [[biliary colic]] but more severe and continuous/persistent. The
 # Investigation
 ALP & GGT rise first, and as bile continues to back up, AST and ALT will rise. 
 Amylase will help identify gallstone [[pancreatitis]]. 
-## USG
-thick walled shrunken gallbladder.
+## USS
+Thick walled, shrunken gallbladder.
 
 # Treatment
 once symptoms settle -> laparoscopic cholecystectomy.
@@ -29,9 +29,9 @@ once symptoms settle -> laparoscopic cholecystectomy.
 Treatment is recommended for bile duct stones regardless of whether they are symptomatic or not. 
 
 ---
-# Differences
+# Differences %%embedded%%
 #confusion 
-Acute cholecystitis has inflammatory component which Is absent in Biliary colic (i.e. local peritonism, fever, WBC high). 
+Acute cholecystitis has inflammatory component which Is absent in Biliary colic (i.e. local peritonism, fever, WCC high). 
 If the stones move to CBD (Obstructive jaundice) & infection ascends-> [[ascending cholangitis]].
 
 |               | [[Biliary colic]] | [[Acute cholecystitis]] | [[ascending cholangitis\|Cholangitis]] |
