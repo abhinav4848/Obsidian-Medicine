@@ -37,17 +37,17 @@ Consider 2ww if:
 If under 30, routine referral. 
 
 # [[cancer- cervical|Cervical cancer]] %%linked%%
-Pap smear. 
-25-49yo: every 3 years. 
-50-64yo: every 5 years. 
+Pap smear- Aim is to detect pre-malignant changes rather than actual cancer. Around 15% of cervical cancers are adenocarcinomas, which aren't frequently detected by screening.
+##### Age Range
+- 25-64yo: every 5 years. 
+	- *The guidelines changed in July 2025. Previously younger women were offered screening every 3 years but the success of HPV testing has extended this period. i.e. Now that we're testing for actual HPV and not just looking at cells, we can call every 5 years.* 
+- cervical screening cannot be offered to women over 64 (unlike breast screening, where patients can self-refer once past screening age)
 
-**Upcoming**: *Now that we're testing for actual HPV and not just looking at cells, we can call every 5 years.* 
 Attend your screening regardless of sexual activity. 
-
 MCC of not doing it is worry of pain, too embarrassed to go, bad experience in the past, worried a man may be doing it. 
 ##### Special situations
 - cervical screening in pregnancy is usually delayed until 3 months post-partum unless missed screening or previous abnormal smears.
-- women who have never been sexually active have a very low risk of developing cervical cancer therefore they may wish to opt out of screening
+- Women who have never been sexually active have a very low risk of developing cervical cancer therefore they may wish to opt out of screening
 - **HIV-positive women**:
     - Annual cervical cytology, starting at the time of diagnosis, regardless of age & undetectable viral load. 
     - colposcopy is indicated if any abnormal cytology is found

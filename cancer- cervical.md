@@ -23,7 +23,7 @@ Early first intercourse, many sexual partners, high parity, lower socioeconomic 
 *See [[cancer- screening programs#cancer- cervical Cervical cancer linked|Screening]]* in special conditions. 
 See [[cervical cancer screening pathway.canvas]]
 
-High risk-HPV test.
+High risk HPV test (not signs of dyskaryosis, but actual [[human papilloma virus|hrHPV]] strains)
 
 **+ve**: Cytology triage
 	**Cytology normal**: rescreen in 12 months 
