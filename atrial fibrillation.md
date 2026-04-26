@@ -65,13 +65,13 @@ AF + Valvular Heart disease => Need Anticoagulation regardless of the CHADVASC s
 - You can decide if ECHO needed: high risk of suspicion for underlying structural heart disease (e.g. heart murmur), or functional heart disease (e.g. HF)
 ### [[scoring system|Orbit Score]]
 
-| Risk Factor                 | Criteria                           |     |
-| --------------------------- | ---------------------------------- | --- |
-| Older age                   | ≥ 75 years                         | 1   |
-| Reduced haemoglobin         | < 13 g/dL (men), < 12 g/dL (women) | 2   |
-| Bleeding history            | Previous bleeding event            | 2   |
-| Insufficient renal function | eGFR < 60                          | 1   |
-| Treatment with antiplatelet | Current antiplatelet therapy       | 1   |
+| Risk Factor                 | Criteria                           | Score |
+| --------------------------- | ---------------------------------- | ----- |
+| Older age                   | ≥ 75 years                         | 1     |
+| Reduced haemoglobin         | < 13 g/dL (men), < 12 g/dL (women) | 2     |
+| Bleeding history            | Previous bleeding event            | 2     |
+| Insufficient renal function | eGFR < 60                          | 1     |
+| Treatment with antiplatelet | Current antiplatelet therapy       | 1     |
 There are no formal rules on how we act on the ORBIT score and individual patient factors should be taken into account. However, the following table acts as a guide: 
 
 |ORBIT score|Risk group|Bleeds per 100 patient-years|
