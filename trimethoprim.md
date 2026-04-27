@@ -2,9 +2,8 @@
 tags:
   - pharmacology
 urls:
-  - https://bnf.nice.org.uk/drugs/trimethoprim/
+  - "[BNF: Trimethoprim](https://bnf.nice.org.uk/drugs/trimethoprim/)"
 ---
-
 [[UTI]]: 200 mg twice daily for 7 days (14 days if upper urinary-tract symptoms are present).
 
 Third line For [[acne vulgaris]]: 

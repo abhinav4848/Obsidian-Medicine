@@ -28,7 +28,7 @@ LH/FSH ratio is not a direct indicator. It can be helpful but is non-specific a
 Increased LH causes increased Androgen -> converted to estradiol by aromatase in adipose -> Estradiol suppresses FSH by negative feedback: **LH:FSH::2:1**
 
 # Treatment
-Give COCP -> regularise period and combat hirsutism.
+Give [[cocp|COCP]] -> regularise period and combat hirsutism.
 If no hirsutism & only treating irregular period -> Medroxyprogesterone.
 To treat infertility in PCOS, give clomifene > [[diabetes drugs|metformin]]. 
 Clomifene is an anti-oestrogen drug initiated by secondary care. See [[fertility|infertility]]. 

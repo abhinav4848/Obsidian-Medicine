@@ -35,4 +35,5 @@ Synovitis
 [[osgood-schlatter|Osgood-Schlatter]]
 
 # Resource
-<iframe title="Paediatric Limp: Differential Frameworks" src="https://www.youtube.com/embed/uKmFTtCPdKM?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe> 
+> [!Video]- Paediatric Limp differentials
+> ![Differentials](https://youtu.be/uKmFTtCPdKM)

@@ -23,7 +23,7 @@ urls:
 - Brucellosis
 - [[chlamydia]],
 - Strep throat
-- TB can cause but not its drugs -> CXR
+- [[tuberculosis|TB]] can cause but not its drugs -> CXR
 
 ## Drugs: (SNAC)
 #mnemonic 

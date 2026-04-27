@@ -4,6 +4,7 @@ tags:
 aliases:
   - hypokalaemia
 cssclasses:
+  - invert-image
 ---
 *see also [[hyperkalemia|Hyperkalaemia]].* 
 # Causes

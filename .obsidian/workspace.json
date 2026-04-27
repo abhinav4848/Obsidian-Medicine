@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "controlled drugs.md",
+                "file": "plaque psoriasis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "controlled drugs"
+              "title": "plaque psoriasis"
             }
           },
           {
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "WBC",
+                "query": "melano",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "controlled drugs.md",
+                "file": "plaque psoriasis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of controlled drugs"
+              "title": "Graph of plaque psoriasis"
             }
           }
         ]
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "controlled drugs.md",
+                "file": "plaque psoriasis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for controlled drugs"
+              "title": "Backlinks for plaque psoriasis"
             }
           }
         ]
@@ -303,33 +303,35 @@
   },
   "active": "c94a9824fdcaba6e",
   "lastOpenFiles": [
+    "steroids in dermatology.md",
+    "plaque psoriasis.md",
+    "psoriasis.md",
+    "melanoma.md",
+    "statins.md",
+    "rhinosinusitis.md",
+    "migraine.md",
+    "methotrexate.md",
+    "folic acid.md",
+    "dermatomyositis.md",
+    "cow milk allergy.md",
+    "colchicine.md",
+    "conjunctivitis.md",
+    "cancer- testes.md",
+    "calcium channel blockers.md",
+    "allopurinol.md",
+    "antenatal care.md",
+    "diabetes- gestational.md",
+    "diabetes mellitus- diagnosis.md",
+    "malaria.md",
+    "trimethoprim.md",
     "housekeeping/memorise.base",
-    "congenital adrenal hyperplasia.md",
-    "confusion in ophthalmology.md",
-    "macular degeneration.md",
-    "loss of vision.md",
-    "glaucoma- open angle.md",
-    "anterior ischaemic optic neuropathy.md",
-    "vitreous haemorrhage.md",
+    "toxins.md",
+    "digoxin.md",
+    "reactive arthritis.md",
+    "spirometry.md",
     "retinal detachment.md",
-    "down's syndrome.md",
-    "childhood syndromes.md",
-    "crao.md",
-    "crvo.md",
-    "clinical governance.md",
-    "corticosteroid.md",
-    "amenorrhoea (primary).md",
-    "hearing test in children.md",
+    "attachments/ecg- hypo vs hyperkalemia.jpg",
     "attachments/prader willi.jpg",
-    "cervicitis.md",
-    "cardiac murmurs.md",
-    "cancer- ovarian.md",
-    "cancer- lung.md",
-    "cancer- bone.md",
-    "cancer- frequency.md",
-    "cancer- drugs involved in gynae cancers.md",
-    "cancer & associations.md",
-    "primary biliary cholangitis & primary sclerosing cholangitis.md",
     "flow charts/h. pylori treatment flowchart.canvas",
     "attachments/genital ulcers.jpg",
     "flow charts/paeds examination.canvas",
@@ -343,7 +345,6 @@
     "attachments/pseudofolliculitis barbae.jpg",
     "attachments/folliculitis- pseudomonas.jpg",
     "attachments/vision- macular degeneration.jpg",
-    "attachments/vision- open angle glaucoma.jpg",
     "flow charts/prostaglandins and leukotrienes.canvas",
     "flow charts/haematuria.canvas",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",

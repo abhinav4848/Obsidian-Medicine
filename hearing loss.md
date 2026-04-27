@@ -93,7 +93,7 @@ Cold water swimmers. Ear pain. Irregularly shaped, osseous tumours in the ear ca
 
 *Weber: **CSSO**- CHL same side, SNHL opp side.* #mnemonic 
 
-⭐ In SNHL, the reason AC > BC is because: *Trouble sending neural signals, from the cochlea to CNVIII to the brain however the ossicles actually amplify the sound waves that's why AC > BC, as if you would have an amplifier in your ear.* 
+⭐ In SNHL, the reason AC > BC is because: *Trouble sending neural signals, from the cochlea to CNVIII to the brain however the ossicles actually amplify the sound waves that's why AC > BC, as if you have an amplifier in your ear.* 
 ⭐ SNHL needs MRI
 
 ---

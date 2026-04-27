@@ -5,9 +5,11 @@ tags:
 cssclasses:
   - invert-image
 ---
+
+**Toxicity**: confusion, lethargy, nausea, Bradycardia.
+# Toxicity
 Digoxin level is not monitored routinely except in suspected toxicity.
 Toxicity can occur even within therapeutic range.
-# Toxicity
 ### Causes
 **Drugs**: Amiodarone, quinidine, verapamil, diltiazem, [[spironolactone]] (competes for secretion in distal convoluted tubule therefore reduce excretion), ciclosporin, [[magnesium|Hypomagnesemia]] 
 
@@ -38,6 +40,10 @@ Digibind
 
 # ECG changes with Digoxin
 #ECG 
+- a prolonged PR interval
+- ST depression
+- inverted T waves
+- Short QT interval
 
 | Digoxin effect                                                                                                                                                                                                                                                                                                                                                                                                                 | Digoxin toxicity                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
@@ -45,3 +51,7 @@ Digibind
 | Seen at therapeutic doses due to Shortening of atrial & ventricle refractory period. <br>Increased vagal effect at AV node- Prolonged PR interval<br><br>- Down-sloping ST depression with a characteristic "reverse tick" or "Salvador Dali sagging", or "scooped out" appearance <br>- Flattened, inverted, or biphasic T waves<br>- Shortened [[qt prolongation\|QT interval]] <br>- arrhythmias e.g. AV block, bradycardia |                                                                            |
 | ![[digoxin effect- normal use of digoxin (not toxicity).jpg]]                                                                                                                                                                                                                                                                                                                                                                  | ![[digoxin toxicity-1.jpg]]                                                |
 | ![[t-waves digoxin effect.jpg]]                                                                                                                                                                                                                                                                                                                                                                                                | ![[digoxin toxicity-2.jpg]]                                                |
+
+
+
+
