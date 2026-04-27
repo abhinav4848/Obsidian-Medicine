@@ -32,17 +32,17 @@ When increasing the dose of opioids the next dose should be increased by 30% in
 | Oramorph       | i.v./S.c Diamorphine | Divide by 3       |
 | Oramorph       | Oxycodone            | Divide by 1.5 - 2 |
 
-| Drug                              | Potency to Oral Morphine                 |                                        |
-| --------------------------------- | ---------------------------------------- | -------------------------------------- |
-| Codeine / Tramadol Oral           | 10:1                                     |                                        |
-| Morphine oral                     | 1:1                                      |                                        |
-| Oxycodone oral                    | 1.5:1                                    |                                        |
-| Morphine s.c.                     | 2:1                                      | 10 mg Oramorph becomes 5mg morphine sc |
-| Diamorphine sc                    | 3:1                                      | 10 mg Oramorph becomes 3.33            |
-| Oxycodone sc                      | 3:1                                      |                                        |
-| Alfentanil sc                     | 30:1                                     |                                        |
-| buprenorphine 5cmg/hour           | 12 mg Oramorph in 24 hrs                 |                                        |
-| fentanyl patch potency is a range | 25mcg/hour = 60 to 90 mg Oramorph/24 hrs |                                        |
+| Drug                              | Potency to Oral Morphine                       |                                        |
+| --------------------------------- | ---------------------------------------------- | -------------------------------------- |
+| Codeine / Tramadol Oral           | Codeine is 10x weaker, so divide codeine by 10 |                                        |
+| Morphine oral                     | 1:1                                            |                                        |
+| Oxycodone oral                    | Multiply by 1.5                                |                                        |
+| Morphine s.c.                     | s.c. is double of oral                         | 10 mg Oramorph becomes 5mg morphine sc |
+| Diamorphine sc                    | 3:1                                            | 10 mg Oramorph becomes 3.33            |
+| Oxycodone sc                      | oxy sc is double of oxy oral i.e. 3x oramorph  |                                        |
+| Alfentanil sc                     | 30x Oramorph                                   |                                        |
+| buprenorphine 5cmg/hour           | 12 mg Oramorph in 24 hrs                       |                                        |
+| fentanyl patch potency is a range | 25mcg/hour = 60 to 90 mg Oramorph/24 hrs       |                                        |
 Oxycodone is preferred to morphine in palliative patients with mild-moderate renal impairment. Oxycodone generally causes less sedation, vomiting and pruritis than morphine but more constipation.
 
 Morphine is cheaper, but also if we started everyone on oxycodone instead of morphine, then they'd still have same number of side effects. But the only difference is that the ones who don't tolerate morphine, we can try oxycodone on them in the hope that this has less side effects.

@@ -25,7 +25,7 @@ PG analogues
 
 | **Medication**              | Eg.         | Mode of action                | Notes                                                                                                                                      |
 | --------------------------- | ----------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Prostaglandin analogues** | latanoprost | Increases uveoscleral outflow | Once daily administration<br><br>Adverse effects include brown pigmentation of the iris, increased eyelash length, periocular pigmentation |
+| **Prostaglandin analogues** | Latanoprost | Increases uveoscleral outflow | Once daily administration<br><br>Adverse effects include brown pigmentation of the iris, increased eyelash length, periocular pigmentation |
 ## 3rd line:
 
 | **Medication**                    | Eg.                                        | Mode of action                                   | Notes                                                                                           |

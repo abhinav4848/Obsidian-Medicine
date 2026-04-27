@@ -27,4 +27,4 @@ Others: Renal failure
 
 | Raised ALP and raised calcium                  | Raised ALP and low calcium                                  |
 | ---------------------------------------------- | ----------------------------------------------------------- |
-| Bone metastases<br><br>[[Hyperparathyroidism]] | Osteomalacia<br><br>Renal failure (increased bone turnover) |
+| - Bone metastases<br>- [[Hyperparathyroidism]] | - Osteomalacia<br>- Renal failure (increased bone turnover) |

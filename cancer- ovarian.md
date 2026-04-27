@@ -20,7 +20,7 @@ HRT increases ovarian cancer risk in those using it for > 5 years.
 - Abdominal discomfort, distension, bloating, cramp.
 - Early satiety and loss of appetite.
 - Pelvic/Abdominal pain.
-- Increased urinarUSSrgency/frequency.
+- Increased urinary ugency/frequency.
 - No palpable abdominal mass.
 - Weight loss present.
 

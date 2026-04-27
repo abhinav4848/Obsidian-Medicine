@@ -29,7 +29,6 @@ Usually amenable to surgery.
 2. Squamous cell carcinoma (30%) -> More common in smokers. Large polygonal cell with keratin pearl & bridges. 
 3. large cell neuroendocrine carcinoma (5%) 
 4. carcinoid tumour (5%) 
-
 ### Paraneoplastic syndrome from Squamous cell carcinoma 
 SqCC bronchus -> Releases PTH-like molecules (but actual PTH will be low) -> [[Hypercalcemia]]. 
 
@@ -37,7 +36,7 @@ More common than paraneoplastic SIADH.
 - Serum PTH will be low (1* & 3* [[hyperparathyroidism]] ruled out). 
 - Then check [[biochemical differences in different ortho conditions#High ALP causes|ALP]] -> high ALP (+ high Ca) means [[cancers metastasizing to the bone|bone metastasis]]. 
 
-Clubbing, Hyperthyroidism, due to ectopic TSH. 
+[[clubbing]], Hyperthyroidism, due to ectopic TSH. 
 
 ---
 # Investigation 

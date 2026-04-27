@@ -19,7 +19,7 @@ Bloods taken 12 hours post dose.
 - TFT, U&E prior to treatment
 - Following change of dose, Lithium levels checked weekly until stabilized, then every 3 months
 - TFT, U&E, Calcium, Body weight every 6 months
-	- *hypothyroidism, nephrogenic DI, weight gain are s/e.*
+	- *hypothyroidism, [[diabetes insipidus|nephrogenic DI]], weight gain are s/e.*
 
 TFT is monitored because Lithium inhibits iodine uptake & Thyroid hormone release, leading to [[hypothyroidism]]. Hypothyroidism can worsen depressive symptoms, or complicate bipolar management. 
 

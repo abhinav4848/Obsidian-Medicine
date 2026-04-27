@@ -32,4 +32,4 @@ In females:
 3. Chronic lower respiratory diseases – also among the top causes.
 4. Other major causes (not always in strict order) included various types of cancers and cerebrovascular diseases.
 
-For males, ischaemic heart disease was the leading cause, while for females, dementia and Alzheimer’s disease remained the leading cause.
+For males, IHD was the leading cause, while for females, dementia and Alzheimer’s disease remained the leading cause.

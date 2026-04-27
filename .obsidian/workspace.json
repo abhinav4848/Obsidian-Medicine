@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biochemical differences in different ortho conditions.md",
+                "file": "controlled drugs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "biochemical differences in different ortho conditions"
+              "title": "controlled drugs"
             }
           },
           {
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "biochemical differences in different ortho conditions.md",
+                "file": "controlled drugs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of biochemical differences in different ortho conditions"
+              "title": "Graph of controlled drugs"
             }
           }
         ]
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biochemical differences in different ortho conditions.md",
+                "file": "controlled drugs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for biochemical differences in different ortho conditions"
+              "title": "Backlinks for controlled drugs"
             }
           }
         ]
@@ -303,33 +303,33 @@
   },
   "active": "c94a9824fdcaba6e",
   "lastOpenFiles": [
-    "paget's disease of bone.md",
-    "hyperparathyroidism.md",
-    "hypercalcemia.md",
-    "anticholinergics.md",
     "housekeeping/memorise.base",
-    "acute cholecystitis.md",
-    "biliary colic.md",
-    "ascending cholangitis.md",
-    "pancreatitis.md",
-    "chronic pancreatitis.md",
-    "croup.md",
-    "cystic fibrosis.md",
-    "macrolides.md",
-    "gynae drugs (hormonal).md",
-    "vomiting in paeds.md",
-    "vascular ulcers.md",
-    "lower limb ortho problems.md",
-    "investigation modalities.md",
-    "congenital hypothyroidism.md",
-    "chronic cholecystitis.md",
-    "cancer- pancreas.md",
+    "congenital adrenal hyperplasia.md",
+    "confusion in ophthalmology.md",
+    "macular degeneration.md",
+    "loss of vision.md",
+    "glaucoma- open angle.md",
+    "anterior ischaemic optic neuropathy.md",
+    "vitreous haemorrhage.md",
+    "retinal detachment.md",
+    "down's syndrome.md",
+    "childhood syndromes.md",
+    "crao.md",
+    "crvo.md",
+    "clinical governance.md",
+    "corticosteroid.md",
+    "amenorrhoea (primary).md",
+    "hearing test in children.md",
+    "attachments/prader willi.jpg",
+    "cervicitis.md",
+    "cardiac murmurs.md",
     "cancer- ovarian.md",
-    "amenorrhoea (secondary).md",
-    "abdominal aortic aneurysm.md",
-    "acromegaly.md",
-    "foot problems.md",
-    "inflammatory bowel disease.md",
+    "cancer- lung.md",
+    "cancer- bone.md",
+    "cancer- frequency.md",
+    "cancer- drugs involved in gynae cancers.md",
+    "cancer & associations.md",
+    "primary biliary cholangitis & primary sclerosing cholangitis.md",
     "flow charts/h. pylori treatment flowchart.canvas",
     "attachments/genital ulcers.jpg",
     "flow charts/paeds examination.canvas",
@@ -342,7 +342,6 @@
     "desktop.ini",
     "attachments/pseudofolliculitis barbae.jpg",
     "attachments/folliculitis- pseudomonas.jpg",
-    "attachments/prader willi.jpg",
     "attachments/vision- macular degeneration.jpg",
     "attachments/vision- open angle glaucoma.jpg",
     "flow charts/prostaglandins and leukotrienes.canvas",

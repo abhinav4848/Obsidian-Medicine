@@ -6,7 +6,7 @@ aliases:
 ---
 Sudden painless [[loss of vision]], black/dense shadow falling onto vision from periphery like a curtain.
 Optic disc normal.
-Seen in [[childhood syndromes|Down's syndrome]] 
+Seen in [[down's syndrome]] 
 
 Fs: #mnemonic Floaters, flashes, field visual loss, fall in visual acuity.
 - Floaters (Tiny floating black dots), and

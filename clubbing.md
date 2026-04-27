@@ -8,7 +8,7 @@ The causes of clubbing may be divided into cardiac, respiratory and other
 - bacterial endocarditis
 - atrial myxoma
 # Respiratory causes  
-- lung cancer
+- [[cancer- lung|Lung Cancer]]
 - pyogenic conditions: [[cystic fibrosis]], [[bronchiectasis]], abscess, empyema
 - tuberculosis
 - asbestosis, mesothelioma

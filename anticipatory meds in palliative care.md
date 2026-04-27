@@ -20,7 +20,7 @@ Given to palliative patients to make death more comfortable
 Drugs: M2H2 #mnemonic 
 - **Pain & breathlessness**: morphine 
 - **Anxiety, delirium, agitation**: midazolam 
-- **Noisy respiratory secretions**: hyoscine butyl bromide
+- **Noisy respiratory secretions**: hyoscine butyl bromide, glycopyrronium
 - **Nausea & vomiting**: [[haloperidol]], Levomepromazine 
 ## Opioids
 |           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -40,7 +40,7 @@ Oxycodone is preferred to morphine in palliative patients with mild-moderate ren
 | Cyclizine            | Broad spectrum Antiemetic, <br>Especially useful for **intracranial causes** of N & V. <br>Also give s.c. for cancer related intestinal obstruction.<br><br>Also good for nausea due to vestibular system irritation.                                                                                                                                                                                            |
 | [[Haloperidol]] s.c. | Antiemetic, Antipsychotic. <br>Agitation, Restless, & Confusion but not terminal. <br>It's first-line antipsychotic medication recommended for the management of delirium/hallucinations in palliative care patients<br><br>Avoid in elderly cuz EPS side effects exacerbate agitation/restlessness.<br><br>If the patient is in the terminal phase and agitated then subcutaneous midazolam would be indicated. |
 | [[Metoclopramide]]   | N & V in a palliative patient with delayed gastric emptying                                                                                                                                                                                                                                                                                                                                                      |
-| [[Ondansetron]]      | N& V due to chemo & radio                                                                                                                                                                                                                                                                                                                                                                                        |
+| [[Ondansetron]]      | N & V due to chemo & radio                                                                                                                                                                                                                                                                                                                                                                                       |
 | Domperidone          | antagonises the inhibitory effect of dopamine peripherally, resulting in stimulation of gastric muscle contraction. Good anti-emetic to use for GI pain in palliative care                                                                                                                                                                                                                                       |
 ## Sedative and anti-emetic
 |                 |                                                                                                                                                                                                                                           |
@@ -49,7 +49,7 @@ Oxycodone is preferred to morphine in palliative patients with mild-moderate ren
 ## Sedatives
 |           |                                                                                                                                                                                                                                        |
 | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Lorazepam | Agitation & restlessness, anxiety and sleeplessness in a dying patient.                                                                                                                                                                |
+| Lorazepam | Agitation & restlessness, anxiety and sleeplessness in a dying patient. Loraz is faster and shorter acting than Diazepam.                                                                                                              |
 | Midazolam | Agitation & Restlessness.<br>Much higher dose (2 doses of 10mg i.m. given 10 mins apart. Takes up to 30 mins to work- especially useful in a patient who has a catastrophic bleed who will of course be in distress due to that bleed) |
 ## Anti-cholinergic
 

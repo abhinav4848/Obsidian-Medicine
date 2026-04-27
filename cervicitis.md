@@ -26,7 +26,7 @@ If genital herpes is suspected, a viral swab from a lesion can be sent for **PC
 ## Treatment
 #### [[Chlamydia]] trachomatis (y for y) #mnemonic 
 Doxycycline, or
-(if pregnant, give Amoxicillin, Azithromycin, clarithromycin, or Erythromycin instead)
+(if pregnant, give Amoxicillin, or a [[macrolides|macrolide]] instead)
 #### Neisseria [[gonorrhoea]] (C for C) #mnemonic 
 Ceftriaxone 1 gm IM (Single dose), or #abx 
 [[Ciprofloxacin]] 500mg PO (single dose)

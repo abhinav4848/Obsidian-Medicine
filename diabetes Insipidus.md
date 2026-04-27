@@ -13,6 +13,7 @@ Normal Urine osmolality < 800 mOsm/L
 Defined as "the passage of large volumes (>3 L/24 hr.) of dilute urine (< 300 mOsm/kg)".
 Dilute urine = Low Osmolality Urine.
 # Types
+This is not a differences table: 
 
 | Cranial                                                                        | Nephrogenic                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

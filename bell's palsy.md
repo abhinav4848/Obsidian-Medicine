@@ -17,7 +17,7 @@ It's an LMN lesion.
 - hyperacusis.
 
 **Rx**: 
-- Prednisolone high dose 50mg 10 days started within 72 hrs of onset of Bell's palsy. 
+- Prednisolone high dose 50mg 10 days started within 72 hrs of onset of Bell's palsy. #steroid 
 - If no resolution in 3 weeks, or UMN signs, refer urgently to ENT. 
 - If many months of facial weakness, refer to plastics. 
 - *Don't ever give antivirals either alone or with prednisolone (no better than placebo).* 
