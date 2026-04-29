@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vitals in children.md",
+                "file": "fever & sepsis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "vitals in children"
+              "title": "fever & sepsis"
             }
           },
           {
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "254",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "vitals in children.md",
+                "file": "fever & sepsis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of vitals in children"
+              "title": "Graph of fever & sepsis"
             }
           }
         ]
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vitals in children.md",
+                "file": "fever & sepsis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for vitals in children"
+              "title": "Backlinks for fever & sepsis"
             }
           }
         ]
@@ -304,8 +304,9 @@
   "active": "c94a9824fdcaba6e",
   "lastOpenFiles": [
     "hearing test in children.md",
-    "vitals in children.md",
     "fever & sepsis.md",
+    "vitals in children.md",
+    "bronchiolitis.md",
     "plaque psoriasis.md",
     "steroids in dermatology.md",
     "psoriasis.md",
@@ -329,7 +330,6 @@
     "trimethoprim.md",
     "housekeeping/memorise.base",
     "toxins.md",
-    "digoxin.md",
     "attachments/ecg- hypo vs hyperkalemia.jpg",
     "attachments/prader willi.jpg",
     "flow charts/h. pylori treatment flowchart.canvas",
