@@ -7,7 +7,7 @@ aliases:
 ---
 AAA is a dilation of aorta > 3cm diameter. 
 # Screening
-In UK, routine USS is [[cancer- screening programs|offered]] to men after 65th birthday.
+In UK, routine single USS is [[cancer- screening programs|offered]] to men after 65th birthday.
 - Between 3 & 4.4 cm -> annual screen.
 - If 4.5 - 5.4 -> USS every 3 months.
 - If >5.4 / symptomatic with any size / rapidly enlarging >1cm per year -> vascular surgery refer for treatment within 2 weeks for probable intervention. 

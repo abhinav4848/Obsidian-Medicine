@@ -75,7 +75,8 @@ if no improvement:
 - potent topical steroid OD ([Betacap](https://www.medicines.org.uk/emc/product/3750/pil) 0.1%- Betametasone valerate, or better: [Dovobet](https://www.pcds.org.uk/clinical-guidance/psoriasis-scalp-psoriasis))
 - If no improvement after 4 weeks then either use a different formulation of the potent corticosteroid (for example, a shampoo or mousse) and/or a topical agents to remove adherent scale (e.g. agents containing salicylic acid, emollients and oils) before application of the potent corticosteroid. 
 ## Face, flexural and genital psoriasis management
-- NICE recommend offering a mild or moderate potency corticosteroid applied once or twice daily for a maximum of 2 weeks 
+- Mild / moderate corticosteroid applied once or twice daily for a maximum of 2 weeks 
+- (Topical calcipotriol is an irritant in flexures. Tar preparations are an option but they are messy & cumbersome). 
 
 ---
 # Notes on Medications
