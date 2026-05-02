@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "abdominal aortic aneurysm.md",
+                "file": "fertility.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "abdominal aortic aneurysm"
+              "title": "fertility"
             }
           },
           {
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "abdominal aortic aneurysm.md",
+                "file": "fertility.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of abdominal aortic aneurysm"
+              "title": "Graph of fertility"
             }
           }
         ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "abdominal aortic aneurysm.md",
+                "file": "fertility.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for abdominal aortic aneurysm"
+              "title": "Backlinks for fertility"
             }
           }
         ]
@@ -318,6 +318,8 @@
   },
   "active": "c94a9824fdcaba6e",
   "lastOpenFiles": [
+    "abdominal aortic aneurysm.md",
+    "fertility.md",
     "plaque psoriasis.md",
     "intertrigo.md",
     "psoriasis.md",
@@ -342,8 +344,6 @@
     "antenatal care.md",
     "diabetes- gestational.md",
     "diabetes mellitus- diagnosis.md",
-    "malaria.md",
-    "trimethoprim.md",
     "housekeeping/memorise.base",
     "attachments/ecg- hypo vs hyperkalemia.jpg",
     "attachments/prader willi.jpg",
