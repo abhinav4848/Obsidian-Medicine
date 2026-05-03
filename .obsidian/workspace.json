@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "infantile colic.md",
+                "file": "dvla.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "infantile colic"
+              "title": "dvla"
             }
           },
           {
@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intertrigo.md",
+                "file": "smoking.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "intertrigo"
+              "title": "smoking"
             }
           },
           {
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "infantile colic.md",
+                "file": "smoking.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of infantile colic"
+              "title": "Graph of smoking"
             }
           }
         ]
@@ -301,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "infantile colic.md",
+                "file": "smoking.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for infantile colic"
+              "title": "Backlinks for smoking"
             }
           }
         ]
@@ -331,15 +331,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "c94a9824fdcaba6e",
+  "active": "d93553bf9ce3dca6",
   "lastOpenFiles": [
+    "intertrigo.md",
+    "dvla.md",
+    "infantile colic.md",
     "fertility.md",
     "fitness to fly.md",
     "migraine.md",
     "hocm.md",
     "abdominal aortic aneurysm.md",
     "plaque psoriasis.md",
-    "intertrigo.md",
     "psoriasis.md",
     "fever & sepsis.md",
     "hearing test in children.md",
@@ -357,8 +359,6 @@
     "conjunctivitis.md",
     "cancer- testes.md",
     "calcium channel blockers.md",
-    "allopurinol.md",
-    "antenatal care.md",
     "housekeeping/memorise.base",
     "attachments/ecg- hypo vs hyperkalemia.jpg",
     "attachments/prader willi.jpg",
