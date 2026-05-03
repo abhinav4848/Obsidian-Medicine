@@ -1,10 +1,28 @@
 ---
 tags:
   - admin
+  - listt
+revision counter: 1
+revision notes: remember them
 ---
 The Civil Aviation Authority (CAA) has issued guidelines on air travel for people with medical conditions
 *See also [[dvla|fitness to drive]] & [[surgery- recovery times]]*
 
+---
+Simplified:  
+Cardio  
+- 3d: PCI  
+- 7d: uncomplicated MI  
+- 10d: CVA  
+- 14d: CABG  
+- 28d: Complicated MI  
+  
+Resp  
+- PTX: 2weeks after successful drain, 1 week after normal check X-Ray  
+  
+Surgery  
+- 24h: Laparoscopic surgery or colonoscopy  
+- 10d: open abdominal surgery
 ---
 ## Cardiovascular Disease 
 

@@ -34,10 +34,12 @@ If not controlled, add non-oral [[metoclopramide]]/prochlorperazine +/- non-oral
 - 'triptan sensations': tingling, heat, tightness (e.g. throat and chest), heaviness, pressure. 
 - contraindications: IHD, Cerebrovascular disease, age > 65yo, hepatic impairment, MAOi (taken in last 2 weeks)
 ### Chronic
+Give prophylaxis if significant impact on QoL. e.g. more than once a week attacks. 
 - Propranolol (Can give if pregnant. Avoid beta-blocker in [[asthma]]) >
 - Topiramate (teratogenic & contraceptive failure) >
 - Amitriptyline
-- Acupuncture
+- Acupuncture up to 10 sessions over 5-8 weeks. 
+- If predictable menstrual migraine -> Frovatriptan (2.5mg BD) or Zolmitriptan (2.5mg BD) as a type of mini prophylaxis. 
 # Treatment in Children
 Ibuprofen is the first-line treatment for paediatric migraines.
 - Avoid aspirin in children (Reye syndrome).
