@@ -39,8 +39,11 @@ Varenicline works by partially activating the *nicotinic acetylcholine receptor*
 - Start 1 week before the target stop date. 
 - recommended course of treatment is 12 weeks. Only continue treatment at any point if patient not smoking. 
 - use with caution if h/o depression/self-harm. 
+	- Advise to discontinue treatment and seek prompt medical advice if they develop agitation, depressed mood, or suicidal thoughts. Patients with a history of psychiatric illness should be monitored closely while taking varenicline.
 - c/i in [[drugs contraindicated in pregnancy|pregnancy]] & breastfeeding. 
 Also has Cytisinicline
+
+BNF has cautions for this drug (conditions predisposing to seizure, h/o CVD.)
 # Bupropion
 **Atypical antidepressant**: Norepinephrine and dopamine reuptake inhibitor, and nicotinic acetylcholine antagonist.
 - This doesn't cause a dip in dopamine level like the smoking does after raising it first. 
