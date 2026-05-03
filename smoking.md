@@ -29,7 +29,7 @@ They should be given as part of a plan to stop smoking on or before a particular
 | Bupropion   | 1-2 weeks before quit date | 3-4 weeks |                                           |
 # NRT
 - can cause N&V, headache, flu-like symptoms. 
-- NICE recommends combos of nicotine patch with another form of NRT (gum/inhalator/lozenge/nasal spray) to those with high dependence & where NRT background wasn't enough & they're having breakthrough urges. 
+- Give combined: Nicotine patch + faster acting form of NRT (gum/inhalator/lozenge/nasal spray) to those with high dependence & where NRT patch alone wasn't enough & they're having breakthrough urges. 
 - NRT patches should be used for no more than 16 hours in any 24-hour period. The best way to stick to this is to remove the patch at bedtime. Nicotine is a stimulant, and if the patch is worn at night, it may cause insomnia or abnormal dreams.
 - there is now a 24 hour NRT patch that is recommended by CKS if smoking cravings are worst in the morning
 - NRT can be started on the Quit day
@@ -42,13 +42,13 @@ Varenicline works by partially activating the *nicotinic acetylcholine receptor*
 - c/i in [[drugs contraindicated in pregnancy|pregnancy]] & breastfeeding. 
 Also has Cytisinicline
 # Bupropion
-Atypical antidepressant: Norepinephrine and dopamine reuptake inhibitor, and nicotinic acetylcholine antagonist.
+**Atypical antidepressant**: Norepinephrine and dopamine reuptake inhibitor, and nicotinic acetylcholine antagonist.
 - This doesn't cause a dip in dopamine level like the smoking does after raising it first. 
 - People who were treated with it for depression were noted to quit smoking. 
 
 Unlike many [[depression|antidepressants]], it has minimal effect on serotonin. 
 - Start 1-2 weeks before target date to stop. 
-- small risk of seizures (1 in 1000 in patients with no seizure risk)
+- small risk of seizures (1 in 1000, in patients with no seizure risk)
 	- Other antidepressants (Fluoxetine, prozac, etc are also 1:1000 risk)
 - c/i in [[seizure|epilepsy]], [[drugs contraindicated in pregnancy|pregnancy]], breastfeeding, eating disorder, [[psychiatric disorders|Bipolar Disorder]].
 	- Eating disorder is a relative contraindication. 
