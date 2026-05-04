@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "minor surgery.md",
+                "file": "rheumatoid arthritis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "minor surgery"
+              "title": "rheumatoid arthritis"
             }
           },
           {
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "minor surgery.md",
+                "file": "rheumatoid arthritis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of minor surgery"
+              "title": "Graph of rheumatoid arthritis"
             }
           }
         ]
@@ -331,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "minor surgery.md",
+                "file": "rheumatoid arthritis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +341,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for minor surgery"
+              "title": "Backlinks for rheumatoid arthritis"
             }
           }
         ]
@@ -363,8 +363,17 @@
   },
   "active": "e929f18c65c0f644",
   "lastOpenFiles": [
-    "haemochromatosis.md",
+    "systemic lupus erythematosus.md",
+    "arthritis.md",
+    "spondyloarthritis.md",
+    "seronegative spondyloarthropathy.md",
+    "psoriatic arthritis.md",
+    "autosomal inheritance.md",
+    "x linked inheritance.md",
+    "essential tremor.md",
+    "porphyria.md",
     "minor surgery.md",
+    "haemochromatosis.md",
     "anaemia.md",
     "gynaecological infections.md",
     "clindamycin.md",
@@ -380,15 +389,6 @@
     "hocm.md",
     "abdominal aortic aneurysm.md",
     "plaque psoriasis.md",
-    "psoriasis.md",
-    "fever & sepsis.md",
-    "hearing test in children.md",
-    "vitals in children.md",
-    "bronchiolitis.md",
-    "steroids in dermatology.md",
-    "melanoma.md",
-    "statins.md",
-    "rhinosinusitis.md",
     "housekeeping/memorise.base",
     "attachments/ecg- hypo vs hyperkalemia.jpg",
     "attachments/prader willi.jpg",

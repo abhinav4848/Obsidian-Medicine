@@ -17,7 +17,7 @@ aliases:
 - ESR (ESR is raised but CRP is normal)
 *negative ANCA*. 
 # When to suspect
-There may be polyarthritis in the small joints of the hands and feet, but SLE arthritis is usually non-deforming. (compare [[rheumatoid arthritis]]). 
+There may be polyarthritis in the small joints of the hands and feet, but SLE arthritis is usually non-deforming. (compare [[rheumatoid arthritis]]). Affects hands, wrists, knees. 
 
 Suspect this if there are additional signs and symptoms (for example, rash, mouth ulcers, alopecia, Raynaud's syndrome or Sicca syndrome).
 # Clinical Features of SLE

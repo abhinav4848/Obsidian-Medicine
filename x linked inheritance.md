@@ -5,13 +5,15 @@ aliases:
   - X-Linked Recessive
   - XLR
 ---
-e.g.
+
+# X Linked Recessive
 [[androgen insensitivity syndrome]]
 [[turner's syndrome]]
 [[g6pd deficiency]] 
 [[genetics terminology|spinobulbar muscular atrophy (kennedy disease)-]]
 [[haemophilia a]]
-# X Linked Recessive
+Hunter's
+### Table
 In X-linked recessive inheritance only males are affected. An exception to this seen in examinations are patients with [[turner's syndrome]], who are affected due to only having one X chromosome. 
 
 | **Daughter \ Husband** | **X** | **Y** |
