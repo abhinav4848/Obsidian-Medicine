@@ -33,7 +33,8 @@ If a child has low ferritin, prefer liquid formulation of 
 - Ferrous gluconate
 - Sodium feredetate [BNFc](https://bnfc.nice.org.uk/drugs/sodium-feredetate/) (Often marketed as Sytron syrup. Historically common in paediatrics.)
 If that doesn't suit the child, they can try iron gummies off the counter.
-
-
 # Target Ferritin in CKD
 Anaemia in CKD - aim for 10-12 g/dl (even after starting on Erythropoietin)
+
+# Ferritin is an acute phase reactant
+- Can be high in inflammation, infection, liver disease. 
