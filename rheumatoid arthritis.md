@@ -56,7 +56,7 @@ A variety of respiratory problems may be seen in patients with rheumatoid arthri
 # Drug side effects
 Initial management for evidence of joint inflammation: Methotrexate & Short course of bridging Prednisolone instead of dual DMARDs. 
 
-Flares managed with steroids (oral or IM)
+Flares managed with **steroids** (oral or IM)
 ### DMARD s/e
 - [[Methotrexate]]: Myelosuppression, Liver cirrhosis, [[interstitial lung disease vs pneumonitis|pneumonitis]]  
 - Sulfasalazine ([BNF](https://bnf.nice.org.uk/drugs/sulfasalazine/#side-effects))
@@ -64,5 +64,17 @@ Flares managed with steroids (oral or IM)
 	- #interaction : Allergy to Aspirin/acetylsalicylic acid or sulphonamides is contraindication for using sulfasalazine/5-ASA/5-Aminosalicylate. (cross-reactivity). 
 	- Caution in [[g6pd deficiency|G6PD deficiency]]. 
 - [[Leflunomide]]: Liver impairment, Interstitial lung disease (interstitial pnuemonitis), Hypertension 
+### Biologics
+- *All Biologics risk TB, or activating latent TB.* 
+- *Patients on biologics need [[monitoring bloods with drugs|blood monitoring]]: initial FBC U&E, LFT 3-4months after starting therapy, then every 6 months once stable (unless clinically indicated.)*
+##### TNF-alpha antagonists
+*If no response to at least 2 DMARDs -> TNF inhibitors:* 
+- **Etanercept**: Can cause demyelination, TB
+- **Infliximab**: TB
+- Adalimumab
 
-If no response to at least 2 DMARDs -> TNF inhibitors: Etanercept, Infliximab, Adalimumab, Rituximab, Abatacept
+If develop an infection while on these drugs, stop them while infection is cleared. RA doubles risk of infection. Mainly Chest infection & Sepsis. 
+##### Other classes
+IL-1 antagonist: Anakinra
+T-cell modulating agent: Abatacept
+B-Lymphocyte depletor: Rituximab

@@ -61,4 +61,3 @@ Seen in: [[Psoriatic arthritis]], Reactive arthritis, IBD-associated arthritis
  - Connective tissue disease related: [[systemic lupus erythematosus|SLE]] (Photosensitivity), [[sjogren's syndrome|Sjögren Syndrome]], [[systemic sclerosis]], Mixed connective tissue disorder
  - Infective: [[septic arthritis]], post-viral (e.g. parvovirus)
 
-SLE: Intermittent, symmetrical polyarthritis. Affects hands, wrists, knees. Rarely can be symmetrical. 
