@@ -4,7 +4,7 @@ tags:
 ---
 *(don't confuse with Lamotrigine- antiepileptic)*
 
-Leflunomide is a disease modifying anti-rheumatic drug ([[rheumatoid arthritis|DMARD]]) mainly used in the management of rheumatoid arthritis. It has a very long half-life which should be remembered considering it's teratogenic potential. 
+Leflunomide is a [[rheumatoid arthritis|DMARD]] mainly used in the management of rheumatoid arthritis. It has a very long half-life which should be remembered considering it's teratogenic potential. 
 # Contraindications
 - pregnancy - BNF advises: '_Effective contraception essential during treatment and for at least 2 years after treatment in women and at least 3 months after treatment in men (plasma concentration monitoring required)_'
 - caution should also be exercised with pre-existing lung and liver disease
