@@ -2,16 +2,20 @@
 tags:
   - psychiatry
 ---
- *Also see [[cyclothymia]]* 
+Mania: Includes feelings of euphoria, hallucinations and/or delusions, and a predisposition to risky or reckless behaviour.
 
----
+What is mania/hypomania?  
+- both terms relate to abnormally elevated mood or irritability
+- **Mania**: Severe functional impairment or psychotic symptoms for >= 7 days
+- **Hypomania**: Decreased / increased function for >= 4 days
+- from an exam point of view the key differentiation is psychotic symptoms (e.g.delusions of grandeur or auditory hallucinations) which suggest mania
 # Bipolar disorder 
 It's a mood disorder.
-**Medications**: [[Lithium]], quetiapine
 #### Two types
-- type I disorder: mania and depression (most common)
+- type I disorder: mania (psychotic symptoms) & depression (most common)
 - type II disorder: hypomania and depression
 
+[[Cyclothymia]]: mild symptoms of hypomania and depression for at least two years.
 # Interactions
 Addition of [[depression|antidepressants]] (Fluoxetine, etc.) can worsen [[Mania]].
 
@@ -20,12 +24,19 @@ ACEi, ARB, Diuretics and NSAIDs can lead to [[lithium|Lithium toxicity]].
 - Lithium + [[amiodarone]] worsens ventricular arrhythmia.
 
 # Management
-Lithium is mood stabiliser of choice. 
-Mania: 
+[[Lithium]] is mood stabiliser of choice. 
+**Mania**: 
 - Stop antidepressants in Mania
 - Antipsychotics e.g. Olanzapine, Haloperidol
-Depression:
+**Depression**:
 - Talking therapy, Fluoxetine is the anti-depressant of choice
+
+*Address co-morbidities*: 
+- there is a 2-3 times increased risk of diabetes, cardiovascular disease and COPD
+*Referral*:
+- If Hypomania -> Routine referral to CMHT. 
+- If Mania / Severe depression -> Urgent referral to CMHT. 
+
 # Monitoring
 - Before starting [[lithium]], measure TFT, U&e (liTHium-> THyroid function test #mnemonic )
 - Amiodarone: U&e. 

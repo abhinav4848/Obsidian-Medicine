@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periorificial dermatitis.md",
+                "file": "bipolar disorder.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Periorificial dermatitis"
+              "title": "bipolar disorder"
             }
           },
           {
@@ -219,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Periorificial dermatitis.md",
+                "file": "bipolar disorder.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -247,7 +247,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Periorificial dermatitis"
+              "title": "Graph of bipolar disorder"
             }
           }
         ]
@@ -359,7 +359,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Periorificial dermatitis.md",
+                "file": "bipolar disorder.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -369,7 +369,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Periorificial dermatitis"
+              "title": "Backlinks for bipolar disorder"
             }
           }
         ]
@@ -391,6 +391,9 @@
   },
   "active": "0a2bce15f2948b2f",
   "lastOpenFiles": [
+    "cyclothymia.md",
+    "bipolar disorder.md",
+    "psychiatric disorders.md",
     "Periorificial dermatitis.md",
     "confusion in skin lesions.md",
     "rheumatoid arthritis.md",
@@ -414,9 +417,6 @@
     "gynaecological infections.md",
     "clindamycin.md",
     "fitness to fly.md",
-    "smoking.md",
-    "thalassaemia.md",
-    "statistics- confounding.md",
     "housekeeping/memorise.base",
     "attachments/ecg- hypo vs hyperkalemia.jpg",
     "attachments/prader willi.jpg",
