@@ -2,7 +2,7 @@
 tags:
   - psychiatry
 ---
-Mania: Includes feelings of euphoria, hallucinations and/or delusions, and a predisposition to risky or reckless behaviour.
+**Mania**: Includes feelings of euphoria, hallucinations and/or delusions, and a predisposition to risky or reckless behaviour.
 
 What is mania/hypomania?  
 - both terms relate to abnormally elevated mood or irritability
