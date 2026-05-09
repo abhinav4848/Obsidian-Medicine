@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "infant skin lesions.md",
+                "file": "amenorrhoea (primary).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "infant skin lesions"
+              "title": "amenorrhoea (primary)"
             }
           },
           {
@@ -221,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "infant skin lesions.md",
+                "file": "amenorrhoea (primary).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -249,7 +249,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of infant skin lesions"
+              "title": "Graph of amenorrhoea (primary)"
             }
           }
         ]
@@ -361,7 +361,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "infant skin lesions.md",
+                "file": "amenorrhoea (primary).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -371,7 +371,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for infant skin lesions"
+              "title": "Backlinks for amenorrhoea (primary)"
             }
           }
         ]
@@ -393,6 +393,11 @@
   },
   "active": "82d5cd30622b623f",
   "lastOpenFiles": [
+    "turner's syndrome.md",
+    "amenorrhoea (primary).md",
+    "amenorrhoea (secondary).md",
+    "hyperprolactinemia.md",
+    "metoclopramide.md",
     "erythemas.md",
     "infant skin lesions.md",
     "puberty.md",
@@ -414,11 +419,6 @@
     "obesity in children.md",
     "hearing test in children.md",
     "bipolar disorder.md",
-    "cyclothymia.md",
-    "psychiatric disorders.md",
-    "Periorificial dermatitis.md",
-    "rheumatoid arthritis.md",
-    "leflunomide.md",
     "housekeeping/memorise.base",
     "attachments/ecg- hypo vs hyperkalemia.jpg",
     "attachments/prader willi.jpg",
