@@ -6,6 +6,7 @@ aliases:
   - Erythema marginatum
   - Erythema gyratum repens
   - Erythema ab igne
+  - erythema toxicum neonatorum
 ---
 
 ![[erythemas.png|400]]

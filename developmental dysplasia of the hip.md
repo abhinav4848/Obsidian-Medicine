@@ -15,12 +15,14 @@ Doesn't cause pain in the child but can lead to early hip replacement.
 First fat female born oligo breech in a family with such history. 
 	Firstborn, birth wt. > 5kgs, Girl child, oligohydramnios, breech presentation, family history,
 Age < 3yo
-*All breech babies at or after 36 weeks gestation require USS for DDH [[newborn Infant physical examination|screening]] at 6 weeks regardless of mode of delivery (Normal or C-section).* 
+*All breech presentations noted at 36 completed weeks of gestation require USS for DDH [[newborn Infant physical examination|screening]] regardless of*
+- mode of delivery at birth (Normal or C-section).
+- presentation at birth
 # Clinical Features
 [[limping child|Limping]].
 Painless leg that is shorter than the other. 
-Unequal skin folds. 
-### Exam: 
+Unequal skin folds (not a criteria for NIPE infant exam anymore) 
+### Screening tests 
 Barlow #named : attempt to dislocate an articulated femoral head. 
 	**Note**: might be negative if hip is already dislocated at the time of presentation. 
 Ortolani #named : relocate a dislocated femoral head. 
