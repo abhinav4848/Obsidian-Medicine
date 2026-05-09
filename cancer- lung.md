@@ -42,5 +42,25 @@ More common than paraneoplastic SIADH.
 # Investigation 
 CXR- first line for suspected lung cancer. 
 	10% of patients subsequently diagnosed with lung cancer had normal CXR. 
-CT- Inv of Choice for suspected lung cancer. 
+CT- Investigation of Choice for suspected lung cancer. 
 Bronchoscopy- to take biopsy. 
+
+# 2ww referral
+Age >= 40yo + [[hemoptysis|haemoptysis]]
+suspicious CXR (false negative in 20-25% cases) for Lung cancer / Mesothelioma
+# 2-week CXR
+Age >= 40yo + no smoking history + >=2 of the following
+Age >= 40yo + (ex)smoker/asbestos exposure + >=1 of the following
+- weight loss
+- fatigue
+- cough
+- sob
+- chest pain
+- appetite loss
+Age >= 40yo + >= 1 of the following
+- suspicious chest signs
+- finger clubbing
+- Lung cancer specific:
+	- LNE (supraclavicular / cervical)
+	- [[platelets|thrombocytosis]]
+	- recurrent / persistent chest infection

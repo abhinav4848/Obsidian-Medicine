@@ -5,6 +5,7 @@ aliases:
   - Obesity
   - guidance on obesity management
   - Weight loss
+  - GLP-1 agonists
 ---
 See [[lipids]] & [[diabetes treatment]]
 
