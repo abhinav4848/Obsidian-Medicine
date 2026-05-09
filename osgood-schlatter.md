@@ -11,7 +11,7 @@ tags:
 
 ---
 Aka tibial apophysitis. 
-#mnemonic Osgood schlatter -> Tibia (tuberosity) shatters
+#mnemonic Osgood Schlatter -> Tibia (tuberosity) shatters
 # Epidemiology
 Common in sporty male teens (10-15 years) during pubertal growth spurt. 
 # Pathogenesis

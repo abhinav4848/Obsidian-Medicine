@@ -15,7 +15,7 @@ GLP-1 agonist:
 - Liraglutide (Saxenda), 
 - Tirzepatide (Mounjaro), 
 Lipase inhibitor: 
-- orlistat (Alli, Xenical)
+- [[orlistat]] (Alli, Xenical)
 Mix:
 - phentermine-topiramate (Qsymia): Phentermine is an appetite suppressant and topiramate is an anti-convulsant with weight loss properties.
 
@@ -34,18 +34,4 @@ Mainly act on the brain to reduce appetite / increase satiety.
 | Dulaglutide                                                                                    | GLP-1 receptor agonist (T2DM; weight loss occurs but not licensed for obesity)                                                                                                                                                                                  | Trulicity                               |
 | Lixisenatide                                                                                   | GLP-1 receptor agonist (T2DM; mild weight loss effect)                                                                                                                                                                                                          | Lyxumia                                 |
 # Peripherally acting
-### Orlistat
-aka lipase inhibitor. 
-Assists with weight loss, without affecting the brain or suppressing appetite. It inhibits pancreatic lipase and prevents fat breakdown in the GI tract therefore reduces intestinal absorption of fat.
-Adverse effects:
-- faecal urgency/incontinence and 
-- flatulence. 
-A lower dose version is now available without prescription ('Alli').
-
-It should only be prescribed as part of an overall plan for managing obesity in adults who have:  
-- BMI >= 28 kg/m^[2] + associated risk factors, or
-- BMI of 30 kg/m^[2] 
-- The patient should be reviewed 12 weeks after commencing orlistat & continued only if weight loss of at least 5% at 3 months. (as measured at the start of drug treatment).
-- orlistat is normally used for < 1 year
-The new guidelines make an exception in [[diabetes treatment|type 2 diabetes]]: 
-- Rates of weight loss may be slower in people with T2DM, so less strict goals (for example a loss of more than 3% of their body weight in 12 weeks) may be appropriate.
+[[orlistat]] 
