@@ -22,13 +22,13 @@ Painless leg that is shorter than the other.
 Unequal skin folds. 
 ### Exam: 
 Barlow #named : attempt to dislocate an articulated femoral head. 
-	Note: might be negative if hip is already dislocated at the time of presentation. 
+	**Note**: might be negative if hip is already dislocated at the time of presentation. 
 Ortolani #named : relocate a dislocated femoral head. 
 
-Galleazi #named:In infants older than 3 months, assessment by the Barlow and Ortolani tests is no longer sensitive. Perform the Galleazi sign to test for loss of abduction of the affected hip. 
+Galleazi #named:In infants > 3 mo, assessment by the Barlow and Ortolani tests is no longer sensitive. Perform the Galleazi sign to test for loss of abduction of the affected hip. 
 # Investigation
 Confirm with USS as although can be self-resolving, it presents as a spectrum, so can be bad as well. 
-USS from 6 weeks up to 4.5 months cuz hips are cartilaginous. 
+USS from 6 weeks up to 4.5 months cuz hips are cartilaginous. (see [[newborn Infant physical examination|Newborn & Infant Physical Examination]])
 Xray only after 4.5 months. 
 # Management 
 Most unstable hips will spontaneously stabilize by 3-6 weeks. 

@@ -1,6 +1,8 @@
 ---
 tags:
   - pharmacology
+aliases:
+  - GLP-1 agonists
 ---
 Orlistat is a gastrointestinal lipase inhibitor
 Reduces the absorption of fat from the gut.

@@ -103,27 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bipolar disorder.md",
+                "file": "paeds ortho diff- ddh, perthe's, sufe.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "bipolar disorder"
-            }
-          },
-          {
-            "id": "2600fcd2cd8ac204",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.pcds.org.uk/clinical-guidance/perioral-dermatitis-periocular-dermatitis-syn-periorifacial-dermatitis",
-                "title": "Perioral dermatitis",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Perioral dermatitis"
+              "title": "paeds ortho diff- ddh, perthe's, sufe"
             }
           },
           {
@@ -175,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "perioral",
+                "query": "tag:#mnemonic",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -206,7 +192,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -219,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "bipolar disorder.md",
+                "file": "paeds ortho diff- ddh, perthe's, sufe.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -247,7 +234,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of bipolar disorder"
+              "title": "Graph of paeds ortho diff- ddh, perthe's, sufe"
             }
           }
         ]
@@ -359,7 +346,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bipolar disorder.md",
+                "file": "paeds ortho diff- ddh, perthe's, sufe.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -369,7 +356,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bipolar disorder"
+              "title": "Backlinks for paeds ortho diff- ddh, perthe's, sufe"
             }
           }
         ]
@@ -391,8 +378,16 @@
   },
   "active": "0a2bce15f2948b2f",
   "lastOpenFiles": [
-    "cyclothymia.md",
+    "legg-calve-perthe's disease.md",
+    "paeds ortho diff- ddh, perthe's, sufe.md",
+    "slipped upper femoral epiphysis.md",
+    "developmental dysplasia of the hip.md",
+    "newborn Infant physical examination.md",
+    "obesity in children.md",
+    "hearing test in children.md",
+    "orlistat.md",
     "bipolar disorder.md",
+    "cyclothymia.md",
     "psychiatric disorders.md",
     "Periorificial dermatitis.md",
     "confusion in skin lesions.md",
@@ -409,14 +404,6 @@
     "seronegative spondyloarthropathy.md",
     "spondyloarthritis.md",
     "arthritis.md",
-    "systemic lupus erythematosus.md",
-    "x linked inheritance.md",
-    "porphyria.md",
-    "haemochromatosis.md",
-    "anaemia.md",
-    "gynaecological infections.md",
-    "clindamycin.md",
-    "fitness to fly.md",
     "housekeeping/memorise.base",
     "attachments/ecg- hypo vs hyperkalemia.jpg",
     "attachments/prader willi.jpg",

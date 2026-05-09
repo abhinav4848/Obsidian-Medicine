@@ -13,7 +13,7 @@ tags:
 *See [[lower limb ortho problems]]* 
 
 ---
-Degenerative condition of hip joints in [[limping child|children]] aged 3 - 9 years. (more common in boys & 10% cases are b/l)
+Degenerative condition of hip joints in [[limping child|children]] aged 3 - 9 years. (Peak age 5-7yo. more common in boys & 10-20% cases are b/l). 
 
 Idiopathic avascular necrosis (AVN) of the femoral head/epiphysis in children
 Chronic disease. 
@@ -21,19 +21,24 @@ Chronic disease.
 >[!notice]
 >A limping child (aged 4–6 years) with hip pain, persisting for more than 2 weeks, should be examined and investigated to rule out Perthes disease.
 # Clinical features
-Chronic pain: Hip & groin pain, progresses over weeks, months.
-[[limping child]]. 
-Stiffness, decreased range of hip movement (as loss of head surface)- *limited internal rotation and abduction.*
+- #mnemonic - *Perthe's -> Primary School, [[slipped upper femoral epiphysis|SUFE]] -> Secondary school*
+- **Chronic pain**: Hip & groin pain, progresses over weeks, months.
+- [[limping child]]. 
+- Stiffness, decreased range of hip movement (as loss of head surface)
+	- *limited internal rotation and abduction.* 
 # X-ray 
 **Initially**:
-- Widening of joint space,
+- Widening of joint space 
 
 **Later**:
 - Decreased femoral head size,
 - Flattening (coxa plana)
-- Sclerosis,
+- Sclerosis
 - Radiolucency of proximal metaphysis. 
-
 # Treatment
-Conservative. 
+Conservative- Remove pressure from joint to allow normal development. Do Physiotherapy. Usually self-limiting if diagnosed and treated promptly.
+
 Over time, the blood supply to the head of the femur returns and the bone begins to grow back.
+Untreated cases: Eventually in untreated cases the femoral head will fragment.
+## Long term outcome 
+Most children with Perthes' disease have good outcomes, but long-term complications may include chronic pain and osteoarthritis.
