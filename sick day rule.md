@@ -1,6 +1,8 @@
 ---
 urls:
   - "[NICE NG28 Sick day rules](https://www.nice.org.uk/guidance/ng28/chapter/Person-centred-medicine#sick-day-rules)"
+aliases:
+  - SADMANS Drugs
 ---
 # Adrenal insufficiency & Addison's Disease
 NICE recommends that for those ≤16y, we follow the sick day rules from [British Society of Paediatric Endocrinology and Diabetes (BSPED) Consensus Guidelines on Adrenal Insufficiency](https://www.bsped.org.uk/adrenal-insufficiency). We refer you there because the sites includes calculated doses based on patient weight and surface area.
@@ -49,7 +51,7 @@ This is the concept that patients on potentially nephron-harmful drugs stop them
 - Patients not being sure whether they are ill enough to need to heed the advice.
 - People with heart failure decompensating when ACE inhibitors/diuretics are stopped.
 - Hypertension or diabetic control being poor if people are repeatedly stopping medications because of illness.
-- People may be put-off taking drugs, even when they are well, because they are ‘nephrotoxic’ (==try to avoid this term!==).
+- People may be put-off taking drugs, even when they are well, because they are ‘nephrotoxic’ (==try to avoid this term==).
 - Patients over-interpreting advice and stopping medication unnecessarily, such as during minor illness.
 - Patients forgetting or choosing not to restart after an episode of ill health.
 - If patients are doing this themselves at home, drugs that should be titrated up are not being.
@@ -71,6 +73,7 @@ The NHS ‘Think Kidneys’ campaign definition of ‘acute illness’:
 
 ## Which drugs are included in sick day guidance? %%linked%%
 [London Kidney Network NHS](https://londonkidneynetwork.nhs.uk/wp-content/uploads/2024/04/Sick-Day-Rules.pdf)
+#mnemonic *SADMANS: Sulfonylureas, ACEi, Diuretics, Metformin, ARB, NSAIDs, SGLT2i*
 - [[nsaid|Non-steroidal anti-inflammatory drugs]] (because they impair renal autoregulation).
 - Drugs that lower BP or cause volume depletion (increased risk of AKI by reducing glomerular perfusion):
     - [[ace inhibitors|ACE inhibitors]] and ARBs.
