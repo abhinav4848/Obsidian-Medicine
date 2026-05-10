@@ -31,6 +31,7 @@ Antipsychotics counter the effects of dopamine excess in [[delirium]], psychosis
 	- High risk of diabetes, dyslipidemia, obesity -> high risk of [[deep vein thrombosis|DVT]]
 	- O = big belly - causes weight gain > causes VTE. #mnemonic 
 	- Agranulocytosis
+	- [[monitoring bloods with drugs|Monitor]] FBC, U&E, LFT before starting & then annually thereafter. 
 - Greater lowering of [[seizure]] thresholds than typicals. 
 
 # Other Side effects (for both)
