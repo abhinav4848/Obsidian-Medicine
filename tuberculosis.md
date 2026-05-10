@@ -15,11 +15,9 @@ aliases:
 # Risk
 Loading bay, harbour > travel to endemic country.
 Starting anyone on immunosuppressants like biologics, we do Quantiferon gold test to make sure they don't have latent TB. 
-
 # Clinical Features
 Cachexia (weight loss), chronic cough, hemoptysis, night sweat
 Can cause [[acute pericarditis]]. 
-
 # Investigation
 **CXR**: 
 - Upper lobe infiltrates with cavitation.

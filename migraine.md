@@ -36,10 +36,16 @@ If not controlled, add non-oral [[metoclopramide]]/prochlorperazine +/- non-oral
 ### Chronic
 Give prophylaxis if significant impact on QoL. e.g. more than once a week attacks. 
 - Propranolol (Can give if pregnant. Avoid beta-blocker in [[asthma]]) >
-- Topiramate (teratogenic & contraceptive failure) >
+- Topiramate (teratogenic & contraceptive failure)
+	- s/e: 
+		- [[p450|Enzyme inducer]].
+		- Reduced appetite & weight loss
+		- dizziness, paresthesia, lethargy, poor concentration,
+		- **rare**: acute myopia & secondary [[glaucoma- acute angle closure|acute angle glaucoma]]. 
 - Amitriptyline
 - Acupuncture up to 10 sessions over 5-8 weeks. 
 - If predictable menstrual migraine -> Frovatriptan (2.5mg BD) or Zolmitriptan (2.5mg BD) as a type of mini prophylaxis. 
+- Low dose aspirin (up to 75mg) can be used as a migraine prophylactic in pregnancy however this would only be considered on the advice of a neurologist.
 # Treatment in Children
 Ibuprofen is the first-line treatment for paediatric migraines.
 - Avoid aspirin in children (Reye syndrome).

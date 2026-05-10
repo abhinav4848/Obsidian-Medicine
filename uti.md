@@ -50,14 +50,14 @@ Extend antibiotics to 5-10 days if:
 - 7 days of abx. 
 - Send MSU in all cases before starting abx.
 - NICE: _'Referral to urology is not routinely required for men who have had one uncomplicated lower urinary tract infection (UTI).'_
-- for prostatitis ([NICE](https://cks.nice.org.uk/topics/prostatitis-acute/diagnosis/suspecting-acute-prostatitis/))- [[ciprofloxacin]], ofloxacin, or Trimethoprim 200mg BD for 14 days. 
+- for [[prostate|prostatitis]] ([NICE](https://cks.nice.org.uk/topics/prostatitis-acute/diagnosis/suspecting-acute-prostatitis/))- [[ciprofloxacin]], ofloxacin, or Trimethoprim 200mg BD for 14 days. 
 
 ## Pregnant women
 Pregnant female: 7 days (for symptomatic or asymptomatic bacteriuria)
 - [[trimethoprim]] [[drugs contraindicated in pregnancy|c/i in first trimester]] ([[folic acid|anti-folate]])
 - [[nitrofurantoin]] should be avoided near term
 	- *can give amoxicillin or cefalexin*
-- **Asymptomatic bacteriuria** is treated because there's high risk of progression to acute [[pyelonephritis]]. 
+- **Asymptomatic bacteriuria** is treated because there's high risk of progression to acute [[pyelonephritis]], LBW babies, & premature delivery. 
 - A further test-for-cure MSU should be sent after treatment. 
 - women who suffer regular UTIs following sexual intercourse can be offered *post-coital antibiotic prophylaxis*- single dose trimethoprim or nitrofurantoin are used first-line. 
 
