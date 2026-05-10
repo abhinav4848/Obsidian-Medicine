@@ -15,13 +15,13 @@ urls:
 
 # Adult routine vaccination
 
-| Age criteria                                                                     | Vaccine given                                  |
-| -------------------------------------------------------------------------------- | ---------------------------------------------- |
-| 65yo                                                                             | Given PPV 23 (or PCV20 if PPV23 stock is over) |
-| \>65yo                                                                           | Influenza each September                       |
-| Turning 65 from 1 Sept each year (commencing 1 Sept 2023 onwards)                | Shingles                                       |
-| 70 to 79 years of age (and those severely immunosuppressed over 18 years of age) | Shingles                                       |
-| 75yo                                                                             | RSV                                            |
+| Age criteria                                                                                                                                                                                                                                                            | Vaccine given                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| 65yo                                                                                                                                                                                                                                                                    | Given PPV 23 (or PCV20 if PPV23 stock is over)    |
+| \>65yo                                                                                                                                                                                                                                                                  | Influenza each September                          |
+| Turning 65 from 1 Sept each year (commencing 1 Sept 2023 onwards) [Green Book](https://www.gov.uk/government/publications/shingles-vaccination-guidance-for-healthcare-professionals/shingles-immunisation-programme-information-for-healthcare-practitioners#shingles) | [[shingles]] ([[vaccine types\|live attenuated]]) |
+| 70 to 79 years of age (& anyone > 18yo with severe immunosuppression)                                                                                                                                                                                                   | Shingles                                          |
+| 75yo                                                                                                                                                                                                                                                                    | RSV                                               |
 # Pneumococcal Vaccine
 Usually a one-off but every 5 years if spleen/CKD. 
 ### Two types

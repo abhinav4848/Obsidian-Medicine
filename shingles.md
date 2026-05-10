@@ -60,3 +60,10 @@ Virus lies dormant in dorsal root/cranial nerve (facial) ganglia.
 	- #triad : Otalgia, Facial nerve palsy, Vesicular eruptions
 	- oral aciclovir & corticosteroid given
 	- Advice to tape the eye at night & refer to eye casualty
+# Vaccinations
+see [[immunisation in adults|adult vaccination]] 
+This is a live attenuated vaccine. Examples include _Varilrix_ and _Varivax_.  
+  
+Example indications include:  
+- healthcare workers who are not already immune to VZV
+- contacts of immunocompromised patients (e.g. child whose parent is undergoing chemotherapy)
