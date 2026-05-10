@@ -29,11 +29,11 @@ tags:
 	- any form of Cardiovascular/cerebrovascular disease including Stroke. Switch to ibuprofen or Naproxen. 
 	- Peripheral arterial disease
 	- Congestive heart failure. 
-### NSAID & CKD
+### NSAID & CKD %%linked%%
 - PGIs maintain afferent arteriole dilation
 - NSAIDs inhibit PGs -> afferent arteriole constriction -> reduced intraglomerular pressure
 - Dangerous with: 
-	- Dehydration
+	- Dehydration -> See [[sick day rule#Which drugs are included in sick day guidance? linked|SADMANS Drugs]]
 	- Elderly
 	- Triple whammy. Kidney catastrophe. #mnemonic 
 		- NSAID: afferent

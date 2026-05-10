@@ -6,6 +6,7 @@ aliases:
   - guidance on obesity management
   - Weight loss
   - GLP-1 agonists
+  - BMI
 ---
 See [[lipids]] & [[diabetes treatment]]
 
@@ -36,3 +37,25 @@ Mainly act on the brain to reduce appetite / increase satiety.
 | Lixisenatide                                                                                   | GLP-1 receptor agonist (T2DM; mild weight loss effect)                                                                                                                                                                                                          | Lyxumia                                 |
 # Peripherally acting
 [[orlistat]] 
+
+---
+# Bariatric surgery
+NICE recommend that very obese patients (e.g. BMI 40-50 kg/m^2 etc) are referred early for bariatric surgery, particularly if they have other conditions that may be caused by it (e.g. type 2 diabetes mellitus, hypertension), rather than it being a 'last resort'.
+
+> NICE CKS: Offer adults a referral for a comprehensive assessment by specialist weight management services providing multidisciplinary obesity management to see whether bariatric surgery is suitable for them if: BMI > 50, or BMI >40, or b/w 35–40 kg/m2 with a significant health condition that could be improved if they lost weight (e.g. T2DM, HTN, or severe mobility problems).
+
+### Types of bariatric surgery #notAKT 
+##### Primarily restrictive operations  
+- laparoscopic-adjustable gastric banding (LAGB)
+    - it is normally the first-line intervention in patients with a BMI of 30-39kg/m^2
+    - produces less weight loss than malabsorptive or mixed procedures but has fewer complications
+- sleeve gastrectomy
+    - stomach is reduced to about 15% of its original size
+- intragastric balloon
+    - the balloon can be left in the stomach for a maximum of 6 months
+##### Primarily malabsorptive operations  
+- biliopancreatic diversion with duodenal switch
+    - usually reserved for very obese patients (e.g. BMI > 60 kg/m^2)
+##### Mixed operations  
+- Roux-en-Y gastric bypass surgery
+    - is both restrictive and malabsorptive in action

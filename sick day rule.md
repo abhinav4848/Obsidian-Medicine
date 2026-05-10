@@ -3,6 +3,7 @@ urls:
   - "[NICE NG28 Sick day rules](https://www.nice.org.uk/guidance/ng28/chapter/Person-centred-medicine#sick-day-rules)"
 aliases:
   - SADMANS Drugs
+  - dehydration
 ---
 # Adrenal insufficiency & Addison's Disease
 NICE recommends that for those ≤16y, we follow the sick day rules from [British Society of Paediatric Endocrinology and Diabetes (BSPED) Consensus Guidelines on Adrenal Insufficiency](https://www.bsped.org.uk/adrenal-insufficiency). We refer you there because the sites includes calculated doses based on patient weight and surface area.

@@ -14,11 +14,14 @@ urls:
 *See [[vaccine types]] & [[immunisation schedule (paeds)]]*. 
 
 # Adult routine vaccination
-- 65yo- Given PPV 23 or PCV20 if PPV23 stock is over 
-- \>65yo- Influenza each September 
-- Individuals turning 65 from 1 Sept each year (commencing 1 Sept 2023 onwards)- Shingles 
-- 70 to 79 years of age (and those severely immunosuppressed over 18 years of age)- Shingles 
-- 75yo- RSV 
+
+| Age criteria                                                                     | Vaccine given                                  |
+| -------------------------------------------------------------------------------- | ---------------------------------------------- |
+| 65yo                                                                             | Given PPV 23 (or PCV20 if PPV23 stock is over) |
+| \>65yo                                                                           | Influenza each September                       |
+| Turning 65 from 1 Sept each year (commencing 1 Sept 2023 onwards)                | Shingles                                       |
+| 70 to 79 years of age (and those severely immunosuppressed over 18 years of age) | Shingles                                       |
+| 75yo                                                                             | RSV                                            |
 # Pneumococcal Vaccine
 Usually a one-off but every 5 years if spleen/CKD. 
 ### Two types
