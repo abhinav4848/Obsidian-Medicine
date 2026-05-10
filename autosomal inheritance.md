@@ -19,8 +19,8 @@ Autosomal recessive conditions are 'metabolic' (*exceptions: inherited ataxias*)
 
 - Familial Mediterranean fever- gene for encoding pyrin are defective. Pyrin controls inflammation. 
 - Homocystinuria- cystathionine beta-synthase, an enzyme involved in methionine metabolism
-- Ataxia telangiectasia (Structural but AR)- ATM gene, which is involved in cell division and DNA repair.
-- Friedrich's ataxia (Structural but AR)- FXN gene, which codes for frataxin, a protein important for proper mitochondrial function. 
+- Ataxia telangiectasia (Structural but *AR*)- ATM gene, which is involved in cell division and DNA repair.
+- Friedrich's ataxia (Structural but *AR*)- FXN gene, which codes for frataxin, a protein important for proper mitochondrial function. 
 # Dominant
 Autosomal dominant conditions are 'structural' (*exceptions: Gilbert's, hyperlipidaemia type II*)
 - [[porphyria|Acute intermittent porphyria]]

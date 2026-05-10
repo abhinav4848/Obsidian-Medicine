@@ -3,17 +3,23 @@ tags:
   - genitourinary
 urls:
   - "[NICE Scrotal Pain & swelling](https://cks.nice.org.uk/topics/scrotal-pain-swelling/)"
+  - "[CKS- Varicocele](https://cks.nice.org.uk/topics/varicocele/)"
 aliases:
   - varicocele
   - epididymal cyst
   - hydrocele
   - inguinal hernia
   - testicular problems
+cssclasses:
+  - invert-image
+  - red-border
 ---
 See: [NICE CKS Scrotal swelling/Pain differentiating features](https://cks.nice.org.uk/topics/scrotal-pain-swelling/diagnosis/assessment/#differentiating-clinical-features) 
 # Varicocele 
+![[varicocele.jpg]]
 Varicocele is classical of a ‘bag of worms’ proximal to the testes. ([NICE](https://cks.nice.org.uk/topics/varicocele/)).
-90% occur on left side. 
+90% occur on ==left== side. (Right side is rare & should be referred to urologist ? renal cell carcinoma)
+Mostly painless & asymptomatic. 
 Comes on in adolescence due to increase in volume of testes & hence, blood flow to testes increases. 
 Examine in standing position & with valsalva manoeuvre -> assess if any testicular growth arrest has occurred. 
 - Adolescents with a varicocele should be referred to a urologist if there are concerns about reduced ipsilateral testicular volume or if the boy or parents/guardians are concerned by appearance or symptoms and cannot be fully reassured in primary care. 

@@ -31,7 +31,6 @@ Antipsychotics counter the effects of dopamine excess in [[delirium]], psychosis
 	- High risk of diabetes, dyslipidemia, obesity -> high risk of [[deep vein thrombosis|DVT]]
 	- O = big belly - causes weight gain > causes VTE. #mnemonic 
 	- Agranulocytosis
-	- [[monitoring bloods with drugs|Monitor]] FBC, U&E, LFT before starting & then annually thereafter. 
 - Greater lowering of [[seizure]] thresholds than typicals. 
 
 # Other Side effects (for both)
@@ -63,4 +62,11 @@ HAM side effects: Found in [[tricyclic antidepressants]] (TCA’s) and low poten
 
 VTE risk in elderly. i.e. Stroke/DVT. Olanzapine MCC.
 
-
+# Drug monitoring 
+[[monitoring bloods with drugs|Monitor]] 
+Antipsychotics monitoring (generally):  
+- **At start of therapy**: FBC, U+E, LFT, Lipids, Weight, CBG, Prolactin, BP, ECG  
+- **At 3 months**: Lipids, weight  
+- **At 6 months**: CBG, Prolactin  
+- **Annually**: FBC, U+E, LFT, Lipids, Weight, CBG, Prolactin, QRISK  
+- **Note**: *Clozapine requires more frequent monitoring of FBC (initially weekly)*
