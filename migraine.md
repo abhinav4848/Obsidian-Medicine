@@ -40,8 +40,9 @@ Give prophylaxis if significant impact on QoL. e.g. more than once a week attack
 	- s/e: 
 		- [[p450|Enzyme inducer]].
 		- Reduced appetite & weight loss
+		- Teratogenic
 		- dizziness, paresthesia, lethargy, poor concentration,
-		- **rare**: acute myopia & secondary [[glaucoma- acute angle closure|acute angle glaucoma]]. 
+		- **rare**: acute myopia & secondary [[glaucoma- acute angle closure|acute angle glaucoma]].
 - Amitriptyline
 - Acupuncture up to 10 sessions over 5-8 weeks. 
 - If predictable menstrual migraine -> Frovatriptan (2.5mg BD) or Zolmitriptan (2.5mg BD) as a type of mini prophylaxis. 

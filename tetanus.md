@@ -11,8 +11,9 @@ Due to [[clostridia|Clostridium]] tetani.
 - 2 months
 - 3 months
 - 4 months
-- 3-5 years
-- 13-18 years
+- 18 months
+- 3 years 4 months
+- final school-leaver booster dose is given between the ages of 14 and 18.
 
 # Classify the wound
 

@@ -65,3 +65,4 @@ All babies, including those born prematurely, should receive their first set of 
 
 # Other vaccines
 [[immunisation in adults]] #vaccine  for detailed discussion on influenza virus as well. 
+See [[tetanus]]. 
