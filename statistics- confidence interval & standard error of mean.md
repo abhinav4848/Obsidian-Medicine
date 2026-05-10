@@ -20,8 +20,10 @@ where
 ---
 ## How is the confidence interval calculated?
 The standard error of the mean (SEM) is a measure of the spread expected for the mean of the observations - i.e. how 'accurate' the calculated sample mean is from the true population mean  
-##### Key point
-- `SEM = SD / square root (n)`  *SD = standard deviation, n = sample size*
+##### Key point 
+- `SEM = SD / square root (n)` 
+- *SD = standard deviation, 
+- n = sample size*
 $$
 SEM = \frac{SD}{\sqrt{n}}
 $$

@@ -133,27 +133,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tetanus.md",
+                "file": "neck lumps.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "tetanus"
-            }
-          },
-          {
-            "id": "741297ea4436a777",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.gov.uk/government/publications/urinary-tract-infection-diagnosis/diagnosis-of-urinary-tract-infections-quick-reference-tools-for-primary-care#sending-urine-for-culture-and-interpreting-results-in-all-adults",
-                "title": "Diagnosis of urinary tract infections: quick reference tools for primary care - GOV.UK",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Diagnosis of urinary tract infections: quick reference tools for primary care - GOV.UK"
+              "title": "neck lumps"
             }
           }
         ],
@@ -235,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "tetanus.md",
+                "file": "neck lumps.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -263,7 +249,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of tetanus"
+              "title": "Graph of neck lumps"
             }
           }
         ]
@@ -375,7 +361,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tetanus.md",
+                "file": "neck lumps.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -385,7 +371,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for tetanus"
+              "title": "Backlinks for neck lumps"
             }
           }
         ]
@@ -407,8 +393,15 @@
   },
   "active": "126fb98c3c665ea6",
   "lastOpenFiles": [
-    "immunisation schedule (paeds).md",
+    "statistics- confidence interval & standard error of mean.md",
+    "neck lumps.md",
+    "actinic keratosis.md",
+    "attachments/actinic keratosis on ear.jpg",
+    "attachments/actinic keratoses on hand.jpg",
+    "chondrodermatitis nodularis helicis.md",
+    "different rashes in paeds.md",
     "tetanus.md",
+    "immunisation schedule (paeds).md",
     "migraine.md",
     "p450.md",
     "uti.md",
@@ -430,11 +423,6 @@
     "koebner's phenomenon.md",
     "immunisation in adults.md",
     "shingles.md",
-    "vaccine types.md",
-    "schizophrenia.md",
-    "weight.md",
-    "orlistat.md",
-    "ace inhibitors.md",
     "housekeeping/memorise.base",
     "attachments/ecg- hypo vs hyperkalemia.jpg",
     "attachments/prader willi.jpg",
@@ -445,10 +433,8 @@
     "attachments/menstrual cycle phases.jpg",
     "attachments/a flutter.jpg",
     "attachments/a flutter with variable block.jpg",
-    "attachments/monteggia vs galeazzi fracture.jpg",
     "flow charts/postpartum cocp for contraception.canvas",
     "desktop.ini",
-    "attachments/pseudofolliculitis barbae.jpg",
     "flow charts/prostaglandins and leukotrienes.canvas",
     "flow charts/haematuria.canvas",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
