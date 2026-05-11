@@ -5,6 +5,11 @@ aliases:
   - SSRIs
   - SSRI
   - Selective serotonin reuptake inhibitor
+  - serotonin
+  - paroxetine
+  - citalopram
+  - escitalopram
+  - fluoxetine
 ---
 Used in 
 - [[depression]]

@@ -1,7 +1,21 @@
 ---
 tags:
   - msk
+aliases:
+  - Painful arc syndrome
 ---
+**Tendinopathy**: degenerative
+**Tendinitis**: Inflammation
+# Rotator cuff muscles
+**SItS** - small t for teres minor   #mnemonic
+
+| **Muscle**        | **Notes**                                             |
+| ----------------- | ----------------------------------------------------- |
+| **S**upraspinatus | aBDucts arm before deltoid  <br>Most commonly injured |
+| **I**nfraspinatus | Rotates arm laterally                                 |
+| **t**eres minor   | aDDucts & rotates arm laterally                       |
+| **S**ubscapularis | aDDuct & rotates arm medially                         |
+# Anatomy
 Shoulder is not one joint but four: 
 - Two true joints: glenohumeral and acromioclavicular (AC)
 - Two pseudo-joints: subacromial space and scapulothoracic space
@@ -63,16 +77,21 @@ Mx = Refer to Ortho if had physio
 Bilateral morning stiffness: [[polymyalgia rheumatica]]
 
 Is the painful shoulder: 
-- Stiff :  OA/Frozen/Missed dislocation
-- Weak :  Rotater Cuff tendinopathy/ Tear
-- Unstable :  congenital/structural defect
+- Stiff: OA/Frozen/Missed dislocation
+- Weak: Rotator Cuff tendinopathy/ Tear
+- Unstable: congenital/structural defect
 Three simple criteria: Trauma, Age, Shoulder External Rotation
 
-Frozen shoulder is more likely in 35-65 & doesn't creak. It's rare after 70yo. Has 3 stages- Freezing, frozen, thawing. Each stage lasts 4-8 months and may not fully recover. Freezing stage can be very painful (night and day). 
+[[upper limb ortho problems|Frozen shoulder]] is more likely in 35-65 & doesn't creak. It's rare after 70yo. Has 3 stages- Freezing, frozen, thawing. Each stage lasts 4-8 months and may not fully recover. Freezing stage can be very painful (night and day) on all movements
 # Subacromial Impingement
-Commonly due to supraspinatus tendinopathy. 
-Classical sign: Painful arc 60-120d when inflamed tendon is pressing against acromium
+Commonly due to supraspinatus tendinopathy 
+**Classical sign**: Painful arc 60-120d when inflamed tendon is pressing against acromium
 Positive empty can’s test/Hawkin’s Kennedy. 
+
+> [!Question]+ Question
+> **Q**: A 55-year-old woman presents with a four week history of shoulder pain. There has been no obvious precipitating injury and no previous experience. The pain is worse on movement and there is a grating sensation if she moves the arm too quickly. She also gets pain at night, particularly when she lies on the affected shoulder. 
+> O/E There's no obvious erythema or swelling. Passive abduction is painful between between 60 and 120 degrees. She is unable to abduct the arm herself past 70-80 degrees. Flexion and extension are preserved.
+> **A**: Supraspinatus tendinitis
 
 # Shoulder Instability
 Sulcus sign, load and shift, jobe’s apprehension test. 

@@ -30,4 +30,4 @@ Ampicillin/amoxicillin leads to rash.
 # Investigation
 Paul Bunnel/Monospot/heterophile antibody test -> Do FBC & Monospot in 2nd week of illness to confirm diagnosis. #named 
 # Treatment
-analgesia + abundant fluid + avoid contact sports for 4 weeks. 
+analgesia + abundant fluid + avoid contact sports for 4 weeks (regardless of any confirmed organomegal)

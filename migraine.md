@@ -6,23 +6,30 @@ urls:
 ---
 Pulsating/throbbing unilateral [[headache]] lasting up to 72 hrs. 
 Migraine w/o aura is the MCC of primary headache in children.
-Can be one side.
+Can be one side. 
+### Aura
+Typical aura: Transient hemianopic disturbance or a spreading scintillating scotoma ('jagged crescent').
+Auras may occur with or without headache and:  
+- are fully reversible
+- develop over at least 5 minutes
+- last 5-60 minutes
 # Red Flag 🚩
 **Atypical Aura:** Investigate for TIA #red_flag 
-- \> 60 mins, motor weakness, double vision, visual symptoms affecting only one eye, or impaired balance 
+- \> 60 mins, motor weakness, double vision, visual symptoms affecting only one eye, or impaired balance. 
 - aura occurring for the first time in a person using [[COCP]]. 
 
 However, prolonged aura without infarction can occur in rare cases of 
 - familial hemiplegic migraine (FHM), or 
 - sporadic hemiplegic migraine (SHM), 
 but these are very specific subtypes of migraines with additional diagnostic criteria beyond just prolonged aura duration. 
-# Criteria for paediatric migraine w/o aura
+# Criteria for diagnosing migraine w/o aura
 
-| A   | >= 5 attacks fulfilling features B to D                                                                                                                                                                                    |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| B   | Headache attack lasting 4-72 hours                                                                                                                                                                                         |
-| C   | Headache has at least two of the following four features:  <br>- bilateral or unilateral (frontal/temporal) location<br>- pulsating quality<br>- moderate to severe intensity<br>- aggravated by routine physical activity |
-| D   | At least one of the following accompanies headache:  <br>- nausea and/or vomiting (GI disturbance common in paeds migraine)<br>- photophobia and phonophobia (may be inferred from behaviour)                              |
+| A   | >= 5 attacks fulfilling features B to D                                                                                                                                                                                                                                             |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| B   | Headache attack lasting 4-72 hours                                                                                                                                                                                                                                                  |
+| C   | Headache has at least two of the following four features:  <br>- unilateral (frontal/temporal) location<br>- pulsating quality (i.e., varying with the heartbeat)<br>- moderate to severe intensity<br>- aggravated by routine physical activity (e.g., walking or climbing stairs) |
+| D   | At least one of the following accompanies headache:  <br>- nausea and/or vomiting<br>- photophobia and phonophobia (may be inferred from behaviour)                                                                                                                                 |
+*In children, attacks may be shorter-lasting, headache is more commonly bilateral, and gastrointestinal disturbance is more prominent.*
 
 ---
 # Treatment in Adults
