@@ -66,12 +66,13 @@ Flares managed with **steroids** (oral or IM)
 - [[Leflunomide]]: Liver impairment, Interstitial lung disease (interstitial pnuemonitis), Hypertension 
 ### Biologics
 - *All Biologics risk TB, or activating latent TB.* 
-- *Patients on biologics need [[monitoring bloods with drugs|blood monitoring]]: initial FBC U&E, LFT 3-4months after starting therapy, then every 6 months once stable (unless clinically indicated.)*
+- *Patients on biologics need [[monitoring bloods with drugs|blood monitoring]]: initial FBC U&E, LFT 3-4 months after starting therapy, then every 6 months once stable (unless clinically indicated.)*
+- *all biologicals need to be on hold during infective illness*
 ##### TNF-alpha antagonists
 *If no response to at least 2 DMARDs -> TNF inhibitors:* 
 - **Etanercept**: Can cause demyelination, TB
-- **Infliximab**: TB
-- Adalimumab
+- **Infliximab**: TB 
+- Adalimumab 
 
 If develop an infection while on these drugs, stop them while infection is cleared. RA doubles risk of infection. Mainly Chest infection & Sepsis. 
 ##### Other classes
