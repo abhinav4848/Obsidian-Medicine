@@ -133,13 +133,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neck lumps.md",
+                "file": "migraine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "neck lumps"
+              "title": "migraine"
             }
           }
         ],
@@ -221,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "neck lumps.md",
+                "file": "migraine.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -249,7 +249,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of neck lumps"
+              "title": "Graph of migraine"
             }
           }
         ]
@@ -361,7 +361,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neck lumps.md",
+                "file": "migraine.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -371,7 +371,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for neck lumps"
+              "title": "Backlinks for migraine"
             }
           }
         ]
@@ -393,8 +393,9 @@
   },
   "active": "126fb98c3c665ea6",
   "lastOpenFiles": [
-    "statistics- confidence interval & standard error of mean.md",
+    "cancer- cervical.md",
     "neck lumps.md",
+    "statistics- confidence interval & standard error of mean.md",
     "actinic keratosis.md",
     "attachments/actinic keratosis on ear.jpg",
     "attachments/actinic keratoses on hand.jpg",
@@ -422,7 +423,6 @@
     "erythema multiforme.md",
     "koebner's phenomenon.md",
     "immunisation in adults.md",
-    "shingles.md",
     "housekeeping/memorise.base",
     "attachments/ecg- hypo vs hyperkalemia.jpg",
     "attachments/prader willi.jpg",

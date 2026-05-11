@@ -42,8 +42,8 @@ Can't return to normal recall if:
 - follow-up for borderline changes in endocervical cells
 ### Positive hrHPV
 - samples are examined cytologically
-- if the cytology is abnormal → colposcopy
-    - this includes the following results:
+- if the cytology is abnormal → colposcopy 
+    - Cytology includes the following results:
 	    - borderline changes in squamous or endocervical cells.
 	    - low-grade dyskaryosis.
 	    - high-grade dyskaryosis (moderate).
@@ -63,4 +63,4 @@ If the sample is 'inadequate'
 Gardasil (See [[human papilloma virus|HPV]]). 
 
 # Treatment of CIN
-Large loop excision of transformation zone (LLETZ) is the most common treatment for cervical intraepithelial neoplasia. LLETZ may sometimes be done during the initial colposcopy visit or at a later date depending on the individual clinic. Alternative techniques include cryotherapy. 
+Done by Colposcopy -> Large loop excision of transformation zone (LLETZ) is the most common treatment for cervical intraepithelial neoplasia. LLETZ may sometimes be done during the initial colposcopy visit or at a later date depending on the individual clinic. Alternative techniques include cryotherapy. 

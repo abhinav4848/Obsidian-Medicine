@@ -22,7 +22,7 @@ but these are very specific subtypes of migraines with additional diagnostic cri
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | B   | Headache attack lasting 4-72 hours                                                                                                                                                                                         |
 | C   | Headache has at least two of the following four features:  <br>- bilateral or unilateral (frontal/temporal) location<br>- pulsating quality<br>- moderate to severe intensity<br>- aggravated by routine physical activity |
-| D   | At least one of the following accompanies headache:  <br>- nausea and/or vomiting<br>- photophobia and phonophobia (may be inferred from behaviour)                                                                        |
+| D   | At least one of the following accompanies headache:  <br>- nausea and/or vomiting (GI disturbance common in paeds migraine)<br>- photophobia and phonophobia (may be inferred from behaviour)                              |
 
 ---
 # Treatment in Adults
