@@ -14,7 +14,7 @@ Aka Mono/glandular fever -> Seen in adolescents.
 	In [[tonsillitis]] -> Only anterior chain of LN affected
 	In EBV-> Both anterior & posterior chain of LN affected.
 Hepatosplenomegaly, Jaundice -> Anaemia.
-	Transient rise in ALT. 
+	Hepatitis, Transient rise in ALT. 
 	Jaundice in mono is because of hemolysis secondary to cold agglutinins (IgM).
 	Thus Anaemia is common also.
 Palatal petechiae 
@@ -30,4 +30,6 @@ Ampicillin/amoxicillin leads to rash.
 # Investigation
 Paul Bunnel/Monospot/heterophile antibody test -> Do FBC & Monospot in 2nd week of illness to confirm diagnosis. #named 
 # Treatment
-analgesia + abundant fluid + avoid contact sports for 4 weeks (regardless of any confirmed organomegal)
+Analgesia + abundant fluids + avoid contact sports for 4 weeks (regardless of any confirmed organomegaly as clinical examination not sensitive enough). No heavy lifting either. 
+
+**Note**: Taking amoxicillin/ampicillin at this time will cause maculopapular, pruritic rash.

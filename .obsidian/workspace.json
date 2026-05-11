@@ -133,13 +133,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "epstein barr virus.md",
+                "file": "minor surgery.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "epstein barr virus"
+              "title": "minor surgery"
             }
           }
         ],
@@ -221,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "epstein barr virus.md",
+                "file": "minor surgery.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -249,7 +249,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of epstein barr virus"
+              "title": "Graph of minor surgery"
             }
           }
         ]
@@ -361,7 +361,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "epstein barr virus.md",
+                "file": "minor surgery.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -371,7 +371,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for epstein barr virus"
+              "title": "Backlinks for minor surgery"
             }
           }
         ]
@@ -393,6 +393,10 @@
   },
   "active": "126fb98c3c665ea6",
   "lastOpenFiles": [
+    "uti.md",
+    "folliculitis.md",
+    "tinea corporis.md",
+    "epstein barr virus.md",
     "ssri.md",
     "vascular ulcers.md",
     "nhs referral pathways.md",
@@ -412,7 +416,6 @@
     "tetanus.md",
     "immunisation schedule (paeds).md",
     "p450.md",
-    "uti.md",
     "tuberculosis.md",
     "otitis.md",
     "calcium.md",
@@ -420,9 +423,6 @@
     "attachments/acute otitis media.jpg",
     "attachments/varicocele.jpg",
     "extrapyramidal side-effects.md",
-    "antipsychotic drugs.md",
-    "monitoring bloods with drugs.md",
-    "autosomal inheritance.md",
     "housekeeping/memorise.base",
     "attachments/ecg- hypo vs hyperkalemia.jpg",
     "attachments/prader willi.jpg",

@@ -59,7 +59,7 @@ Pregnant female: 7 days (for symptomatic or asymptomatic bacteriuria)
 	- *can give amoxicillin or cefalexin*
 - **Asymptomatic bacteriuria** is treated because there's high risk of progression to acute [[pyelonephritis]], LBW babies, & premature delivery. 
 - A further test-for-cure MSU should be sent after treatment. 
-- women who suffer regular UTIs following sexual intercourse can be offered *post-coital antibiotic prophylaxis*- single dose trimethoprim or nitrofurantoin are used first-line. 
+- women who suffer regular UTIs following sexual intercourse can be offered *post-coital antibiotic prophylaxis*- ==single== dose trimethoprim or nitrofurantoin are used first-line post-coitally. 
 
 ## Catheterised
 - do not treat asymptomatic bacteria in catheterised patients. 
