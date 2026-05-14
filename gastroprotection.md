@@ -3,8 +3,8 @@ tags:
   - gastro
   - pharmacology
 urls:
-  - https://www.nice.org.uk/guidance/qs112/chapter/Quality-statement-4-Alginate-therapy
   - https://www.nice.org.uk/guidance/ng1/chapter/Recommendations
+  - "[NICE QS4: Alginate therapy- GOR in children & young people](https://www.nice.org.uk/guidance/qs112/chapter/Quality-statement-4-Alginate-therapy)"
 aliases:
   - Gaviscon
 ---
