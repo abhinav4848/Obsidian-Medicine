@@ -6,7 +6,7 @@ aliases:
 ---
 See [[lower limb ortho problems]] 
 
-Talipes equinovarus, or club foot, describes an inverted (inward turning) and plantar flexed foot. It is usually diagnosed on the newborn exam.  
+Talipes equinovarus, or club foot, describes an inverted (inward turning) and plantar flexed foot. It is usually diagnosed on the [[newborn Infant physical examination|newborn exam]]. 
   
 Talipes equinovarus is twice as common in males than females and has an incidence of 1 per 1,000 births. Around 50% of cases are bilateral.  
   
@@ -18,8 +18,7 @@ Most commonly idiopathic. Associations include:
 - arthrogryposis
   
 The diagnosis is clinical (the deformity is not passively correctable) and imaging is not normally needed.  
-  
-Management*  
+# Management*  
 - in recent years there has been a move away from surgical intervention to more conservative methods such as the Ponseti method
 - the Ponseti method consists of manipulation and progressive casting which starts soon after birth. The deformity is usually corrected after 6-10 weeks. An Achilles tenotomy is required in around 85% of cases but this can usually be done under local anaesthetic
 - night-time braces should be applied until the child is aged 4 years. The relapse rate is 15%
