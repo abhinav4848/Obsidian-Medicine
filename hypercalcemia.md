@@ -15,7 +15,7 @@ Normal Calcium: (Normal: 2.1 - 2.6mmol/L)
 - [[cancer- lung|Squamous cell carcinoma Lung]]. 
 - Multiple myeloma ([[biochemical differences in different ortho conditions|ALP is normal]]) 
 - Granuloma: [[Sarcoidosis]]/[[tuberculosis|TB]]/Histoplasmosis -> Sarcoidosis check serum ACE. 
-- Vit D intoxication, acromegaly, Thyrotoxicosis, [[Thiazides]], Ca containing antacids, Dehydration, Addison's, Paget's disease of bone
+- Vit D intoxication, acromegaly, Thyrotoxicosis, [[Thiazides]], Ca containing antacids, Dehydration, Addison's, [[paget's disease of bone]] 
 # Signs
 First sign is drowsiness & increased thirst -> **Excessive thirst** presents with **hypercalcemia** first. Not hyponatremia.
 

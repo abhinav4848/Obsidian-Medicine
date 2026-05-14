@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "talipes equinovarus.md",
+                "file": "hyperparathyroidism.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "talipes equinovarus"
+              "title": "hyperparathyroidism"
             }
           }
         ]
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "talipes equinovarus.md",
+                "file": "hyperparathyroidism.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -128,7 +128,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of talipes equinovarus"
+              "title": "Graph of hyperparathyroidism"
             }
           }
         ]
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "talipes equinovarus.md",
+                "file": "hyperparathyroidism.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for talipes equinovarus"
+              "title": "Backlinks for hyperparathyroidism"
             }
           }
         ]
@@ -272,6 +272,12 @@
   },
   "active": "7fc7ecc2c6c917cc",
   "lastOpenFiles": [
+    "hypercalcemia.md",
+    "paget's disease of bone.md",
+    "cancers metastasizing to the bone.md",
+    "drugs contraindicated in pregnancy.md",
+    "breastfeeding.md",
+    "talipes equinovarus.md",
     "childhood syndromes.md",
     "dvla.md",
     "fitness to fly.md",
@@ -281,7 +287,6 @@
     "sick day rule.md",
     "lower limb ortho problems.md",
     "normal lower limb variants in children.md",
-    "talipes equinovarus.md",
     "metabolic syndrome.md",
     "anterior ischaemic optic neuropathy.md",
     "lipids.md",
@@ -294,11 +299,6 @@
     "5-ht receptors (serotonin receptors).md",
     "cancer- breast (treatment).md",
     "forms & benefits.md",
-    "headache.md",
-    "roseola infantum.md",
-    "gastroprotection.md",
-    "immunisation in adults.md",
-    "shingles.md",
     "attachments/actinic keratosis on ear.jpg",
     "attachments/actinic keratoses on hand.jpg",
     "attachments/acute otitis media.jpg",

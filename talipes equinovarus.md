@@ -18,7 +18,7 @@ Most commonly idiopathic. Associations include:
 - arthrogryposis
   
 The diagnosis is clinical (the deformity is not passively correctable) and imaging is not normally needed.  
-# Management*  
+# Management 
 - in recent years there has been a move away from surgical intervention to more conservative methods such as the Ponseti method
 - the Ponseti method consists of manipulation and progressive casting which starts soon after birth. The deformity is usually corrected after 6-10 weeks. An Achilles tenotomy is required in around 85% of cases but this can usually be done under local anaesthetic
 - night-time braces should be applied until the child is aged 4 years. The relapse rate is 15%
