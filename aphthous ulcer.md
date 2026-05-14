@@ -31,12 +31,14 @@ Precipitating factors include:
 # When to investigate
 Investigations are generally unnecessary. 
 Investigations should be considered (e.g. FBC, ESR, [[anaemia|ferritin]], folate and vitamin B12) if an underlying systemic disease is suspected based on history and examination findings. 
+### DDx
+The main differential would be recurrent herpes infection which tends to present as a small crop of pinhead-sized ulcers that re-occur at the same site within the mouth, often on keratinized, particularly palatal, oral mucosa. Oral and topical aciclovir can be prescribed for recurrent herpes.
 # Management
 Avoidance of precipitating factors. 
 Symptomatic treatment for pain, discomfort, and swelling
 - Baseline treatment - Simple mouthwashes and antiseptic mouthwashes
-- First-line treatment - short course of a low potency topical corticosteroid (hydrocortisone lozenges)
+- First-line treatment - short course of a low potency topical corticosteroid (hydrocortisone lozenges / oro-mucosal tablets)
 - Second-line treatment - Topical anaesthetics, topical analgesics/anti-inflammatory agents, antibiotic rinses and oral vitamin B12
 - Further treatment - Systemic steroids and low threshold for referral for specialist input (Unlike recurrent aphthous stomatitis, Behçet syndrome is **not self‐limiting**.)
 
-==People with a mouth ulcer that persists for more than 3 weeks should be referred urgently to a specialist.== #important 
+🚩==People with a mouth ulcer that persists for more than 3 weeks should be referred urgently to a specialist.== #important 

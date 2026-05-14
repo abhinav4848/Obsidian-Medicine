@@ -16,11 +16,15 @@ urls:
 | - Sickle-cell anaemia<br>- GP6D deficiency<br>- Hereditary spherocytosis<br>- Haemodialysis<br>- thalassemia<br>- haemolytic anaemia | - Vitamin B12/[[folic acid]] deficiency<br>--> cells live longer as they are premature<br>- Iron-deficiency anaemia (untreated)<br>- Splenectomy -> cells die later. |
 Also don't use HbA1c in:  
 - **Pregnancy**: increased red cell turnover (shorter lifespan), dilutional, increased erythropoiesis (falsely low HbA1c), Suspected GDM
-- **Children**: Higher red cell turnover than adults so number would be lower. 
+- **Children & Young people**: Higher red cell turnover than adults so number would be lower. 
 - **DM1**: HbA1c is unreliable for patients with possible suspected diagnosis of T1DM as it may not accurately reflect a recent rapid rise in serum glucose.
 - **CKD**: shorter RBC lifespan due to uraemia, EPO use, haemolysis. 
 - HIV
-- People on meds that cause hyperglycaemia (steroids) 
+- People on meds that cause hyperglycaemia (steroids, antipsychotics) 
+- Symptoms suggestive for diabetes for < 2 months
+- High risk & acutely ill patients
+- Acute pancreatic damage
+- Patients with 'genetic, haematologic and illness-related factors that influence HbA1c'
 
 See: [NICE HbA1c interpretation](https://cks.nice.org.uk/topics/diabetes-type-2/diagnosis/diagnosis-in-adults/#interpreting-hba1c-results) 
 # Conversion chart

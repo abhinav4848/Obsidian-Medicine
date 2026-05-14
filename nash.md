@@ -6,6 +6,8 @@ aliases:
   - Non-Alcoholic Steatohepatosis
   - nafld
   - non-alcoholic fatty liver disease
+  - MASLD
+  - metabolic dysfunction-associated steatotic liver disease
 urls:
   - "[NICE NAFLD](https://cks.nice.org.uk/topics/non-alcoholic-fatty-liver-disease-nafld/background-information/risk-factors/)"
 ---
@@ -26,7 +28,7 @@ By far the most likely diagnosis in an obese type-2 diabetic is NASH. This patie
   
 A normal ferritin makes a diagnosis of [[haemochromatosis]] unlikely, although it should always be considered in patients with both abnormal LFTs and diabetes.
 # Investigation
-Don't screen for NASH, even in 'at risk' population. If incidentally seen on USS to have fatty liver, do Enhanced Liver Fibrosis (ELF).
+Don't screen for NASH, even in 'at risk' population. If incidentally seen on USS to have fatty liver, do Enhanced Liver Fibrosis (ELF)- Fibroscan.
 - **Investigation of choice**: Enhanced Liver Fibrosis (ELF) Blood test (like a triple test of [[down's syndrome]]). 
 	- Hyaluronic acid + procollagen III + tissue inhibitor of metalloproteinase 1. An algorithm based on these values results in an ELF blood test score,
 - Assess severity of fibrosis with FIB4 & NALFD fibrosis score + Fibroscan elastography
