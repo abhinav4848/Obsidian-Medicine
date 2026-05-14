@@ -24,9 +24,10 @@ Antipsychotics counter the effects of dopamine excess in [[delirium]], psychosis
 # Atypical Antipsychotics
 **Mechanism**: Many different receptors.  
 **Examples**: Clozapine, Olanzapine, Risperidone, Quetiapine, Aripiprazole
+- Clozapine is 3rd line antipsychotic due to its s/e but 1st line in Parkinson's patients. 
 **Side Effects**: 
 - EPS less common than typicals
-- **Clozapine**: agranulocytosis, neutropenia, [[platelets|thrombocytopenia]]
+- **Clozapine**: agranulocytosis, neutropenia, [[platelets|thrombocytopenia]], hypersalivation, reduced seizure threshold, myocarditis
 - **Olanzapine**: 
 	- High risk of diabetes, dyslipidemia, obesity -> high risk of [[deep vein thrombosis|DVT]]
 	- O = big belly - causes weight gain > causes VTE. #mnemonic 
