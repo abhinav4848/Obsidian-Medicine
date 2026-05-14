@@ -65,7 +65,7 @@ PIP is tax-free, not means tested and divided into two components:
 	- Standard rate- can walk 20-25 meters. 
 	- Enhanced rate- walk < 20meters. You can then exchange part of this allowance to get a car, called Motability. 
 
-Means testing means your eligibility depends on your income & savings. But PIP is not means tested. So you could still work and be entitled to PIP because based only on your disability and how it affects daily life. 
+Means testing means your eligibility depends on your income & savings. But PIP is not means tested. So you could still work and be entitled to PIP because it's based only on your disability and how it affects daily life. 
 #### Attendance Allowance
 Attendance Allowance (AA) is a tax-free allowance for people aged >= 65 when they claim who need help with their personal care. To claim AA, patients should normally have needed help with care for 6 months. Like DLA, it is not means tested.  
 #### Terminally ill patients
