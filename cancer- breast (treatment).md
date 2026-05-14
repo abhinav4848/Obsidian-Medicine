@@ -23,9 +23,8 @@ Suspicious breast lump: FNAC -> Core biopsy.
 
 # Treatment
 ## Hormonal
-- Only done for ER+ tumours.
-- [[cancer- drugs involved in gynae cancers|Tamoxifen]] for pre and peri menopausal women up-to 5 years.
-- Aromatase inhibitor (Letrozole, Anastrozole) in post-menopausal, as this is how most E is formed post-menopausally. 
+Only done for ER+ tumours. 
+![[cancer- drugs involved in gynae cancers#Age & choice of drug embedded]]
 ## Biological
 - Must be HER2+ve.
 - Trastuzumab (Herceptin) -> but can't use if h/o heart disorders.
@@ -33,7 +32,6 @@ Suspicious breast lump: FNAC -> Core biopsy.
 - If no palpable axillary LN -> USS of LN -> If this also negative -> Sentinel node biopsy.
 - If palpable LN -> LN clearance at primary surgery. 
 - Depending on the characteristic of tumour, either Wide Local Excision (e.g. DCIS <4cm) or Mastectomy is done.
-
 ## Radiotherapy
 - If WLE -> Whole breast radiotherapy
 - If mastectomy -> radiotherapy for T3, T4 tumours & >=4 +ve axillary LN.
