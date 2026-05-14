@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "immunisation in adults.md",
+                "file": "gastroprotection.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "immunisation in adults"
+              "title": "gastroprotection"
             }
           }
         ],
@@ -205,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "immunisation in adults.md",
+                "file": "gastroprotection.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -233,7 +233,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of immunisation in adults"
+              "title": "Graph of gastroprotection"
             }
           }
         ]
@@ -345,7 +345,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "immunisation in adults.md",
+                "file": "gastroprotection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +355,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for immunisation in adults"
+              "title": "Backlinks for gastroprotection"
             }
           }
         ]
@@ -377,6 +377,7 @@
   },
   "active": "0a2bce15f2948b2f",
   "lastOpenFiles": [
+    "immunisation in adults.md",
     "shingles.md",
     "diabetes drugs.md",
     "diabetes treatment.md",
@@ -402,7 +403,6 @@
     "cocp.md",
     "cancer- cervical.md",
     "neck lumps.md",
-    "statistics- confidence interval & standard error of mean.md",
     "attachments/actinic keratosis on ear.jpg",
     "attachments/actinic keratoses on hand.jpg",
     "attachments/acute otitis media.jpg",
