@@ -88,13 +88,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "puberty.md",
+                "file": "erectile dysfunction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "puberty"
+              "title": "erectile dysfunction"
+            }
+          },
+          {
+            "id": "575ec4e356c1dfa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lower limb ortho problems.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "lower limb ortho problems"
             }
           },
           {
@@ -111,24 +126,9 @@
               "icon": "lucide-file",
               "title": "sick day rule"
             }
-          },
-          {
-            "id": "0a2bce15f2948b2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "erectile dysfunction.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "erectile dysfunction"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anastrozole",
+                "query": "non-arteritic anterior ischaemic neuropathy",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -192,7 +192,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -205,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "erectile dysfunction.md",
+                "file": "lower limb ortho problems.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -233,7 +234,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of erectile dysfunction"
+              "title": "Graph of lower limb ortho problems"
             }
           }
         ]
@@ -345,7 +346,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "erectile dysfunction.md",
+                "file": "lower limb ortho problems.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +356,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for erectile dysfunction"
+              "title": "Backlinks for lower limb ortho problems"
             }
           }
         ]
@@ -375,8 +376,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "0a2bce15f2948b2f",
+  "active": "575ec4e356c1dfa5",
   "lastOpenFiles": [
+    "normal lower limb variants in children.md",
+    "lower limb ortho problems.md",
+    "talipes equinovarus.md",
+    "metabolic syndrome.md",
+    "erectile dysfunction.md",
+    "anterior ischaemic optic neuropathy.md",
+    "lipids.md",
+    "newborn Infant physical examination.md",
+    "puberty.md",
+    "sick day rule.md",
+    "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "cancer- prostate.md",
     "periorificial dermatitis.md",
     "cancer- drugs involved in gynae cancers.md",
@@ -393,16 +405,6 @@
     "rheumatoid arthritis.md",
     "methotrexate.md",
     "antenatal care.md",
-    "psoriatic arthritis.md",
-    "seronegative spondyloarthropathy.md",
-    "minor surgery.md",
-    "platelets.md",
-    "uti.md",
-    "folliculitis.md",
-    "tinea corporis.md",
-    "epstein barr virus.md",
-    "ssri.md",
-    "vascular ulcers.md",
     "attachments/actinic keratosis on ear.jpg",
     "attachments/actinic keratoses on hand.jpg",
     "attachments/acute otitis media.jpg",
@@ -431,7 +433,6 @@
     "flow charts/deep vein thrombosis.canvas",
     "video scripts",
     "alex",
-    "Untitled.base",
     "flow charts/shoulder exam.canvas"
   ]
 }

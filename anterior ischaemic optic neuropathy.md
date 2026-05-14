@@ -4,6 +4,7 @@ tags:
 aliases:
   - Anterior Ischemic Optic neuropathy
   - Anterior Ischemic neuropathy
+  - non-arteritic anterior ischaemic neuropathy
 ---
 ischaemia of the optic nerve. Can be
 - arteritic or 

@@ -28,6 +28,7 @@ aliases:
 
 *See [[upper limb ortho problems]].* 
 *See: [[limping child]]* 
+*See: [[normal lower limb variants in children]]* 
 
 ---
 # Hip
@@ -95,3 +96,4 @@ See other foot conditions: [[foot problems]]
 | **Achilles Tendonitis**         | **Aetiology**: overuse injury due to inappropriate overloading of the tendon leading to tendon inflammation -> There is little to no inflammatory process. It is a degenerative process.<br><br>**C/F**: <br>Pain and stiffness in the morning<br><br>**Cause**: <br>Quinolone ([[Ciprofloxacin]])<br><br>**Rx**<br>Rest, NSAIDs, and physio if symptoms persist beyond 7 days.                               |
 | **Common peroneal nerve palsy** | Weakness of foot dorsiflexion and eversion.<br><br>Weakness of extensor hallucis longus<br><br>Sensory loss over the dorsum of the foot and the lower lateral part of the leg<br><br>L5 nerve root will cause foot drop but not weakness of foot eversion.                                                                                                                                                    |
 | **Foot Fractures**              | Bones #mnemonic<br>“Talus Covers Navicular, Navicular Covers Cuneiforms” [Link](https://www.ezmedlearning.com/blog/tarsal-bone-anatomy-mnemonic)<br>- Talus = Talus<br>- Covers = Calcaneus<br>- Navicular = Navicular<br>- Covers = Cuboid<br>- Cuneiforms = Cuneiforms<br><br>**In vertical fall**: Calcaneus (usually accompanied by spinal #)<br><br>**In Stress #**: Metatarsals > Navicular & calcaneus |
+| [[talipes equinovarus]]         |                                                                                                                                                                                                                                                                                                                                                                                                               |

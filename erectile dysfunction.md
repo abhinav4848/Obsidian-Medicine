@@ -20,7 +20,7 @@ Free testosterone should also be measured in the morning between 9 and 11am.
 - If free testosterone is low / borderline -> Repeat Testosterone + add FSH, LH, Prolactin levels.
 - If any of these are abnormal refer to endocrinology for further assessment.  
 # Management
-PDE-5 inhibitors (such as [[sildenafil]], 'Viagra')
+PDE-5 inhibitors (such as [[sildenafil]], 'Viagra', Tadalafil, 'Cialis', Vardenafil, 'Levitra')
 - they should be prescribed (in the absence of contraindications) to all patients regardless of aetiology
 - sildenafil can be purchased over-the-counter without a prescription.
   
@@ -28,6 +28,19 @@ Vacuum erection devices are recommended as first-line treatment in those who ca
 #### Other points
 - for a young man who has always had difficulty achieving an erection, referral to urology is appropriate
 - people with ED who cycle for more than three hours per week should be advised to stop (Long periods on a bicycle saddle can compress structures in the perineum (especially Pudendal nerve & Penile blood vessels). This can lead to: Numbness (“cyclist’s syndrome”), Reduced blood flow, Potential contribution to ED over time
+#### Side-effects  
+- visual disturbances
+    - [[colour & vision changes in body|blue discolouration]]
+    - [[anterior ischaemic optic neuropathy|non-arteritic anterior ischaemic neuropathy]]
+- nasal congestion
+- flushing
+- gastrointestinal side-effects
+- headache
+- priapism
+#### Contraindications
+- patients taking nitrates and related drugs such as nicorandil
+- hypotension- avoiding alpha-blockers for 4 hours after sildenafil
+- recent stroke or myocardial infarction (NICE recommend waiting 6 months)
 # How to treat in GP Setting
 *See: [[erectile dysfunction- management guidelines in primary care for adults.pdf|PDF]]*
 Something extra I learned from endocrine consultant who gets referrals after primary care has tried sildenafil & tadalafil:
