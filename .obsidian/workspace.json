@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cancer- drugs involved in gynae cancers.md",
+                "file": "erectile dysfunction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cancer- drugs involved in gynae cancers"
+              "title": "erectile dysfunction"
             }
           }
         ],
@@ -192,8 +192,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -206,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cancer- drugs involved in gynae cancers.md",
+                "file": "erectile dysfunction.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,7 +233,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cancer- drugs involved in gynae cancers"
+              "title": "Graph of erectile dysfunction"
             }
           }
         ]
@@ -346,7 +345,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cancer- drugs involved in gynae cancers.md",
+                "file": "erectile dysfunction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +355,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cancer- drugs involved in gynae cancers"
+              "title": "Backlinks for erectile dysfunction"
             }
           }
         ]
@@ -378,8 +377,10 @@
   },
   "active": "0a2bce15f2948b2f",
   "lastOpenFiles": [
-    "5-ht receptors (serotonin receptors).md",
+    "cancer- prostate.md",
+    "periorificial dermatitis.md",
     "cancer- drugs involved in gynae cancers.md",
+    "5-ht receptors (serotonin receptors).md",
     "cancer- breast (treatment).md",
     "forms & benefits.md",
     "headache.md",
@@ -389,7 +390,6 @@
     "shingles.md",
     "diabetes drugs.md",
     "diabetes treatment.md",
-    "-periorificial dermatitis.md",
     "rheumatoid arthritis.md",
     "methotrexate.md",
     "antenatal care.md",
@@ -403,7 +403,6 @@
     "epstein barr virus.md",
     "ssri.md",
     "vascular ulcers.md",
-    "nhs referral pathways.md",
     "attachments/actinic keratosis on ear.jpg",
     "attachments/actinic keratoses on hand.jpg",
     "attachments/acute otitis media.jpg",

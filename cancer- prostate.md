@@ -26,14 +26,19 @@ But if not confirmed, then they do trans-perineal biopsy
 - Consider a prostate-specific antigen (PSA) test and digital rectal examination to assess for prostate cancer in men with:
     - Any lower urinary tract symptoms, such as nocturia, urinary frequency, hesitancy, urgency or retention, or
     - Erectile dysfunction, or
-    - Visible haematuria.
+    - Visible haematuria. 
 - **Refer men using a suspected cancer pathway referral (for an appointment within 2 weeks) for prostate cancer if their PSA levels are above the age-specific reference range.**
-# Complication
-[[cancers metastasizing to the bone|Bone mets]]. 
-# Treatment
+# Complication 
+[[cancers metastasizing to the bone|Bone mets]] 
+## Prognosis
+The Gleason score is used to predict prognosis in patients with prostatic cancer. The grading system is based on the glandular architecture seen on histology following hollow needle biopsy  
+  
+The most prevalent and the second most prevalent pattern seen are added to obtain a Gleason score. The Gleason grade ranges from 1 to 5 meaning the Gleason score ranges from 2 to 10 (i.e. two values added). 
+  
+The higher the Gleason score the worse the prognosis
+# Treatment 
 GnRH analogue (e.g. Leuprolide, Goserelin): Used in continuous manner to work as antagonist. 
-Radical external beam radiotherapy- *small increased risk of colorectal and bladder cancer after this.*
-- *Men who develop radiation-induced enteropathy should have a flexible sigmoidoscopy to establish the cause of their symptoms.*
-
+Radical external beam radiotherapy- *small increased risk of colorectal and bladder cancer after this.* 
+- *Men who develop radiation-induced enteropathy should have a flexible sigmoidoscopy to establish the cause of their symptoms.* 
 ## Side effect
 Can cause [[gynaecomastia]], loss of libido, erectile dysfunction. 
