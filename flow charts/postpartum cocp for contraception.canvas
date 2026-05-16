@@ -8,7 +8,7 @@
 		{"id":"264df34b51457aa4","type":"text","text":"0-3 weeks\n- UKMEC 4: VTE risk","x":-363,"y":261,"width":250,"height":119},
 		{"id":"3110af9e248f40a9","type":"text","text":"After delivery, check breastfeeding","x":-238,"y":40,"width":297,"height":60,"color":"6"},
 		{"id":"db81ffe2393c0576","type":"text","text":"If still breastfeeding after 6 weeks to 6 months\n- Decreases milk production: UKMEC 2","x":-368,"y":580,"width":261,"height":148},
-		{"id":"e62b07059a837e9d","x":-83,"y":580,"width":285,"height":100,"type":"text","text":"6w-6 months\n- UKMEC 1"}
+		{"id":"e62b07059a837e9d","type":"text","text":"6w-6 months\n- UKMEC 1","x":-83,"y":580,"width":285,"height":100}
 	],
 	"edges":[
 		{"id":"cbef5af2bb50f6c1","fromNode":"3110af9e248f40a9","fromSide":"bottom","toNode":"fff69e4975058b8e","toSide":"top","color":"4"},

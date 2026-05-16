@@ -10,6 +10,7 @@ aliases:
   - ITP
   - Henoch-Schonlein purpura
   - IgA vasculitis
+  - HSP & ITP
 urls:
   - "[NHS patients HSP](https://www.nhs.uk/conditions/henoch-schonlein-purpura-hsp/)"
 ---
@@ -37,6 +38,7 @@ Supportive until there's renal involvement. E.g: Aspirin for arthralgia. Don’t
 Autoantibodies to platelets. 
 
 Same features as HSP but just [[platelets|low platelets]] (menorrhagia, epistaxis, etc.). 
-Also, purpura not palpable. 
+Mucocutaneous bleed (purpura, petechiae)
+-  Purpura not palpable. 
 ### Rx
 none if platelet > 50 > Prednisolone > IvIg

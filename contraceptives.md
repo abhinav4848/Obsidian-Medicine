@@ -33,7 +33,7 @@ Less effective over 90 kgs.
 - Depots- Perfect use (0.2% conceive in first year), typical use (6% conceive in first year). MoA: Both. 
 - IUS- Prevents endometrial proliferation, thickens mucus. 
 ## Pill (aka POP)
-MoA: All PoP (except desogestrel) thicken cervical mucus only. Desogestrel is the only PoP which also inhibits ovulation. 
+**MoA**: All PoP (except desogestrel, brand Cerazette) thicken cervical mucus only. Desogestrel is the only PoP which also inhibits ovulation. 
 - No pill free interval. 
 - Can be used for endometriosis. 
 - Around 50% of women on the POP have no bleeding, or very infrequent bleeding, and only 10% are reported to have more frequent bleeding or spotting, with long term POP use. 

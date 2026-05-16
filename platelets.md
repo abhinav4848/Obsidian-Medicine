@@ -21,13 +21,17 @@ Thrombocytosis + low ferritin or microcytosis is concerning for GI malignancy.
 - [[Quinine]]
 - Abciximab
 - [[nsaid|NSAIDs]]
-- **Diuretics**: Furosemide
+- **Diuretics**: [[side effects of cvs drugs|Furosemide]]
 - **Antibiotics**: Penicillins, Sulphonamides, rifampicin #abx 
 - **Anticonvulsants**: Carbamazepine, Valproate
 - Heparin
 ### Other causes
-[[pre-eclampsia]] 
-Gestational thrombocytopenia: Mild, asymptomatic in mid to late pregnancy. 
+- [[pre-eclampsia]] 
+- Gestational thrombocytopenia: Mild, asymptomatic in mid to late pregnancy due to haemodilution, reduced platelet production, increased platelet destruction & splenic sequestration. 
+	- A falling platelet count in pregnancy can be seen in both GTP & ITP. If the thrombocytopenia is severe, a working diagnosis of ITP is assumed and Steroids started. 
+- [[hus vs ttp|HUS & TTP]]
+- [[hsp vs itp|HSP & ITP]] 
+	- Neonatal concerns with ITP: Maternal IgG can cross placenta and cause neonatal TP. Rx: Monitor platelet count & transfuse platelet if severe. 
 ## Can lead to
 - spontaneous cutaneous [[petechiae & purpura|purpura]] or ecchymoses
 - mucous membrane bleeding

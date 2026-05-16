@@ -5,6 +5,7 @@ aliases:
   - "Side-effects of common drugs: anti-hypertensives"
   - side effects of anti hypertensive drugs
   - side effects of CVS drugs
+  - drugs used in CVS conditions
 ---
 
 | Drug Class                         | Adverse Effects / Key Points                                                                                                                                                                                                                                     |

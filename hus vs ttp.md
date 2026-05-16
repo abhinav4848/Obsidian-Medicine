@@ -5,6 +5,7 @@ aliases:
   - HUS
   - TTP
   - Thrombotic thrombocytopenic purpura
+  - HUS & TTP
 ---
 *See also: [[hsp vs itp]]. 
 
@@ -18,8 +19,8 @@ Age < 5 yo.
 #triad 
 - Microangiopathic Haemolytic Anaemia- MAHA- ([[cell histology|helmet cells]]) - Normocytic anaemia & -ve Coomb's test
 	- *MAHA: RBC damage due to platelet microthrombi*
-- Uraemia (Acute Renal Failure/AKI- [[haematuria]], Proteinuria, Urea, Creatinine, Electrolytes),
-	- Commonest cause of AKI in children - features are oliguria, peripheral edema.
+- Uraemia (Acute Renal Failure/AKI- [[haematuria]], Proteinuria, Urea, Creatinine, Electrolytes) 
+	- Commonest cause of AKI in children - features are oliguria, peripheral edema. 
 - [[platelets|thrombocytopenia]] 
 
 (In Renal tubular acidosis, kidney can't absorb HCO3-. Raised creatinine is seen in AKI.)

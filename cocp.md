@@ -61,5 +61,5 @@ Vaginal spotting common in first 3 months.
 See: ![[cancer- drugs involved in gynae cancers#COCP & Cancer risk embedded]]
 
 ---
-See: [[cocp- pill ladder]]. 
-See [[qlaira|Qlaira COCP]]] 
+See: [[cocp- pill ladder]] 
+See [[qlaira|Qlaira COCP]] 

@@ -33,6 +33,7 @@ Ampicillin/amoxicillin leads to rash.
 # Investigation
 Paul Bunnel/Monospot/heterophile antibody test -> Do FBC & Monospot in 2nd week of illness to confirm diagnosis. #named 
 # Treatment
+Observation. 
 Analgesia + abundant fluids + avoid contact sports for 4 weeks (regardless of any confirmed organomegaly as clinical examination not sensitive enough). No heavy lifting either. 
 
 **Note**: Taking amoxicillin/ampicillin at this time will cause maculopapular, pruritic rash.
