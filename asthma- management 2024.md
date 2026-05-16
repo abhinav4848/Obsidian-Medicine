@@ -5,6 +5,7 @@ aliases:
   - asthma- treatment 2024
   - management of stable asthma in children
   - management of stable asthma in adults
+  - stepping down treatment
 urls:
   - "[NICE NG245- Asthma](https://www.nice.org.uk/guidance/ng245)"
 cssclasses:
@@ -57,6 +58,10 @@ See [Leicester Asthma guideline](https://www.lmsg.nhs.uk/guidelines/category/res
  
 If suspected asthma is uncontrolled in children < 5 on a paediatric moderate dose ICS as maintenance therapy and a trial of an LTRA has been unsuccessful or not tolerated, stop the LTRA and refer the child to a specialist in asthma care for further investigation and management.
 
-
-
-
+---
+# Asthma: stepping down treatment
+The British Thoracic Society (BTS) guidelines recommend that we should consider stepping down treatment every 3 months or so. The guidelines don't advocate a strict move from say step 3 to step 2 but advise us to take into account duration of treatment, side-effects and patient preference.  
+  
+When reducing the dose of inhaled steroids the BTS advise us to do this by 25-50% at a time.  
+  
+Clearly patients with stable asthma may only have a formal review on an annual basis but it is likely that if a patient has recently had an escalation of asthma treatment they would be reviewed on a more frequent basis.

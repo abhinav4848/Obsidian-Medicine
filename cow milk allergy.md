@@ -21,6 +21,7 @@ Cow's milk protein intolerance/allergy (CMPI/CMPA) occurs in around 3-6% of all 
 - urticaria, atopic eczema
 - wheeze, chronic cough
 - rarely angioedema & [[als- anaphylaxis|anaphylaxis]] may occur
+- there is some evidence that IgE-mediated cows' milk protein allergy is more likely to persist in children with asthma or allergic rhinitis.
 
 |       | Non-IgE mediated                                                                                   | IgE mediated                                                                                                   |
 | ----- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -28,7 +29,7 @@ Cow's milk protein intolerance/allergy (CMPI/CMPA) occurs in around 3-6% of all 
 |       | Loose or frequent stools, perianal redness, blood &/or mucus in stools in an otherwise well infant | Acute pruritus, urticaria, angioedema                                                                          |
 | Test  | Serum IgE is normal                                                                                |                                                                                                                |
 # Diagnosis
-Clinical (e.g. improvement with cow's milk protein elimination). Investigations include:  
+**Clinical** (e.g. improvement with cow's milk protein elimination). Investigations include:  
 - skin prick/patch testing
 - total IgE and specific IgE (RAST) for cow's milk protein
 # Management
