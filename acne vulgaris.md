@@ -35,7 +35,7 @@ For skin of colour/darker skin, Azelaic acid is useful as it has anti-pigmentary
 - Instead of abx, COCP can be considered in suitable women. 
 - Patients should be advised on sun protection if using oral tetracyclines and topical retinoids as both increase photosensitivity. 
 ### Severe
-Refer all severe cases to Specialists. 
+Refer all severe cases to ==Specialists==. 
 Will be started on [[retinoids|isotretinoin]] -> aka Roaccutane. 
 -  *scarring, hyperpigmentation and widespread pustules*
 Prescribe treatment as above while awaiting appointment.
@@ -44,13 +44,15 @@ Prescribe treatment as above while awaiting appointment.
 # Other tips
 ## Women
 1. Avoid tetracycline in [[drugs contraindicated in pregnancy|Pregnant]]/Breastfeeding/children < 12years. Use Erythromycin.
-2. Avoid topical/oral retinoids in pregnancy. 
+2. Pregnancy: Avoid topical/oral retinoids & tetracyclines. 
 3. COCPs are an alternative to oral Abx in women. Use them in combination with topical agents. Should contain 30mcg oestrogen + either NE or LNG
 	- Co-Cyprindiol (Dianette): 2nd line after other OCPs have failed. It has anti-androgen properties, but increased VTE risk compared to other COCPs. (it's only licensed for acne with contraception needs ([BNF](https://bnf.nice.org.uk/drugs/co-cyprindiol/)). Not individually for either). 
 	- Due to the increased risk of VTE with Co-Cyprindiol (Dianette), it should be discontinued 3-4 cycles after acne has cleared, and should not be used just for contraception. Can switch to other OCPs.
 	- Oral POP contraceptives or progestin implants with androgenic activity may exacerbate acne. Acne is a known s/e of POP. Third and fourth-generation COCP are generally preferred.
-## Others
-1. Treatment with oral Abx to be used for max. 6 months regardless of route of administration of abx (topical or oral). Initial course of 3 months. [NICE Follow up](https://cks.nice.org.uk/topics/acne-vulgaris/management/primary-care-management/#follow-up) 
+## Antibiotic stewardship rules
+Antibiotic stewardship is a core rule in acne treatment: Antibiotics must be combined appropriately, reviewed early, and avoided long term where possible.
+
+1. Treatment with Abx to be used for max. 6 months regardless of route of administration of abx (topical or oral). Initial course of 3 months. [NICE Follow up](https://cks.nice.org.uk/topics/acne-vulgaris/management/primary-care-management/#follow-up) 
 	1. If completely cleared: stop abx but continue topical 
 	2. If improved but not cleared: Extend abx by another 3 months
 2. Adding topical benzoyl peroxide (BPO)/topical retinoid to someone already receiving oral antibiotics can reduce the risk of resistant Propionibacterium acnes.
@@ -58,10 +60,13 @@ Prescribe treatment as above while awaiting appointment.
     1. Monotherapy with a topical antibiotic.
     2. Monotherapy with an oral antibiotic.
     3. A combination of a topical antibiotic and an oral antibiotic.
+	    1. So an oral tetracycline should not be combined with a topical clindamycin product. 
+	    2. If an oral antibiotic is prescribed, it should be paired with benzoyl peroxide or a topical retinoid unless contraindicated. 
+    4. *Monotherapy does not treat comedonal disease*
 4. Give Oral [[retinoids|isotretinoin]]: only under specialist supervision
 5. High dose Oral [[Trimethoprim]] for Gram -ve folliculitis that develops with long term antibiotic use. [[drugs contraindicated in pregnancy|Don't give in T1]].
 # Referral
-- the following patients should be referred to a dermatologist:
+- the following patients should be **referred** to a dermatologist:
     - patients with acne conglobata: a rare and severe form of acne found mostly in men that presents with extensive inflammatory papules, suppurative nodules (that may coalesce to form sinuses) and cysts on the trunk.
     - patients with nodulo-cystic acne
 - referral should be _considered_ in the following scenarios:
@@ -70,3 +75,4 @@ Prescribe treatment as above while awaiting appointment.
     - acne with scarring 
     - acne with persistent pigmentary changes
     - acne is causing or contributing to persistent psychological distress or a mental health disorder
+

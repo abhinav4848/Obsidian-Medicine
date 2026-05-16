@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anal fissure.md",
+                "file": "school in children with rash.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "anal fissure"
+              "title": "school in children with rash"
             }
           }
         ]
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "anal fissure.md",
+                "file": "school in children with rash.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -128,7 +128,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of anal fissure"
+              "title": "Graph of school in children with rash"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anal fissure.md",
+                "file": "school in children with rash.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for anal fissure"
+              "title": "Backlinks for school in children with rash"
             }
           }
         ]
@@ -258,6 +258,11 @@
   },
   "active": "7fc7ecc2c6c917cc",
   "lastOpenFiles": [
+    "acne vulgaris.md",
+    "retinoids.md",
+    "acne.md",
+    "placebo effect.md",
+    "anal fissure.md",
     "nash.md",
     "aphthous ulcer.md",
     "diabetes mellitus 1.md",
@@ -279,11 +284,6 @@
     "dvla.md",
     "fitness to fly.md",
     "statistics- confounding.md",
-    "haemochromatosis.md",
-    "erectile dysfunction.md",
-    "sick day rule.md",
-    "lower limb ortho problems.md",
-    "normal lower limb variants in children.md",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "attachments/actinic keratosis on ear.jpg",
     "attachments/actinic keratoses on hand.jpg",
