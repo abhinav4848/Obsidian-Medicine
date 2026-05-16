@@ -21,7 +21,7 @@ an inflammatory disorder causing symmetrical, proximal muscle weakness and chara
 - Photosensitivity- sunburn reaction over the ‘V’ area of the anterior chest, face, and other sun-exposed sites
 
 # Investigations
-![[polymyositis#Differences in conditions affecting muscles is linked]]
+![[polymyositis#Differences in conditions affecting muscles embedded]]
 # Complications
 Swallowing problems- aspiration pneumonia
 Arthritis- non-erosive

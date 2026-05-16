@@ -57,6 +57,7 @@ Vaginal spotting common in first 3 months.
 	Add tranexamic acid if excess bleed. 
 	If bleed continues after 3 months, shift to another.
 [[Spider naevi]] can be caused by COCP.
+[[melasma]] 
 ## Cancer risk
 See: ![[cancer- drugs involved in gynae cancers#COCP & Cancer risk embedded]]
 

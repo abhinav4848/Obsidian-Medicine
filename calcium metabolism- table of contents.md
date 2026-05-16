@@ -12,4 +12,4 @@ tags:
 > - [[osteoporosis]]
 > - [[osteomalacia]]
 > - [[biochemical differences in different ortho conditions]]
-> 	- [[polymyositis#Differences in conditions affecting muscles is linked|Different muscle conditions]]
+> 	- [[polymyositis#Differences in conditions affecting muscles embedded|Different muscle conditions]]

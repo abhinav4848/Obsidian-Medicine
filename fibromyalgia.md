@@ -24,7 +24,7 @@ urls:
 Explain to patients: “Your nerves have become over-sensitive, so normal signals are being experienced as pain or discomfort. The symptoms are real, but the problem is with how signals are processed, not with damage.” 
 
 # Investigation
-![[polymyositis#Differences in conditions affecting muscles is linked]] 
+![[polymyositis#Differences in conditions affecting muscles embedded]] 
 
 # Management
 [GP Notebook- Fibro Management](https://gpnotebook.com/en-GB/pages/rheumatology/fibromyalgia-syndrome-fms/management)

@@ -3,10 +3,15 @@ tags:
   - dermat
 aliases:
   - chloasma
+urls:
+  - "[PCDS- Melasma chloasma](https://www.pcds.org.uk/clinical-guidance/melasma-syn-chloasma1)"
+cssclasses:
+  - red-border
 ---
-Melasma: Hyperpigmented macules in sun-exposed areas, esp face. 
-Chloasma: Melasma during pregnancy. 
-  
+**Melasma**: Hyperpigmented macules in sun-exposed areas, esp face. 
+**Chloasma**: Melasma during pregnancy. 
+
+![[melasma.jpg]]
 # Epidemiology  
 - more common in women
 - more common in people with darker skin

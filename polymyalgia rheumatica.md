@@ -14,7 +14,7 @@ urls:
 
 ***[[Polymyositis]]**: Raised CK & ALP -> Could walk before, can't walk now.*
 
-![[polymyositis#Differences in conditions affecting muscles is linked]]
+![[polymyositis#Differences in conditions affecting muscles embedded]]
 
 ---
 PMR is an inflammatory condition causing pain and stiffness to shoulder/neck & pelvic girdle. 
@@ -38,6 +38,8 @@ Muscles are tender, not weak.
 	FBC, U&e, LFT, [[Calcium]], serum protein electrophoresis ([[multiple myeloma|myeloma]]), TSH, CK (myositis), Rheumatoid factor, Urine dip stick
 **Additional**: 
 	ANA (SLE), Anti-CCP (RA), Urine Bence Jones proteins (myeloma), CXR (lung pathologies which may be associated with [[dermatomyositis]], mediastinal abnormalities)
+
+CK & EMG will be normal.
 ## Treatment
 [[corticosteroid|steroid]]: prednisolone e.g. 15mg/OD
 - patients typically respond dramatically to steroids

@@ -39,6 +39,7 @@ Less effective over 90 kgs.
 - Around 50% of women on the POP have no bleeding, or very infrequent bleeding, and only 10% are reported to have more frequent bleeding or spotting, with long term POP use. 
 - [[postpartum contraception|postpartum women]] (breastfeeding & non-breastfeeding) can start the POP at any time postpartum, but if started after day 21, need [[time for action of contraceptives|additional 2 days]] of alternate contraception. 
 - Don't double the dose for obesity. e.g. Desogestrel (cerazette) standard dose is 75mcg and that stays same regardless of BMI. 
+- Cerazette also has 12 hour window for use so it's a good choice for irregular routine people. 
 
 S/E
 - Irregular periods-> MC. Some users may not have periods and others irregular/light periods. 

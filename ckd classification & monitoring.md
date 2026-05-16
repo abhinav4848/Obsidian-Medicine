@@ -8,6 +8,7 @@ urls:
   - "[NICE CKS CKD Classification](https://www.nice.org.uk/guidance/ng203/chapter/Recommendations#classification-of-ckd-in-adults)"
   - "[Leicester CKD](https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/wp-content/uploads/2022/06/CKD-Medicines-Optimisation.-SGLT2i.pdf)"
 ---
+
 *See: [[chronic kidney disease|CKD]], and [[ckd pharmacology|Pharmacology in CKD]]* 
 # Classification of CKD
 Use a combination of GFR & ACR categories & make a KDIGO grid: 

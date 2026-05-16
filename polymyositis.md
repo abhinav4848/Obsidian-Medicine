@@ -10,7 +10,7 @@ Has weakness. Could walk before, can't walk now.
 - CK raised (because -itis is inflammation). 
 #mnemonic: *jo goes to gym to build (muscles), and takes creatine supplements. (Has high CK)*
 
-### Differences in conditions affecting muscles %%is linked%%
+### Differences in conditions affecting muscles %%embedded%%
 
 | **Name**                                     | Proximal muscle weakness seen? | ESR | CK  |
 | ---------------------------------------- | ------------------------------ | --- | --- |

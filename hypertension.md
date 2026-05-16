@@ -32,17 +32,19 @@ We investigate with
 - urine dip for proteinuria. 
 - U&e for AKI. 
 # How to manage a patient in GP with hypertension
-- Do 3 readings in the surgery, if coding just one, code the highest reading. 
+- Do 3 readings in the surgery, if coding just one, code the highest reading. Do BP on both arms
+	- If diff in bp in both arms is > 20mm, repeat, and if still > 20mm, use higher reading arm & listen to heart sounds to rule out supravalvular AS. 
+	- If BP > 140/90, take a second reading during consultation & use lower reading. 
+	- Do referral if a phaeochromocytoma is suspected (labile or postural hypotension, headache, palpitations, pallor and diaphoresis)
 - if BP is up to stage 2, ask to do a 7-day home BP reading. 
 	- if BP stage 3 with no previous noted high BP, go to A&E and optician. 
-- Check eGFR, if only an old reading is available, which is not reliable anymore do new set of bloods including Renal function. 
+- Check eGFR. If only an old reading is available, which is not reliable anymore do new set of bloods including Renal function. 
 - Also do ECG, [[ckd classification & monitoring|urine ACR]], [[retinopathy|ophthalmoscopy]]. 
 	- Can do urine dipstick for RBC & protein
 	- ECG for LVH. 
 - If starting Ramipril, ask to come back in 3 weeks for a blood test to check eGFR & then do a home BP reading for a week and drop it off prior to the consultation.
 - If bloodwork fine, continue with Ramipril. 
 - If before starting treatment, you note the most recent eGFR low, start with Amlodipine. 
-
 ### If new patient with no previous history of HTN comes with stage 3 HTN
 - send to A&E for initial evaluation.
 ### Known HTN coming back with stage 3 HTN readings
@@ -54,9 +56,9 @@ If Age <80yo: HBPM: <135/85
 
 If Age > 80yo, No comorbidities: 
 - Home BP target: <145/85
-- Clinic BP target: <150/90
+- Clinic BP target: <150/90 
 
-If patient is CKD,
+If patient is [[chronic kidney disease|CKD]], 
 - ACR >=70, BP target is <130/80. 
 - ACR <70, BP target is <140/90
 - With diabetes, BP target is =<130/80 

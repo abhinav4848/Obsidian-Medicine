@@ -27,6 +27,7 @@ Autosomal dominant conditions are 'structural' (*exceptions: Gilbert's, hyperlip
 - ADPKD-> do USS > genetic test cuz genes are too many for ADPKD
 - [[cancer- breast (treatment)|BRCA1]]
 - [[cowden's disease]]
+- [[charcot-marie-tooth disease]] 
 - [[essential tremor]]
 - [[lipids|familial hypercholesterolaemia]]
 - [[g6pd deficiency|Hereditary spherocytosis]] (assume that "hereditary" will be AD)
