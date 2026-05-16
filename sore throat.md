@@ -23,8 +23,9 @@ urls:
 # Difference %%embed%% 
 #confusion
 
-| Condition                                        | Virus                             | Typical age            | Where lesions occur                |
-| ------------------------------------------------ | --------------------------------- | ---------------------- | ---------------------------------- |
-| **Herpetic gingivostomatitis**                   | Herpes simplex virus type 1       | Infants/young children | Entire mouth including **gingiva** |
-| **Herpangina**                                   | Coxsackievirus A (an enterovirus) | Children               | **Posterior mouth only**           |
-| **[[hand foot mouth\|Hand-foot-mouth disease]]** | Coxsackievirus A16 (most common)  | Children               | Mouth + **hands + feet**           |
+| Condition                                        | Virus                             | Typical age            | Where lesions occur                         |
+| ------------------------------------------------ | --------------------------------- | ---------------------- | ------------------------------------------- |
+| **Herpetic gingivostomatitis**                   | Herpes simplex virus type 1       | Infants/young children | Entire mouth including **gingiva**          |
+| **Herpangina**                                   | Coxsackievirus A (an enterovirus) | Children               | **Posterior mouth only**, Submandibular LNE |
+| **[[hand foot mouth\|Hand-foot-mouth disease]]** | Coxsackievirus A16 (most common)  | Children               | Mouth + **hands + feet**                    |
+| [[epstein barr virus\|EBV]]                      |                                   |                        | generalised Cervical LNE                    |

@@ -8,15 +8,18 @@ aliases:
   - glandular fever
 ---
 Aka Mono/glandular fever -> Seen in adolescents.
-
 # Clinical Features
+IMN presents with a long duration of prodromal symptoms such as fatigue, malaise, and sore throat before the onset of fever and lymphadenopathy
+
 #Triad : Fever, pharyngitis (sore throat), Cervical LNE (other sites also)-> exudative tonsils. 
 	In [[tonsillitis]] -> Only anterior chain of LN affected
 	In EBV-> Both anterior & posterior chain of LN affected.
+
 Hepatosplenomegaly, Jaundice -> Anaemia.
 	Hepatitis, Transient rise in ALT. 
 	Jaundice in mono is because of hemolysis secondary to cold agglutinins (IgM).
 	Thus Anaemia is common also.
+
 Palatal petechiae 
 Neutropenia & lymphocytosis (at least 10% atypical lymphocytes).
 

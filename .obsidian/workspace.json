@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asthma- management 2024.md",
+                "file": "platelets.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "asthma- management 2024"
+              "title": "platelets"
             }
           }
         ]
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "asthma- management 2024.md",
+                "file": "platelets.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -128,7 +128,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of asthma- management 2024"
+              "title": "Graph of platelets"
             }
           }
         ]
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asthma- management 2024.md",
+                "file": "platelets.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for asthma- management 2024"
+              "title": "Backlinks for platelets"
             }
           }
         ]
@@ -258,6 +258,12 @@
   },
   "active": "7fc7ecc2c6c917cc",
   "lastOpenFiles": [
+    "cold sores.md",
+    "sore throat.md",
+    "epstein barr virus.md",
+    "genital ulcers.md",
+    "human herpes viruses.md",
+    "asthma- management 2024.md",
     "cow milk allergy.md",
     "vomiting in paeds.md",
     "molluscum contagiosum.md",
@@ -278,12 +284,6 @@
     "antipsychotic drugs.md",
     "biochemical differences in different ortho conditions.md",
     "paget's disease of bone.md",
-    "hyperparathyroidism.md",
-    "hypercalcemia.md",
-    "cancers metastasizing to the bone.md",
-    "drugs contraindicated in pregnancy.md",
-    "breastfeeding.md",
-    "talipes equinovarus.md",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "attachments/actinic keratosis on ear.jpg",
     "attachments/actinic keratoses on hand.jpg",
