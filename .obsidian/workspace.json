@@ -135,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 269.5044631958008
   },
   "right": {
     "id": "18cd351862e29aca",
@@ -146,20 +146,6 @@
         "type": "tabs",
         "dimension": 38.095238095238095,
         "children": [
-          {
-            "id": "76e084a2bc339e0c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "corticosteroid.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from corticosteroid"
-            }
-          },
           {
             "id": "4b3abad75a1d0653",
             "type": "leaf",
@@ -227,7 +213,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "c9a800b7c85d029b",
@@ -257,7 +243,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
