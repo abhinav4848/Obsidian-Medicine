@@ -12,9 +12,8 @@ an inflammatory disorder causing symmetrical, proximal muscle weakness and chara
 2. Associated with underlying cancer 🚩
 3. Medications
 4. Viral infections 
-
 # Clinical Features
-- heliotrope rash in the periorbital region
+- purple/red heliotrope rash in the periorbital region
 - **Gottron papules**: #named - roughened violaceous papules over extensor surfaces of fingers
 - **Mechanic's hands**: #named extremely dry and scaly hands with linear cracks on the palmar and lateral aspect
 - Shawl sign over the back #named 

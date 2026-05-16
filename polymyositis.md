@@ -8,8 +8,7 @@ Has weakness. Could walk before, can't walk now.
 - **Anti Jo [[antibodies]]**: Polymyositis. 
 - Myositis can be caused by [[statins]]. 
 - CK raised (because -itis is inflammation). 
-#mnemonic: *jo goes to gym to build (muscles), and takes creatine supplements. (Has high CK)*
-
+#mnemonic: *jo goes to gym to build (muscles), and takes creatine supplements. (Has high CK)* 
 ### Differences in conditions affecting muscles %%embedded%%
 
 | **Name**                                     | Proximal muscle weakness seen? | ESR | CK  |

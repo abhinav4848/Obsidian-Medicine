@@ -23,4 +23,4 @@ It results in a predominantly motor loss. Causes distal muscle weakness and wast
 
 # DDx
 - [[motor neurone disease]] presents in late adulthood (40-70yo) & has both UMN & LMN signs. 
-- **Inclusion body myositis** is an inflammatory muscle disease that typically affects older adults (over 50 years) and has a predilection for the quadriceps and finger flexors rather than distal leg muscles. It would not cause the high-arched feet or absent reflexes seen in CMT, and it's not typically hereditary.
+- **Inclusion body myositis**: Type of [[dermatomyositis]]. It's an inflammatory muscle disease that typically affects older adults (over 50 years) and has a predilection for the quadriceps and finger flexors rather than distal leg muscles. It would not cause the high-arched feet or absent reflexes seen in CMT, and it's not typically hereditary.
