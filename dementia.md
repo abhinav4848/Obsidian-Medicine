@@ -53,8 +53,11 @@ Alzheimer's disease dementia classically presents as slowly worsening memory los
 - Aphasia- can't speak
 - Agnosia- can't recognize objects/people
 
-Rx
-- **Anticholinesterase**: Rivastigmine > Donepezil, Galantamine. (Don't give Donepezil in patients with Bradycardia, Heart block, Sick sinus, or if already on beta blockers).
+Rx: (We want Ach)
+- **Anticholinesterase**: Rivastigmine > Donepezil, Galantamine. 
+	- Don't give Donepezil in patients with Bradycardia, Heart block, Sick sinus, or if already on beta blockers. Donepezil causes sleep disturbance.
+	- `DONepeZil = DONT Zzz` #mnemonic 
+	- Rivastigmine causes drowsiness
 - **2nd line**: Memantine (NMDA receptor antagonist-> Blocks glutamate.)
 
 Hallucinations are psychotic entity. Use Haloperidol (typical), Olanzapine (atypical).

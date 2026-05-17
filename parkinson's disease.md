@@ -17,7 +17,7 @@ Levodopa
 
 Dopamine receptor agonists
 - **Ergot derived**: bromocriptine, cabergoline -> can cause retroperitoneal/cardiac/[[lung fibrosis]]. Not commonly used.
-- **Non-Ergot**: Ropinirole, pramipexole, apomorphine
+- **Non-Ergot**: Ropinirole, pramipexole (also used in [[restless leg syndrome|Restless Leg]]), apomorphine 
 	- Non-ergot are often used as initial therapy for younger patients with Parkinson's due to their lower risk for motor complications compared to levodopa. However, their effectiveness in controlling symptoms and improving activities of daily living is not as great as that of levodopa.
 - s/e: Impulse control, daytime sleepiness, postural hypotension
 
@@ -74,3 +74,10 @@ For first-line treatment:
 - Excessive daytime sleepiness: Modafinil if alternative strategies fail.
 - If orthostatic hypotension: Midodrine (acts on peripheral alpha-adrenergic receptors to increase arterial resistance)
 - Drooling of saliva in people with PD: Glycopyrronium to manage. 
+
+---
+# Meds brands
+Levodopa + decarboxylase inhibitor
+- *Sinemet* aka Co-careldopa — carbidopa + levodopa
+- *Madopar* aka Co-beneldopa — benserazide + levodopa
+Patch: Rotigotine

@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vesico-ureteric reflux.md",
+                "file": "head lice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "vesico-ureteric reflux"
+              "title": "head lice"
             }
           }
         ],
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inclusion body",
+                "query": "pramipexo",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -145,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "vesico-ureteric reflux.md",
+                "file": "head lice.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,12 +169,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4117756244749097,
+                  "scale": 6.146139050372003,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of vesico-ureteric reflux"
+              "title": "Graph of head lice"
             }
           }
         ]
@@ -271,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vesico-ureteric reflux.md",
+                "file": "head lice.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +282,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for vesico-ureteric reflux"
+              "title": "Backlinks for head lice"
             }
           }
         ]
@@ -303,8 +304,11 @@
   },
   "active": "10541c2691eaa942",
   "lastOpenFiles": [
-    "depression.md",
+    "dementia.md",
+    "parkinson's disease.md",
+    "restless leg syndrome.md",
     "vesico-ureteric reflux.md",
+    "depression.md",
     "tricyclic antidepressants.md",
     "anticholinergics.md",
     "obesity in children.md",
@@ -327,10 +331,7 @@
     "attachments/melasma.jpg",
     "cocp.md",
     "cocp- pill ladder.md",
-    "contraceptives.md",
-    "contraception.md",
     "flow charts/postpartum cocp for contraception.canvas",
-    "epstein barr virus.md",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "attachments/actinic keratosis on ear.jpg",
     "attachments/actinic keratoses on hand.jpg",
