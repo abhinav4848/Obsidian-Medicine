@@ -17,9 +17,9 @@ urls:
 - progressive disease- may cause fibrosis and liver cirrhosis 
 # Risk factors
 Independent risk factors for progression of NAFLD to advanced liver disease include:
-- Impaired glucose regulation or type 2 diabetes mellitus
+- Impaired glucose regulation, or T2DM
 	- Insulin resistance is thought to be the key mechanism leading to steatosis. 
-- Central obesity: BMI > 30 kg/m2 or increased waist circumference,
+- Central obesity: [[weight|BMI]] > 30 kg/m2 or increased waist circumference,
 - Hypertension.
 - Hyperlipidemia
 - Jejuno-ileal bypass, Sudden weight loss/starvation, Patient is over 45yo.  

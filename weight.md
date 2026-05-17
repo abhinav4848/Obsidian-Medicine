@@ -10,7 +10,22 @@ aliases:
 ---
 See [[lipids]] & [[diabetes treatment]]
 
-## Drugs 
+# BMI
+Body mass index (BMI) is calculated by dividing the weight (in kilograms) by the height (in metres) squared  
+
+|**BMI**|**Old classification**|**NICE classification**|
+|---|---|---|
+|< 18.5|Underweight|Underweight|
+|18.5 - 24.9|Normal|Normal|
+|25 - 29.9|Overweight|Overweight|
+|30 - 34.9|Obese|Obese I|
+|35 - 39.9|Clinically obese|Obese II|
+|> 40|Morbidly obese|Obese III|
+Use lower BMI thresholds as a practical measure of overweight and obesity in people with a South Asian, Chinese, other Asian, Middle Eastern, Black African or African-Caribbean family background, as they are prone to central adiposity and their cardiometabolic risk occurs at lower BMI:
+- Overweight — BMI 23 kg/m2 to 27.4 kg/m2.  
+- Obesity — BMI 27.5 kg/m2 or above.  
+- Obesity classes 2 and 3 — reduce the BMI thresholds by 2.5 kg/m2.
+# Management 
 *see [[diabetes drugs#Glucose dependent Insulin secretion linked|GLP-1 drugs]]*
 GLP-1 agonist:
 - Semaglutide (Wegovy, Ozempic, Rybelsus), 
@@ -20,8 +35,7 @@ Lipase inhibitor:
 - [[orlistat]] (Alli, Xenical)
 Mix:
 - phentermine-topiramate (Qsymia): Phentermine is an appetite suppressant and topiramate is an anti-convulsant with weight loss properties.
-
-# Centrally acting
+## Centrally acting drugs
 Mainly act on the brain to reduce appetite / increase satiety.
 
 | Drug                                                                                           | Description                                                                                                                                                                                                                                                     | Brand Name(s)                           |
@@ -35,11 +49,11 @@ Mainly act on the brain to reduce appetite / increase satiety.
 | Exenatide                                                                                      | GLP-1 receptor agonist (primarily for T2DM, modest weight loss effect)                                                                                                                                                                                          | Byetta, Bydureon                        |
 | Dulaglutide                                                                                    | GLP-1 receptor agonist (T2DM; weight loss occurs but not licensed for obesity)                                                                                                                                                                                  | Trulicity                               |
 | Lixisenatide                                                                                   | GLP-1 receptor agonist (T2DM; mild weight loss effect)                                                                                                                                                                                                          | Lyxumia                                 |
-# Peripherally acting
+## Peripherally acting drug
 [[orlistat]] 
 
 ---
-# Bariatric surgery
+## Bariatric surgery
 NICE recommend that very obese patients (e.g. BMI 40-50 kg/m^2 etc) are referred early for bariatric surgery, particularly if they have other conditions that may be caused by it (e.g. type 2 diabetes mellitus, hypertension), rather than it being a 'last resort'.
 
 > NICE CKS: Offer adults a referral for a comprehensive assessment by specialist weight management services providing multidisciplinary obesity management to see whether bariatric surgery is suitable for them if: BMI > 50, or BMI >40, or b/w 35–40 kg/m2 with a significant health condition that could be improved if they lost weight (e.g. T2DM, HTN, or severe mobility problems).

@@ -6,6 +6,8 @@ aliases:
   - Testicular Cancer
 urls:
   - "[NICE CKS Scrotal swelling/Pain differentiating features](https://cks.nice.org.uk/topics/scrotal-pain-swelling/diagnosis/assessment/#differentiating-clinical-features)"
+revision notes: AFP vs B-HCG
+revision counter: 1
 ---
 Age: 20-30yo. 
 - Peak for Teratoma: 25yo
