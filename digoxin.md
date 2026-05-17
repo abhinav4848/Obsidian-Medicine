@@ -6,10 +6,13 @@ cssclasses:
   - invert-image
 ---
 
-**Toxicity**: confusion, lethargy, nausea, Bradycardia.
+
+**[[monitoring bloods with drugs|Monitoring]]**: At least 6 hours after last dose. Digoxin has a large volume of distribution and requires time to equilibrate between the blood and tissues
 # Toxicity
 Digoxin level is not monitored routinely except in suspected toxicity.
 Toxicity can occur even within therapeutic range.
+### Symptoms
+**Toxicity**: confusion, lethargy, nausea, Bradycardia.
 ### Causes
 **Drugs**: Amiodarone, quinidine, verapamil, diltiazem, [[spironolactone]] (competes for secretion in distal convoluted tubule therefore reduce excretion), ciclosporin, [[magnesium|Hypomagnesemia]] 
 
@@ -25,7 +28,7 @@ Renal failure, dehydration (vomiting, diarrhoea)
 - Confusion
 - [[colour & vision changes in body|Xanthopsia]]: Yellow-green vision
 - [[eating disorder|anorexia]]
-# Treatment
+# Treatment of toxicity
 Digoxin-specific antibody fragments #antidote 
 Digibind
 

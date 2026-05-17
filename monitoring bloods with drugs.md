@@ -34,7 +34,25 @@ urls:
 | Drug                           | Main monitoring parameters | Details of monitoring                                        |
 | ------------------------------ | -------------------------- | ------------------------------------------------------------ |
 | [[diabetes drugs\|Glitazones]] | LFT                        | LFT before treatment<br><br>LFT 'regularly' during treatment |
+# Timing of bloods for therapeutic drug monitoring 
+#mnemonic 
+`CicloZEROsporin` - Ciclosporin 0 hour before dose  
+`DigoSIXin` - Digoxin 6 hours post dose  
+`LiThWELVEium` - Lithium 12 hours post dose
+``pheNOToin``- no monitoring
 
+[[Lithium]]  
+- range = 0.4 - 1.0 mmol/l
+- take 12 hrs post-dose
+Ciclosporin  
+- trough levels immediately before dose  
+[[Digoxin]]  
+- at least 6 hrs post-dose  
+Phenytoin 
+- levels do not need to be monitored routinely but **trough levels, immediately before dose** should be checked if:  
+	- adjustment of phenytoin dose
+	- suspected toxicity
+	- detection of non-adherence to the prescribed medication
 # Mnemonic
 #mnemonic 
 1. Statins --> liver problems so just LFTs
