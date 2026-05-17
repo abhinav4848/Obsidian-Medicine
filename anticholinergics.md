@@ -14,6 +14,7 @@ aliases:
 ---
 Useful as [[antiemetics]]. 
 # Side effects
+can't see/pee/shit/spit #mnemonic 
 - dry mouth
 - blurred vision
 - constipation

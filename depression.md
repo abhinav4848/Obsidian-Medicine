@@ -36,6 +36,8 @@ Sertraline, Fluoxetine (both s/e: Anorgasmia/delayed ejaculation, SIADH),
 Paroxetine.
 #### Side effects of SSRIs
 *See [[ssri#Side Effects of SSRIs linked|Side Effects of SSRIs]]* #important 
+Switching from one SSRI to another can be done immediately
+Switching from SSRI to TCA requires cross-tapering. 
 ## MAOi 
 They are also antidepressants that are almost entirely not used, (even in comparison to TCAs)
 **MAO A** for NA, 5-HT, Tyramine metabolism: Moclobemide, Phenelzine 
@@ -95,16 +97,30 @@ Patients < 25yo, or at increased risk of [[suicide]] should be reviewed after 1 
 | Under 18                                                                             | Fluoxetine only                                                                                                                                                                                                                                                                                                                                              |
 | Elderly                                                                              | Talking therapies such as CBT in older people are as effective as antidepressants in less severe depression. Antidepressant medications as carry a greater risk of side-effects in older adults, and have a lower risk–benefit ratio in less severe depression.                                                                                              |
 | On NSAIDs                                                                            | Don't normally offer SSRI, but if co-prescription necessary, give PPI.                                                                                                                                                                                                                                                                                       |
+# Depression: switching antidepressants
+The Maudsley hospital guidelines recommend the following: 
+#### Switching from citalopram, escitalopram, sertraline, or paroxetine to another SSRI
+- direct switch is possible  
+#### Switching from fluoxetine to another SSRI  
+- withdraw then leave a gap of 4-7 days (as it has a long half-life) before starting a low dose of the alternative SSRI
+#### Switching from an SSRI to a tricyclic antidepressant (TCA)  
+- cross-tapering is recommended (the current drug dose is reduced slowly, whilst the dose of the new drug is increased slowly)
+- an exception is fluoxetine which should be withdrawn, the leave a gap of 4-7 days prior to TCAs being started at a low dose  
+#### Switching from citalopram, escitalopram, sertraline, or paroxetine to venlafaxine  
+- direct switch is possible (caution if paroxetine used)
+#### Switching from fluoxetine to venlafaxine  
+- withdraw and then start venlafaxine at a low dose 4–7 days later
 # Questionnaire to assess mental health
 PHQ-9 (see [[scoring system|PHQ-9]]).
 
 From [MDCalc](https://www.mdcalc.com/calc/1725/phq9-patient-health-questionnaire9): 
-Scores <16: Less severe depression
-Scores >= 16: More severe depression- CBT + treatment: Even if sleep issues, Mirtazapine is second line due to better s/e profile & lower discontinuation rate of SSRI. 
+- Scores <16: Less severe depression
+- Scores >= 16: More severe depression- CBT + treatment: Even if sleep issues, Mirtazapine is second line due to better s/e profile & lower discontinuation rate of SSRI. 
   
 Functionally, the patient finds it is “extremely difficult” to perform life tasks due to their symptoms.
   
-WARNING: This patient is having thoughts concerning for suicidal ideation or self-harm, and should be probed further, referred, or transferred for emergency psychiatric evaluation as clinically appropriate and depending on clinician overall risk assessment.
+WARNING: This patient is having thoughts concerning for suicidal ideation or self-harm, and should be probed further, referred, or transferred for emergency psychiatric evaluation as clinically appropriate and depending on clinician's overall risk assessment.
+# Management
 ### Management of less severe depression
 NICE lists a large number of interventions that may be used first-line. It encourages us to discuss treatment options with patients to reach a shared decision. They recommend considering _'the least intrusive and least resource intensive treatment first'_. It also recommends not routinely offering _'antidepressant medication as first-line treatment for less severe depression, unless that is the person's preference'._  
   
@@ -128,8 +144,8 @@ Treatment options, listed in order of preference by NICE
 - individual CBT
 - individual behavioural activation (BA)
 - antidepressant medication
-    - selective serotonin reuptake inhibitor (SSRI), or
-    - serotonin-norepinephrine reuptake inhibitor (SNRI), or
+    - SSRI, or
+    - SNRI, or
     - another antidepressant if indicated based on previous clinical and treatment history
 - individual problem-solving
 - counselling
@@ -137,3 +153,4 @@ Treatment options, listed in order of preference by NICE
 - interpersonal psychotherapy (IPT)
 - guided self-help
 - group exercise
+

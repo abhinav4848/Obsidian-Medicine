@@ -12,8 +12,9 @@ tags:
 - [[hypothyroidism]]
 - [[Down's syndrome]]
 - [[cushing's syndrome]]
-- Prader-Willi syndrome
+- [[childhood syndromes|Prader-Willi syndrome]] 
 
+i.e. Growth hormone excess actually causes weight loss & linear growth. 
 # Consequences of obesity in children
 - Orthopaedic problems: [[Slipped upper femoral epiphysis]], Blount's disease (a development abnormality of the tibia resulting in bowing of the legs), MSK pains
 - Sleep apnoea
