@@ -23,6 +23,6 @@ DISCKO #mnemonic
 **Testicular failure**: [[mumps]], 
 Androgen deficiency (Kallman's, [[childhood syndromes|Klinefelter syndrome]]) 
 [[cancer- testes|Testicular Cancer]]- especially Leydig cell tumours. 
-Liver disease, hyperthyroid, haemodialysis, 
+Liver disease, hyperthyroid, haemodialysis. 
 
 Not [[metoclopramide]] cuz high prolactin = galactorrhoea and not gynaecomastia.
