@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mastalgia.md",
+                "file": "gynaecomastia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "mastalgia"
+              "title": "gynaecomastia"
             }
           }
         ],
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mastalgi",
+                "query": "ceraze",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "mastalgia.md",
+                "file": "gynaecomastia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of mastalgia"
+              "title": "Graph of gynaecomastia"
             }
           }
         ]
@@ -272,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mastalgia.md",
+                "file": "gynaecomastia.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +282,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for mastalgia"
+              "title": "Backlinks for gynaecomastia"
             }
           }
         ]
@@ -304,8 +304,9 @@
   },
   "active": "10541c2691eaa942",
   "lastOpenFiles": [
-    "pre-menstrual syndrome.md",
     "mastalgia.md",
+    "contraceptives.md",
+    "pre-menstrual syndrome.md",
     "seizure.md",
     "irritable bowel syndrome.md",
     "inflammatory bowel disease.md",
@@ -329,7 +330,6 @@
     "polymyositis.md",
     "charcot-marie-tooth disease.md",
     "polymyalgia rheumatica.md",
-    "chronic kidney disease.md",
     "attachments/melasma.jpg",
     "flow charts/postpartum cocp for contraception.canvas",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",

@@ -44,7 +44,7 @@ Less effective over 90 kgs.
 S/E
 - Irregular periods-> MC. Some users may not have periods and others irregular/light periods. 
 - Increased incidence of functional ovarian cysts
-- Breast tenderness, weight gain, acne, headaches. These subside in few months. 
+- [[mastalgia|breast tenderness]], weight gain, acne, headaches. These subside in few months. 
 - Breast cancer is UKMEC4 for POP. Best go for IUCD. 
 ## Implant (Nexplanon)
 *(Implanon has been replaced by Nexplanon)*
