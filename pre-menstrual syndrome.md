@@ -5,7 +5,7 @@ aliases:
   - PMS
 ---
 # Clinical Features
-depression, anxiety, irritability, bloating and mastalgia.
+depression, anxiety, irritability, bloating and [[mastalgia]].
 
 # Treatment
 Lifestyle,

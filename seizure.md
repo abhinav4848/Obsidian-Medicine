@@ -51,7 +51,7 @@ Management
 - sodium valproate and ethosuximide are first-line treatment
 - good prognosis- 90-95% become seizure free in adolescence
 ### Infantile spasms (West's syndrome)  
-See [[infantile spasms]]
+*See [[infantile spasms]*]
 - brief spasms beginning in the first few months of life
 - key features:
     - flexion of head, trunk, limbs → extension of arms (Salaam attack); last 1-2 secs, repeat up to 50 times
@@ -125,6 +125,5 @@ Seen in 3% of children.
     - children with no risk factors have a ==2.5% risk of developing epilepsy==
     - if children have all 3 features, the risk of developing epilepsy is much higher (e.g. 50%)
 - Preventative treatment for febrile convulsions is not recommended. The risks associated with regular anti-epileptic medications outweigh the benefits. There is also no evidence that regular paracetamol or ibuprofen use during an illness prevent febrile convulsions. Antipyretics may provide comfort to the child if they are febrile but there is no evidence that the risk of febrile convulsions is reduced.  
-
-
-  
+## Ketogenic diet
+The ketogenic diet has been shown to improve seizure control in those with epilepsy. It is on occasion used in children, under the supervision of a paediatric dietician, to help with drug-resistant epilepsy.

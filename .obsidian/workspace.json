@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "head lice.md",
+                "file": "mastalgia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "head lice"
+              "title": "mastalgia"
             }
           }
         ],
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pramipexo",
+                "query": "mastalgi",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "head lice.md",
+                "file": "mastalgia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -169,12 +169,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 6.146139050372003,
+                  "scale": 0.07602335692185763,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of head lice"
+              "title": "Graph of mastalgia"
             }
           }
         ]
@@ -272,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "head lice.md",
+                "file": "mastalgia.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +282,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for head lice"
+              "title": "Backlinks for mastalgia"
             }
           }
         ]
@@ -304,6 +304,14 @@
   },
   "active": "10541c2691eaa942",
   "lastOpenFiles": [
+    "pre-menstrual syndrome.md",
+    "mastalgia.md",
+    "seizure.md",
+    "irritable bowel syndrome.md",
+    "inflammatory bowel disease.md",
+    "hernias.md",
+    "school in children with rash.md",
+    "head lice.md",
     "dementia.md",
     "parkinson's disease.md",
     "restless leg syndrome.md",
@@ -322,15 +330,7 @@
     "charcot-marie-tooth disease.md",
     "polymyalgia rheumatica.md",
     "chronic kidney disease.md",
-    "hypertension.md",
-    "hypothyroidism.md",
-    "ckd classification & monitoring.md",
-    "autosomal inheritance.md",
-    "foot problems.md",
-    "melasma.md",
     "attachments/melasma.jpg",
-    "cocp.md",
-    "cocp- pill ladder.md",
     "flow charts/postpartum cocp for contraception.canvas",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "attachments/actinic keratosis on ear.jpg",

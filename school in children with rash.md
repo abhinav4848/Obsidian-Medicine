@@ -33,7 +33,7 @@ Not infectious once rash appears.
 - [[roseola infantum]] ([[day named diseases|sixth disease]])
 - [[conjunctivitis]] 
 - [[epstein barr virus|Infectious Mononucleosis]]
-- Head lice 
+- [[head lice]] 
 - [[threadworms]]
 - [[Erythema infectiosum]] (Fifth disease)
 #### Until treated
