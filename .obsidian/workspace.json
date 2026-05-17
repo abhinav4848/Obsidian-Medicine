@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "haemochromatosis.md",
+                "file": "contraceptives.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "haemochromatosis"
+              "title": "contraceptives"
             }
           }
         ],
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "haemochromatosis.md",
+                "file": "contraceptives.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of haemochromatosis"
+              "title": "Graph of contraceptives"
             }
           }
         ]
@@ -272,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "haemochromatosis.md",
+                "file": "contraceptives.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +282,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for haemochromatosis"
+              "title": "Backlinks for contraceptives"
             }
           }
         ]
@@ -304,13 +304,16 @@
   },
   "active": "10541c2691eaa942",
   "lastOpenFiles": [
-    "nash.md",
+    "ukmec.md",
+    "leflunomide.md",
+    "contraceptives.md",
     "statins.md",
+    "nash.md",
+    "haemochromatosis.md",
     "weight.md",
     "gynaecomastia.md",
     "cancer- testes.md",
     "mastalgia.md",
-    "contraceptives.md",
     "pre-menstrual syndrome.md",
     "seizure.md",
     "irritable bowel syndrome.md",
@@ -327,9 +330,6 @@
     "anticholinergics.md",
     "obesity in children.md",
     "stunted growth.md",
-    "monitoring bloods with drugs.md",
-    "digoxin.md",
-    "lithium.md",
     "attachments/melasma.jpg",
     "flow charts/postpartum cocp for contraception.canvas",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",

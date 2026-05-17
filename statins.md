@@ -39,12 +39,17 @@ If a > 40% reduction isn't achieved:
 If a > 40% reduction is still not achieved after appropriate dose titrations of atorvastatin, or because dose titration is limited by adverse effects:  
   - Ezetimibe, co-administered with atorvastatin, can be considered for people with primary hypercholesterolaemia (consider seeking specialist advice).
 # Test before & after starting
-- Recheck lipid profile (TC, HDL, non-HDL i.e. `TC minus HDL`) in 3 months -> If target not met, promote lifestyle, check concordance, increase dose if tolerated/not on max dose. 
+- Recheck lipid profile (TC, HDL, non-HDL i.e. `TC minus HDL`, TG also) in 3 months -> If target not met, promote lifestyle, check concordance, increase dose if tolerated/not on max dose. 
 - Check LFT in 3m & 1y after initiating OR increasing dose. Don't check again unless clinically indicated. 
 	- If [[nash|NASH]] is diagnosed, patients should still continue statin. 
 	- Only consider ==stopping statin if live enzyme doubles within 3 months of starting statin==, including in people with abnormal baseline LFTs.
 - Do not routinely check CK levels- only if muscle pain. 
-- If CKD (eGFR <60): Give lower dose ([BNF](https://bnf.nice.org.uk/drugs/atorvastatin/#renal-impairment))
+- If CKD (eGFR <60): 
+	- Give lower dose ([BNF](https://bnf.nice.org.uk/drugs/atorvastatin/#renal-impairment))
+	- Atorva 20 should be offered for primary prevention in CKD
+	- Increase the dose if >40% reduction in non-HDL not achieved & eGFR > 30
+	- If eGFR < 30, seek specialist advice before dose escalation. 
+- Secondary prevention: Atorvastatin 80mg is first line. 
 # Interactions
 #interaction [BNF Interactions- Atorvastatin](https://bnf.nice.org.uk/interactions/atorvastatin/)
 - They increase effect of Warfarin. 

@@ -132,6 +132,7 @@ Immediate contraception if inserted ≤7 days from start of menstruation; otherw
 - Copper IUDs typically make periods heavier, longer and more painful.
 - can be relied upon ==immediately== following insertion. *See [[contraceptives in emergency|Emergency contraception]]* 
 - the majority of IUDs with copper on the stem only are effective for 5 years, whereas some of the IUDs that have copper on the stem and the arms of the T may be effective for up to 10 years
+- In [[cancer- breast (treatment)|Breast Cancer]], all forms of hormonal contraception are c/i including Mirena. So can only use IUD
 ---
 # Contraception for women aged > 40 years %%linked%%
 [FSRH](https://www.cosrh.org/Common/Uploaded%20files/documents/fsrh-guideline-contraception-for-women-aged-over-40-years.pdf) ([archive](https://web.archive.org/web/20260327152400/https://www.cosrh.org/Common/Uploaded%20files/documents/fsrh-guideline-contraception-for-women-aged-over-40-years.pdf)) 
