@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gynaecomastia.md",
+                "file": "cancer- testes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "gynaecomastia"
+              "title": "cancer- testes"
             }
           }
         ],
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "gynaecomastia.md",
+                "file": "cancer- testes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of gynaecomastia"
+              "title": "Graph of cancer- testes"
             }
           }
         ]
@@ -272,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gynaecomastia.md",
+                "file": "cancer- testes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +282,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for gynaecomastia"
+              "title": "Backlinks for cancer- testes"
             }
           }
         ]
@@ -304,6 +304,8 @@
   },
   "active": "10541c2691eaa942",
   "lastOpenFiles": [
+    "gynaecomastia.md",
+    "cancer- testes.md",
     "mastalgia.md",
     "contraceptives.md",
     "pre-menstrual syndrome.md",
@@ -328,8 +330,6 @@
     "fibromyalgia.md",
     "dermatomyositis.md",
     "polymyositis.md",
-    "charcot-marie-tooth disease.md",
-    "polymyalgia rheumatica.md",
     "attachments/melasma.jpg",
     "flow charts/postpartum cocp for contraception.canvas",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",

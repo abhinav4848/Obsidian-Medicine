@@ -27,7 +27,6 @@ Most Testicular cancers are:
 - [[cancer- risk factors|family history]]
 - [[childhood syndromes|Klinefelter syndrome]] 
 - [[mumps]] orchitis
-
 # Clinical Features
 - Painless lump, hard, irregular, not fluctuant, can't transilluminate
 - Pain in minority
