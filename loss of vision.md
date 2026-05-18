@@ -4,6 +4,7 @@ tags:
 aliases:
   - vision loss
   - blindness
+  - visual loss
 ---
 # Sudden painless
 Ischemic/vascular (Thrombosis/embolism)
@@ -25,6 +26,12 @@ Ischemic/vascular (Thrombosis/embolism)
 - [[glaucoma- open angle]]- peripheral vision loss
 - [[macular degeneration]] (dry is insidious, wet is rapid onset)-central vision impairment only
 - Cataract- absent/opacified red reflex
+
+# Differentiating posterior vitreous detachment, retinal detachment and vitreous haemorrhage
+
+| **Posterior vitreous detachment**                                                                                                  | **Retinal detachment**                                                                                                                                                                        | **Vitreous haemorrhage**                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Flashes of light (photopsia) - in the peripheral field of vision<br><br>Floaters, often on the temporal side of the central vision | Dense shadow that starts peripherally progresses towards the central vision<br><br>A veil or curtain over the field of vision <br><br>Straight lines appear curved<br><br>Central visual loss | Large bleeds cause sudden visual loss<br><br>Moderate bleeds may be described as numerous dark spots<br><br>Small bleeds may cause floaters |
 
 ---
 # Visual impairment

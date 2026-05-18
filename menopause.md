@@ -22,8 +22,8 @@ The rule for duration of use is different for contraception & HRT.
 - If age > 50yo: Only 12 months since LMP 
   
 [[hrt|HRT]]:  
-- Cyclical HRT is < 12 months since LMP (perimenopause)  
-- Sequential HRT is > 12 months since LMP (Menopause)
+- Cyclical / Sequential HRT is < 12 months since LMP (perimenopause)  
+- Continuous HRT is > 12 months since LMP (Menopause)
 # Effects of Menopause
 - Menopausal symptoms: 
 	- Vasomotor symptoms e.g. hot flushes, night sweats.

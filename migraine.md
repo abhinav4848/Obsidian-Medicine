@@ -66,3 +66,22 @@ Triptans may be used in children >=12yo but review required
 GOSH (Great Ormond street Hospital) website states
 - pizotifen and propranolol should be used as first line preventatives in children. 
 - Second line preventatives are valproate, topiramate and amitriptyline
+
+# Migraine: pregnancy, contraception and other hormonal factors
+SIGN produced guidelines in 2008 on the management of migraine, the following is selected highlights:  
+  
+Migraine during pregnancy 
+- paracetamol 1g is first-line
+- NSAIDs can be used second-line in the T1 & T2. 
+- avoid aspirin and opioids such as codeine during pregnancy
+ 
+Migraine and the combined oral contraceptive (COC) pill  
+- if patients have **migraine with aura** then the COC is absolutely contraindicated due to an increased risk of stroke (relative risk 8.72)
+
+Migraine and menstruation 
+- many women find that the frequency and severity of migraines increase around the time of menstruation
+- SIGN recommends that women are treated with mefanamic acid or a combination of aspirin, paracetamol and caffeine. Triptans are also recommended in the acute situation. 
+  
+Migraine and HRT
+- Safe to prescribe [[hrt|HRT]] for patients with a history of migraine but it may make migraines worse. 
+- Migraine with aura does not contraindicate HRT - use non-oral bio identical oestrogen (patch or gel) - as per BMS

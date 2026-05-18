@@ -4,6 +4,7 @@ tags:
 aliases:
   - neuropathic pain
   - neuropathy
+  - neuropathic analgesia
 urls:
   - "[NICE- Neuropathic Pain](https://www.nice.org.uk/guidance/cg173/chapter/Recommendations#treatment)"
 ---

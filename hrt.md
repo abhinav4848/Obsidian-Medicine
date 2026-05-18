@@ -21,6 +21,7 @@ As part of managing [[menopause]].
 	- If they have Mirena (It is IUS LNG), then can give oestrogen via another route. 
 	- It's the only IUS licensed for endometrial protection. 
 - Tibolone is a synthetic compound with both E&P + androgenic activity. 
+- HRT isn't contraindicated in women with a history of migraine only (no aura) but warn that the hormonal fluctuations could make migraine worse. More with cyclical regimen. 
 
 **premature menopause:**
 continue HRT till 50yo. Here the rationale is preventing osteoporosis. 
@@ -40,6 +41,7 @@ Used for perimenopausal women with last bleeding =<12 months post-LMP.
 HRT is not contraception. 
 ## Continuous combined HRT 
 Oestrogen + progestogen every day. 
+Better tolerated in [[migraine]] w/o aura.
 
 Used for Postmenopausal women. (>= 12 months since LMP)
 *See [[menopause#Reviews for patients on HRT linked|Reviews for patients on HRT]] & [[menopause]]*
