@@ -2,9 +2,11 @@
 aliases:
   - Cyclical Mastalgia
   - breast tenderness
+  - breast engorgement
 tags:
   - gynae
 ---
+*also see: [[breastfeeding]]* for mastitis. 
 # Cyclical mastalgia
 Benign cyclical mastalgia is a common cause of breast pain in younger females.  
 ## Clinical features

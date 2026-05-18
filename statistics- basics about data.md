@@ -73,15 +73,19 @@ Rank the differences within pairs.
 ---
 # Nominal Data vs Ordinal Data %%linked%%
 
-| Feature        | Meaning                                                                                              |
-| -------------- | ---------------------------------------------------------------------------------------------------- |
-| Quantitative   | Can be discrete or continuous                                                                        |
-| Categorical    | aka Qualitative data. Can be nominal or ordinal                                                      |
-| Nominal        | Categories with no order                                                                             |
-| Ordinal        | Categorical data. Just has an order.                                                                 |
-| Paired         | Same subject measured twice or matched pairs                                                         |
-| Interval scale | Quantitative. Values are ordered, differences are meaningful, but ratios don't exist as no true zero |
-| ratio scale    | Quantitative. Values have order, equal intervals, true zero exists                                   |
+| Data Type      | Meaning                                                                                                                                                                                                      |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Quantitative   | Can be discrete or continuous                                                                                                                                                                                |
+| Categorical    | aka Qualitative data. Can be nominal or ordinal                                                                                                                                                              |
+| Nominal        | Categories with no order e.g birthplace.                                                                                                                                                                     |
+| Ordinal        | Categorical data. Just has an order. e.g. NYHA classification                                                                                                                                                |
+| Paired         | Same subject measured twice or matched pairs                                                                                                                                                                 |
+| Interval scale | Quantitative. Values are ordered, differences are meaningful, but ratios don't exist as no true zero                                                                                                         |
+| ratio scale    | Quantitative. Values have order, equal intervals, true zero exists                                                                                                                                           |
+| discrete       | Observed values are confined to a certain values, usually a finite number of whole numbers (e.g. number of asthma exacerbations in a year)                                                                   |
+| continuous     | Data can take any value with certain range (e.g. weight)                                                                                                                                                     |
+| binomial       | Data may take one of two values (e.g. biological sex)                                                                                                                                                        |
+| interval       | A measurement where the difference b/w two values is meaningful, such that equal differences between values correspond to real differences between the quantities that the scale measures (e.g. temperature) |
 ### Nominal data
 Categorical data with NO natural order (Nominal = _name only_) & no ranking. 
 - e.g. Blood group, eye colour, diagnosis type.

@@ -62,7 +62,7 @@ Inactivated is given to elderly at risk (i.m.- Flu jab)
 The Department of Health recommends annual influenza vaccination for people >= 65 years and those with:  
 - chronic respiratory disease (including asthmatics who use inhaled steroids) 
 - chronic heart disease (heart failure, ischaemic heart disease, including hypertension if associated with cardiac complications) 
-- chronic kidney disease (at stages 3, 4 or 5, chronic kidney failure, nephrotic syndrome, kidney transplantation) 
+- CKD (at stages 3, 4 or 5, chronic kidney failure, nephrotic syndrome, kidney transplantation) 
 - chronic liver disease: cirrhosis, biliary atresia, chronic hepatitis 
 - chronic neurological disease: (e.g. Stroke/TIAs) 
 - diabetes mellitus (including diet controlled) 

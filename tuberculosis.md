@@ -12,7 +12,7 @@ aliases:
   - Streptomycin
   - BCG vaccine
 ---
-# Risk
+# Risk 
 Loading bay, harbour > travel to endemic country.
 Starting anyone on immunosuppressants like biologics, we do Quantiferon gold test to make sure they don't have latent TB. 
 # Clinical Features
@@ -40,6 +40,8 @@ Offer HIV test to all patients with TB.
 | Pyrazinamide    | Hepatotoxicity, hyperuricemia -> [[Gout]] (Cat C: so isn't contraindicated but avoid it)                                 |
 | Ethambutol      | [[optic neuritis]], decrease visual acuity                                                                               |
 | Streptomycin    | C/I in [[drugs contraindicated in pregnancy\|pregnancy]].<br><br>Ototoxicity: Deafness                                   |
+## Latent TB
+If isoniazid given alone it is for 6 month with pyridoxine. Or isoniazid and rifampicin for 3 months (With pyridoxine). 
 # BCG Vaccine
 BCG offers limited protection against TB. In UK, it's given to high-risk infants. 
 	*See full list of who to give vaccine at the [Greenbook](https://www.gov.uk/government/publications/tuberculosis-the-green-book-chapter-32) Page 6*. 

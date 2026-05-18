@@ -29,7 +29,8 @@ Avoid in first 21 days ([[ukmec|UKMEC]]-4: VTE Risk). After this,
 - See flowchart: [[postpartum cocp for contraception.canvas|postpartum COCP for contraception]]
 # IUS
 The intrauterine device or intrauterine system can be inserted within 48 hours of childbirth or after 4 weeks. 
-# Lactational amenorrhoea method (LAM)  
+# Lactational amenorrhoea method (LAM)
+See: [Family Planning | The GP Infant Feeding Network (UK)](https://gpifn.org.uk/family-planning/)
 - is 98% effective providing the woman is fully breast-feeding (no supplementary feeds), amenorrhoeic and < 6 months post-partum
 
 An inter-pregnancy interval of less than 12 months between childbirth and conceiving again is associated with an increased risk of preterm birth, low birth weight and small for gestational age babies.  

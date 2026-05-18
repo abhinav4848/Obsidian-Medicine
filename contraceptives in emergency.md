@@ -5,6 +5,8 @@ tags:
 aliases:
   - Emergency contraception
   - Levonorgestrel as emergency contraceptive
+  - ellaone
+  - ullipristal
 ---
 ![[contraception]]
 # Emergency Contraceptives
@@ -31,9 +33,9 @@ aliases:
 # EllaOne (Ulipristal)
 - Use within 120 hrs -> Prevents ovulation.
 - Ulipristal effectiveness can be reduced if Progesterone taken within 5 days. Contraception with the pill, patch or ring should be started/restarted 5 days after having ulipristal. Barrier methods should be used during this period.
-- ==breastfeeding should be delayed== for one week after taking ulipristal. There are no such restrictions on the use of levonorgestrel.
 - Caution in ==severe [[asthma]]==.
 - Can be used more than once in a cycle. 
+- No more discarding breastfeeding for a week after a single dose of EllaOne [Link](https://www.cosrh.org/Public/Public/Documents/FSRH-statement-Ulipristal-Acetate-and-Breastfeeding.aspx).
 # IUD
 *(IUS is not emergency contraception. See [[time for action of contraceptives]] & [[contraceptives]])*
 - Use within 120 hrs of UPSI. 

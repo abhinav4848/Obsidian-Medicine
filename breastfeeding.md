@@ -3,15 +3,22 @@ tags:
   - obstetrics
 aliases:
   - breast feeding
+  - breast engorgement
+  - mastitis
+urls:
+  - "[Family Planning | The GP Infant Feeding Network (UK)](https://gpifn.org.uk/family-planning/)"
 ---
+Best Resource: [Family Planning | The GP Infant Feeding Network (UK)](https://gpifn.org.uk/family-planning/)
 # Drugs contraindicated in breastfeeding
 [[drugs contraindicated in pregnancy]] 
+**HIV**: Mothers who are HIV positive are generally not advised to breastfeed if an acceptable, feasible, affordable, sustainable and safe replacement feeding option is available due to the risk of transmission of HIV through breast milk.
 # 'Minor' breastfeeding problems  
 - frequent feeding in a breastfed infant is not alone a sign of low milk supply
 - **nipple pain**: may be caused by a poor latch
 - **blocked duct** ('milk bleb'): causes nipple pain when breastfeeding. Breastfeeding should continue. Advice should be sought regarding the positioning of the baby. Breast massage may also be tried
 - **nipple candidiasis**: treatment for nipple candidiasis whilst breastfeeding should involve ==miconazole cream for the mother and nystatin suspension for the baby==
 # Mastitis
+*see [[mastalgia]]*  
 Affects 1 in 10 breastfeeding women. MC 6 weeks post-partum.
 ### Clinical Features
 Distinguishing between an engorged breast, blocked duct, non-infectious mastitis, and infected mastitis can be challenging. Accumulation of milk in breast tissue causes an inflammatory response (non-infectious mastitis) with inadequate milk removal predisposing to bacterial growth (infectious mastitis). Clinically this presents as a painful breast, with fever, malaise and a tender, red, swollen and hard area of the breast, usually in a wedge-shaped distribution. 
@@ -20,7 +27,7 @@ Distinguishing between an engorged breast, blocked duct, non-infectious mastitis
 - The woman has a nipple fissure that is infected.
 - Bacterial culture is positive (breast milk culture is not routinely required unless mastitis is severe, there has been no response to antibiotics, or this is recurrent mastitis).
 
-**Treat**: 'if systemically unwell, if nipple fissure present, if symptoms do not improve after 12-24 hours of effective milk removal, or if culture indicates infection'. 
+**Rx**: Treat 'if systemically unwell, if nipple fissure present, if symptoms do not improve after 12-24 hours of effective milk removal, or if culture indicates infection'. 
 - The first-line antibiotic is flucloxacillin 500 mg QDS 14 days (erythromycin 250mg - 500mg QDS for 14 days if penicillin allergic)
 - Breastfeeding or expressing should continue during treatment as this improves milk removal and prevent nipple damage. If pain prevents the woman from breast feeding she should be encouraged to express breast milk by hand or pump until breastfeeding can be resumed.
 

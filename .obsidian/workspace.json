@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "septal haematoma.md",
+                "file": "immunisation in adults.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "septal haematoma"
+              "title": "immunisation in adults"
             }
           }
         ],
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ceraze",
+                "query": "lactational",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -147,7 +147,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -160,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "septal haematoma.md",
+                "file": "immunisation in adults.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of septal haematoma"
+              "title": "Graph of immunisation in adults"
             }
           }
         ]
@@ -286,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "septal haematoma.md",
+                "file": "immunisation in adults.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +297,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for septal haematoma"
+              "title": "Backlinks for immunisation in adults"
             }
           }
         ]
@@ -318,8 +319,16 @@
   },
   "active": "9865f0b94da66420",
   "lastOpenFiles": [
-    "epistaxis.md",
+    "statistics- basics about data.md",
+    "cocp.md",
+    "breastfeeding.md",
+    "postpartum contraception.md",
+    "contraceptives in emergency.md",
+    "tuberculosis.md",
+    "panic attacks.md",
+    "mastalgia.md",
     "septal haematoma.md",
+    "epistaxis.md",
     "pain.md",
     "pain ladder- neuropathic.md",
     "gp patients are getting more complex.md",
@@ -336,14 +345,6 @@
     "haemochromatosis.md",
     "weight.md",
     "gynaecomastia.md",
-    "cancer- testes.md",
-    "mastalgia.md",
-    "pre-menstrual syndrome.md",
-    "seizure.md",
-    "irritable bowel syndrome.md",
-    "inflammatory bowel disease.md",
-    "hernias.md",
-    "school in children with rash.md",
     "attachments/melasma.jpg",
     "flow charts/postpartum cocp for contraception.canvas",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
