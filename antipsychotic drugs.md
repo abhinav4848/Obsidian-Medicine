@@ -27,7 +27,9 @@ Antipsychotics counter the effects of dopamine excess in [[delirium]], psychosis
 - Clozapine is 3rd line antipsychotic due to its s/e but 1st line in Parkinson's patients. 
 **Side Effects**: 
 - EPS less common than typicals
-- **Clozapine**: agranulocytosis, neutropenia, [[platelets|thrombocytopenia]], hypersalivation, reduced seizure threshold, myocarditis
+- **Clozapine**: agranulocytosis, neutropenia, [[platelets|thrombocytopenia]], hypersalivation, reduced seizure threshold, myocarditis.
+	- clozapine needs monthly FBC in clozapine clinic
+	- clozapine main s/e is constipation & risk of constipation is paralytic ileus. 
 - **Olanzapine**: 
 	- High risk of diabetes, dyslipidemia, obesity -> high risk of [[deep vein thrombosis|DVT]]
 	- O = big belly - causes weight gain > causes VTE. #mnemonic 
