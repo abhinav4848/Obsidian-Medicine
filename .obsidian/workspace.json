@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "immunisation in adults.md",
+                "file": "diabetes mellitus- diagnosis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "immunisation in adults"
+              "title": "diabetes mellitus- diagnosis"
             }
           }
         ],
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lactational",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -147,8 +147,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -161,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "immunisation in adults.md",
+                "file": "diabetes mellitus- diagnosis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +188,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of immunisation in adults"
+              "title": "Graph of diabetes mellitus- diagnosis"
             }
           }
         ]
@@ -287,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "immunisation in adults.md",
+                "file": "diabetes mellitus- diagnosis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,7 +296,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for immunisation in adults"
+              "title": "Backlinks for diabetes mellitus- diagnosis"
             }
           }
         ]
@@ -319,6 +318,12 @@
   },
   "active": "9865f0b94da66420",
   "lastOpenFiles": [
+    "hba1c.md",
+    "diabetes mellitus- diagnosis.md",
+    "hsp vs itp.md",
+    "platelets.md",
+    "hus vs ttp.md",
+    "immunisation in adults.md",
     "statistics- basics about data.md",
     "cocp.md",
     "breastfeeding.md",
@@ -339,12 +344,6 @@
     "loss of vision.md",
     "contraceptives.md",
     "ukmec.md",
-    "leflunomide.md",
-    "statins.md",
-    "nash.md",
-    "haemochromatosis.md",
-    "weight.md",
-    "gynaecomastia.md",
     "attachments/melasma.jpg",
     "flow charts/postpartum cocp for contraception.canvas",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",

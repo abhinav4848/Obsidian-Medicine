@@ -11,7 +11,7 @@ aliases:
 # Thrombocytosis
 - Raised platelets combined with [[dyspepsia]], nausea, vomiting, weight loss, reflux, upper abdominal pain could be sign of [[cancer- oesophagus|Oesophageal]] / [[cancer- gastric|stomach cancer]]
 - [[cancer- lung|Lung Cancer]], 
-- [[cancer- endometrial|Endometrial Cancer]] in >= 55yo who also has vaginal discharge or visible [[haematuria]]
+- [[cancer- endometrial|Endometrial Cancer]] in >= 55yo who also has vaginal discharge or visible [[haematuria]] 
 
 Thrombocytosis + low ferritin or microcytosis is concerning for GI malignancy. 
 
