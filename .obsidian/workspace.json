@@ -184,7 +184,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.07602335692185763,
+                  "scale": 0.29370944735392635,
                   "close": true
                 }
               },
@@ -317,7 +317,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "10541c2691eaa942",
+  "active": "66b70f772136150d",
   "lastOpenFiles": [
     "epistaxis.md",
     "multiple sclerosis.md",
