@@ -15,7 +15,7 @@ Six broad nausea and vomiting syndromes
 
 **Reduced gastric motility**
 - May be opioid related
-- Related to [[5-ht receptors (serotonin receptors)|Serotonin]] (5HT4) and dopamine (D2) receptors
+- Related to [[serotonin receptors|Serotonin]] (5HT4) and dopamine (D2) receptors
 - Can use [[Metoclopramide]]/Domperidone **unless** prokinetic effect will have negative effects, e.g. Complete bowel obstruction, GI perforation, soon after gastric surgery, Colic
 - Use case: Gastric Stasis (patient with malignant ascites feeling nausea/bloated/passing wind/BNO 2 days/No Colic)- First line domperidone. Consider Paracentesis if ascites significant issue. 
 

@@ -23,7 +23,7 @@ Based on area of obstruction, we get the sound
 **Inspiratory stridor**: Pathology is extra-thoracic/above vocal cords (Laryngeal obstruction)
 **Expiratory stridor**: Pathology is intrathoracic/below vocal cords (below trachea)
 
-Can be biphasic- Croup has features of both but since larynx mostly involved -> Inspiratory more common
+Can be biphasic- [[Croup]] has features of both but since larynx mostly involved -> Inspiratory more common
 
 # Wheezing
 Whistling Sound -> Narrow Airways -> Heard in Expiration

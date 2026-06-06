@@ -4,6 +4,7 @@ tags:
 aliases:
   - Serotonin receptor
   - Serotonin
+  - 5-HT receptors
 ---
 Serotonin is synthesized from Tryptophan. 
 High concentration of Serotonin is found in Intestine, platelets, brain.

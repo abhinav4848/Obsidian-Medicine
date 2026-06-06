@@ -6,7 +6,7 @@ urls:
 ---
 Has complimentary [[antiemetics|anti-emetic]] effects due to action on two different receptors:
 - [[d2 antagonism|D2-receptor antagonist]] (Avoid in Parkinson's)
-- Acts on [[5-ht receptors (serotonin receptors)|Serotonin receptor]] that helps with anti-emetic effect. 
+- Acts on [[serotonin receptors|Serotonin receptor]] that helps with anti-emetic effect. 
 	- 5-HT3 antagonist
 	- 5-HT4 agonist
 Non-sedating. 

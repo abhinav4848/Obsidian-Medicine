@@ -48,7 +48,7 @@ They are also antidepressants that are almost entirely not used, (even in compar
 # Atypical Antidepressants
 1. **SNRI**: Venlafaxine, [[Duloxetine]] (also used in [[incontinence- adult|Stress incontinence]])
 2. Atypical tetracyclic antidepressant: Mirtazapine
-	1. *NaSSA: Noradrenergic & specific serotonergic antidepressant ([[5-ht receptors (serotonin receptors)|5HT3]])* 
+	1. *NaSSA: Noradrenergic & specific serotonergic antidepressant ([[serotonin receptors|5HT3]])* 
 	2. Has useful side effects (sedation & increased appetite) -> taken in evening. 
 	3. Fewer side effects than other anti-depressants, so it's useful in older people. 
 	4. Safer to use if risk of GI bleed risk high (warfarin/heparin)
