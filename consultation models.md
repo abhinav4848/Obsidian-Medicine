@@ -35,14 +35,21 @@ Fraser
 - incorporating prevention and health promotion 
 - enhancing the doctor-patient relationship
 - being realistic (with time and resources)
-##### Pendleton - The Consultation: an Approach to Learning and Teaching - 1984, 2003  
-- define the reason for the patient's attendance (ideas, concerns and expectations)
-- consider other problems
-- with the patient, choose an appropriate action for each problem
-- achieve a shared understanding of the problems with the patient
-- involve the patient in the management and encourage him/her to accept appropriate responsibility 
-- use time and resources appropriately
-- establish or maintain a relationship with the patient which helps to achieve the other tasks
+##### Pendleton - The Consultation: an Approach to Learning and Teaching - 1984, 2003 
+7 tasks to be achieved during consultation
+1. Define the reasons for the patient’s attendance, including:
+	- the nature and history of the problems
+	- their aetiology
+	- the patient's ideas, concerns and expectations
+	- the effects of the problems.
+2. Consider other problems
+	- continuing problems
+	- at risk factors.
+3. To choose with the patient an appropriate action for each problem
+4. To achieve a shared understanding of the problem with the patient
+5. To involve the patient in the management and to encourage him or her to accept appropriate responsibility
+6. To use time and resources appropriately
+7. To establish or maintain a relationship with the patient which helps to achieve the other tasks
 ##### Fraser - Areas of competence - 1992  
 - interviewing and history-taking
 - physical examination
