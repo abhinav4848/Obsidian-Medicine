@@ -272,6 +272,20 @@
               "icon": "lucide-info",
               "title": "File properties for psoriatic arthritis"
             }
+          },
+          {
+            "id": "2aaadb8da05b646f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "consultation models.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from consultation models"
+            }
           }
         ],
         "currentTab": 3
