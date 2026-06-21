@@ -15,7 +15,7 @@ Normal Calcium: (Normal: 2.1 - 2.6mmol/L)
 - [[cancer- lung|Squamous cell carcinoma Lung]]. 
 - Multiple myeloma ([[biochemical differences in different ortho conditions|ALP is normal]]) 
 - Granuloma: [[Sarcoidosis]]/[[tuberculosis|TB]]/Histoplasmosis -> Sarcoidosis check serum ACE. 
-- Vit D intoxication, acromegaly, Thyrotoxicosis, [[Thiazides]], Ca containing antacids, Dehydration, Addison's, [[paget's disease of bone]] 
+- Vit D intoxication, acromegaly, Thyrotoxicosis, [[side effects of cvs drugs|Thiazide]], Ca containing antacids, Dehydration, Addison's, [[paget's disease of bone]] 
 # Signs
 First sign is drowsiness & increased thirst -> **Excessive thirst** presents with **hypercalcemia** first. Not hyponatremia.
 
@@ -27,9 +27,9 @@ First sign is drowsiness & increased thirst -> **Excessive thirst** presents wit
 | **Renal Stones**      | Kidney Stones (Can ultimately lead to Renal failure), Polyuria, polydipsia. (Hypercalcemia induces [[diabetes insipidus\|nephrogenic DI]]) |
 | **Abdominal Groans**  | GI symptoms due to reduced bowel movements from Calcium: Nausea, Vomiting, Constipation, Indigestion                                       |
 | **Psychiatric Moans** | Effects on nervous system: lethargy, fatigue, memory loss, psychosis, depression (low mood), confusion                                     |
-**CVS**: Short QT Interval.
+**CVS**: [[qt prolongation|shortened QT interval]].
 
-# Investigation:
+# Investigation
 **History of [[cancer- lung|Squamous cell carcinoma Lung]] + Hypercalcemia**
 1. First step: Check serum Parathyroid hormone level.
 	1. In lung malignancy, serum PTH level would be low -> (this allows us to rule out primary/ tertiary [[hyperparathyroidism]]

@@ -147,8 +147,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -331,7 +330,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "10541c2691eaa942",
+  "active": "676efa40181a3294",
   "lastOpenFiles": [
     "migraine.md",
     "serotonin receptors.md",

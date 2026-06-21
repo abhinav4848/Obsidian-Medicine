@@ -48,7 +48,6 @@ Furosemide is useful as a anti-hypertensive in patients with CKD, particularly w
 - Check U&e 3 weeks after starting & after each dose increment. Then 3-6months once max tolerated dose has been established. 
 - significant renal impairment may occur in patients who have undiagnosed bilateral renal artery stenosis
 
-
 ---
 See [[monitoring bloods with drugs]]
 

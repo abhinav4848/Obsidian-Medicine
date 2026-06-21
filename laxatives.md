@@ -62,6 +62,7 @@ Senna, Bisacodyl (Dulcolax), Sodium Picosulfate
 [Link](https://www.westmidspallcare.co.uk/wmpcp/guide/constipation/choice-of-laxatives/)
 
 Opioid receptors are present in the gastrointestinal tract. When opioids bind to these receptors they can disrupt normal gastrointestinal function, resulting in opioid-induced constipation. PAMORAs do not cross the blood brain barrier, so relieve the constipation without preventing the analgesic effect of opioids. Caution is recommended if the blood brain barrier is disturbed e.g. severe dementia.
+
 They're licensed for opioid induced constipation where other laxative has been tried. 
 - Methylnaltrexone s.c. injection: Specialist use only recommended. Onset of action: Can be rapid (within 30min); median time 1–6h.
 - Naloxegol tablet: Onset of action: Median time 5–21h. Only use as monotherapy. 
@@ -80,10 +81,13 @@ They're licensed for opioid induced constipation where other laxative has been t
 **Step 2**: Add softener laxative
 **Step 3**: Naloxegol (mechanism: opioid receptor antagonist)
 
-### Faecal impaction
+### Faecal impaction (Suppositories)
 For patients with **faecal impaction** (i.e. retention of faeces to the extent that spontaneous evacuation is unlikely), consider oral macrogol/oral stimulant laxative depending on stool consistency.
 
 If there is an inadequate response to oral laxatives, consider **rectal administration** of bisacodyl/glycerol.
+
+**Bisacodyl**: soft stool impaction. Will help get bowels moving.
+**Glycerol**: hard stool impaction. Will soften up stool and get water into the rectum. 
 
 ### Chronic constipation
 For patients with **chronic constipation** (constipation symptoms for at least three months):

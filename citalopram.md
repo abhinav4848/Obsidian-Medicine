@@ -2,6 +2,7 @@
 tags:
   - pharmacology
 ---
+[[ssri|SSRI]].
 1. Used for [[depression]].
 2. [[glaucoma- acute angle closure|Acute angle closure glaucoma]]
 3. Avoid SSRIs in patients on Warfarin
