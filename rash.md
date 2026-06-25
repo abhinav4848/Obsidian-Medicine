@@ -12,6 +12,7 @@ aliases:
 See [[different rashes in paeds]]
 See [[nappy rash]]. 
 See [[terms to describe skin lesions]]
+see [[platelets|thrombocytopenia]] 
 
 ---
 # Non Blanching rash
@@ -26,4 +27,3 @@ See [[terms to describe skin lesions]]
 - Capillaries leak and small vessels thrombose 
 - Blood extravasates into the skin → petechiae → purpura
 - Once blood is outside vessels, it does not blanch.
-

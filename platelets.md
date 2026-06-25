@@ -42,3 +42,10 @@ Thrombocytosis + low ferritin or microcytosis is concerning for GI malignancy.
 	- **Flame shaped haemorrhage** on [[ophthalmoscopy]]: Larger haemorrhages with a flame-like appearance caused by rupture of pre-capillary arterioles or small veins in the retinal nerve fibre layer. 
 	- GI bleed
 	- Intracranial bleed
+
+Old man with rapidly evolving purpura & 
+children
+neighbours
+district neighbours
+can i send the district nurse to you today?
+how can we help? 
