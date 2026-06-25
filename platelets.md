@@ -43,9 +43,3 @@ Thrombocytosis + low ferritin or microcytosis is concerning for GI malignancy.
 	- GI bleed
 	- Intracranial bleed
 
-Old man with rapidly evolving purpura & 
-children
-neighbours
-district neighbours
-can i send the district nurse to you today?
-how can we help? 

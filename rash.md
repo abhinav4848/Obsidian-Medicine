@@ -16,7 +16,7 @@ see [[platelets|thrombocytopenia]]
 
 ---
 # Non Blanching rash
-[Geekymedics](https://geekymedics.com/non-blanching-rashes/) 
+[Geeky Medics](https://geekymedics.com/non-blanching-rashes/) 
 - Meningococcal sepsis
 - [[hsp vs itp|Henoch-Schönlein purpura]] (HSP)
 - Immune thrombocytopenic purpura (ITP)
