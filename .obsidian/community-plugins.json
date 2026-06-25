@@ -1,8 +1,8 @@
 [
+  "advanced-canvas",
+  "symbols-prettifier",
+  "obsifetch",
   "links",
   "obsidian-git",
-  "obsifetch",
-  "dynamic-outline",
-  "advanced-canvas",
-  "symbols-prettifier"
+  "dynamic-outline"
 ]

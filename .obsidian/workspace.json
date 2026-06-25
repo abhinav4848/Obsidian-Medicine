@@ -266,25 +266,15 @@
             }
           },
           {
-            "id": "d7f371dc268b2234",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "f773b2f74c015d2b",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "psoriatic arthritis.md"
+                "file": "multiple sclerosis.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for psoriatic arthritis"
+              "title": "File properties for multiple sclerosis"
             }
           },
           {
@@ -345,7 +335,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "9865f0b94da66420",
+  "active": "f773b2f74c015d2b",
   "lastOpenFiles": [
     "video scripts/meningitis final youtube.md",
     "video scripts/meningitis in kent.md",
