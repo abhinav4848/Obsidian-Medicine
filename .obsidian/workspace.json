@@ -56,13 +56,30 @@
             "id": "6fcee35455fe0ddd",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "housekeeping/memorise.base",
-                "viewName": "revision"
+                "file": "als- anaphylaxis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "memorise"
+              "icon": "lucide-file",
+              "title": "als- anaphylaxis"
+            }
+          },
+          {
+            "id": "08e912ae308de20f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gp portfolio.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "gp portfolio"
             }
           },
           {
@@ -81,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "housekeeping/memorise.base",
+                "file": "gp portfolio.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of memorise"
+              "title": "Graph of gp portfolio"
             }
           }
         ]
@@ -254,10 +271,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "housekeeping/memorise.base"
+                "file": "gp portfolio.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for memorise"
+              "title": "File properties for gp portfolio"
             }
           },
           {
@@ -288,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "housekeeping/memorise.base",
+                "file": "gp portfolio.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -298,7 +315,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for memorise"
+              "title": "Backlinks for gp portfolio"
             }
           }
         ]
@@ -318,8 +335,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6fcee35455fe0ddd",
+  "active": "08e912ae308de20f",
   "lastOpenFiles": [
+    "als- anaphylaxis.md",
+    "gp portfolio.md",
+    "housekeeping/memorise.base",
     "2025-12-31.md",
     "multiple sclerosis.md",
     "video scripts/meningitis final youtube.md",
@@ -345,8 +365,6 @@
     "postpartum contraception.md",
     "contraceptives in emergency.md",
     "tuberculosis.md",
-    "panic attacks.md",
-    "mastalgia.md",
     "attachments/melasma.jpg",
     "flow charts/postpartum cocp for contraception.canvas",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
@@ -354,7 +372,6 @@
     "attachments/actinic keratoses on hand.jpg",
     "attachments/acute otitis media.jpg",
     "attachments/varicocele.jpg",
-    "housekeeping/memorise.base",
     "attachments/ecg- hypo vs hyperkalemia.jpg",
     "attachments/prader willi.jpg",
     "flow charts/h. pylori treatment flowchart.canvas",
