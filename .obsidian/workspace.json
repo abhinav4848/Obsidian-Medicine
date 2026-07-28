@@ -71,15 +71,17 @@
             "id": "08e912ae308de20f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "diabetes mellitus- diagnosis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "flow charts/hypertension management.canvas",
+                "viewState": {
+                  "x": 218.5,
+                  "y": 26,
+                  "zoom": -0.8413932914607937
+                }
               },
-              "icon": "lucide-file",
-              "title": "diabetes mellitus- diagnosis"
+              "icon": "lucide-layout-dashboard",
+              "title": "hypertension management"
             }
           },
           {
@@ -131,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hba1c",
+                "query": "htn",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -176,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "diabetes mellitus- diagnosis.md",
+                "file": "flow charts/hypertension management.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,7 +206,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of diabetes mellitus- diagnosis"
+              "title": "Graph of hypertension management"
             }
           }
         ]
@@ -272,10 +274,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "diabetes mellitus- diagnosis.md"
+                "file": "flow charts/hypertension management.canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for diabetes mellitus- diagnosis"
+              "title": "File properties for hypertension management"
             }
           },
           {
@@ -306,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diabetes mellitus- diagnosis.md",
+                "file": "flow charts/hypertension management.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +318,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for diabetes mellitus- diagnosis"
+              "title": "Backlinks for hypertension management"
             }
           }
         ]
@@ -338,8 +340,10 @@
   },
   "active": "08e912ae308de20f",
   "lastOpenFiles": [
-    "hba1c.md",
+    "hypertension.md",
+    "ace inhibitors.md",
     "diabetes mellitus- diagnosis.md",
+    "hba1c.md",
     "gp portfolio.md",
     "als- anaphylaxis.md",
     "housekeeping/memorise.base",
@@ -364,8 +368,6 @@
     "cocp.md",
     "breastfeeding.md",
     "postpartum contraception.md",
-    "contraceptives in emergency.md",
-    "tuberculosis.md",
     "attachments/melasma.jpg",
     "flow charts/postpartum cocp for contraception.canvas",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",

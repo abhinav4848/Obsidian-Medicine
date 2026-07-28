@@ -21,7 +21,8 @@ Or
 | FBG                          | =< 6.0         | 6.1 - 6.9 (IFG)      | >=7 mmol/L              | >= 5.6 mmol/L                  |
 | 2 hr. with OGTT              |                | 7.8 - 11 (IGT)       | >11 mmol/L              | >= 7.8                         |
 | [[HbA1c]]<br>(% is mmol/mol) | =<41<br>=<5.9% | 42 - 47<br>6% - 6.4% | >=48 mmol/mol<br>>=6.5% |                                |
-*Note: FBG & OGTT values are mmol/L. HbA1c values are mmol/mol*
+***Note**: FBG & OGTT values are mmol/L. 
+HbA1c values: IFCC is mmol/mol, DCCT is %*
 
 #Mnemonic: 
 - 7/11 (Diabetes >=7 fasting, or >11 post prandial) every other day (48 hrs)

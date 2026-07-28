@@ -9,9 +9,10 @@ aliases:
   - ACE inhibitors
 ---
 # Uses
-### [[Hypertension]]
-First line if HTN + diabetes
+### Hypertension
+First line if [[hypertension|HTN]] + diabetes
 - But if no diabetes, first line only if <55 & not [[afro-caribbean]]. 
+- The usual ethnic-based approach (starting with a [[calcium channel blockers|CCB]] in African/Caribbean patients) is superseded by the presence of diabetes.
 ### Diabetes
 - Protects against diabetic retinopathy
 - Positive effect on glucose metabolism. 

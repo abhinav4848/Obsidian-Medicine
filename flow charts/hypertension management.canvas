@@ -3,7 +3,6 @@
 		{"id":"63ffa953eebb587c","type":"text","text":"White","x":-570,"y":-204,"width":130,"height":60},
 		{"id":"4536df9e3b8a628d","type":"text","text":"Use [[calcium channel blockers|CCB]]\n\nDon't use DHP (Verapamil or Diltiazem)\n- Use Amlodipine for HTN in any non-white/ white>55yo.\n\t- Amlodipine can cause Ankle swelling due to vasodilation\n\t- Verapamil, Diltiazem, Amlodipine, Nifedipine- Ankle edema (vasodilation), Gingival hyperplasia\n- Use Verapamil for Heart (A Fib) but not for V Tach\n- Don't use Verapamil for Torsades. But use it for PSVT if asthma.\n","x":-570,"y":132,"width":530,"height":279,"color":"4"},
 		{"id":"f8942e5a89143d20","type":"text","text":"[[ace inhibitors|ACE inhibitor]]\nor\nARB","x":-802,"y":132,"width":182,"height":114,"color":"4"},
-		{"id":"39c50b5512e3e378","type":"text","text":"Step 1","x":-440,"y":-380,"width":120,"height":60},
 		{"id":"ca4dc1edc8baf7e3","type":"text","text":"Afro-Caribbean","x":-320,"y":-204,"width":202,"height":60},
 		{"id":"42317c1b52157100","type":"text","text":"A+ (C or D)\n*(regardless of age/colour)*\n\nPrefer ARB in Afro-Caribbean.","x":-40,"y":-204,"width":280,"height":141,"color":"4"},
 		{"id":"69efd9efc9132715","type":"text","text":"A+C+D\n\nUse thiazide-like diuretics. NICE doesn’t recommend Bendroflumethiazide anymore but if someone is controlled on it, let them be.\n\nPrefer Thiazide-like Diuretic such as:\n- Indapamide\n- Chlorthalidone","x":280,"y":-204,"width":352,"height":281,"color":"4"},
@@ -25,7 +24,18 @@
 		{"id":"8c656f855c8b96b2","type":"text","text":"if eGFR >30","x":57,"y":471,"width":183,"height":60,"color":"2"},
 		{"id":"09126ad79128a24c","type":"text","text":"Any ethnicity, any age","x":11,"y":203,"width":269,"height":60,"color":"2"},
 		{"id":"8e139ea5232e3563","type":"text","text":"# [[Hypertension]]\nSee [NICE CKS](https://www.nice.org.uk/guidance/ng136/resources/visual-summary-pdf-6899919517)","x":108,"y":-680,"width":288,"height":140},
-		{"id":"0f89daba407215e0","type":"text","text":"HTN + DM","x":66,"y":47,"width":160,"height":60,"color":"2"}
+		{"id":"0f89daba407215e0","type":"text","text":"HTN + DM","x":66,"y":47,"width":160,"height":60,"color":"2"},
+		{
+			"id":"33990441b53bb7f8",
+			"type":"text",
+			"text":"HTN + Diabetes",
+			"styleAttributes":{},
+			"x":-840,
+			"y":-204,
+			"width":160,
+			"height":60
+		},
+		{"id":"39c50b5512e3e378","type":"text","text":"Step 1 (HTN w/o DM)","x":-464,"y":-380,"width":221,"height":60}
 	],
 	"edges":[
 		{"id":"0176795ef5092546","fromNode":"39c50b5512e3e378","fromSide":"bottom","toNode":"63ffa953eebb587c","toSide":"top"},
@@ -50,7 +60,16 @@
 		{"id":"36fc309c438988d5","fromNode":"26acdfee9f1b892f","fromSide":"bottom","toNode":"8c656f855c8b96b2","toSide":"top"},
 		{"id":"1365f1a45d364c5f","fromNode":"8c656f855c8b96b2","fromSide":"bottom","toNode":"d9a10714ab6582a9","toSide":"top"},
 		{"id":"4dc47db2ee7b8a47","fromNode":"26acdfee9f1b892f","fromSide":"bottom","toNode":"244448c57820f619","toSide":"top"},
-		{"id":"a3e5b334a4a1fed8","fromNode":"9f71135106e88d13","fromSide":"bottom","toNode":"968f56e7299d4484","toSide":"right"}
+		{"id":"a3e5b334a4a1fed8","fromNode":"9f71135106e88d13","fromSide":"bottom","toNode":"968f56e7299d4484","toSide":"right"},
+		{
+			"id":"8ff6c65ca26cc38f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"33990441b53bb7f8",
+			"fromSide":"bottom",
+			"toNode":"f8942e5a89143d20",
+			"toSide":"left"
+		}
 	],
 	"metadata":{
 		"version":"1.0-1.0",
