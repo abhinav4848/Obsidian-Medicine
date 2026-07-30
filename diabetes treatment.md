@@ -13,7 +13,7 @@ urls:
 ![[diabetes articles]]
 
 [[hba1c|HbA1c]] target < 48 (i.e. Pre-diabetic levels are acceptable)
-	*See [[diabetes mellitus- diagnosis]]* 
+	*See [[diabetes- diagnosis]]* 
 
 # Diet advice
 - encourage high fibre, low glycaemic index sources of carbohydrates

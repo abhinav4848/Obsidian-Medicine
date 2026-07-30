@@ -4,6 +4,7 @@ tags:
   - diabetes
 aliases:
   - diagnosing diabetes mellitus
+  - diabetes mellitus- diagnosis
 ---
 ![[diabetes articles]]
 

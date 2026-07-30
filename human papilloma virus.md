@@ -9,6 +9,7 @@ aliases:
   - Verruca Vulgaris
   - Verruca plana
   - Condyloma latum
+  - condylomata acuminata
 ---
 6, 11: Genital warts, Anal warts (Anogenital warts-> [[human papilloma virus|Condyloma acuminatum]])
 16, 18, 33: [[cancer- cervical|Cervical Cancer]] ([[cancer- screening programs]])

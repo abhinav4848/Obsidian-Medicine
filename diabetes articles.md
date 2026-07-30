@@ -4,7 +4,7 @@ tags:
   - list
 ---
 >[!info]- Diabetes TOC
-> - [[diabetes mellitus- diagnosis|Diagnosis]] 
+> - [[diabetes- diagnosis|Diagnosis]] 
 > - [[diabetes treatment|Treatment]] 
 > 	- [[diabetes drugs|Drugs]], [[insulin]]
 > 	- [[hba1c|HbA1c]] 

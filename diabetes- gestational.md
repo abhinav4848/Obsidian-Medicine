@@ -9,7 +9,7 @@ aliases:
   - gestational diabetes mellitus
   - gestational diabetes
 ---
-*See [[diabetes mellitus- diagnosis]].* 
+*See [[diabetes- diagnosis]].* 
 ![[diabetes articles]]
 
 Not everyone gets a screening test. At the first antenatal appointment, (booking appointment) at 8-12 weeks, risk factors are assessed and if having >=1 risk factor, screening test offered. 
@@ -56,7 +56,7 @@ Give 75gm OGTT.
 These targets are lower than for DM because this is where the risk to fetus meaningfully increases.  
 
 >[!tip]- Diagnostic cutoff for DM
->![[diabetes mellitus- diagnosis#Diagnostic cutoff for DM (is transcluded)]]
+>![[diabetes- diagnosis#Diagnostic cutoff for DM (is transcluded)]]
 ### Targets for self monitoring of pregnant women (For both pre-existing & GDM) 
 
 | Time               | Target      |

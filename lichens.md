@@ -7,17 +7,18 @@ aliases:
   - neurodermatitis
   - lichen simplex
   - Balanitis xerotica obliterans
+  - lichen sclerosus
 ---
 # [[Lichen planus]]
 
 ---
 # Lichen Sclerosus
-- [Dermnetz](https://www.dermnetnz.org/topics/lichen-sclerosus/) 
+- [Dermnetz- Lichen Sclerosus](https://www.dermnetnz.org/topics/lichen-sclerosus/) 
 - British Association for Sexual Health and HIV- [Management of Vulval Conditions (2014)](https://bssvd.org/wp-content/uploads/2018/06/BASH-UK-national-guideline-for-the-management-of-vulval-conditions-2014.pdf) 
-- [PCDS](https://www.pcds.org.uk/clinical-guidance/lichen-sclerosis)
+- [PCDS- Lichen Sclerosis](https://www.pcds.org.uk/clinical-guidance/lichen-sclerosis)
 
 Affects genitalia only -> seen mostly on vulva of elderly women  
-Chronic, pale, atrophic, crinkled, white plaques on anogenital skin + itching at night
+Chronic, pale, atrophic, crinkled, white plaques on anogenital skin + itching at night. Seen in uncircumcised men who have developed a tight white ring around the tip of foreskin & [[phimosis]]. 
 ## Treatment
 Very potent [[steroids in dermatology|Topical Steroids]] (Clobetasol propionate 0.05%), 
 Follow up 3-6 months because 5% risk of SCC vulva seen in old age. #associated 
@@ -25,9 +26,9 @@ Follow up 3-6 months because 5% risk of SCC vulva seen in old age. #associated
 Emollients to continue
 
 ---
-# Balanitis xerotica obliterans
+# [[Balanitis]] xerotica obliterans
 Male equivalent. Affects foreskin, glans, urethral meatus. 
-Age: Prepubertal boys, Middle aged men
+**Age**: Prepubertal boys, Middle aged men
 Also needs potent topical steroids, circumcision. 
 
 ---

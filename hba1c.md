@@ -32,7 +32,7 @@ Old way to measure was %
 New way to measure is with mmol/mol
 `% value x 7 = mmol value`
 
-See [[diabetes treatment]] & [[diabetes mellitus- diagnosis]]. 
+See [[diabetes treatment]] & [[diabetes- diagnosis]]. 
 
 | % (DCCT) | mmol/mol (IFCC) | Target from [NICE](https://cks.nice.org.uk/topics/diabetes-type-2/management/management-adults/#treatment-targets)                                                                                                                                                             |
 | -------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
