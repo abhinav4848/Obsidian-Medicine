@@ -33,19 +33,13 @@ There are three things which form the basis of the management of all causes of b
 - Ensuring to wash properly under the foreskin
 - In the case of more severe irritation and discomfort then 1% hydrocortisone can be used for a short period.
 When the cause is not clear, these measures can often resolve the condition alone.
-
-
-- Sexually transmitted infection ([[chlamydia]], [[gonorrhoea]]): doxy for chlamydia, ceftriaxone for gonorrhoea
-- Dermatitis: topical hydrocortisone
-- Bacterial infection: flucloxacillin or erythromycin or metronidazole according to sensitivity
-
-In cases of recurrent balanitis (>=3 in a year), the most appropriate treatment is circumcision, which will prevent the condition from recurring.
-
-
-Specific treatment:  
+##### Specific treatment:  
 - Candidiasis: Topical clotrimazole, or miconazole, or nystatin cream which has to be applied for two weeks to fully treat the infection.
 - Bacterial balanitis: MC due to Staph or GB Strep. Oral flucloxacillin / [[macrolides|Clarithromycin]] if pen allergic / erythromycin
 - Anaerobic balanitis: Saline washing, topical / oral metronidazole if not settling.
-- Dermatitis and circinate balanitis are managed with mild potency topical corticosteroids (e.g. hydrocortisone)
-- Lichen sclerosus and plasma cell balanitis of Zoon are managed with high potency topical steroids (e.g. clobetasol).
+- Dermatitis and circinate balanitis: Mild potency topical corticosteroids (e.g. hydrocortisone).
+- STI ([[chlamydia]], [[gonorrhoea]]): doxy for chlamydia, ceftriaxone for gonorrhoea
+- Lichen sclerosus and plasma cell balanitis of Zoon are managed with high potency topical steroids (e.g. [[steroids in dermatology|clobetasol]]).
 - Circumcision can help in the case of lichen sclerosus.
+
+In cases of recurrent balanitis (>=3 in a year), the most appropriate treatment is circumcision, which will prevent the condition from recurring.

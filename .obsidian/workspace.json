@@ -13,94 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "epstein barr virus.md",
+                "file": "molluscum contagiosum.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "epstein barr virus"
-            }
-          },
-          {
-            "id": "90deb18544b37d06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "foot problems.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "foot problems"
-            }
-          },
-          {
-            "id": "de3f0d04e02fcc59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "depression.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "depression"
-            }
-          },
-          {
-            "id": "6fcee35455fe0ddd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "als- anaphylaxis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "als- anaphylaxis"
-            }
-          },
-          {
-            "id": "08e912ae308de20f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "flow charts/hypertension management.canvas",
-                "viewState": {
-                  "x": 218.5,
-                  "y": 26,
-                  "zoom": -0.8413932914607937
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "hypertension management"
-            }
-          },
-          {
-            "id": "9865f0b94da66420",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "balanitis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "balanitis"
+              "title": "molluscum contagiosum"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diabetes",
+                "query": "wart",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -178,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "balanitis.md",
+                "file": "molluscum contagiosum.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -206,7 +128,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of balanitis"
+              "title": "Local graph"
             }
           }
         ]
@@ -274,10 +196,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "balanitis.md"
+                "file": "molluscum contagiosum.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for balanitis"
+              "title": "File properties"
             }
           },
           {
@@ -308,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "balanitis.md",
+                "file": "molluscum contagiosum.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -318,7 +240,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for balanitis"
+              "title": "Backlinks"
             }
           }
         ]
@@ -338,10 +260,18 @@
       "graph:Open graph view": false
     }
   },
-  "active": "9865f0b94da66420",
+  "active": "7fc7ecc2c6c917cc",
   "lastOpenFiles": [
-    "macrolides.md",
+    "viral wart.md",
+    "molluscum contagiosum.md",
+    "epstein barr virus.md",
+    "foot problems.md",
+    "depression.md",
+    "als- anaphylaxis.md",
+    "flow charts/hypertension management.canvas",
+    "steroids in dermatology.md",
     "balanitis.md",
+    "macrolides.md",
     "lichens.md",
     "cancer- penis.md",
     "cancer- skin.md",
@@ -352,22 +282,14 @@
     "diabetes- diagnosis.md",
     "diabetes articles.md",
     "multiple sclerosis.md",
-    "flow charts/hypertension management.canvas",
     "hypertension.md",
     "ace inhibitors.md",
     "hba1c.md",
     "gp portfolio.md",
-    "als- anaphylaxis.md",
     "housekeeping/memorise.base",
     "2025-12-31.md",
     "video scripts/meningitis final youtube.md",
     "video scripts/meningitis in kent.md",
-    "2026-06-25 sca questions.md",
-    "alex/c_7a0E14gwM.md",
-    "abdominal aortic aneurysm.md",
-    "platelets.md",
-    "rash.md",
-    "consultation models.md",
     "desktop.ini",
     "attachments/melasma.jpg",
     "flow charts/postpartum cocp for contraception.canvas",

@@ -15,7 +15,8 @@ If on hand, more common to spread.
 
 # Treatment
 Treatment mostly not required. 
-- Most of them will resolve spontaneously within months or at most within 2 years. 
+- Most of them will resolve spontaneously within months, 10 weeks, else at most within 2 years. 
+- If not clears in 10 weeks, other treatments can be considered. 
 - In adults it can take up to 10 years.
 - No treatment if not causing any problems. 
 
