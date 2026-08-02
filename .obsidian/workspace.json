@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "molluscum contagiosum.md",
+                "file": "cancer- skin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "molluscum contagiosum"
+              "title": "cancer- skin"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wart",
+                "query": "scc skin",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "molluscum contagiosum.md",
+                "file": "cancer- skin.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "molluscum contagiosum.md"
+                "file": "cancer- skin.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "molluscum contagiosum.md",
+                "file": "cancer- skin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,9 +262,9 @@
   },
   "active": "7fc7ecc2c6c917cc",
   "lastOpenFiles": [
+    "molluscum contagiosum.md",
     "desktop.ini",
     "viral wart.md",
-    "molluscum contagiosum.md",
     "epstein barr virus.md",
     "foot problems.md",
     "depression.md",
