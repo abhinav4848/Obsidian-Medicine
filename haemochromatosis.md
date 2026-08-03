@@ -28,13 +28,13 @@ It's most prevalent in people of European descent, making it more common than [[
 # Complications 
 #important 
 
-| **Reversible complications**                | **Irreversible complications**                                                                      |
-| ------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| - [[cardiomyopathy]]<br>- Skin pigmentation | - Liver cirrhosis\*\* <br>- Diabetes mellitus<br>- Hypo-gonadotrophic hypogonadism<br>- Arthropathy |
+| **Reversible complications**                | **Irreversible complications**                                                                                              |
+| ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| - [[cardiomyopathy]]<br>- Skin pigmentation | - Liver cirrhosis\*\* <br>- [[diabetes treatment\|Diabetes Mellitus]]<br>- Hypo-gonadotrophic hypogonadism<br>- Arthropathy |
 There are rare cases of families with classic features of genetic haemochromatosis but no mutation in the HFE gene. 
 
 \*\* Whilst elevated liver function tests and hepatomegaly may be reversible, cirrhosis is not. 
-# Management
+# Management 
 Venesection is first line. 
 - Transferrin saturation should be kept below 50% and the serum ferritin concentration below 50 ug/l. 
 - Desferrioxamine may be used second-line

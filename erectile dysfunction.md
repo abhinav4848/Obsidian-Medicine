@@ -16,6 +16,7 @@ Other than increasing age, risk factors include:
 - alcohol use
 - drugs: [[ssri|SSRIs]], beta-blockers
 - [[haemochromatosis]] 
+- [[hypothyroidism]] 
 # Investigations  
 Check Q-Risk by measuring lipid and fasting glucose serum levels.  
 
