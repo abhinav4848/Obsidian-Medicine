@@ -4,7 +4,9 @@ tags:
 aliases:
   - ED
 ---
-Erectile dysfunction (ED): Persistent inability to attain and maintain an erection sufficient to permit satisfactory sexual performance. It is a symptom and not a disease and the causes can broadly be split into organic, psychogenic and mixed. 
+
+> [!Definition]
+> Persistent inability to attain and maintain an erection sufficient to permit satisfactory sexual performance. It is a symptom and not a disease and the causes can broadly be split into organic, psychogenic and mixed. 
 
 |Factors favouring an organic cause|Factors favouring a psychogenic causes|
 |---|---|
@@ -13,6 +15,7 @@ Other than increasing age, risk factors include:
 - cardiovascular disease risk factors: obesity, diabetes mellitus, dyslipidaemia, metabolic syndrome, hypertension, smoking
 - alcohol use
 - drugs: [[ssri|SSRIs]], beta-blockers
+- [[haemochromatosis]] 
 # Investigations  
 Check Q-Risk by measuring lipid and fasting glucose serum levels.  
 
@@ -27,8 +30,8 @@ PDE-5 inhibitors (such as [[sildenafil]], 'Viagra', Tadalafil, 'Cialis', Vardena
 Vacuum erection devices are recommended as first-line treatment in those who can't/won't take a PDE-5 inhibitor.  
 #### Other points
 - for a young man who has always had difficulty achieving an erection, referral to urology is appropriate
-- people with ED who cycle for more than three hours per week should be advised to stop (Long periods on a bicycle saddle can compress structures in the perineum (especially Pudendal nerve & Penile blood vessels). This can lead to: Numbness (“cyclist’s syndrome”), Reduced blood flow, Potential contribution to ED over time
-#### Side-effects  
+- people with ED who cycle for more than three hours per week should be advised to stop (Long periods on a bicycle saddle can compress structures in the perineum (especially Pudendal nerve & Penile blood vessels). This can lead to: Numbness ("cyclist's syndrome" #named ), Reduced blood flow, Potential contribution to ED over time. 
+#### Side-effects of Meds
 - visual disturbances
     - [[colour & vision changes in body|blue discolouration]]
     - [[anterior ischaemic optic neuropathy|non-arteritic anterior ischaemic neuropathy]]

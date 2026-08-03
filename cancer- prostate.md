@@ -25,11 +25,11 @@ But if not confirmed, then they do trans-perineal biopsy
 - **Refer men for 2ww if their prostate feels malignant on digital rectal examination.**
 - Consider a prostate-specific antigen (PSA) test and digital rectal examination to assess for prostate cancer in men with:
     - Any lower urinary tract symptoms, such as nocturia, urinary frequency, hesitancy, urgency or retention, or
-    - Erectile dysfunction, or
-    - Visible haematuria. 
+    - [[erectile dysfunction]], or
+    - Visible [[haematuria]]. 
 - **Refer men using a suspected cancer pathway referral (for an appointment within 2 weeks) for prostate cancer if their PSA levels are above the age-specific reference range.**
 # Complication 
-[[cancers metastasizing to the bone|Bone mets]] 
+[[cancers metastasizing to the bone|Bone mets]] - Prostate cancer -> bone mets (ribs, pelvis, and particularly the lower spine).
 ## Prognosis
 The Gleason score is used to predict prognosis in patients with prostatic cancer. The grading system is based on the glandular architecture seen on histology following hollow needle biopsy  
   
