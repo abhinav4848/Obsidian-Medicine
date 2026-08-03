@@ -7,9 +7,12 @@ aliases:
 revision counter: 1
 ---
 # [[cancer- colorectal|Colorectal cancer]]
+- [Bowel cancer screening: programme overview - GOV.UK](https://www.gov.uk/guidance/bowel-cancer-screening-programme-overview)
+- [Bowel cancer screening: care pathways - GOV.UK](https://www.gov.uk/government/publications/bowel-cancer-screening-care-pathway/bowel-cancer-screening-care-pathway)
+
 Faecal immunochemical test (FIT). 
-60 - 74yo every 2 years (England), 
-50 - 74yo (Scotland).
+- 60 - 74yo every 2 years (England), ? age 50 years. 
+- 50 - 74yo (Scotland).
 *Then on request a kit every 2 years*
 
 Local hub Phone: 0800-707-... 

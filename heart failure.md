@@ -2,6 +2,7 @@
 aliases:
   - Right Heart Failure
   - Left Heart Failure
+  - HF
 tags:
   - cardio
 urls:
@@ -46,7 +47,7 @@ The following medications may exacerbate heart failure:
 
 ---
 # DRUGS
-NICE: https://www.nice.org.uk/guidance/ng106
+NICE: [Overview | CHF in adults: diagnosis and management | Guidance | NICE](https://www.nice.org.uk/guidance/ng106)
 [Chronic Heart failure 2025 Flowchart](https://www.nice.org.uk/guidance/ng106/resources/chronic-heart-failure-core-treatments-for-heart-failure-pdf-6663137725) 
 Monitor U&E with these drugs
 
@@ -59,7 +60,7 @@ Avoid these in HF: [[nsaid|NSAID]], [[diabetes drugs|Pioglitazone]], Doxazosin, 
 - Beta Blocker
 	- Both ACEi & [[beta adrenergic receptors|BB]] (Metoprolol, Bisoprolol, Carvedilol) reduce mortality by reducing afterload.
 - MRA
-	- Spironolactone. Monitor K+ & renal function (eGFR) as both ACEi & MRA (mineralocorticoid receptor antagonist) cause [[hyperkalemia]]. Spironolactone reduces the instance of sudden cardiac death and should be offered to any patient who has LV systolic dysfunction following MI.
+	- [[spironolactone]]. Monitor K+ & renal function (eGFR) as both ACEi & MRA (mineralocorticoid receptor antagonist) cause [[hyperkalemia]]. Spironolactone reduces the instance of sudden cardiac death and should be offered to any patient who has LV systolic dysfunction following MI.
 - SGLT2 inhibitor
 	- Dapagliflozin: Reduces hospitalization secondary to heart failure & Cardiovascular death.
 ### 2nd Line
@@ -80,7 +81,6 @@ Amiloride (Direct inhibitor of Na+ channel, K+ sparing) is also **symptomatic be
 Digoxin doesn't affect mortality. 
 
 Avoid [[calcium channel blockers|verapamil, diltiazem]] and short-acting dihydropyridine agents in people who have heart failure with reduced ejection fraction.
-
 ## HFpEF
 MRA & SGLT2 inhibitors
 ## Other treatments %%linked%%

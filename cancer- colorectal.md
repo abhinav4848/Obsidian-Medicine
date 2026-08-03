@@ -6,7 +6,8 @@ tags:
   - cancer
   - gastro
 urls:
-  - https://cks.nice.org.uk/topics/gastrointestinal-tract-lower-cancers-recognition-referral/
+  - "[CKS- Lower GI Cancers referral](https://cks.nice.org.uk/topics/gastrointestinal-tract-lower-cancers-recognition-referral/)"
+  - "[Bowel cancer screening: programme overview - GOV.UK](https://www.gov.uk/guidance/bowel-cancer-screening-programme-overview)"
 ---
 *See [[cancer- screening programs]].* 
 
@@ -16,7 +17,7 @@ Most cancers develop from adenomatous polyps.
 # Clinical Features
 Rectal bleeding, Change in bowel habit (mostly [[diarrhoea]]), occult bleed leading to [[anaemia|anaemia]], abdo pain, weight loss, malaise. 
 
-Cecum is most common site. 
+Caecum is most common site. 
 # Tests
 - Raised FIT will then be confirmed with colonoscopy.
 - All newly diagnosed patients should have CEA ([[tumour marker]]) for staging & then monitoring after treatment.

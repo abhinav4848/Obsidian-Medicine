@@ -14,7 +14,7 @@ aliases:
 #### Beta blockers:
 - Bisoprolol, Atenolol
 	- ==Do not offer to people with second-degree or third-degree heart block who do not have a pacemaker or to people with pulse < 50 bpm==
-	- Gets withheld at times in people due to: 
+	- Gets withheld at times in people due to: (but should not be solely due to these)
 	    - age
 	    - presence of peripheral vascular disease
 	    - [[erectile dysfunction]]
