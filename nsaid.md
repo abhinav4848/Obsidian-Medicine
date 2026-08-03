@@ -3,6 +3,8 @@ aliases:
   - NSAID
   - NSAIDs
   - Triple whammy
+  - Reye Syndrome
+  - Reye's Syndrome
 tags:
   - pharmacology
 ---
@@ -49,7 +51,15 @@ Whether NSAID can be given in [[asthma]] depends on the type of asthma and the p
 	- In [Leicester](https://www.areaprescribingcommitteeleicesterleicestershirerutland.nhs.uk/traffic-lights/?search_term=celecoxib) (2026, Feb), Celecoxib is to be prescribed by specialists only for either inflammatory pain associated with cancer/other palliative conditions, or for pain and inflammation for asthmatic patients with NSAID allergy. 
 
 # Aspirin in Children
-Avoid aspirin in children < 16yo due to risk of reye syndrome. Can give in [[kawasaki disease]] however as benefit > risk.
+Aspirin is contraindicated as an analgesic in children <16yo due to the risk of Reye's syndrome.
+Can give Aspirin where benefit > risk. 
+- [[kawasaki disease]]
+- As an antiplatelet for prevention of thrombus formation following surgery.
+### Reye Syndrome 
+Rash, fever, vomiting -> can rapidly progress to encephalopathy and can be fatal.
+- Encephalopathy: confusion, seizures, cerebral oedema, coma
+- Fatty infiltration of the liver, kidneys and pancreas
+- Hypoglycaemia
 # Aspirin & dental procedures
 Can continue for dental surgeries. 
 

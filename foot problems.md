@@ -48,9 +48,19 @@ aliases:
 | Charcot foot (scroll down) | aka Neuropathic joint. A joint which has become badly disrupted and damaged secondary to a loss of sensation.                                                                                                                                                                                                                                                                                                       |
 # Morton's neuroma
 [PCDS- Peripheral neuroectodermal tumours (Morton neuroma)](https://www.pcds.org.uk/clinical-guidance/peripheral-neuroectodermal-tumours) 
-Most commonly occurs in women aged 40–50 who wear high heeled shoes. The pain is due to entrapment of the interdigital nerve between the 3rd/4th metatarsal heads. However, other interspaces can be involved.
+- Is the result of damage to the plantar digital nerve, followed by fibrosis.
+- Most commonly occurs in women aged 40–50 who wear high heeled shoes. 
+- Pain due to entrapment of the interdigital nerve b/w the 3rd/4th metatarsal heads. However, other interspaces can be involved.
 
-Symptoms include gradual onset of sudden attacks of pain or paraesthesia on walking. Clinical examination is the mainstay of diagnosis. There is localised tenderness over the site of the neuroma. There may be diminished sensation in the affected cleft. Compression of the forefoot with pressure at the intermetatarsal space often elicits a click as the nerve is pushed between the metatarsals (termed a Mulder's click). Ultrasound scans are considered by many the diagnostic test of choice. Excision is the recommended treatment
+Symptoms:
+- Clinical examination is the mainstay of diagnosis. 
+- Gradual onset of sudden attacks of pain or paraesthesia on walking. 
+- There is localised tenderness over the site of the neuroma. 
+- There may be diminished sensation in the affected cleft. 
+- Compression of the forefoot with pressure at the intermetatarsal space often elicits a click as the nerve is pushed between the metatarsals (termed a Mulder's click #named). 
+
+Inv: Ultrasound scans are considered by many the diagnostic test of choice. 
+Rx: Excision is the recommended treatment
 # Metatarsal stress fracture
 Usually felt on the dorsal aspect of the foot over the affected metatarsal bone. There may be diffuse swelling of the skin of the forefoot. Sharp pain in the forefoot is aggravated by walking and running.
 *See [[lower limb ortho problems]]* 
