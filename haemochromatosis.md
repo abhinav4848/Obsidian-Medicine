@@ -9,16 +9,15 @@ tags:
 > [!Definition]
 > Disorder of iron absorption and metabolism, leading to iron accumulation. 
 
-It's most prevalent in people of European descent, making it more common than [[cystic fibrosis]].
-
+It's most prevalent in people of European descent, making it more common than [[cystic fibrosis]]. 
 # Clinical Features
 - Early symptoms: Fatigue, erectile dysfunction, arthralgia (often of hands).
 - Bronze skin pigmentation #named 
-- [[diabetes treatment|Diabetes Mellitus]]
+- [[diabetes treatment|Diabetes Mellitus]] 
 - Liver: Stigmata of chronic liver disease- Hepatomegaly, [[Cirrhosis]], Hepatocellular deposition
 - Cardiac failure due to dilated [[cardiomyopathy]]. 
-- Hypogonadism (due to cirrhosis & pituitary dysfunction- hypogonadotropic hypogonadism).
-- Arthritis
+- Hypogonadism (due to cirrhosis & pituitary dysfunction- hypogonadotropic hypogonadism). 
+- Arthritis. 
 # Investigation
 - **Genetic testing for HFE mutations** is the most appropriate initial investigation for first-degree relatives of patients with haemochromatosis.
 - **Transferrin saturation** is considered the most useful biochemical marker for population screening of haemochromatosis, as it becomes elevated earlier in the disease process than ferritin. A transferrin saturation >45% is suggestive of iron overload.
