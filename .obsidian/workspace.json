@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cancer- skin.md",
+                "file": "haemochromatosis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cancer- skin"
+              "title": "haemochromatosis"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scc skin",
+                "query": "haemochro",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cancer- skin.md",
+                "file": "haemochromatosis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "cancer- skin.md"
+                "file": "haemochromatosis.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cancer- skin.md",
+                "file": "haemochromatosis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,6 +262,10 @@
   },
   "active": "7fc7ecc2c6c917cc",
   "lastOpenFiles": [
+    "cancer- skin.md",
+    "actinic keratosis.md",
+    "attachments/scc.jpg",
+    "attachments/uv damaged skin.jpg",
     "molluscum contagiosum.md",
     "desktop.ini",
     "viral wart.md",
@@ -275,7 +279,6 @@
     "macrolides.md",
     "lichens.md",
     "cancer- penis.md",
-    "cancer- skin.md",
     "human papilloma virus.md",
     "lichen planus.md",
     "reactive arthritis.md",
@@ -303,8 +306,6 @@
     "attachments/genital ulcers.jpg",
     "flow charts/paeds examination.canvas",
     "flow charts/cervical cancer screening pathway.canvas",
-    "attachments/menstrual cycle phases.jpg",
-    "attachments/a flutter.jpg",
     "flow charts/prostaglandins and leukotrienes.canvas",
     "flow charts/haematuria.canvas",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
