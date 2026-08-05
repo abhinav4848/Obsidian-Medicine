@@ -8,7 +8,7 @@ tags:
 Per-nasal swab. 
 [[notifiable diseases|notifiable disease]]
 Lasts between 2-8 weeks (Cough of 100 days- symptoms can persist for a number of months after the initial coryzal illness.)
-[[immunisation schedule (paeds)|Immunisation]]/previous infection isn't protective lifelong
+[[immunisation schedule (paeds)|Immunisation]]/previous infection isn't protective lifelong. 
 
 ## Diagnostic criteria
 Suspected if a person had 

@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ecg findings.md",
+                "file": "pertussis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ecg findings"
+              "title": "pertussis"
             }
           }
         ],
@@ -118,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ecg findings.md",
+                "file": "pertussis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,7 +214,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ecg findings.md"
+                "file": "pertussis.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -248,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ecg findings.md",
+                "file": "pertussis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,9 +280,9 @@
   },
   "active": "3bab0649a385eef0",
   "lastOpenFiles": [
+    "ecg findings.md",
     "haemochromatosis.md",
     "attachments/complete heart block with bizarre, wide, inverted t waves (e.g. stokes-adams attack).jpg",
-    "ecg findings.md",
     "heart failure.md",
     "atrial fibrillation.md",
     "beta adrenergic receptors.md",
