@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pertussis.md",
+                "file": "gp portfolio.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "pertussis"
+              "title": "gp portfolio"
             }
           }
         ],
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"heart block\"",
+                "query": "fitness to ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -118,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pertussis.md",
+                "file": "gp portfolio.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "corticosteroid.md",
+                "file": "gp portfolio.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of corticosteroid"
+              "title": "Outline"
             }
           },
           {
@@ -214,7 +214,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "pertussis.md"
+                "file": "gp portfolio.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -235,7 +235,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "c9a800b7c85d029b",
@@ -248,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pertussis.md",
+                "file": "gp portfolio.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,8 +278,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3bab0649a385eef0",
+  "active": "91c8e30ab36bd5e3",
   "lastOpenFiles": [
+    "pertussis.md",
     "ecg findings.md",
     "haemochromatosis.md",
     "attachments/complete heart block with bizarre, wide, inverted t waves (e.g. stokes-adams attack).jpg",
