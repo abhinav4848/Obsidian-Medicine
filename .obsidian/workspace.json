@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "respect form.md",
+                "file": "vascular ulcers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "respect form"
+              "title": "vascular ulcers"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "respect form",
+                "query": "lymphoe",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -119,7 +119,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -132,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "respect form.md",
+                "file": "vascular ulcers.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "respect form.md",
+                "file": "vascular ulcers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -228,7 +229,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "respect form.md"
+                "file": "vascular ulcers.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -262,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "respect form.md",
+                "file": "vascular ulcers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,8 +335,10 @@
   },
   "active": "968dc8478ecd9ac8",
   "lastOpenFiles": [
-    "angina.md",
+    "pedal edema.md",
+    "vascular ulcers.md",
     "respect form.md",
+    "angina.md",
     "cancer & associations.md",
     "steroids in dermatology.md",
     "corticosteroid.md",
@@ -361,8 +364,6 @@
     "nsaid.md",
     "sarcoma.md",
     "skin lumps.md",
-    "foot problems.md",
-    "cancer- skin.md",
     "attachments/scc.jpg",
     "attachments/uv damaged skin.jpg",
     "desktop.ini",
