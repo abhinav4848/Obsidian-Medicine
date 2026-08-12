@@ -40,6 +40,16 @@ More than 3 weeks of usage
 - Proton pump inhibitor 
 - MedicAlert bracelet 
 
+# Steroids in other uses
+### Intranasal steroid sprays
+| Feature            | **Avamys**                                                              | **Beconase**                                                  |
+| ------------------ | ----------------------------------------------------------------------- | ------------------------------------------------------------- |
+| Generic name       | Fluticasone furoate                                                     | Beclometasone dipropionate                                    |
+| Steroid potency    | Higher                                                                  | Moderate                                                      |
+| Typical adult dose | 2 sprays in each nostril once daily (then 1 spray each once controlled) | Usually 2 sprays in each nostril twice daily (or as directed) |
+| Onset              | Within hours, maximum effect after several days                         | Similar                                                       |
+| Main use           | Allergic rhinitis (hay fever)                                           | Allergic rhinitis and some non-allergic rhinitis              |
+
 ---
 See: [[steroids in dermatology]]. 
 

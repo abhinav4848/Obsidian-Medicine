@@ -2,7 +2,14 @@
 tags:
   - cardio
 ---
-See [[myocardial infarction]] 
+*See [[myocardial infarction]]* 
+
+> [!NOTE] Worsening angina
+> **Increased O2 demand** 
+> > Exercise/exertion, cold weather (vasoconstriction + increased cardiac workload), heavy meals, tachycardia, hypertension (increased afterload), fever/illness
+> 
+> **Decreased O2 supply** 
+> > Smoking (Vasoconstriction), anaemia, Hypoxia, Coronary vasospasm, Hypotension (reduced coronary perfusion)
 
 1st investigation is CT coronary Angiogram. 
 # Mx of Stable angina
