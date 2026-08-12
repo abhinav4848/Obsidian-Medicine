@@ -7,6 +7,9 @@ aliases:
   - Adhesive capsulitis
   - Frozen shoulder
   - Dupuytren's contracture
+  - Median nerve
+  - Ulnar nerve
+  - Radial nerve
 ---
 *See [[lower limb ortho problems]].* 
 # Arm & Forearm
@@ -68,7 +71,7 @@ Humerus injury: ARM nerves, brachial artery injured.
 
 | Injury                   | Outcome                                                                                                                                                                                                                                                                                                                                                                         |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **True Ulnar claw hand** | Ulnar nerve supplies all interossei, lumbricals 4&5. <br>Also supplies FDP. <br><br>**Low lesion:** <br>- Lumbricals gone, FDP to 4/5 still strong<br>- more obvious clawing<br><br>**High lesion:**<br>- Lumbricals & FDP both gone<br>- less obvious clawing (ULNAR PARADOX)                                                                                                  |
+| **True Ulnar claw hand** | Ulnar nerve supplies all interossei, lumbricals 4&5. <br>Also supplies FDP. <br><br>**Low lesion:** <br>- Lumbricals gone, FDP to 4/5 still strong<br>- more obvious clawing<br><br>**High lesion:**<br>- Lumbricals & FDP both gone<br>- less obvious clawing (ULNAR PARADOX). See cubital tunnel syndrome & Guyon's canal.                                                    |
 | **Pseudo ulnar claw**    | Ulnar intact but claw like deformity of ring & little finger.<br><br>Cause<br>- Volkmann’s ischaemic contracture<br>- Or FDP/FDS muscle fibrosis after forearm ischaemia<br><br>Test<br>- If sensation + interossei are normal → NOT ulnar.                                                                                                                                     |
 | **Median Nerve**         | Median nerve supplies Lumbricals 2&3. (LOAF- lateral 2 lumbricals, OP, AbPB, FPB)<br><br>Lesion:<br>- At rest: Clawing of index & middle finger<br>- Making fist: Hand of benediction as can't flex index/middle<br>- Thenar sensation intact if injury at wrist due to palmar cutaneous branch sparing<br>- Can't make an OK sign if AIN branch (motor) is injured above elbow |
 ### Test
