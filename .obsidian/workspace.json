@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oesophagus.md",
+                "file": "genital ulcers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "oesophagus"
+              "title": "genital ulcers"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Oesophagitis",
+                "query": "doxy",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "oesophagus.md",
+                "file": "genital ulcers.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "oesophagus.md",
+                "file": "genital ulcers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oesophagus.md",
+                "file": "genital ulcers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,8 +335,14 @@
   },
   "active": "968dc8478ecd9ac8",
   "lastOpenFiles": [
-    "qt prolongation.md",
+    "azole antifungals.md",
+    "genital ulcers.md",
+    "trimethoprim.md",
+    "nausea in pregnancy.md",
+    "malaria.md",
+    "bronchiectasis.md",
     "oesophagus.md",
+    "qt prolongation.md",
     "dysphagia.md",
     "vascular ulcers.md",
     "pedal edema.md",
@@ -358,12 +364,6 @@
     "attachments/complete heart block with bizarre, wide, inverted t waves (e.g. stokes-adams attack).jpg",
     "heart failure.md",
     "atrial fibrillation.md",
-    "beta adrenergic receptors.md",
-    "spironolactone.md",
-    "immunisation in adults.md",
-    "cancer- colorectal.md",
-    "cancer- screening programs.md",
-    "restless leg syndrome.md",
     "attachments/scc.jpg",
     "attachments/uv damaged skin.jpg",
     "desktop.ini",

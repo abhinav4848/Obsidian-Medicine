@@ -34,6 +34,7 @@ Use QT nomogram to check if normal.
 - [[Ondansetron]]
 - Quinolones ([[ciprofloxacin]]) #abx 
 - [[illicit drugs|cocaine]] toxicity
+- [[azole antifungals|Fluconazole]] & Itraconazole
 
 # Other Causes of QT prolongation
 - **Electrolyte**: hypocalcemia, [[hypokalemia|hypokalaemia]], [[magnesium|Hypomagnesemia]]
