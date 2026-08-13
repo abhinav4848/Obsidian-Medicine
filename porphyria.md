@@ -4,9 +4,11 @@ tags:
 aliases:
   - Acute intermittent porphyria
   - porphyria cutanea tarda
+urls:
+  - "[PCDS- Porphyria](https://www.pcds.org.uk/clinical-guidance/porphyria)"
 ---
 # Acute intermittent porphyria
-Acute intermittent porphyria (AIP) is an autosomal dominant condition caused by a defect in porphobilinogen deaminase, an enzyme involved in the biosynthesis of haem. It characteristically presents with abdominal and neuropsychiatric symptoms in 20-40 year olds. AIP is more common in females (5:1). 
+Acute intermittent porphyria (AIP) is an [[autosomal inheritance|autosomal dominant]] condition caused by a defect in porphobilinogen deaminase, an enzyme involved in the biosynthesis of haem. It characteristically presents with abdominal and neuropsychiatric symptoms in 20-40 year olds. AIP is more common in females (5:1). 
 
 | Drugs which may precipitate attack                                                                                                                                | Drugs considered safe to use                                                                                                |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -15,7 +17,7 @@ Acute intermittent porphyria (AIP) is an autosomal dominant condition caused b
 - AIP = acute abdominal + neuro + NO skin
 - PCT = chronic skin photosensitivity + NO abdo/neuro 
 
-|          | 🔴 AIP (acute attack)                                                                                                                                                                                            | ☀️ PCT                                                                                                                                                                                    |
-| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Symptoms | Severe **abdominal pain** (disproportionate to exam)<br>Vomiting / constipation<br>Peripheral neuropathy<br>Psychiatric symptoms (anxiety, confusion)<br>Hyponatraemia (SIADH)<br><br>🚫 **NO photosensitivity** | Photosensitivity<br>Blistering skin (hands, face)<br>Fragile skin → easy trauma<br>Hyperpigmentation<br>Hypertrichosis (especially face)<br><br>🚫 **NO abdominal pain / neuro symptoms** |
+|          | 🔴 AIP (acute attack)                                                                                                                                                                                            | ☀️ PCT                                                                                                                                                                                                                                     |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Symptoms | Severe **abdominal pain** (disproportionate to exam)<br>Vomiting / constipation<br>Peripheral neuropathy<br>Psychiatric symptoms (anxiety, confusion)<br>Hyponatraemia (SIADH)<br><br>🚫 **NO photosensitivity** | Photosensitivity<br>Blistering skin (hands, face)<br>Fragile skin → easy trauma<br>Hyperpigmentation<br>Hypertrichosis (especially face -> #mnemonic: Wolfman. This isn't [[hirsutism]].)<br><br>🚫 **NO abdominal pain / neuro symptoms** |
 
