@@ -1,7 +1,7 @@
 ---
 tags:
   - gastro
-aliases: []
+aliases:
 ---
 *see also: [[dyspepsia]].* 
 

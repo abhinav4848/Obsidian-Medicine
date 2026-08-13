@@ -7,6 +7,7 @@ aliases:
   - prolonged QT interval
   - QT prolongation
   - shortened QT interval
+  - QT interval
 urls:
   - https://litfl.com/qt-interval-ecg-library/
 cssclasses:
