@@ -51,9 +51,21 @@
               "icon": "lucide-file",
               "title": "vascular ulcers"
             }
+          },
+          {
+            "id": "67d18106692c90ee",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "vascular ulcers.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,7 +211,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vascular ulcers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -263,7 +273,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vascular ulcers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,15 +334,15 @@
         ],
         "direction": "vertical",
         "x": 225,
-        "y": 161,
-        "width": 1883,
-        "height": 1489,
+        "y": 160,
+        "width": 1885,
+        "height": 999,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "968dc8478ecd9ac8",
+  "active": "67d18106692c90ee",
   "lastOpenFiles": [
     "pedal edema.md",
     "vascular ulcers.md",
