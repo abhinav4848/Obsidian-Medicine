@@ -14,7 +14,7 @@ urls:
 - Ovulation Disorders: Oligomenorrhoea, [[irregular period]], [[amenorrhoea (secondary)|Secondary Amenorrhoea]], Infertility
 ### Rotterdam criteria
 Classify with Rotterdam criteria. #named 
-PCOS can be diagnosed if 2 out of 3 are present (but only when other aetiologies have been excluded):
+PCOS can be diagnosed if 2 out of 3 are present (but only when other aetiologies have been excluded): 
 1. Polycystic ovaries (follicle number per ovary of >=20 in at least one ovary, or increased ovarian volume greater than 10cc)
 2. Oligo- or anovulation
 3. Biochemical signs of hyperandrogenism: Do free testosterone index (100 x Total testosterone/SHBG). No COCP for 3 months prior to testing. Switch to non-hormonal contraception. 
