@@ -12,12 +12,15 @@ aliases:
 Topical corticosteroid preparation potencies 
 (*Oxford handbook GP 5th ed Page 563*) 
 
-| Potency     | Brand Examples                                                                                                                                                                                                                                                                                                                                                                      |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mild        | Hydrocortisone 0.1–2.5%, Dioderm®, Mildison®, Synalar® 1 in 10<br><br>• *With antimicrobials* Canesten® HC, <br>- Fucidin® H, <br>- Timodine® (hydrocort 0.5% + nystatin. No antibacterial but has Dimeticone barrier instead), <br>- [Daktacort](https://bnf.nice.org.uk/drugs/hydrocortisone-with-miconazole/medicinal-forms/) ®<br><br>• *With crotamiton* Eurax-Hydrocortisone® |
-| Moderate    | Betamethasone valerate 0.025% (Betnovate®-​RD), Eumovate® <br>• *With antimicrobials* Trimovate® (clobetasone 0.05%, nystatin, oxytetracycline)<br>• *With [[urea]]* Alphaderm                                                                                                                                                                                                      |
-| Potent      | Betamethasone valerate 0.1% (Betnovate®), Betacap®, Elocon®, Locoid®, Synalar® <br>• *With antimicrobials* Aureocort®, Betnovate®-C or -N, Fucibet® <br>• *With salicylic acid* Diprosalic®                                                                                                                                                                                         |
-| Very Potent | Dermovate®, Nerisone® Forte<br>• *With antimicrobials* Dermovate®-N                                                                                                                                                                                                                                                                                                                 |
+| Potency     | Brand Examples                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mild        | Hydrocortisone 0.1–2.5%, Dioderm®, Mildison®, Synalar® 1 in 10<br><br>• *With antimicrobials* Canesten® HC, <br>- Fucidin® H, <br>- Timodine® (Hydrocort 0.5% + Nystatin. No antibacterial but has Dimeticone barrier instead), <br>- [Daktacort](https://bnf.nice.org.uk/drugs/hydrocortisone-with-miconazole/medicinal-forms/) ® (Hydrocortisone + Miconazole)<br><br>• *With crotamiton* Eurax-Hydrocortisone® |
+| Moderate    | Betamethasone valerate 0.025% (Betnovate®-​RD), Eumovate® <br>• *With antimicrobials* Trimovate® (clobetasone 0.05%, nystatin, oxytetracycline)<br>• *With [[urea]]* Alphaderm                                                                                                                                                                                                                                    |
+| Potent      | Betamethasone valerate 0.1% (Betnovate®), Betacap®, Elocon®, Locoid®, Synalar® <br>• *With antimicrobials* Aureocort®, Betnovate®-C or -N, Fucibet® <br>• *With salicylic acid* Diprosalic®                                                                                                                                                                                                                       |
+| Very Potent | Dermovate®, Nerisone® Forte<br>• *With antimicrobials* Dermovate®-N                                                                                                                                                                                                                                                                                                                                               |
+"Dakta" is a brand-name root used by Janssen for its miconazole products: 
+- Daktarin = miconazole antifungal, 
+- Daktacort = miconazole + hydrocortisone. 
 ### Easy memorisation of topical steroids %%linked%%
 > [!Topical Steroids] 
 > Apply thinly for short duration. Mostly rely on
@@ -37,21 +40,21 @@ Topical corticosteroid preparation potencies
 	- Used for: Generalised pruritus (helps break itch-scratch cycle), Eczema-related itch, Scabies (second-line or alternative if permethrin unsuitable). 
 3. **Trimovate**: It's a brand name for clobetasone (a topical corticosteroid) with nystatin (an antifungal) and oxytetracycline (a tetracycline antibiotic). Can be used for someone with skin infection suspected post course of abx. 
 	1. Topical steroids must not be used on infected skin unless combined with an antibiotic or antifungal medicine.  
-4. **Dovobet**: Calcipotriol + Betamethasone 
+4. **Dovobet**: [[plaque psoriasis|Calcipotriol]] + Betamethasone 
 ## Notes on topical steroids %%(is transcluded)%%
-Using topical steroids in [[plaque psoriasis]].  
+##### Using topical steroids in [[plaque psoriasis]].
 - as we know topical corticosteroid therapy may lead to skin atrophy, striae and rebound symptoms 
     - the scalp, face and flexures are particularly prone to steroid atrophy so topical steroids should not be used for more than 1-2 weeks/month 
 - systemic side-effects may be seen when potent corticosteroids are used on large areas e.g. > 10% of the body surface area 
 - NICE recommend that we aim for a 4-week break before starting another course of topical corticosteroids
 - they also recommend using potent corticosteroids for no longer than 8 weeks at a time and very potent corticosteroids for no longer than 4 weeks at a time
-
-For [[eczema]]
+##### For [[eczema]]
 Should be used on red or itchy areas of skin
 - They should be applied at least 15 minutes after the moisturiser has been applied (some patients put their moisturiser on early evening and steroid on at bedtime)
-- Please watch a video on how to apply steroids using the fingertip method (refer to section at bottom)
+- Please watch a video on how to apply steroids using the fingertip method. 
 - You may be provided with two steroid creams – a milder one that can be used more often if needed, and a stronger one that can be used for a few days if the eczema flares (gets worse)
 - In general, less steroid cream should be used on areas of thinner skin, e.g., the face, the body folds, genitalia and in older patients the lower legs
+#### Comparison
 
 ![[eczema vs psoriasis treatment.png|680]]
 

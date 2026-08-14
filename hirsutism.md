@@ -32,7 +32,7 @@ A general examination may reveal clues as to the cause of hirsutism.
     - Enlargement of the clitoris
     - Increased muscle bulk.
 
-Ferriman-Gallwey scoring system #named is the gold standard for evaluating hirsutism. 
+**Ferriman-Gallwey scoring system** #named is the gold standard for evaluating hirsutism. 
 
 ---
 # Hypertrichosis

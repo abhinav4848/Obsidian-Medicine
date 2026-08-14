@@ -5,6 +5,8 @@ urls:
   - "[PCDS Psoriasis pathway- PDF](https://www.pcds.org.uk/files/general/Psoriasis-Pathway-2025.pdf)"
   - "[PCDS- Psoriasis](https://www.pcds.org.uk/clinical-guidance/psoriasis-an-overview)"
   - "[NICE CKS- Psoriasis](https://cks.nice.org.uk/topics/psoriasis/management/trunk-limbs/#topical-drug-treatment)"
+aliases:
+  - Calcipotriol
 ---
 *See [[Psoriasis]] for all other types*
 Not to be confused with [[Actinic keratosis]].
