@@ -33,7 +33,10 @@ Ethinyloestradiol (EE), Mestranol (M), Levonorgestrel (LNG), Norethisterone (NET
 \*\*30 - 40 indicates a variable dose of oestrogen.
 \*\*35 indicates a constant dose of oestrogen, but variable dose of progestogen
 
-**Co-Cyprindiol**: EE + cyproterone acetate, but high VTE risk. Used in [[acne vulgaris]] as 2nd line COCP. 
+**Co-Cyprindiol** (Dianette): 
+- EE + cyproterone acetate
+- Used in [[acne vulgaris]] as 2nd line COCP. Can also be used on-label for mod/severe [[hirsutism]] in women of reproductive age. 
+- high VTE risk. Avoid if history of meningioma 
 
 ![[hrt#Androgenicity of progesterone]]
 

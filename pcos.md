@@ -28,7 +28,7 @@ Increased LH causes increased Androgen -> converted to estradiol by aromatase in
 
 # Treatment
 Give [[cocp|COCP]] -> regularise period and combat hirsutism.
-- E.g. Co-cyprindiol (Dianette) or ethinylestradiol and Drospirenone (Yasmin). 
+- E.g. Co-cyprindiol ([[cocp- pill ladder|Dianette]]) or ethinylestradiol and Drospirenone (Yasmin). 
 - Co-cyprindiol should not be used long-term due to the increased risk of venous thromboembolism
 If no hirsutism & only treating irregular period -> Medroxyprogesterone.
 To treat infertility in PCOS, give Clomifene > [[diabetes drugs|metformin]]. 

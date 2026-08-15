@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "androgen.md",
+                "file": "cocp- pill ladder.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "androgen"
+              "title": "cocp- pill ladder"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "testosterone",
+                "query": "dianett",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "androgen.md",
+                "file": "cocp- pill ladder.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "androgen.md",
+                "file": "cocp- pill ladder.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "androgen.md",
+                "file": "cocp- pill ladder.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,13 +295,14 @@
   },
   "active": "968dc8478ecd9ac8",
   "lastOpenFiles": [
-    "erectile dysfunction.md",
-    "androgen.md",
+    "pcos.md",
+    "cocp- pill ladder.md",
     "hirsutism.md",
+    "androgen.md",
+    "erectile dysfunction.md",
     "cushing's syndrome.md",
     "medical dictionary.md",
     "attachments/moon face & facial plethora.jpg",
-    "pcos.md",
     "genital ulcers.md",
     "steroids in dermatology.md",
     "plaque psoriasis.md",
@@ -321,7 +322,6 @@
     "vascular ulcers.md",
     "pedal edema.md",
     "respect form.md",
-    "cancer & associations.md",
     "attachments/cutaneous supply hand.jpg",
     "attachments/Gray812and814.svg",
     "attachments/complete heart block with bizarre, wide, inverted t waves (e.g. stokes-adams attack).jpg",
