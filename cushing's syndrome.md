@@ -14,13 +14,11 @@ cssclasses:
 - Carcinoid tumours (rare; as they mostly cause carcinoid syndrome -> Serotonin -> flushing, diarrhoea)
 ## ACTH independent
 Adrenal adenoma (5-10%), adrenal carcinoma, Excess steroid administration
-
 # Clinical Features
-Features like aldosterone: [[hypernatremia|excess Na]], [[hypokalemia|low K]]. 
-
-[[Hyperpigmentation]] in case of ACTH secreting tumour (ACTH dependent Cushing syndrome)- also seen in [[addison's disease|Addison's]].
-
-Refractory HTN despite >2 drugs
+- Face weight gain (moon face), central obesity, hump on back due to fat deposition, stretch marks, easy [[rash|bruising]], proximal muscle weakness, [[medical dictionary|facial plethora]]. 
+- Features like aldosterone: [[hypernatremia|excess Na]], [[hypokalemia|low K]]. 
+- [[Hyperpigmentation]] in case of ACTH secreting tumour (ACTH dependent Cushing syndrome)- also seen in [[addison's disease|Addison's]].
+- Refractory HTN despite >2 drugs
 # Investigate:
 **Outpatient**: 24 hr. urinary free cortisol
 **Best for diagnosis**: low dose overnight dexamethasone suppression test

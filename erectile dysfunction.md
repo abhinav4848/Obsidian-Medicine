@@ -20,7 +20,7 @@ Other than increasing age, risk factors include:
 # Investigations  
 Check Q-Risk by measuring lipid and fasting glucose serum levels.  
 
-Free testosterone should also be measured in the morning between 9 and 11am. 
+Free [[androgen|testosterone]] should also be measured in the morning between 9 and 11am. 
 - If free testosterone is low / borderline -> Repeat Testosterone + add FSH, LH, Prolactin levels.
 - If any of these are abnormal refer to endocrinology for further assessment.  
 # Management

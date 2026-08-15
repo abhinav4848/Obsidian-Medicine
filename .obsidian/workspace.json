@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hirsutism.md",
+                "file": "androgen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hirsutism"
+              "title": "androgen"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "barrier",
+                "query": "testosterone",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hirsutism.md",
+                "file": "androgen.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hirsutism.md",
+                "file": "androgen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hirsutism.md",
+                "file": "androgen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,8 +295,13 @@
   },
   "active": "968dc8478ecd9ac8",
   "lastOpenFiles": [
-    "pcos.md",
+    "erectile dysfunction.md",
+    "androgen.md",
     "hirsutism.md",
+    "cushing's syndrome.md",
+    "medical dictionary.md",
+    "attachments/moon face & facial plethora.jpg",
+    "pcos.md",
     "genital ulcers.md",
     "steroids in dermatology.md",
     "plaque psoriasis.md",
@@ -317,12 +322,8 @@
     "pedal edema.md",
     "respect form.md",
     "cancer & associations.md",
-    "corticosteroid.md",
-    "2026-08-10 cases seen.md",
     "attachments/cutaneous supply hand.jpg",
     "attachments/Gray812and814.svg",
-    "2025-12-31.md",
-    "2026-06-25 sca questions.md",
     "attachments/complete heart block with bizarre, wide, inverted t waves (e.g. stokes-adams attack).jpg",
     "attachments/scc.jpg",
     "attachments/uv damaged skin.jpg",
@@ -335,7 +336,6 @@
     "attachments/actinic keratosis on ear.jpg",
     "attachments/actinic keratoses on hand.jpg",
     "attachments/acute otitis media.jpg",
-    "attachments/varicocele.jpg",
     "flow charts/h. pylori treatment flowchart.canvas",
     "flow charts/paeds examination.canvas",
     "flow charts/cervical cancer screening pathway.canvas",
