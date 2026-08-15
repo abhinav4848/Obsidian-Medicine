@@ -5,6 +5,8 @@ tags:
 urls:
   - "[Oestrogen doses in combined pill (COC)](https://gpnotebook.com/en-GB/pages/gynaecology/oestrogen-doses-in-combined-pill-coc)"
   - "[Combined Oral Contraception Decision Algorithm](https://halton-st-helens-knowsley.communitypharmacy.org.uk/wp-content/uploads/sites/45/2025/03/COC-Decision-Making-Algorithm-V1.2.pdf)"
+  - "[Bedfordshire- Guidance on side effects and management](https://medicines.bedfordshirelutonandmiltonkeynes.icb.nhs.uk/wp-content/uploads/2024/06/contraception-guidance-MHRA-advice-added-Aug-24.pdf)"
+  - "[Leicester formulary- Obstetrics](https://www.leicestershireformulary.nhs.uk/chaptersSub.asp?FormularySectionID=7)"
 aliases:
   - COCP Pill Ladder
   - Dianette
@@ -34,12 +36,15 @@ Ethinyloestradiol (EE), Mestranol (M), Levonorgestrel (LNG), Norethisterone (NET
 \*\*30 - 40 indicates a variable dose of oestrogen.
 \*\*35 indicates a constant dose of oestrogen, but variable dose of progestogen
 
-**Co-Cyprindiol** (Dianette): 
-- EE + cyproterone acetate
-- Used in [[acne vulgaris]] as 2nd line COCP. Can also be used on-label for mod/severe [[hirsutism]] in women of reproductive age. 
-- high VTE risk. Avoid cyproterone if history of meningioma 🚩
-
+## Androgenicity
 ![[hrt#Androgenicity of progesterone]]
+
+#### Co-Cyprindiol (Dianette) %%linked%%
+- EE + cyproterone acetate
+- Used in [[acne vulgaris]] as 2nd line COCP. 
+- Can also be used on-label for mod/severe [[hirsutism]] in women of reproductive age. 
+- high VTE risk. Avoid cyproterone if family history of meningioma 🚩
+	- Warn about symptoms and signs of meningioma in patients taking cyproterone acetate (e.g. changes in vision, hearing loss, tinnitus, anosmia, headaches, memory loss, seizures).
 
 # Examples: 
 - if a woman is experiencing acne and mood swings on a progesterone dominant pill such as Microgynon, it is worth moving right across the ladders to a more oestrogen dominant pill such as Cilest. 

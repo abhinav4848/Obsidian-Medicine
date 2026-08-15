@@ -74,8 +74,8 @@ measure an Early morning serum **total** and **free** testosterone.
 You can then calculate free androgen index. 
 
 ## Treatment
-- All systemic treatments, except for [[cocp- pill ladder|Dianette]] (Co-cyprindiol) are started in secondary care. 
-- COCPs containing levonorgestrel and norethisterone are more androgenic and may potentiate hirsutism. There have been no head-to-head trials comparing the efficacy of different COCPs in treating hirsutism. 
+- All systemic treatments, except for [[cocp- pill ladder#Co-Cyprindiol (Dianette) linked|Dianette]] (Co-cyprindiol) are started in secondary care (pure cyproterone is also only for secondary care). Remember the s/e-> Meningioma & VTE. 
+- COCPs containing levonorgestrel and norethisterone are more [[cocp- pill ladder|androgenic]] and may potentiate hirsutism. There have been no head-to-head trials comparing the efficacy of different COCPs in treating hirsutism. 
 
 In choosing treatment, the authors make the following recommendations: ([RedWhale](https://www.redwhale.co.uk/content/hirsutism))
 
