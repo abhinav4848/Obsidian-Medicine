@@ -36,7 +36,7 @@ Ethinyloestradiol (EE), Mestranol (M), Levonorgestrel (LNG), Norethisterone (NET
 **Co-Cyprindiol** (Dianette): 
 - EE + cyproterone acetate
 - Used in [[acne vulgaris]] as 2nd line COCP. Can also be used on-label for mod/severe [[hirsutism]] in women of reproductive age. 
-- high VTE risk. Avoid if history of meningioma 
+- high VTE risk. Avoid cyproterone if history of meningioma 🚩
 
 ![[hrt#Androgenicity of progesterone]]
 

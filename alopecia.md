@@ -4,7 +4,7 @@ tags:
 aliases:
   - minoxidil
 ---
-*See [[hirsutism|Hirsutism]] & [[pcos|PCOS]]*  
+*See [[hirsutism|Hirsutism]] & [[pmos|PCOS]]*  
 Alopecia can be 2 types: 
 
 | Scarring alopecia                                                                                                                                                                         | Non-scarring alopecia                                                                                                                                                                                                                                                                                                                                                                              |

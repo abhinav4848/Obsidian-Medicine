@@ -7,13 +7,14 @@ aliases:
   - hirsutes
 urls:
   - "[NICE CKS- Hirsutism](https://cks.nice.org.uk/topics/hirsutism/diagnosis/diagnosis/)"
+  - "[Red Whale- Hirsutism](https://www.redwhale.co.uk/content/hirsutism)"
 ---
-Androgen-dependent **Male Pattern** hair growth in women. It's due to increased androgen production, or increased skin sensitivity to androgens.
+Androgen-dependent **Male Pattern** hair growth in women. It's due to increased androgen production, or increased skin sensitivity to androgens. 
 # Causes
 [CKS- Assessment for an underlying cause](https://cks.nice.org.uk/topics/hirsutism/diagnosis/assessment-for-an-underlying-cause/)
 ### Common causes
-- [[pcos|PCOS]]- Hyperandrogenism causing acne & hirsutism. 70% of cases. 
-- Hyperandrogenic (Androgen = testosterone) endocrine disorder (signs of virilization), pelvic/abdo mass #cancer . 
+- [[pmos|PCOS]]- Hyperandrogenism causing acne & hirsutism. 72% of cases. 
+- Hyperandrogenic (Androgen = testosterone) endocrine disorder. 23% cases -> (signs of virilization), pelvic/abdo mass #cancer . 
 	- Adrenal tumour 
 		- From cortex -> can produce aldosterone/cortisol/[[androgen]]
 		- From medulla -> catecholamines i.e adrenaline/noradrenaline, peptides i.e. somatostatin & substance P
@@ -47,7 +48,12 @@ A general examination may reveal clues as to the cause of hirsutism.
 **Ferriman-Gallwey scoring system** #named is the gold standard for evaluating hirsutism. 
 
 # Test
-In all women with an abnormal hirsutism score, or local sexual hair growth with clinical evidence of a hyperandrogenic endocrine disorder, Test for elevated [[androgen]] levels (serum total testosterone level).
+Because PMOS is most common, start with that based on Rotterdam criteria.
+![[pmos#Rotterdam criteria transcluded]]
+
+with an abnormal hirsutism score, or local sexual hair growth with clinical evidence of a hyperandrogenic endocrine disorder, Test for 
+- elevated [[androgen]] levels (serum total testosterone level).
+	- TSH, Prolactin
 
 > [!danger]- Hyperandrogenic endocrine disorder 
 >  can be suggested by: 
@@ -64,6 +70,7 @@ If serum total testosterone levels are normal, and
 - sexual hair growth moderate/severe, or 
 - sexual hair growth is mild with clinical signs of a hyperandrogenic endocrine disorder (for example, menstrual disturbance), 
 measure an Early morning serum **total** and **free** testosterone. 
+You can then calculate free androgen index. 
 
 ---
 # Hypertrichosis

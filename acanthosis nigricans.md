@@ -8,7 +8,7 @@ Connected to insulin resistance.
 ## Seen in
 1. T2DM (sign of insulin resistance),
 2. Conditions affecting hormone levels:
-	1. [[pcos|PCOS]] -> insulin resistance -> compensatory hyperinsulinemia
+	1. [[pmos|PCOS]] -> insulin resistance -> compensatory hyperinsulinemia
 	2. [[cushing's syndrome]] ->hyperglycemia -> hyperinsulinemia
 	3. Hypothyroid,
 	4. [[Acromegaly]] -> excess GH -> gluconeogenesis & IGT -> hyperinsulinemia

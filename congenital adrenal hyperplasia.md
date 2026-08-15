@@ -32,6 +32,6 @@ It may present in neonates and children with the following features:
 # Investigations
 17-hydroxyprogesterone (it's high due to 21-Hydroxylase deficiency)
 
-Remember that polycystic ovarian syndrome ([[PCOS]]) is different:
+Remember that polycystic ovarian syndrome ([[pmos]]) is different:
 	Inability to conceive (infertility) + Obesity + Acne + LH high
 	Order USS pelvis.

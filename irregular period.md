@@ -28,7 +28,7 @@ Everything else is puberty nuance.
 
 # When to use definition of irregular periods
 This definition mainly exists to detect pathological causes like:
-- [[pcos|poly-cystic ovarian disease]]
+- [[pmos|poly-cystic ovarian disease]]
 - [[hypothyroidism]]
 - Hyperprolactinaemia
 - Functional hypothalamic amenorrhea

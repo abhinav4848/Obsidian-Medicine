@@ -21,7 +21,7 @@ If thickness >4mm, do diagnostic Hysteroscopy + Endometrial Biopsy.
 - Oestrogen increases risk: E.g.: Unopposed HRT, Early menarche, Late menopause, Nulliparity. 
 	- Oestrogen only HRT: If removing LNG-IUD because contraception is no longer needed, check that the woman isn't also using it as part of HRT. 
 	- If women are using HRT regime that separates the two hormones (e.g. transdermal oestrogen & oral micronised progesterone), ensure she's requesting both regularly, rather than just oestrogen. 
-- Metabolic: Obesity (high BMI), [[pcos|PCOS]], Diabetes Mellitus, age
+- Metabolic: Obesity (high BMI), [[pmos|PCOS]], Diabetes Mellitus, age
 - [[cancer- drugs involved in gynae cancers|Tamoxifen]] (used for Rx Breast cancer. It opposes oestrogen in breast but acts like oestrogen in uterus. Prevent bone loss.)- Women are advised to report any bleeding concerns early. 
 - HNPCC
 # Endometrial hyperplasia

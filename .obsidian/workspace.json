@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cocp- pill ladder.md",
+                "file": "irregular period.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cocp- pill ladder"
+              "title": "irregular period"
             }
           }
         ],
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cocp- pill ladder.md",
+                "file": "irregular period.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cocp- pill ladder.md",
+                "file": "irregular period.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cocp- pill ladder.md",
+                "file": "irregular period.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,9 +295,11 @@
   },
   "active": "968dc8478ecd9ac8",
   "lastOpenFiles": [
-    "pcos.md",
-    "cocp- pill ladder.md",
+    "pmos.md",
+    "amenorrhoea (secondary).md",
     "hirsutism.md",
+    "irregular period.md",
+    "cocp- pill ladder.md",
     "androgen.md",
     "erectile dysfunction.md",
     "cushing's syndrome.md",
@@ -320,8 +322,6 @@
     "qt prolongation.md",
     "dysphagia.md",
     "vascular ulcers.md",
-    "pedal edema.md",
-    "respect form.md",
     "attachments/cutaneous supply hand.jpg",
     "attachments/Gray812and814.svg",
     "attachments/complete heart block with bizarre, wide, inverted t waves (e.g. stokes-adams attack).jpg",
