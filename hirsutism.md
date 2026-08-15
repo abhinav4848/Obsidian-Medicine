@@ -11,13 +11,17 @@ urls:
 # Hirsutism
 Androgen-dependent **Male Pattern** hair growth in women. 
 ## Causes
+[CKS- Assessment for an underlying cause](https://cks.nice.org.uk/topics/hirsutism/diagnosis/assessment-for-an-underlying-cause/)
+#### Common causes
+- [[pcos|PCOS]]- Hyperandrogenism causing acne & hirsutism. 
+- Androgen secreting tumour (signs of virilization including )
+#### Rare causes (Endocrine)
 - [[cushing's syndrome]]- Excess cortisol can cause hirsutism. 
 - [[congenital adrenal hyperplasia]] - excess androgens which are male sex hormones. 
 - androgen therapy
 - **Obesity**: Thought to be due to insulin resistance
 - adrenal tumour
 - androgen secreting ovarian tumour
-- [[pcos|PCOS]]- Hyperandrogenism causing acne & hirsutism. 
 - **Drugs**: [[phenytoin]], corticosteroids.
 ## General examination
 A general examination may reveal clues as to the cause of hirsutism.

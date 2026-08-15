@@ -3,6 +3,7 @@ aliases:
   - anaemia
   - ferritin
   - Anaemia in pregnancy
+  - iron
 tags:
   - haemat
 urls:

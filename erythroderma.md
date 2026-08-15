@@ -2,7 +2,7 @@
 tags:
   - dermat
 ---
-*See: [[erythrodermic psoriasis]]* which is an emergency, and not erythroderma. 
+*See: [[erythrodermic psoriasis]]* which is an emergency, but erythroderma is not. 
 
 ---
 It is an exfoliative dermatitis -> Widespread severe erythema -> Extensive exfoliation of skin. 
