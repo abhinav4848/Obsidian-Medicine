@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "androgen.md",
+                "file": "hirsutism.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "androgen"
+              "title": "hirsutism"
             }
           }
         ],
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "androgen.md",
+                "file": "hirsutism.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "androgen.md",
+                "file": "hirsutism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "androgen.md",
+                "file": "hirsutism.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,13 +295,14 @@
   },
   "active": "968dc8478ecd9ac8",
   "lastOpenFiles": [
+    "cocp- pill ladder.md",
+    "hrt.md",
+    "hirsutism.md",
     "pmos.md",
     "androgen.md",
-    "hirsutism.md",
     "metabolic syndrome.md",
     "irregular period.md",
     "amenorrhoea (secondary).md",
-    "cocp- pill ladder.md",
     "erectile dysfunction.md",
     "cushing's syndrome.md",
     "medical dictionary.md",
@@ -321,7 +322,6 @@
     "bronchiectasis.md",
     "oesophagus.md",
     "qt prolongation.md",
-    "dysphagia.md",
     "attachments/cutaneous supply hand.jpg",
     "attachments/Gray812and814.svg",
     "attachments/complete heart block with bizarre, wide, inverted t waves (e.g. stokes-adams attack).jpg",

@@ -23,13 +23,14 @@ As part of managing [[menopause]].
 - Tibolone is a synthetic compound with both E&P + androgenic activity. 
 - HRT isn't contraindicated in women with a history of migraine only (no aura) but warn that the hormonal fluctuations could make migraine worse. More with cyclical regimen. 
 
-**premature menopause:**
+**Premature menopause:**
 continue HRT till 50yo. Here the rationale is preventing osteoporosis. 
 #### Androgenicity of progesterone 
 NET (Most Androgenic) ≈ LNG < GSD ≈ DSG ≈ NGT < DRSP < Cyproterone acetate (Strongly anti-Androgenic)
 - **Second generation (LNG, NET)** → more androgenic
 - **Third generation (DSG, GSD, NGT)** → less androgenic
 - **Drospirenone, Cyproterone acetate** → anti-androgenic
+COCPs containing levonorgestrel and norethisterone are more androgenic and may potentiate [[hirsutism]]. 
 
 ---
 # Methods of HRT

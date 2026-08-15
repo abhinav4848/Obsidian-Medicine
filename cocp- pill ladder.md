@@ -7,6 +7,7 @@ urls:
   - "[Combined Oral Contraception Decision Algorithm](https://halton-st-helens-knowsley.communitypharmacy.org.uk/wp-content/uploads/sites/45/2025/03/COC-Decision-Making-Algorithm-V1.2.pdf)"
 aliases:
   - COCP Pill Ladder
+  - Dianette
 ---
 ![[contraception]] 
 # The pill ladder (Strengths of different contraceptive brands)
