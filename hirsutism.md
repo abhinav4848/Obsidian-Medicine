@@ -13,7 +13,7 @@ Androgen-dependent **Male Pattern** hair growth in women. It's due to increased 
 # Causes
 [CKS- Assessment for an underlying cause](https://cks.nice.org.uk/topics/hirsutism/diagnosis/assessment-for-an-underlying-cause/)
 ### Common causes
-- [[pmos|PCOS]]- Hyperandrogenism causing acne & hirsutism. 72% of cases. 
+- [[pmos|PMOS]]- Hyperandrogenism causing acne & hirsutism. 72% of cases. 
 - Hyperandrogenic (Androgen = testosterone) endocrine disorder. 23% cases -> (signs of virilization), pelvic/abdo mass #cancer . 
 	- Adrenal tumour 
 		- From cortex -> can produce aldosterone/cortisol/[[androgen]]
@@ -51,9 +51,9 @@ A general examination may reveal clues as to the cause of hirsutism.
 Because PMOS is most common, start with that based on Rotterdam criteria.
 ![[pmos#Rotterdam criteria transcluded]]
 
-with an abnormal hirsutism score, or local sexual hair growth with clinical evidence of a hyperandrogenic endocrine disorder, Test for 
+In all women where history isn't suggestive of PMOS, but with an abnormal hirsutism score, or local sexual hair growth with clinical evidence of a hyperandrogenic endocrine disorder, Test for 
 - elevated [[androgen]] levels (serum total testosterone level).
-	- TSH, Prolactin
+- TSH, Prolactin
 
 > [!danger]- Hyperandrogenic endocrine disorder 
 >  can be suggested by: 

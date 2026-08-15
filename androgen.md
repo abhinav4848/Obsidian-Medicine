@@ -75,3 +75,9 @@ For example:
 |Total testosterone|1.5|1.5|
 |SHBG|Normal|**Low**|
 |Free testosterone|Normal|**↑**|
+# Free androgen Index %%linked%%
+SHBG concentration is increased by the COCP, and reduced by insulin resistance and obesity. 
+Free androgen index (FAI) may be a better measure in these situations because it indicates the testosterone which can exert its effect on tissues:
+- `FAI = (total testosterone/SHBG) x 100%`
+No COCP for 3 months prior to testing (Switch to non-hormonal contraception). 
+In normal woman, FAI should be less than 3%.
