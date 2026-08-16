@@ -30,7 +30,7 @@ The newborn screening element has 4 parts
 | **Ongoing**          | Monitoring of growth, vision, hearing  <br>Health professionals advice on immunisations, diet, accident prevention                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 \*this doesn't seem to happen in practice with health visitors usually taking over at 2 weeks
 
-# Routine six-week baby examination
+# Routine 6-8 week baby examination
 It is usually performed by a GP although other health professionals may do so, depending on local arrangements. Whilst all infants are examined before they leave hospital, abnormalities are not always apparent hence the need for a second examination.  
   
 The purpose of the check is to identify the presence of any of four key issues:  
@@ -60,11 +60,11 @@ The purpose of the check is to identify the presence of any of four key issues:
 - Perform Ortolani's test (identifies hips which are) dislocated
 - If there are any concerns then the infant should be referred for an urgent ultrasound as per local guidelines. 
 ### Eyes 
-- The main aim is to identify congenital ==cataract==
+- The main aim is to identify congenital ==cataract==. 
 - Ask the parents if they have any concern or if there is any family history of childhood eye disease
 - Look at the eyes - any difference in size could suggest glaucoma
 - Look for the red reflex in each eye with an ophthalmoscope
-- Any concerns should be referred for a same-day ophthalmology assessment:
+- Any concerns should be referred for a same-day ophthalmology assessment. 
 ### Testes 
 - Feel the scrotum for testes
 - If neither testis can be palpated then refer for a same-day paediatric assessment

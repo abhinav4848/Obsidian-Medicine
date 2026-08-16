@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "immunisation schedule (paeds).md",
+                "file": "newborn Infant physical examination.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "immunisation schedule (paeds)"
+              "title": "newborn Infant physical examination"
             }
           },
           {
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "innov",
+                "query": "nipe",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -133,7 +133,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -146,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "immunisation schedule (paeds).md",
+                "file": "newborn Infant physical examination.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -213,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "immunisation schedule (paeds).md",
+                "file": "newborn Infant physical examination.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -276,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "immunisation schedule (paeds).md",
+                "file": "newborn Infant physical examination.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +309,9 @@
   },
   "active": "968dc8478ecd9ac8",
   "lastOpenFiles": [
+    "examination of children.md",
     "housekeeping/study tips.md",
+    "immunisation schedule (paeds).md",
     "cocp- pill ladder.md",
     "hirsutism.md",
     "cocp.md",
@@ -333,8 +336,6 @@
     "azole antifungals.md",
     "trimethoprim.md",
     "nausea in pregnancy.md",
-    "malaria.md",
-    "bronchiectasis.md",
     "attachments/cutaneous supply hand.jpg",
     "attachments/Gray812and814.svg",
     "attachments/complete heart block with bizarre, wide, inverted t waves (e.g. stokes-adams attack).jpg",
