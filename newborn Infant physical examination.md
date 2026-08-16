@@ -7,6 +7,7 @@ aliases:
 urls:
   - "[Healthy Child Program](https://www.gov.uk/government/collections/healthy-child-programme)"
   - "[NIPE on Gov.uk](https://www.gov.uk/government/publications/newborn-and-infant-physical-examination-programme-handbook/newborn-and-infant-physical-examination-screening-programme-handbook#newborn-and-infant-physical-screening-examination-nipe)"
+  - "[Red Whale | 6-8 week check](https://www.redwhale.co.uk/content/the-6-8-week-baby-check)"
 tags:
   - paeds
 ---
@@ -29,8 +30,9 @@ The newborn screening element has 4 parts
 | **Pre school**       | National orthoptist-led programme for pre-school vision screening to be introduced                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | **Ongoing**          | Monitoring of growth, vision, hearing  <br>Health professionals advice on immunisations, diet, accident prevention                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 \*this doesn't seem to happen in practice with health visitors usually taking over at 2 weeks
-
 # Routine 6-8 week baby examination
+The 6–8-week baby check should take place at 6–8 weeks’ **chronological age**, but we should take corrected age into account when assessing development.
+
 It is usually performed by a GP although other health professionals may do so, depending on local arrangements. Whilst all infants are examined before they leave hospital, abnormalities are not always apparent hence the need for a second examination.  
   
 The purpose of the check is to identify the presence of any of four key issues:  
@@ -46,29 +48,53 @@ The purpose of the check is to identify the presence of any of four key issues:
 - Breathing
 - Skin
     - any abnormalities should be compared with findings present at birth, if there are new discolorations that could suggest bruising non-accidental injury should be considered
-### Heart ([Link](https://www.gov.uk/government/publications/newborn-and-infant-physical-examination-programme-handbook/newborn-and-infant-physical-examination-screening-programme-handbook#screening-examination-of-the-heart))
+### Eyes 
+- The main aim is to identify congenital ==cataract==. 
+- Ask the parents if they have any concern or if there is any family history of childhood eye disease
+- Look at the eyes - any difference in size could suggest [[glaucoma- open angle|glaucoma]]. 
+- Look for the red reflex #named in each eye with an ophthalmoscope
+- Any concerns should be referred to same-day ophthalmology assessment. 
+
+Also see for nasolacrimal duct obstruction -> may present with watery eyes +- recurrent episodes of stickiness. Refer if persists at 1-2 years age. 
+### Heart ([Gov.uk](https://www.gov.uk/government/publications/newborn-and-infant-physical-examination-programme-handbook/newborn-and-infant-physical-examination-screening-programme-handbook#screening-examination-of-the-heart))
 - Look for cyanosis, ask the parents if they see this when the child feeds
 - Assess the breathing
     - a persistent respiratory rate over 55 is concerning
 - Auscultate the heart for murmurs and palpate for heaves and thrills
 - Feel the femoral pulses -> Absent/weak femoral pulse: Discuss immediately with paeds
 - Any concerns should be discussed with a paediatrician
+### Abdomen
+##### Hernias
+- **Umbilical**: Reassure if age < 4yo. Routine refer if persists at 4y because most automatically close by this age. 
+- **Inguinal**: refer urgently if age <6m, routinely if age >6m.
+- **Epigastric**: refer all routinely.
+Admit any if signs of strangulation/incarceration, and safety-net for these.
+- **Incarceration**: Painful irreducible hernia, +- overlying skin colour changes.
+- **Strangulation**: Painful irreducible hernia, associated vomiting/constipation. 
+##### Umbilical granuloma
+The umbilicus usually heals rapidly after the cord stump drops off <14d. If a granuloma develops:
+- Explain it is overgrowth of tissue during the healing process. 
+- Check for features of infection (offensive discharge, spreading redness, fever) -> Omphalitus.
+- Treatment includes hygiene measures, keeping area clean and dry, and rolling back the nappy waistband to expose to the air.
+- Salt application is first-line medical management and is usually effective within days.
+	- BD application of a pinch of table salt for 2 days (clean umbilicus, apply a small pinch of salt, cover area with clean gauze and leave for 30 minutes before rinsing off). The granuloma should start to heal after 2 days.
+	- Silver nitrate is now rarely used.
+
+If no features of infection, we can continue to monitor indefinitely. Granulomas can take months to heal. 
 ### Developmental dysplasia of the hip ([[developmental dysplasia of the hip|DDH]])  
 - This affects 1-3% of newborns
 - Look for leg length difference or asymmetry of hip creases
 - Perform Barlow's test (looks for hips that are dislocatable)
 - Perform Ortolani's test (identifies hips which are) dislocated
 - If there are any concerns then the infant should be referred for an urgent ultrasound as per local guidelines. 
-### Eyes 
-- The main aim is to identify congenital ==cataract==. 
-- Ask the parents if they have any concern or if there is any family history of childhood eye disease
-- Look at the eyes - any difference in size could suggest glaucoma
-- Look for the red reflex in each eye with an ophthalmoscope
-- Any concerns should be referred for a same-day ophthalmology assessment. 
 ### Testes 
 - Feel the scrotum for testes
-- If neither testis can be palpated then refer for a same-day paediatric assessment
-- If only one testis can be palpated, re-examine at three months of age. If this has not resolved refer to see a paediatric surgeon by 6 months of age
+- If neither testis can be palpated and/or other genital abnormality -> refer for a same-day paeds assessment
+- If only one testis can be palpated & normal genitalia -> re-examine at three months of age. If not resolved refer to see a paediatric surgeon. Will be assessed by them by 6 months of age
+### Legs
+Positional [[talipes equinovarus|talipes]]: 
+- True clubfoot (you can’t move the foot into the normal position) needs prompt orthopaedic referral. 
+- Positional talipes needs physio input, but refer to orthopaedics if foot not staying in neutral position by 3m. 
 ### Other points 
 - Nervous system
     - Assess tone
