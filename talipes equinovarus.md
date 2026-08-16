@@ -20,15 +20,28 @@ aliases:
 Talipes equinovarus, or club foot, describes an inverted (inward turning) and plantar flexed foot. It is usually diagnosed on the [[newborn Infant physical examination|newborn exam]]. 
   
 Talipes equinovarus is twice as common in males than females and has an incidence of 1 per 1,000 births. Around 50% of cases are bilateral.  
-  
+### Causes
 Most commonly idiopathic. Associations include:  
 - spina bifida
 - cerebral palsy
 - Edward's syndrome (trisomy 18)
 - oligohydramnios
 - arthrogryposis
-  
+
+### Examination
 The diagnosis is clinical (the deformity is not passively correctable) and imaging is not normally needed.  
+
+What does CTEV actually mean?
+- Congenital
+- Talipes = abnormal foot position
+- Equino = ankle plantarflexed
+- Varus = heel inverted
+
+Classic CTEV has the CAVE components:
+- Cavus – high medial arch
+- Adductus – forefoot adducted
+- Varus – hindfoot inverted
+- Equinus – ankle plantarflexed
 ## Management 
 - Conservative methods (e.g. Ponseti method #named ) > Surgical methods. 
 - Ponseti method consists of manipulation and progressive casting which starts soon after birth. The deformity is usually corrected after 6-10 weeks. An Achilles tenotomy is required in around 85% of cases but this can usually be done under local anaesthetic

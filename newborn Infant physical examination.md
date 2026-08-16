@@ -42,12 +42,18 @@ The purpose of the check is to identify the presence of any of four key issues:
 - Undescended testes
 ### General examination 
 - Weight - plot onto growth chart in red book
-- Head circumference (check for fontanelles, sutures) - also plot onto red book
+
 - Colour
 - Behaviour
 - Breathing
 - Skin
     - any abnormalities should be compared with findings present at birth, if there are new discolorations that could suggest bruising non-accidental injury should be considered
+
+### Head
+- Head circumference: Plot onto red book.
+- **Fontanelles**: these should be soft and concave. Posterior fontanelle closes around 6–8w and the anterior one at 9–18m. Refer suspected craniosynostosis (premature fusion of skull sutures) to specialist.
+- **Shape**: Brachycephaly (posterior flattening) or plagiocephaly (unilateral flattening) is usually self-limiting. 
+- **Face**: Any dysmorphic features; check mouth (for cleft palate).
 ### Eyes 
 - The main aim is to identify congenital ==cataract==. 
 - Ask the parents if they have any concern or if there is any family history of childhood eye disease
@@ -101,6 +107,9 @@ The urachus is an embryological remnant connecting the bladder to the umbilicus.
 Positional [[talipes equinovarus|talipes]]: 
 - True clubfoot (you can’t move the foot into the normal position) needs prompt orthopaedic referral. 
 - Positional talipes needs physio input, but refer to orthopaedics if foot not staying in neutral position by 3m. 
+
+Positional talipes → flexible → can be corrected → usually benign
+CTEV/true clubfoot → rigid → structural deformity → needs treatment
 ### Other points 
 - Nervous system
     - Assess tone
