@@ -64,6 +64,7 @@ Also see for nasolacrimal duct obstruction -> may present with watery eyes +- re
 - Feel the femoral pulses -> Absent/weak femoral pulse: Discuss immediately with paeds
 - Any concerns should be discussed with a paediatrician
 ### Abdomen
+[NHS Link](https://www.kingstonandrichmond.nhs.uk/services/healthcare-professionals/how-refer/paediatric-referrals/umbilical-disorders-children)
 ##### Hernias
 - **Umbilical**: Reassure if age < 4yo. Routine refer if persists at 4y because most automatically close by this age. 
 - **Inguinal**: refer urgently if age <6m, routinely if age >6m.
@@ -80,7 +81,12 @@ The umbilicus usually heals rapidly after the cord stump drops off <14d. If a gr
 	- BD application of a pinch of table salt for 2 days (clean umbilicus, apply a small pinch of salt, cover area with clean gauze and leave for 30 minutes before rinsing off). The granuloma should start to heal after 2 days.
 	- Silver nitrate is now rarely used.
 
-If no features of infection, we can continue to monitor indefinitely. Granulomas can take months to heal. 
+**Infection**
+- If no features of infection, we can continue to monitor indefinitely. Granulomas can take months to heal. 
+- If signs of local infection e.g. discharge, but no spreading erythema & child is well: take an umbilical swab for MC&S, treat with oral antibiotics (Flucloxacillin, 5-7 days). Clinical review after 48 hours to ensure improvement & give clear safety net advice. 
+- If spreading redness / child systemically unwell / has ‘red flags’, arrange urgent referral for paediatric assessment as this may require IV antibiotics.
+##### Patent urachus
+The urachus is an embryological remnant connecting the bladder to the umbilicus. This usually closes at birth, but in some cases persists as a fistula between the two. These often present as persistent drainage of fluid (urine) from the umbilicus. An ultrasound can confirm the presence of a patent urachus.
 ### Developmental dysplasia of the hip ([[developmental dysplasia of the hip|DDH]])  
 - This affects 1-3% of newborns
 - Look for leg length difference or asymmetry of hip creases
