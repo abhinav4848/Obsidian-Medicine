@@ -11,7 +11,13 @@ urls:
   - "[NHS vaccinations patients PIL](https://www.nhs.uk/vaccinations/nhs-vaccinations-and-when-to-have-them/)"
 ---
 # Special Cases
-All babies, including those born prematurely, should receive their first set of vaccinations at 8 weeks from birth. This is because premature babies are at higher risk of infections and therefore need protection provided by vaccines as soon as possible. The timing of vaccination is based on chronological age, not corrected gestational age.
+All babies, including those born prematurely, should receive their first set of vaccinations at 8 weeks from birth. This is because premature babies are at higher risk of infections and therefore need protection provided by vaccines as soon as possible. 
+
+**Prematurity**: The timing of vaccination is based on chronological age, not corrected gestational age, so premature infants will not have to wait. 
+E.g. A baby born at 28 weeks:
+- At 8 weeks after birth, they are still only ~28 weeks post-menstrual age.
+- They would still be due their 8-week vaccinations according to chronological age.
+- You do not wait until they are 8 weeks corrected age.
 # Vaccination
 **At birth**
 - BCG / hepatitis B vaccine if risk factors
