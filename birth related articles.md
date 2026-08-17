@@ -10,3 +10,6 @@ tags:
 > - [[breastfeeding|Breastfeeding: benefits and problems]]
 > - [[perinatal mental health]] ([RedWhale](https://www.redwhale.co.uk/content/perinatal-mental-health)) 
 > - [[pelvic floor dysfunction]] ([RedWhale](https://www.redwhale.co.uk/content/pelvic-floor-dysfunction)) 
+> 	- [[incontinence- adult|urinary incontinence]]
+> 	- faecal incontinence
+> 	- pelvic organ prolapse
