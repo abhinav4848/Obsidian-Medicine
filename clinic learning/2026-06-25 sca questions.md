@@ -1,3 +1,7 @@
+---
+tags:
+  - clinic_learning
+---
 Old man with rapidly evolving purpura & elderly wife he's primary carer to.
 - Children? Do you get on well with neighbours? Can they look after your wife
 - Can i send the district nurse to you today?

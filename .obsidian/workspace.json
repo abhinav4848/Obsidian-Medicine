@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "incontinence- adult.md",
+                "file": "pelvic floor dysfunction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "incontinence- adult"
+              "title": "pelvic floor dysfunction"
             }
           },
           {
@@ -161,8 +161,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -175,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "incontinence- adult.md",
+                "file": "pelvic floor dysfunction.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "incontinence- adult.md",
+                "file": "pelvic floor dysfunction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -305,7 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "incontinence- adult.md",
+                "file": "pelvic floor dysfunction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,8 +337,17 @@
   "active": "968dc8478ecd9ac8",
   "lastOpenFiles": [
     "birth related articles.md",
+    "pelvic floor dysfunction.md",
+    "perinatal mental health.md",
     "maternal 6–8-week check.md",
+    "incontinence- adult.md",
+    "clinic learning/2025-12-31.md",
+    "clinic learning/2026-08-10 cases seen.md",
+    "clinic learning/2026-06-25 sca questions.md",
+    "abdominal aortic aneurysm.md",
     "abdominal pain.md",
+    "abdominal stomas.md",
+    "clinic learning",
     "newborn Infant physical examination.md",
     "breastfeeding.md",
     "mastalgia.md",
@@ -355,14 +363,6 @@
     "hirsutism.md",
     "cocp.md",
     "hrt.md",
-    "pmos.md",
-    "androgen.md",
-    "metabolic syndrome.md",
-    "irregular period.md",
-    "amenorrhoea (secondary).md",
-    "erectile dysfunction.md",
-    "cushing's syndrome.md",
-    "medical dictionary.md",
     "attachments/moon face & facial plethora.jpg",
     "attachments/cutaneous supply hand.jpg",
     "attachments/Gray812and814.svg",
@@ -391,7 +391,6 @@
     "attachments/atropa belladona.pdf",
     "flow charts/deep vein thrombosis.canvas",
     "video scripts",
-    "alex",
     "flow charts/shoulder exam.canvas"
   ]
 }
