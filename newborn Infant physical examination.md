@@ -5,6 +5,7 @@ aliases:
   - Child health surveillance
   - Healthy Child Program
   - 6-8 week baby check
+  - newborn 6–8-week check
 urls:
   - "[Healthy Child Program](https://www.gov.uk/government/collections/healthy-child-programme)"
   - "[NIPE on Gov.uk](https://www.gov.uk/government/publications/newborn-and-infant-physical-examination-programme-handbook/newborn-and-infant-physical-examination-screening-programme-handbook#newborn-and-infant-physical-screening-examination-nipe)"
@@ -13,7 +14,7 @@ tags:
   - paeds
 ---
 Care should follow the [Healthy Child Program](https://www.gov.uk/government/collections/healthy-child-programme)
-See: [NIPE Source](https://www.gov.uk/government/publications/newborn-and-infant-physical-examination-programme-handbook/newborn-and-infant-physical-examination-screening-programme-handbook#newborn-and-infant-physical-screening-examination-nipe). 
+See: [NIPE Source](https://www.gov.uk/government/publications/newborn-and-infant-physical-examination-programme-handbook/newborn-and-infant-physical-examination-screening-programme-handbook#newborn-and-infant-physical-screening-examination-nipe), [[maternal 6–8-week check]] 
 # Healthy Child Program
 Department of Health introduced Healthy Child Programme in 2009. (Old Name: Child health surveillance). 
 The newborn screening element has 4 parts
@@ -31,7 +32,9 @@ The newborn screening element has 4 parts
 | **Pre school**       | National orthoptist-led programme for pre-school vision screening to be introduced                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | **Ongoing**          | Monitoring of growth, vision, hearing  <br>Health professionals advice on immunisations, diet, accident prevention                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 \*this doesn't seem to happen in practice with health visitors usually taking over at 2 weeks
-# Routine 6-8 week baby examination
+
+---
+# Newborn 6-8 week check
 The 6–8-week baby check should take place at 6–8 weeks’ **chronological age**, but we should take corrected age into account when assessing development.
 
 It is usually performed by a GP although other health professionals may do so, depending on local arrangements. Whilst all infants are examined before they leave hospital, abnormalities are not always apparent hence the need for a second examination.  
@@ -43,7 +46,6 @@ The purpose of the check is to identify the presence of any of four key issues:
 - Undescended testes
 ### General examination 
 - Weight - plot onto growth chart in red book
-
 - Colour
 - Behaviour
 - Breathing
@@ -125,4 +127,4 @@ CTEV/true clubfoot → rigid → structural deformity → needs treatment
     - Inspect spine structure and overlying skin for hair tufts/haematoma to check for [[neurocutaneous markers|Spina bifida]] occulta. If presence of a sacral dimple in a child with any abnormal neurology, cutaneous stigmata, or if the dimple is >5mm in size or >25mm away from the anus, we should refer for lumbar spine ultrasound (or to paediatrics).
 - Skin: Check for unusual birthmarks or rashes. Note any Mongolian blue spots as they can be mistaken for bruises later on.
   
-Alongside the physical examination, this is a good opportunity to identify any concerns from the parents such as feeding or growth, as well as giving health promotion such as regarding immunisations or smoking cessation advice. The mother should be screened for postnatal depression.
+Alongside the physical examination, this is a good opportunity to identify any concerns from the parents such as feeding or growth, as well as giving health promotion such as regarding immunisations or smoking cessation advice. The [[maternal 6–8-week check|mother should be screened]] for postnatal depression. 
