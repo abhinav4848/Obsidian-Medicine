@@ -53,6 +53,34 @@
             }
           },
           {
+            "id": "ca11b575a5a08d2d",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.gov.uk/government/publications/newborn-and-infant-physical-examination-programme-handbook/newborn-and-infant-physical-examination-screening-programme-handbook#newborn-and-infant-physical-screening-examination-nipe",
+                "title": "Newborn and infant physical examination (NIPE) screening programme handbook - GOV.UK",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Newborn and infant physical examination (NIPE) screening programme handbook - GOV.UK"
+            }
+          },
+          {
+            "id": "07df4d291f54dfb6",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.gov.uk/government/publications/newborn-and-infant-physical-examination-programme-handbook/newborn-and-infant-physical-examination-screening-programme-handbook#newborn-and-infant-physical-screening-examination-nipe",
+                "title": "Newborn and infant physical examination (NIPE) screening programme handbook - GOV.UK",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Newborn and infant physical examination (NIPE) screening programme handbook - GOV.UK"
+            }
+          },
+          {
             "id": "4f2c4f65d03b54ba",
             "type": "leaf",
             "state": {
@@ -102,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vaccination",
+                "query": "tag:obstetrics",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -309,8 +337,12 @@
   },
   "active": "968dc8478ecd9ac8",
   "lastOpenFiles": [
-    "newborn Infant physical examination.md",
+    "birth related articles.md",
     "maternal 6–8-week check.md",
+    "newborn Infant physical examination.md",
+    "breastfeeding.md",
+    "mastalgia.md",
+    "drugs contraindicated in pregnancy.md",
     "examination of children.md",
     "housekeeping/study tips.md",
     "innocent murmurs.md",
@@ -332,10 +364,6 @@
     "medical dictionary.md",
     "attachments/moon face & facial plethora.jpg",
     "genital ulcers.md",
-    "plaque psoriasis.md",
-    "psoriasis.md",
-    "porphyria.md",
-    "angina.md",
     "attachments/cutaneous supply hand.jpg",
     "attachments/Gray812and814.svg",
     "attachments/complete heart block with bizarre, wide, inverted t waves (e.g. stokes-adams attack).jpg",

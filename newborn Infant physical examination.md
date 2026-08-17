@@ -13,8 +13,8 @@ urls:
 tags:
   - paeds
 ---
-Care should follow the [Healthy Child Program](https://www.gov.uk/government/collections/healthy-child-programme)
-See: [NIPE Source](https://www.gov.uk/government/publications/newborn-and-infant-physical-examination-programme-handbook/newborn-and-infant-physical-examination-screening-programme-handbook#newborn-and-infant-physical-screening-examination-nipe), [[maternal 6–8-week check]] 
+Care should follow the [Healthy Child Program](https://www.gov.uk/government/collections/healthy-child-programme) 
+Also see: [[maternal 6–8-week check]] 
 # Healthy Child Program
 Department of Health introduced Healthy Child Programme in 2009. (Old Name: Child health surveillance). 
 The newborn screening element has 4 parts

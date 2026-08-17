@@ -7,5 +7,8 @@
     "inverted-image",
     "obvious-italics",
     "blur-image"
-  ]
+  ],
+  "accentColor": "",
+  "showRibbon": true,
+  "showViewHeader": true
 }
