@@ -28,5 +28,7 @@ Records child's height & weight, vaccinations. Patient can record illness/accide
 Also record [[paediatric milestones|developmental milestones]]. 
 See if [[guthrie test|Heel prick test]] showed anything. 
 Any documentation from [[newborn Infant physical examination|NIPE]]. 
-### premature babies
+### Premature babies
 If your baby was born prematurely, their developmental age will be calculated from your original due date, not from the actual date they were born, until they are 2 years old.
+
+But all vaccinations & time for [[newborn Infant physical examination|6-8 week baby check]] are based on chronological age, so will be done without correcting for age. 

@@ -4,6 +4,7 @@ aliases:
   - Newborn & Infant Physical Examination
   - Child health surveillance
   - Healthy Child Program
+  - 6-8 week baby check
 urls:
   - "[Healthy Child Program](https://www.gov.uk/government/collections/healthy-child-programme)"
   - "[NIPE on Gov.uk](https://www.gov.uk/government/publications/newborn-and-infant-physical-examination-programme-handbook/newborn-and-infant-physical-examination-screening-programme-handbook#newborn-and-infant-physical-screening-examination-nipe)"
@@ -48,12 +49,14 @@ The purpose of the check is to identify the presence of any of four key issues:
 - Breathing
 - Skin
     - any abnormalities should be compared with findings present at birth, if there are new discolorations that could suggest bruising non-accidental injury should be considered
-
 ### Head
-- Head circumference: Plot onto red book.
+- Head circumference: Plot onto red book. Any large discrepancy from prev measurement to be referred to rule out hydrocephalus. 
 - **Fontanelles**: these should be soft and concave. Posterior fontanelle closes around 6–8w and the anterior one at 9–18m. Refer suspected craniosynostosis (premature fusion of skull sutures) to specialist.
 - **Shape**: Brachycephaly (posterior flattening) or plagiocephaly (unilateral flattening) is usually self-limiting. 
 - **Face**: Any dysmorphic features; check mouth (for cleft palate).
+### Musculoskeletal
+- Check neck and clavicles: any bony abnormality or callous formation may indicate an undiagnosed clavicular fracture.
+- Examine limbs, hands, feet and digits.
 ### Eyes 
 - The main aim is to identify congenital ==cataract==. 
 - Ask the parents if they have any concern or if there is any family history of childhood eye disease
@@ -66,11 +69,14 @@ Also see for nasolacrimal duct obstruction -> may present with watery eyes +- re
 - Look for cyanosis, ask the parents if they see this when the child feeds
 - Assess the breathing
     - a persistent respiratory rate over 55 is concerning
-- Auscultate the heart for murmurs and palpate for heaves and thrills
+- Auscultate the heart for murmurs and palpate for heaves and thrills. Check all 4 areas. 
 - Feel the femoral pulses -> Absent/weak femoral pulse: Discuss immediately with paeds
 - Any concerns should be discussed with a paediatrician
+
+[[innocent murmurs]]: A soft systolic murmur heard at the left sternal edge in a well infant is likely to be benign. BUT, if doubt remains, refer.
 ### Abdomen
 [NHS Link](https://www.kingstonandrichmond.nhs.uk/services/healthcare-professionals/how-refer/paediatric-referrals/umbilical-disorders-children)
+- Check umbilical stump, and for organomegaly.
 ##### Hernias
 - **Umbilical**: Reassure if age < 4yo. Routine refer if persists at 4y because most automatically close by this age. 
 - **Inguinal**: refer urgently if age <6m, routinely if age >6m.
@@ -95,10 +101,12 @@ The umbilicus usually heals rapidly after the cord stump drops off <14d. If a gr
 The urachus is an embryological remnant connecting the bladder to the umbilicus. This usually closes at birth, but in some cases persists as a fistula between the two. These often present as persistent drainage of fluid (urine) from the umbilicus. An ultrasound can confirm the presence of a patent urachus.
 ### Developmental dysplasia of the hip ([[developmental dysplasia of the hip|DDH]])  
 - This affects 1-3% of newborns
-- Look for leg length difference or asymmetry of hip creases
+- Lie baby supine and look for leg length difference / asymmetry of hip creases
 - Perform Barlow's test (looks for hips that are dislocatable)
 - Perform Ortolani's test (identifies hips which are) dislocated
-- If there are any concerns then the infant should be referred for an urgent ultrasound as per local guidelines. 
+- If there are any concerns, or if there is any limited abduction of either hip -> Then the infant should be referred for an urgent ultrasound, or to paeds orthopaedics as per local guidelines. 
+
+- **Note**: *isolated clicks in an otherwise normal hip examination are not worrying, but seek specialist advice if unsure.*
 ### Testes 
 - Feel the scrotum for testes
 - If neither testis can be palpated and/or other genital abnormality -> refer for a same-day paeds assessment
@@ -114,5 +122,7 @@ CTEV/true clubfoot → rigid → structural deformity → needs treatment
 - Nervous system
     - Assess tone
     - When ventrally suspended the infant should be able to hold its head in line with the rest of its body
+    - Inspect spine structure and overlying skin for hair tufts/haematoma to check for [[neurocutaneous markers|Spina bifida]] occulta. If presence of a sacral dimple in a child with any abnormal neurology, cutaneous stigmata, or if the dimple is >5mm in size or >25mm away from the anus, we should refer for lumbar spine ultrasound (or to paediatrics).
+- Skin: Check for unusual birthmarks or rashes. Note any Mongolian blue spots as they can be mistaken for bruises later on.
   
 Alongside the physical examination, this is a good opportunity to identify any concerns from the parents such as feeding or growth, as well as giving health promotion such as regarding immunisations or smoking cessation advice. The mother should be screened for postnatal depression.
