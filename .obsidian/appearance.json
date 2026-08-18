@@ -1,12 +1,10 @@
 {
   "baseFontSize": 16,
   "enabledCssSnippets": [
-    "headers",
-    "obvious-bold",
     "red-border",
     "inverted-image",
-    "obvious-italics",
-    "blur-image"
+    "blur-image",
+    "harsha1060_headers, bold, italics, code, combo"
   ],
   "accentColor": "",
   "showRibbon": true,

@@ -1,0 +1,98 @@
+/*----------------------------------------------------------------*\
+  Blue Topaz Theme— Gradient Headers, Italic & Code
+  See: https://github.com/harsha1060/obsidian-custom-colours/tree/main
+  Drop this file into: <vault>/.obsidian/snippets/
+  Then enable it under: Settings → Appearance → CSS Snippets
+\*----------------------------------------------------------------*/
+
+:root .theme-light {
+    --h1-color: #ef5350;
+    --h1-gradient: var(--h1-color), #e57373, #f06292;
+    --h2-color: #ffa726;
+    --h2-gradient: var(--h2-color), #ffb74d, #ffcc80;
+    --h3-color: #a5d6a7;
+    --h3-gradient: var(--h3-color), #aed581, #e6ee9c;
+    --h4-color: #90caf9;
+    --h4-gradient: var(--h4-color), #80deea, #80cbc4;
+    --h5-color: #ffab91;
+    --h5-gradient: var(--h5-color), #ffccbc, #ffe0b2;
+    --h6-color: #64748b;
+    --h6-gradient: var(--h6-color), #94a3b8, #cbd5e1;
+
+    --text-italic-color: #ce93d8;
+    --code-color: #8fd9c4;
+    --code-background: rgba(143, 217, 196, 0.08);
+    --code-border: rgba(143, 217, 196, 0.2);
+
+    --table-header-color: var(--h4-color);
+    --table-border-color: rgba(144, 202, 249, 0.25);
+    --table-row-alt-bg: rgba(144, 202, 249, 0.04);
+}
+
+:root .theme-dark {
+    --h1-color: #ef5350;
+    --h1-gradient: var(--h1-color), #e57373, #f06292;
+    --h2-color: #ffa726;
+    --h2-gradient: var(--h2-color), #ffb74d, #ffcc80;
+    --h3-color: #a5d6a7;
+    --h3-gradient: var(--h3-color), #aed581, #e6ee9c;
+    --h4-color: #90caf9;
+    --h4-gradient: var(--h4-color), #80deea, #80cbc4;
+    --h5-color: #ffab91;
+    --h5-gradient: var(--h5-color), #ffccbc, #ffe0b2;
+    --h6-color: #64748b;
+    --h6-gradient: var(--h6-color), #94a3b8, #cbd5e1;
+
+    --text-italic-color: #ce93d8;
+    --code-color: #8fd9c4;
+    --code-background: rgba(143, 217, 196, 0.08);
+    --code-border: rgba(143, 217, 196, 0.2);
+
+    --table-header-color: var(--h4-color);
+    --table-border-color: rgba(144, 202, 249, 0.25);
+    --table-row-alt-bg: rgba(144, 202, 249, 0.04);
+}
+
+/*----------------------*\
+*!   Gradient Headers   !*
+\*----------------------*/
+
+.cm-formatting-header {
+    color: inherit;
+}
+
+.cm-header:not(.cm-formatting),
+:is(h1, h2, h3, h4, h5, h6) {
+    background: linear-gradient(to right, var(--gradient-header));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    width: fit-content;
+}
+
+.cm-header-1, h1 { --gradient-header: var(--h1-gradient); }
+.cm-header-2, h2 { --gradient-header: var(--h2-gradient); }
+.cm-header-3, h3 { --gradient-header: var(--h3-gradient); }
+.cm-header-4, h4 { --gradient-header: var(--h4-gradient); }
+.cm-header-5, h5 { --gradient-header: var(--h5-gradient); }
+.cm-header-6, h6 { --gradient-header: var(--h6-gradient); }
+
+/*----------------------*\
+*!   Italic & Code      !*
+\*----------------------*/
+
+em, i, .cm-em {
+    color: var(--text-italic-color) !important;
+}
+
+code, .cm-inline-code {
+    color: var(--code-color) !important;
+    background-color: var(--code-background) !important;
+    border-radius: 4px;
+    padding: 0.1em 0.35em;
+    border: 1px solid var(--code-border);
+}
+
+strong em, em strong, .cm-strong.cm-em {
+    color: var(--text-italic-color) !important;
+    font-weight: 700;
+}

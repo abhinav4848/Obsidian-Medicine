@@ -27,8 +27,8 @@ Ask if red book is up to date. Good idea to bring it with baby to the clinic.
 Records child's height & weight, vaccinations. Patient can record illness/accidents/medicines baby has had. 
 Also record [[paediatric milestones|developmental milestones]]. 
 See if [[guthrie test|Heel prick test]] showed anything. 
-Any documentation from [[newborn Infant physical examination|NIPE]]. 
+Any documentation from [[-newborn infant physical examination|NIPE]]. 
 ### Premature babies
 If your baby was born prematurely, their developmental age will be calculated from your original due date, not from the actual date they were born, until they are 2 years old.
 
-But all vaccinations & time for [[newborn Infant physical examination|6-8 week baby check]] are based on chronological age, so will be done without correcting for age. 
+But all vaccinations & time for [[-newborn infant physical examination|6-8 week baby check]] are based on chronological age, so will be done without correcting for age. 
