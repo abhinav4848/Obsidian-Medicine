@@ -22,10 +22,9 @@ Mostly male patients.
 - mesh repair has lowest recurrence rate
 	- unilateral inguinal hernias are generally repaired with an open approach
 	- bilateral and recurrent inguinal hernias are generally repaired laparoscopically
-#### Return to Work
+#### Return to Work 
 Open repair: 2-3 weeks
 Laparoscopic: 1-2 weeks
-
 # Femoral hernia
 Femoral = Female, Fear (urgent referral)  
 - high risk of strangulation 
@@ -58,9 +57,3 @@ Inguinal is Male,
 #### Incisional hernia
 - May occur in up to 10% of abdominal operations
 
-# Abdominal wall hernias in children
-
-| **Type of hernia**             | **Details**                                                                                                                                                                                                                                                                     |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Congenital inguinal hernia** | Indirect hernias resulting from a patent processus vaginalis  <br>Occur in around 1% of term babies. More common in premature babies and boys  <br>60% are right sided, 10% are bilaterally  <br>Should be surgically repaired soon after diagnosis as at risk of incarceration |
-| **Infantile umbilical hernia** | Symmetrical bulge under the umbilicus  <br>More common in premature and [[afro-caribbean\|Afro-Caribbean]] babies  <br>The vast majority resolve without intervention before the age of 4-5 years  <br>Complications are rare                                                   |

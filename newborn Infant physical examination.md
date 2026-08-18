@@ -79,10 +79,14 @@ Also see for nasolacrimal duct obstruction -> may present with watery eyes +- re
 ### Abdomen
 [NHS Link](https://www.kingstonandrichmond.nhs.uk/services/healthcare-professionals/how-refer/paediatric-referrals/umbilical-disorders-children)
 - Check umbilical stump, and for organomegaly.
-##### Hernias
-- **Umbilical**: Reassure if age < 4yo. Routine refer if persists at 4y because most automatically close by this age. 
-- **Inguinal**: refer urgently if age <6m, routinely if age >6m.
+##### Hernias ([[hernias]]) 
+General risk factors: Prematurity, LBW, Raise Intra abdo pressure, CTD e.g. Ehlers-Danlos. 
 - **Epigastric**: refer all routinely.
+
+| **Type of hernia**             | **Details**                                                                                                                                                                                                                                                                                                                                                                                                                                     | Treatment                                                                                            |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Infantile umbilical hernia** | Symmetrical bulge under the umbilicus. <br>More common in premature and [[afro-caribbean\|Afro-Caribbean]] babies.<br>[[down's syndrome]] & [[hypothyroidism]] predispose to umbilical hernia.<br><br>The vast majority resolve without intervention before the age of 4-5 years.  <br>Complications are rare.<br><br>If pain/irritability present, check for other causes if umbilical hernia is fully reducible _(it may be a red herring!)._ | Reassure if age < 4yo. Routine refer if persists at 4y because most automatically close by this age. |
+| **Congenital inguinal hernia** | - Indirect hernias resulting from a patent processus vaginalis -> Presents with hydrocele & hernia of abdominal contents.<br>- Occur in around 1% of term babies. More common in premature babies and boys. In girls, herniation happens into the labia. <br>- 60% are right sided, 10% are bilaterally  <br>- Should be surgically repaired soon after diagnosis as at risk of incarceration                                                   | Refer urgently if age <6m as risk of incarceration, routinely if age >6m. 🚩                         |
 Admit any if signs of strangulation/incarceration, and safety-net for these.
 - **Incarceration**: Painful irreducible hernia, +- overlying skin colour changes.
 - **Strangulation**: Painful irreducible hernia, associated vomiting/constipation. 
