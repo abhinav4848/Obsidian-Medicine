@@ -17,7 +17,7 @@ aliases:
 | **Clubfoot**           | Usually refers to **congenital talipes equinovarus (CTEV)**. The foot is structurally deformed, typically **rigid** and not easily passively corrected.                                                     |
 | **CTEV**               | **Congenital talipes equinovarus** — the formal medical term for classic congenital clubfoot.                                                                                                               |
 # Clubfoot
-Talipes equinovarus, or club foot, describes an inverted (inward turning) and plantar flexed foot. It is usually diagnosed on the [[-newborn infant physical examination|newborn exam]]. 
+Talipes equinovarus, or club foot, describes an inverted (inward turning) and plantar flexed foot. It is usually diagnosed on the [[newborn infant physical examination|newborn exam]]. 
   
 Talipes equinovarus is twice as common in males than females and has an incidence of 1 per 1,000 births. Around 50% of cases are bilateral.  
 ### Causes
@@ -50,7 +50,7 @@ Classic CTEV has the CAVE components:
 ---
 # Positional talipes 
 [Leaflet](https://www.nhslanarkshire.scot.nhs.uk/patient-information-leaflets/maternity/pil-postal-22-02630-l/)
-Positional Talipes is a common foot condition in newborn babies (see [[-newborn infant physical examination|NIPE]]). Can be u/l or b/l. 
+Positional Talipes is a common foot condition in newborn babies (see [[newborn infant physical examination|NIPE]]). Can be u/l or b/l. 
 
 It causes the foot to rest down and inwards.
 The foot can be gently moved through a normal range of movement.

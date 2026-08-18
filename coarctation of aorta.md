@@ -29,7 +29,7 @@ see [[congenital cyanotic diseases of heart]]
 - Rib notching due to some intercostal arteries which branch above the coarctation having more pressure in them than the anastomosing intercostal arteries which branched below the coarctation. Blood flow is thus reversed in the arteries which branched below the coarctation. 
 # Clinical Features
 - Upper limb hypertension with weak or absent femoral pulses (==radio-femoral delay==). 
-- Coarctation in babies in their [[-newborn infant physical examination|NIPE]] 6-8 week exam: Absence of femoral pulse. Discuss with paeds immediately. 
+- Coarctation in babies in their [[newborn infant physical examination|NIPE]] 6-8 week exam: Absence of femoral pulse. Discuss with paeds immediately. 
 - More common in males and often remains undetected until adolescence or early adulthood if the narrowing is not severe enough to cause symptoms in infancy.
 - There can be a significant difference in blood pressure between the left and right arms.
 - Mid-systolic [[cardiac murmurs|murmur]] max over the back

@@ -15,7 +15,7 @@ Doesn't cause pain in the child but can lead to early hip replacement.
 First fat female born oligo breech in a family with such history. 
 	Firstborn, birth wt. > 5kgs, Girl child, oligohydramnios, breech presentation, family history,
 Age < 3yo
-*All breech presentations noted at 36 completed weeks of gestation require USS for DDH [[-newborn infant physical examination|screening]] regardless of*
+*All breech presentations noted at 36 completed weeks of gestation require USS for DDH [[newborn infant physical examination|screening]] regardless of*
 - mode of delivery at birth (Normal or C-section).
 - presentation at birth
 # Clinical Features
@@ -32,11 +32,11 @@ Note: Barlow might be negative if hip is already dislocated at the time of prese
 Galleazi #named:In infants > 3 mo, assessment by the Barlow and Ortolani tests is no longer sensitive. Perform the Galleazi sign to test for loss of abduction of the affected hip. 
 # Investigation
 - Confirm with USS as although can be self-resolving, it presents as a spectrum, so can be bad as well. 
-- USS from 6 weeks up to 4.5 months cuz hips are cartilaginous. (see [[-newborn infant physical examination|Newborn & Infant Physical Examination]])
+- USS from 6 weeks up to 4.5 months cuz hips are cartilaginous. (see [[newborn infant physical examination|Newborn & Infant Physical Examination]])
 - Xray only after 4.5 months. 
 # Management 
 Most unstable hips will spontaneously stabilize by 3-6 weeks. 
-At [[-newborn infant physical examination|6-8 week check]], if barlow/ortolani is positive, urgent refer to paeds ortho. 
+At [[newborn infant physical examination|6-8 week check]], if barlow/ortolani is positive, urgent refer to paeds ortho. 
 
 Pavlik harness #named(dynamic flexion abduction orthosis) in children <4-6 months
 
