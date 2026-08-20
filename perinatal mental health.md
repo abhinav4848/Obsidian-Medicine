@@ -6,14 +6,20 @@ urls:
 
 #### Depression: screening 
 Two screening ‘Whooley’ questions:
-- _During the past month, have you often been bothered by feeling down, depressed or hopeless?_
-- _During the past month, have you been bothered by little interest of pleasure in doing things?_
 
-If the woman responds positively to either question or there are other concerns, consider using the Edinburgh postnatal depression Scale or PHQ-9 (the Edinburgh Postnatal Depression Scale is _probably_ preferable if the woman is pregnant because PHQ-9 contains physical components (sleep, energy, appetite) which are commonly disturbed in both pregnancy and postnatally, and this may over-identify depression).
+> [!Question] During the past month, have you often been bothered by
+> - *feeling down, depressed or hopeless?*
+> - *little interest or pleasure in doing things?*
+
+If the woman responds positively to either question or there are other concerns, consider using the Edinburgh postnatal depression Scale or PHQ-9.
+- The Edinburgh Postnatal Depression Scale is _probably_ better if the woman is pregnant because PHQ-9 contains physical components (sleep, energy, appetite) which are commonly disturbed in both pregnancy and postnatally, and this may over-identify depression. 
 #### Anxiety disorders: screening
 Two-item GAD:
-- _Over the past 2 weeks, how often have you been bothered by feeling nervous, anxious or on edge?_
-- _Over the past 2 weeks, how often have you been bothered by not being able to stop or control worrying?_
+
+> [!Question] Over the past 2 weeks, how often have you been bothered by
+> - *feeling nervous, anxious or on edge?*
+> - *not being able to stop or control worrying?*
+
 (for each question, score 1 for several days, 2 for more than half the days and 3 for nearly every day)
 If the woman scores 3 or more, consider GAD-7 for further assessment. 
 If she scores <3 but you are still concerned she may have an anxiety disorder, ask the following:
@@ -32,3 +38,9 @@ Women with the following signs/symptoms may be at higher risk of suicide and req
 To assess complexity/severity ask about or keep in mind:
 - intrusive thoughts or images: distressing thoughts/hallucinations/hopelessness
 - behaviours/actions: self-harm, sleep, irritability, strict routines
+
+# Edinburgh Postnatal depression tool (EPDS) 
+Used to aid diagnosis in perinatal depression. 
+Can be used to screen for depression as well. 
+Use the anxiety items from it to screen for anxiety. 
+These tools are not diagnostic and shouldn't be used in isolation. 
