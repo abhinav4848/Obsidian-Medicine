@@ -70,7 +70,7 @@ Some potential symptoms of mental illness may be a normal part of pregnancy and 
 - **Sudden onset of symptoms suggestive of postpartum psychosis is a psychiatric emergency requiring assessment and treatment within 4 hours.** 
 
 ## Traumatic birth
-If features of trauma are persistent beyond 4 weeks (but monitor closely up-to 3 months), we should suspect PTSD 
+If features of trauma are persistent beyond 4 weeks (but monitor closely up-to 3 months), we should suspect PTSD & refer to perinatal mental hea
 - Questions that might help us explore whether birth was traumatic include:
     - _How do you feel about your birth?_
     - _Did you feel you or your baby were in any danger at all?_
