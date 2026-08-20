@@ -133,3 +133,26 @@ CTEV/true clubfoot → rigid → structural deformity → needs treatment
 - Skin: Check for unusual birthmarks or rashes. Note any Mongolian blue spots as they can be mistaken for bruises later on.
   
 Alongside the physical examination, this is a good opportunity to identify any concerns from the parents such as feeding or growth, as well as giving health promotion such as regarding immunisations or smoking cessation advice. The [[maternal 6–8-week check|mother should be screened]] for postnatal depression. 
+
+
+---
+# Sequence seen in Clinic
+1. Any complications with birth? Had to stay in special baby unit?
+2. Gaining weight
+3. Settled in between feeds? (Mum says bringing up fluid/hiccups)
+	1. Any distriss/discomfort during this vomiting? Is it coming out forcefully at all?
+	2. Small to lots amount?
+	3. Any rashes/skin changes when she's fed? (Mum mention baby acne, you're checking for [[vomiting in paeds|cow milk allergy]])
+4. Poo & wee okay?
+5. Did you have any thoughts about it? Any concern
+6. We tend to give meds only if things get worse because they have their own side effects like constipation. 
+	1. Winding when she's fed, patting helps with digestion
+
+Now we'll do a head to toe check & talk through while doing it. 
+
+Ask mum to start undressing the baby (only upper half first, leave the bottom on - to not make the baby too cold) & put her on the foot end of the bed. 
+1. Assess tone, Fontenelle, external ears (additional lobe)
+2. Face symmetrical
+3. Cap refill by pressing on sternum- to see if hydrated. 
+4. Hands check- for all fingers
+5. Neck for any sinuses (branchial cyst)

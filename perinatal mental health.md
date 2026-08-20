@@ -69,8 +69,8 @@ Some potential symptoms of mental illness may be a normal part of pregnancy and 
 - Postpartum psychosis & bipolar disorder are closely linked. 
 - **Sudden onset of symptoms suggestive of postpartum psychosis is a psychiatric emergency requiring assessment and treatment within 4 hours.** 
 
-## Traumatic birth
-If features of trauma are persistent beyond 4 weeks (but monitor closely up-to 3 months), we should suspect PTSD & refer to perinatal mental hea
+## PTSD (Traumatic birth)
+If features of trauma are persistent beyond 4 weeks (but monitor closely up-to 3 months), we should suspect PTSD & refer to perinatal mental health service. 
 - Questions that might help us explore whether birth was traumatic include:
     - _How do you feel about your birth?_
     - _Did you feel you or your baby were in any danger at all?_
@@ -82,3 +82,8 @@ If features of trauma are persistent beyond 4 weeks (but monitor closely up-to 3
 - Once we have identified a woman as having experienced trauma, we can share this advice:
     - _“After a traumatic event, our brains naturally try to make sense of what has happened, and, because of this, the event will keep coming back to mind. This can be during the day in the form of reliving it, or at night in the form of nightmares. These experiences can be very unpleasant because they trigger the same feelings experienced at the time of the event. Having these emotional responses does not mean that there is anything wrong with you or that you are a bad mum. It is normal for these traumatic events to replay, and to feel upset about them. It can be a natural response to try to shut down and distract from this processing, but doing this can make the feelings worse. Well-meaning loved ones might say ‘put it behind you’ or ‘it’s over now,’ but it’s more helpful to keep talking with someone supportive.”_
 
+Features specific to PTSD to look out for include:
+- Re-experiencing, flashbacks, nightmares.
+- Hyperarousal (vigilance, irritability, anger).
+- Avoidance of situations that trigger memories of the events.
+- Emotional dysregulation or numbness; dissociation.

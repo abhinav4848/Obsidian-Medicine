@@ -77,6 +77,8 @@ We've discussed the above but also take a minute to see the leaflet on NHS websi
 - Worsening of current symptoms or any new, unusual symptoms
 
 We've discussed the above but also take a minute to see the leaflet on NHS website, especially the boxes about when you need to seek medical help: https://www.nhs.uk/symptoms/shortness-of-breath/
+### Children
+If you are worried that your baby has a cough which is getting worse, starts to wheeze or has other breathing difficulties, Please come back or contact 999/go to A&E. 
 # Back Pain 
 Please seek urgent medical attention (e.g., A&E or call 999) if you experience any of the following:
 - Severe back pain that does not improve with rest
