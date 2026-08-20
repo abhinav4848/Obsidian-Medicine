@@ -16,6 +16,12 @@ urls:
 # Drugs contraindicated in breastfeeding
 *See: [[drugs contraindicated in pregnancy]]* 
 **HIV**: Mothers who are HIV positive are generally not advised to breastfeed if an acceptable, feasible, affordable, sustainable and safe replacement feeding option is available due to the risk of transmission of HIV through breast milk.
+# Concerns about poor infant weight gain
+Around 1 in 10 breastfed babies lose more than the 'cut-off' 10% threshold in the first week of life. This should prompt consideration of the above breastfeeding problems. The infant should also be examined to look for any underlying problems. 
+- NICE recommends an 'expert' review of feeding if this occurs (e.g. ==midwife-led== breastfeeding clinics) and monitoring of weight until weight gain is satisfactory
+# Weaning
+Weaning should ideally start when babies can sit upright. 
+Breastfeeding alongside weaning should be continued till 2 years of age. 
 
 ---
 # 'Minor' breastfeeding problems 
@@ -48,6 +54,8 @@ In [[raynaud|Raynaud's disease]] of the nipple, pain is often intermittent and 
 Options of treatment for Raynaud's disease of the nipple include advice on minimising exposure to cold, use of heat packs following a breastfeed, avoiding caffeine and stopping smoking. If symptoms persist consider specialist referral for a trial of oral nifedipine (off-license).
 
 ---
-# Concerns about poor infant weight gain
-Around 1 in 10 breastfed babies lose more than the 'cut-off' 10% threshold in the first week of life. This should prompt consideration of the above breastfeeding problems. The infant should also be examined to look for any underlying problems. 
-- NICE recommends an 'expert' review of feeding if this occurs (e.g. ==midwife-led== breastfeeding clinics) and monitoring of weight until weight gain is satisfactory
+# Breastfeeding benefits
+1. Reduction in invasive [[cancer- breast (treatment)|Breast Cancer]]. 
+2. Reduction in [[cancer- ovarian|Ovarian cancer]]. 
+3. Reduced risk of maternal T2DM later in life. Even greater benefit in women with [[diabetes- gestational|GDM]]. 
+4. Breastfeeding is more environmentally sustainable than formula feeding. 

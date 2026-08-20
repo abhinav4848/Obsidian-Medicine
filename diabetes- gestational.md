@@ -82,6 +82,9 @@ Once a woman has been diagnosed with gestational diabetes, she remains 'high ris
 - detailed [[down's syndrome|anomaly scan]] at 20 weeks including four-chamber view of the heart and outflow tracts (Fetal echocardiography) 
 - tight glycaemic control reduces complication rates
 - treat retinopathy as can worsen during pregnancy
+# Management postpartum for GDM
+- Women stop taking anti-diabetic medications after delivery
+- They should have annual [[hba1c|HbA1c]] for the rest of their lives. 
 
 ---
 > [!quote]- Why is threshold for diagnosing GDM lower than diagnosing DM?

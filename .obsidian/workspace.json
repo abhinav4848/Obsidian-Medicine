@@ -146,7 +146,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -161,7 +164,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -290,7 +294,8 @@
               "title": "Outgoing links from consultation models"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c9a800b7c85d029b",
@@ -335,6 +340,10 @@
   },
   "active": "968dc8478ecd9ac8",
   "lastOpenFiles": [
+    "breastfeeding.md",
+    "drugs contraindicated in pregnancy.md",
+    "immunisation schedule (paeds).md",
+    "diabetes- gestational.md",
     "perinatal mental health.md",
     "Untitled.md",
     "maternal 6–8-week check.md",
@@ -350,18 +359,14 @@
     "abdominal pain.md",
     "abdominal stomas.md",
     "clinic learning",
-    "breastfeeding.md",
     "mastalgia.md",
-    "drugs contraindicated in pregnancy.md",
     "examination of children.md",
     "housekeeping/study tips.md",
     "innocent murmurs.md",
     "developmental dysplasia of the hip.md",
     "talipes equinovarus.md",
-    "immunisation schedule (paeds).md",
     "steroids in dermatology.md",
     "cocp- pill ladder.md",
-    "hirsutism.md",
     "attachments/moon face & facial plethora.jpg",
     "attachments/cutaneous supply hand.jpg",
     "attachments/Gray812and814.svg",
