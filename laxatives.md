@@ -3,17 +3,17 @@ tags:
   - pharmacology
   - notAKT
 urls:
-  - https://bnf.nice.org.uk/nurse-prescribers-formulary/laxatives/
-  - https://bnf.nice.org.uk/treatment-summaries/constipation/
-  - https://www.nhs.uk/conditions/constipation/
-  - https://www.nhs.uk/live-well/eat-well/digestive-health/how-to-get-more-fibre-into-your-diet/
-  - https://cks.nice.org.uk/topics/constipation/management/adults/
+  - "[BNF Nurse Prescribers' Formulary- Laxatives](https://bnf.nice.org.uk/nurse-prescribers-formulary/laxatives/)"
+  - "[BNF Treatment summaries- Constipation](https://bnf.nice.org.uk/treatment-summaries/constipation/)"
+  - "[Constipation - NHS](https://www.nhs.uk/conditions/constipation/)"
+  - "[NHS- How to get more fibre into your diet](https://www.nhs.uk/live-well/eat-well/digestive-health/how-to-get-more-fibre-into-your-diet/)"
+  - "[CKS: Managing constipation in adults](https://cks.nice.org.uk/topics/constipation/management/adults/)"
   - "[NICE CKS: Constipation in children](https://cks.nice.org.uk/topics/constipation-in-children/)"
 ---
 Abuse may lead to [[hypokalemia|hypokalaemia]]. _Simple constipation_ is usually relieved by increasing the intake of dietary fibre and fluids.
 # Short duration constipation 
 In the management of short-duration constipation (where dietary measures are ineffective) treatment should be started with a bulk-forming laxative, ensuring adequate fluid intake. If stools remain hard, add or switch to an osmotic laxative. If stools are soft but difficult to pass or the person complains of inadequate emptying, a stimulant laxative should be added.
-
+  
 ---
 # Types of laxatives
 ## Bulk-forming laxatives
@@ -43,8 +43,37 @@ Lactulose (esp in [[cirrhosis]]), Macrogols (cosmocol, movicol, laxido), and Mag
 - **==Paediatric laxatives==**: Give osmotic laxative like lactulose or macrogol which can be flavoured (chocolate/lemon/lime/plain i.e. tasteless). See [NICE: Constipation in children](https://cks.nice.org.uk/topics/constipation-in-children/) If constipation persists despite optimal doses of the macrogol, add a stimulant laxative.
 - Laxido/Movicol need +fluid (125ml/sachet); and are good for faecal impaction. 
 
-Macrogol Onset: 1-2 days. 
-Lactulose Onset: 
+**Macrogol Onset**: 1-2 days. It can also be used for disimpaction regimen. 
+
+> [!NOTE]- How to make Macrogols palatable
+> - Macrogols can be flavoured or plain.
+> - Macrogols must first be dissolved in the correct volume of water to activate (this amount depends on the product chosen: Movicol half and Movicol paediatric plain require 62.5ml per sachet; adult preparations usually require 125ml per sachet).
+> - Once this is done, they can be further diluted or added to ANY food that the child likes, e.g. soup, jelly, hot chocolate or cordial.
+> - The powder should NOT be mixed straight into foods or drinks other than water as it will not work.
+> - If the child doesn’t like the taste, try chilling it in the fridge (Laxido will last 6 hours after mixing, and CosmoCol and Movicol will last for 24 hours according to SPCs accessed January 2022).
+
+> [!NOTE]- Macrogol disimpaction & Maintenance regimen
+> | MACROGOLS (Polyethylene glycol 3350 + electrolytes (PEG-3350))<br><br>Disimpaction regimens | _A range of paediatric plain preparations are available but not all are licensed for children under 12; check BNFc for details._                                     |
+| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Child <1y**                                                                               | Paediatric formulation ½ to 1 sachet daily.                                                                                                                          |
+| **Child 1–5y**                                                                              | Paediatric formulation (titrate up as needed):  <br>Day 1: 2 sachets.  <br>Day 2–3: 4 sachets.  <br>Day 4–5: 6 sachets.  <br>Day 6+: 8 sachets.                      |
+| **Child 5–12y**                                                                             | Paediatric formulation (titrate up as needed):  <br>Day 1: 4 sachets.  <br>Day 2: 6 sachets.  <br>Day 3: 8 sachets.  <br>Day 4: 10 sachets.  <br>Day 5+: 12 sachets. |
+| **Child 12–18y**                                                                            | ADULT FORMULATION: 4 sachets on first day, then increase in steps of 2 sachets daily to a maximum of 8 sachets daily.                                                |
+>
+>| Maintenance regimens |                                                                                                                |
+| -------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Child <1y**        | Paediatric formulation ½ to 1 sachet daily.                                                                    |
+| **Child 1–6y**       | Paediatric formulation: 1 sachet daily; adjust dose to produce regular soft stools (maximum 4 sachets daily).  |
+| **Child 6–12y**      | Paediatric formulation: 2 sachets daily; adjust dose to produce regular soft stools (maximum 4 sachets daily). |
+| **Child 12–18y**     | ADULT FORMULATION: 1–3 sachets daily in divided doses according to response.                                   |
+
+> [!NOTE]- Osmotic Laxative Paeds dosage
+> | Lactulose       | OSMOTIC LAXATIVE                                     |
+| --------------- | ---------------------------------------------------- |
+| **Child 1m–1y** | 2.5ml twice daily adjusted according to response.    |
+| **Child 1–5y**  | 2.5–10ml twice daily adjusted according to response. |
+| **Child 5–18y** | 5–20ml twice daily adjusted according to response.   |
+
 ## Stimulant laxatives
 Senna, Bisacodyl (Dulcolax), Sodium Picosulfate
 - Work by irritating the bowel- Promote contraction of the intestines, promoting the movement of stools through the bowel when patient is too weak to defecate.
@@ -58,6 +87,21 @@ Senna, Bisacodyl (Dulcolax), Sodium Picosulfate
 - Picosulfate is preferred in palliative settings as it does not need much fluids and people who have lost their appetite and are struggling to drink, will not be able to take the amount of fluid Laxido etc needs. 
 - Picosulfate onset: 6 –14 hours
 
+> [!NOTE]- Stimulant laxatives paeds dosage
+> | **Sodium picosulfate elixir (5mg/5ml)**                                  | **Child 1m–4y**                                         | 2.5–10mg once daily.                                 |
+| ------------------------------------------------------------------------ | ------------------------------------------------------- | ---------------------------------------------------- |
+| **Child 4–18y**                                                          | 2.5–20mg once daily.                                    |                                                      |
+| **Sodium picosulfate perles (1 tablet = 2.5mg) (not licensed under 4y)** | **Child 4–18y**                                         | 2.5–20mg once daily.                                 |
+| **Bisacodyl by mouth**                                                   | **Child 4–18y**                                         | 5–20mg once daily.                                   |
+| **Bisacodyl by rectum**                                                  | **Child 2–18y**                                         | 5–10mg once daily.                                   |
+| **Senna syrup (7.5mg/5ml)** **(unlicensed under 2y)**                    | **Child 1m–4y**                                         | 2.5–10ml once daily.                                 |
+| **Child 4–18y**                                                          | 2.5–20ml once daily.                                    |                                                      |
+| **Senna (non-proprietary) (1 tablet = 7.5mg)**                           | **Child 2–4y**                                          | ½–2 tablets once daily.                              |
+| **Child 4–6y**                                                           | ½–4 tablets once daily.                                 |                                                      |
+| **Child 6–18y**                                                          | 1–4 tablets once daily.                                 |                                                      |
+| **Docusate sodium**                                                      | **Child 6m–2y**                                         | 12.5mg three times daily (paediatric oral solution). |
+| **Child 2–12y**                                                          | 12.5–25mg three times daily (paediatric oral solution). |                                                      |
+| **Child 12–18y**                                                         | Up to 500mg daily in divided doses.                     |                                                      |
 ## Peripherally acting Mu opioid receptor antagonists (PAMORAs)
 [Link](https://www.westmidspallcare.co.uk/wmpcp/guide/constipation/choice-of-laxatives/)
 
