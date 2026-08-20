@@ -197,7 +197,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8093680411286104,
+                  "scale": 0.5773023692828827,
                   "close": true
                 }
               },
@@ -335,10 +335,11 @@
   },
   "active": "968dc8478ecd9ac8",
   "lastOpenFiles": [
+    "perinatal mental health.md",
+    "Untitled.md",
     "maternal 6–8-week check.md",
     "newborn infant physical examination.md",
     "hernias.md",
-    "perinatal mental health.md",
     "pelvic floor dysfunction.md",
     "birth related articles.md",
     "incontinence- adult.md",
@@ -361,7 +362,6 @@
     "steroids in dermatology.md",
     "cocp- pill ladder.md",
     "hirsutism.md",
-    "cocp.md",
     "attachments/moon face & facial plethora.jpg",
     "attachments/cutaneous supply hand.jpg",
     "attachments/Gray812and814.svg",

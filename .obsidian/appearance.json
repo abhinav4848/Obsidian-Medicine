@@ -4,7 +4,8 @@
     "red-border",
     "inverted-image",
     "blur-image",
-    "harsha1060_headers, bold, italics, code, combo"
+    "harsha1060_headers, bold, italics, code, combo",
+    "obvious-bold"
   ],
   "accentColor": "",
   "showRibbon": true,

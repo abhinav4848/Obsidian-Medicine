@@ -6,13 +6,13 @@ urls:
 
 # Screening for Anxiety/Depression
 ## Depression: screening 
-Two screening ‘Whooley’ questions:
+Two screening *Whooley* questions ([Link](https://whooleyquestions.ucsf.edu/): 95% sensitive, 65% specific):
 
 > [!Question] During the past month, have you often been bothered by
-> - *feeling down, depressed or hopeless?*
-> - *little interest or pleasure in doing things?*
+> - feeling down, depressed or hopeless?
+> - little interest or pleasure in doing things?
 
-If the woman responds positively to either question or there are other concerns, consider using the Edinburgh postnatal depression Scale or PHQ-9.
+If the woman says yes to one (or both) questions, or there are other concerns, Evaluate further with the Edinburgh postnatal depression Scale or PHQ-9.
 - The Edinburgh Postnatal Depression Scale is _probably_ better if the woman is pregnant because PHQ-9 contains physical components (sleep, energy, appetite) which are commonly disturbed in both pregnancy and postnatally, and this may over-identify depression. 
 ### Edinburgh Postnatal depression tool (EPDS) 
 Used to aid diagnosis in perinatal depression. 
@@ -23,14 +23,25 @@ These tools are not diagnostic and shouldn't be used in isolation.
 Two-item GAD:
 
 > [!Question] Over the past 2 weeks, how often have you been bothered by
-> - *feeling nervous, anxious or on edge?*
-> - *not being able to stop or control worrying?*
+> - feeling nervous, anxious or on edge?
+> - not being able to stop or control worrying?
 
 (for each question, score 1 for several days, 2 for more than half the days and 3 for nearly every day)
 If the woman scores 3 or more, consider GAD-7 for further assessment. 
 If she scores <3 but you are still concerned she may have an anxiety disorder, ask the following:
 - _Do you find yourself avoiding places or activities, and does this cause you problems?_
 
+## Obsessions
+There may be intrusive thoughts, images, impulses or urges that are distressing and interfere with functioning. These typically focus on the baby such as obsessions about the baby getting hurt, contaminated or lost. There may be compulsive rituals involving checking, mental rituals and reassurance-seeking. There may also be excessive avoidance such as avoiding bathing or holding the baby due to fears about contamination or harming the baby in some way. 
+
+Some useful questions when exploring obsessions and compulsions are highlighted in [a BMJ Practice Pointer article](https://doi.org/10.1136/bmj.l6574)
+
+> [!Question] OCD Questions
+> - Sometimes, people experience distressing thoughts or images of harm coming to their baby, accidentally or deliberately. Do you have those?
+> - How does it make you feel when you have the thoughts?
+> - What do you do when you have those thoughts?
+
+Having distressing or unpleasant thoughts does not mean that the individual is likely to act on them. Risk can arise from extreme measures people take to try and avoid harm, such as avoiding time spent with the baby; not picking the baby up, or changing nappies to avoid contamination with germs; or excessive cleaning.
 # Risk assessment %%embedded%%
 Women with the following signs/symptoms may be at higher risk of suicide and require urgent referral to a local specialist perinatal mental health (PMH) service. Use your local pathway or emergency crisis perinatal pathway (urgent referrals should be made by phone and triaged by the team within 4 hours): 
 
@@ -46,6 +57,15 @@ To assess complexity/severity ask about or keep in mind:
 - behaviours/actions: self-harm, sleep, irritability, strict routines
 
 ---
+# Perinatal mental health conditions 
+Some potential symptoms of mental illness may be a normal part of pregnancy and the postnatal period. Changes such as appetite and sleep disturbance, tiredness, reduced libido and anxious thoughts about the baby _may_ be considered as normal.
+### _**without**_ psychotic features
+1. Depressive symptoms
+2. Anxiety Symptoms
+3. Obsessions & Compulsions
+### *with* psychotic features
+- Can occur in the first month post-partum, but mostly in first 2 weeks itself. 
+- It often presents with mania and/or depressive symptoms & can quickly become severe. 
+- Postpartum psychosis & bipolar disorder are closely linked. 
+- **Sudden onset of symptoms suggestive of postpartum psychosis is a psychiatric emergency requiring assessment and treatment within 4 hours.** 
 
-
-# Perinatal mental health conditions _**without**_ psychotic features
