@@ -4,7 +4,8 @@ urls:
 ---
 ![[birth related articles]]
 
-#### Depression: screening 
+# Screening for Anxiety/Depression
+## Depression: screening 
 Two screening ‘Whooley’ questions:
 
 > [!Question] During the past month, have you often been bothered by
@@ -13,7 +14,12 @@ Two screening ‘Whooley’ questions:
 
 If the woman responds positively to either question or there are other concerns, consider using the Edinburgh postnatal depression Scale or PHQ-9.
 - The Edinburgh Postnatal Depression Scale is _probably_ better if the woman is pregnant because PHQ-9 contains physical components (sleep, energy, appetite) which are commonly disturbed in both pregnancy and postnatally, and this may over-identify depression. 
-#### Anxiety disorders: screening
+### Edinburgh Postnatal depression tool (EPDS) 
+Used to aid diagnosis in perinatal depression. 
+Can be used to screen for depression as well. 
+Use the anxiety items from it to screen for anxiety. 
+These tools are not diagnostic and shouldn't be used in isolation. 
+## Anxiety disorders: screening
 Two-item GAD:
 
 > [!Question] Over the past 2 weeks, how often have you been bothered by
@@ -39,8 +45,7 @@ To assess complexity/severity ask about or keep in mind:
 - intrusive thoughts or images: distressing thoughts/hallucinations/hopelessness
 - behaviours/actions: self-harm, sleep, irritability, strict routines
 
-# Edinburgh Postnatal depression tool (EPDS) 
-Used to aid diagnosis in perinatal depression. 
-Can be used to screen for depression as well. 
-Use the anxiety items from it to screen for anxiety. 
-These tools are not diagnostic and shouldn't be used in isolation. 
+---
+
+
+# Perinatal mental health conditions _**without**_ psychotic features
