@@ -11,6 +11,8 @@ aliases:
   - Incisional hernia
   - Congenital inguinal hernia
   - Infantile umbilical hernia
+tags:
+  - surgery
 ---
 # Inguinal hernia
 No benefit in identifying direct vs indirect.
