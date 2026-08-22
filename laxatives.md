@@ -77,31 +77,32 @@ Lactulose (esp in [[cirrhosis]]), Macrogols (cosmocol, movicol, laxido), and Mag
 ## Stimulant laxatives
 Senna, Bisacodyl (Dulcolax), Sodium Picosulfate
 - Work by irritating the bowel- Promote contraction of the intestines, promoting the movement of stools through the bowel when patient is too weak to defecate.
-- Can cause cramping
+- Can cause cramping. 
 - Do not use if patient has complete bowel obstruction.
 
 - Senna Onset 6 -12 hrs. 
 	- Not for lactating mothers as secreted in milk. 
 	- See more about [medications for constipation in pregnancy](https://www.medicinesinpregnancy.org/leaflets-a-z/constipation/)
 - Bisacodyl Onset 10 -12 hrs. 
-- Picosulfate is preferred in palliative settings as it does not need much fluids and people who have lost their appetite and are struggling to drink, will not be able to take the amount of fluid Laxido etc needs. 
-- Picosulfate onset: 6 –14 hours
+- Picosulfate is preferred in palliative settings as it does not need much fluids and people who have lost their appetite and are struggling to drink, will not be able to take the amount of fluid Laxido etc. needs. 
+- Picosulfate onset: 6 –14 hours. 
 
 > [!NOTE]- Stimulant laxatives paeds dosage
-> | **Sodium picosulfate elixir (5mg/5ml)**                                  | **Child 1m–4y**                                         | 2.5–10mg once daily.                                 |
-| ------------------------------------------------------------------------ | ------------------------------------------------------- | ---------------------------------------------------- |
-| **Child 4–18y**                                                          | 2.5–20mg once daily.                                    |                                                      |
-| **Sodium picosulfate perles (1 tablet = 2.5mg) (not licensed under 4y)** | **Child 4–18y**                                         | 2.5–20mg once daily.                                 |
-| **Bisacodyl by mouth**                                                   | **Child 4–18y**                                         | 5–20mg once daily.                                   |
-| **Bisacodyl by rectum**                                                  | **Child 2–18y**                                         | 5–10mg once daily.                                   |
-| **Senna syrup (7.5mg/5ml)** **(unlicensed under 2y)**                    | **Child 1m–4y**                                         | 2.5–10ml once daily.                                 |
-| **Child 4–18y**                                                          | 2.5–20ml once daily.                                    |                                                      |
-| **Senna (non-proprietary) (1 tablet = 7.5mg)**                           | **Child 2–4y**                                          | ½–2 tablets once daily.                              |
-| **Child 4–6y**                                                           | ½–4 tablets once daily.                                 |                                                      |
-| **Child 6–18y**                                                          | 1–4 tablets once daily.                                 |                                                      |
-| **Docusate sodium**                                                      | **Child 6m–2y**                                         | 12.5mg three times daily (paediatric oral solution). |
-| **Child 2–12y**                                                          | 12.5–25mg three times daily (paediatric oral solution). |                                                      |
-| **Child 12–18y**                                                         | Up to 500mg daily in divided doses.                     |                                                      |
+> | Stimulant Laxatives                                                      | Child  |                                                         |
+| ------------------------------------------------------------------------ | ------ | ------------------------------------------------------- |
+| **Sodium picosulfate elixir (5mg/5ml)**                                  | 1m–4y  | 2.5–10mg once daily.                                    |
+|                                                                          | 4–18y  | 2.5–20mg once daily.                                    |
+| **Sodium picosulfate perles (1 tablet = 2.5mg) (not licensed under 4y)** | 4–18y  | 2.5–20mg once daily.                                    |
+| **Bisacodyl by mouth**                                                   | 4–18y  | 5–20mg once daily.                                      |
+| **Bisacodyl by rectum**                                                  | 2–18y  | 5–10mg once daily.                                      |
+| **Senna syrup (7.5mg/5ml)** **(unlicensed under 2y)**                    | 1m–4y  | 2.5–10ml once daily.                                    |
+|                                                                          | 4–18y  | 2.5–20ml once daily.                                    |
+| **Senna (non-proprietary) (1 tablet = 7.5mg)**                           | 2–4y   | ½–2 tablets once daily.                                 |
+|                                                                          | 4–6y   | ½–4 tablets once daily.                                 |
+|                                                                          | 6–18y  | 1–4 tablets once daily.                                 |
+| **Docusate sodium**                                                      | 6m–2y  | 12.5mg three times daily (paediatric oral solution).    |
+|                                                                          | 2–12y  | 12.5–25mg three times daily (paediatric oral solution). |
+|                                                                          | 12–18y | Up to 500mg daily in divided doses.                     |
 ## Peripherally acting Mu opioid receptor antagonists (PAMORAs)
 [Link](https://www.westmidspallcare.co.uk/wmpcp/guide/constipation/choice-of-laxatives/)
 
