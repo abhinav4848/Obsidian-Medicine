@@ -49,7 +49,7 @@ Biliary colic, cholecystitis, hepatitis, congestive hepatomegaly (CHF), cholangi
 | **Jaundice**                                                     | Biliary obstruction, hepatitis, pancreatic pathology |
 | **Unintentional weight loss / anorexia**                         | Malignancy, chronic inflammatory disease             |
 | **Palpable abdominal mass**                                      | Malignancy, aneurysm, organomegaly                   |
-| **Change in bowel habit**, particularly new/persistent           | Colorectal malignancy, IBD                           |
+| **Change in bowel habit**, particularly new/persistent           | [[cancer- colorectal\|Colorectal cancer]], IBD       |
 | **Iron-deficiency anaemia**                                      | GI malignancy or chronic GI blood loss               |
 | **Dysphagia or persistent upper-GI symptoms**                    | Upper GI malignancy/structural disease               |
 | **New symptoms in older age**                                    | Higher risk of malignancy and serious pathology      |

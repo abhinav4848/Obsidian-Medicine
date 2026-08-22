@@ -4,7 +4,6 @@ tags:
 aliases:
   - Pyloric stenosis
   - Intussusception
-  - cow milk allergy
   - Tracheoesophageal fistula
   - Meconium ileus
   - Intestinal atresia

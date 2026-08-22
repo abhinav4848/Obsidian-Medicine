@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "laxatives.md",
+                "file": "cow milk allergy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "laxatives"
+              "title": "cow milk allergy"
             }
           },
           {
@@ -130,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "constipation",
+                "query": "cow milk",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -178,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "laxatives.md",
+                "file": "cow milk allergy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "laxatives.md",
+                "file": "cow milk allergy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -274,7 +274,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "laxatives.md"
+                "file": "cow milk allergy.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "laxatives.md",
+                "file": "cow milk allergy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,6 +340,11 @@
   },
   "active": "968dc8478ecd9ac8",
   "lastOpenFiles": [
+    "vomiting in paeds.md",
+    "git problems in paeds.md",
+    "cow milk allergy.md",
+    "megacolon.md",
+    "laxatives.md",
     "newborn infant physical examination.md",
     "maternal 6–8-week check.md",
     "perinatal mental health.md",
@@ -362,11 +367,6 @@
     "abdominal stomas.md",
     "clinic learning",
     "mastalgia.md",
-    "examination of children.md",
-    "housekeeping/study tips.md",
-    "innocent murmurs.md",
-    "developmental dysplasia of the hip.md",
-    "talipes equinovarus.md",
     "attachments/moon face & facial plethora.jpg",
     "attachments/cutaneous supply hand.jpg",
     "attachments/Gray812and814.svg",
