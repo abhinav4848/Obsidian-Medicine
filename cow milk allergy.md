@@ -16,8 +16,8 @@ Cow's milk protein intolerance/allergy (CMPI/CMPA) occurs in around 3-6% of all 
 - vomiting/regurgitation
     - milky vomits after feeds
     - may occur after being laid flat 
-- colic symptoms: excessive crying, especially while feeding
-- diarrhoea
+- Colic symptoms: excessive crying, especially while feeding
+- diarrhoea 
 - urticaria, atopic eczema
 - wheeze, chronic cough
 - rarely angioedema & [[als- anaphylaxis|anaphylaxis]] may occur
@@ -40,10 +40,10 @@ If the symptoms are severe (e.g. failure to thrive 🚩) refer to a paediatrici
 - around 10% of infants are also intolerant to soya milk
 ### Management if breastfed  
 - continue breastfeeding
-- eliminate cow's milk protein from maternal diet. Consider prescribing calcium supplements for breastfeeding mothers whose babies have, or are suspected to have, CMPI, to prevent deficiency whilst they exclude dairy from their diet
+- eliminate cow's milk protein **from maternal diet**. Consider prescribing calcium supplements for breastfeeding mothers whose babies have, or are suspected to have, CMPI, to prevent deficiency whilst they exclude dairy from their diet
 - use eHF milk when breastfeeding stops, until 12 months of age and at least for 6 months
 # Prognosis
 CMPI usually resolves in most children  
-- in children with IgE mediated intolerance around 55% will be milk tolerant by the age of 5 years
+- in children with IgE mediated intolerance, around 55% will be milk tolerant by the age of 5 years
 - in children with non-IgE mediated intolerance most children will be milk tolerant by the age of 3 years
 - a challenge is often performed in the hospital setting as anaphylaxis can occur.
