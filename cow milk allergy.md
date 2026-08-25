@@ -8,6 +8,10 @@ urls:
   - "[2015 Gastro-oesophageal reflux disease in children and young people: diagnosis and management](http://www.nice.org.uk/guidance/NG1/chapter/1-recommendations)"
   - "[Types of formula milk - NHS](https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/bottle-feeding/types-of-formula/)"
   - "[Red Whale | CMPA](https://www.redwhale.co.uk/content/cows-milk-allergy)"
+  - "[GPIFN - (Full Milk Allergy in Primary Care guideline can be accessed for free here)](https://gpifn.org.uk/imap/)"
+  - "[GPIFN - the iMAP Milk Allergy Guideline- a useful summary for parents](https://gpifn.files.wordpress.com/2019/10/imap_patient_factsheet_original.pdf)"
+  - "[GPIFN - the iMAP Milk Ladder- a PDF you can give to parents](https://gpifn.files.wordpress.com/2019/10/imap_final_ladder-may_2017_original.pdf)"
+  - "[SE London CCG - hypoallergenic formulas and volume guide- (halal, kosher and vegetarian status of hypoallergenic milks)](https://selondonccg.nhs.uk/wp-content/uploads/dlm_uploads/2022/05/Guide-1-Hypoallergenic-formulas-and-volume-guide.pdf)"
 ---
 *See [[vomiting in paeds]] & [[git problems in paeds]]* 
 
@@ -111,3 +115,4 @@ CMPI usually resolves in most children
 - in children with IgE mediated intolerance, around 55% will be milk tolerant by the age of 5 years
 - in children with non-IgE mediated intolerance most children will be milk tolerant by the age of 3 years
 - a challenge is often performed in the hospital setting as anaphylaxis can occur.
+
