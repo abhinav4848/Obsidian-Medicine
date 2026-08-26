@@ -29,6 +29,7 @@ A stye can be internal or external.
 ### Treatment
 For Simple styes -> conservative measures like warm compresses.
 Rarely incision and drainage are required.
+For copious mucopurulent discharge, consider topical antibiotic like chloramphenicol drop or ointment. 
 
 ---
 *See [[blepharitis]]*
