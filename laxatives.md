@@ -18,7 +18,7 @@ In the management of short-duration constipation (where dietary measures are ine
 # Types of laxatives
 ## Bulk-forming laxatives
 - Fibre, psyllium, ispaghula husk (Fybogel), methylcellulose (Celevac). 
-- These absorb water in the bowel and swell to bulk out the stool. This increases faecal mass making it softer and easier to pass, and stimulates peristalsis. 
+- These absorb water in the bowel and swell to bulk out the stool. This increases fecal mass making it softer and easier to pass, and stimulates peristalsis. 
 - Patients should increase fluid intake to prevent bowel obstruction. 
 - Many ill patients will not tolerate a high fibre diet or bulk forming laxatives and these are not usually recommended in palliative care.
 
@@ -26,7 +26,7 @@ First line in pregnancy.
 ## Emollient stool softeners 
 aka stool wetting / surface wetting agent.
 - Sodium Docusate- It's a [[surfactant]] acts both as a stimulant & as a softening agent. 
-- Decrease the surface tension of faecal mass, and increases intestinal fluid in the stool, lubricating it, thus making it easier to pass.
+- Decrease the surface tension of fecal mass, and increases intestinal fluid in the stool, lubricating it, thus making it easier to pass.
 - It's only approved for bowel obstruction. 
 - Also has stimulant action at higher doses. 
 - Onset: 1-3 days. 
@@ -40,10 +40,10 @@ Lactulose (esp in [[cirrhosis]]), Macrogols (cosmocol, movicol, laxido), and Mag
 >Lactulose is used to treat **hepatic encephalopathy** as it reduces the intestinal production and absorption of ammonia.
 
 - Lactulose is sickly sweet taste and needs ++fluids. Don't give in patients with inadequate fluid intake. Many patients at the end of life are not able to drink enough, causing colicky pain and little, if any, result for all osmotic laxatives. 
-- **==Paediatric laxatives==**: Give osmotic laxative like lactulose or macrogol which can be flavoured (chocolate/lemon/lime/plain i.e. tasteless). See [NICE: Constipation in children](https://cks.nice.org.uk/topics/constipation-in-children/) If constipation persists despite optimal doses of the macrogol, add a stimulant laxative.
+- **==Paediatric laxatives==**: Give osmotic laxative like lactulose or macrogol which can be flavoured (chocolate/lemon/lime/plain i.e. tasteless). See [NICE: Constipation in children](https://cks.nice.org.uk/topics/constipation-in-children/) If constipation persists despite optimal doses of the macrogol, add a stimulant laxative. 
 - Laxido/Movicol need +fluid (125ml/sachet); and are good for faecal impaction. 
 
-**Macrogol Onset**: 1-2 days. It can also be used for disimpaction regimen. 
+**Macrogol onset**: 1-2 days. It can also be used for disimpaction regimen up to 8 - 12 sachets. 
 
 > [!NOTE]- How to make Macrogols palatable
 > - Macrogols can be flavoured or plain.
