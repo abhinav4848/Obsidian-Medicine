@@ -51,7 +51,7 @@ The table below indicates some specific causes of LBP
 # Nerve compression
 | **Site of compression**       | **Features**                                                                                                                                                                     |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **L3 nerve root compression** | Sensory loss over anterior thigh  <br>Weak hip flexion, knee extension and hip adduction  <br>Reduced knee reflex  <br>Positive femoral stretch test                             |
+| **L3 nerve root compression** | Sensory loss over anterior thigh  <br>Weak hip flexion, knee extension and hip adduction  <br>Reduced knee reflex <br>Positive femoral stretch test                              |
 | **L4 nerve root compression** | Sensory loss anterior aspect of knee and medial malleolus  <br>Weak knee extension and hip adduction  <br>Reduced knee reflex  <br>Positive femoral stretch test                 |
 | **L5 nerve root compression** | Sensory loss dorsum of foot  <br>Weakness in foot and big toe dorsiflexion  <br>Reflexes intact  <br>Positive sciatic nerve stretch test                                         |
 | **S1 nerve root compression** | Sensory loss posterolateral aspect of leg and lateral aspect of foot  <br>Weakness in plantar flexion of foot  <br>Reduced ankle reflex  <br>Positive sciatic nerve stretch test |
