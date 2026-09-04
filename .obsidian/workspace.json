@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sciatica.md",
+                "file": "incontinence- adult.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "sciatica"
+              "title": "incontinence- adult"
             }
           },
           {
@@ -130,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sciatica",
+                "query": "uhl cauda",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -178,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sciatica.md",
+                "file": "incontinence- adult.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sciatica.md",
+                "file": "incontinence- adult.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sciatica.md",
+                "file": "incontinence- adult.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,6 +340,8 @@
   },
   "active": "968dc8478ecd9ac8",
   "lastOpenFiles": [
+    "cauda equina syndrome.md",
+    "sciatica.md",
     "cow milk allergy.md",
     "vomiting in paeds.md",
     "git problems in paeds.md",
@@ -364,9 +366,7 @@
     "clinic learning/2026-06-25 sca questions.md",
     "abdominal aortic aneurysm.md",
     "abdominal pain.md",
-    "abdominal stomas.md",
     "clinic learning",
-    "mastalgia.md",
     "attachments/moon face & facial plethora.jpg",
     "attachments/cutaneous supply hand.jpg",
     "attachments/Gray812and814.svg",

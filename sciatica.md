@@ -10,8 +10,8 @@ cssclasses:
   - invert-image
 ---
 # Red Flags
-*See [NICE CKS red flags](https://cks.nice.org.uk/topics/sciatica-lumbar-radiculopathy/diagnosis/red-flag-symptoms-signs/)*- Long list of red flags for the DDx
-- CES  
+See: [NG59- Assessment of Sciatica](https://www.nice.org.uk/guidance/NG59/chapter/Recommendations#assessment-of-low-back-pain-and-sciatica) & [NICE CKS- Red flags in Sciatica](https://cks.nice.org.uk/topics/sciatica/diagnosis/red-flag-symptoms-signs/)*- Long list of red flags for the DDx
+- CES 
 - Spinal fracture: Old age, major trauma at any age
 - Cancer  
 	- age < 18 years or > 50 years
@@ -40,7 +40,7 @@ The table below indicates some specific causes of LBP
 ---
 
 > [!tip]- Links for low back pain
-> 1. Derbyshire guideline [PDF](https://www.derbyshiremedicinesmanagement.nhs.uk/assets/Clinical_Guidelines/Formulary_by_BNF_chapter_prescribing_guidelines/BNF_chapter_10/Low_back_pain_and_sciatica.pdf)
+> 1. Derbyshire guideline [PDF](https://www.derbyshiremedicinesmanagement.org.uk/assets/Clinical_Guidelines/Formulary_by_BNF_chapter_prescribing_guidelines/BNF_chapter_10/Low_back_pain_and_sciatica.pdf)
 > 2. NICE NG59 https://www.nice.org.uk/guidance/ng59 
 > 3. CKS back pain https://cks.nice.org.uk/topics/back-pain-low-without-radiculopathy/ 
 > 4. CKS sciatica https://cks.nice.org.uk/topics/sciatica-lumbar-radiculopathy/ 
