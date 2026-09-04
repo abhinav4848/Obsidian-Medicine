@@ -38,6 +38,8 @@ Paroxetine.
 *See [[ssri#Side Effects of SSRIs linked|Side Effects of SSRIs]]* #important 
 Switching from one SSRI to another can be done immediately
 Switching from SSRI to TCA requires cross-tapering. 
+See [CKS for switching antidepressants](https://cks.nice.org.uk/topics/depression/prescribing-information/switching-antidepressants/).
+- where it says cross-taper cautiously, or even for stopping it: Get patient to take it every other day for a week, then every 2 days for a week, then every 3 days for a week, then every 4 days for a week. If at any point, the symptoms of dose reduction are strong, patient to go up in the frequency to the previous week's dose that suited well, then after a week, try cutting down by one day again. If meds on repeat, stop the repeat and issue an acute prescription of this medication to allow for this tapering regimen. 
 ## MAOi 
 They are also antidepressants that are almost entirely not used, (even in comparison to TCAs)
 **MAO A** for NA, 5-HT, Tyramine metabolism: Moclobemide, Phenelzine 
@@ -47,6 +49,7 @@ They are also antidepressants that are almost entirely not used, (even in compar
 ---
 # Atypical Antidepressants
 1. **SNRI**: Venlafaxine, [[Duloxetine]] (also used in [[incontinence- adult|Stress incontinence]])
+	1. Don't give Venlafaxine if h/o HTN. See [BNF](https://bnf.nice.org.uk/drugs/venlafaxine/). 
 2. Atypical tetracyclic antidepressant: Mirtazapine
 	1. *NaSSA: Noradrenergic & specific serotonergic antidepressant ([[serotonin receptors|5HT3]])* 
 	2. Has useful side effects (sedation & increased appetite) -> taken in evening. 

@@ -9,7 +9,7 @@ aliases:
   - Voiding symptoms
   - urinary incontinence
 urls:
-  - https://www.nice.org.uk/guidance/cg97/chapter/Recommendations
+  - "[NICE CG97- LUTS in Men](https://www.nice.org.uk/guidance/cg97/chapter/Recommendations)"
 revision notes: difference between storage and voiding symptoms
 revision counter: 1
 ---
@@ -31,7 +31,7 @@ Due to bladder outlet obstruction.
 	- Older antihistamines with anti-ch activity
 	- [[tricyclic antidepressants|TCAs]] have anticholinergic effects which may lead to urinary retention, leading to frequent leaking. 
 - [[nsaid|NSAIDs]]
-- Disopyramide
+- Disopyramide ([[antiarrhythmic drugs|antiarrhythmic]])
 - [[prostate|BPH]]- causes both storage, and voiding symptoms. 
 - Codeine can cause urinary retention. 
 ### Treatment 
@@ -49,10 +49,10 @@ Detrusor instability: Frequency, urgency, Nocturia.
 ### Treatment
 Bladder drill (retraining)
 Antimuscarinics
-- oxybutynin- use with caution in elderly women,
+- oxybutynin ([BNF](https://bnf.nice.org.uk/drugs/oxybutynin-hydrochloride/))- use with caution in elderly women,
 	- direct spasmolytic effect on the bladder smooth muscle by competitively antagonising the muscarinic receptors on the bladder.
-- tolterodine
-- darifenacin
+- tolterodine ([BNF](https://bnf.nice.org.uk/drugs/tolterodine-tartrate/#indications-and-dose))
+- darifenacin ([BNF](https://bnf.nice.org.uk/drugs/darifenacin/))
 Mirabegron ([[beta adrenergic receptors|beta 3 agonist]]) preferred if concern about anti-ch s/e in elderly/frail. 
 If urodynamic studies say that detrusor overactivity is behind the overactive bladder- Botulinum toxin bladder wall injection. 
 

@@ -9,7 +9,7 @@ aliases:
   - MASLD
   - metabolic dysfunction-associated steatotic liver disease
 urls:
-  - "[NICE NAFLD](https://cks.nice.org.uk/topics/non-alcoholic-fatty-liver-disease-nafld/background-information/risk-factors/)"
+  - "[NICE NAFLD](https://cks.nice.org.uk/topics/metabolic-dysfunction-associated-steatotic-liver-disease/)"
 ---
 **Definitions**: 
 - steatosis - fat in the liver

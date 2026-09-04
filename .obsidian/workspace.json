@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "immunisation schedule (paeds).md",
+                "file": "depression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "immunisation schedule (paeds)"
+              "title": "depression"
             }
           },
           {
@@ -43,13 +43,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "incontinence- adult.md",
+                "file": "fibromyalgia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "incontinence- adult"
+              "title": "fibromyalgia"
+            }
+          },
+          {
+            "id": "f654b53387bcd34c",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://gpnotebook.com/en-GB/pages/rheumatology/fibromyalgia-syndrome-fms/management",
+                "title": "Fibromyalgia syndrome (FMS): Management – GPnotebook - GPNotebook",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Fibromyalgia syndrome (FMS): Management – GPnotebook - GPNotebook"
             }
           },
           {
@@ -130,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "uhl cauda",
+                "query": "anxiety",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -178,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "incontinence- adult.md",
+                "file": "fibromyalgia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "incontinence- adult.md",
+                "file": "fibromyalgia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -308,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "incontinence- adult.md",
+                "file": "fibromyalgia.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,6 +354,15 @@
   },
   "active": "968dc8478ecd9ac8",
   "lastOpenFiles": [
+    "fibromyalgia.md",
+    "depression.md",
+    "panic attacks.md",
+    "anticholinergics.md",
+    "nash.md",
+    "immunisation schedule (paeds).md",
+    "incontinence- adult.md",
+    "prostate.md",
+    "antiarrhythmic drugs.md",
     "cauda equina syndrome.md",
     "sciatica.md",
     "cow milk allergy.md",
@@ -354,18 +377,9 @@
     "scoring system.md",
     "breastfeeding.md",
     "drugs contraindicated in pregnancy.md",
-    "immunisation schedule (paeds).md",
     "diabetes- gestational.md",
     "Untitled.md",
     "hernias.md",
-    "pelvic floor dysfunction.md",
-    "birth related articles.md",
-    "incontinence- adult.md",
-    "clinic learning/2025-12-31.md",
-    "clinic learning/2026-08-10 cases seen.md",
-    "clinic learning/2026-06-25 sca questions.md",
-    "abdominal aortic aneurysm.md",
-    "abdominal pain.md",
     "clinic learning",
     "attachments/moon face & facial plethora.jpg",
     "attachments/cutaneous supply hand.jpg",
