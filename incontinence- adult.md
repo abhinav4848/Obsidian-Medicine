@@ -8,6 +8,7 @@ aliases:
   - Storage symptoms
   - Voiding symptoms
   - urinary incontinence
+  - LUTS
 urls:
   - "[NICE CG97- LUTS in Men](https://www.nice.org.uk/guidance/cg97/chapter/Recommendations)"
 revision notes: difference between storage and voiding symptoms
@@ -16,6 +17,18 @@ revision counter: 1
 See [[incontinence- paeds]] 
 See [[diabetes insipidus]]. 
 
+LUTS Symptoms can be:
+- **Voiding**: Poor stream, straining, hesitancy, terminal dribbling
+- **Storage**: Frequency, Urgency, incomplete emptying, nocturnal enuresis
+- **Post micturition**: Dribbling, ongoing micturition sensation
+- **UTI Symptoms**: Dysuria, cloudy urine, malodorous urine, abdo pain. 
+
+🚩Red Flags (*Couple of yes/no questions to make sure things are okay*)
+- Suspected malignancy (wt loss, back pain, haematuria)
+- Systemic unwell (pyrexia, rigors, vomiting)
+- Acute urinary retention
+
+---
 # Voiding (Obstructive/Overflow)
 ### Clinical Features
 #mnemonic SHIP
@@ -71,4 +84,7 @@ leaking small amounts when coughing or laughing
 - Duloxetine ([[depression|SNRI]]).
  
 **Kegel**: Try to stop urine while in the loo. That's how you can find your pelvic floor muscles.
+
+---
+
 
