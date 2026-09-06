@@ -3,7 +3,7 @@ tags:
   - haemat
 ---
 # Liver Function
-Also see: [BSG Guidelines on the management of abnormal liver blood tests](https://www.bsg.org.uk/clinical-resource/guidelines-on-abnormal-liver-blood-tests) 
+Also see: [BSG Guidelines on the management of abnormal liver blood tests](https://www.bsg.org.uk/clinical-resource/guidelines-on-abnormal-liver-blood-tests) & [Derbyshire health PDF- Abnormal LFTs in adults](https://pathfinder.aireinnovate.com/media/ly2le2mu/abnormal-lfts-in-adults-v5.pdf?ver=85224&doc=docm93jijm4n884)
 
 - ALT is considered more liver-specific since it is present in low concentrations in non-hepatic tissue, and non-liver related elevations are uncommon. 
 - AST is abundantly present in skeletal, cardiac and smooth muscle and so may be elevated in patients with myocardial infarction or myositis. 

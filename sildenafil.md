@@ -20,12 +20,13 @@ PDE-5 inhibitor MoA:
 	- Refer those patients to urology for alternatives like pump, injections, rod insertion. 
 	- If on GTN spray, they should not use it for at least 24hrs after taking sildenafil or vardenafil, or 48hours after taking tadalafil (due to risk of excessive hypotension precipitating myocardial infarction).
 - Hypotension, as PDE-5 inhibitors release Nitric oxide -> lower BP
-- Wait 6 months before prescribing in stroke/MI.
+- Wait 6 months before prescribing in stroke/MI/unstable angina
 - patients for whom sexual activity is not advisable; 
 - history of non-arteritic optic neuropathy; 
-- retinal degeneration; 
+- retinal degeneration, [[retinitis pigmentosa]]
 - use of indinavir/ketoconazole/itraconazole in patients over age 75 years (vardenafil only); 
 - heart failure and uncontrolled arrhythmia/hypertension (tadalafil only).
+- Anatomical abnormality like Peyronie's 
 # Side effects
 visual 
 - [[colour & vision changes in body|Blue vision]],

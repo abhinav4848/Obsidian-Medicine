@@ -43,27 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "erectile dysfunction.md",
+                "file": "blood tests.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "erectile dysfunction"
-            }
-          },
-          {
-            "id": "f654b53387bcd34c",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://gpnotebook.com/en-GB/pages/rheumatology/fibromyalgia-syndrome-fms/management",
-                "title": "Fibromyalgia syndrome (FMS): Management – GPnotebook - GPNotebook",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Fibromyalgia syndrome (FMS): Management – GPnotebook - GPNotebook"
+              "title": "blood tests"
             }
           },
           {
@@ -109,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "erectile dys",
+                "query": "liver function test",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -192,7 +178,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "erectile dysfunction.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -259,7 +244,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "erectile dysfunction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -322,7 +306,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "erectile dysfunction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,8 +335,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "968dc8478ecd9ac8",
+  "active": "ca11b575a5a08d2d",
   "lastOpenFiles": [
+    "blood tests.md",
+    "erectile dysfunction.md",
+    "retinitis pigmentosa.md",
+    "sildenafil.md",
     "prostate.md",
     "cancer- prostate.md",
     "incontinence- adult.md",
@@ -376,10 +363,6 @@
     "perinatal mental health.md",
     "safety nets.md",
     "scoring system.md",
-    "breastfeeding.md",
-    "drugs contraindicated in pregnancy.md",
-    "diabetes- gestational.md",
-    "Untitled.md",
     "clinic learning",
     "attachments/moon face & facial plethora.jpg",
     "attachments/cutaneous supply hand.jpg",
