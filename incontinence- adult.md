@@ -16,7 +16,7 @@ revision counter: 1
 ---
 See [[incontinence- paeds]] / [[diabetes insipidus]] / [[prostate|BPH]]. 
 
-LUTS Symptoms can be:
+# LUTS Symptoms & red Flags %%embedded%%
 - **Voiding**: Poor stream, straining, hesitancy, terminal dribbling
 - **Storage**: Frequency, Urgency, incomplete emptying, nocturnal enuresis
 - **Post micturition**: Dribbling, ongoing micturition sensation
@@ -71,7 +71,7 @@ If urodynamic studies say that detrusor overactivity is behind the overactive bl
 \* Bladder training: You feel like going to the loo, hold it for 5 mins then go. Next time, hold it for 10 mins then go.
 
 >[!notice]
->![[prostate#Anticholinergics (is transcluded)|BPH]]
+>![[prostate#Anticholinergics (transcluded)|BPH]]
 
 ---
 # Stress Incontinence

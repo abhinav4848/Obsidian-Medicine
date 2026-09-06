@@ -16,19 +16,23 @@ urls:
 	1. if there's haematuria, then think where it could come from- [[cancer- urology|bladder]], kidney, possibly prostate. That's where smoking becomes a risk factor for kidney/bladder cancers. It's not a risk factor towards prostate cancer itself. 
 3. DRE 
 4. Risk factors for [[cancer- prostate|Prostate Cancer]]: Age > 50, [[afro-caribbean|Afro Caribbean]], [[cancer- risk factors|family history]]. 
+
+> [!info] LUTS Symptoms
+> ![[incontinence- adult#LUTS Symptoms & red Flags embedded]]
+
 ---
 # BPH
 Patients have storage and voiding symptoms. 
 - *See [[incontinence- adult]]*. 
 - Can lead to UTI, Retention, obstructive uropathy
-###### Alpha-1 blockers
+##### Alpha-1 blockers
 Tamsulosin, doxazosin, alfuzosin
 - Considered First line if IPSS >= 8 (mod-severe voiding symptoms)
 - Alpha blockers are given to relax smooth muscles of bladder and prostate for fast relief (BPH can cause acute retention). And also if just LUT features. 
 - They don't slow the growth of BPH. 
 - **s/e**: Postural hypotension, Drowsiness, Dyspnoea, Cough
 
-##### Anticholinergics %%(is transcluded)%%
+##### Anticholinergics %%(transcluded)%%
 *See [[incontinence- adult|Urge incontinence]]*
 When a patient with BPH exhibits persistent mixed urinary symptoms (storage & voiding) despite monotherapy with an alpha-blocker, can give antimuscarinic agent such as tolterodine, darifenacin, oxybutynin.
 
