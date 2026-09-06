@@ -21,7 +21,6 @@ urls:
 Patients have storage and voiding symptoms. 
 - *See [[incontinence- adult]]*. 
 - Can lead to UTI, Retention, obstructive uropathy
-
 ###### Alpha-1 blockers
 Tamsulosin, doxazosin, alfuzosin
 - Considered First line if IPSS >= 8 (mod-severe voiding symptoms)
@@ -35,7 +34,7 @@ When a patient with BPH exhibits persistent mixed urinary symptoms (storage & vo
 
 ##### 5-alpha reductase inhibitor
 Finasteride
-- Given to those with high risk of progression of BPH. i.e. LUT + Large prostate (more than 30 gram) + raised PSA
+- Given to those with high risk of progression of BPH. i.e. LUT + Large prostate (more than 30 gram) + raised PSA > 1.4
 - Works by blocking Testosterone conversion to Dihydrotestosterone, which is known to induce BPH. 
 - It reduces prostate volume & takes up-to 6 months to start acting. Can also reduce PSA
 - **s/e**: [[sildenafil|Erectile dysfunction]], Ejaculation problems, [[gynaecomastia|Gynecomastia]], ejaculation problems

@@ -14,8 +14,7 @@ urls:
 revision notes: difference between storage and voiding symptoms
 revision counter: 1
 ---
-See [[incontinence- paeds]] 
-See [[diabetes insipidus]]. 
+See [[incontinence- paeds]] / [[diabetes insipidus]] / [[prostate|BPH]]. 
 
 LUTS Symptoms can be:
 - **Voiding**: Poor stream, straining, hesitancy, terminal dribbling
