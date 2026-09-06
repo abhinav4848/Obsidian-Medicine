@@ -11,7 +11,10 @@ urls:
 ## Risk factors
 - Age > 50
 - Family history
-- [[afro-caribbean|African American]] male. 
+- [[afro-caribbean|African American]] male
+- Increased weight
+
+🚩**Red flags**: Weight loss, back pain, [[haematuria]]
 # Investigation
 Initial test: Digital rectal exam, PSA
 	3/4th of raised PSAs are normal. 

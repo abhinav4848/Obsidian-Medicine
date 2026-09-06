@@ -36,7 +36,7 @@ See [[incontinence- paeds]] / [[diabetes insipidus]] / [[prostate|BPH]].
 - Intermittent/Incontinence, 
 - Poor flow/weak stream, 
 - terminal/post-void dribbling
-### Aetiology
+### Cause
 Due to bladder outlet obstruction. 
 - [[Anticholinergics]] 
 	- [[antipsychotic drugs|Antipsychotics]],
