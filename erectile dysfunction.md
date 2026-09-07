@@ -67,7 +67,8 @@ Vacuum erection devices are recommended as first-line treatment in those who ca
 - gastrointestinal side-effects
 - headache
 - priapism
-#### Contraindications to [[sildenafil]]
+#### Contraindications to sildenafil
+See [[sildenafil]]. 
 - patients taking nitrates and related drugs such as nicorandil
 - hypotension- avoiding alpha-blockers for 4 hours after sildenafil
 - recent stroke, recent myocardial infarction (NICE recommend waiting 6 months), unstable angina

@@ -28,11 +28,13 @@ PDE-5 inhibitor MoA:
 - heart failure and uncontrolled arrhythmia/hypertension (tadalafil only).
 - Anatomical abnormality like Peyronie's 
 # Side effects
+This is a very common medication and lots of people take it, but there are some side effects you need to be aware of
 visual 
 - [[colour & vision changes in body|Blue vision]],
 - non-arteritic [[anterior ischaemic optic neuropathy]] (NAION)
 Nasal congestion,
 Flushing,
-Priapism 
+Priapism (a prolonged erection that doesn't settle down over long period of time, will need appropriate management)
+irritation of GI tract (dyspepsia, nausea, vomiting)
 # Prescription status
 Not under SLS anymore (selective list scheme), so can be prescribed freely on the NHS. 

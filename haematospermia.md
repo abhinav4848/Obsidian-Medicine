@@ -19,6 +19,7 @@ There is no clear link between haematospermia and [[cancer- prostate|Prostate Ca
 - Epididymitis
 ### Other
 - Seminal vesicle cysts
+- Post TURP
 # Primary Care Assessment
 On presentation of a man with haematospermia:
 - Examine scrotum for abnormal masses
@@ -26,6 +27,9 @@ On presentation of a man with haematospermia:
 - Perform urinalysis 
 - Screen and treat for STI (or signpost to local GU pathway)
 - If >40 years, examine prostate (DRE) for malignancy and check PSA
+- Bleeding disorder, Leukaemia
+
+**Investigation**: MSU, STI, bloods (PSA, FBC, Coagulation screen), Semen MCS
 ## Management
 - If examination and investigations are normal:
     - Reassure and discharge
@@ -33,7 +37,7 @@ On presentation of a man with haematospermia:
     - No requirement for routine referral to secondary care
 - If unsure, consider using your local advice and guidance pathway
 ## Imaging
-- Contrary to previous guidance, there is no clear evidence that haematospermia increases malignancy risk in men over 40, including prostate cancer, when PSA and DRE are normal.
+- Contrary to previous guidance, there is no clear evidence that haematospermia increases malignancy risk in men > 40, including prostate cancer, when PSA and DRE are normal.
 - Multiparametric MRI is not recommended in men with normal PSA and DRE.
 ## References
 1. Aslam M et al. _A management algorithm for haematospermia._ Nat Rev Urol 2009; 6: 398–402
