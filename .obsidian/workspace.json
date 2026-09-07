@@ -43,32 +43,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prostate.md",
+                "file": "scrotal problems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "prostate"
-            }
-          },
-          {
-            "id": "8fc72be40c70c76c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "undescended testes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "undescended testes"
+              "title": "scrotal problems"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "torsion",
+                "query": "scrotal",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -137,7 +122,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -150,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "undescended testes.md",
+                "file": "scrotal problems.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "undescended testes.md",
+                "file": "scrotal problems.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -280,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "undescended testes.md",
+                "file": "scrotal problems.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,20 +296,21 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8fc72be40c70c76c",
+  "active": "968dc8478ecd9ac8",
   "lastOpenFiles": [
-    "testicular conditions.md",
-    "congenital adrenal hyperplasia.md",
-    "prostate.md",
-    "haematospermia.md",
-    "cancer- testes.md",
     "undescended testes.md",
+    "cancer- testes.md",
+    "haematospermia.md",
+    "prostate.md",
+    "incontinence- adult.md",
+    "testicular conditions.md",
+    "scrotal problems.md",
+    "congenital adrenal hyperplasia.md",
     "erectile dysfunction.md",
     "sildenafil.md",
     "blood tests.md",
     "retinitis pigmentosa.md",
     "cancer- prostate.md",
-    "incontinence- adult.md",
     "fibromyalgia.md",
     "depression.md",
     "panic attacks.md",
@@ -337,7 +324,6 @@
     "vomiting in paeds.md",
     "git problems in paeds.md",
     "megacolon.md",
-    "laxatives.md",
     "clinic learning",
     "attachments/moon face & facial plethora.jpg",
     "attachments/cutaneous supply hand.jpg",
