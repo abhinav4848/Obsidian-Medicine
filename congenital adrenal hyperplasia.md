@@ -2,6 +2,8 @@
 tags:
   - endocrine
   - adrenal
+aliases:
+  - CAH
 ---
 It's AR inheritance. #genetics 
 Cortisol low + Aldosterone low + Androgen Excess.

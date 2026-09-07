@@ -53,49 +53,22 @@
             }
           },
           {
-            "id": "ca11b575a5a08d2d",
+            "id": "8fc72be40c70c76c",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://www.gov.uk/government/publications/newborn-and-infant-physical-examination-programme-handbook/newborn-and-infant-physical-examination-screening-programme-handbook#newborn-and-infant-physical-screening-examination-nipe",
-                "title": "Newborn and infant physical examination (NIPE) screening programme handbook - GOV.UK",
-                "mode": "webview"
+                "file": "undescended testes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "globe-2",
-              "title": "Newborn and infant physical examination (NIPE) screening programme handbook - GOV.UK"
-            }
-          },
-          {
-            "id": "07df4d291f54dfb6",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.gov.uk/government/publications/newborn-and-infant-physical-examination-programme-handbook/newborn-and-infant-physical-examination-screening-programme-handbook#newborn-and-infant-physical-screening-examination-nipe",
-                "title": "Newborn and infant physical examination (NIPE) screening programme handbook - GOV.UK",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Newborn and infant physical examination (NIPE) screening programme handbook - GOV.UK"
-            }
-          },
-          {
-            "id": "4f2c4f65d03b54ba",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://medicines.bedfordshirelutonandmiltonkeynes.icb.nhs.uk/wp-content/uploads/2024/06/contraception-guidance-MHRA-advice-added-Aug-24.pdf",
-                "title": "contraception-guidance-MHRA-advice-added-Aug-24.pdf",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "contraception-guidance-MHRA-advice-added-Aug-24.pdf"
+              "icon": "lucide-file",
+              "title": "undescended testes"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -164,8 +137,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -178,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "prostate.md",
+                "file": "undescended testes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prostate.md",
+                "file": "undescended testes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -308,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prostate.md",
+                "file": "undescended testes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,12 +310,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "968dc8478ecd9ac8",
+  "active": "8fc72be40c70c76c",
   "lastOpenFiles": [
+    "testicular conditions.md",
+    "congenital adrenal hyperplasia.md",
+    "prostate.md",
     "haematospermia.md",
     "cancer- testes.md",
     "undescended testes.md",
-    "prostate.md",
     "erectile dysfunction.md",
     "sildenafil.md",
     "blood tests.md",
@@ -364,8 +338,6 @@
     "git problems in paeds.md",
     "megacolon.md",
     "laxatives.md",
-    "newborn infant physical examination.md",
-    "maternal 6–8-week check.md",
     "clinic learning",
     "attachments/moon face & facial plethora.jpg",
     "attachments/cutaneous supply hand.jpg",

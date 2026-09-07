@@ -14,7 +14,6 @@ Occurs in around 2-3% of term male infants, but is much more common if the baby
 - torsion (testicular pain/swelling/N&V)
 - [[cancer- testes|testicular cancer]] (Germ cell tumour e.g. seminomas)
 - psychological
-
 # Assessment
 Identify undescended testes within 72 hrs of birth. Further identify them by 6-8 weeks age at infant screening.
 
@@ -30,7 +29,10 @@ Identify undescended testes within 72 hrs of birth. Further identify them by 6-8
 - Spontaneous descent beyond this is unlikely and undescended or impalpable testes are best managed by surgical intervention
 
 ### One/Both testes palpable but not in scrotum
-Review at birth -> if palpable but not in scrotum -> review at infant screening. If still not descended, then again at 4-5 months (corrected for gestational age). If inguinal testes felt between inguinal canal and scrotum, it may be gently manipulated into the scrotum. 
+Review at birth -> if palpable but not in scrotum -> review at infant screening. 
+If still not descended -> Assess again at 4-5 months (corrected for gestational age). 
+- *Corrected age = Chronological age − number of weeks born early*
+If inguinal testes felt between inguinal canal and scrotum, it may be gently manipulated into the scrotum. 
 - Referral should be considered from around 3 months of age, with the baby ideally seeing a urological / paeds surgeon not later than 6 months of age
 
 ### Bilateral Impalpable undescended testes
