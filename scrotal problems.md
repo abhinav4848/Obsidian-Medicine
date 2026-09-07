@@ -8,7 +8,6 @@ aliases:
   - varicocele
   - epididymal cyst
   - hydrocele
-  - inguinal hernia
   - testicular problems
   - torsion
 cssclasses:
@@ -16,7 +15,20 @@ cssclasses:
   - red-border
 ---
 See: [NICE CKS Scrotal swelling/Pain differentiating features](https://cks.nice.org.uk/topics/scrotal-pain-swelling/diagnosis/assessment/#differentiating-clinical-features) 
-# Varicocele 
+# Congenital
+[[undescended testes]]
+- f/h, maternal smoking
+- prematurity, LBW, [[congenital adrenal hyperplasia]] 
+# Lumps
+- Hydrocele: A collection of fluid in tunica vaginalis. Painless cystic swelling that transilluminates. Can be congenital but most resolve by age 2. 
+	- Can be the first sign of an underlying cancer. 
+- Varicocele
+- Spermatocele
+- Haematocele
+- Inguinal hernia
+- LNE
+- Gumma from [[sexually transmitted diseases|STI]] 
+## Varicocele 
 ![[varicocele.jpg]]
 Varicocele is classical of a '*bag of worms*' proximal to the testes. ([NICE](https://cks.nice.org.uk/topics/varicocele/)).
 90% occur on ==left== side. (Right side is rare & should be referred to urologist ? renal cell carcinoma)
@@ -35,34 +47,28 @@ Refer ([NICE](https://cks.nice.org.uk/topics/varicocele/management/management/))
 - **Routinely**: If it is causing pain or discomfort.
 
 Although varicoceles may be associated with fertility problems, nearly two-thirds of men who have a varicocele have no difficulty in fathering children.
-# Others
-- An inguinal hernia is usually found superior and medial to the pubic tubercle and has a cough impulse. 
-- A [[cancer- testes|Testicular tumour]] would present as a testicular lump. Check for gynaecomastia
+# Testicular disease
+- [[cancer- testes|Testicular Cancer]]: A testicular tumour would present as a testicular lump. Check for gynaecomastia. 
+- Hydatid of Morgagni. 
+## Torsion
+Tell patient: #sca_speech *I'm worried about this and by the end of this case, I want you seen in the hospital. Left side more common than right. Can I ask you a couple of questions that might be risk factors for this happening in the first place. Were you ever told that you had anything called undescended testes when you were younger? Or even testicular tumour. Both are risk factors for torsion.* 
 
-# Congenital
-[[undescended testes]]
-- f/h, maternal smoking
-- prematurity, LBW, [[congenital adrenal hyperplasia]] 
-# Torsion
+Sudden severe test pain/redness/swelling, retracted (or held up) compared to the other side. Patient may have abdo pain. 
+
 **Prehn sign**: To assess cause of testicular pain. #named 
 Lift the scrotum and see what happens to the pain. 
 - If test worsens pain: Torsion. 
 - If pain improves: Epididymitis (acute or chronic). 
-# Lumps
-- Hydrocele: A collection of fluid and transilluminates. 
-- Varicocele
-- Spermatocele
-- Haematocele
-- Inguinal hernia
-- LNE
-- Gumma from [[sexually transmitted diseases|STI]] 
-# Testicular disease
-- Malignancy
-- Epididymo-orchitis
-- Torsion
-- Hydatid of Morgagni. 
+## Epididymo-orchitis
+- Gradual onset pain, swelling, inflammation of epididymis +- testes. (if uncertain for torsion, still admit). Due to non-infective when younger, [[mumps]], STI or UTI. 
+- Urethral discharge alongside pain/redness/fever
+- Parotid swellings if mumps. 
+- **Inv**: MSU, Urethral swab
+- If not admitting (i.e. torsion or severely unwell), then refer to GUM clinic and mention which antibiotics will be given ([[chlamydia]], [[gonorrhoea]]) as well as partner tracing. 
 # Epididymal conditions
 - Epididymal cyst: Usually a firm lump adjacent to the testicle. 
 - Epididymitis
 # Scrotal Disease
 Scrotal cancer, Fournier's gangrene
+# Others
+- An [[hernias|inguinal hernia]] is usually found superior and medial to the pubic tubercle and has a cough impulse. 

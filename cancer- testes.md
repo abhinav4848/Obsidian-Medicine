@@ -9,9 +9,14 @@ urls:
 revision notes: AFP vs B-HCG
 revision counter: 1
 ---
-Age: 20-30yo. 
-- Peak for Teratoma: 25yo
-- Peak for Seminoma: 35yo
+Age Breakdown for what a testicular lump could be: 20-30yo. 
+
+| Age       | Testicular lump diagnosis   |    Peak age | Approx. proportion |
+| --------- | --------------------------- | ----------: | -----------------: |
+| **20–30** | **Teratoma**                |   ~25 years |               ~30% |
+| **30–40** | **Seminoma**                |   ~35 years |               ~40% |
+| **25–35** | **Mixed teratoma–seminoma** | 25–35 years |               ~15% |
+| **60–70** | **Lymphoma**                | 60–70 years |                <7% |
 # Types
 Most Testicular cancers are: 
 - Germ Cell tumours, which can be
@@ -30,7 +35,7 @@ Most Testicular cancers are:
 - [[childhood syndromes|Klinefelter syndrome]] 
 - [[mumps]] orchitis
 # Clinical Features
-- Painless lump, hard, irregular, not fluctuant, can't transilluminate
+- Painless lump, hard, **irregular**, not fluctuant, can't transilluminate
 - Pain in minority
 - 🚩Hydrocele- can be the first sign of cancer.
 	- new hydroceles in males aged 20-40 years old must be investigated by way of urgent scrotal ultrasound.
@@ -42,7 +47,7 @@ Most Testicular cancers are:
 # Investigation
 USS
 # Management
-- treatment depends on whether the tumour is a seminoma or a non-seminoma
+- treatment depends on **whether** the tumour is a seminoma or a non-seminoma
 - orchidectomy
 - chemotherapy and radiotherapy may be given depending on staging and tumour type
 
