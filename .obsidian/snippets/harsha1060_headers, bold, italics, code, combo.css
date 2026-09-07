@@ -96,3 +96,13 @@ strong em, em strong, .cm-strong.cm-em {
     color: var(--text-italic-color) !important;
     font-weight: 700;
 }
+
+// extra lines added to make bold have the colour of H4 
+// 2nd selector is for Live preview (editor) 
+.theme-dark .markdown-preview-view strong {
+	color: var(--h4-color) !important;
+} 
+
+.theme-dark .cm-strong {
+	color: var(--h4-color) !important;
+} 

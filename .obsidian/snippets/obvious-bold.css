@@ -12,7 +12,6 @@
   text-decoration-thickness: 1px;
 }
 
-
 /* If a line is 100% width, then 0 to 50%, there's no gradient, just the color specified */
 /* Then From 60% to 100% of the width, it'll be transparent */
 /* Between 50-60%, CSS colour transition applies */
