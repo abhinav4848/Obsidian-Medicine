@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cancer- testes.md",
+                "file": "vasectomy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cancer- testes"
+              "title": "vasectomy"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sca",
+                "query": "sterili",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cancer- testes.md",
+                "file": "vasectomy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cancer- testes.md",
+                "file": "vasectomy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cancer- testes.md",
+                "file": "vasectomy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -298,9 +298,11 @@
   },
   "active": "968dc8478ecd9ac8",
   "lastOpenFiles": [
+    "penile pathology.md",
+    "circumcision.md",
     "scrotal problems.md",
-    "undescended testes.md",
     "cancer- testes.md",
+    "undescended testes.md",
     "haematospermia.md",
     "prostate.md",
     "incontinence- adult.md",
@@ -322,8 +324,6 @@
     "sciatica.md",
     "cow milk allergy.md",
     "vomiting in paeds.md",
-    "git problems in paeds.md",
-    "megacolon.md",
     "clinic learning",
     "attachments/moon face & facial plethora.jpg",
     "attachments/cutaneous supply hand.jpg",

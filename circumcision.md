@@ -1,6 +1,7 @@
 ---
 tags:
   - urology
+aliases:
 ---
 Circumcision has been performed in a variety of cultures for thousands of years. Today it is mainly people of the Jewish and Islamic faith who undergo circumcision for religious/cultural reasons. Circumcision for religious or cultural reasons is not available on the NHS. 
 - Both parents must consent if the procedure is for traditional region. It's not available on the NHS & the doctor doing the procedure doesn't have to be GMC registered. 
@@ -11,9 +12,9 @@ The medical benefits of routine circumcision remain controversial although some 
 - reduces the risk of acquiring sexually transmitted infections including HIV
 
 Medical indications for circumcision  
-- phimosis
+- [[penile pathology]]
 - recurrent [[balanitis]]
 - [[lichens|Balanitis xerotica obliterans]]
 - paraphimosis
 
-It is important to exclude hypospadias prior to circumcision as the foreskin may be used in surgical repair. Circumcision may be performed under a local or general anaesthetic.
+It is important to exclude hypospadias prior to circumcision as the foreskin may be used in surgical repair. Circumcision may be performed under a local or general anaesthetic. 

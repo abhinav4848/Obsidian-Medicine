@@ -18,7 +18,7 @@ aliases:
 - [PCDS- Lichen Sclerosis](https://www.pcds.org.uk/clinical-guidance/lichen-sclerosis)
 
 Affects genitalia only -> seen mostly on vulva of elderly women  
-Chronic, pale, atrophic, crinkled, white plaques on anogenital skin + itching at night. Seen in uncircumcised men who have developed a tight white ring around the tip of foreskin & [[phimosis]]. 
+Chronic, pale, atrophic, crinkled, white plaques on anogenital skin + itching at night. Seen in uncircumcised men who have developed a tight white ring around the tip of foreskin & [[penile pathology]]. 
 ## Treatment
 Very potent [[steroids in dermatology|Topical Steroids]] (Clobetasol propionate 0.05%), 
 Follow up 3-6 months because 5% risk of SCC vulva seen in old age. #associated 

@@ -84,7 +84,7 @@ em, i, .cm-em {
     color: var(--text-italic-color) !important;
 }
 
-code, .cm-inline-code {
+code, .cm-inline-code { 
     color: var(--code-color) !important;
     background-color: var(--code-background) !important;
     border-radius: 4px;
@@ -97,12 +97,6 @@ strong em, em strong, .cm-strong.cm-em {
     font-weight: 700;
 }
 
-// extra lines added to make bold have the colour of H4 
-// 2nd selector is for Live preview (editor) 
-.theme-dark .markdown-preview-view strong {
-	color: var(--h4-color) !important;
-} 
-
-.theme-dark .cm-strong {
-	color: var(--h4-color) !important;
-} 
+strong, .cm-s-obsidian span.cm-formatting-strong, .cm-s-obsidian span.cm-strong {
+    color: var(--h4-color) !important;
+}
