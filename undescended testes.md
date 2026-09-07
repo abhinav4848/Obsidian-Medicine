@@ -11,7 +11,7 @@ Occurs in around 2-3% of term male infants, but is much more common if the baby
 *From the [[newborn infant physical examination|NIPE]] guide.* 
 ## Complications of undescended testis 
 - infertility
-- torsion
+- torsion (testicular pain/swelling/N&V)
 - [[cancer- testes|testicular cancer]] (Germ cell tumour e.g. seminomas)
 - psychological
 
