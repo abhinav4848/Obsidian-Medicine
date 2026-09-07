@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,6 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "blood tests.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -244,6 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "blood tests.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -306,6 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blood tests.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +338,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ca11b575a5a08d2d",
+  "active": "968dc8478ecd9ac8",
   "lastOpenFiles": [
     "blood tests.md",
     "erectile dysfunction.md",
