@@ -36,9 +36,22 @@ urls:
 ## Side Effects of HRT
 [CKS: Hormone replacement therapy (HRT)](https://cks.nice.org.uk/topics/menopause/prescribing-information/hormone-replacement-therapy-hrt/#adverse-effects)
 
-| Oestrogen                                                                                                                                                                                                                                                                                                                              | Progesterone                                                                                                                                                                                                            |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| - Fluid retention (swelling in other parts of the body)<br>- bloating<br>- breast tenderness or swelling<br>- feeling sick<br>- leg cramps<br>- headaches<br>- indigestion<br>- vaginal bleeding<br>                                                                                                                                   | - breast tenderness<br>- swelling in other parts of the body<br>- headaches or migraines<br>- mood swings<br>- depression<br>- [[acne vulgaris\|acne]]<br>- tummy (abdominal) pain<br>- back pain<br>- vaginal bleeding |
-| These side effects will often pass after a few weeks. It may help to:<br>- take with food, which may help feelings of sickness and indigestion<br>- eat a low-fat, high-carbohydrate diet, which may reduce breast tenderness<br>- do regular exercise and stretching, to help leg cramps<br>- lower the dose and then titrate back up | As with side effects of oestrogen, these will usually pass after a few weeks. Lowering the dose and titrating back up may help.                                                                                         |
-pregnant ladies feel nausea due to high progesterone. If someone on COCP has nausea, reduce their progesterone. MIMS has long list of meds. 
-Microgynon 30/150 is a standard COCP. 
+| **Common S/E**                                                                                                                  | **Oestrogen**                                                                                                                                       | **Progesterone**                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Fluid retention / swelling in other parts of the body<br>- Breast tenderness or swelling<br>- Headaches<br>- Vaginal bleeding | - Bloating<br>- Nausea<br>- Leg cramps<br>- Indigestion / [[dyspepsia]]<br>- May induce or exacerbate symptoms of hereditary or acquired angioedema | - Migraine- <br>Mood swings / [[pre-menstrual syndrome\|PMS]]<br>- Depression<br>- [[Acne vulgaris]]<br>- Lower abdominal pain<br>- Back pain |
+#### Oestrogen
+These side effects will often pass after a few weeks. It may help to:
+- take with food, which may help feelings of sickness and indigestion
+- eat a low-fat, high-carbohydrate diet, which may reduce breast tenderness
+- do regular exercise and stretching, to help leg cramps
+- lower the dose and then titrate back up
+#### Progesterone
+*Note*: Progestogen side effects often occur in a cyclical pattern during the progestogen phase of cyclical HRT.
+As with side effects of oestrogen, these will usually pass after a few weeks. Lowering the dose and titrating back up may help.
+#### Vaginal bleeding problems
+- Unscheduled vaginal bleeding is a common adverse effect of systemic HRT, within the first 6 months of treatment or within 3 months of changing the dose or preparation.
+- Monthly cyclical regimens should produce regular withdrawal bleeding towards the end of the progestogen phase.
+
+# Clinic Experience
+Pregnant ladies feel nausea due to high progesterone. If someone on COCP has nausea, reduce their progesterone. MIMS has long list of meds. 
+- Microgynon 30/150 is a standard COCP. 

@@ -21,7 +21,7 @@ As part of managing [[menopause]].
 	- If they have Mirena (It is IUS LNG), then can give oestrogen via another route. 
 	- It's the only IUS licensed for endometrial protection & the license is for 4 years 
 
-> [!NOTE]- Mirena Use for HRT
+> [!NOTE]+ Mirena Use for HRT
 > - Mirena® is currently the only LNG-IUS licensed for endometrial protection as part of an HRT regimen (licensed for 4 years but may be used for up to 5 years off-label) however the College of Sexual and Reproductive Healthcare (CoSRH) supports use of any 52mg LNG-IUS for up to 5 years (outside product license) for this purpose.
 > - Source: [CKS: Hormone replacement therapy (HRT)](https://cks.nice.org.uk/topics/menopause/prescribing-information/hormone-replacement-therapy-hrt/)
 
