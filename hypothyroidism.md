@@ -22,10 +22,11 @@ The vast majority of cases are primary hypothyroidism with a high TSH and low T4
 - Iatrogenic (thyroidectomy, radioiodine, drugs) 
 ## Clinical Features
 - Goitre in both cases.
-- Amenorrhea/Oligomenorrhea
+- [[amenorrhoea (secondary)]]/Oligomenorrhea
 - Cold peripheries, coarse hair/hair loss, dry/thick coarse skin, brittle nails, bradycardia, weight gain.
 - Weight gain, myxedema (e.g. change in shoe size)
 - Macrocytosis, Proximal myopathy
+*Ask **BMWW** #mnemonic (Bowel habit, mood, weight, weather intolerance)*
 ## Associated conditions
 - Autoimmune disease
 	- [[vitiligo]], [[addison's disease]], Pernicious Anaemia, [[diabetes mellitus 1|T1DM]], Thyroid disease ([[hypothyroidism|Hashimoto's thyroiditis]])
@@ -34,10 +35,10 @@ The vast majority of cases are primary hypothyroidism with a high TSH and low T4
 	- Knee > wrist, ankle, shoulder
 	- Positive birefringent crystals
 ## Treatment
-[British thyroid association suggestion](https://british-thyroid-association.org/professionals/#btaguidelines) 
+[Evaluation and Management of Thyroid Nodules: A Joint Consensus Statement From the British Thyroid Association (BTA)](https://british-thyroid-association.org/professionals/#btaguidelines) 
 #### If a patient has Subclinical Hypothyroidism 
 (TSH high, T4 normal, TPO negative shows it's not hashimoto) -> Repeat TSH in 3 months.
-#### If TSH raised but below 10miU/L (5.5 to 10 on 2 tests 3 months apart)
+##### If TSH raised but below 10miU/L (5.5 to 10 on 2 tests 3 months apart)
 - **Asymptomatic**: No Rx needed. Repeat test. 
 - **>=65yo**: No Rx needed. (risk of over-suppression of TSH leading to [[atrial fibrillation]])
 - **Symptomatic** + **<65yo**: Levothyroxine 6 month trial. 
@@ -48,8 +49,7 @@ If need to start,
 - Others: start with 50-100 mcg.
 - women with established hypothyroidism who become pregnant should have their dose increased 'by at least 25-50 micrograms levothyroxine' due to the increased demands of pregnancy.
 #### If the TSH is still high and T3 and/or T4 is still low
-Increase the dose of the Levothyroxine.
-	
+Increase the dose of the Levothyroxine. 
 ## s/e of Thyroxine therapy
 - [[hyperthyroidism]] (overtreatment)
 - Reduced [[osteoporosis|bone mineral density]]
