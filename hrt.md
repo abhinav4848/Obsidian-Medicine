@@ -19,7 +19,12 @@ As part of managing [[menopause]].
 - Progestogen → protects the endometrium from oestrogen-induced hyperplasia/[[cancer- endometrial|Endometrial Cancer]]. However, progestogen increases risk of breast cancer. 
 - If uterus present → progestogen is mandatory (unless oestrogen is local only)
 	- If they have Mirena (It is IUS LNG), then can give oestrogen via another route. 
-	- It's the only IUS licensed for endometrial protection. 
+	- It's the only IUS licensed for endometrial protection & the license is for 4 years 
+
+> [!NOTE]- Mirena Use for HRT
+> - Mirena® is currently the only LNG-IUS licensed for endometrial protection as part of an HRT regimen (licensed for 4 years but may be used for up to 5 years off-label) however the College of Sexual and Reproductive Healthcare (CoSRH) supports use of any 52mg LNG-IUS for up to 5 years (outside product license) for this purpose.
+> - Source: [CKS: Hormone replacement therapy (HRT)](https://cks.nice.org.uk/topics/menopause/prescribing-information/hormone-replacement-therapy-hrt/)
+
 - Tibolone is a synthetic compound with both E&P + androgenic activity. 
 - HRT isn't contraindicated in women with a history of migraine only (no aura) but warn that the hormonal fluctuations could make migraine worse. More with cyclical regimen. 
 
@@ -48,7 +53,6 @@ Used for Postmenopausal women. (>= 12 months since LMP)
 *See [[menopause#Reviews for patients on HRT linked|Reviews for patients on HRT]] & [[menopause]]*
 ## Confusion
 ![[menopause#Menopause & Contraception / HRT embedded]]
-
 
 ---
 # When does menopausal/pre-menopausal woman need contraception?

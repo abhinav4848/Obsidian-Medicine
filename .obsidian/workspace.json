@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vasectomy.md",
+                "file": "hrt- negatives.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "vasectomy"
+              "title": "hrt- negatives"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sterili",
+                "query": "mirena",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "vasectomy.md",
+                "file": "hrt- negatives.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vasectomy.md",
+                "file": "hrt- negatives.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vasectomy.md",
+                "file": "hrt- negatives.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -298,6 +298,8 @@
   },
   "active": "968dc8478ecd9ac8",
   "lastOpenFiles": [
+    "hrt.md",
+    "vasectomy.md",
     "penile pathology.md",
     "circumcision.md",
     "scrotal problems.md",
@@ -322,8 +324,6 @@
     "antiarrhythmic drugs.md",
     "cauda equina syndrome.md",
     "sciatica.md",
-    "cow milk allergy.md",
-    "vomiting in paeds.md",
     "clinic learning",
     "attachments/moon face & facial plethora.jpg",
     "attachments/cutaneous supply hand.jpg",
