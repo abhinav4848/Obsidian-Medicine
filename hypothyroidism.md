@@ -38,7 +38,7 @@ The vast majority of cases are primary hypothyroidism with a high TSH and low T4
 [Evaluation and Management of Thyroid Nodules: A Joint Consensus Statement From the British Thyroid Association (BTA)](https://british-thyroid-association.org/professionals/#btaguidelines) 
 #### If a patient has Subclinical Hypothyroidism 
 (TSH high, T4 normal, TPO negative shows it's not hashimoto) -> Repeat TSH in 3 months.
-##### If TSH raised but below 10miU/L (5.5 to 10 on 2 tests 3 months apart)
+##### If TSH raised but < 10miU/L (5.5 to 10 on 2 tests 3 months apart)
 - **Asymptomatic**: No Rx needed. Repeat test. 
 - **>=65yo**: No Rx needed. (risk of over-suppression of TSH leading to [[atrial fibrillation]])
 - **Symptomatic** + **<65yo**: Levothyroxine 6 month trial. 
@@ -48,7 +48,7 @@ If need to start,
 - Cardiac disease/severe hypothyroid/age > 50: start with 25mcg OD
 - Others: start with 50-100 mcg.
 - women with established hypothyroidism who become pregnant should have their dose increased 'by at least 25-50 micrograms levothyroxine' due to the increased demands of pregnancy.
-#### If the TSH is still high and T3 and/or T4 is still low
+#### If TSH still high & T3 and/or T4 is still low
 Increase the dose of the Levothyroxine. 
 ## s/e of Thyroxine therapy
 - [[hyperthyroidism]] (overtreatment)
