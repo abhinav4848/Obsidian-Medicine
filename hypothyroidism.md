@@ -69,3 +69,4 @@ e.g.: Pituitary adenoma, infiltrative disease
 Never give [[anaemia|Ferrous sulphate]] + Levothyroxine at the same time!
 
 #mnemonic: RICO -> Rifampicin, Iron supplement, Calcium, Omeprazole interferes with Levothyroxine's absorption and thus reduces its effectiveness. Therefore, they should be given at separate times with long intervals. 
+
