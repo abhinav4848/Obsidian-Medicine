@@ -24,7 +24,9 @@ Degenerative arterial disease, [[hypertension]], blood dyscrasias, telangiectasi
 
 If not settling, check BP & if an anterior bleed point is visible. 
 - if yes, try cautery with silver nitrate stick 
-- if bleed stops, give antiseptic cream (Naseptin) for a week. 
+- if bleed stops, give antiseptic cream (Naseptin) for a week.
+
+Cheilitis in children can be fungal. So Naseptin works well here too. 
 
 If not settled/shock/bleeding disorder needing specialist treatment -> A&E.
 
