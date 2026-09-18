@@ -66,20 +66,6 @@
               "icon": "lucide-file",
               "title": "plaque psoriasis"
             }
-          },
-          {
-            "id": "039f0c55999a9937",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://dermnetnz.org/topics/lichen-sclerosus",
-                "title": "Lichen sclerosus: Causes, Diagnosis, and Images - DermNet",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Lichen sclerosus: Causes, Diagnosis, and Images - DermNet"
-            }
           }
         ],
         "currentTab": 3
@@ -327,6 +313,7 @@
   },
   "active": "88dafff3eff9103b",
   "lastOpenFiles": [
+    "plaque psoriasis.md",
     "psoriasis.md",
     "eczema.md",
     "lichens.md",
@@ -352,7 +339,6 @@
     "cancer- prostate.md",
     "fibromyalgia.md",
     "depression.md",
-    "panic attacks.md",
     "clinic learning",
     "attachments/moon face & facial plethora.jpg",
     "attachments/cutaneous supply hand.jpg",
