@@ -30,7 +30,6 @@ Not to be confused with [[Actinic keratosis]].
 - New lesion at site of injury: [[Koebner's phenomenon]].
 
 See ![[psoriatic arthritis#Nail changes in Psoriasis linked]]
-
 **Based on shape**: Plaque, [[Guttate psoriasis]] (oil drop)
 
 ---
