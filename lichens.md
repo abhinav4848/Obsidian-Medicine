@@ -9,7 +9,8 @@ aliases:
   - Balanitis xerotica obliterans
   - lichen sclerosus
 ---
-# [[Lichen planus]]
+# Lichen planus
+See [[lichen planus]]
 
 ---
 # Lichen Sclerosus

@@ -58,13 +58,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hypothyroidism.md",
+                "file": "lichens.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hypothyroidism"
+              "title": "lichens"
+            }
+          },
+          {
+            "id": "039f0c55999a9937",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://dermnetnz.org/topics/lichen-sclerosus",
+                "title": "Lichen sclerosus: Causes, Diagnosis, and Images - DermNet",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Lichen sclerosus: Causes, Diagnosis, and Images - DermNet"
             }
           }
         ],
@@ -103,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mnemonic",
+                "query": "lichen sclerosus",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -151,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hypothyroidism.md",
+                "file": "lichens.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -218,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hypothyroidism.md",
+                "file": "lichens.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -281,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hypothyroidism.md",
+                "file": "lichens.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,12 +327,13 @@
   },
   "active": "88dafff3eff9103b",
   "lastOpenFiles": [
+    "penile pathology.md",
+    "lichens.md",
     "hypothyroidism.md",
     "sca- consultation keys.md",
     "hrt.md",
     "hrt- negatives.md",
     "vasectomy.md",
-    "penile pathology.md",
     "circumcision.md",
     "scrotal problems.md",
     "cancer- testes.md",
@@ -338,7 +353,6 @@
     "panic attacks.md",
     "anticholinergics.md",
     "nash.md",
-    "immunisation schedule (paeds).md",
     "clinic learning",
     "attachments/moon face & facial plethora.jpg",
     "attachments/cutaneous supply hand.jpg",

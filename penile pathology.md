@@ -16,6 +16,7 @@ Types:
 - Physiological (primary): Gentle retraction over time +- steroids
 - Secondary (e.g. due to recurrent balanitis, [[lichen planus]], [[eczema]], [[psoriasis]]): May need circumcision +- topical steroids
 # Balanitis
+*Also see [[lichens|Balanitis xerotica obliterans]].* 
 Inflammation of glans penis
 can be acute or chronic
 ### Causes:
@@ -39,4 +40,5 @@ Associated with [[upper limb ortho problems|Dupuytren's contracture]]- If someon
 - Penile mass or ulceration where STI has been excluded
 - Persistent penile lesion after STI treatment
 - Unexplained or persistent symptoms affecting foreskin or glans 
+
 
