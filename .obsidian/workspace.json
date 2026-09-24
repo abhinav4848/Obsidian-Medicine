@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eczema",
+                "query": "portf",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -313,6 +313,7 @@
   },
   "active": "88dafff3eff9103b",
   "lastOpenFiles": [
+    "gp portfolio.md",
     "plaque psoriasis.md",
     "psoriasis.md",
     "eczema.md",
@@ -338,7 +339,6 @@
     "retinitis pigmentosa.md",
     "cancer- prostate.md",
     "fibromyalgia.md",
-    "depression.md",
     "clinic learning",
     "attachments/moon face & facial plethora.jpg",
     "attachments/cutaneous supply hand.jpg",
