@@ -60,7 +60,7 @@ Useful on delicate/steroid-sensitive areas, such as the face, eyelids, and flexu
 	- swollen & painful skin
 	- Feeling hot, shivery, unwell
 
-Resources to give patients: [EczemaCareOnline](https://EczemaCareOnline.org.uk) a website developed with patients, parents, and healthcare professionals, is recommended by NICE and is the only resource that has been shown in randomised controlled trials to improve eczema outcomes.2 While developing this resource, people with eczema told us of their frustration with being told that “topical steroids are safe when used correctly” while simultaneously receiving insufficient or inconsistent advice about what “correct use” means.
+Resources to give patients: [EczemaCareOnline](https://EczemaCareOnline.org.uk) a website developed with patients, parents, and healthcare professionals, is recommended by NICE and is the only resource that has been shown in randomised controlled trials to improve eczema outcomes. While developing this resource, people with eczema told us of their frustration with being told that “topical steroids are safe when used correctly” while simultaneously receiving insufficient or inconsistent advice about what “correct use” means.
 
 ---
 ![[eczema vs psoriasis treatment.png]]
