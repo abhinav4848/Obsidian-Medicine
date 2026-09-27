@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plaque psoriasis.md",
+                "file": "immunisation in adults.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "plaque psoriasis"
+              "title": "immunisation in adults"
             }
           }
         ],
@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "portf",
+                "query": "cough and sneeze",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "plaque psoriasis.md",
+                "file": "immunisation in adults.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plaque psoriasis.md",
+                "file": "immunisation in adults.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -281,7 +281,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plaque psoriasis.md",
+                "file": "immunisation in adults.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,8 +313,8 @@
   },
   "active": "88dafff3eff9103b",
   "lastOpenFiles": [
-    "gp portfolio.md",
     "plaque psoriasis.md",
+    "gp portfolio.md",
     "psoriasis.md",
     "eczema.md",
     "lichens.md",
