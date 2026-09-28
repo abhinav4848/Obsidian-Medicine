@@ -7,11 +7,12 @@ aliases:
   - antiemetic
   - motion sickness
   - hyperemesis gravidarum
+  - vomiting
 urls:
   - https://www.amboss.com/us/knowledge/antiemetics/
 ---
 # Clinical
-Six broad nausea and vomiting syndromes  
+Six broad nausea and vomiting syndromes. 
 
 **Reduced gastric motility**
 - May be opioid related

@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "immunisation in adults.md",
+                "file": "antipsychotic drugs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "immunisation in adults"
+              "title": "antipsychotic drugs"
             }
           }
         ],
@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cough and sneeze",
+                "query": "vomiting",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "immunisation in adults.md",
+                "file": "antipsychotic drugs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "immunisation in adults.md",
+                "file": "antipsychotic drugs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -281,7 +281,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "immunisation in adults.md",
+                "file": "antipsychotic drugs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,6 +313,11 @@
   },
   "active": "88dafff3eff9103b",
   "lastOpenFiles": [
+    "extrapyramidal side-effects.md",
+    "d2 antagonism.md",
+    "metoclopramide.md",
+    "antiemetics.md",
+    "immunisation in adults.md",
     "plaque psoriasis.md",
     "gp portfolio.md",
     "psoriasis.md",
@@ -334,11 +339,6 @@
     "testicular conditions.md",
     "congenital adrenal hyperplasia.md",
     "erectile dysfunction.md",
-    "sildenafil.md",
-    "blood tests.md",
-    "retinitis pigmentosa.md",
-    "cancer- prostate.md",
-    "fibromyalgia.md",
     "clinic learning",
     "attachments/moon face & facial plethora.jpg",
     "attachments/cutaneous supply hand.jpg",

@@ -51,7 +51,7 @@ HAM side effects: Found in [[tricyclic antidepressants]] (TCA’s) and low poten
 	- dry mouth, urinary retention, constipation, 
 	- can exacerbate Alzheimer's. 
 	- Antipsychotics can precipitate or worsen delirium, esp in vulnerable patients. Drugs with stronger anticholinergic effects (e.g. Chlorpromazine) have a higher risk. Despite this, antipsychotics are commonly used to manage symptoms of [[delirium]]: severe agitation, psychosis (hallucinations, delusions), risk to self or staff. e.g. Haloperidol, Olanzapine, . Quetiapine
-- Anti-Dopamine: Raised prolactin. 
+- Anti-Dopamine: [[Raised prolactin]]. 
     - may result in galactorrhoea
     - [[Gynaecomastia]]
 
