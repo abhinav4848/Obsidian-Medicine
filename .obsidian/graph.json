@@ -20,6 +20,20 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "tag:#cancer",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#red_flag  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5050748733018112,
+  "scale": 0.25696284963129745,
   "close": false
 }

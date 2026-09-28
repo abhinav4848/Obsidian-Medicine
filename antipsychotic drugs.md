@@ -29,7 +29,7 @@ Antipsychotics counter the effects of dopamine excess in [[delirium]], psychosis
 - EPS less common than typicals
 - **Clozapine**: agranulocytosis, neutropenia, [[platelets|thrombocytopenia]], hypersalivation, reduced seizure threshold, myocarditis.
 	- clozapine needs monthly FBC in clozapine clinic
-	- clozapine main s/e is constipation & risk of constipation is paralytic ileus. 
+	- clozapine main s/e is constipation & risk of constipation is [[paralytic ileus]]. 
 - **Olanzapine**: 
 	- High risk of diabetes, dyslipidemia, obesity -> high risk of [[deep vein thrombosis|DVT]]
 	- O = big belly - causes weight gain > causes VTE. #mnemonic 
@@ -51,7 +51,7 @@ HAM side effects: Found in [[tricyclic antidepressants]] (TCA’s) and low poten
 	- dry mouth, urinary retention, constipation, 
 	- can exacerbate Alzheimer's. 
 	- Antipsychotics can precipitate or worsen delirium, esp in vulnerable patients. Drugs with stronger anticholinergic effects (e.g. Chlorpromazine) have a higher risk. Despite this, antipsychotics are commonly used to manage symptoms of [[delirium]]: severe agitation, psychosis (hallucinations, delusions), risk to self or staff. e.g. Haloperidol, Olanzapine, . Quetiapine
-- Anti-Dopamine: [[Raised prolactin]]. 
+- Anti-Dopamine: [[hyperprolactinemia|Raised prolactin]]. 
     - may result in galactorrhoea
     - [[Gynaecomastia]]
 

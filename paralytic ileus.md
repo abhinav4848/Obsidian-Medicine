@@ -9,4 +9,4 @@ Do X-Ray -> Air fluid levels
 Drip and suck -> I.V. drip, NGT suck.
 Reduce opiate analgesia
 Encourage patient to mobilize
-Lactulose/erythromycin to stimulate bowel.
+[[laxatives|Lactulose]]/erythromycin to stimulate bowel.
