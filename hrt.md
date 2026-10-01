@@ -40,15 +40,15 @@ COCPs containing levonorgestrel and norethisterone are more androgenic and may p
 ---
 # Methods of HRT
 ## Sequential (cyclical) HRT 
-- Continuous estrogen. 
+- Continuous oestrogen. 
 - Progestogen added for part of the cycle (usually 10–14 days/month). 
 - Mimics a menstrual cycle. Bleeding is expected. 
 Used for perimenopausal women with last bleeding =<12 months post-LMP. 
 HRT is not contraception. 
 
-E.g. evorel sequi (estradiol + norethisterone)
+E.g. Evorel sequi (oestradiol + norethisterone)
 ## Continuous combined HRT 
-Estrogen + progestogen every day. 
+Oestrogen + progestogen every day. 
 Better tolerated in [[migraine]] w/o aura.
 
 Used for Postmenopausal women. (>= 12 months since LMP)

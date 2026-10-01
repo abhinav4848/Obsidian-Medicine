@@ -11,8 +11,7 @@ revision counter: 1
 - [Bowel cancer screening: care pathways - GOV.UK](https://www.gov.uk/government/publications/bowel-cancer-screening-care-pathway/bowel-cancer-screening-care-pathway)
 
 Faecal immunochemical test (FIT). 
-- 60 - 74yo every 2 years (England), ? age 50 years. 
-- 50 - 74yo (Scotland).
+- >50yo every 2 years. 
 *Then on request a kit every 2 years*
 
 Local hub Phone: 0800-707-... 
@@ -20,7 +19,6 @@ Local hub Phone: 0800-707-...
 Screening FIT test reacts to a higher threshold (>80), but a symptomatic FIT test reacts to a much lower threshold because the pre-test probability is higher. 
 
 The results from screening test doesn't tell you your actual number as it's privileged information. You can get the number by emailing bowel screening hub. Old threshold to call it positive was 120, now will be 80 as it was noted 80 picked up 1/3rd more high risk polyps. 
-
 # [[cancer- breast (treatment)|Breast cancer]]
 Mammogram. 
 50 - 70yo every 3 years. Then on request. 
@@ -41,6 +39,7 @@ If under 30, routine referral.
 
 # [[cancer- cervical|Cervical cancer]] %%linked%%
 Pap smear- Aim is to detect pre-malignant changes rather than actual cancer. Around 15% of cervical cancers are adenocarcinomas, which aren't frequently detected by screening.
+> see [[cancer- cervical|Cervical Cancer]]. 
 ##### Age Range
 - 25-64yo: every 5 years. 
 	- *The guidelines changed in July 2025. Previously younger women were offered screening every 3 years but the success of HPV testing has extended this period. i.e. Now that we're testing for actual HPV and not just looking at cells, we can call every 5 years.* 
