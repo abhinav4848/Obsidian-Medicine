@@ -24,6 +24,9 @@ See [[incontinence- adult]].
 
 **\> 7 years:**
 Start directly with desmopressin tablets.
+### Desmopressin
+Advise not to drink fluids 1 hour before and 8 hours after taking Desmopressin. 
+It retains free water -> Can cause [[hyponatremia]]. 
 
 ---
 # Enuresis (Secondary)

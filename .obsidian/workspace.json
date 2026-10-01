@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "abnormal airway sounds.md",
+                "file": "amenorrhoea (secondary).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "abnormal airway sounds"
+              "title": "amenorrhoea (secondary)"
             }
           },
           {
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "antieme",
+                "query": "premature ova",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -121,7 +121,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -134,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "abnormal airway sounds.md",
+                "file": "amenorrhoea (secondary).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -274,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "abnormal airway sounds.md",
+                "file": "amenorrhoea (secondary).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,8 +307,10 @@
   },
   "active": "3bab0649a385eef0",
   "lastOpenFiles": [
-    "acanthosis nigricans.md",
+    "incontinence- paeds.md",
+    "hyponatremia.md",
     "abnormal airway sounds.md",
+    "acanthosis nigricans.md",
     "acne vulgaris.md",
     "acne rosacea.md",
     "abdominal pain.md",
@@ -332,8 +335,6 @@
     "lichens.md",
     "penile pathology.md",
     "hypothyroidism.md",
-    "sca- consultation keys.md",
-    "hrt.md",
     "clinic learning",
     "attachments/moon face & facial plethora.jpg",
     "attachments/cutaneous supply hand.jpg",

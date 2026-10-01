@@ -15,7 +15,7 @@ aliases:
 	- Anti-depressants (Amitriptyline, SSRIs e.g. [[depression|Fluoxetine]]), 
 	- Anti-convulsants (carbamazepine), 
 	- [[antipsychotic drugs|antipsychotics]] 
-	- Desmopressin
+	- [[incontinence- paeds|Desmopressin]]
 - Elderly commonly have SIADH.
 - Intercurrent illnesses (especially chest infections, GI disease or UTI’s)
 - Renal disease (urinalysis)
