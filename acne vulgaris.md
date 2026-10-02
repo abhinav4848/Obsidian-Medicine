@@ -16,9 +16,10 @@ Occurs in adolescence
 Benzoyl peroxide used especially if papules and pustules are present. 
 ### Mild-Mod
 12 weeks of topical FDC (fixed dose combination) 
-- adapalene (retinoid) + benzoyl peroxide (brand: Epiduo 0.1% or 0.3% + 2.5% gel. Apply OD in evening), or
+- adapalene (retinoid) + benzoyl peroxide
+	- (brand: Epiduo 0.1% or 0.3% + 2.5% gel. Apply OD in evening), or
 - [[retinoids|tretinoin]] + [[clindamycin]] (brand: Treclin gel), or
-- benzoyl peroxide + clindamycin (brand: Duac. Use OD)
+- benzoyl peroxide 3% + clindamycin 1% (brand: Duac. Use ON)
 
 Any topical retinoid or BPO can be used on its own if combination products are not tolerated, or patient prefers to avoid retinoids/abx. 
 For skin of colour/darker skin, Azelaic acid is useful as it has anti-pigmentary properties. It also has greater tolerability in sensitive skin. 

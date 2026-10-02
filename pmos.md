@@ -20,6 +20,7 @@ urls:
 Identify PMOS with **Rotterdam criteria**. #named 
 PMOS is diagnosed if 2 out of 3 are present (but only when other aetiologies have been excluded): 
 1. Polycystic ovaries (follicle number per ovary of >=20 in at least one ovary, or increased ovarian volume greater than 10cc). 
+	1. USS not advised in adolescents as high incidence of multi follicular ovaries at that life stage. 
 2. Oligo- or anovulation (cycle >35 days or <10 periods/year)
 3. Clinical / [[hirsutism|Biochemical]] signs of hyperandrogenism.
 	1. Do free [[androgen|androgen]] index (`100 x Total testosterone/SHBG`). 
@@ -29,6 +30,8 @@ Thyroid dysfunction, [[congenital adrenal hyperplasia]], hyperprolactinaemia, an
 
 Free androgen index testing can be affected by obesity and other confounding factors. 
 LH/FSH ratio is not a direct indicator. It can be helpful but is non-specific and may suggest PMOS in only 50% of cases. 
+
+Tests to do: *HbA1c, oestradiol, free androgen index, LH+FSH, TSH*. 
 # Pathophysiology
 Increased LH causes increased Androgen -> converted to oestradiol by aromatase in adipose -> Oestradiol suppresses FSH by negative feedback: **LH:FSH::2:1** 
 
