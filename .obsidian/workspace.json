@@ -23,18 +23,15 @@
             }
           },
           {
-            "id": "968dc8478ecd9ac8",
+            "id": "564ad55f9fe9c42e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "gp portfolio.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "attachments/knee orthopaedic pathologies.png"
               },
-              "icon": "lucide-file",
-              "title": "gp portfolio"
+              "icon": "lucide-image",
+              "title": "knee orthopaedic pathologies"
             }
           },
           {
@@ -88,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gp difficul",
+                "query": "lennox",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -122,8 +119,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -136,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "gp portfolio.md",
+                "file": "attachments/knee orthopaedic pathologies.png",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -276,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gp portfolio.md",
+                "file": "attachments/knee orthopaedic pathologies.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,8 +302,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "968dc8478ecd9ac8",
+  "active": "564ad55f9fe9c42e",
   "lastOpenFiles": [
+    "attachments/videos/lennox gestaut.mp4",
+    "attachments/knee orthopaedic pathologies.png",
+    "attachments/videos",
+    "seizure.md",
+    "gp portfolio.md",
     "hrt- negatives.md",
     "hrt.md",
     "menopause.md",
@@ -333,9 +334,6 @@
     "antipsychotic drugs.md",
     "depression.md",
     "paralytic ileus.md",
-    "laxatives.md",
-    "immunisation in adults.md",
-    "plaque psoriasis.md",
     "clinic learning",
     "attachments/moon face & facial plethora.jpg",
     "attachments/cutaneous supply hand.jpg",
@@ -351,7 +349,6 @@
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "attachments/actinic keratosis on ear.jpg",
     "attachments/actinic keratoses on hand.jpg",
-    "attachments/acute otitis media.jpg",
     "flow charts/h. pylori treatment flowchart.canvas",
     "flow charts/paeds examination.canvas",
     "flow charts/cervical cancer screening pathway.canvas",
@@ -361,8 +358,6 @@
     "housekeeping/revise recent changes.base",
     "attachments/Hypernatraemia-Algorithm20.pdf",
     "attachments/evidencebasedrecoverytimes.pdf",
-    "attachments/bronchovesicular-2.mp3",
-    "attachments/atropa belladona.pdf",
     "flow charts/deep vein thrombosis.canvas"
   ]
 }

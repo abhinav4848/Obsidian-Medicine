@@ -68,6 +68,12 @@ Management
     - 90% moderate-severe mental handicap
     - EEG: slow spike
 - treatment: ketogenic diet may help
+See video
+
+> [!video]- 
+> [[lennox gestaut.mp4]]
+> From: **@nicholehuntphanson** on instagram. 
+> Destany was diagnosed at age 5 with intractable epilepsy then LGS - Lennox gastaut syndrome- both are very hard to treat and control forms of epilepsy then through the years she has had issues with blood, stage 1 kidney failure, Lupus, and recurrent aspiration pneumonia.
 
 ### Benign rolandic epilepsy  
 - most common in childhood, more common in males
