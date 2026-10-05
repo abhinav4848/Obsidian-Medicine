@@ -23,18 +23,6 @@
             }
           },
           {
-            "id": "564ad55f9fe9c42e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "attachments/knee orthopaedic pathologies.png"
-              },
-              "icon": "lucide-image",
-              "title": "knee orthopaedic pathologies"
-            }
-          },
-          {
             "id": "88dafff3eff9103b",
             "type": "leaf",
             "state": {
@@ -132,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "attachments/knee orthopaedic pathologies.png",
+                "file": "abdominal stomas.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -272,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/knee orthopaedic pathologies.png",
+                "file": "abdominal stomas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,10 +290,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "564ad55f9fe9c42e",
+  "active": "88dafff3eff9103b",
   "lastOpenFiles": [
-    "attachments/videos/lennox gestaut.mp4",
     "attachments/knee orthopaedic pathologies.png",
+    "attachments/videos/lennox gestaut.mp4",
     "attachments/videos",
     "seizure.md",
     "gp portfolio.md",
