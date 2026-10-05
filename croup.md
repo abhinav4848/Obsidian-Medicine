@@ -35,6 +35,7 @@ Stridor ([[Abnormal airway sounds]])
 # Treatment 
 Symptoms normally resolve in 48 hrs. 
 Single dose of oral ==Dexamethasone== #drug #steroid (or else Prednisolone) to all children regardless of severity.
+If however symptoms still occur the next night, you can give a second dose of dex 20mg. 
 ## If severe/emergency
 - O2 high flow + Nebulized adrenaline. #drug
 - Admit any child with 
