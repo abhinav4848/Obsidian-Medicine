@@ -11,7 +11,7 @@ aliases:
   - Wernicke-Korsakoff syndrome
 ---
 # Advice
-One unit of alcohol is equal to 10 mL of pure ethanol. The 'strength' of an alcoholic drink is determined by the 'alcohol by volume' (ABV).  
+One unit of alcohol is equal to 10 mL of pure ethanol. The 'strength' of an alcoholic drink is determined by the 'alcohol by volume' (ABV). 
   
 Examples of one unit of alcohol:  
 - 25ml single measure of spirits (ABV 40%)
