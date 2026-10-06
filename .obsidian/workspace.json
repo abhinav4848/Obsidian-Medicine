@@ -26,13 +26,15 @@
             "id": "88dafff3eff9103b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "housekeeping/memorise.base",
-                "viewName": "revision"
+                "file": "abdominal stomas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "memorise"
+              "icon": "lucide-file",
+              "title": "abdominal stomas"
             }
           }
         ],
@@ -119,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "housekeeping/memorise.base",
+                "file": "abdominal stomas.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -259,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "housekeeping/memorise.base",
+                "file": "abdominal stomas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,9 +293,9 @@
   },
   "active": "88dafff3eff9103b",
   "lastOpenFiles": [
-    "asthma- severity assessment.md",
     "housekeeping/memorise.base",
     "abdominal stomas.md",
+    "asthma- severity assessment.md",
     "Untitled.base",
     "afro-caribbean.md",
     "alcohol.md",
