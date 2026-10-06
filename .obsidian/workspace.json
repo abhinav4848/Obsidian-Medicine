@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "abdominal stomas.md",
+                "file": "Codex/Initial medical notes review.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "abdominal stomas"
+              "title": "Initial medical notes review"
             }
           }
         ],
@@ -107,8 +107,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -121,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "abdominal stomas.md",
+                "file": "Codex/Initial medical notes review.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -261,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "abdominal stomas.md",
+                "file": "Codex/Initial medical notes review.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,8 +292,15 @@
   },
   "active": "88dafff3eff9103b",
   "lastOpenFiles": [
-    "housekeeping/memorise.base",
+    "Codex/Initial medical notes review.md",
+    "mscc.md",
+    "acute epiglottitis.md",
     "abdominal stomas.md",
+    "Codex/AGENTS.md",
+    "Codex/README.md",
+    "Codex/attachments",
+    "Codex",
+    "housekeeping/memorise.base",
     "asthma- severity assessment.md",
     "Untitled.base",
     "afro-caribbean.md",
@@ -320,10 +326,6 @@
     "flow charts/Untitled.canvas",
     "serotonin receptors.md",
     "ondansetron.md",
-    "antiemetics.md",
-    "metoclopramide.md",
-    "d2 antagonism.md",
-    "extrapyramidal side-effects.md",
     "clinic learning",
     "attachments/moon face & facial plethora.jpg",
     "attachments/cutaneous supply hand.jpg",
@@ -345,8 +347,6 @@
     "flow charts/haematuria.canvas",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
     "housekeeping/revise recent changes.base",
-    "attachments/Hypernatraemia-Algorithm20.pdf",
-    "attachments/evidencebasedrecoverytimes.pdf",
     "flow charts/deep vein thrombosis.canvas"
   ]
 }

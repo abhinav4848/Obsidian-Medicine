@@ -11,7 +11,7 @@ urls:
 ---
 Oncological emergency. 
 # Causes
-Osteoarthritis. 
+Osteoarthritis- it can cause cord comp. not mscc. 
 Mostly extradural compression due to [[cancers metastasizing to the bone|vertebral body mets]].  
 
 # Clinical Features 
