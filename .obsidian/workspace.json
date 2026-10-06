@@ -26,15 +26,13 @@
             "id": "88dafff3eff9103b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "abdominal stomas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "housekeeping/memorise.base",
+                "viewName": "revision"
               },
-              "icon": "lucide-file",
-              "title": "abdominal stomas"
+              "icon": "lucide-table",
+              "title": "memorise"
             }
           }
         ],
@@ -73,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lennox",
+                "query": ".base",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -107,7 +105,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -120,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "abdominal stomas.md",
+                "file": "housekeeping/memorise.base",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "abdominal stomas.md",
+                "file": "housekeeping/memorise.base",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,9 +291,12 @@
   },
   "active": "88dafff3eff9103b",
   "lastOpenFiles": [
+    "asthma- severity assessment.md",
+    "housekeeping/memorise.base",
+    "abdominal stomas.md",
+    "Untitled.base",
     "afro-caribbean.md",
     "alcohol.md",
-    "abdominal stomas.md",
     "attachments/knee orthopaedic pathologies.png",
     "attachments/videos/lennox gestaut.mp4",
     "attachments/videos",
@@ -314,15 +316,12 @@
     "acne rosacea.md",
     "abdominal pain.md",
     "flow charts/Untitled.canvas",
-    "Untitled.base",
     "serotonin receptors.md",
     "ondansetron.md",
     "antiemetics.md",
     "metoclopramide.md",
     "d2 antagonism.md",
     "extrapyramidal side-effects.md",
-    "antipsychotic drugs.md",
-    "depression.md",
     "clinic learning",
     "attachments/moon face & facial plethora.jpg",
     "attachments/cutaneous supply hand.jpg",
@@ -332,7 +331,6 @@
     "attachments/uv damaged skin.jpg",
     "desktop.ini",
     "flow charts/hypertension management.canvas",
-    "housekeeping/memorise.base",
     "attachments/melasma.jpg",
     "flow charts/postpartum cocp for contraception.canvas",
     "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
