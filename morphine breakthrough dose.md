@@ -41,7 +41,7 @@ When increasing the dose of opioids the next dose should be increased by 30% in
 | Diamorphine sc                    | 3:1                                            | 10 mg Oramorph becomes 3.33            |
 | Oxycodone sc                      | oxy sc is double of oxy oral i.e. 3x oramorph  |                                        |
 | Alfentanil sc                     | 30x Oramorph                                   |                                        |
-| buprenorphine 5cmg/hour           | 12 mg Oramorph in 24 hrs                       |                                        |
+| buprenorphine 5mcg/hour           | 12 mg Oramorph in 24 hrs                       |                                        |
 | fentanyl patch potency is a range | 25mcg/hour = 60 to 90 mg Oramorph/24 hrs       |                                        |
 Oxycodone is preferred to morphine in palliative patients with mild-moderate renal impairment. Oxycodone generally causes less sedation, vomiting and pruritis than morphine but more constipation.
 
