@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "amenorrhoea (secondary).md",
+                "file": "asthma- investigations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "amenorrhoea (secondary)"
+              "title": "asthma- investigations"
             }
           },
           {
@@ -37,8 +37,7 @@
               "title": "Initial medical notes review"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".base",
+                "query": "asthma",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -107,7 +106,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Codex/Initial medical notes review.md",
+                "file": "asthma- investigations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codex/Initial medical notes review.md",
+                "file": "asthma- investigations.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,10 +290,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "88dafff3eff9103b",
+  "active": "3bab0649a385eef0",
   "lastOpenFiles": [
-    "pyelonephritis.md",
+    "asthma- severity assessment.md",
+    "asthma- acute attack.md",
+    "asthma- diagnosis (algorithm).md",
+    "amenorrhoea (secondary).md",
     "Codex/Initial medical notes review.md",
+    "pyelonephritis.md",
     "mscc.md",
     "acute epiglottitis.md",
     "abdominal stomas.md",
@@ -302,7 +306,6 @@
     "Codex/attachments",
     "Codex",
     "housekeeping/memorise.base",
-    "asthma- severity assessment.md",
     "Untitled.base",
     "afro-caribbean.md",
     "alcohol.md",
@@ -316,16 +319,13 @@
     "menopause.md",
     "cancer- screening programs.md",
     "screening programme criteria (admin).md",
-    "amenorrhoea (secondary).md",
     "incontinence- paeds.md",
     "hyponatremia.md",
     "abnormal airway sounds.md",
     "acanthosis nigricans.md",
     "acne vulgaris.md",
     "acne rosacea.md",
-    "abdominal pain.md",
     "flow charts/Untitled.canvas",
-    "serotonin receptors.md",
     "clinic learning",
     "attachments/moon face & facial plethora.jpg",
     "attachments/cutaneous supply hand.jpg",
