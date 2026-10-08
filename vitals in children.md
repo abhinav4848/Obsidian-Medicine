@@ -10,7 +10,7 @@ urls:
 ---
 # Respiratory
 📍Red:
-- Grunting
+- [[abnormal airway sounds|grunting]] 
 - Tachypnoea: RR >60 breaths/minute
 - Moderate or severe chest indrawing
 
