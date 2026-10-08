@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asthma- investigations.md",
+                "file": "asthma- severity assessment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "asthma- investigations"
+              "title": "asthma- severity assessment"
             }
           },
           {
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "asthma- investigations.md",
+                "file": "asthma- severity assessment.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asthma- investigations.md",
+                "file": "asthma- severity assessment.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,6 +292,7 @@
   },
   "active": "3bab0649a385eef0",
   "lastOpenFiles": [
+    "asthma- investigations.md",
     "asthma- severity assessment.md",
     "asthma- acute attack.md",
     "asthma- diagnosis (algorithm).md",
@@ -324,7 +325,6 @@
     "abnormal airway sounds.md",
     "acanthosis nigricans.md",
     "acne vulgaris.md",
-    "acne rosacea.md",
     "flow charts/Untitled.canvas",
     "clinic learning",
     "attachments/moon face & facial plethora.jpg",
