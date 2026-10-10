@@ -3,7 +3,7 @@ tags:
   - misc
 ---
 Echinacea
-Evening primrose oil
-St John’s wort
+[[mastalgia|Evening primrose oil]]
+[[p450|St John’s wort]]
 Ginseng
 Ginkgo

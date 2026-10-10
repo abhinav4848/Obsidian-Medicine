@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asthma- severity assessment.md",
+                "file": "gp portfolio.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "asthma- severity assessment"
+              "title": "gp portfolio"
             }
           },
           {
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "asthma",
+                "query": "portfo",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "asthma- severity assessment.md",
+                "file": "gp portfolio.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asthma- severity assessment.md",
+                "file": "gp portfolio.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,8 +292,10 @@
   },
   "active": "3bab0649a385eef0",
   "lastOpenFiles": [
-    "asthma- investigations.md",
+    "mastalgia.md",
+    "herbal remedies.md",
     "asthma- severity assessment.md",
+    "asthma- investigations.md",
     "asthma- acute attack.md",
     "asthma- diagnosis (algorithm).md",
     "amenorrhoea (secondary).md",
@@ -323,8 +325,6 @@
     "incontinence- paeds.md",
     "hyponatremia.md",
     "abnormal airway sounds.md",
-    "acanthosis nigricans.md",
-    "acne vulgaris.md",
     "flow charts/Untitled.canvas",
     "clinic learning",
     "attachments/moon face & facial plethora.jpg",
