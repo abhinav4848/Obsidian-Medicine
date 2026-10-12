@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gp portfolio.md",
+                "file": "gonorrhoea.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "gp portfolio"
+              "title": "gonorrhoea"
             }
           },
           {
@@ -106,8 +106,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -120,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "gp portfolio.md",
+                "file": "gonorrhoea.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gp portfolio.md",
+                "file": "gonorrhoea.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,6 +291,8 @@
   },
   "active": "3bab0649a385eef0",
   "lastOpenFiles": [
+    "goodpasture syndrome.md",
+    "gp portfolio.md",
     "mastalgia.md",
     "herbal remedies.md",
     "asthma- severity assessment.md",
@@ -316,7 +317,6 @@
     "attachments/videos/lennox gestaut.mp4",
     "attachments/videos",
     "seizure.md",
-    "gp portfolio.md",
     "hrt- negatives.md",
     "hrt.md",
     "menopause.md",
@@ -324,7 +324,6 @@
     "screening programme criteria (admin).md",
     "incontinence- paeds.md",
     "hyponatremia.md",
-    "abnormal airway sounds.md",
     "flow charts/Untitled.canvas",
     "clinic learning",
     "attachments/moon face & facial plethora.jpg",
