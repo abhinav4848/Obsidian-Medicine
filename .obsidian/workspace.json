@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI generated/depression and mental health assessment - questions to ask.md",
+                "file": "sca/data gathering.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "depression and mental health assessment - questions to ask"
+              "title": "data gathering"
             }
           },
           {
@@ -119,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "AI generated/depression and mental health assessment - questions to ask.md",
+                "file": "sca/data gathering.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI generated/depression and mental health assessment - questions to ask.md",
+                "file": "sca/data gathering.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,8 +291,10 @@
   },
   "active": "3bab0649a385eef0",
   "lastOpenFiles": [
-    "flow charts/Untitled.canvas",
     "AI generated/depression and mental health assessment - questions to ask.md",
+    "sca/data gathering.md",
+    "sca",
+    "flow charts/Untitled.canvas",
     "gonorrhoea.md",
     "attachments/IMG_20261013_102735_110.jpg",
     "AI generated",
@@ -337,7 +339,6 @@
     "flow charts/hypertension management.canvas",
     "attachments/melasma.jpg",
     "flow charts/postpartum cocp for contraception.canvas",
-    "attachments/erectile dysfunction- management guidelines in primary care for adults.pdf",
     "attachments/actinic keratosis on ear.jpg",
     "flow charts/h. pylori treatment flowchart.canvas",
     "flow charts/paeds examination.canvas",
