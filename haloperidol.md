@@ -34,3 +34,6 @@ EPS symptoms very common
 | Fluoxetine         | no flow                    | i.e. Anorgasmia/delayed ejaculation |
 
 Haloperidol's effects are not limited to the D2 receptor, as it also exerts blocking action on noradrenergic, cholinergic, and histaminergic receptors. The blocking of these receptors is associated with various adverse drug reactions
+
+# Rapid tranquilizer 
+![[IMG_20261013_102735_110.jpg]]
