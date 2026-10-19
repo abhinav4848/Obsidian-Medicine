@@ -4,18 +4,41 @@ tags:
   - codex
   - learning-priorities
 created: 2026-10-19
+last-reviewed: 2026-10-19
 status: Active learning priorities
 source: User-supplied mock consultation feedback
 ---
 
 # SCA current learning priorities
 ## Context
-Recorded on 19 October 2026 from feedback supplied after a mock consultation with a parent about their child's abdominal pain. The provider described the performance as a **bare pass (13/21)**. This is the provider's practice score, not an official RCGP SCA result. The observations below record that feedback; they have not been independently checked against a consultation transcript.
+Started on 19 October 2026 from supplied abdominal-pain mock feedback, described by the provider as a **bare pass (13/21)**. No transcript was supplied for that first case. Updated after reviewing the next mock's transcript and marksheet: an eight-year-old with nocturnal cough, scored **6/21** by the provider. These are provider practice scores, not official RCGP SCA results.
 
 Assessment framework: [[sca/SCA mock exam framework]].
 
+## Latest review — nocturnal cough in an eight-year-old
+Detailed evidence and checked guidance: [[Codex/SCA review - nocturnal cough in an 8-year-old]]. Transcript and marksheet copies are linked there.
+
+Current order of priority:
+1. **Safe emergency advice:** do not add “try the inhaler first” as a condition before calling 999 for severe breathing difficulty. The parent's repeat-back in this transcript showed that the closing advice could delay help.
+2. **Complete management:** identify the assessment/test, medicine and purpose, technique, monitoring and definite review. “An inhaler”, “the test” and “we can monitor” are too vague.
+3. **Shared decisions and understanding:** explore the specific worry before reassuring; invite views on the proposed plan and ask for teach-back.
+
+Additional learning points:
+- Distinguish a working diagnosis from confirmation. In this case, saying an examination would confirm asthma was incorrect; explain age-appropriate objective testing and what happens if uncertainty remains.
+- Assess relevant alternatives and safety features without turning the history into an exhaustive checklist.
+- Ask how symptoms affect school, activities and family life, then use the answers in the plan.
+- Give balanced medication explanations. Inhaled treatment can reduce systemic exposure, but this does not mean no meaningful risks or monitoring needs.
+- Refer to the patient by name when asking about medicines to avoid confusion with a carer's own treatment.
+
+Progress observed in this transcript:
+- **Child involvement improved:** you directly asked Jacob what the cough felt like.
+- **Diagnostic reasoning improved:** you explained the relevance of nocturnal symptoms, exercise wheeze and family history.
+- **Unprovided findings were not invented:** you acknowledged there were no examination findings. The remaining issue was overestimating what an examination could establish.
+
+These improvements are demonstrated once and should be reinforced across future cases. The recurring weaknesses are practical planning, appropriate safety-netting, follow-up and checking understanding.
+
 ## Current weaknesses and practice goals
-### 1. Make clinical reasoning clear — highest priority
+### 1. Make clinical reasoning clear
 - Summarise the important positive and negative findings before explaining the plan.
 - Explain the working diagnosis, relevant alternatives and remaining uncertainty.
 - If my assessment changes, explain which information changed it and why the new plan follows.
