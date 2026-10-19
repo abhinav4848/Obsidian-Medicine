@@ -39,7 +39,7 @@ Eczema is an Itchy rash on flexures & skin creases. (wrist, palms, elbow folds, 
 - **Severe**: Dry skin, Very frequent itching, redness, excoriation, extensive skin thickening, bleeding, interfere with eating & sleep
 
 ---
-# Treatment
+# Treatment 
 Avoid triggers- soaps, or anything that bubbles/lathers, cigarette smoke, irritant clothing. 
 ## Emollients
 [[emollients]]
@@ -48,6 +48,17 @@ See: [[steroids in dermatology]].
 ![[steroids in dermatology#Easy memorisation of topical steroids linked]]
 - If eczema awakens the patient at night, consider sedative anti-histamines (Chlorpheniramine)
 - Treat bacterial infection with oral antibiotic. 
+##### Treatment plan by a dermatologist
+Management of any eczema will be 2 staged:
+- Get control with appropriate strength steroid aggressively if needed.
+- Then keep control with intermittent usage of topical steroids even twice weekly to the affected parts.
+
+Elocon potent strength steroid ointment once daily for 10 days, and then 
+Eumovate moderate strength steroid ointment twice daily for 2 weeks after that.
+- This can be used as needed on and off 2 to 3 days per week.
+- When the eczema is controlled, recommend weekend topical therapy of steroid to maintain remission.
+Moisturisers twice a day, and soap substitutes to be used alongside this as a must. 
+
 ## Topical Calcineurin inhibitor 
 Topical calcineurin inhibitors (e.g. tacrolimus, brand Protopic -> Inhibits T-cell activation -> Reduces inflammation) can be used as steroid-sparing agents and are typically second-line treatment for eczema.
 

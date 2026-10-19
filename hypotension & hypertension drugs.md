@@ -9,6 +9,11 @@ aliases:
 - Levopdopa
 - IMN
 
+### Treatment: 
+Fludrocortisone, 
+Midodrine. Do U&e 3-4 weeks after starting/increasing. 
+S/e: supine hypertension 
+
 # Hypertension
 - [[corticosteroid|corticosteroids]]
 - ciclosporin

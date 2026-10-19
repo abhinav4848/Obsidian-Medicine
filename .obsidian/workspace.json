@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sca/data gathering.md",
+                "file": "eczema.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "data gathering"
+              "title": "eczema"
             }
           },
           {
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "portfo",
+                "query": "eczema",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -106,7 +106,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -119,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sca/data gathering.md",
+                "file": "eczema.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -259,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sca/data gathering.md",
+                "file": "eczema.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,8 +292,8 @@
   },
   "active": "3bab0649a385eef0",
   "lastOpenFiles": [
-    "AI generated/depression and mental health assessment - questions to ask.md",
     "sca/data gathering.md",
+    "AI generated/depression and mental health assessment - questions to ask.md",
     "sca",
     "flow charts/Untitled.canvas",
     "gonorrhoea.md",
