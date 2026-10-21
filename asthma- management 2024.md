@@ -69,3 +69,5 @@ The British Thoracic Society (BTS) guidelines recommend that we should consider 
 When reducing the dose of inhaled steroids the BTS advise us to do this by 25-50% at a time.  
   
 Clearly patients with stable asthma may only have a formal review on an annual basis but it is likely that if a patient has recently had an escalation of asthma treatment they would be reviewed on a more frequent basis.
+
+Pregnancy doesn't affect asthma management. #important 
