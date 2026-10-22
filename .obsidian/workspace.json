@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asthma- management 2024.md",
+                "file": "menorrhagia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "asthma- management 2024"
+              "title": "menorrhagia"
             }
           },
           {
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eczema",
+                "query": "heavy menstrua",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -106,7 +106,8 @@
               "title": "Web history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -119,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "asthma- management 2024.md",
+                "file": "menorrhagia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -259,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asthma- management 2024.md",
+                "file": "menorrhagia.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,10 +292,12 @@
   },
   "active": "3bab0649a385eef0",
   "lastOpenFiles": [
-    "sca/asthma- management age 5-11.md",
-    "asthma- management 2024.md",
-    "asthma- old management.md",
+    "dysmenorrhoea.md",
+    "period problems in gynaecology.md",
     "Codex/Initial medical notes review.md",
+    "asthma- management 2024.md",
+    "sca/asthma- management age 5-11.md",
+    "asthma- old management.md",
     "Codex/SCA review - nocturnal cough in an 8-year-old.md",
     "Codex/attachments/2026-10-19 SCA nocturnal cough marksheet.txt",
     "Codex/attachments/2026-10-19 SCA nocturnal cough transcript.txt",
@@ -321,8 +324,6 @@
     "asthma- acute attack.md",
     "amenorrhoea (secondary).md",
     "pyelonephritis.md",
-    "mscc.md",
-    "acute epiglottitis.md",
     "Codex/attachments",
     "Codex",
     "housekeeping/memorise.base",

@@ -39,3 +39,12 @@ Anaemia in CKD - aim for 10-12 g/dl (even after starting on Erythropoietin)
 
 # Ferritin is an acute phase reactant
 - Can be high in inflammation, infection, liver disease. 
+
+# Cancer questions to ask
+No fever/wt loss/night sweats.
+No dysphagia.
+No ongoing reflux
+No cough.
+No cibh: change in bowel habits.
+No abdo pain. 
+On DOAC?
