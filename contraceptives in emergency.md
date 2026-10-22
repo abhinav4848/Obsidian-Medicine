@@ -36,6 +36,11 @@ aliases:
 - Caution in ==severe [[asthma]]==.
 - Can be used more than once in a cycle. 
 - No more discarding breastfeeding for a week after a single dose of EllaOne [Link](https://www.cosrh.org/Public/Public/Documents/FSRH-statement-Ulipristal-Acetate-and-Breastfeeding.aspx).
+
+> [!Note] Other Properties of Ulipristal
+> Can be used to manage large fibroids but not first choice (consider only after surgery/embolization are ruled out). It's a Selective progesterone receptor modulator and will interfere with other progestogenic medication including reducing contraceptive efficacy.
+> It has been associated with hepatic toxicity and so is started only in a specialist unit. Prescribing and Monitoring done in secondary care. 
+
 # IUD
 *(IUS is not emergency contraception. See [[time for action of contraceptives]] & [[contraceptives]])*
 - Use within 120 hrs of UPSI. 

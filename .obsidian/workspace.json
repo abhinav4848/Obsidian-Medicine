@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "menorrhagia.md",
+                "file": "contraceptives in emergency.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "menorrhagia"
+              "title": "contraceptives in emergency"
             }
           },
           {
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heavy menstrua",
+                "query": "ullipris",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "menorrhagia.md",
+                "file": "contraceptives in emergency.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "menorrhagia.md",
+                "file": "contraceptives in emergency.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,6 +292,7 @@
   },
   "active": "3bab0649a385eef0",
   "lastOpenFiles": [
+    "menorrhagia.md",
     "dysmenorrhoea.md",
     "period problems in gynaecology.md",
     "Codex/Initial medical notes review.md",
@@ -323,7 +324,6 @@
     "asthma- severity assessment.md",
     "asthma- acute attack.md",
     "amenorrhoea (secondary).md",
-    "pyelonephritis.md",
     "Codex/attachments",
     "Codex",
     "housekeeping/memorise.base",
