@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contraceptives in emergency.md",
+                "file": "hepatitis viruses.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "contraceptives in emergency"
+              "title": "hepatitis viruses"
             }
           },
           {
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ullipris",
+                "query": "hepatitis ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "contraceptives in emergency.md",
+                "file": "hepatitis viruses.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contraceptives in emergency.md",
+                "file": "hepatitis viruses.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,6 +292,8 @@
   },
   "active": "3bab0649a385eef0",
   "lastOpenFiles": [
+    "immunisation in adults.md",
+    "contraceptives in emergency.md",
     "menorrhagia.md",
     "dysmenorrhoea.md",
     "period problems in gynaecology.md",
@@ -322,8 +324,6 @@
     "mastalgia.md",
     "herbal remedies.md",
     "asthma- severity assessment.md",
-    "asthma- acute attack.md",
-    "amenorrhoea (secondary).md",
     "Codex/attachments",
     "Codex",
     "housekeeping/memorise.base",
