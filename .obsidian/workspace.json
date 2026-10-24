@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hepatitis viruses.md",
+                "file": "maternal 6–8-week check.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hepatitis viruses"
+              "title": "maternal 6–8-week check"
             }
           },
           {
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hepatitis ",
+                "query": "week baby check",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hepatitis viruses.md",
+                "file": "maternal 6–8-week check.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hepatitis viruses.md",
+                "file": "maternal 6–8-week check.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,6 +292,7 @@
   },
   "active": "3bab0649a385eef0",
   "lastOpenFiles": [
+    "hepatitis viruses.md",
     "immunisation in adults.md",
     "contraceptives in emergency.md",
     "menorrhagia.md",
@@ -323,7 +324,6 @@
     "gp portfolio.md",
     "mastalgia.md",
     "herbal remedies.md",
-    "asthma- severity assessment.md",
     "Codex/attachments",
     "Codex",
     "housekeeping/memorise.base",
