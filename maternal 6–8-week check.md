@@ -57,7 +57,7 @@ Baby able to latch well?
 In terms of your meds and health -> Hypothyroid? Aim TSH < 2. 
 -> BP. We'll check BP today and if higher than normal, we will send you home to do a longer reading and see how that goes. 
 
-That's it for yourself, now we'll check the baby. 
+That's it for yourself, now we'll check the baby: [[newborn infant physical examination#Sequence seen in Clinic linked|newborn 6–8-week check]]
 
 ---
 

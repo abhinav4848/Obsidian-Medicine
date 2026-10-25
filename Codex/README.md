@@ -4,4 +4,4 @@ User instruction, 6 October 2026: all Codex-created or edited files must stay in
 
 ## Reports
 
-- [[Codex/Initial medical notes review|Initial medical notes review]]
+- [[Initial medical notes review by AI|Initial medical notes review by AI]]

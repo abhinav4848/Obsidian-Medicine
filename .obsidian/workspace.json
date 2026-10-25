@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maternal 6–8-week check.md",
+                "file": "sca/data gathering.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "maternal 6–8-week check"
+              "title": "data gathering"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/Initial medical notes review.md",
+                "file": "Codex/Initial medical notes review by AI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Initial medical notes review"
+              "title": "Initial medical notes review by AI"
             }
           }
         ]
@@ -106,8 +106,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -120,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "maternal 6–8-week check.md",
+                "file": "sca/data gathering.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "maternal 6–8-week check.md",
+                "file": "sca/data gathering.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,23 +291,28 @@
   },
   "active": "3bab0649a385eef0",
   "lastOpenFiles": [
+    "sca/asthma- management age 5-11.md",
+    "Codex/SCA review - nocturnal cough in an 8-year-old.md",
+    "Codex/SCA current learning priorities.md",
+    "antenatal care.md",
+    "birth related articles.md",
+    "maternal 6–8-week check.md",
+    "perinatal mental health.md",
+    "Codex/Initial medical notes review by AI.md",
+    "newborn infant physical examination.md",
     "hepatitis viruses.md",
     "immunisation in adults.md",
     "contraceptives in emergency.md",
     "menorrhagia.md",
     "dysmenorrhoea.md",
     "period problems in gynaecology.md",
-    "Codex/Initial medical notes review.md",
     "asthma- management 2024.md",
-    "sca/asthma- management age 5-11.md",
     "asthma- old management.md",
-    "Codex/SCA review - nocturnal cough in an 8-year-old.md",
     "Codex/attachments/2026-10-19 SCA nocturnal cough marksheet.txt",
     "Codex/attachments/2026-10-19 SCA nocturnal cough transcript.txt",
     "asthma- diagnosis (algorithm).md",
     "asthma- investigations.md",
     "sca/SCA mock exam framework.md",
-    "Codex/SCA current learning priorities.md",
     "sca/sca- consultation keys.md",
     "sca/data gathering.md",
     "sca/sca marking table.md",
@@ -317,13 +321,8 @@
     "AI generated/depression and mental health assessment - questions to ask.md",
     "sca",
     "flow charts/Untitled.canvas",
-    "gonorrhoea.md",
     "attachments/IMG_20261013_102735_110.jpg",
     "AI generated",
-    "goodpasture syndrome.md",
-    "gp portfolio.md",
-    "mastalgia.md",
-    "herbal remedies.md",
     "Codex/attachments",
     "Codex",
     "housekeeping/memorise.base",
