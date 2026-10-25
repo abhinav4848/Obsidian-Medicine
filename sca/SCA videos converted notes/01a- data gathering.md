@@ -12,10 +12,10 @@ Must do bits: Red flag bubble, Social History (PSY Bubble), ICE bubble
 # Introduction
 Early open questions: 
 - Weak: Tell me more about... 
-- Strong: You mentioned the pain, tell me more about the pain. Oh you mentioned work problems, tell me more about that. 
+- Strong: *You mentioned the pain, tell me more about the pain. Oh you mentioned work problems, tell me more about that.* 
 
 Pain: SOCRATES
-- do you mind showing me where the pain is?
+- Can you point to where the pain is?
 - onset: how did it start? gradually?
 - character: can you describe it? crushing/tight...
 - radiation: Does it move? 

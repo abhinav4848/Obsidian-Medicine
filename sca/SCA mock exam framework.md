@@ -117,7 +117,7 @@ Use the following educational format:
 
 Official feedback is selected after marking; it is not itself a scoring checklist. RCGP educational guidance emphasises relevant investigations, proportionate follow-up, selective questioning, time management and responsive communication. Our feedback should reflect those principles. [RCGP feedback guidance](https://www.rcgp.org.uk/mrcgp-exams/simulated-consultation-assessment/feedback-statements)
 
-Related vault notes: [[sca- consultation keys]], [[sca/data gathering]], [[sca/sca marking table]].
+Related vault notes: [[sca- consultation keys]], [[01a- data gathering]], [[sca/sca marking table]].
 
 ## Note formatting
 - Keep a blank line immediately before every Markdown table so Obsidian renders it correctly.
