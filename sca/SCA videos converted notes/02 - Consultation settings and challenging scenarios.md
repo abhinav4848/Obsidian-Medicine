@@ -1,12 +1,9 @@
 ---
-tags: [sca, revision, codex]
+tags: [sca, revision, codex, ai_created]
 source_videos: [6, 7, 8, 9, 10]
 ---
-
 # Consultation settings and challenging scenarios
-
 **Videos:** 6. SCA Case Settings; 7. SCA Scenarios (a); 8. SCA Scenarios (b); 9. SCA Scenarios (c); 10. SCA Case Types.
-
 - [[02 - Consultation settings and challenging scenarios#Telephone and video|Telephone and video]]
 - [[02 - Consultation settings and challenging scenarios#Angry patient|Angry patient]]
 - [[02 - Consultation settings and challenging scenarios#Embarrassed or hesitant patient|Embarrassed or hesitant patient]]
@@ -22,65 +19,102 @@ source_videos: [6, 7, 8, 9, 10]
 - [[02 - Consultation settings and challenging scenarios#Urgent referral|Urgent referral]]
 - [[02 - Consultation settings and challenging scenarios#Relative or carer|Relative or carer]]
 - [[02 - Consultation settings and challenging scenarios#Colleague discussion|Colleague discussion]]
-
+- [[02 - Consultation settings and challenging scenarios#Example consultation phrases|Example consultation phrases]]
 ## Telephone and video
 Confirm identity, callback number, exact current location, privacy and whether it is safe to talk. Ask who else is present and seek agreement before involving them. On telephone, ask about things video might show and verbalise cues such as breathlessness. On video, maintain natural eye contact and use appropriate observation; asking a patient to demonstrate movement does not replace necessary examination.
 
 Decide whether examination is needed now, today or later. Explain purpose and likely next steps. Check transport, prescription access, overnight support and ability to follow advice. Use only facilities actually available; do not assume screen-sharing.
-
 ## Angry patient
 Let them explain without an immediate defence. Identify the specific harm, fear or unmet expectation. Acknowledge the experience and apologise appropriately for distress or known error without speculating about blame. Explain what you can do now, signpost focused safety questions and agree actions, responsibility and a response time. Repeated frustration may need renewed acknowledgment.
 
 Offer complaint information if requested or appropriate; consider candour and learning where error/harm occurred. Threats may require boundaries and help. De-escalation does not require accepting abuse.
-
 ## Embarrassed or hesitant patient
 Thank them for raising the issue, allow time and use neutral language. Check privacy; offer preferred clinician, face-to-face review or chaperone where appropriate. Explain confidentiality and relevant exceptions without promising absolute secrecy. Normalise common presentations without dismissing this person's experience. Ask what would help rather than assuming the reason for silence.
-
 ## Disengaged patient
 Explore why they attended, whether now suits them, what they understand and what makes treatment difficult or unnecessary in their view. Link options to their own goals—work, independence, family—without manipulation. Offer a small achievable next step, respect informed choices and keep access open.
-
 ## Demands for tests, referrals or treatment
 Acknowledge the request: “What are you hoping the scan will show?” Establish facts, red flags, previous care and the meaning of the demand before deciding. Explain clinical usefulness and relevant disadvantages. Do not imply an unnecessary intervention is available merely to gain cooperation.
 
 If declining, be clear and offer a positive alternative: examination, treatment, review or appropriate second opinion. Continued pressure does not justify unsafe investigation/prescribing. Explain what change would warrant reconsideration.
-
 ## Refusing recommended care
 Clarify advice, benefit, material risks of declining and reasonable alternatives. Ask why: fear, experience, practical duties, transport or misunderstanding may be solvable. With permission involve useful supporters.
 
 Support decision-making and assess capacity if in doubt: understanding, retaining, using/weighing relevant information and communicating a decision. Capacity is decision/time specific; an unwise decision alone does not mean incapacity. Apply the national legal framework.
 
 Respect a capacitous informed refusal, offer the safest acceptable alternative, provide specific access/safety-net advice and document the discussion. Do not repeatedly threaten a worst outcome to force agreement. Seek urgent senior/safeguarding support when capacity or immediate safety is unresolved.
-
 ## Bad news and abnormal results
 Check existing understanding, privacy, expectations and support. Use a brief warning shot then clear language; distinguish suspected disease from confirmation. Pause and respond to emotion before continuing in small chunks. Explain next tests/referral and who arranges them. Do not invent stage, curability or prognosis.
 
 “I cannot answer that from this result alone. The next assessment will help us find out; we will make sure you know what happens next.” Discuss family, work, written information and follow-up, including support during the waiting period.
-
 ## Multiple problems
 Invite the agenda early, acknowledge its burden, then prioritise. A dangerous symptom comes first; otherwise agree the main concern. Explain that focusing allows proper care. Make a specific follow-up plan for remaining problems after checking they can safely wait.
-
 ## Very talkative patient
 Allow an initial account, then interrupt respectfully using their words: “You mentioned fainting; I need to check that first.” Signpost, slow your own speech, summarise and use focused questions. Avoid dismissive references to your time pressure. Ensure assessment and actual management occur before closing.
-
 ## Behaviour change
 Explore amount/pattern, triggers, readiness, previous attempts, valued benefits and practical barriers. Assess dependence where relevant. Ask permission to share advice; agree small specific goals and appropriate support services. Include household/work influences and review. Alcohol dependence requires withdrawal-risk assessment before advice to stop suddenly.
-
 ## Medicines not taken as prescribed
 Ask neutrally: “Many people find tablets difficult; how is it working for you?” Separate intentional barriers (beliefs, side effects, feeling well, fear of dependence) from practical ones (memory, swallowing, packaging, access or work). Reconcile actual use. Agree tailored measures: simpler regimen, alternative formulation, side-effect management or pharmacist support. Dosette boxes are suitable for selected needs, not everyone.
-
 ## Emergency and admission
 Activate emergency help promptly when needed; do not complete a routine history first. Confirm location and someone to stay with the patient. Explain **now/today** clearly and give safe immediate advice. Arrange appropriate transport and consider dependants and consent to contact family. Do not let an acutely unsafe patient drive themself. Explain likely hospital assessment without promising discharge timing.
-
 ## Urgent referral
 Explain the concern honestly, including cancer when relevant, plus urgency and next steps. Check attendance barriers and how to chase a missing appointment. Use the relevant local/national pathway; “two-week wait” is not a universal appointment guarantee. In England the Faster Diagnosis Standard concerns diagnosis or exclusion of cancer within 28 days of referral. Provide interim care and escalation advice.
-
 ## Relative or carer
 Confirm identities, relationship, patient location, urgency, awareness and consent. Listen to concerns and give general advice even when confidential records cannot be disclosed. Explore the caller's and patient's understanding, concerns and goals, distinguishing reported facts from assumptions. Ask about carer strain and support. Arrange direct patient contact/examination where needed. Any disclosure without consent needs a justified basis and minimum necessary information.
-
 ## Colleague discussion
 Clarify role, facts, previous actions, urgency and responsibilities. Explore safety, safeguarding, capacity, other agencies and the patient's wishes. Agree who contacts whom, actions today and escalation. Support the colleague; consider supervision/wellbeing needs. Do not provide unsupported reassurance or take over everything unnecessarily.
-
+## Example consultation phrases
+### Telephone/video and emotional cues
+- **Location:** “Whereabouts are you calling from right now?” If needed: “Where is that?” Obtain the actual address for urgent help. (V6, 02:38)
+- **Time:** “Have you got a few minutes right now? Is this a good time to chat?” (V6, 03:12)
+- **Verbal empathy:** “I can see this is really difficult for you.” (V6, 04:41)
+### Anger, embarrassment and disengagement
+- **Acknowledge anger and offer help:** “I can see this has been a very difficult time. I'm here to see how we can improve things.” (V7, 03:33)
+- **Repetitive questions:** “I know you've answered these questions before. Just a couple more so I can work out how best to help.” (V7, 05:03)
+- **Perspective-taking:** “If I'd been promised an appointment in a few weeks and had waited six weeks, I'd feel frustrated too.” (V7, 05:39)
+- **Acknowledge importance:** “This is an important issue, and I'm glad you've brought it to our attention. It does need looking into.” (V7, 06:03)
+- **Avoid guessing what happened:** “It's hard for me to comment without having been there. I can see it's been difficult. I'll try to find out exactly what happened so we can take it forward.” (V7, 07:55)
+- **Explain a service review:** “When something like this happens, we try to understand why. We'll get together as a team and look into it.” (V7, 10:05)
+- **Thank someone discussing a sensitive issue:** “I know this isn't easy to talk about with a stranger. Thank you for calling us today.” (V7, 13:12)
+- **Acknowledge difficulty:** “I appreciate how difficult it must have been to discuss this with me.” (V7, 14:14)
+- **Offer a communication alternative:** “Would you prefer to talk face to face?” / “Would you feel more comfortable speaking with a female clinician?” Tailor the offer without assuming their preference. (V7, 15:16)
+- **Confidentiality:** “What we discuss is confidential, unless there is a serious safety concern or another reason the law requires us to share information. I'd discuss that with you where possible.” (V7, 16:45)
+- **Disengaged review:** “I know we've discussed your blood pressure before. Rather than tell you things you already know, could you tell me what you understand about it?” (V7, 21:58)
+- **Explore hidden concern:** “I know there doesn't seem to be much worrying you about your blood pressure, but is there anything that does concern you?” (V7, 22:18)
+### Requests, disagreement and refusal
+- **Acknowledge the actual request:** “I can see you want an MRI scan, and we can focus on that. Can I find out what's going through your mind about having one?” (V8, 01:26)
+- **Explore the concern beneath it:** “When people ask for a scan, sometimes something in particular is worrying them. Is that the case for you?” (V8, 02:08)
+- **Explain alternatives:** “There may be other tests that answer this particular question better. Can we talk about those?” Do not present an unnecessary scan as indicated. (V8, 03:17)
+- **Clear boundary with rationale:** “I know you want an MRI. From what we've discussed, I don't think it's the most appropriate next step because… Let's look at what we can do to help.” (V8, 07:10)
+- **Get relevant advice:** “I can see this is important to you. Let me speak to the ENT team [or relevant specialist] and get their advice.” (V8, 08:42)
+- **Explain serious risk of refusing urgent care:** “The reason I want you assessed urgently is that these symptoms could be a heart attack [or stroke], which can be life-threatening.” Explore their reason for refusal and ability to make the decision. (V10, 09:25)
+### Bad news and uncertain results
+- **Abnormal X-ray:** “The X-ray isn't completely normal. There's a shadow in the upper part of your right lung. There can be several causes, including infection, but we also need to check for something more serious, such as cancer.” (V8, 22:49–23:15)
+- **Best-case/worst-case framing:** “The best-case scenario could be an infection. We also need to rule out the worst-case scenario, by which I mean cancer.” Use sensitively and only for a supported differential. (V8, 23:08)
+- **Changing mole:** “There are several reasons a mole can change. It may be a benign change, but we need to rule out something more serious, such as skin cancer.” (V8, 23:42)
+- **Confirmed cancer:** “Unfortunately, in this case, the result has confirmed that it is a cancer.” State a confirmed result clearly; pause and respond. (V8, 24:32)
+- **Allow reaction:** “I can see this is a lot to take in. You weren't expecting this. Take your time.” (V8, 25:34)
+- **Questions after bad news:** “I've given you a lot of information. It's understandable that this brings up questions.” (V8, 27:49)
+### Several problems, talking at length and behaviour change
+- **Get the list:** “It sounds as though a lot is going on. Let's clarify the things you were hoping to get through today.” (V9, 01:11)
+- **Recognise the burden:** “That's a lot to manage. It sounds as though you've been struggling.” (V9, 01:39)
+- **Safety before preference:** “I know you've mentioned several things, but one stands out: the pressure in your chest a few days ago. I'd like to talk about that first.” (V9, 02:02)
+- **Agree priority when safe:** “Was there one of those things you wanted to focus on first?” (V9, 02:18)
+- **Explain a staged plan:** “If we try to cover everything today, we may not give each issue the attention it deserves. Shall we focus on a few properly today and arrange another appointment for the rest?” (V9, 03:13)
+- **Redirect respectfully:** “I can see you've got a lot you want to share. You mentioned the pain—can I ask a few specific questions about that?” (V9, 06:22)
+- **Slow the pace:** “Let's break this down a little. Can I ask a few specific questions about your pain?” (V9, 07:05)
+- **Make benefits relevant:** “Changing your diet could help your blood pressure, cholesterol and energy levels.” Select benefits that matter to this person. (V9, 13:46)
+- **Discuss consequences without threatening:** “If this stays as it is, it can increase the risk of problems with your blood pressure, cholesterol and diabetes.” (V9, 14:11)
+- **Practical barrier:** “You mentioned the canteen food. Would a packed lunch or another affordable option give you more control over what you eat?” (V9, 15:19)
+- **Small changes:** “Habits are difficult to change. Sometimes small, regular changes are easier than one big change that doesn't last.” (V9, 15:34)
+### Relative/carer and colleague discussions
+- **Carer's wellbeing:** “I know it's hard when a parent becomes unwell. How are you coping with all of this? How is it affecting you?” (V10, 24:28)
+- **Separate perspectives:** “What worries you about the situation, and what worries the patient?” / “What were you hoping I could do, and what were they hoping for?” (V10, 28:18)
+### Unanswerable questions and urgent logistics
+- **Acknowledge → honest answer → next step:** “I know this brings up a lot of questions. I'll be honest: I don't have the answer to that right now. Let's talk about what we can do to get closer to an answer.” (V8, 27:49–28:09)
+- **Keep communication open:** “More questions may come to mind later. Please get in touch. If your wife has questions too, we can discuss them with your permission.” Specify how and when they can contact the team. (V8, 28:46)
+- **Make urgency explicit:** “Because of what you've described, I think we need to get this checked in hospital **today**.” (V10, 08:54)
+- **Transport:** “I don't think it's safe for you to drive. You mentioned your husband—could he help?” Use an ambulance where the clinical urgency requires one. (V10, 11:39)
+- **Practical help:** “Is there someone I can call for you? Would a note or letter help with work?” (V10, 12:50)
 ## References
-
 - [GMC consent](https://www.gmc-uk.org/professional-standards/the-professional-standards/decision-making-and-consent)
 - [NHS England cancer standards](https://www.england.nhs.uk/cancer/faster-diagnosis/)
