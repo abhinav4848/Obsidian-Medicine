@@ -1,0 +1,48 @@
+---
+tags: [sca, revision, codex]
+source_videos: [50]
+---
+
+# Palliative care
+
+**Videos:** 50. Palliative.
+
+- [[Palliative care#Start with the person's current priority|Start with the person's current priority]]
+- [[Palliative care#Support and coordination|Support and coordination]]
+- [[Palliative care#Pain|Pain]]
+- [[Palliative care#Nausea, vomiting and constipation|Nausea, vomiting and constipation]]
+- [[Palliative care#Noisy secretions and final days|Noisy secretions and final days]]
+- [[Palliative care#Advance care and CPR|Advance care and CPR]]
+
+## Start with the person's current priority
+Palliative care can begin alongside active disease treatment; it is not synonymous with the last days of life. Clarify the illness, current phase, treatment plan and understanding. Ask “What is hardest at the moment?” and agree the priority rather than covering every end-of-life topic superficially.
+
+Explore physical symptoms, emotional/spiritual concerns and practical needs. Ask what information they want, whom they wish involved, preferred place of care and how these preferences may change. Discuss prognosis honestly within available evidence; do not invent a time estimate.
+
+## Support and coordination
+Identify GP, specialist/palliative team, community nurses, carers, hospice and family roles. Ask who is present at night, carer capacity, dependants, finances, equipment and access to medicines. Agree a named contact and out-of-hours plan. Anticipatory medicines are useful only with suitable prescriptions, supply, administration arrangements and review.
+
+A syringe pump gives continuous subcutaneous medicines when appropriate; it is not proof that death is imminent. Explain purpose and monitoring without implying it will automatically hasten death.
+
+## Pain
+Assess site, mechanism, severity, temporal/breakthrough pattern, function, previous treatment, actual 24-hour use and adverse effects. New severe back pain/weakness, fracture, obstruction or another reversible emergency must not be dismissed as “just the cancer.”
+
+Choose treatment for mechanism and context: non-opioid, opioid, neuropathic or other adjuvant treatments, procedures/radiotherapy where appropriate. Opioid choice/dose depends on prior exposure, frailty, renal/hepatic function and route. Include a breakthrough plan, constipation prevention and antiemetic where needed; check sedation, confusion, myoclonus or other toxicity.
+
+Use a validated local conversion chart and specialist advice when changing opioid/route; calculations are not interchangeable. Review frequent breakthrough use or uncontrolled pain promptly. [Scottish palliative opioid guidance](https://www.rightdecisions.scot.nhs.uk/scottish-palliative-care-guidelines/medicines-information/choosing-and-changing-opioids-opiates-convertingswitching/choosing-and-changing-opioids-opiates/)
+
+## Nausea, vomiting and constipation
+Seek the cause: medicines, biochemical change, gastric stasis, obstruction, raised ICP, anxiety or other illness. Choose antiemetic/route according to mechanism and specialist/local guidance, with interaction and Parkinsonism/QT considerations. Persistent vomiting, colic/distension or inability to retain medicines may need urgent reassessment.
+
+Constipation: establish last stool/flatus, discomfort, impaction/overflow, intake, mobility and medicines. Prescribe suitable laxatives with regular opioids unless contraindicated; established constipation needs an actual treatment plan. Do not add bulk fibre blindly in obstruction, impaction or very poor intake.
+
+## Noisy secretions and final days
+Assess whether the patient is distressed and explain to family that noisy breathing can occur as swallowing/cough weakens. Positioning and gentle mouth care may help. Selected antimuscarinic treatment requires review of benefit and adverse effects; avoid burdensome suction without a clear indication.
+
+Recognise possible dying while considering reversible causes and uncertainty. Review non-beneficial medicines, route, mouth care, comfort and symptom prescriptions. Hydration/nutrition decisions should be individual and discussed, not automatic withdrawal or automatic infusion.
+
+## Advance care and CPR
+Introduce care-planning discussions sensitively when clinically relevant, checking readiness; do not force a DNACPR conversation into every palliative encounter. Explain that a DNACPR decision concerns CPR, not abandonment or stopping all treatment. Clarify preferences, capacity, any advance decision and relevant representatives, then document/share through the appropriate system. Relatives support decisions but do not automatically have authority for a capacitous adult.
+
+> [!question] Discuss — local prescribing
+> Add your local anticipatory-medicine chart, syringe-pump support and out-of-hours contact route. These details determine the practical prescribing and administration plan.
