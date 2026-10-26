@@ -164,6 +164,18 @@ Just reflecting that, yeah, I get why that comes from. I can see where that come
 **Expectation**: 
 - *Patient*:  I don't know if I need to at this point or whether this usually happens, but maybe a psychiatrist. I don't know. Do I need to see one of those? I don't know if they're gonna be of any use. 
 - *Reply*: You know, you're right. Sometimes we do refer people with low mood to psychiatry, but there's a lot of things that we could often do here as well. So maybe let's kind of finish off asking you a few questions and then figure out what we can do best. 
+
+### Mixed Examples
+You can end up with any bubble as the starting point. 
+
+If someone comes in and says, doctor, I'm losing weight. I'm really struggling. 
+- That's a red flag. You're probably gonna go more into the clinical side. *When people lose weight, there are a couple of yes, no questions we'd like to ask just to make sure things are okay.* So you're naturally into **red flag bubble**. 
+
+Someone else might come in and say, Doctor, you know what? I'm really struggling with work. I just need to get on a call to somebody. I don't know what's going on. I need to talk to someone about it. 
+- That's the **psychosocial** bubble. You're into that already. *Tell me about work. What's been going on? Have you spoken to your boss? Have you taken any time off? You're obviously stressed at work. What about at home? Who's supporting you at home? Who's at home? When people are stressed, they can turn to things to help cope.* Can you see how when you're in that bubble, you stay in that bubble and you finish that bubble? 
+
+Someone might come in and say, doctor, I'm just I'm just really worried about cancer. 
+- Now they've already started to open about their mind (**ICE**). *Tell me your thoughts. What's going on in your mind? Why are we thinking like this? Okay. You mentioned cancer. What particularly is worrying about all of this?*
 ## Common FAQs about ICE
 - Can do ICE at any point. 
 - Should I ask all the questions every time? Yes. Ask all the 3 questions. Even if they say No. 
@@ -196,3 +208,12 @@ Then once you do your data gathering, that gives you a much better baseline to b
 Of course, there are gonna be some cases where they're pushing for the results. "Yeah, doctor. I've I've been through all these questions. Just what did the results show? I'm really stressed. Or doctor, come on. Why are taking so long? Just tell me what did the X-ray showed. Then you have to adapt, of course. That's just being able to be flexible. *Look, Mr X, I can see that you're really keen to get these results. Normally, we ask a few questions first, but I can see you're really worried. Let's talk about the results now.* 
 
 But just an important point, when you do get investigations given to you, don't feel like you need to give them at the beginning, but you do need to verbalize that you've got them, and then they'll come out in the second half.
+# Diagnosis
+## Headline
+This acts as a natural stepping stone into what you're going to do in management. 
+- If you have enough data, don't need to give differentials: Mr. X, putting it all together, I think you have depression. 
+- Mr. X, I'll be honest I'm not 100% sure what is going on, but a few things are going through my mind
+
+---
+Is there anything else you wanted to tell me? -> Not a safety net for myself. Patient may not have anything to tell me. 
+Summarising in the end? -> There's no marks for summarising. 
