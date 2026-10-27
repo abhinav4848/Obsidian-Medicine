@@ -7,6 +7,8 @@ created: 2026-10-25
 
 The notes focus on SCA assessment, clinical reasoning, explanations, shared plans, safety-netting and practical context. Promotional material and repeated teaching commentary have been removed. Current guidance is linked beside relevant clinical decisions.
 ## Find a topic
+Detailed groundwork notes: [[01a- data gathering]] · [[01b- groundwork- management]].
+
 Use this table to find the right file. Open a note for its section links, or use the video TOC below to locate a chapter in the original video.
 
 | Note | Topics covered | Videos |
@@ -90,6 +92,7 @@ Chapter titles and timestamps from the supplied Telegram contents. Each group li
 - **0:31:15** — Diagnosis
 - **0:33:06** — Common Queries
 #### 4. Groundwork- Management
+**Detailed notes:** [[01b- groundwork- management]]
 - **0:00:00** — MRCGP SCA Management
 - **0:03:12** — Arora Management Step 1
 - **0:03:43** — Arora Management Step 2
@@ -706,7 +709,7 @@ Chapter titles and timestamps from the supplied Telegram contents. Each group li
 ## Consultation phrases
 Every topic note has an **Example consultation phrases** section. The wording adapts the spoken examples and teaching explanations for practice, with repeated versions combined. **V32, 18:24**, for example, means video 32 at 18 minutes 24 seconds. Use the clinical assessment to decide which wording fits.
 ## Image review
-There are **54 possible image-review callouts**, each showing the original video, a timestamp range and a short spoken cue. Look under **Images to review** in the relevant topic note. Some cues describe a possible exam image; review the video frame before adding a screenshot.
+There are **55 possible image-review callouts**, each showing the original video, a timestamp range and a short spoken cue. Look under **Images to review** in the relevant topic note. Some cues describe a possible exam image; review the video frame before adding a screenshot.
 
 > [!todo] Adding an image
 > Open the named video at the given time, inspect the surrounding frames and add any useful screenshot beside the relevant clinical section.

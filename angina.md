@@ -45,6 +45,7 @@ See ![[difference in cardiac condition treatments]]
 ---
 # Management in Primary Care
 ## Angina – GP Assessment and Management
+Based on [NICE CG95 – Recent-onset chest pain](https://www.nice.org.uk/guidance/cg95/chapter/recommendations).
 ### 1. Suspected Stable Angina
 - **GTN sublingual spray** for symptomatic relief.
 - Chest pain relieved by GTN or rest within approximately 5 minutes supports an anginal pattern, but **GTN response alone does not confirm angina or exclude ACS**.
@@ -57,3 +58,4 @@ See ![[difference in cardiac condition treatments]]
 - If pain has resolved, urgent same-day hospital assessment may still be required depending on the timing of symptoms and ECG findings. 
 
 **Key point:** Suspected stable angina → GTN + ECG + chest pain clinic referral. Suspected ACS → emergency or urgent same-day hospital assessment, depending on presentation.
+
