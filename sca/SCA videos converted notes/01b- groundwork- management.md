@@ -34,22 +34,27 @@ Name the relevant possibilities and explain how you will clarify them. Do not in
 Find out what they already know and whether an explanation would help. Start with two or three plain-language sentences, then pause rather than giving a long lecture.
 > “It sounds like you've got something called a migraine. Is that something you've heard of? Would you like me to explain it in more detail?”
 
-If they understand already, move on. If they want more information, explain and check:
+If they understand already, move on. If they want more information, explain max 2-3 lines and check:
 > “Does that make sense? Is there a particular part you'd like me to go through again?”
 
-Let their response guide how much detail you give.
+Only explain if asked as not much marks in it. Also keep it 2-3 lines and max 60-90secs. 
 ### Step 3 — put the issues on the table
-**Name the main things that need addressing before going deeply into one of them.** This shows how the history has shaped your plan and helps agree priorities.
+✅**Name the main things that need addressing before going deeply into one of them.** This shows how the history has shaped your plan and helps agree priorities.
+
+Don't start off with treatment options first. (We can do this for your migraine, that for your migraine ❌), cuz then you'll get stuck in that conversation regardless of other issues. 
 
 An **issue** is what needs addressing; an **option** is one way of addressing it. For migraine, the issues might be treating attacks, work stress, an apparent trigger and a request for prevention. Different medicines are options within the first issue.
 
-| Source of the issue | What might need discussing | Example wording |
-|---|---|---|
-| Investigations | Home tests, practice tests or tests after referral/admission | “There are a couple of tests we need to discuss to help us understand what's happening.” |
-| Treatment | Self-care, symptom relief, medicines or procedures | “One thing we can talk about is how to treat your pain.” |
-| Referral | Specialist, community, psychological or practical support | “We need to discuss getting the right team involved.” |
-| Psychosocial history | Work, relationships, smoking, alcohol, support, driving or travel | “You mentioned difficulties at work. I'd like us to talk about how we can help with those.” |
-| ICE | Their explanation, fear, request or treatment preference | “You mentioned wanting a CT scan. We should discuss whether that would help and what the alternatives are.” |
+There are a few things here that we need to have a chat about. 
+
+| Source of the issue | What might need discussing | Example wording — migraine | Example wording — chest infection |
+|---|---|---|---|
+| Assessment / examination | Clinical examination and arranging assessment | — | “Firstly, I think we do need to assess you. We do need to examine you just to make sure this is in fact what we're dealing with. So I'd like to arrange you to come in later today, and I'll talk about how we can do that and we'll get that arranged.” |
+| Treatment | Self-care, symptom relief, medicines or procedures | “Firstly, we can treat Migraine. You have them quite often, so I'll talk about which medications we can give you to use at the time”<br><br>"You mentioned that drinking wine can make migraine worse. Wine is actually a really known trigger. Maybe we need to cut that down and see the impact."<br><br>"You did mention that you wanted some preventative medications, didn't you, for your migraines? You're probably not there just yet. There are some guidance around what we call prophylaxis, but we can talk about that. I know that's on your mind as well." | “Secondly, if it is a chest infection, I think we need to think about treatment. Potentially, some antibiotics might be necessary here. Again, we'll know more once we've examined you and seen you in the practice.” |
+| Psychosocial history | Work, relationships, smoking, alcohol, support, driving or travel | “You mentioned difficulties at work. I did notice links between when your stress got worse, and when your migraines got worse. Work issues are important and I've got a few ideas.” | “Thirdly, you mentioned that you smoke. When you come, I think it's important that we talk about that because smoking can lead to these things getting worse, and there's lots of support available if you'd like to talk about that.” |
+| Investigations | Home tests, practice tests or tests after referral/admission | “There are a couple of tests we need to discuss to help us understand what's happening.” | — |
+| Referral | Specialist, community, psychological or practical support | “We need to discuss getting the right team involved.” | — |
+| ICE | Their explanation, fear, request or treatment preference | “You mentioned wanting a CT scan. We should discuss whether that would help and what the alternatives are.” | “And finally, I know you're worried about going away, weren't you? We need to discuss that in terms of how we look at you over the next couple of weeks to make sure you're okay before you travel in four weeks.” |
 Bring back **their actual issues**. Do not recite all five categories in every consultation.
 
 Useful linking phrases:
