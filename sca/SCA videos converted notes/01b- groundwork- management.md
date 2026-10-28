@@ -88,7 +88,7 @@ The prevention request deserves discussion even if your assessment leads to reco
 ### Agree priority and review
 > “Was there one of those things you'd like to start with?”
 
-If a further review is needed:
+If a further review is needed -> Get the part about you following up with her early in your discussion as well. Even after the issues are all laid out. 
 > “We may not get through all of this today, so let's make a start and arrange to catch up to see how you're getting on.”
 
 Choose the review interval according to the clinical situation. The video's example uses a couple of weeks; it is not a fixed interval for every case.
@@ -116,14 +116,14 @@ Check the patient can attend and who can support them. If the clinical picture i
 ## Six possible consultation endpoints
 Think about the likely destination while gathering data; be ready to change it when new information appears.
 
-| Endpoint | What you need to make clear |
-|---|---|
-| Emergency transfer | Immediate help, safe transport, what to do while waiting and support for dependants |
-| Same-day hospital assessment | Why **today**, the appropriate team, how the patient will get there and what happens next |
-| Urgent referral | Reason, urgency, expected contact and action if symptoms worsen or no appointment arrives |
-| Routine referral | Purpose, likely next steps, interim care and review arrangements |
-| In-person primary-care assessment | When and why examination is needed, what will be assessed and what to do meanwhile |
-| Management on the call | An agreed treatment/self-care plan, understanding and appropriate follow-up or return advice |
+| Endpoint                                              | Examples from the slide                                    | What you need to make clear                                                                  |
+| ----------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Emergency admission<br>ie 999                         | • Current chest pain<br>• Meningitis<br>• Acute abdomen    | Immediate help, safe transport, what to do while waiting and support for dependants          |
+| Same day admission                                    | • Pyelonephritis<br>• Temporal arteritis with eye change   | Why **today**, the appropriate team, how the patient will get there and what happens next    |
+| Urgent clinic referral<br>(including 2-week referral) | • Suspected cancers<br>• Suspected cholesteatoma           | Reason, urgency, expected contact and action if symptoms worsen or no appointment arrives    |
+| Routine referral                                      | • Recurrent otitis media<br>• Considering knee replacement | Purpose, likely next steps, interim care and review arrangements                             |
+| GP appointment                                        | • Look in ear<br>• Assess rash                             | When and why examination is needed, what will be assessed and what to do meanwhile           |
+| Manage on the video call itself                       | • Mild depression<br>• Acne                                | An agreed treatment/self-care plan, understanding and appropriate follow-up or return advice |
 The destination is part of the plan, not the whole plan. Explain the reasoning, logistics and care needed while waiting.
 ## Follow-up and safety-netting
 ### Plan necessary follow-up early
