@@ -13,13 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sca/SCA videos converted notes/01b- groundwork- management.md",
+                "file": "sca/SCA videos converted notes/01c- groundwork- relating to others.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "01b- groundwork- management"
+              "title": "01c- groundwork- relating to others"
+            }
+          },
+          {
+            "id": "f2a49a90ae2f7f32",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.rcgp.org.uk/mrcgp-exams/simulated-consultation-assessment/toolkit-relating-others#8SharesAndUsesICEInPlan-hhybot67",
+                "title": "SCA toolkit: Relating to others",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "SCA toolkit: Relating to others"
             }
           }
         ]
@@ -104,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sca/SCA videos converted notes/01b- groundwork- management.md",
+                "file": "sca/SCA videos converted notes/01c- groundwork- relating to others.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -244,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sca/SCA videos converted notes/01b- groundwork- management.md",
+                "file": "sca/SCA videos converted notes/01c- groundwork- relating to others.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,9 +290,17 @@
   },
   "active": "3bab0649a385eef0",
   "lastOpenFiles": [
-    "migraine.md",
+    "Codex/backups/2026-10-28/01c- groundwork- relating to others.txt",
     "sca/SCA videos converted notes/01b- groundwork- management.md",
     "sca/SCA videos converted notes/01a- data gathering.md",
+    "Codex/backups/2026-10-28/00 - SCA notes index.before-01c-link.txt",
+    "Codex/backups/2026-10-28/01c- groundwork- relating to others.before-formatting.txt",
+    "sca/SCA videos converted notes/01c- groundwork- relating to others.md",
+    "Codex/backups/2026-10-28/01b- groundwork- management.before-consolidation.txt",
+    "Codex/backups/2026-10-28/01b- groundwork- management.before-consolidation.md",
+    "Codex/backups/2026-10-28",
+    "Codex/backups",
+    "migraine.md",
     "sca/SCA videos converted notes/02 - Consultation settings and challenging scenarios.md",
     "angina.md",
     "calcium channel blockers.md",
@@ -300,9 +322,6 @@
     "sca/SCA videos converted notes/Neurology.md",
     "sca/SCA videos converted notes/Obstetrics.md",
     "sca/SCA videos converted notes/Ophthalmology.md",
-    "sca/SCA videos converted notes/Haematology.md",
-    "sca/SCA videos converted notes/Palliative care.md",
-    "Codex/Initial medical notes review by AI.md",
     "sca/SCA videos converted notes",
     "Codex/attachments/2026-10-19 SCA nocturnal cough marksheet.txt",
     "Codex/attachments/2026-10-19 SCA nocturnal cough transcript.txt",
@@ -310,12 +329,7 @@
     "flow charts/Untitled.canvas",
     "attachments/IMG_20261013_102735_110.jpg",
     "AI generated",
-    "Codex/attachments",
-    "Codex",
-    "housekeeping/memorise.base",
-    "Untitled.base",
     "attachments/knee orthopaedic pathologies.png",
-    "attachments/videos/lennox gestaut.mp4",
     "attachments/moon face & facial plethora.jpg",
     "attachments/cutaneous supply hand.jpg",
     "attachments/Gray812and814.svg",

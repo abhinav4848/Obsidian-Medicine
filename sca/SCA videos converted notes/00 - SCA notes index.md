@@ -7,13 +7,14 @@ created: 2026-10-25
 
 The notes focus on SCA assessment, clinical reasoning, explanations, shared plans, safety-netting and practical context. Promotional material and repeated teaching commentary have been removed. Current guidance is linked beside relevant clinical decisions.
 ## Find a topic
-Detailed groundwork notes: [[01a- data gathering]] · [[01b- groundwork- management]].
+Detailed groundwork notes: [[01a- data gathering]] · [[01b- groundwork- management]] · [[01c- groundwork- relating to others]].
 
 Use this table to find the right file. Open a note for its section links, or use the video TOC below to locate a chapter in the original video.
 
 | Note | Topics covered | Videos |
 |---|---|---|
 | [[01 - SCA consultation skills]] | Exam and preparation; Open and focus; Three areas to explore; Relevant background; Diagnosis and explanation; Management; Relating to others; Closing and recovery when stuck | 1–5 |
+| [[01c- groundwork- relating to others]] | Opening and listening; Reasoning, relevance and reflection; Emotion and swapping chairs; Nonverbal and verbal cues; Patient involvement in management; Two-way conversation | 5 |
 | [[02 - Consultation settings and challenging scenarios]] | Telephone and video; Angry patient; Embarrassed or hesitant patient; Disengaged patient; Demands for tests, referrals or treatment; Refusing recommended care; Bad news and abnormal results; Multiple problems; Very talkative patient; Behaviour change; Medicines not taken as prescribed; Emergency and admission; Urgent referral; Relative or carer; Colleague discussion | 6–10 |
 | [[CVS]] | Consultation framework; Primary prevention; Chest pain and suspected ACS; Post-MI review; Stable angina; Palpitations; AF and atrial flutter; Heart failure; Hypertension; Cardiomyopathy, pericarditis and endocarditis; PAD and limb ischaemia; DVT and swollen legs; Varicose veins; Abdominal aortic aneurysm; Medicines counselling and monitoring | 11–15 |
 | [[Dermatology]] | Rash and itch — consultation structure; Acne; Atopic eczema; Psoriasis; Pigment conditions; Ulcers; Cellulitis and impetigo; Fungal skin and nail infection; Blisters, nodules and lumps; Skin cancer and changing lesions; Hair loss and infestations; Lyme disease | 16–18 |
@@ -102,6 +103,7 @@ Chapter titles and timestamps from the supplied Telegram contents. Each group li
 - **0:21:16** — SCA Case End Points
 - **0:23:44** — Common Management Queries
 #### 5. Groundwork- Relating to Others
+**Detailed notes:** [[01c- groundwork- relating to others]]
 - **0:00:00** — Relating to Other
 - **0:01:10** — RTO - Data Gathering
 - **0:09:02** — RTO - Management

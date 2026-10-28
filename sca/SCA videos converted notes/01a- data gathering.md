@@ -141,10 +141,10 @@ Even for a condition which is already known to the patient, say Migraine and the
 ### Example 1:  Low Back Pain
 **Idea**: So mister X, you've had this back pain now for a while, it seems like. What were your thoughts about all of this? What was going through your mind? 
 - *Patient*: I don't know, doctor. I do a lot of lifting at work and probably pulled a muscle, to be honest.
-- *Reply*: Fair enough. You know what... we see Muscle pulls of backs all the time is really common, and I can see why you think that. But, obviously, this is affecting you to the point that it's come... You come to see us about this. What was particularly worrying you about all of this?
+- *Reply*: Fair enough. You know what... we see Muscle pulls of backs all the time is really common, and I can see why you think that. But, obviously, this is affecting you to the point that You've come to see us about this. What was particularly worrying you about all of this?
 
 **Concern**: 
-- *Patient*: Yeah. I do a lot of lifting at work, doc. And what if I if I can't lift? I don't wanna lose my job. Like, I'm really stressed about losing my job. 
+- *Patient*: Yeah. I do a lot of lifting at work, doc. And what if I can't lift? I don't wanna lose my job. I'm really stressed about losing my job. 
 - *Reply*: You know what? Fair enough. That sounds very reasonable. Obviously, work is important. We'll talk about your work in a bit of detail. Maybe there's ways that we can help. Promise we'll talk about that. Now, obviously, you've come here. You've tried medication. You've tried some stretching and things. Was there anything particular that you thought we could do when you came here today? 
 
 **Expectation**: 
