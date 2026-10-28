@@ -80,7 +80,11 @@ Explain **why** this comes first, explore barriers and agree the practical arran
 ### Diagnosis and offer of explanation
 > “From the pattern you've described, this sounds like migraine. Is that something you know about, or would it help if I explained it briefly?”
 ### Put all four issues on the table
-> “There are a few things I think we should talk about. Firstly, how to treat the migraines when they happen. Secondly, you mentioned that work has become stressful, and the headaches seem to have become more frequent around the same time. Thirdly, you've noticed a link with drinking wine, so we could look at that trigger. And fourthly, I know you wanted to discuss treatment to prevent the attacks.”
+> “There are a few things I think we should talk about. 
+> - Firstly, how to treat the migraines when they happen. 
+> - Secondly, you mentioned that work has become stressful, and the headaches seem to have become more frequent around the same time. 
+> - Thirdly, you've noticed a link with drinking wine, so we could look at that trigger. 
+> - And fourthly, I know you wanted to discuss treatment to prevent the attacks.”
 ### Address the request without deciding too early
 > “Preventative treatment is something we can discuss. Whether it's the best next step depends on how often the attacks happen, their impact and the treatments you've already tried.”
 
