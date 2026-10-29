@@ -43,7 +43,10 @@ Pap smear- Aim is to detect pre-malignant changes rather than actual cancer. Aro
 ##### Age Range
 - 25-64yo: every 5 years. 
 	- *The guidelines changed in July 2025. Previously younger women were offered screening every 3 years but the success of HPV testing has extended this period. i.e. Now that we're testing for actual HPV and not just looking at cells, we can call every 5 years.* 
-- cervical screening cannot be offered to women over 64 (unlike breast screening, where patients can self-refer once past screening age)
+- cervical screening cannot be offered to women over 64 (unlike breast or bowel screening, where patients can self-refer once past screening age).
+	- Exceptions to this are if a patient has never had a test or have not had a test since age 50, when a one-off test can be submitted. 
+	- This is because cervical cancer is unlikely to develop after this age if previous smears have been normal, as it takes years for the premalignant changes that cervical screening is testing for to develop into cancer.
+- Screening is by definition for detecting asymptomatic cases. Patients with symptoms of cervical cancer should be referred for colposcopy. 
 
 Attend your screening regardless of sexual activity. 
 MCC of not doing it is worry of pain, too embarrassed to go, bad experience in the past, worried a man may be doing it. 

@@ -13,27 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drugs contraindicated in pregnancy.md",
+                "file": "interstitial lung disease vs pneumonitis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "drugs contraindicated in pregnancy"
-            }
-          },
-          {
-            "id": "f2a49a90ae2f7f32",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.rcgp.org.uk/mrcgp-exams/simulated-consultation-assessment/toolkit-relating-others#8SharesAndUsesICEInPlan-hhybot67",
-                "title": "SCA toolkit: Relating to others",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "SCA toolkit: Relating to others"
+              "title": "interstitial lung disease vs pneumonitis"
             }
           }
         ]
@@ -71,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pregnant",
+                "query": "cervical scr",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -119,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "drugs contraindicated in pregnancy.md",
+                "file": "interstitial lung disease vs pneumonitis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -259,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drugs contraindicated in pregnancy.md",
+                "file": "interstitial lung disease vs pneumonitis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,9 +277,12 @@
   },
   "active": "3bab0649a385eef0",
   "lastOpenFiles": [
+    "systemic sclerosis.md",
+    "drugs contraindicated in pregnancy.md",
+    "cancer- screening programs.md",
+    "flow charts/cervical cancer screening pathway.canvas",
     "Codex/backups/2026-10-29/drugs contraindicated in pregnancy.txt",
     "Codex/backups/2026-10-29/drugs contraindicated in pregnancy.before-antibiotics-section.txt",
-    "drugs contraindicated in pregnancy.md",
     "Codex/backups/2026-10-29/before-02-labelled-example-expansion/Obsidian note preferences.txt",
     "Codex/backups/2026-10-29/before-02-labelled-example-expansion/02 - Consultation settings and challenging scenarios.txt",
     "Codex/backups/2026-10-29/before-02-labelled-example-expansion",
@@ -304,7 +293,6 @@
     "Codex/backups/2026-10-29/before-02-question-list-revision/Obsidian note preferences.txt",
     "Codex/backups/2026-10-29/before-02-question-list-revision/Palliative care.txt",
     "Codex/backups/2026-10-29/before-02-question-list-revision/Breast disease.txt",
-    "Codex/backups/2026-10-29/before-02-question-list-revision/02 - Consultation settings and challenging scenarios.txt",
     "sca/SCA videos converted notes/00 - SCA notes index.md",
     "sca/SCA videos converted notes/01b- groundwork- management.md",
     "sca/SCA videos converted notes/01a- data gathering.md",
@@ -327,7 +315,6 @@
     "sca/SCA videos converted notes/Sexual health.md",
     "sca/SCA videos converted notes/Substance misuse.md",
     "sca/SCA videos converted notes/Neurology.md",
-    "sca/SCA videos converted notes/Obstetrics.md",
     "flow charts/Untitled.canvas",
     "attachments/IMG_20261013_102735_110.jpg",
     "attachments/knee orthopaedic pathologies.png",
@@ -342,7 +329,6 @@
     "attachments/actinic keratosis on ear.jpg",
     "flow charts/h. pylori treatment flowchart.canvas",
     "flow charts/paeds examination.canvas",
-    "flow charts/cervical cancer screening pathway.canvas",
     "flow charts/prostaglandins and leukotrienes.canvas",
     "flow charts/haematuria.canvas",
     "flow charts/chicken pox treatment flowchart (work in progress).canvas",
