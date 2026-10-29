@@ -8,7 +8,6 @@ It's a [[rheumatoid arthritis|DMARD]]- [[rheumatoid arthritis]], [[psoriasis]], 
 
 The drug is taken weekly. Not daily.
 Patients also take [[folic acid]] acid on a different day of the week than MTX
-
 ## Monitoring
 Repeat these weekly till therapy stabilised, then every 2-3 months. 
 - FBC (It's an [[folic acid|anti-folate]]), 
@@ -26,6 +25,7 @@ Repeat these weekly till therapy stabilised, then every 2-3 months.
 ## Interactions
 - 🚩avoid prescribing [[trimethoprim]] or [[co-trimoxazole]] concurrently - increases risk of marrow aplasia
 - high-dose aspirin increases the risk of methotrexate toxicity secondary to reduced excretion
+- If having an infection, advice is to stop methotrexate till recovered. 
 ## Toxicity
 Methotrexate toxicity: Treatment of choice is Folinic acid
 # Pregnancy

@@ -22,6 +22,41 @@ History of GI disease/malabsorption syndromes, including [[inflammatory bowel di
 	1. following a fragility fracture in women ≥ 75 years, a DEXA scan is not necessary to diagnose osteoporosis and hence commence a bisphosphonate
 	2. BMD should be measured, but this acts as a baseline rather than determining whether treatment should be given
 4. **Other culprit drugs**: PPIs, [[diabetes drugs|Glitazones]], SSRIs, Antiepileptics, Long term Heparin, [[cancer- breast (treatment)|aromatase inhibitors]]: Anastrozole (prevents formation of Oestrogen), s/e of [[hypothyroidism|levothyroxine]]
+
+> [!NOTE]- Investigations for secondary causes
+> If a patient is diagnosed with osteoporosis or has a fragility fracture further investigations may be warranted. NOGG recommend testing for the following reasons:  
+> - exclude diseases that mimic osteoporosis (e.g. osteomalacia, myeloma);
+> - identify the cause of osteoporosis and contributory factors;
+> - assess the risk of subsequent fractures;
+> - select the most appropriate form of treatment
+>   
+> The following investigations are recommended by NOGG:  
+> - History and physical examination
+> - Blood cell count, sedimentation rate or C-reactive protein, serum calcium, albumin, creatinine, phosphate, alkaline phosphatase and liver transaminases  
+> - Thyroid function tests
+> - Bone densitometry ( DXA)
+>   
+> Other procedures, if indicated  
+> - Lateral radiographs of lumbar and thoracic spine/DXA-based vertebral imaging
+> - Protein immunoelectrophoresis and urinary Bence-Jones proteins
+> - 25OHD
+> - PTH
+> - Serum testosterone, SHBG, FSH, LH (in men),
+> - Serum prolactin
+> - 24 hour urinary cortisol/dexamethasone suppression test
+> - Endomysial and/or tissue transglutaminase antibodies (coeliac disease)
+> - Isotope bone scan
+> - Markers of bone turnover, when available
+> - Urinary calcium excretion
+>   
+> So from the first list we should order the following bloods as a minimum for all patients:  
+> - full blood count
+> - urea and electrolytes
+> - liver function tests
+> - bone profile
+> - CRP
+> - thyroid function tests
+
 # How to calculate Osteoporosis
 If no h/o #, use Fracture risk assessment tool. #named 
 If h/o # or risk assessment (Q-fracture/[FRAX](https://www.sheffield.ac.uk/FRAX/)) > 10%, use DEXA (to obtain the T-score aka bone density). 

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interstitial lung disease vs pneumonitis.md",
+                "file": "osteoporosis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "interstitial lung disease vs pneumonitis"
+              "title": "osteoporosis"
             }
           }
         ]
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cervical scr",
+                "query": "osteoporo",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "interstitial lung disease vs pneumonitis.md",
+                "file": "osteoporosis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interstitial lung disease vs pneumonitis.md",
+                "file": "osteoporosis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,8 +277,18 @@
   },
   "active": "3bab0649a385eef0",
   "lastOpenFiles": [
+    "diabetes drugs.md",
+    "osteoporosis.md",
     "systemic sclerosis.md",
+    "attachments/calcinosis cutis- of thumb.png",
+    "vascular ulcers.md",
+    "eczema.md",
     "drugs contraindicated in pregnancy.md",
+    "tuberculosis.md",
+    "nitrofurantoin.md",
+    "interstitial lung disease vs pneumonitis.md",
+    "methotrexate.md",
+    "leflunomide.md",
     "cancer- screening programs.md",
     "flow charts/cervical cancer screening pathway.canvas",
     "Codex/backups/2026-10-29/drugs contraindicated in pregnancy.txt",
@@ -306,15 +316,6 @@
     "Codex/Obsidian note preferences.md",
     "AGENTS.md",
     "sca/SCA videos converted notes/01 - SCA consultation skills.md",
-    "sca/sca- consultation keys.md",
-    "sca/SCA mock exam framework.md",
-    "sca/SCA videos converted notes/Mental health.md",
-    "sca/SCA videos converted notes/Miscellaneous.md",
-    "sca/SCA videos converted notes/MSK.md",
-    "sca/SCA videos converted notes/CVS.md",
-    "sca/SCA videos converted notes/Sexual health.md",
-    "sca/SCA videos converted notes/Substance misuse.md",
-    "sca/SCA videos converted notes/Neurology.md",
     "flow charts/Untitled.canvas",
     "attachments/IMG_20261013_102735_110.jpg",
     "attachments/knee orthopaedic pathologies.png",
@@ -326,7 +327,6 @@
     "attachments/uv damaged skin.jpg",
     "attachments/melasma.jpg",
     "flow charts/postpartum cocp for contraception.canvas",
-    "attachments/actinic keratosis on ear.jpg",
     "flow charts/h. pylori treatment flowchart.canvas",
     "flow charts/paeds examination.canvas",
     "flow charts/prostaglandins and leukotrienes.canvas",
