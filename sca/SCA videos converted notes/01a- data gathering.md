@@ -44,7 +44,7 @@ h/o Asthma: have you been admitted to hospital before? Have you ever been given 
 
 Don't do "MCJThreads": MI, Cancer, Jaundice, HTN, Rheumatic fever, epilepsy, asthma, diabetes, stroke.
 # Drug History
-Mr. x, looking at the notes, I can see from my notes that you take so and so meds... Is that right? 
+Mr. X, looking at the notes, I can see from my notes that you take so and so meds... Is that right? 
 Are you prescribed any regular medications? 
 Do you always take these? (compliance issues)
 
@@ -139,7 +139,7 @@ Even for a condition which is already known to the patient, say Migraine and the
 
 ## Reflection on the ICE
 ### Example 1:  Low Back Pain
-**Idea**: So mister X, you've had this back pain now for a while, it seems like. What were your thoughts about all of this? What was going through your mind? 
+**Idea**: So Mr. X, you've had this back pain now for a while, it seems like. What were your thoughts about all of this? What was going through your mind? 
 - *Patient*: I don't know, doctor. I do a lot of lifting at work and probably pulled a muscle, to be honest.
 - *Reply*: Fair enough. You know what... we see Muscle pulls of backs all the time is really common, and I can see why you think that. But, obviously, this is affecting you to the point that You've come to see us about this. What was particularly worrying you about all of this?
 
@@ -153,7 +153,7 @@ Even for a condition which is already known to the patient, say Migraine and the
 
 Just reflecting that, yeah, I get why that comes from. I can see where that comes from. Yeah. That makes sense now. Maybe we can help with that. That's a really good thing to talk about. We'll talk about that later.  
 ### Example 2: Depression
-**Idea**: Now, Mr x, you've obviously felt low for a while now. What what were your thoughts about all of this? Why do you think this is all happening? 
+**Idea**: Now, Mr. X, you've obviously felt low for a while now. What what were your thoughts about all of this? Why do you think this is all happening? 
 - *Patient*: I don't know, doctor. I've I've just got too much stress. Like I said, work's crazy, and I think it's just the work getting on top of me, to be honest. I think I'm just getting too stressed.
 - *Reply*: Fair enough. Stress is a big thing, an important thing, and maybe that's linked. And we will talk about your work and how we might be able to help you with that. But, obviously, you've come to see us about this. Was there anything particularly worrying you about all of this?
 
@@ -188,13 +188,13 @@ I noticed from a letter that it showed that you had this particular finding. The
 Sometimes when you talk about a management plan, you're going to be saying things like, *I think we need to get you in at some point to do an examination. What I'd like to do is this, this, and this*. 
 
 Use examination findings historically. The data you read/gather from the notes will have use. Show that you've read it. e.g. Specialist letter, practice nurse data from yesterday... With the given data... you might get things to bring on: 
-Mr X, I know that you came in yesterday. I know that your blood pressure was normal. I know that your heart rate was fine, but I noticed that your BMI was slightly higher than it was a few years ago.
+Mr. X, I know that you came in yesterday. I know that your blood pressure was normal. I know that your heart rate was fine, but I noticed that your BMI was slightly higher than it was a few years ago.
 # Investigation
 There might be historical findings on notes. 
-> Mr x, I noticed one year ago that your liver function test blood results were normal. It'd be interesting to see what they show now. 
+> Mr. X, I noticed one year ago that your liver function test blood results were normal. It'd be interesting to see what they show now. 
 
 Investigation findings that are recent. You might see a week ago, someone dropped in a urine sample and an MSU result came back negative. Again, gathering the data and letting it influence your management plan.
-> Now Mr X, thank you firstly for sending that urine sample in last week. The results have come back normal, so that does change a little bit about what we think about going forward. 
+> Now Mr. X, thank you firstly for sending that urine sample in last week. The results have come back normal, so that does change a little bit about what we think about going forward. 
 
 There might be an MRI knee for example, there might be a CT head result. Again, you're gathering that data and using as part of your overall assessment terms of taking your management plan forward. Might even have a letter from a clinic and again there might be some investigation findings there as well. e.g. Mr. Y's biopsy showed a likely malignancy. This is obviously setting up for a breaking bad news case.
 ### When should we give the results? 
@@ -202,10 +202,10 @@ Don't give results early if they're not pressurising.
 When we give results early, patients are going to have questions and you haven't done your full data gathering yet. So you don't really know how to answer those questions properly and that can be quite problematic. 
 
 Verbalize that you've got results early on. E.g. Someone's blood tests have come back, and your job is now to take this story forward. Acknowledge that you have the blood test. 
-*Mr X, I can see that you came in last week. I can see that you got some blood tests done. I do have the results here, and we can go through those. But do mind if I ask you a couple of questions first just to understand the story and make sure we're on the right track?* Most of the times, if you're open about the fact that you've got results, but you'd like to ask a few questions first, most people are like, yeah. That's fine, doctor.
+*Mr. X, I can see that you came in last week. I can see that you got some blood tests done. I do have the results here, and we can go through those. But do mind if I ask you a couple of questions first just to understand the story and make sure we're on the right track?* Most of the times, if you're open about the fact that you've got results, but you'd like to ask a few questions first, most people are like, yeah. That's fine, doctor.
 
 Then once you do your data gathering, that gives you a much better baseline to be able to give those results in the second half and talk about the implications. 
-Of course, there are gonna be some cases where they're pushing for the results. "Yeah, doctor. I've I've been through all these questions. Just what did the results show? I'm really stressed. Or doctor, come on. Why are taking so long? Just tell me what did the X-ray showed. Then you have to adapt, of course. That's just being able to be flexible. *Look, Mr X, I can see that you're really keen to get these results. Normally, we ask a few questions first, but I can see you're really worried. Let's talk about the results now.* 
+Of course, there are gonna be some cases where they're pushing for the results. "Yeah, doctor. I've I've been through all these questions. Just what did the results show? I'm really stressed. Or doctor, come on. Why are taking so long? Just tell me what did the X-ray showed. Then you have to adapt, of course. That's just being able to be flexible. *Look, Mr. X, I can see that you're really keen to get these results. Normally, we ask a few questions first, but I can see you're really worried. Let's talk about the results now.* 
 
 But just an important point, when you do get investigations given to you, don't feel like you need to give them at the beginning, but you do need to verbalize that you've got them, and then they'll come out in the second half.
 # Diagnosis
