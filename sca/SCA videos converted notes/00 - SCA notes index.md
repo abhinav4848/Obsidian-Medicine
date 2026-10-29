@@ -709,7 +709,7 @@ Chapter titles and timestamps from the supplied Telegram contents. Each group li
 - **0:09:41** — Learning Difficulty Case
 - **0:16:06** — Ethical Case
 ## Consultation phrases
-Every topic note has an **Example consultation phrases** section. The wording adapts the spoken examples and teaching explanations for practice, with repeated versions combined. **V32, 18:24**, for example, means video 32 at 18 minutes 24 seconds. Use the clinical assessment to decide which wording fits.
+Consultation examples are included in the relevant notes, with repeated versions combined. Use the clinical assessment to decide which wording fits.
 ## Image review
 There are **55 possible image-review callouts**, each showing the original video, a timestamp range and a short spoken cue. Look under **Images to review** in the relevant topic note. Some cues describe a possible exam image; review the video frame before adding a screenshot.
 

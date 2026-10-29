@@ -22,10 +22,10 @@ source_videos: [3, 4]
 - Have I explained my reasoning and the uncertainty clearly?
 - Do I sound confident about the **next step**, even when the diagnosis is uncertain?
 
-**When the diagnosis is supported (video 3):**
+**When the diagnosis is supported:**
 > “Now Mr. X putting everything together, listening to the story, I think you have depression.”
 
-**When it remains uncertain (video 3):**
+**When it remains uncertain:**
 > “Mr. X, I'll be honest, I'm not a 100% sure what's going on right now, but a few things are going through my mind. X, y, zed.”
 
 Name the relevant possibilities and explain how you will clarify them. Do not invent certainty to sound confident.
@@ -83,7 +83,7 @@ When review matters, **include it after outlining the issues rather than hoping 
 
 Specify when, with whom and why. A routine extra appointment is not necessary for every problem.
 ### Tailor the safety net
-**When:** the presentation could worsen before the planned assessment or review and require earlier action. Safety-netting is not an automatic list of warning symptoms for every case; the transcript contrasts acute illness with longstanding knee OA or erectile dysfunction.
+**When:** the presentation could worsen before the planned assessment or review and require earlier action. Safety-netting is not an automatic list of warning symptoms for every case; distinguish acute illness from longstanding knee OA or erectile dysfunction.
 #### Make it an issue in itself
 > “But if you do feel like you need to safety net somebody, then it's big enough to be an issue in itself. So when you put the issues on the table, bring it in at that point. Again, don't leave it as a thing that I'll do it at the end just before the bell goes, and then the bell goes and you haven't done it.”
 

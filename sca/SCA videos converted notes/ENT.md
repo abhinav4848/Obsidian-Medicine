@@ -72,23 +72,23 @@ After nasal trauma assess other facial/head injuries, obstruction and **septal h
 ## Head and neck cancer prompts
 Persistent unexplained neck lump; persistent unexplained hoarseness in the relevant age group; oral ulcer lasting >3 weeks; concerning oral patches/lumps, unilateral obstruction/bleeding or unexplained otalgia with normal ear examination. Explain suspected-cancer referral and follow-up rather than promising a universal appointment date.
 ## Example consultation phrases
-- **Ear pain:** “Where exactly do you feel the pain—on the outside of the ear or further into the canal?” (V23, 00:55)
-- **Otitis externa:** “This means inflammation or infection of the outer part of the ear, including the ear canal where you're feeling the pain.” (V23, 07:34)
-- **Otitis media:** “It's inflammation or infection in the middle part of the ear, behind the eardrum. It can be caused by a virus or by bacteria.” (V23, 13:03)
-- **Glue ear:** “There's fluid collecting in the middle ear, but it isn't the same as an acute ear infection.” (V23, 17:52)
-- **Grommets:** “These small tubes help ventilate the middle ear. They usually come out by themselves; the ENT team will explain the follow-up.” (V23, 20:49)
-- **Simple hearing test:** “I'll stand behind you, mask the sound in one ear and whisper into the other.” (V24, 07:31)
-- **Rinne test:** “I'll place this vibrating tuning fork behind the ear, then in front of it. Please tell me when and where you hear the sound.” (V24, 08:08)
-- **Weber test:** “I'll put the vibrating tuning fork in the middle of your forehead. Do you hear it more loudly on one side?” (V24, 09:26)
-- **Audiometry:** “You'll wear headphones and hear sounds at different pitches and volumes. You press a button whenever you hear one, and the results are plotted on a graph.” (V24, 11:10)
-- **Dizziness:** “People can mean different things by dizziness. Could you explain what it feels like for you? Is there a spinning sensation?” (V24, 18:45)
-- **BPPV by breaking down the name:** “Positional means it happens when you move your head; paroxysmal means it comes and goes; vertigo means the spinning sensation. Benign means this particular condition isn't caused by a dangerous process.” Use after appropriate assessment, without dismissing disabling symptoms. (V24, 27:38)
-- **Position triggers:** “Does it happen when you roll over in bed, look up or turn your head?” (V24, 28:24)
-- **Dix–Hallpike:** “We'll turn your head and help you lie back while watching your eyes. This can bring on the spinning briefly and help us identify the cause.” Check suitability first. (V24, 28:54)
-- **Epley:** “A sequence of head movements can help reposition particles in the inner ear.” (V24, 29:58)
-- **Nosebleed first aid:** “Sit upright and lean forward with your mouth open. Pinch the soft part of the nose continuously for 10–15 minutes.” Follow with the escalation advice in the clinical section. (V25, 25:42)
-- **Persistent nosebleed:** “The hospital team may seal the bleeding point or use a pack to apply pressure if it won't stop.” (V25, 26:06)
-- **Rhinitis triggers:** “Can I ask about things that make it worse—for example, being around particular grasses or trees?” (V25, 31:28)
+- **Ear pain:** “Where exactly do you feel the pain—on the outside of the ear or further into the canal?”
+- **Otitis externa:** “This means inflammation or infection of the outer part of the ear, including the ear canal where you're feeling the pain.”
+- **Otitis media:** “It's inflammation or infection in the middle part of the ear, behind the eardrum. It can be caused by a virus or by bacteria.”
+- **Glue ear:** “There's fluid collecting in the middle ear, but it isn't the same as an acute ear infection.”
+- **Grommets:** “These small tubes help ventilate the middle ear. They usually come out by themselves; the ENT team will explain the follow-up.”
+- **Simple hearing test:** “I'll stand behind you, mask the sound in one ear and whisper into the other.”
+- **Rinne test:** “I'll place this vibrating tuning fork behind the ear, then in front of it. Please tell me when and where you hear the sound.”
+- **Weber test:** “I'll put the vibrating tuning fork in the middle of your forehead. Do you hear it more loudly on one side?”
+- **Audiometry:** “You'll wear headphones and hear sounds at different pitches and volumes. You press a button whenever you hear one, and the results are plotted on a graph.”
+- **Dizziness:** “People can mean different things by dizziness. Could you explain what it feels like for you? Is there a spinning sensation?”
+- **BPPV by breaking down the name:** “Positional means it happens when you move your head; paroxysmal means it comes and goes; vertigo means the spinning sensation. Benign means this particular condition isn't caused by a dangerous process.” Use after appropriate assessment, without dismissing disabling symptoms.
+- **Position triggers:** “Does it happen when you roll over in bed, look up or turn your head?”
+- **Dix–Hallpike:** “We'll turn your head and help you lie back while watching your eyes. This can bring on the spinning briefly and help us identify the cause.” Check suitability first.
+- **Epley:** “A sequence of head movements can help reposition particles in the inner ear.”
+- **Nosebleed first aid:** “Sit upright and lean forward with your mouth open. Pinch the soft part of the nose continuously for 10–15 minutes.” Follow with the escalation advice in the clinical section.
+- **Persistent nosebleed:** “The hospital team may seal the bleeding point or use a pack to apply pressure if it won't stop.”
+- **Rhinitis triggers:** “Can I ask about things that make it worse—for example, being around particular grasses or trees?”
 ## Images to review
 > [!todo] Possible missing image — review
 > **Video:** 25. ENT 3.mp4  

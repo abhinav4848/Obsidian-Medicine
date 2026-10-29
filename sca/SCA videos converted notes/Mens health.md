@@ -56,25 +56,25 @@ Blood in semen is often benign but assess recurrence, age/risk, haematuria, pain
 Explore informed independent choice, future fertility, relationships and pressure. Explain intended permanence, alternatives, small failure risk, bleeding/infection and chronic scrotal pain. It is not immediately effective: continue contraception until the service confirms clearance after semen testing. Reversal is uncertain and should not underpin the decision. Discuss what the procedure/recovery involves and referral logistics.
 ## Example consultation phrases
 ### Urine symptoms and prostate assessment
-- **BPH:** “As we get older, the prostate can become larger. It can press on the tube carrying urine from the bladder, which may explain the symptoms you've described.” (V36, 10:09)
-- **Why examine through the back passage:** “The prostate sits just in front of the back passage. Feeling it can help us assess its size and whether it feels smooth or irregular.” (V36, 10:45)
-- **Before PSA:** “There are a few things that can affect the result, so we may need to wait before doing the test. Let me check those with you.” (V36, 21:53)
-- **PSA explanation:** “It's a protein made by the prostate. The level can rise with several prostate conditions, including benign enlargement and cancer.” (V36, 18:09)
-- **Normal PSA:** “A normal result does not rule out prostate cancer completely.” (V36, 22:45)
-- **Prostatitis:** “It means inflammation, sometimes infection, of the prostate gland. That could be causing the symptoms you're describing.” (V36, 30:05)
+- **BPH:** “As we get older, the prostate can become larger. It can press on the tube carrying urine from the bladder, which may explain the symptoms you've described.”
+- **Why examine through the back passage:** “The prostate sits just in front of the back passage. Feeling it can help us assess its size and whether it feels smooth or irregular.”
+- **Before PSA:** “There are a few things that can affect the result, so we may need to wait before doing the test. Let me check those with you.”
+- **PSA explanation:** “It's a protein made by the prostate. The level can rise with several prostate conditions, including benign enlargement and cancer.”
+- **Normal PSA:** “A normal result does not rule out prostate cancer completely.”
+- **Prostatitis:** “It means inflammation, sometimes infection, of the prostate gland. That could be causing the symptoms you're describing.”
 ### Erections and medicine requests
-- **Identify the difficulty:** “Is the problem getting an erection, keeping it, or something else?” (V37, 00:15)
-- **Morning erections:** “This may seem a personal question, but do you still get erections in the morning?” (V37, 01:55)
-- **Masturbation:** “Do you have the same difficulty when you're on your own?” (V37, 02:04)
-- **Reflect preserved function:** “It's useful to know that erections still happen in those situations.” This is a clue, not proof that all physical causes are excluded. (V37, 02:22)
-- **Lifestyle link:** “Smoking, alcohol and recreational drugs can affect erections. Could I ask whether any of those are relevant for you?” (V37, 04:31)
-- **Safe prescribing:** “Before prescribing this, I need to check that it's safe for you to take.” Check nitrates and cardiovascular suitability explicitly. (V37, 08:14)
+- **Identify the difficulty:** “Is the problem getting an erection, keeping it, or something else?”
+- **Morning erections:** “This may seem a personal question, but do you still get erections in the morning?”
+- **Masturbation:** “Do you have the same difficulty when you're on your own?”
+- **Reflect preserved function:** “It's useful to know that erections still happen in those situations.” This is a clue, not proof that all physical causes are excluded.
+- **Lifestyle link:** “Smoking, alcohol and recreational drugs can affect erections. Could I ask whether any of those are relevant for you?”
+- **Safe prescribing:** “Before prescribing this, I need to check that it's safe for you to take.” Check nitrates and cardiovascular suitability explicitly.
 ### Scrotal conditions and vasectomy
-- **Hydrocele:** “There is extra fluid collecting around the testicle, which is causing the swelling.” (V37, 22:22)
-- **Varicocele:** “Some of the veins around the testicle are enlarged, allowing blood to pool there.” (V37, 19:54)
-- **Torsion:** “The cord supplying the testicle may have twisted, cutting off its blood supply. This needs emergency assessment because delay can damage the testicle.” (V37, 23:49)
-- **Likely treatment for torsion:** “If the team suspects torsion, they may need to operate quickly to untwist the cord and fix the testicle in place.” Do not delay urgent surgery to arrange routine imaging. (V37, 25:03)
-- **Vasectomy:** “The tubes carrying sperm are blocked, so sperm no longer enters the semen once the procedure has become effective.” Follow with the semen-testing and ongoing-contraception advice. (V37, 37:19)
+- **Hydrocele:** “There is extra fluid collecting around the testicle, which is causing the swelling.”
+- **Varicocele:** “Some of the veins around the testicle are enlarged, allowing blood to pool there.”
+- **Torsion:** “The cord supplying the testicle may have twisted, cutting off its blood supply. This needs emergency assessment because delay can damage the testicle.”
+- **Likely treatment for torsion:** “If the team suspects torsion, they may need to operate quickly to untwist the cord and fix the testicle in place.” Do not delay urgent surgery to arrange routine imaging.
+- **Vasectomy:** “The tubes carrying sperm are blocked, so sperm no longer enters the semen once the procedure has become effective.” Follow with the semen-testing and ongoing-contraception advice.
 ## Images to review
 > [!todo] Possible missing image — review
 > **Video:** 37. Men's Health 2.mp4  

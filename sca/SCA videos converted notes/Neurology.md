@@ -83,19 +83,19 @@ Trigeminal neuralgia: brief severe electric-shock facial pain triggered by touch
 ## Brain tumour concern
 Progressive subacute loss of central neurological function needs urgent investigation/referral; adult direct-access MRI (CT if unsuitable) and paediatric pathways differ. Seizures, raised ICP or acute deterioration may require emergency care. Explore fear and practical support while explaining what testing can establish.
 ## Example consultation phrases
-- **Headache examination:** “An examination can tell us a lot about a headache. I'd like to check your blood pressure, look at the back of your eyes and examine your nervous system.” (V40, 16:12)
-- **Medication-overuse headache:** “When painkillers are used very frequently, they can end up keeping headaches going. Headaches may temporarily worsen when we stop the overused medicine, so let's agree a supported plan.” (V40, 23:25–24:55)
-- **Stroke mechanisms:** “A stroke can happen when a blood vessel supplying the brain is blocked. Some strokes are caused by bleeding in the brain instead.” (V41, 14:39)
-- **Secondary prevention:** “These medicines help reduce the chance of another stroke. The choice depends on what caused your stroke and your other health risks.” (V41, 19:24)
-- **After stroke:** “How is your mood these days?” / “Now that you've had a stroke, we need to talk about driving. Has anyone discussed that with you?” (V41, 20:45–21:30)
-- **Recurrent TIA symptoms:** “You mentioned losing power in your leg yesterday. Has that, or any of the other symptoms we've discussed, happened on other occasions recently?” (V41, 25:02)
-- **Carotid operation:** “In some people, an operation to remove narrowing in the neck artery can reduce future stroke risk. We need imaging and a specialist assessment to see whether it would help you.” (V41, 26:08)
-- **Seizure:** “A seizure is a sudden burst of abnormal electrical activity in the brain. That seems to fit the symptoms your wife described.” (V41, 26:42; 38:17)
-- **Generalised versus focal:** “A generalised seizure involves networks on both sides of the brain. A focal seizure starts in one area.” (V41, 27:10)
-- **Tremor and fear of Parkinson's:** “I know you may be thinking about Parkinson's disease, but there are several possible causes of these symptoms.” (V42, 16:03)
-- **Parkinson's:** “It's a long-term condition affecting part of the brain, which can cause difficulties with movement and coordination as well as other symptoms.” (V42, 18:13)
-- **Falls support:** “Would you like me to speak with your daughter or son and explain what's happening?” (V42, 32:40)
-- **Neuropathy pattern:** “Apart from your hands and feet, is it affecting anywhere else?” / “There are several things that can cause this pattern, so we need to investigate the cause.” (V43, 02:14–02:34)
-- **Postural BP:** “I'd like to check how your blood pressure changes when you stand up.” (V43, 05:23)
-- **Myasthenia triggers:** “These symptoms can be worse with certain things. Has anything changed recently—for example, how tired you've been?” (V43, 17:56)
-- **EMG:** “This test looks at the electrical activity of the muscles.” (V43, 18:36)
+- **Headache examination:** “An examination can tell us a lot about a headache. I'd like to check your blood pressure, look at the back of your eyes and examine your nervous system.”
+- **Medication-overuse headache:** “When painkillers are used very frequently, they can end up keeping headaches going. Headaches may temporarily worsen when we stop the overused medicine, so let's agree a supported plan.”
+- **Stroke mechanisms:** “A stroke can happen when a blood vessel supplying the brain is blocked. Some strokes are caused by bleeding in the brain instead.”
+- **Secondary prevention:** “These medicines help reduce the chance of another stroke. The choice depends on what caused your stroke and your other health risks.”
+- **After stroke:** “How is your mood these days?” / “Now that you've had a stroke, we need to talk about driving. Has anyone discussed that with you?”
+- **Recurrent TIA symptoms:** “You mentioned losing power in your leg yesterday. Has that, or any of the other symptoms we've discussed, happened on other occasions recently?”
+- **Carotid operation:** “In some people, an operation to remove narrowing in the neck artery can reduce future stroke risk. We need imaging and a specialist assessment to see whether it would help you.”
+- **Seizure:** “A seizure is a sudden burst of abnormal electrical activity in the brain. That seems to fit the symptoms your wife described.”
+- **Generalised versus focal:** “A generalised seizure involves networks on both sides of the brain. A focal seizure starts in one area.”
+- **Tremor and fear of Parkinson's:** “I know you may be thinking about Parkinson's disease, but there are several possible causes of these symptoms.”
+- **Parkinson's:** “It's a long-term condition affecting part of the brain, which can cause difficulties with movement and coordination as well as other symptoms.”
+- **Falls support:** “Would you like me to speak with your daughter or son and explain what's happening?”
+- **Neuropathy pattern:** “Apart from your hands and feet, is it affecting anywhere else?” / “There are several things that can cause this pattern, so we need to investigate the cause.”
+- **Postural BP:** “I'd like to check how your blood pressure changes when you stand up.”
+- **Myasthenia triggers:** “These symptoms can be worse with certain things. Has anything changed recently—for example, how tired you've been?”
+- **EMG:** “This test looks at the electrical activity of the muscles.”

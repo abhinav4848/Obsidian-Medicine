@@ -42,18 +42,18 @@ Chronic widespread pain with fatigue, sleep and cognitive symptoms can fit a fib
 
 See [[Endocrine#Gout]] for gout and [[MSK]] for regional joint/spinal presentations.
 ## Example consultation phrases
-- **Pain and coping:** “When people have pain for a long time, they sometimes turn to alcohol or smoking to cope. Is that relevant for you?” (V61, 06:11)
-- **Osteoarthritis:** “The joint changes over time. Damage and the body's repair response can alter the joint's structure, which can lead to pain, stiffness or clicking.” (V61, 16:16)
-- **Impact:** “How is this affecting you at home? What about work?” (V61, 19:47)
-- **Mood:** “Living with pain can make people feel low. How has your mood been?” (V61, 20:11)
-- **Strengthening exercises:** “Strengthening the muscles around the knee can help support the joint and reduce the load on it.” (V61, 21:40)
-- **Complications:** “Could I ask a few questions to check for effects of this condition elsewhere in the body?” (V61, 34:53)
-- **Hydroxychloroquine question:** “Some medicines have more than one use. As well as treating malaria, this one can reduce immune-system inflammation in conditions such as rheumatoid arthritis.” (V61, 33:15)
-- **Osteoporosis:** “The bones have become less dense and less strong, making fractures more likely after a minor injury.” (V62, 06:53)
-- **Fragility fracture:** “It's a break after an injury that would not normally be expected to break a healthy bone—for example, a fall from standing height.” (V62, 07:43)
-- **DEXA:** “It's a scan that measures bone density and helps us assess bone strength and fracture risk.” (V62, 13:25)
-- **Osteopenia:** “Bone density is lower than the usual range, but not low enough to meet the scan definition of osteoporosis. Treatment decisions also depend on your fracture risk.” (V62, 15:19)
-- **Medicine review:** “If you get new heartburn, pain on swallowing or other significant symptoms, contact us so we can reassess the treatment.” (V62, 17:27)
+- **Pain and coping:** “When people have pain for a long time, they sometimes turn to alcohol or smoking to cope. Is that relevant for you?”
+- **Osteoarthritis:** “The joint changes over time. Damage and the body's repair response can alter the joint's structure, which can lead to pain, stiffness or clicking.”
+- **Impact:** “How is this affecting you at home? What about work?”
+- **Mood:** “Living with pain can make people feel low. How has your mood been?”
+- **Strengthening exercises:** “Strengthening the muscles around the knee can help support the joint and reduce the load on it.”
+- **Complications:** “Could I ask a few questions to check for effects of this condition elsewhere in the body?”
+- **Hydroxychloroquine question:** “Some medicines have more than one use. As well as treating malaria, this one can reduce immune-system inflammation in conditions such as rheumatoid arthritis.”
+- **Osteoporosis:** “The bones have become less dense and less strong, making fractures more likely after a minor injury.”
+- **Fragility fracture:** “It's a break after an injury that would not normally be expected to break a healthy bone—for example, a fall from standing height.”
+- **DEXA:** “It's a scan that measures bone density and helps us assess bone strength and fracture risk.”
+- **Osteopenia:** “Bone density is lower than the usual range, but not low enough to meet the scan definition of osteoporosis. Treatment decisions also depend on your fracture risk.”
+- **Medicine review:** “If you get new heartburn, pain on swallowing or other significant symptoms, contact us so we can reassess the treatment.”
 ## Images to review
 > [!todo] Possible missing image — review
 > **Video:** 61. Rheum 1.mp4  

@@ -100,21 +100,21 @@ A hot swollen joint needs consideration of septic arthritis; suspected infection
 
 Acute treatment: appropriate NSAID (with protection where indicated), colchicine or short oral corticosteroid, selected for comorbidity/interactions. Continue established urate-lowering treatment during a flare. Discuss long-term allopurinol/febuxostat where indicated; allopurinol is preferred with major CVD. Start low, titrate to target with monthly urate and prophylaxis as appropriate. Usually start 2–4 weeks after resolution; frequent flares can justify initiation during a flare. Target <360 micromol/L, consider <300 with tophi/chronic or frequent disease. Explain sustained therapy rather than taking allopurinol only when painful. [NICE NG219](https://www.nice.org.uk/guidance/ng219/chapter/Recommendations)
 ## Example consultation phrases
-- **Check both glucose extremes:** “Can I check whether you've been thirstier, passing more urine or losing weight unexpectedly?” / “Have you had symptoms that might mean the sugar is low, such as sweating, feeling shaky or drowsy?” (V19, 06:14–06:49)
-- **Understanding:** “What are your thoughts about diabetes?” / “What do you understand by a hypo or an HbA1c?” (V19, 11:01)
-- **Explore the meaning of a result:** “What are your thoughts about having a raised HbA1c?” (V19, 11:31)
-- **Diabetes:** “It means the level of sugar in the blood is higher than it should be.” (V19, 29:46)
-- **Type 1:** “The body's immune system has damaged the cells in the pancreas that normally make insulin, so we need to replace that insulin.” (V19, 15:17)
-- **Type 2:** “Your body isn't responding to insulin as efficiently as it should, and over time it may not make enough to meet its needs.” (V19, 01:22; 23:13)
-- **Prediabetes:** “Your sugar is higher than normal, but it isn't in the diabetes range. That means a higher risk of developing diabetes, so there are changes we can work on and checks we'll arrange.” (V19, 26:21)
-- **Education:** “Has anyone offered you a structured education programme to help with managing diabetes day to day?” (V19, 30:30)
-- **Foot care:** “Check your feet regularly, keep them clean, and use shoes that don't rub or break the skin. We can help if nail care is difficult.” (V19, 30:46)
-- **Explain a low TSH with an overactive thyroid:** “Think of the brain sending a message to the thyroid. Because the thyroid is already making too much hormone, the brain turns that message down, so the TSH result becomes low.” (V21, 07:47)
-- **Underactive thyroid:** “There are several reasons the thyroid can become underactive. Let's work out which is relevant to you.” (V21, 13:10)
-- **Parathyroid glands:** “These glands help control the balance of calcium and phosphate in the body.” (V22, 10:53)
-- **Cushing terminology:** “Cushing syndrome means the body has too much cortisol. Cushing disease is the particular form caused by a pituitary gland problem.” (V22, 16:51)
-- **Synacthen test:** “The test gives a signal that should make the adrenal glands produce more cortisol. The blood tests check whether they respond as expected.” (V22, 22:50)
-- **Gout assessment:** “Could I ask a few questions about factors that can contribute to gout?” (V22, 27:54)
+- **Check both glucose extremes:** “Can I check whether you've been thirstier, passing more urine or losing weight unexpectedly?” / “Have you had symptoms that might mean the sugar is low, such as sweating, feeling shaky or drowsy?”
+- **Understanding:** “What are your thoughts about diabetes?” / “What do you understand by a hypo or an HbA1c?”
+- **Explore the meaning of a result:** “What are your thoughts about having a raised HbA1c?”
+- **Diabetes:** “It means the level of sugar in the blood is higher than it should be.”
+- **Type 1:** “The body's immune system has damaged the cells in the pancreas that normally make insulin, so we need to replace that insulin.”
+- **Type 2:** “Your body isn't responding to insulin as efficiently as it should, and over time it may not make enough to meet its needs.”
+- **Prediabetes:** “Your sugar is higher than normal, but it isn't in the diabetes range. That means a higher risk of developing diabetes, so there are changes we can work on and checks we'll arrange.”
+- **Education:** “Has anyone offered you a structured education programme to help with managing diabetes day to day?”
+- **Foot care:** “Check your feet regularly, keep them clean, and use shoes that don't rub or break the skin. We can help if nail care is difficult.”
+- **Explain a low TSH with an overactive thyroid:** “Think of the brain sending a message to the thyroid. Because the thyroid is already making too much hormone, the brain turns that message down, so the TSH result becomes low.”
+- **Underactive thyroid:** “There are several reasons the thyroid can become underactive. Let's work out which is relevant to you.”
+- **Parathyroid glands:** “These glands help control the balance of calcium and phosphate in the body.”
+- **Cushing terminology:** “Cushing syndrome means the body has too much cortisol. Cushing disease is the particular form caused by a pituitary gland problem.”
+- **Synacthen test:** “The test gives a signal that should make the adrenal glands produce more cortisol. The blood tests check whether they respond as expected.”
+- **Gout assessment:** “Could I ask a few questions about factors that can contribute to gout?”
 ## Images to review
 > [!todo] Possible missing image — review
 > **Video:** 22. Endocrine 4.mp4  

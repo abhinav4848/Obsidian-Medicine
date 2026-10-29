@@ -64,7 +64,7 @@ Distinguish **risk assessment**, genetic counselling/testing and enhanced survei
 ## Breast screening discussion
 In England, routine invitations are generally every **3 years from age 50 up to the 71st birthday**; the first invitation may arrive between 50 and 53. People aged 71 or over can request screening. Explain benefits and limitations, including false positives, missed cancers and overdiagnosis. New symptoms need diagnostic assessment regardless of screening eligibility. [NHS screening invitations](https://www.nhs.uk/tests-and-treatments/breast-screening-mammogram/who-breast-screening-is-for/).
 ## Example consultation phrases
-- **Relevant family history:** “Sometimes breast problems can run in families. Has anyone in your family had breast problems of any kind?” Follow with the relationship, diagnosis and age. (V67, 02:56)
-- **Explain assessment:** “I'd like to examine the lump and the rest of the breast, including the glands under the arm. That helps us work out what assessment is needed next.” (V67, 05:42)
-- **Abscess drainage:** “The team may use ultrasound to find the collection and guide drainage of the pus.” (V67, 17:39)
-- For a suspicious lump, use the uncertain-result/cancer discussion wording in [[02 - Consultation settings and challenging scenarios#Example consultation phrases]], matched to what is actually known.
+- **Relevant family history:** “Sometimes breast problems can run in families. Has anyone in your family had breast problems of any kind?” Follow with the relationship, diagnosis and age.
+- **Explain assessment:** “I'd like to examine the lump and the rest of the breast, including the glands under the arm. That helps us work out what assessment is needed next.”
+- **Abscess drainage:** “The team may use ultrasound to find the collection and guide drainage of the pus.”
+- For a suspicious lump, use the uncertain-result/cancer discussion wording in [[02 - Consultation settings and challenging scenarios#Bad news and abnormal results]], matched to what is actually known.

@@ -60,13 +60,13 @@ Focal bone pain/swelling with fever, systemic illness or an infected wound can s
 
 Persistent unexplained bone pain/swelling, night pain, mass or pathological fracture requires investigation and cancer consideration. Cord compression, fracture or severe systemic illness changes urgency immediately. Explain the need for imaging/specialist review, interim pain relief and practical support while awaiting assessment.
 ## Example consultation phrases
-- **Pain and coping:** “When people have pain for a long time, they sometimes turn to things they think will help, such as alcohol, smoking or drugs. Is any of that relevant for you?” (V38, 14:58)
-- **Explain the examination:** “I'd like to look at how you walk and stand, check the movements in your back, and examine the nerves in your legs.” Select the examination appropriate to the presentation. (V38, 16:24)
-- **Straight-leg raise:** “Raising the leg stretches the sciatic nerve. Reproducing that particular pain can give us a clue about whether the nerve is irritated.” (V38, 22:44)
-- **Carpal tunnel:** “A nerve runs through a narrow space at the wrist. If it gets compressed there, it can cause the tingling and other symptoms you've described.” (V39, 03:58)
-- **Sprain versus strain:** “A sprain affects a ligament, which connects bones at a joint. A strain affects a muscle or tendon.” (V39, 23:05)
-- **Plantar fascia:** “Plantar means the sole of the foot, and the fascia is the strong band of tissue along it. Irritation of that tissue can cause this heel pain.” (V39, 27:45)
-- **Possible bone infection:** “I'm concerned about an infection in the bone. We need hospital assessment today; they may do blood tests, cultures and a scan.” (V39, 29:19–30:08)
+- **Pain and coping:** “When people have pain for a long time, they sometimes turn to things they think will help, such as alcohol, smoking or drugs. Is any of that relevant for you?”
+- **Explain the examination:** “I'd like to look at how you walk and stand, check the movements in your back, and examine the nerves in your legs.” Select the examination appropriate to the presentation.
+- **Straight-leg raise:** “Raising the leg stretches the sciatic nerve. Reproducing that particular pain can give us a clue about whether the nerve is irritated.”
+- **Carpal tunnel:** “A nerve runs through a narrow space at the wrist. If it gets compressed there, it can cause the tingling and other symptoms you've described.”
+- **Sprain versus strain:** “A sprain affects a ligament, which connects bones at a joint. A strain affects a muscle or tendon.”
+- **Plantar fascia:** “Plantar means the sole of the foot, and the fascia is the strong band of tissue along it. Irritation of that tissue can cause this heel pain.”
+- **Possible bone infection:** “I'm concerned about an infection in the bone. We need hospital assessment today; they may do blood tests, cultures and a scan.”
 ## Images to review
 > [!todo] Possible missing image — review
 > **Video:** 39. MSK 2.mp4  

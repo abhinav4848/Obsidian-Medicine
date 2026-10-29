@@ -171,35 +171,35 @@ New abdominal/back pain, collapse or shock with possible AAA → emergency trans
 - **Digoxin:** nausea, visual disturbance, confusion or arrhythmia may signal toxicity; review renal function, electrolytes and interactions. Levels are indicated for suspected toxicity/specific questions, not routine screening; sample ≥6 hours after a dose.
 ## Example consultation phrases
 ### Symptoms, background and risk
-- **Chest-pain safety:** “Do you have any pain right now?” / “Have you had this pain at rest?” / “When exactly was the last episode—was it within the last 12 hours?” Ask neutrally and act on the answer. (V12, 07:15–07:58)
-- **Link lifestyle to the problem:** “Our diet can affect heart health. Could I ask a bit about your diet?” (V12, 08:35)
-- **Diet detail:** “Can you take me through what you normally eat in a typical day? How much salt or processed food do you have?” (V11, 11:11)
-- **Activity:** “How physically active are you?” Follow up with duration, intensity and symptoms rather than assuming an exercise target suits an acutely unwell person. (V11, 10:42)
-- **Palpitations:** “People can mean different things by palpitations. Could you explain what you mean?” / “Could you tap out the rhythm for me?” (V13, 07:43)
-- **Clot risk:** “Can I check a few risk factors we think about when someone may have a blood clot?” (V15, 17:01)
-- **Support when arranging care:** “You mentioned your husband is at work. Would you like me to ring him or let him know?” (V12, 13:35)
+- **Chest-pain safety:** “Do you have any pain right now?” / “Have you had this pain at rest?” / “When exactly was the last episode—was it within the last 12 hours?” Ask neutrally and act on the answer.
+- **Link lifestyle to the problem:** “Our diet can affect heart health. Could I ask a bit about your diet?”
+- **Diet detail:** “Can you take me through what you normally eat in a typical day? How much salt or processed food do you have?”
+- **Activity:** “How physically active are you?” Follow up with duration, intensity and symptoms rather than assuming an exercise target suits an acutely unwell person.
+- **Palpitations:** “People can mean different things by palpitations. Could you explain what you mean?” / “Could you tap out the rhythm for me?”
+- **Clot risk:** “Can I check a few risk factors we think about when someone may have a blood clot?”
+- **Support when arranging care:** “You mentioned your husband is at work. Would you like me to ring him or let him know?”
 ### Plain-language explanations
-- **Atherosclerosis:** “Fatty deposits, sometimes called plaques, can build up in the arteries. They narrow the space for blood to flow through.” (V11, 12:28)
-- **Angina versus MI:** “Angina is when the heart muscle temporarily isn't getting enough oxygen, often because its arteries are narrowed. A heart attack causes damage to the muscle when its blood supply is severely reduced or blocked.” (V13, 05:25)
-- **Why treat angina:** “Angina is a warning sign. Managing it helps control symptoms and reduce the risk of other heart problems.” (V13, 05:38)
-- **GTN:** “The spray relaxes and widens blood vessels and can ease the pain within a few minutes. Sit down when you use it, as it can make you dizzy.” Follow with the actual dose and emergency plan. (V13, 06:39)
-- **AF:** “It's a heart condition that makes the heartbeat irregular. Sometimes it can be fast as well. We need to manage the symptoms and reduce the risk of complications, particularly stroke.” (V13, 20:59; 24:27)
-- **Rhythm control:** “One option the specialist may consider is trying to get the irregular heartbeat back into a normal rhythm.” (V13, 23:31)
-- **Holter monitor:** “It records your heart rhythm over time, so we can link your symptoms with what your heart is doing then.” (V13, 16:41)
-- **Echo:** “It's an ultrasound scan of the heart. It looks at the heart's structure and how it is working, including how blood flows through it.” (V14, 04:18)
-- **NT-proBNP:** “This is a blood test that helps us work out whether your symptoms could be related to the heart.” (V14, 06:56)
-- **Ambulatory BP monitor:** “A cuff on your arm measures your blood pressure automatically at intervals during the day. It helps us see what the pressure is like outside the clinic.” (V14, 20:57)
-- **DVT:** “This is a blood clot in one of the deep veins of your leg.” (V15, 19:32)
-- **Tamponade:** “Fluid has built up around the heart and is putting pressure on it, so it cannot fill and pump as well. That's why urgent treatment to relieve the pressure is needed.” (V15, 04:15)
-- **Varicose veins:** “These are enlarged, twisted veins in the leg.” (V15, 22:37)
+- **Atherosclerosis:** “Fatty deposits, sometimes called plaques, can build up in the arteries. They narrow the space for blood to flow through.”
+- **Angina versus MI:** “Angina is when the heart muscle temporarily isn't getting enough oxygen, often because its arteries are narrowed. A heart attack causes damage to the muscle when its blood supply is severely reduced or blocked.”
+- **Why treat angina:** “Angina is a warning sign. Managing it helps control symptoms and reduce the risk of other heart problems.”
+- **GTN:** “The spray relaxes and widens blood vessels and can ease the pain within a few minutes. Sit down when you use it, as it can make you dizzy.” Follow with the actual dose and emergency plan.
+- **AF:** “It's a heart condition that makes the heartbeat irregular. Sometimes it can be fast as well. We need to manage the symptoms and reduce the risk of complications, particularly stroke.”
+- **Rhythm control:** “One option the specialist may consider is trying to get the irregular heartbeat back into a normal rhythm.”
+- **Holter monitor:** “It records your heart rhythm over time, so we can link your symptoms with what your heart is doing then.”
+- **Echo:** “It's an ultrasound scan of the heart. It looks at the heart's structure and how it is working, including how blood flows through it.”
+- **NT-proBNP:** “This is a blood test that helps us work out whether your symptoms could be related to the heart.”
+- **Ambulatory BP monitor:** “A cuff on your arm measures your blood pressure automatically at intervals during the day. It helps us see what the pressure is like outside the clinic.”
+- **DVT:** “This is a blood clot in one of the deep veins of your leg.”
+- **Tamponade:** “Fluid has built up around the heart and is putting pressure on it, so it cannot fill and pump as well. That's why urgent treatment to relieve the pressure is needed.”
+- **Varicose veins:** “These are enlarged, twisted veins in the leg.”
 ### Common questions
-- **“Will these tablets be for life?”** “They're usually long-term treatment to control symptoms and reduce risk. We'll monitor how you're doing and review or adjust them if things change.” Do not imply secondary prevention can routinely be stopped. (V13, 05:51)
-- **“Can I exercise with angina?”** “Regular gentle activity can help when the condition is stable. Build up appropriately, stop if you get chest pain and follow your action plan.” (V13, 06:21)
-- **“Will my heart stop?”** “Most palpitations aren't life-threatening, but we need to check for serious causes. If we find a high-risk problem, we'll arrange prompt treatment.” Reassure only after assessing the presentation. (V13, 16:27)
-- **“Can stress or caffeine cause this?”** “They can trigger palpitations in some people. Reducing caffeine and addressing stress may help, alongside checking the cause.” (V13, 16:56)
-- **“Will I need a procedure?”** “That depends on what is causing the palpitations. Lifestyle changes or medicine help many people; some problems can be treated with a procedure.” (V13, 17:28)
-- **“Is high BP just stress?”** “Stress can affect blood pressure, but there are other reasons it can remain high. We need to assess the overall pattern.” (V14, 30:12)
-- **“Is my home machine accurate?”** “What kind of monitor do you have? Where did you get it, and has it been checked?” Confirm cuff size and technique as well. (V14, 30:25)
+- **“Will these tablets be for life?”** “They're usually long-term treatment to control symptoms and reduce risk. We'll monitor how you're doing and review or adjust them if things change.” Do not imply secondary prevention can routinely be stopped.
+- **“Can I exercise with angina?”** “Regular gentle activity can help when the condition is stable. Build up appropriately, stop if you get chest pain and follow your action plan.”
+- **“Will my heart stop?”** “Most palpitations aren't life-threatening, but we need to check for serious causes. If we find a high-risk problem, we'll arrange prompt treatment.” Reassure only after assessing the presentation.
+- **“Can stress or caffeine cause this?”** “They can trigger palpitations in some people. Reducing caffeine and addressing stress may help, alongside checking the cause.”
+- **“Will I need a procedure?”** “That depends on what is causing the palpitations. Lifestyle changes or medicine help many people; some problems can be treated with a procedure.”
+- **“Is high BP just stress?”** “Stress can affect blood pressure, but there are other reasons it can remain high. We need to assess the overall pattern.”
+- **“Is my home machine accurate?”** “What kind of monitor do you have? Where did you get it, and has it been checked?” Confirm cuff size and technique as well.
 ## Images to review
 > [!todo] Possible missing image — review
 > **Video:** 12. CVS Cases 2.mp4  

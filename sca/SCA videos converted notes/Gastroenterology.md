@@ -104,22 +104,22 @@ For weight management ask permission, explore prior attempts and goals, assess c
 > [!question] Discuss — local services
 > Add your local H. pylori regimen, symptomatic FIT safety-net process and weight-management access route if you want these notes tailored to your training practice.
 ## Example consultation phrases
-- **Localise symptoms:** “You mentioned pain in your tummy. Can you show me roughly where you're getting it?” (V26, 11:57)
-- **Diet:** “Could you describe a typical day of eating? Do you avoid any foods, or have any intolerances or dietary restrictions?” (V26, 10:24)
-- **Relevant habits:** “Some habits can trigger indigestion or bowel symptoms, including smoking and alcohol. Could I ask about those?” (V26, 10:04)
-- **Medicines:** “Can I check whether you're taking ibuprofen or other anti-inflammatory painkillers?” (V27, 02:23)
-- **Practical reflux changes:** “There are some simple changes that can help. From what you've told me, we could look at your trigger foods and the size of meals.” (V27, 08:10)
-- **Initial options:** “There are two initial approaches we can discuss: a trial of acid-reducing medicine, or testing for the stomach bacterium H. pylori and treating it if needed.” Use only where the clinical pathway supports these choices. (V27, 08:56)
-- **H. pylori:** “It's a bacterium that can live in the stomach and contribute to symptoms or ulcers.” (V27, 03:56)
-- **Hiatus hernia:** “Part of the stomach has moved up through the opening in the diaphragm into the chest. This can contribute to reflux symptoms.” (V27, 22:11)
-- **Jaundice:** “The yellow colour comes from a substance called bilirubin building up. We need to find out why that is happening.” (V28, 13:53)
-- **Diarrhoea:** “What do you mean by diarrhoea—is the stool loose or watery, are you going more often, or both?” (V29, 00:29)
-- **Constipation:** “What does constipation mean for you—hard stool, difficulty passing it, going less often, or something else?” (V29, 10:02)
-- **IBS:** “The bowel is more sensitive or irritable than usual. That can produce several symptoms, and certain triggers can make them worse.” (V29, 26:35)
-- **Bleeding concern:** “I can see that noticing the blood was a shock and made you worried.” Follow with their specific concern rather than assuming it is cancer. (V30, 07:19)
-- **Crohn's and skip lesions:** “Inflammation can affect different parts of the gut, with stretches of normal bowel between affected areas. That's what 'skip lesions' means.” (V30, 10:30)
-- **Anal fissure:** “It's a small tear in the lining of the back passage. Hard stool and straining can contribute, and the tear can cause pain and bleeding.” (V30, 24:13)
-- **Appendicitis:** “The appendix has become inflamed. One concern is that it could burst, which is why suspected appendicitis needs urgent hospital assessment.” (V31, 08:18)
+- **Localise symptoms:** “You mentioned pain in your tummy. Can you show me roughly where you're getting it?”
+- **Diet:** “Could you describe a typical day of eating? Do you avoid any foods, or have any intolerances or dietary restrictions?”
+- **Relevant habits:** “Some habits can trigger indigestion or bowel symptoms, including smoking and alcohol. Could I ask about those?”
+- **Medicines:** “Can I check whether you're taking ibuprofen or other anti-inflammatory painkillers?”
+- **Practical reflux changes:** “There are some simple changes that can help. From what you've told me, we could look at your trigger foods and the size of meals.”
+- **Initial options:** “There are two initial approaches we can discuss: a trial of acid-reducing medicine, or testing for the stomach bacterium H. pylori and treating it if needed.” Use only where the clinical pathway supports these choices.
+- **H. pylori:** “It's a bacterium that can live in the stomach and contribute to symptoms or ulcers.”
+- **Hiatus hernia:** “Part of the stomach has moved up through the opening in the diaphragm into the chest. This can contribute to reflux symptoms.”
+- **Jaundice:** “The yellow colour comes from a substance called bilirubin building up. We need to find out why that is happening.”
+- **Diarrhoea:** “What do you mean by diarrhoea—is the stool loose or watery, are you going more often, or both?”
+- **Constipation:** “What does constipation mean for you—hard stool, difficulty passing it, going less often, or something else?”
+- **IBS:** “The bowel is more sensitive or irritable than usual. That can produce several symptoms, and certain triggers can make them worse.”
+- **Bleeding concern:** “I can see that noticing the blood was a shock and made you worried.” Follow with their specific concern rather than assuming it is cancer.
+- **Crohn's and skip lesions:** “Inflammation can affect different parts of the gut, with stretches of normal bowel between affected areas. That's what 'skip lesions' means.”
+- **Anal fissure:** “It's a small tear in the lining of the back passage. Hard stool and straining can contribute, and the tear can cause pain and bleeding.”
+- **Appendicitis:** “The appendix has become inflamed. One concern is that it could burst, which is why suspected appendicitis needs urgent hospital assessment.”
 ## Images to review
 > [!todo] Possible missing image — review
 > **Video:** 28. Gastro 3.mp4  

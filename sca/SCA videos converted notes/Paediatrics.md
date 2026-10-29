@@ -45,7 +45,7 @@ Explain phototherapy and feeding support; breastfeeding can usually continue. �
 ## Faltering growth and development
 Plot reliable serial weight/length/head measurements and compare trajectory, gestation and family pattern. Ask feeding technique, amounts, swallowing/vomiting, stools, illness, development and food access. Early excessive weight loss or failure to regain birth weight needs feeding/clinical assessment; do not attribute everything to constitutional size.
 
-Observe feeds where useful, involve health visitor/dietitian and agree a monitoring plan. Development spans gross motor, fine motor, speech/language and social skills. Ask actual examples, hearing/vision and opportunity to practise; use current age-specific referral thresholds rather than treating course milestone examples as precise diagnostic cut-offs. **Loss of acquired skills** needs prompt specialist assessment.
+Observe feeds where useful, involve health visitor/dietitian and agree a monitoring plan. Development spans gross motor, fine motor, speech/language and social skills. Ask actual examples, hearing/vision and opportunity to practise; use current age-specific referral thresholds rather than treating example milestones as precise diagnostic cut-offs. **Loss of acquired skills** needs prompt specialist assessment.
 ## Immunisation discussion
 Check the child's date of birth and actual record, because 2025–26 schedule transitions create different catch-up needs. As of the September 2026 UKHSA schedule:
 - 8/12/16 weeks: six-in-one series; rotavirus at 8/12 weeks, MenB at 8/12 weeks and PCV at 16 weeks.
@@ -88,27 +88,27 @@ Concerning cues include injury inconsistent with development/history, unexplaine
 Assess immediate safety, listen without leading interrogation, record exact relevant words/facts and consult safeguarding services promptly. Explain the concern and intended information-sharing when safe; parental refusal does not prevent necessary safeguarding action. Do not promise a particular social-services outcome or guarantee the child will remain at home. Arrange the actual referral/safe handover and a follow-up plan.
 ## Example consultation phrases
 ### Background and communicating with a young person
-- **Birth:** “How was John's birth? Were there any complications?” (V46, 01:23)
-- **Development:** “Has anyone raised concerns about your child's growth or development?” (V46, 01:59)
-- **Existing understanding:** “Could you tell me what you understand about the operation or treatment?” (V46, 06:34)
-- **Respectful teach-back:** “Just so I know I haven't confused things, could you repeat the key points back to me?” (V46, 07:00)
-- **Explore reasoning:** “What's going through your mind about the options?” (V46, 07:19)
-- **Ask for the decision:** “After all that, what do you think? What have you decided about moving forward?” (V46, 07:37)
+- **Birth:** “How was John's birth? Were there any complications?”
+- **Development:** “Has anyone raised concerns about your child's growth or development?”
+- **Existing understanding:** “Could you tell me what you understand about the operation or treatment?”
+- **Respectful teach-back:** “Just so I know I haven't confused things, could you repeat the key points back to me?”
+- **Explore reasoning:** “What's going through your mind about the options?”
+- **Ask for the decision:** “After all that, what do you think? What have you decided about moving forward?”
 ### Behaviour and parental concerns
-- **Changes in context:** “Have there been any recent changes at school?” / “Does their behaviour change around anyone in particular?” (V46, 16:11; 17:24)
-- **Parent's perspective:** “What do you think might be going on? Is there anything worrying you? Was there something you hoped we could do?” Also seek the child's perspective where appropriate. (V46, 19:19)
-- **Faltering-growth follow-up:** “We need to follow the measurements over time to see how growth is progressing and whether the plan is helping.” (V47, 11:14)
-- **Jaundice tests:** “They'll measure the bilirubin and may repeat the checks to see whether the level is rising or falling.” (V47, 03:56)
-- **Phototherapy:** “Special light helps the baby's body clear the bilirubin. The team will decide whether it is needed from the level, the baby's age and other risks.” (V47, 04:36)
-- **Vaccine worry:** “It's understandable to worry about side effects. Can you tell me what you've heard and what concerns you most?” (V47, 21:44)
-- **When safeguarding concern accompanies refusal:** “I respect that you have concerns. I also need to consider the wider picture of your child's wellbeing, so I'd like advice from our safeguarding team.” Vaccine refusal alone is not an automatic safeguarding referral. (V47, 24:15)
-- **Bedwetting reassurance:** “This isn't unusual, and other children go through it too.” Avoid blame or punishment. (V49, 00:27)
-- **Primary versus secondary wetting:** “Primary means they've never had a sustained dry period. Secondary means the wetting returned after at least six months of being dry.” (V49, 00:35)
+- **Changes in context:** “Have there been any recent changes at school?” / “Does their behaviour change around anyone in particular?”
+- **Parent's perspective:** “What do you think might be going on? Is there anything worrying you? Was there something you hoped we could do?” Also seek the child's perspective where appropriate.
+- **Faltering-growth follow-up:** “We need to follow the measurements over time to see how growth is progressing and whether the plan is helping.”
+- **Jaundice tests:** “They'll measure the bilirubin and may repeat the checks to see whether the level is rising or falling.”
+- **Phototherapy:** “Special light helps the baby's body clear the bilirubin. The team will decide whether it is needed from the level, the baby's age and other risks.”
+- **Vaccine worry:** “It's understandable to worry about side effects. Can you tell me what you've heard and what concerns you most?”
+- **When safeguarding concern accompanies refusal:** “I respect that you have concerns. I also need to consider the wider picture of your child's wellbeing, so I'd like advice from our safeguarding team.” Vaccine refusal alone is not an automatic safeguarding referral.
+- **Bedwetting reassurance:** “This isn't unusual, and other children go through it too.” Avoid blame or punishment.
+- **Primary versus secondary wetting:** “Primary means they've never had a sustained dry period. Secondary means the wetting returned after at least six months of being dry.”
 ### Safeguarding discussion
-- **Name the concern:** “I'm concerned about what we've discussed and what I've seen. Our priority has to be your child's safety.” (V49, 24:00)
-- **Explain who is needed:** “This needs advice and assessment from people with specialist experience in keeping children safe—our safeguarding team.” (V49, 24:32)
-- **Be clear about necessary action:** “I need to get advice and refer this to the appropriate team.” Explain the reason and next steps, unless doing so would increase risk. (V49, 26:07)
-- **Fear of social care:** “I understand why that worries you. The team will assess what support and protection your child needs.” Do not guarantee that a child will remain at home. (V49, 26:49)
+- **Name the concern:** “I'm concerned about what we've discussed and what I've seen. Our priority has to be your child's safety.”
+- **Explain who is needed:** “This needs advice and assessment from people with specialist experience in keeping children safe—our safeguarding team.”
+- **Be clear about necessary action:** “I need to get advice and refer this to the appropriate team.” Explain the reason and next steps, unless doing so would increase risk.
+- **Fear of social care:** “I understand why that worries you. The team will assess what support and protection your child needs.” Do not guarantee that a child will remain at home.
 ## Images to review
 > [!todo] Possible missing image — review
 > **Video:** 48. Paeds 3.mp4  

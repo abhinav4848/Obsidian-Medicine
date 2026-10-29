@@ -1,8 +1,12 @@
 ---
 urls:
   - https://youtu.be/iXhxLGbgTtQ?si=r5K3E6NM9ci9O_cb
-tags: [sca, revision, ai_created]
-source_videos: [5]
+tags:
+  - sca
+  - revision
+  - ai_created
+source_videos:
+  - 5
 ---
 # Groundwork — relating to others
 **Video:** 5. Groundwork- Relating to Others.
@@ -14,7 +18,6 @@ source_videos: [5]
 - [[#Verbal cues — acknowledge without losing structure|Verbal cues — acknowledge without losing structure]]
 - [[#Relating to others during management|Relating to others during management]]
 - [[#Keep management a two-way conversation|Keep management a two-way conversation]]
-- [[#Wording to review|Wording to review]]
 - [[#Video TOC|Video TOC]]
 ## Opening, questions and listening
 **Pause after the patient's opening line.** Resist immediately taking over with questions. Nods, eye contact and brief verbal acknowledgements show that you are listening and leave room for the rest of their account.
@@ -28,73 +31,70 @@ Use an open-to-focused funnel, adapting it to the task:
 ## Reasoning, relevance and reflection
 The three Rs connect directly to the three data-gathering areas. They make the purpose of your questions and your response to the answers apparent to the patient.
 
-| R              | Where it matters     | What to do                                                                                                                                                     | Example wording from the video                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| -------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Reasoning**  | Red flags            | Explain why apparently unrelated or serious medical questions are needed for what they thought was a simple condition; set up the yes/no questions.            | “Mr. X, when it comes to a cough, there are a couple of medical questions- yes/no type questions that we tend to ask. I'm just gonna run through a few just to make sure everything is okay.”                                                                                                                                                                                                                                                                  |
-| **Relevance**  | Psychosocial history | Give a general introduction, then link the individual questions to this presentation.                                                                          | **Introduce life context:** “Mr. X, when it comes to migraines, there are a few things in our life that can really make an impact.” <br><br>**Habits:** “Certain habits of ours, things like smoking, things like alcohol, can make migraines worse or trigger migraines. Can I check if we do any of those?” <br><br>**Work:** “Sometimes stressful environments can trigger off migraines. Can I ask a bit about your job? What do you do? Is it stressful?” |
-| **Reflection** | ICE                  | Acknowledge the idea, worry or expectation before moving to another question. Something they have disclosed may be something they have never told anyone else. | “I understand where that's coming from.”                                                                                                                                                                                                                                                                                                                                                                                                                      |
-## Respond to emotion — swapping chairs
-Show that you have picked up the emotion, rather than only changing your own manner internally. The video uses **swapping chairs**: put yourself in the described situation and acknowledge why it would be difficult.
+| R              | Where it matters     | What to do                                                                                                                                                     | Example wording                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| -------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Reasoning**  | Red flags            | Explain why apparently unrelated or serious medical questions are needed for what they thought was a simple condition; set up the yes/no questions.            | “Mr. X, when it comes to a cough, there are a couple of medical questions- yes/no type questions that we tend to ask. I'm just gonna run through a few just to make sure everything is okay.”                                                                                                                                                                                                                                                                            |
+| **Relevance**  | Psychosocial history | Give a general introduction, then link the individual questions to this presentation.                                                                          | **Introduce life context:** “Mr. X, when it comes to migraines, there are a few things in our life that can really make an impact. So I'm gonna ask you a few things about you and your life if that's okay.” <br><br>**Habits:** “Certain habits of ours, things like ==smoking==, things like ==alcohol==, can make migraines worse, or trigger migraines. Can I check if you do any of those?” <br><br>**Work:** “Sometimes stressful environments can trigger off migraines. Can I ask a bit about your job? What do you do? Is it stressful?” |
+| **Reflection** | ICE                  | Acknowledge the idea, worry or expectation before moving to another question. Something they have disclosed may be something they have never told anyone else. | “I understand where that's coming from.” ❌                                                                                                                                                                                                                                                                                                                                                                                                                               |
+## Respond to emotion — swapping chairs 🪑
+Show that you have picked up the emotion, rather than only changing your own manner internally. Use **swapping chairs**: put yourself in the described situation and acknowledge why it would be difficult.
 
-| Situation                                 | Example wording from the video                                                                                                                                                |
-| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Situation                                 | Example wording                                                                                                                                                 |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Embarrassment about talking to a stranger | “You know what, Mr. X, if this was me and I was talking to a stranger about something that was hard to talk about, I'd find it equally difficult. I'd be just as embarrassed.” |
-| Frustration after waiting for the call    | “You know, if this is me and I'd been sitting for twenty minutes waiting for this call and I was busy myself, I'd be a little bit frustrated as well.”                        |
-| Frustration after a mistake               | “If this was me and this mistake had happened, I'd be a little bit frustrated as well.”                                                                                       |
-The video contrasts this with **“I can understand how you feel”** or **“I can understand why you're angry”**, which can sound as though you are claiming to know their experience. Use the example that fits what the patient has actually described; allow a response.
+| Frustration after waiting for the call    | “You know, if this is me and I'd been sitting for twenty minutes waiting for this call and I was busy myself, I'd be a little bit frustrated as well.”                         |
+| Frustration after a mistake               | “If this was me and this mistake had happened, I'd be a little bit frustrated as well.”                                                                                        |
+**“I can understand how you feel”** or **“I can understand why you're angry”** can sound as though you are claiming to know their experience. Use the example that fits what the patient has actually described; allow a response.
 ## Nonverbal cues — say what you have noticed
 Noticing a cue and silently adjusting your approach may not show the patient that you have recognised it. Verbalise the observation and give them a chance to explain.
 
-| Observation               | Example wording from the video                                                                                                      |
-| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Appears embarrassed       | “Mr. X, I can see that, you know, you're looking really embarrassed today. Look. I hope it's okay. Don't worry. Take your time.” |
-| Repeatedly rubbing an ear | “Mr. X, I can see that you're rubbing your ear a few times. Is everything okay?”                                                 |
+| Observation               | Example wording                                                                                                                                                          |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Appears embarrassed       | “Mr. X, I can see that, you know, you're looking really embarrassed today. Look. I hope it's okay. Don't worry. Take your time.”                                                        |
+| Repeatedly rubbing an ear | “Mr. X, I can see that you're rubbing your ear a few times. Is everything okay?”<br>Role player might say "It's nothing", or say "Yeah doctor, it's sore, do you think it's connected?" |
 The ear-rubbing may be incidental, or the patient may disclose soreness and ask whether it is connected. Clarify rather than assuming that every movement is a symptom.
 ## Verbal cues — acknowledge without losing structure
-**Example: work is mentioned during the red-flag history.** The video contrasts three responses:
+**Example: work is mentioned during the red-flag history.** Three possible responses:
 
-| Response                               | What happens                                                                                                                                                                                                          |
-| -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Immediately follow the work cue        | “Oh, tell me about work. What's going on? Have you had time off? Do you speak to your boss?” — the cue is explored, but the consultation may lose its thread and the red flags may remain unfinished. |
-| Remember it silently and return later  | The patient may not know you noticed the cue; a later routine work question may not make the connection clear.                                                                                                        |
-| Acknowledge now and signpost returning | “Oh, you mentioned work there. That sounds really important. We'll come back to that in a short while.” — then finish the red-flag questions and return to work.                                      |
+| Response                                | What happens                                                                                                                                                                                          |
+| --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ❌Immediately follow the work cue        | “Oh, tell me about work. What's going on? Have you had time off? Do you speak to your boss?” — the cue is explored, but the consultation may lose its thread and the red flags may remain unfinished. |
+| ❕Remember it silently and return later  | The patient may not know you noticed the cue; a later routine work question may not make the connection clear.                                                                                        |
+| ✅Acknowledge now and signpost returning | “Oh, you mentioned work there. That sounds really important. We'll come back to that in a short while.” — then finish the red-flag questions and return to work.                                      |
 **Acknowledge → signpost → finish the current task → return to the cue.** This preserves the structure while making your listening apparent. Whether to explore immediately or return later depends on what the cue means for the consultation.
 ## Relating to others during management
 ### Thank the patient at the transition
 > “Firstly, thank you for answering all those questions. I know I asked you a few. Let's talk a bit about what we can do with this going forward.”
+
 This closes the questioning phase and opens the management discussion.
 ### Use the three management steps to involve them
 See [[01b- groundwork- management#The three management steps|the management note]] for the full framework and worked cases.
 
-| Step | Contribution to relating to others | Example wording from this video |
-|---|---|---|
-| **Diagnosis or differentials** | Share your working conclusion before moving to treatment; do not leave the patient wondering what you think is happening. | — |
-| **Offer an explanation** | Adapt to what they already know and what they want explained, rather than automatically giving a prepared explanation. | “Is that something you've heard of? Do you want me to explain it further?” |
-| **Put the issues on the table** | Bring their concerns and life circumstances back alongside your clinical issues. Their work difficulty or scan expectation belongs in the plan as well as your tests, referrals and treatment. | — |
+| Step                            | Contribution to relating to others                                                                                                                                                             | Example wording                                            |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **Diagnosis or differentials**  | Share your working conclusion before moving to treatment; do not leave the patient wondering what you think is happening.                                                                      | —                                                                          |
+| **Offer an explanation**        | Adapt to what they already know and what they want explained, rather than automatically giving a prepared explanation.                                                                         | “Is that something you've heard of? Do you want me to explain it further?” |
+| **Put the issues on the table** | Bring their concerns and life circumstances back alongside your clinical issues. Their work difficulty or scan expectation belongs in the plan as well as your tests, referrals and treatment. | —                                                                          |
 ### Explain who leads next
 When taking the lead, make the reason clear. When the patient can choose the starting point, invite that choice:
 > “Look. There's a lot of things here. What do you think? Where did you wanna focus on first?”
+
 The plan should reflect the information the patient gave you, rather than simply proceeding through your clinical agenda.
 ## Keep management a two-way conversation
 A rushed management monologue often follows from starting detailed treatment before outlining the issues. Set out the agenda first so you can pause and involve the patient without feeling that every remaining point must be delivered at once.
 
-The video suggests bringing the patient in roughly **every 30–40 seconds**, rather than speaking continuously for two minutes. Its brief examples are:
+Bring in the patient in roughly **every 30–40 seconds**, rather than speaking continuously for two minutes. Its brief examples are:
 
 | Doctor | Patient's example response |
 |---|---|
 | “Is that making sense?” | “Yes, doctor.” |
 | “Any questions?” | “No, doctor.” |
 | “Still with me?” | “Sure, doctor.” |
-A two-way conversation does not require an equal split of speaking time. Leave room for a real answer and respond to it. The timing is a practice prompt from the video; use checks where they help, especially when an explanation is complex or the patient seems unsure. [RCGP relating-to-others toolkit](https://www.rcgp.org.uk/mrcgp-exams/simulated-consultation-assessment/toolkit-relating-others).
-## Wording to review
-> [!question] Unclear wording — discuss
-> **Video:** 5. Groundwork- Relating to Others.mp4  
-> The full invitation to ask about the patient's life is unclear in the transcript.  
-> Review this sentence in the video before adding its full wording.
+A two-way conversation does not require an equal split of speaking time. Leave room for a real answer and respond to it. Treat the timing as a flexible practice prompt; use checks where they help, especially when an explanation is complex or the patient seems unsure. [RCGP relating-to-others toolkit](https://www.rcgp.org.uk/mrcgp-exams/simulated-consultation-assessment/toolkit-relating-others).
 ## Video TOC
-- Relating to others.
-- Relating to others during data gathering.
-- Relating to others during management.
+- **00:00:00** — Relating to others.
+- **00:01:10** — Relating to others during data gathering.
+- **00:09:02** — Relating to others during management.
 ## Related notes
 - [[01a- data gathering]]
 - [[01b- groundwork- management]]

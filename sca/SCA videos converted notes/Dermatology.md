@@ -83,23 +83,23 @@ Weighted seven-point melanoma checklist: major features (size change, irregular 
 ## Lyme disease
 Ask about outdoor/tick exposure and neurological, cardiac or joint symptoms. Typical erythema migrans is a clinical diagnosis: treat without waiting for serology. Antibiotic choice/duration depends on age, pregnancy and manifestations; uncomplicated adult disease commonly uses doxycycline for 21 days. Seek specialist advice for complications, not automatically for every uncomplicated case. [NICE NG95](https://www.nice.org.uk/guidance/ng95/chapter/Recommendations)
 ## Example consultation phrases
-- **Describe the rash:** “Let me ask a few questions about the rash so we can work out what's going on. Where exactly is it?” (V16, 01:02)
-- **Distribution without jargon:** “Is it on the inside of the elbow, or mainly on the outside?” (V16, 01:43)
-- **Relevant context:** “Skin problems can sometimes be linked to things in our lives. Can I ask a few questions about that?” (V16, 05:13)
-- **Acne and periods:** “Acne can be linked to the menstrual cycle. Do you mind if I ask a few questions about your periods?” (V16, 23:48)
-- **Eczema and cure:** “Eczema is a long-term condition that makes the skin dry, cracked, red and sore. We cannot promise a cure, but there are effective ways to control it.” (V17, 03:27)
-- **Emollients:** “It's important to use plenty of moisturiser regularly, including when the skin is doing better.” (V17, 05:06)
-- **Steroid amounts:** “Let's go through how much steroid cream to use so your child gets the right amount.” Use the age/body-site fingertip-unit advice in the clinical section. (V17, 06:59)
-- **Psoriasis:** “It's a long-term condition that can come and go in flare-ups. The immune system causes inflammation in the skin, which leads to the soreness, itching and scaling.” (V17, 11:40)
-- **Associated symptoms:** “Psoriasis can sometimes affect other parts of the body. Could I ask about your nails and joints?” (V17, 13:14)
-- **Vitiligo testing:** “We usually diagnose this by examining the skin. Sometimes we investigate other conditions that can be associated with it.” Choose tests from the history, rather than promising every autoimmune test. (V17, 16:52)
-- **Prognosis when uncertain:** “Everyone is different, and it isn't possible to predict exactly how it will change for you.” (V17, 17:57)
-- **Ulcer:** “It's a break in the skin that is taking a long time to heal.” (V17, 18:32)
-- **Venous ulcer:** “The veins aren't returning blood up the leg as well as they should. That raises pressure in the lower leg and makes healing more difficult.” (V17, 19:05)
-- **Cellulitis:** “It's an infection in the skin, usually after bacteria enter through a break in it.” (V17, 24:48)
-- **Fungal terminology:** “Tinea means a fungal skin infection. The second word tells us where it is—for example, pedis means the feet and capitis the scalp.” (V18, 00:39)
-- **Ganglion:** “It's a fluid-filled swelling arising near a joint or tendon sheath, commonly at the wrist.” (V18, 10:06)
-- **Specialist assessment:** “They may examine it with a dermatoscope, which lets them look at the skin in more detail. A tissue sample may be needed to establish what it is.” (V18, 21:30)
+- **Describe the rash:** “Let me ask a few questions about the rash so we can work out what's going on. Where exactly is it?”
+- **Distribution without jargon:** “Is it on the inside of the elbow, or mainly on the outside?”
+- **Relevant context:** “Skin problems can sometimes be linked to things in our lives. Can I ask a few questions about that?”
+- **Acne and periods:** “Acne can be linked to the menstrual cycle. Do you mind if I ask a few questions about your periods?”
+- **Eczema and cure:** “Eczema is a long-term condition that makes the skin dry, cracked, red and sore. We cannot promise a cure, but there are effective ways to control it.”
+- **Emollients:** “It's important to use plenty of moisturiser regularly, including when the skin is doing better.”
+- **Steroid amounts:** “Let's go through how much steroid cream to use so your child gets the right amount.” Use the age/body-site fingertip-unit advice in the clinical section.
+- **Psoriasis:** “It's a long-term condition that can come and go in flare-ups. The immune system causes inflammation in the skin, which leads to the soreness, itching and scaling.”
+- **Associated symptoms:** “Psoriasis can sometimes affect other parts of the body. Could I ask about your nails and joints?”
+- **Vitiligo testing:** “We usually diagnose this by examining the skin. Sometimes we investigate other conditions that can be associated with it.” Choose tests from the history, rather than promising every autoimmune test.
+- **Prognosis when uncertain:** “Everyone is different, and it isn't possible to predict exactly how it will change for you.”
+- **Ulcer:** “It's a break in the skin that is taking a long time to heal.”
+- **Venous ulcer:** “The veins aren't returning blood up the leg as well as they should. That raises pressure in the lower leg and makes healing more difficult.”
+- **Cellulitis:** “It's an infection in the skin, usually after bacteria enter through a break in it.”
+- **Fungal terminology:** “Tinea means a fungal skin infection. The second word tells us where it is—for example, pedis means the feet and capitis the scalp.”
+- **Ganglion:** “It's a fluid-filled swelling arising near a joint or tendon sheath, commonly at the wrist.”
+- **Specialist assessment:** “They may examine it with a dermatoscope, which lets them look at the skin in more detail. A tissue sample may be needed to establish what it is.”
 ## Images to review
 > [!todo] Possible missing image — review
 > **Video:** 16. Dermatology Cases (1).mp4  

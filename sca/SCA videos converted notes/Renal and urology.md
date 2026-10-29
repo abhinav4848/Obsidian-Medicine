@@ -57,13 +57,13 @@ Acute colic: assess infection, solitary kidney, renal impairment, pregnancy, unc
 
 After stones, encourage an individual fluid/intake prevention plan, normal appropriate dietary calcium and reduced excess salt; metabolic/stone analysis can guide further advice. Visible or persistent unexplained haematuria needs cause/cancer assessment even on anticoagulants or with a previous stone history. See [[Mens health]] for LUTS/prostate assessment.
 ## Example consultation phrases
-- **Personal questions:** “With urinary symptoms, there are a few personal questions I need to ask to work out the cause and the right treatment.” (V55, 00:44)
-- **Clarify dysuria:** “Could you describe what you mean by burning when you pass urine?” (V55, 01:48)
-- **Associated kidney symptoms:** “Could I ask about a few symptoms that sometimes go with kidney problems?” Follow with specific symptoms relevant to AKI/CKD. (V54, 14:36; 19:11)
-- **CKD:** “The kidneys aren't filtering as well as they should, or there are signs of lasting kidney damage. The results help us work out how much it is affecting you.” (V54, 23:37)
-- **Why act:** “There are two main aims: slowing any further kidney damage and reducing the risk of heart and circulation problems.” (V54, 23:57)
-- **Haemodialysis:** “Blood passes through a machine that removes waste and extra fluid, then returns the blood to your body.” Explain the individual schedule and whether home/centre treatment is being considered. (V54, 30:50)
-- **Peritoneal dialysis:** “Fluid is put into the abdomen through a tube. The lining inside acts as a filter, and the fluid is drained out after it has collected waste.” (V54, 31:45)
-- **Transplant expectations:** “A transplant can be a good option for some people, but it needs careful assessment. Medicines to prevent rejection and long-term monitoring are still needed.” (V54, 32:46)
-- **Glomerulonephritis:** “The kidney's tiny filtering units have become inflamed. There are different causes, so further tests may be needed.” (V55, 18:55)
-- **PKD:** “Cysts have formed in the kidneys. We monitor kidney function and treat problems such as blood pressure or pain; the kidney team will advise on your individual care.” (V55, 21:48–22:38)
+- **Personal questions:** “With urinary symptoms, there are a few personal questions I need to ask to work out the cause and the right treatment.”
+- **Clarify dysuria:** “Could you describe what you mean by burning when you pass urine?”
+- **Associated kidney symptoms:** “Could I ask about a few symptoms that sometimes go with kidney problems?” Follow with specific symptoms relevant to AKI/CKD.
+- **CKD:** “The kidneys aren't filtering as well as they should, or there are signs of lasting kidney damage. The results help us work out how much it is affecting you.”
+- **Why act:** “There are two main aims: slowing any further kidney damage and reducing the risk of heart and circulation problems.”
+- **Haemodialysis:** “Blood passes through a machine that removes waste and extra fluid, then returns the blood to your body.” Explain the individual schedule and whether home/centre treatment is being considered.
+- **Peritoneal dialysis:** “Fluid is put into the abdomen through a tube. The lining inside acts as a filter, and the fluid is drained out after it has collected waste.”
+- **Transplant expectations:** “A transplant can be a good option for some people, but it needs careful assessment. Medicines to prevent rejection and long-term monitoring are still needed.”
+- **Glomerulonephritis:** “The kidney's tiny filtering units have become inflamed. There are different causes, so further tests may be needed.”
+- **PKD:** “Cysts have formed in the kidneys. We monitor kidney function and treat problems such as blood pressure or pain; the kidney team will advise on your individual care.”

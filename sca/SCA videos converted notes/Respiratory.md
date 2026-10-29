@@ -75,60 +75,60 @@ LTOT is for selected documented chronic hypoxaemia after optimisation, not breat
 Ask what/how much, dependence, triggers, previous attempts and household support. Agree a quit plan and behavioural support plus suitable medicine: combination NRT, varenicline, cytisinicline or bupropion depending on eligibility/preferences/current local access. Varenicline is available in the UK; check local access and individual suitability. Explain withdrawal, relapse as a chance to adjust support, and benefits at any age. Vaping is less harmful than smoking but not risk-free; discuss complete switching and avoiding dual use in the relevant cessation plan. [NHS medication advice](https://www.nhsinform.scot/healthy-living/stopping-smoking/how-to-stop/stop-smoking-medication/)
 ## Example consultation phrases
 ### Cough and treatment requests
-- **Pattern:** “Is the cough worse at night or when you first wake up?” / “Does anything in particular make it worse, such as cold air or dust?” (V56, 06:21)
-- **“Shouldn't I have antibiotics?”** “Many coughs are caused by viruses and settle without antibiotics. Antibiotics may not help and can cause side effects. Let's go through what you should expect and when to seek help.” (V56, 16:07)
-- **“Could it be cancer?”** “We need to judge that from your symptoms, examination and risk factors. I'll explain what is reassuring, what needs checking and when we'll review you.” Do not offer blanket reassurance. (V56, 16:25)
-- **“Why isn't it gone yet?”** “A viral cough can take several weeks to improve. We should reassess if it is worsening or not following the expected course.” (V56, 17:11)
-- **Cough mixtures:** “Some may soothe symptoms, but they generally don't shorten how long the cough lasts.” Check age and product suitability. (V56, 17:11)
-- **“Do I need a scan?”** “From what we've found so far, I don't think a scan is the most helpful next step. If the symptoms change or persist, we will reassess that.” Use only after appropriate assessment. (V56, 17:46)
+- **Pattern:** “Is the cough worse at night or when you first wake up?” / “Does anything in particular make it worse, such as cold air or dust?”
+- **“Shouldn't I have antibiotics?”** “Many coughs are caused by viruses and settle without antibiotics. Antibiotics may not help and can cause side effects. Let's go through what you should expect and when to seek help.”
+- **“Could it be cancer?”** “We need to judge that from your symptoms, examination and risk factors. I'll explain what is reassuring, what needs checking and when we'll review you.” Do not offer blanket reassurance.
+- **“Why isn't it gone yet?”** “A viral cough can take several weeks to improve. We should reassess if it is worsening or not following the expected course.”
+- **Cough mixtures:** “Some may soothe symptoms, but they generally don't shorten how long the cough lasts.” Check age and product suitability.
+- **“Do I need a scan?”** “From what we've found so far, I don't think a scan is the most helpful next step. If the symptoms change or persist, we will reassess that.” Use only after appropriate assessment.
 ### Asthma and admission
-- **Asthma:** “It's common and usually manageable. Treatment can control it, and the tests help us confirm whether this is the cause.” (V57, 23:28)
-- **“Will inhalers be forever?”** “We'll review the treatment regularly. Some people need long-term treatment, while others can step down when control is stable. Any change should be planned.” (V57, 23:48)
-- **“Why isn't my inhaler working?”** “An attack can become severe enough that your usual treatment isn't controlling it. You need additional treatment and close monitoring now.” (V58, 05:42)
-- **“Am I going to be okay?”** “I can see this is frightening. We're arranging treatment to help open the airways and will monitor you closely.” Do not guarantee an outcome. (V58, 06:05)
-- **“Will I stay overnight?”** “I can't tell yet. It depends on your response to treatment and what the assessment shows.” (V58, 06:41)
-- **“Could I die from this?”** “A severe asthma attack can be life-threatening. That's why prompt treatment and monitoring are important.” (V58, 06:41)
+- **Asthma:** “It's common and usually manageable. Treatment can control it, and the tests help us confirm whether this is the cause.”
+- **“Will inhalers be forever?”** “We'll review the treatment regularly. Some people need long-term treatment, while others can step down when control is stable. Any change should be planned.”
+- **“Why isn't my inhaler working?”** “An attack can become severe enough that your usual treatment isn't controlling it. You need additional treatment and close monitoring now.”
+- **“Am I going to be okay?”** “I can see this is frightening. We're arranging treatment to help open the airways and will monitor you closely.” Do not guarantee an outcome.
+- **“Will I stay overnight?”** “I can't tell yet. It depends on your response to treatment and what the assessment shows.”
+- **“Could I die from this?”** “A severe asthma attack can be life-threatening. That's why prompt treatment and monitoring are important.”
 ### COPD questions
-- **Suspected diagnosis:** “It sounds possible, but we need tests—particularly spirometry—to confirm it.” (V58, 18:39)
-- **“Is it curable?”** “It's a long-term condition. We can't reverse all the damage, but treatment and stopping smoking can improve symptoms and help slow progression.” (V58, 18:51)
-- **“Isn't it asthma?”** “They can cause similar symptoms and sometimes overlap. The pattern and test results help us work out which treatment is right for you.” (V58, 19:35)
-- **“Do I need more inhalers?”** “Before changing them, let's check how you're using the inhalers and whether they're getting where they need to.” (V58, 25:08)
-- **“Can I fly?”** “It may be possible, but we need to check whether you need an assessment or oxygen arrangements for the flight. We'll also plan medicines, insurance and what to do if you're unwell away from home.” (V58, 25:35)
-- **“What if I get a chest infection?”** “Let's go through your action plan, including when to use extra treatment and when to contact us or seek urgent help.” (V58, 26:06)
-- **“Why am I worse despite inhalers?”** “Flare-ups can be triggered by infections or other changes. You may need extra treatment while we assess the cause.” (V58, 31:58)
-- **“Will I get back to normal?”** “Many people improve towards their usual level with treatment, but recovery can take time. We'll monitor how you're doing.” (V58, 32:19)
-- **“Antibiotics every time?”** “Not every flare-up needs them. I'll explain why I think they would—or wouldn't—help on this occasion.” (V58, 32:32)
-- **Prevention:** “We can reduce flare-up risk by reviewing inhalers and technique, vaccinations, smoking support and your action plan.” (V58, 32:51)
+- **Suspected diagnosis:** “It sounds possible, but we need tests—particularly spirometry—to confirm it.”
+- **“Is it curable?”** “It's a long-term condition. We can't reverse all the damage, but treatment and stopping smoking can improve symptoms and help slow progression.”
+- **“Isn't it asthma?”** “They can cause similar symptoms and sometimes overlap. The pattern and test results help us work out which treatment is right for you.”
+- **“Do I need more inhalers?”** “Before changing them, let's check how you're using the inhalers and whether they're getting where they need to.”
+- **“Can I fly?”** “It may be possible, but we need to check whether you need an assessment or oxygen arrangements for the flight. We'll also plan medicines, insurance and what to do if you're unwell away from home.”
+- **“What if I get a chest infection?”** “Let's go through your action plan, including when to use extra treatment and when to contact us or seek urgent help.”
+- **“Why am I worse despite inhalers?”** “Flare-ups can be triggered by infections or other changes. You may need extra treatment while we assess the cause.”
+- **“Will I get back to normal?”** “Many people improve towards their usual level with treatment, but recovery can take time. We'll monitor how you're doing.”
+- **“Antibiotics every time?”** “Not every flare-up needs them. I'll explain why I think they would—or wouldn't—help on this occasion.”
+- **Prevention:** “We can reduce flare-up risk by reviewing inhalers and technique, vaccinations, smoking support and your action plan.”
 ### PE, pneumothorax and fluid around the lung
-- **PE:** “A blood clot is blocking a blood vessel in the lung.” (V59, 00:23)
-- **Urgent assessment:** “A PE can be life-threatening. We need urgent assessment and appropriate tests so treatment isn't delayed.” (V59, 05:27)
-- **Hospital tests:** “They may do blood tests and a CT scan to look at the lung's blood vessels, then choose treatment from the findings.” (V59, 05:42)
-- **“Will I need surgery?”** “Many PEs are treated with anticoagulant medicines. Some people need additional procedures, depending on how severe it is.” (V59, 06:02)
-- **“Will a clot recur?”** “That depends on why it happened and your ongoing risk factors. We'll review those when deciding how long to continue treatment.” (V59, 06:14)
-- **Flying after PE:** “We need advice about the timing and precautions for you. Treatment does not mean it is immediately safe to fly.” (V59, 06:37)
-- **Pneumothorax risk:** “Air has collected around the lung. It can be dangerous if pressure builds up, but there are effective treatments.” (V59, 10:02)
-- **“Will I need a chest drain?”** “Not everyone does. The team will consider your symptoms, scans and how the lung responds before recommending the next step.” (V59, 10:02)
-- **Recurrence:** “It can happen again. The risk depends partly on the underlying cause, and the specialist can advise how to reduce it.” (V59, 10:27)
-- **Flying after pneumothorax:** “It needs to be fully resolved on the X-ray before flying can be considered. We'll follow the specialist advice about the waiting period.” (V59, 10:39)
-- **Pleural effusion:** “There is fluid collecting around the lung. There are several possible causes, including heart, kidney, infection or lung problems, so we need to investigate.” (V59, 11:40; 13:31)
-- **“Does fluid mean cancer?”** “Not necessarily. Cancer is one possible cause, but there are several others. The tests help us work out which applies.” (V59, 14:19)
-- **Fluid treatment and recurrence:** “Whether it needs draining depends on the cause, how much there is and how it affects you. Treating the underlying cause can reduce the chance of it returning.” (V59, 13:48–14:32)
-- **Clubbing:** “The nail change itself isn't the main danger; it can be a clue to another condition. Cancer is one possibility, but clubbing doesn't mean you definitely have cancer.” (V59, 23:13–23:56)
-- **“Will the nails return to normal?”** “They sometimes improve if we can treat the cause, but the change can also remain.” (V59, 23:13)
+- **PE:** “A blood clot is blocking a blood vessel in the lung.”
+- **Urgent assessment:** “A PE can be life-threatening. We need urgent assessment and appropriate tests so treatment isn't delayed.”
+- **Hospital tests:** “They may do blood tests and a CT scan to look at the lung's blood vessels, then choose treatment from the findings.”
+- **“Will I need surgery?”** “Many PEs are treated with anticoagulant medicines. Some people need additional procedures, depending on how severe it is.”
+- **“Will a clot recur?”** “That depends on why it happened and your ongoing risk factors. We'll review those when deciding how long to continue treatment.”
+- **Flying after PE:** “We need advice about the timing and precautions for you. Treatment does not mean it is immediately safe to fly.”
+- **Pneumothorax risk:** “Air has collected around the lung. It can be dangerous if pressure builds up, but there are effective treatments.”
+- **“Will I need a chest drain?”** “Not everyone does. The team will consider your symptoms, scans and how the lung responds before recommending the next step.”
+- **Recurrence:** “It can happen again. The risk depends partly on the underlying cause, and the specialist can advise how to reduce it.”
+- **Flying after pneumothorax:** “It needs to be fully resolved on the X-ray before flying can be considered. We'll follow the specialist advice about the waiting period.”
+- **Pleural effusion:** “There is fluid collecting around the lung. There are several possible causes, including heart, kidney, infection or lung problems, so we need to investigate.”
+- **“Does fluid mean cancer?”** “Not necessarily. Cancer is one possible cause, but there are several others. The tests help us work out which applies.”
+- **Fluid treatment and recurrence:** “Whether it needs draining depends on the cause, how much there is and how it affects you. Treating the underlying cause can reduce the chance of it returning.”
+- **Clubbing:** “The nail change itself isn't the main danger; it can be a clue to another condition. Cancer is one possibility, but clubbing doesn't mean you definitely have cancer.”
+- **“Will the nails return to normal?”** “They sometimes improve if we can treat the cause, but the change can also remain.”
 ### Bronchiectasis, sleep, oxygen and smoking
-- **Bronchiectasis:** “The airways have become widened and damaged. That can make mucus harder to clear and allow infections to recur.” (V60, 03:07–03:36)
-- **“Can it be cured?”** “The structural damage is usually permanent, but we can help control symptoms, clear mucus and reduce infections.” (V60, 03:07)
-- **Self-management:** “There are techniques a respiratory physiotherapist can teach you to help clear the mucus regularly.” (V60, 04:11)
-- **OSA:** “The airway repeatedly narrows or closes during sleep. That interrupts breathing and sleep, so you can feel unrefreshed and sleepy during the day.” (V60, 05:28)
-- **CPAP:** “A mask supplies gentle air pressure to help keep the airway open while you sleep.” (V60, 09:57)
-- **“Is sleep apnoea dangerous?”** “It can increase health risks and make driving unsafe if you are sleepy. Treatment helps reduce those risks.” (V60, 10:29)
-- **“Can I drive?”** “If you are too sleepy to drive safely, you must stop driving. We'll go through the DVLA rules that apply to your situation.” (V60, 10:46)
-- **Home oxygen:** “Oxygen helps selected people whose blood oxygen stays too low. It isn't a treatment for breathlessness alone, so we need an assessment first.” (V60, 11:22)
-- **Weight after quitting:** “Some people gain weight, but not everyone does. We can plan ways to manage it while supporting you to stop smoking.” (V60, 20:51)
-- **NRT:** “Patches or gum can reduce cravings and withdrawal symptoms, especially alongside support to stop.” (V60, 21:07)
-- **Vaping:** “Vaping is less harmful than smoking, but it isn't risk-free. We can discuss how it fits into a plan to stop smoking.” (V60, 21:23)
-- **Benefits of quitting:** “Some benefits begin quickly, and the risks of heart disease, cancer and other lung problems fall over time.” (V60, 21:35)
-- **“Is it too late?”** “People do stop after many years of smoking. It can be difficult, but treatment and support can make a real difference.” (V60, 21:54)
+- **Bronchiectasis:** “The airways have become widened and damaged. That can make mucus harder to clear and allow infections to recur.”
+- **“Can it be cured?”** “The structural damage is usually permanent, but we can help control symptoms, clear mucus and reduce infections.”
+- **Self-management:** “There are techniques a respiratory physiotherapist can teach you to help clear the mucus regularly.”
+- **OSA:** “The airway repeatedly narrows or closes during sleep. That interrupts breathing and sleep, so you can feel unrefreshed and sleepy during the day.”
+- **CPAP:** “A mask supplies gentle air pressure to help keep the airway open while you sleep.”
+- **“Is sleep apnoea dangerous?”** “It can increase health risks and make driving unsafe if you are sleepy. Treatment helps reduce those risks.”
+- **“Can I drive?”** “If you are too sleepy to drive safely, you must stop driving. We'll go through the DVLA rules that apply to your situation.”
+- **Home oxygen:** “Oxygen helps selected people whose blood oxygen stays too low. It isn't a treatment for breathlessness alone, so we need an assessment first.”
+- **Weight after quitting:** “Some people gain weight, but not everyone does. We can plan ways to manage it while supporting you to stop smoking.”
+- **NRT:** “Patches or gum can reduce cravings and withdrawal symptoms, especially alongside support to stop.”
+- **Vaping:** “Vaping is less harmful than smoking, but it isn't risk-free. We can discuss how it fits into a plan to stop smoking.”
+- **Benefits of quitting:** “Some benefits begin quickly, and the risks of heart disease, cancer and other lung problems fall over time.”
+- **“Is it too late?”** “People do stop after many years of smoking. It can be difficult, but treatment and support can make a real difference.”
 ## Images to review
 > [!todo] Possible missing image — review
 > **Video:** 59. Resp 4.mp4  

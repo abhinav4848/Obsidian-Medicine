@@ -77,11 +77,11 @@ Secondary care assesses maternal blood/urine tests and fetal wellbeing, treats B
 ## SCA close
 State the destination and urgency of any referral, how the patient will get there, who will support them and what to do if symptoms worsen before assessment. For routine care, check the patient knows how to access their maternity service and whom to contact out of hours.
 ## Example consultation phrases
-- **Folic acid:** “Can we talk about folic acid? Since you haven't started it yet, let's arrange the right supplement for you.” (V68, 12:10)
-- **Screening choice:** “Screening estimates the chance of the baby having the condition. It doesn't tell us for certain. We can discuss what the test can show and what you would want to do with that information.” (V68, 18:55)
-- **Abortion options:** “There are medicines that end the pregnancy, and there are procedures. The provider can discuss which options are suitable at this stage and what each involves.” (V68, 30:42)
-- **Conscientious objection, if relevant:** “I don't provide this treatment myself, but I will make sure you can speak promptly with a colleague or service that can help.” Do not obstruct access or delay urgent care. (V68, 29:52)
-- **Recurrent loss:** “I can see why you'd want to understand whether there is a cause and whether anything can reduce the chance of this happening again. We can discuss specialist assessment and support.” (V69, 11:19)
-- **Ectopic pregnancy:** “It means the pregnancy is developing outside the womb, most often in a fallopian tube. It can cause internal bleeding, so we need urgent assessment.” (V69, 12:06)
-- **Gestational diabetes risk:** “Raised sugar in pregnancy can affect the baby's growth and increase the risk of complications. Treating it helps reduce those risks.” (V69, 15:14)
-- **Pre-eclampsia and delivery:** “Medicines can control the blood pressure, but the team also needs to decide the safest timing of delivery. Monitoring continues after birth too.” (V69, 23:36)
+- **Folic acid:** “Can we talk about folic acid? Since you haven't started it yet, let's arrange the right supplement for you.”
+- **Screening choice:** “Screening estimates the chance of the baby having the condition. It doesn't tell us for certain. We can discuss what the test can show and what you would want to do with that information.”
+- **Abortion options:** “There are medicines that end the pregnancy, and there are procedures. The provider can discuss which options are suitable at this stage and what each involves.”
+- **Conscientious objection, if relevant:** “I don't provide this treatment myself, but I will make sure you can speak promptly with a colleague or service that can help.” Do not obstruct access or delay urgent care.
+- **Recurrent loss:** “I can see why you'd want to understand whether there is a cause and whether anything can reduce the chance of this happening again. We can discuss specialist assessment and support.”
+- **Ectopic pregnancy:** “It means the pregnancy is developing outside the womb, most often in a fallopian tube. It can cause internal bleeding, so we need urgent assessment.”
+- **Gestational diabetes risk:** “Raised sugar in pregnancy can affect the baby's growth and increase the risk of complications. Treating it helps reduce those risks.”
+- **Pre-eclampsia and delivery:** “Medicines can control the blood pressure, but the team also needs to decide the safest timing of delivery. Monitoring continues after birth too.”

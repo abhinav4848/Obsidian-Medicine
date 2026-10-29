@@ -103,20 +103,20 @@ Suspicious ultrasound → urgent cancer service. Below-threshold/normal imaging 
 > [!question] Discuss — local pathways
 > Add the local EC fitting route, menopause advice service and fertility referral criteria if you want practical next-step details tailored to your area.
 ## Example consultation phrases
-- **Choose contraception:** “There are several ways to prevent pregnancy. Could I ask a few questions to work out which might suit you best?” (V63, 02:33)
-- **Establish the purpose:** “People use the pill for different reasons. Can I confirm what you want it for?” (V63, 09:08)
-- **Method preference:** “Do you have a particular pill or brand in mind? What do you already know about it?” (V63, 09:34)
-- **Embarrassment:** “I know periods can be difficult to talk about. These are concerns we discuss often, so please take your time and tell me what is troubling you.” (V64, 22:35)
-- **Period history:** “Can we go back to the beginning—when did your periods start, and how have they changed?” (V64, 23:25)
-- **Personal questions:** “As I mentioned, I need to ask a few personal questions. Are you sexually active? Can I ask about any pain with intercourse?” (V64, 24:14)
-- **More than pregnancy worry:** “I know you're worried about getting pregnant. Was there anything else worrying you?” (V64, 17:03)
-- **EC access:** “It's good that you've asked for help promptly. Emergency contraception is available through several services, including suitable pharmacies and sexual-health clinics.” Arrange the appropriate option without adding delay. (V64, 17:36)
-- **Menopause:** “The ovaries gradually stop releasing eggs and hormone levels change. The periods eventually stop, and those changes can cause symptoms such as hot flushes.” (V65, 04:42)
-- **Fertility assessment:** “We should assess both partners, because there are several possible reasons pregnancy hasn't happened.” (V65, 30:01)
-- **IVF:** “The egg is fertilised with sperm outside the body, then an embryo is placed into the womb.” (V65, 32:36)
-- **ICSI:** “A single sperm is injected directly into an egg in the laboratory.” (V65, 32:36)
-- **Pelvic-floor exercises:** “These strengthen the muscles supporting the bladder and help reduce leakage when you cough, laugh or strain.” (V66, 09:00)
-- **Cervical screening:** “The sample is first tested for high-risk HPV. If HPV is found, the same sample can be checked for cell changes.” (V66, 12:06)
-- **Colposcopy:** “It's a closer look at the cervix using a magnifying instrument. The team may use a dye and take a small sample if an area needs checking.” (V66, 14:13)
-- **Endometriosis:** “Tissue similar to the womb lining is growing outside the womb. It can cause pain and other symptoms depending on where it is.” (V66, 17:05)
-- **Fibroid location:** “Intramural means in the muscle wall, submucosal means growing towards the cavity, and subserosal means growing towards the outside.” Use only the terms relevant to their scan. (V66, 20:23)
+- **Choose contraception:** “There are several ways to prevent pregnancy. Could I ask a few questions to work out which might suit you best?”
+- **Establish the purpose:** “People use the pill for different reasons. Can I confirm what you want it for?”
+- **Method preference:** “Do you have a particular pill or brand in mind? What do you already know about it?”
+- **Embarrassment:** “I know periods can be difficult to talk about. These are concerns we discuss often, so please take your time and tell me what is troubling you.”
+- **Period history:** “Can we go back to the beginning—when did your periods start, and how have they changed?”
+- **Personal questions:** “As I mentioned, I need to ask a few personal questions. Are you sexually active? Can I ask about any pain with intercourse?”
+- **More than pregnancy worry:** “I know you're worried about getting pregnant. Was there anything else worrying you?”
+- **EC access:** “It's good that you've asked for help promptly. Emergency contraception is available through several services, including suitable pharmacies and sexual-health clinics.” Arrange the appropriate option without adding delay.
+- **Menopause:** “The ovaries gradually stop releasing eggs and hormone levels change. The periods eventually stop, and those changes can cause symptoms such as hot flushes.”
+- **Fertility assessment:** “We should assess both partners, because there are several possible reasons pregnancy hasn't happened.”
+- **IVF:** “The egg is fertilised with sperm outside the body, then an embryo is placed into the womb.”
+- **ICSI:** “A single sperm is injected directly into an egg in the laboratory.”
+- **Pelvic-floor exercises:** “These strengthen the muscles supporting the bladder and help reduce leakage when you cough, laugh or strain.”
+- **Cervical screening:** “The sample is first tested for high-risk HPV. If HPV is found, the same sample can be checked for cell changes.”
+- **Colposcopy:** “It's a closer look at the cervix using a magnifying instrument. The team may use a dye and take a small sample if an area needs checking.”
+- **Endometriosis:** “Tissue similar to the womb lining is growing outside the womb. It can cause pain and other symptoms depending on where it is.”
+- **Fibroid location:** “Intramural means in the muscle wall, submucosal means growing towards the cavity, and subserosal means growing towards the outside.” Use only the terms relevant to their scan.

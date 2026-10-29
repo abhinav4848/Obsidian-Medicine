@@ -63,21 +63,21 @@ Clarify sleep onset, waking, early waking, non-restorative sleep and daytime imp
 Agree a sleep diary, consistent routine and treatment of cause; persistent insomnia benefits from CBT-I rather than sleep-hygiene advice alone. Hypnotics, if justified, need short duration, lowest effective dose and dependency/falls/driving counselling. Do not issue repeated long-term prescriptions without review.
 ## Example consultation phrases
 ### Mood, risk and unusual experiences
-- **Core depression questions:** “In the last month, have you felt down, depressed or hopeless?” / “Have you lost interest or pleasure in the things you normally do?” (V51, 02:14)
-- **Mood with chronic illness:** “Sometimes living with a condition for a long time can leave people feeling low. Has that been the case for you?” (V51, 05:48)
-- **Ask about suicide:** “When people feel very low, they sometimes feel life isn't worth living or think about ending their life. Has that happened to you?” Follow directly with current thoughts, intent, plans, access to means and safety. (V51, 07:13)
-- **Ask about voices:** “Sometimes people hear voices when there isn't anyone there. Has that ever happened to you?” Explore the experience, distress, commands and associated risk. (V51, 07:30; V52, 17:15)
-- **Explain sensitive questions:** “I'm going to ask a few questions about thoughts and experiences that may feel unusual. These help me understand what you're going through.” (V52, 16:50)
-- **Clarify anxiety:** “What do you mean by feeling anxious? Can you describe that feeling in more detail?” (V52, 02:12)
-- **Coping and substances:** “When people feel worried, they sometimes turn to alcohol, smoking or drugs to cope. Have you tried any of those?” (V52, 05:47)
+- **Core depression questions:** “In the last month, have you felt down, depressed or hopeless?” / “Have you lost interest or pleasure in the things you normally do?”
+- **Mood with chronic illness:** “Sometimes living with a condition for a long time can leave people feeling low. Has that been the case for you?”
+- **Ask about suicide:** “When people feel very low, they sometimes feel life isn't worth living or think about ending their life. Has that happened to you?” Follow directly with current thoughts, intent, plans, access to means and safety.
+- **Ask about voices:** “Sometimes people hear voices when there isn't anyone there. Has that ever happened to you?” Explore the experience, distress, commands and associated risk.
+- **Explain sensitive questions:** “I'm going to ask a few questions about thoughts and experiences that may feel unusual. These help me understand what you're going through.”
+- **Clarify anxiety:** “What do you mean by feeling anxious? Can you describe that feeling in more detail?”
+- **Coping and substances:** “When people feel worried, they sometimes turn to alcohol, smoking or drugs to cope. Have you tried any of those?”
 ### OCD, psychosis and body image
-- **Compulsion:** “What happens if you can't wash your hands when you feel they're dirty?” (V52, 12:01)
-- **Insight:** “You've mentioned hearing these voices. What are your thoughts about why that is happening?” (V52, 23:52)
-- **Treatment expectation:** “Was there anything you thought we could do to help with the voices?” (V52, 24:21)
-- **Legal/forensic context when relevant:** “Have you ever been in trouble with the law, or are there any legal issues going on at the moment?” Explain why it is relevant. (V52, 25:14)
-- **Safe transfer:** “Who can be with you between now and the assessment? Who will help you get there?” (V52, 28:35)
-- **Body image:** “How do you feel about your weight? Does it concern you?” (V53, 02:32)
+- **Compulsion:** “What happens if you can't wash your hands when you feel they're dirty?”
+- **Insight:** “You've mentioned hearing these voices. What are your thoughts about why that is happening?”
+- **Treatment expectation:** “Was there anything you thought we could do to help with the voices?”
+- **Legal/forensic context when relevant:** “Have you ever been in trouble with the law, or are there any legal issues going on at the moment?” Explain why it is relevant.
+- **Safe transfer:** “Who can be with you between now and the assessment? Who will help you get there?”
+- **Body image:** “How do you feel about your weight? Does it concern you?”
 ### Memory and sleep
-- **Relative's account:** “Does your father know you've come today? Have you discussed this with him, and what does he think?” (V53, 16:44)
-- **Dementia:** “It's a term for a continuing decline in memory and other thinking abilities that starts to affect everyday life. There are different causes, so we need to assess what is happening.” (V53, 14:50)
-- **Insomnia:** “When you say you struggle to sleep, what do you mean—getting to sleep, staying asleep, waking too early or waking unrefreshed?” (V53, 25:24)
+- **Relative's account:** “Does your father know you've come today? Have you discussed this with him, and what does he think?”
+- **Dementia:** “It's a term for a continuing decline in memory and other thinking abilities that starts to affect everyday life. There are different causes, so we need to assess what is happening.”
+- **Insomnia:** “When you say you struggle to sleep, what do you mean—getting to sleep, staying asleep, waking too early or waking unrefreshed?”

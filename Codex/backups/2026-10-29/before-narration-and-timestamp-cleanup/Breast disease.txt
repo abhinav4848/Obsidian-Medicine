@@ -1,0 +1,70 @@
+---
+tags: [sca, revision, codex, ai_created]
+source_videos: [67]
+---
+# Breast disease
+**Videos:** 67. Breast Diseases.
+- [[Breast disease#Breast lump: consultation priorities|Breast lump: consultation priorities]]
+- [[Breast disease#Suspected or confirmed breast cancer|Suspected or confirmed breast cancer]]
+- [[Breast disease#Mastitis and breast abscess|Mastitis and breast abscess]]
+- [[Breast disease#Cysts and fibroadenomas|Cysts and fibroadenomas]]
+- [[Breast disease#Nipple discharge|Nipple discharge]]
+- [[Breast disease#Family history and genetic concern|Family history and genetic concern]]
+- [[Breast disease#Breast screening discussion|Breast screening discussion]]
+- [[Breast disease#Example consultation phrases|Example consultation phrases]]
+## Breast lump: consultation priorities
+**First establish:** age; onset, site and growth; pain; relation to periods; pregnancy/lactation; trauma; previous breast disease or imaging. Ask about skin tethering, dimpling or redness, nipple inversion, spontaneous discharge and axillary lumps. Include constitutional symptoms and previous cancer treatment.
+
+Explore the patient's fear directly: “What was your first thought when you found the lump?” Establish why they came today, any delay through fear or embarrassment, and available support. A painful lump can still need cancer assessment.
+
+Offer prompt breast and axillary examination with consent and a chaperone. Describe position, size, consistency, mobility, tenderness, skin/nipple changes and nodes. If infection is suspected, assess observations and systemic illness.
+### Referral decisions
+
+| Finding | Action |
+|---|---|
+| Unexplained breast lump, age **≥30**, with or without pain | Suspected breast cancer pathway referral |
+| Age **≥50**, unilateral nipple discharge, retraction or another concerning nipple change | Suspected cancer pathway referral |
+| Skin changes suggestive of breast cancer, at any age | Consider suspected cancer pathway referral |
+| Unexplained axillary lump, age **≥30** | Consider suspected cancer pathway referral |
+| Unexplained breast lump, age **<30** | Consider non-urgent breast referral; escalate if the clinical findings are suspicious |
+Use the [NICE NG12 breast criteria](https://www.nice.org.uk/guidance/ng12/chapter/recommendations-organised-by-site-of-cancer#breast-cancer). A reassuring previous screening mammogram does not exclude a new symptomatic cancer. Do not delay a needed referral while arranging independent imaging.
+
+**Explain:** “Many breast lumps are benign, but an examination alone cannot reliably tell us what this is. The breast team can examine you and arrange imaging and a sample if needed.” Do not label a mobile lump definitively benign before assessment.
+## Suspected or confirmed breast cancer
+Clarify whether the patient has a new symptom, an abnormal screening result or a confirmed diagnosis. Ask what they have already been told and what they most need from this appointment.
+
+Breast clinic assessment commonly combines clinical examination, mammography/ultrasound and tissue sampling when indicated. An abnormal screening result is a reason for assessment, rather than a diagnosis in itself.
+
+For a confirmed cancer, establish the specialist plan before explaining treatment. Options may include breast-conserving surgery or mastectomy, lymph-node assessment, radiotherapy, chemotherapy, endocrine treatment and targeted therapy according to tumour biology and stage. Avoid predicting their exact treatment or prognosis from the word “cancer” alone.
+
+Address immediate distress, family support, work, body image, sexuality and practical concerns. Offer a breast clinical nurse specialist contact and a follow-up appointment to revisit information. See [[Palliative care]] if the consultation concerns advanced disease.
+## Mastitis and breast abscess
+**Assess:** breastfeeding and feeding pattern; onset of unilateral pain, heat and redness; nipple damage; fever/rigors; focal lump or fluctuance; systemic illness; diabetes/immunosuppression; previous episodes. Non-lactational inflammation also needs clinical assessment.
+
+For uncomplicated lactational mastitis, support normal responsive breastfeeding, attachment and comfortable milk removal. Express enough for comfort if feeding is too painful; avoid forceful massage and unnecessary over-pumping. Offer compatible analgesia and cold compresses. Arrange breastfeeding support.
+
+Review if no improvement within **12–24 hours** of supportive measures, sooner if deteriorating. Bacterial mastitis or systemic illness may need antibiotics using local guidance; review failure to improve within **48 hours** of antibiotics. Persistent or recurrent inflammation needs reassessment, including for an underlying lesion. [NHS mastitis advice](https://www.nhs.uk/conditions/mastitis/).
+
+**Suspected abscess:** urgent same-day breast/surgical assessment for ultrasound and drainage planning; antibiotics alone may be insufficient. Continue breastfeeding/appropriate expressing where feasible with specialist advice. Sepsis or significant systemic deterioration requires emergency hospital care.
+## Cysts and fibroadenomas
+- **Cyst:** may be tender, fluctuate with the cycle or enlarge quickly. Imaging establishes its nature; a symptomatic or large cyst may be aspirated by the breast service.
+- **Fibroadenoma:** often a smooth mobile lump in a younger patient. After a secure specialist diagnosis, observation is often sufficient; growth, symptoms or diagnostic uncertainty can alter management.
+
+For either, discuss the patient's concern and give explicit advice to return for growth, new skin/nipple changes or another new lump. Apply the referral criteria to an undiagnosed lump rather than reassuring from its feel alone.
+## Nipple discharge
+Ask whether spontaneous or only expressed, unilateral/bilateral, single/multiple ducts, bloody/purulent/milky, associated with a lump or nipple eczema, and whether pregnant or breastfeeding. Review relevant medicines and endocrine symptoms for milky discharge.
+
+Spontaneous unilateral, single-duct or bloody discharge requires breast assessment; a lump or concerning nipple/skin change strengthens urgency. Apply the age-specific cancer criteria above, while seeking specialist advice for suspicious presentations outside them. Avoid repeatedly expressing the nipple to monitor discharge.
+## Family history and genetic concern
+Record **both maternal and paternal** histories: relatives affected, relationship, age at diagnosis, bilateral cancers, ovarian cancers, male breast cancer and any known pathogenic variant. Ask whether the affected relative has already had genetic testing; obtaining their result can be useful.
+
+Refer using the [NICE familial breast cancer pathway](https://www.nice.org.uk/guidance/cg164/chapter/Recommendations). Examples warranting secondary-care assessment include a first-degree female relative diagnosed under 40; a first-degree male relative at any age; bilateral breast cancer in a first-degree relative with the first cancer under 50; or the specified combinations of breast/ovarian cancers across close relatives. A known familial mutation needs specialist genetic advice. More complex pedigrees should be discussed rather than dismissed because one example is absent.
+
+Distinguish **risk assessment**, genetic counselling/testing and enhanced surveillance. A strong family history does not itself diagnose cancer. Do not give a precise lifetime risk without an individual assessment; discuss reproductive concerns and the option to defer testing.
+## Breast screening discussion
+In England, routine invitations are generally every **3 years from age 50 up to the 71st birthday**; the first invitation may arrive between 50 and 53. People aged 71 or over can request screening. Explain benefits and limitations, including false positives, missed cancers and overdiagnosis. New symptoms need diagnostic assessment regardless of screening eligibility. [NHS screening invitations](https://www.nhs.uk/tests-and-treatments/breast-screening-mammogram/who-breast-screening-is-for/).
+## Example consultation phrases
+- **Relevant family history:** “Sometimes breast problems can run in families. Has anyone in your family had breast problems of any kind?” Follow with the relationship, diagnosis and age. (V67, 02:56)
+- **Explain assessment:** “I'd like to examine the lump and the rest of the breast, including the glands under the arm. That helps us work out what assessment is needed next.” (V67, 05:42)
+- **Abscess drainage:** “The team may use ultrasound to find the collection and guide drainage of the pus.” (V67, 17:39)
+- For a suspicious lump, use the uncertain-result/cancer discussion wording in [[02 - Consultation settings and challenging scenarios#Example consultation phrases]], matched to what is actually known.

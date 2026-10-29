@@ -50,11 +50,11 @@ Recurrent symptoms need confirmation/speciation and consideration of other vulva
 > [!question] Discuss — access and follow-up
 > Add your local sexual-health referral/self-referral route and result-handling process. These determine who supplies injections, arranges partner notification and confirms follow-up.
 ## Example consultation phrases
-- **Introduce personal questions:** “With symptoms like this, there are a few personal questions I need to ask so I can work out the right care for you.” (V34, 02:44; 10:49)
-- **Respond to a worried question:** “I can understand that these symptoms and results bring up a lot of questions.” Then give a clear answer or explain what is still unknown. (V34, 14:42)
-- **Chlamydia:** “It's a bacterial infection that can be passed on through sexual contact. It can be treated with antibiotics.” (V35, 00:21)
-- **Test of cure versus retesting:** “Most people don't need an immediate test to prove it has cleared, but there are situations where we do arrange one. We may also recommend a later test to look for reinfection.” Apply the follow-up guidance in the clinical section. (V35, 03:38)
-- **Warts and cancer fear:** “The HPV types that usually cause genital warts are different from the high-risk types associated with cancer.” Continue routine screening as indicated; do not imply warts exclude a separate high-risk infection. (V35, 12:07)
+- **Introduce personal questions:** “With symptoms like this, there are a few personal questions I need to ask so I can work out the right care for you.”
+- **Respond to a worried question:** “I can understand that these symptoms and results bring up a lot of questions.” Then give a clear answer or explain what is still unknown.
+- **Chlamydia:** “It's a bacterial infection that can be passed on through sexual contact. It can be treated with antibiotics.”
+- **Test of cure versus retesting:** “Most people don't need an immediate test to prove it has cleared, but there are situations where we do arrange one. We may also recommend a later test to look for reinfection.” Apply the follow-up guidance in the clinical section.
+- **Warts and cancer fear:** “The HPV types that usually cause genital warts are different from the high-risk types associated with cancer.” Continue routine screening as indicated; do not imply warts exclude a separate high-risk infection.
 ## Images to review
 > [!todo] Possible missing image — review
 > **Video:** 35. GUM 2.mp4  

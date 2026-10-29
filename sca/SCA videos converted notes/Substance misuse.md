@@ -60,12 +60,12 @@ Ask permission to discuss risks, reflect ambivalence and connect change to the p
 
 Specify the referral, contact arrangements and review date. Give explicit return instructions for withdrawal, confusion, seizures, breathing problems or deteriorating mental health. Ensure the plan includes children/dependants and a safe way to contact the patient.
 ## Example consultation phrases
-- **View of use:** “What are your thoughts about the amount of alcohol you drink?” (V70, 14:34)
-- **Function/trigger:** “What do you think is the reason for drinking?” / “What has made you seek help at this point?” (V70, 07:14; 08:14)
-- **Withdrawal history:** “What happens when you don't drink for a couple of days?” Ask about actual experience; do not suggest an unsupported trial of stopping if dependence is possible. (V70, 03:31)
-- **Previous attempts:** “Have you tried to cut down before? What did you try, and how did it go?” (V70, 03:31)
-- **Other substances:** “People sometimes use alcohol alongside other drugs or painkillers. Could I ask whether you use anything else?” (V70, 08:23)
-- **CAGE — cut down:** “Have you ever felt you should cut down your drinking?” (V70, 08:51)
-- **CAGE — annoyed:** “Have people annoyed you by criticising your drinking?” (V70, 08:55)
-- **CAGE — guilty:** “Have you ever felt bad or guilty about your drinking?” (V70, 09:03)
-- **CAGE — eye-opener:** “Have you ever needed a drink first thing in the morning to steady yourself or get going?” (V70, 09:08)
+- **View of use:** “What are your thoughts about the amount of alcohol you drink?”
+- **Function/trigger:** “What do you think is the reason for drinking?” / “What has made you seek help at this point?”
+- **Withdrawal history:** “What happens when you don't drink for a couple of days?” Ask about actual experience; do not suggest an unsupported trial of stopping if dependence is possible.
+- **Previous attempts:** “Have you tried to cut down before? What did you try, and how did it go?”
+- **Other substances:** “People sometimes use alcohol alongside other drugs or painkillers. Could I ask whether you use anything else?”
+- **CAGE — cut down:** “Have you ever felt you should cut down your drinking?”
+- **CAGE — annoyed:** “Have people annoyed you by criticising your drinking?”
+- **CAGE — guilty:** “Have you ever felt bad or guilty about your drinking?”
+- **CAGE — eye-opener:** “Have you ever needed a drink first thing in the morning to steady yourself or get going?”

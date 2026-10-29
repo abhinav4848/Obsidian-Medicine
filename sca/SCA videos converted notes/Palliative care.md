@@ -39,6 +39,6 @@ Introduce care-planning discussions sensitively when clinically relevant, checki
 > [!question] Discuss — local prescribing
 > Add your local anticipatory-medicine chart, syringe-pump support and out-of-hours contact route. These details determine the practical prescribing and administration plan.
 ## Example consultation phrases
-- **Today's priority:** “At this particular stage, is there anything worrying you or anything I could help you with?” (V50, 04:31)
-- **Open a discussion about the end:** “You mentioned being worried about what might happen towards the end. Would you like to talk about that?” Follow the patient's cue and readiness. (V50, 08:53)
-- For difficult prognosis questions, use the acknowledge → honest answer → next-step wording in [[02 - Consultation settings and challenging scenarios#Example consultation phrases]].
+- **Today's priority:** “At this particular stage, is there anything worrying you or anything I could help you with?”
+- **Open a discussion about the end:** “You mentioned being worried about what might happen towards the end. Would you like to talk about that?” Follow the patient's cue and readiness.
+- For difficult prognosis questions, use the acknowledge → honest answer → next-step wording in [[02 - Consultation settings and challenging scenarios#Questions you may be asked]].

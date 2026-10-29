@@ -73,23 +73,23 @@ Consider private discussion, safeguarding and the patient's own wishes. If capac
 Useful phrasing: “I can hear how worried you are. I can listen to your concerns and use them to help with care. To share their personal information with you, I need their permission or another lawful reason.”
 ## Example consultation phrases
 ### Abuse, safety and support
-- **Relationship:** “How are things in your relationship?” (V71, 02:40)
-- **Physical abuse:** “Has your partner ever hit you or hurt you?” Ask privately and include other forms of abuse. (V71, 03:21)
-- **Safety:** “Do you feel safe at home?” / “How do you feel about being at home at the moment?” (V71, 18:21)
-- **Validate:** “This is abuse. It is not your fault.” (V71, 10:44)
-- **Abuse by a relative:** “I know this is difficult because it's your own child, but violence, stealing and harming you are not acceptable.” (V71, 19:57)
-- **Children exposed to abuse:** “Because children are in the home, I need to consider their safety as well. I need advice from our safeguarding team about the assessment and support required.” (V71, 13:43)
-- **Explain wider support:** “Social care can help assess care and support needs and connect you with practical services, as well as responding to safeguarding concerns.” (V71, 21:11)
-- **Memory:** “Have you noticed yourself forgetting things you would normally remember? Has anyone else mentioned a change?” (V71, 25:01)
-- **Coordinate care:** “It sounds as though several people could help. Let's see whether we can bring the relevant people together to work out how best to support you.” (V71, 28:44)
+- **Relationship:** “How are things in your relationship?”
+- **Physical abuse:** “Has your partner ever hit you or hurt you?” Ask privately and include other forms of abuse.
+- **Safety:** “Do you feel safe at home?” / “How do you feel about being at home at the moment?”
+- **Validate:** “This is abuse. It is not your fault.”
+- **Abuse by a relative:** “I know this is difficult because it's your own child, but violence, stealing and harming you are not acceptable.”
+- **Children exposed to abuse:** “Because children are in the home, I need to consider their safety as well. I need advice from our safeguarding team about the assessment and support required.”
+- **Explain wider support:** “Social care can help assess care and support needs and connect you with practical services, as well as responding to safeguarding concerns.”
+- **Memory:** “Have you noticed yourself forgetting things you would normally remember? Has anyone else mentioned a change?”
+- **Coordinate care:** “It sounds as though several people could help. Let's see whether we can bring the relevant people together to work out how best to support you.”
 ### Genetics, understanding and choice
-- **Scope of help:** “We can't change our genes, but there may still be things we can do to monitor your health, manage symptoms or discuss choices.” (V72, 03:59)
-- **Genetics referral:** “The clinic can review the family history and discuss the benefits and limitations of testing, tailored to your situation.” (V72, 05:51)
-- **Existing understanding:** “What do you already know about the combined pill [or proposed treatment]?” (V72, 12:30)
-- **Teach-back:** “Just so I know I've explained it clearly, could you tell me the key points we discussed?” (V72, 12:56)
-- **Reasoning:** “What's going through your mind about the options?” (V72, 13:18)
-- **Decision:** “Could you tell me what you've decided?” (V72, 13:38)
+- **Scope of help:** “We can't change our genes, but there may still be things we can do to monitor your health, manage symptoms or discuss choices.”
+- **Genetics referral:** “The clinic can review the family history and discuss the benefits and limitations of testing, tailored to your situation.”
+- **Existing understanding:** “What do you already know about the combined pill [or proposed treatment]?”
+- **Teach-back:** “Just so I know I've explained it clearly, could you tell me the key points we discussed?”
+- **Reasoning:** “What's going through your mind about the options?”
+- **Decision:** “Could you tell me what you've decided?”
 ### Explain an ethical boundary empathetically
-- **A relative requests treatment against a patient's wishes:** “If you chose not to have an injection, we would need to respect your choice rather than your daughter's preference. In the same way, we need to listen to your father's decision.” This assumes the adult has capacity for that decision. (V72, 18:35)
-- **A relative requests confidential information:** “If someone asked for your medical information, we would need your permission or another lawful reason to share it. The same principle applies to your daughter's information.” (V72, 19:18)
-- **Acknowledge the difficulty:** “I can see this feels unfair and isn't the situation you hoped for. I do need to respect our duties to the patient, but let's look at what I can do to help.” (V72, 20:03)
+- **A relative requests treatment against a patient's wishes:** “If you chose not to have an injection, we would need to respect your choice rather than your daughter's preference. In the same way, we need to listen to your father's decision.” This assumes the adult has capacity for that decision.
+- **A relative requests confidential information:** “If someone asked for your medical information, we would need your permission or another lawful reason to share it. The same principle applies to your daughter's information.”
+- **Acknowledge the difficulty:** “I can see this feels unfair and isn't the situation you hoped for. I do need to respect our duties to the patient, but let's look at what I can do to help.”

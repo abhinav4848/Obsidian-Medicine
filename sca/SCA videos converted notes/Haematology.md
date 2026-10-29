@@ -60,18 +60,18 @@ For any anticoagulant, provide alert card, missed-dose instructions specific to 
 
 For known cancer, establish the plan, current toxicity/infection risks, understanding and practical/emotional needs. Explain tests or treatment at the appropriate level and acknowledge uncertainty about prognosis.
 ## Example consultation phrases
-- **Introduce anaemia safety questions:** “When the haemoglobin is low, there are a few questions I need to ask to check how it's affecting you.” Then ask explicitly about chest pain, breathlessness, palpitations and faintness. (V32, 18:24)
-- **Find the cause:** “Let me ask a few questions about possible causes so we can understand why this is happening.” (V32, 10:05)
-- **Explain low iron:** “There isn't enough iron available to make the red blood cells normally.” Link replacement to investigating the underlying cause. (V32, 10:05)
-- **Blood-results transition:** “Let's go through some of your blood test results.” Explain the actual Hb, cell size and iron results in plain language. (V32, 11:08)
-- **Why examine the abdomen:** “The blood result tells us there is anaemia, but we also need to look for its cause. Examining your tummy may give us important clues.” (V32, 07:04)
-- **B12 symptoms:** “Have you noticed any soreness or changes with your tongue?” / “Have you had any problems with your vision?” Also ask about neurological symptoms. (V32, 18:38–18:52)
-- **Dietary B12:** “Foods such as fish, meat, eggs, dairy and fortified cereals can provide B12.” Tailor to diet and cause; food alone may not treat a deficiency. (V32, 21:10)
-- **Dietary folate:** “Green leafy vegetables, lentils, chickpeas and citrus fruit can help increase folate in the diet.” (V32, 25:13)
-- **Spleen:** “The spleen helps remove old blood cells and helps the body fight certain infections. If it isn't working, we need an extra infection-prevention plan.” (V32, 29:02; 33:01)
-- **Warfarin monitoring:** “We use a blood test called the INR to guide the dose. We check more frequently while finding the right dose, and may space the tests out when it is stable.” (V33, 17:22)
-- **Bleeding worry:** “There are treatments that can reverse warfarin when necessary, but any significant bleeding still needs urgent assessment.” (V33, 18:49)
-- **Leukaemia:** “Abnormal blood-forming cells build up in the bone marrow and can affect the production of healthy blood cells.” (V33, 21:26)
-- **Myeloma:** “It affects plasma cells, which are part of the immune system. Abnormal proteins made by these cells can be found in blood or urine tests.” (V33, 29:54)
-- **MGUS and cancer worry:** “The tests have found an abnormal protein made by some plasma cells. MGUS is not cancer, and most people remain well, but monitoring is important because it can occasionally change into another condition.” (V33, 30:11) [Myeloma UK](https://www.myeloma.org.uk/library/monoclonal-gammopathy-of-undetermined-significance-mgus-infosheet/)
-- **Haematology clinic:** “They may recommend more blood tests, scans or a sample from the bone marrow, depending on what the results suggest.” (V33, 32:50)
+- **Introduce anaemia safety questions:** “When the haemoglobin is low, there are a few questions I need to ask to check how it's affecting you.” Then ask explicitly about chest pain, breathlessness, palpitations and faintness.
+- **Find the cause:** “Let me ask a few questions about possible causes so we can understand why this is happening.”
+- **Explain low iron:** “There isn't enough iron available to make the red blood cells normally.” Link replacement to investigating the underlying cause.
+- **Blood-results transition:** “Let's go through some of your blood test results.” Explain the actual Hb, cell size and iron results in plain language.
+- **Why examine the abdomen:** “The blood result tells us there is anaemia, but we also need to look for its cause. Examining your tummy may give us important clues.”
+- **B12 symptoms:** “Have you noticed any soreness or changes with your tongue?” / “Have you had any problems with your vision?” Also ask about neurological symptoms.
+- **Dietary B12:** “Foods such as fish, meat, eggs, dairy and fortified cereals can provide B12.” Tailor to diet and cause; food alone may not treat a deficiency.
+- **Dietary folate:** “Green leafy vegetables, lentils, chickpeas and citrus fruit can help increase folate in the diet.”
+- **Spleen:** “The spleen helps remove old blood cells and helps the body fight certain infections. If it isn't working, we need an extra infection-prevention plan.”
+- **Warfarin monitoring:** “We use a blood test called the INR to guide the dose. We check more frequently while finding the right dose, and may space the tests out when it is stable.”
+- **Bleeding worry:** “There are treatments that can reverse warfarin when necessary, but any significant bleeding still needs urgent assessment.”
+- **Leukaemia:** “Abnormal blood-forming cells build up in the bone marrow and can affect the production of healthy blood cells.”
+- **Myeloma:** “It affects plasma cells, which are part of the immune system. Abnormal proteins made by these cells can be found in blood or urine tests.”
+- **MGUS and cancer worry:** “The tests have found an abnormal protein made by some plasma cells. MGUS is not cancer, and most people remain well, but monitoring is important because it can occasionally change into another condition.” [Myeloma UK](https://www.myeloma.org.uk/library/monoclonal-gammopathy-of-undetermined-significance-mgus-infosheet/)
+- **Haematology clinic:** “They may recommend more blood tests, scans or a sample from the bone marrow, depending on what the results suggest.”

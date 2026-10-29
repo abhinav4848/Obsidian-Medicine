@@ -51,19 +51,19 @@ Assess course, glare, reading/driving, central versus peripheral change, falls, 
 ## Squint and amblyopia
 Ask onset, constancy, diplopia, visual behaviour, headache/neurology and development. Acute/new squint with neurological symptoms or abnormal red reflex needs urgent assessment. Refer childhood squint for visual assessment to prevent amblyopia; glasses, patching/penalisation or surgery are specialist choices. Do not start patching the better eye without a plan.
 ## Example consultation phrases
-- **Visual-acuity test:** “We'll check what you can read on the letter chart, one eye at a time.” (V44, 06:24)
-- **Fluorescein:** “A special dye can help us see scratches or ulcers on the eye's surface.” (V44, 06:24; V45, 14:57)
-- **Conjunctivitis:** “It's inflammation of the thin lining covering the white of the eye and inside the eyelids.” (V44, 12:10)
-- **Squint:** “The two eyes aren't pointing in the same direction.” (V44, 17:50)
-- **Why assess a child's squint:** “If the brain starts relying on one eye more than the other, the vision in the other eye may not develop properly. That's why assessment and treatment matter.” (V44, 19:09)
-- **Subconjunctival haemorrhage:** “A small blood vessel near the surface has bled under the clear lining of the eye. That's the red patch you can see.” Reassure only after excluding trauma and red flags. (V44, 21:56)
-- **Blepharitis:** “It's inflammation around the edges of the eyelids, which can cause irritation and crusting.” (V44, 23:32)
-- **Lid hygiene:** “A comfortably warm compress held over the closed lids, followed by gentle cleaning, can help.” Explain the practical method and review plan. (V44, 24:52)
-- **Retinal artery occlusion:** “I'm worried a blood vessel supplying the eye may be blocked. Sudden loss of vision needs emergency assessment.” (V45, 03:51)
-- **Retinal detachment:** “The light-sensitive lining at the back of the eye is separating from the layer underneath. This needs urgent specialist treatment.” (V45, 08:57)
-- **6/12 vision:** “You can read at six metres what someone with standard vision can read at twelve metres.” (V45, 19:22)
-- **Macular degeneration:** “It affects the central part of the retina, which we use for detailed tasks such as reading and recognising faces.” (V45, 21:14)
-- **Amsler grid:** “This grid helps show whether straight lines look bent, wavy or missing.” (V45, 23:43)
+- **Visual-acuity test:** “We'll check what you can read on the letter chart, one eye at a time.”
+- **Fluorescein:** “A special dye can help us see scratches or ulcers on the eye's surface.”
+- **Conjunctivitis:** “It's inflammation of the thin lining covering the white of the eye and inside the eyelids.”
+- **Squint:** “The two eyes aren't pointing in the same direction.”
+- **Why assess a child's squint:** “If the brain starts relying on one eye more than the other, the vision in the other eye may not develop properly. That's why assessment and treatment matter.”
+- **Subconjunctival haemorrhage:** “A small blood vessel near the surface has bled under the clear lining of the eye. That's the red patch you can see.” Reassure only after excluding trauma and red flags.
+- **Blepharitis:** “It's inflammation around the edges of the eyelids, which can cause irritation and crusting.”
+- **Lid hygiene:** “A comfortably warm compress held over the closed lids, followed by gentle cleaning, can help.” Explain the practical method and review plan.
+- **Retinal artery occlusion:** “I'm worried a blood vessel supplying the eye may be blocked. Sudden loss of vision needs emergency assessment.”
+- **Retinal detachment:** “The light-sensitive lining at the back of the eye is separating from the layer underneath. This needs urgent specialist treatment.”
+- **6/12 vision:** “You can read at six metres what someone with standard vision can read at twelve metres.”
+- **Macular degeneration:** “It affects the central part of the retina, which we use for detailed tasks such as reading and recognising faces.”
+- **Amsler grid:** “This grid helps show whether straight lines look bent, wavy or missing.”
 ## Images to review
 > [!todo] Possible missing image — review
 > **Video:** 44. Ophthal 1.mp4  
