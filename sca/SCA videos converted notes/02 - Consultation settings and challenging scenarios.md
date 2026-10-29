@@ -26,8 +26,7 @@ source_videos: [6, 7, 8, 9, 10]
 - **Callback number:** confirm how to reconnect if the call drops.
 - **Geography:** “Can I just check whereabouts are you calling from right now?”
 - **Clarify the location:** if the answer is “at my mom's house”, ask: “Can I ask where that is?” Establish the actual location, distance from the practice and whether they are abroad; obtain an address if urgent help may be needed.
-- **Appropriateness of time:** “Can I just check if you've a few minutes right now?”
-- **Time:** “Is this a good time to chat?”
+- **Appropriateness of time:** “Can I just check if you've a few minutes right now? Is this a good time to chat?”
 - **Environment and privacy:** establish whether they are at home, at work, in a café or somewhere else; whether anyone can hear the conversation or see the screen; and whether they are comfortable to continue.
 - **Who is present:** identify anyone accompanying them and agree their involvement.
 ### Telephone — build the clinical picture
@@ -38,9 +37,12 @@ Use the usual red flags, psychosocial history and ICE. Ask about relevant findin
 - Can you hear breathlessness or coughing? Say what you have noticed.
 - “Gosh. You sound like you're a little short of breath.”
 - “I can hear you coughing in the background.”
+
 Verbalise empathy and reflect changes in tone; body language cannot carry the response over the telephone.
 - “Mr. X, you do sound a little bit worried.”
 - “Mr. X, I can see this is really difficult for you.”
+
+See [[01c- groundwork- relating to others#Reasoning, relevance and reflection]]
 ### Video — use the additional information
 - Confirm identity, including name, age and date of birth as appropriate, plus geography, a suitable time and a private environment even though you can see them.
 - Look towards the camera regularly to maintain eye contact; avoid continually looking down at the screen or notes.
