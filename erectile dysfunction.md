@@ -27,17 +27,19 @@ That's really good news Mr. X, because everything seems to be working down below
 |---|---|
 |Gradual onset of symptoms  <br>Lack of tumescence  <br>Normal libido|Sudden onset of symptoms  <br>Decreased libido  <br>Good quality spontaneous or self-stimulated erections  <br>Major life events  <br>Problems or changes in a relationship  <br>Previous psychological problems  <br>History of premature ejaculation|
 Other than increasing age, risk factors include:  
-- Cardiovascular disease: Obesity, dyslipidaemia, metabolic syndrome, hypertension, smoking
-- Neurogenic: Parkinson's, MS, Stroke, Diabetes
-- Anatomical: Peyronie's disease, Phimosis, Testicular lump (*At some point, we may need to examine you down below*)
-- Medications: [[ssri|SSRIs]], beta-blockers
+- **Cardiovascular disease**: Obesity, dyslipidaemia, metabolic syndrome, hypertension, smoking
+- **Neurogenic**: Parkinson's, MS, Stroke, Diabetes
+- **Anatomical**: Peyronie's disease, Phimosis, Testicular lump (*At some point, we may need to examine you down below*)
+- **Medications**: [[ssri|SSRIs]], beta-blockers
+
 - [[haemochromatosis]] 
 - [[hypothyroidism]], Hypogonadism
-- Psychogenic: Generalised, Situational when in the act
+- **Psychogenic**: Generalised, Situational when in the act
 Psychosocial
 - Stress (home, work, finances)
 - Relationship: Mentioned to partner? discussed it? Supportive partner? Causing issues? 
 - Alcohol, smoking, recreational drugs (*Certain things in our lifestyle can make erections worse, like... Can I check if you do any of those?*)
+
 Examination
 - CVS, BMI
 - External genitalia, 
@@ -50,14 +52,16 @@ Examination
 	- If any of these are abnormal refer to endocrinology for further assessment. 
 - [[prostate|PSA test]] 
 # Management
-PDE-5 inhibitors (such as [[sildenafil]], 'Viagra' -> Brand name viagra is not available on NHS, Tadalafil, 'Cialis', Vardenafil, 'Levitra')
-- they should be prescribed (in the absence of contraindications) to all patients regardless of aetiology
+PDE-5 inhibitors
+- [[Sildenafil]] (Viagra) -> Brand name. Viagra is not available on NHS. Tadalafil (Cialis), Vardenafil (Levitra). 
+- They should be prescribed (in the absence of contraindications) to all patients regardless of aetiology. 
 - sildenafil can be purchased over-the-counter without a prescription.
-  
-Vacuum erection devices are recommended as first-line treatment in those who can't/won't take a PDE-5 inhibitor. e.g. 
+- C/I: Stroke or MI in the last 6 months. Also avoid if treated with nitrates/nicorandil🚩 #important
+Vacuum erection devices are recommended as first-line treatment in those who can't/won't take a PDE-5 inhibitor. 
 #### Other points
-- for a young man who has always had difficulty achieving an erection, referral to urology is appropriate
+- for a young man who has always had difficulty achieving an erection, referral to urology is appropriate. 
 - people with ED who cycle for more than three hours per week should be advised to stop (Long periods on a bicycle saddle can compress structures in the perineum (especially Pudendal nerve & Penile blood vessels). This can lead to: Numbness ("cyclist's syndrome" #named ), Reduced blood flow, Potential contribution to ED over time. 
+- MCC of ED is vasculogenic (CVD). So advise on the same risk factors. Lifestyle + weight loss advice + smoking/alcohol. 
 #### Side-effects of Meds
 - visual disturbances
     - [[colour & vision changes in body|blue discolouration]]
