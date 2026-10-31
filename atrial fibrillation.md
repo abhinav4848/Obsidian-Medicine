@@ -63,7 +63,7 @@ Preferred in symptomatic patients
 #### ECHO & Anticoagulation
 AF + Valvular Heart disease => Need Anticoagulation regardless of the CHADVASC score being zero. This is why you always need an ECHO to find out if there's a VHD. 
 - You can decide if ECHO needed: high risk of suspicion for underlying structural heart disease (e.g. heart murmur), or functional heart disease (e.g. HF)
-### [[scoring system|Orbit Score]]
+### [[scoring system|Orbit Score]] 
 
 | Risk Factor                 | Criteria                           | Score |
 | --------------------------- | ---------------------------------- | ----- |
