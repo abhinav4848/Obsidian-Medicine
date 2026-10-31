@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "osteoporosis.md",
+                "file": "sca/SCA videos converted notes/02 - Consultation settings and challenging scenarios.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "osteoporosis"
+              "title": "02 - Consultation settings and challenging scenarios"
             }
           }
         ]
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "osteoporo",
+                "query": "copd",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -91,8 +91,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -105,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "osteoporosis.md",
+                "file": "sca/SCA videos converted notes/02 - Consultation settings and challenging scenarios.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "osteoporosis.md",
+                "file": "sca/SCA videos converted notes/02 - Consultation settings and challenging scenarios.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,8 +276,15 @@
   },
   "active": "3bab0649a385eef0",
   "lastOpenFiles": [
-    "diabetes drugs.md",
+    "sca/SCA videos converted notes/Breast disease.md",
+    "sca/SCA videos converted notes/02 - Consultation settings and challenging scenarios.md",
+    "copd- treatment.md",
+    "melanoma.md",
+    "cancer- skin.md",
+    "actinic keratosis.md",
+    "depression.md",
     "osteoporosis.md",
+    "diabetes drugs.md",
     "systemic sclerosis.md",
     "attachments/calcinosis cutis- of thumb.png",
     "vascular ulcers.md",
@@ -296,7 +302,6 @@
     "Codex/backups/2026-10-29/before-02-labelled-example-expansion/Obsidian note preferences.txt",
     "Codex/backups/2026-10-29/before-02-labelled-example-expansion/02 - Consultation settings and challenging scenarios.txt",
     "Codex/backups/2026-10-29/before-02-labelled-example-expansion",
-    "sca/SCA videos converted notes/02 - Consultation settings and challenging scenarios.md",
     "Codex/backups/2026-10-29/02 - Consultation settings and challenging scenarios.before-follow-up-wording.txt",
     "sca/SCA videos converted notes/01c- groundwork- relating to others.md",
     "Codex/backups/2026-10-29/02 - Consultation settings and challenging scenarios.txt",
@@ -309,13 +314,7 @@
     "Codex/backups/2026-10-28/01b- groundwork- management.before-consolidation.md",
     "migraine.md",
     "angina.md",
-    "calcium channel blockers.md",
-    "heart failure.md",
-    "hypertension.md",
     "flow charts/hypertension management.canvas",
-    "Codex/Obsidian note preferences.md",
-    "AGENTS.md",
-    "sca/SCA videos converted notes/01 - SCA consultation skills.md",
     "flow charts/Untitled.canvas",
     "attachments/IMG_20261013_102735_110.jpg",
     "attachments/knee orthopaedic pathologies.png",

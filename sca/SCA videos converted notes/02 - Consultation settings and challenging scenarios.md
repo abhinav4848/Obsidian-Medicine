@@ -49,7 +49,7 @@ See [[01c- groundwork- relating to others#Reasoning, relevance and reflection]]
 - Can they count their pulse or use a smartwatch?
 - Can they show an accessible rash?
 - Can they show the swollen wrist and compare it with the other side?
-- Could showing a result help them follow the explanation? Use only facilities available in the consultation; do not assume screen-sharing is available in the assessment.
+- Could showing a result help them follow the explanation? Use only facilities available in the consultation; do not assume **screen-sharing** is available in the assessment.
 Remote observations and patient measurements may help; they do not replace an examination that is needed.
 ### Assessment and management
 Give the working diagnosis/differentials, offer an explanation and put the issues on the table. Decide whether you need to take the lead. A plan to arrange examination still needs reasoning, logistics, interim care and appropriate follow-up.
