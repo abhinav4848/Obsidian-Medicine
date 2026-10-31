@@ -2,6 +2,8 @@
 tags:
   - endocrine
   - pituitary
+aliases:
+  - raised prolactin
 ---
 # Causes
 - [[Haloperidol]] (Typical anti-psychotic)

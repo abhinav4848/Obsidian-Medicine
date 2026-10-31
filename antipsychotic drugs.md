@@ -25,6 +25,7 @@ Antipsychotics counter the effects of dopamine excess in [[delirium]], psychosis
 **Mechanism**: Many different receptors.  
 **Examples**: Clozapine, Olanzapine, Risperidone, Quetiapine, Aripiprazole
 - Clozapine is 3rd line antipsychotic due to its s/e but 1st line in Parkinson's patients. 
+- Quetiapine is prolactin sparing. Aripiprazole is even safer when [[hyperprolactinemia|raised prolactin]] is a risk
 **Side Effects**: 
 - EPS less common than typicals
 - **Clozapine**: agranulocytosis, neutropenia, [[platelets|thrombocytopenia]], hypersalivation, reduced seizure threshold, myocarditis.
