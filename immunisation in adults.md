@@ -76,7 +76,7 @@ The Department of Health recommends annual influenza vaccination for people >= 6
 #### Influenza vaccine & Asthma
 LAIV ([[vaccine types|live]] attenuated influenza vaccine) can be given to children with well-controlled [[asthma]] or recurrent wheeze. But not to severe asthma or active wheezing because these individuals might be at higher risk for wheezing following vaccination. 
 #### Contraindications
-immunocompromised/<2yo/febrile illness/blocked nose/active wheeze/egg allergy/pregnant/breastfeeding/if child taking aspirin (e.g. Kawasaki disease, due to risk of reye syndrome)
+immunocompromised/<2yo/febrile illness/blocked nose/active wheeze/egg allergy/pregnant/breastfeeding/if child taking aspirin (e.g. [[kawasaki disease]] due to risk of reye syndrome)
 ## From OBG
 Vaccination of Pregnants: Influenza + pertussis (DPT) -> b/w 20 - 32 weeks.
 	Cough and sneeze vaccine #mnemonic 

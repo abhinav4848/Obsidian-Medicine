@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "immunisation in adults.md",
+                "file": "erectile dysfunction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "immunisation in adults"
+              "title": "erectile dysfunction"
             }
           }
         ]
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "influenz",
+                "query": "erectile d",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "immunisation in adults.md",
+                "file": "erectile dysfunction.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "immunisation in adults.md",
+                "file": "erectile dysfunction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,6 +277,10 @@
   },
   "active": "3bab0649a385eef0",
   "lastOpenFiles": [
+    "immunisation in adults.md",
+    "cirrhosis.md",
+    "primary biliary cholangitis & primary sclerosing cholangitis.md",
+    "hyperpigmentation.md",
     "haemophilus influenzae.md",
     "hyperprolactinemia.md",
     "antipsychotic drugs.md",
@@ -307,14 +311,10 @@
     "Codex/backups/2026-10-29/before-02-labelled-example-expansion/02 - Consultation settings and challenging scenarios.txt",
     "Codex/backups/2026-10-29/before-02-labelled-example-expansion",
     "Codex/backups/2026-10-29/02 - Consultation settings and challenging scenarios.before-follow-up-wording.txt",
-    "sca/SCA videos converted notes/01c- groundwork- relating to others.md",
     "Codex/backups/2026-10-29/02 - Consultation settings and challenging scenarios.txt",
     "Codex/backups/2026-10-29/before-02-question-list-revision/Obsidian note preferences.txt",
     "Codex/backups/2026-10-29/before-02-question-list-revision/Palliative care.txt",
     "Codex/backups/2026-10-29/before-02-question-list-revision/Breast disease.txt",
-    "sca/SCA videos converted notes/00 - SCA notes index.md",
-    "sca/SCA videos converted notes/01b- groundwork- management.md",
-    "sca/SCA videos converted notes/01a- data gathering.md",
     "flow charts/hypertension management.canvas",
     "flow charts/Untitled.canvas",
     "attachments/IMG_20261013_102735_110.jpg",

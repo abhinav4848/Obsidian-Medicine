@@ -54,7 +54,7 @@ PDE-5 inhibitors (such as [[sildenafil]], 'Viagra' -> Brand name viagra is not a
 - they should be prescribed (in the absence of contraindications) to all patients regardless of aetiology
 - sildenafil can be purchased over-the-counter without a prescription.
   
-Vacuum erection devices are recommended as first-line treatment in those who can't/won't take a PDE-5 inhibitor.  
+Vacuum erection devices are recommended as first-line treatment in those who can't/won't take a PDE-5 inhibitor. e.g. 
 #### Other points
 - for a young man who has always had difficulty achieving an erection, referral to urology is appropriate
 - people with ED who cycle for more than three hours per week should be advised to stop (Long periods on a bicycle saddle can compress structures in the perineum (especially Pudendal nerve & Penile blood vessels). This can lead to: Numbness ("cyclist's syndrome" #named ), Reduced blood flow, Potential contribution to ED over time. 
