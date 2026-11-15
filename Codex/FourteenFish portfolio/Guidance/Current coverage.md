@@ -8,9 +8,9 @@ status: current snapshot
 ---
 # Current coverage
 ## Tracking instructions
-- Current user-stated maximum links per entry: **2 capabilities** and **3 clinical experience groups**. Record these as the user's working limits, not independently confirmed software limits.
+- Corrected maximum links per entry: **3 capabilities** and **2 clinical experience groups**, confirmed by the user on 15 November 2026. This replaces the earlier reversed limits.
 - Goal for this period: all three visible circles filled grey in every capability column, and green in every clinical experience group column.
-- Select relevant links supported by the entry, using gaps to prioritise between equally suitable choices. Do not add links just to fill a column.
+- Select relevant links supported by the entry, using gaps and earlier proposed allocations to distribute coverage across cases supplied over time. Do not add links just to fill a column. When a gap cannot be addressed by the supplied case, prompt for a suitable type of genuine case instead.
 - No reset date has been supplied. Preserve this snapshot until a confirmed update, and retain it as history when starting a new period.
 - Drafts and suggested links do not automatically change the recorded dashboard counts.
 ## Screenshot and interpretation
@@ -57,5 +57,21 @@ Numbered categories follow the [RCGP clinical experience group list](https://www
 There are **12 unfilled visible clinical experience group slots**. Group **1** is completely empty. Groups 7 and 8 already fill the three displayed slots. Group 9 is for relevant clinical problems that do not fit a specific group; it should not be used simply to fill the remaining slot.
 ## Source limits and updates
 - Checked the user's local capability note first. The missing thirteenth category and clinical experience group names were checked against RCGP sources on 15 November 2026. The original local note was not edited.
-- The RCGP clinical experience FAQ currently describes a maximum of two clinical experience groups per log entry, which differs from the user's stated three. Keep the user's requested working limits as instructed; do not describe them as verified universal platform limits. If a later entry form enforces a different maximum, follow that form and record the difference.
+- The user corrected the reversed limits on 15 November 2026 to three capabilities and two clinical experience groups per entry. The earlier discrepancy with the RCGP clinical experience FAQ is resolved.
 - No pending drafts have been added to the screenshot counts. A later screenshot or confirmed change is needed to update this baseline.
+## Proposed allocations since this snapshot
+Use this planning record to balance links across cases received in separate turns. Proposed allocations do not change the confirmed circle counts above. When estimating remaining opportunities, consider both the confirmed gaps and existing proposals, keeping unsubmitted or unreviewed evidence visibly pending.
+
+| Case or event | Proposed capabilities (max 3) | Proposed experience groups (max 2) | Status and confirmation |
+| --- | --- | --- | --- |
+| No new allocations recorded since the baseline | — | — | Awaiting further cases |
+
+The post-ARCP discussion and teaching entry were drafted before this baseline screenshot. Do not assume they are additional to it or retrospectively add their links to the counts. Add future cases once, update the same row if the selection changes, and record whether links are proposed, confirmed saved, supervisor-reviewed or reflected in an updated dashboard. Do not subtract a proposed link from the confirmed gap count.
+## Prompts for remaining gaps
+Base prompts on the latest confirmed snapshot and proposed allocations; update them as cases arrive. Current useful areas to ask about include:
+- A child or young-person consultation, particularly one with a clinical examination actually performed and reflected on, could support experience group 1 and capability 5 if the account contains that evidence.
+- A case where the user made and discussed a management plan could support clinical management (capability 7).
+- A case involving multimorbidity, competing treatment priorities, uncertainty or coordinated care could support medical complexity (capability 8), with experience groups chosen from the actual patient context.
+- Other underfilled categories should also be considered when relevant, rather than repeatedly allocating only to the largest initial gaps.
+
+These are opportunities to invite real examples, not instructions to make every case fit these categories. A learning-log capability link alone does not establish that a formal CEPS assessment or other required assessment has been completed.
