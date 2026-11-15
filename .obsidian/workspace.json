@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atrial fibrillation.md",
+                "file": "housekeeping/gp portfolio.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "atrial fibrillation"
+              "title": "gp portfolio"
             }
           }
         ]
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chad",
+                "query": "gp capabili",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -91,8 +91,7 @@
               "title": "Web history"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc0aaf324fadf4fd",
@@ -105,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "atrial fibrillation.md",
+                "file": "housekeeping/gp portfolio.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -140,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.36161041259766
+    "width": 278.4568557739258
   },
   "right": {
     "id": "18cd351862e29aca",
@@ -245,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atrial fibrillation.md",
+                "file": "housekeeping/gp portfolio.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,8 +274,23 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3bab0649a385eef0",
+  "active": "676efa40181a3294",
   "lastOpenFiles": [
+    "Codex/FourteenFish portfolio/Guidance/Current coverage.md",
+    "Codex/attachments/FourteenFish portfolio/2026-11-15 Portfolio coverage snapshot.png",
+    "Codex/backups/2026-11-15 FourteenFish teaching before user capability wording revision.txt",
+    "gp patients are getting more complex.md",
+    "sca/SCA mock exam framework.md",
+    "sca/sca- consultation keys.md",
+    "sca/SCA videos converted notes/01c- groundwork- relating to others.md",
+    "sca/SCA videos converted notes/02 - Consultation settings and challenging scenarios.md",
+    "clinic learning/2026-08-10 cases seen.md",
+    "clinic learning/2026-06-25 sca questions.md",
+    "clinic learning/2025-12-31.md",
+    "atrial fibrillation.md",
+    "Codex/backups/2026-11-15 FourteenFish teaching before user wording revision.txt",
+    "Codex/FourteenFish portfolio/Sources/2026-10-10 Teaching context and source.md",
+    "Codex/FourteenFish portfolio/Supporting documentation/2026-10-10 Teaching on bridging physical and mental health.md",
     "Codex/attachments/FourteenFish portfolio/2026-10-10 Bridging physical and mental health teaching.pdf",
     "Codex/attachments/FourteenFish portfolio",
     "Codex/FourteenFish portfolio/Guidance/Writing style and revision learning.md",
@@ -290,7 +304,6 @@
     "Codex/FourteenFish portfolio/Guidance",
     "Codex/FourteenFish portfolio/AGENTS.md",
     "Codex/FourteenFish portfolio",
-    "atrial fibrillation.md",
     "scoring system.md",
     "erectile dysfunction.md",
     "immunisation in adults.md",
@@ -299,22 +312,9 @@
     "hyperpigmentation.md",
     "haemophilus influenzae.md",
     "hyperprolactinemia.md",
-    "antipsychotic drugs.md",
-    "sca/SCA videos converted notes/02 - Consultation settings and challenging scenarios.md",
-    "sca/SCA videos converted notes/Breast disease.md",
-    "copd- treatment.md",
-    "melanoma.md",
-    "cancer- skin.md",
-    "actinic keratosis.md",
-    "depression.md",
-    "osteoporosis.md",
-    "diabetes drugs.md",
     "attachments/calcinosis cutis- of thumb.png",
     "flow charts/cervical cancer screening pathway.canvas",
     "Codex/backups/2026-10-29/drugs contraindicated in pregnancy.txt",
-    "Codex/backups/2026-10-29/drugs contraindicated in pregnancy.before-antibiotics-section.txt",
-    "Codex/backups/2026-10-29/before-02-labelled-example-expansion/Obsidian note preferences.txt",
-    "Codex/backups/2026-10-29/before-02-labelled-example-expansion/02 - Consultation settings and challenging scenarios.txt",
     "flow charts/hypertension management.canvas",
     "flow charts/Untitled.canvas",
     "attachments/IMG_20261013_102735_110.jpg",
@@ -325,7 +325,6 @@
     "attachments/complete heart block with bizarre, wide, inverted t waves (e.g. stokes-adams attack).jpg",
     "attachments/scc.jpg",
     "attachments/uv damaged skin.jpg",
-    "attachments/melasma.jpg",
     "flow charts/postpartum cocp for contraception.canvas",
     "flow charts/h. pylori treatment flowchart.canvas",
     "flow charts/paeds examination.canvas",

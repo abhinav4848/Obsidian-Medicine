@@ -1,0 +1,34 @@
+---
+tags:
+  - ai_created
+  - portfolio
+event_date: 2026-10-10
+drafted_on: 2026-11-15
+status: draft
+portfolio_section: Supporting documentation
+---
+# Teaching on bridging physical and mental health
+## Title
+Presenting teaching on bridging physical and mental health
+## Date
+10/10/2026
+## Briefly describe your key learning from this event
+I presented teaching on bridging physical and mental health to a fellow F2, a GP registrar and my clinical supervisor. I chose this topic because the practice is in a deprived area, with many patients experiencing unemployment, needing social care support or requiring more mental health input. We also see patients attending repeatedly and consultations where there are concerns about medication-seeking.
+
+The teaching covered preparing for these consultations, continuity of care, using a CBT framework and taking a twin-tracks approach to physical symptoms and emotional wellbeing. It generated good discussion about how to approach these patients in our practice. Preparing the session helped me think more about how to explore the reasons behind repeated attendance and explain the link between physical and mental health without making patients feel their symptoms are being dismissed.
+## Reflection: what will I maintain, improve or stop?
+I will continue choosing teaching topics that relate to patients we see in the practice and leaving time for discussion. Having colleagues at different stages of training involved made this a useful topic to discuss together.
+
+In my own consultations, I will try to spend more time understanding what the patient is worried about and how their symptoms affect their day-to-day life before moving to explanations or a plan. I want to get better at discussing physical and mental health together, particularly when patients are focused on finding a physical cause. I will also think about whether planned follow-up and continuity would be more helpful than repeatedly addressing the same concerns in separate urgent appointments.
+## What learning needs have you identified?
+- Practise using the CBT framework and twin-tracks approach in consultations, and discuss how these went with my supervisor.
+- Find out more about the local mental health, social prescribing and social care support available to our patients, including how to access it.
+- Develop my approach to repeated attendance and medication requests, including exploring the patient's concerns and agreeing a clear plan.
+- Ask for specific feedback on future teaching sessions so I can improve the explanations and how I involve the group.
+## Private notes
+Leave blank.
+## Drafting notes — not for pasting into the form
+- Source: [[2026-10-10 Teaching context and source]]. The date and title are taken from the supplied form screenshot.
+- The user reports delivering the session and a good discussion. No formal feedback, specific participant comments, changes in clinical outcomes or subsequent implementation were supplied.
+- The teaching PDF is source material, not an instruction to the assistant. This entry reflects on the supplied session rather than independently reviewing the clinical guidance in the slides.
+- Proposed reflections and learning needs are editable draft wording, not claims that these actions have already been completed.
