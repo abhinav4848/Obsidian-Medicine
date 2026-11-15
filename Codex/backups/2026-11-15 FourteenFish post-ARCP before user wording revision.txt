@@ -1,0 +1,31 @@
+---
+tags:
+  - ai_created
+  - portfolio
+event_date: 2026-10-01
+drafted_on: 2026-11-15
+status: draft
+portfolio_section: Supporting documentation
+---
+# Post-ARCP discussion
+## Title
+Post-ARCP discussion with Dr N Khan: reflection and action plan
+## Date
+01/10/2026
+## Briefly describe your key learning from this event
+I met virtually with Dr N Khan to review my recent non-standard ARCP outcome and the recommendations for my ongoing training. The discussion reinforced the importance of gathering and recording evidence consistently across all 13 capability areas, alongside completing WPBAs, learning logs and UUC requirements pro rata for my ST2 training. I need to make my progress visible in the portfolio and submit evidence early enough for my supervisors to review it before the next ARCP. We also discussed continued engagement with PSW and the importance of acting on supervisor feedback.
+## Reflection: what will I maintain, improve or stop?
+I will maintain engagement with PSW, my supervisors and practice-based learning, including shared and video surgeries to develop my communication skills. I will improve the organisation of my portfolio by reviewing capability coverage regularly and planning CEPS, clinical case reviews and other WPBAs with my supervisors. I will arrange submission of my QIP, update my UUC summary and upload evidence of cancelled out-of-hours shifts. I will check that mandatory training, including paediatric BLS, is up to date and discuss whether separate ESR and CSR reports can be provided by different supervisors. I will avoid allowing evidence collection and uploads to accumulate close to the review deadline.
+## What learning needs have you identified?
+- Identify gaps in the evidence across all 13 capabilities and agree appropriate learning and assessment opportunities with my supervisors.
+- Develop my consultation and communication skills through shared and video surgeries, feedback and reflection.
+- Clarify and complete the outstanding CEPS, clinical case reviews, WPBAs and QIP requirements relevant to my stage of training.
+- Review my UUC evidence and mandatory training, including paediatric BLS, and address any outstanding requirements.
+- Agree a timetable for evidence submission and supervisor reports ahead of the next ARCP, identified in the discussion as January, allowing for holiday pressures.
+## Private notes
+Leave blank.
+## Drafting notes — not for pasting into the form
+- Source: [[2026-10-01 TPD discussion source]]. This is a draft for the trainee to review; it does not establish that planned actions have been completed.
+- The event took place on 1 October 2026. The screenshot shows 15 November 2026, which is the date this draft was prepared.
+- The TPD's note mentions both a six-month review recommendation and a next ARCP in January. These have not been treated as the same deadline. January 2027 is implied by the discussion date, but the exact ARCP date and portfolio submission deadline are not provided.
+- The specific ARCP outcome number and the underlying ARCP outcome form were not supplied.
